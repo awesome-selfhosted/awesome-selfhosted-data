@@ -1,0 +1,10 @@
+name: WiKiss
+website_url: https://wikiss.tuxfamily.org/
+description: Wiki, simple to use and install.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Wikis
+source_code_url: https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0

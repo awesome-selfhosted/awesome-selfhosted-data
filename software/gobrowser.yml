@@ -1,0 +1,9 @@
+name: goBrowser
+website_url: https://github.com/xataz/gobrowser
+description: Simple http file browser.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Web-based File Managers

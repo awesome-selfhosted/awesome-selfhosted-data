@@ -1,0 +1,10 @@
+name: MyBB
+website_url: https://mybb.com/
+description: Free, extensible forum software package.
+licenses:
+  - LGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/mybb/mybb

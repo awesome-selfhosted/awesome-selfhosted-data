@@ -1,0 +1,10 @@
+name: Maza ad blocking
+website_url: https://maza-ad-blocking.andros.dev/
+description: Local ad blocker. Like Pi-hole but local and using your operating system.
+licenses:
+  - Apache-2.0
+platforms:
+  - Bash
+tags:
+  - DNS
+source_code_url: https://github.com/tanrax/maza-ad-blocking

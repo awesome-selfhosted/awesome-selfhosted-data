@@ -1,0 +1,11 @@
+name: twister
+website_url: http://twister.net.co/
+description: Fully decentralized P2P microblogging platform leveraging the free software
+  implementations of Bitcoin and BitTorrent protocols.
+licenses:
+  - MIT
+platforms:
+  - C++
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/miguelfreitas/twister-core

@@ -1,0 +1,10 @@
+name: MediaHut
+website_url: https://github.com/Fortyseven/MediaHut/
+description: A truly single-file, no-database, drop-in PHP media gallery.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Photo and Video Galleries
+demo_url: https://media.Network47.org/

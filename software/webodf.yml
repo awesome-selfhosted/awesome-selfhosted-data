@@ -1,0 +1,10 @@
+name: WebODF
+website_url: https://webodf.org/
+description: Tools and libraries to view and edit Open Document Format (ODF) files.
+licenses:
+  - AGPL-3.0
+platforms:
+  - HTML5
+tags:
+  - Office Suites
+source_code_url: https://github.com/webodf/WebODF

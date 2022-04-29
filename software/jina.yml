@@ -1,0 +1,9 @@
+name: Jina
+website_url: https://github.com/jina-ai/jina/
+description: Cloud-native neural search framework for any kind of data.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Search Engines

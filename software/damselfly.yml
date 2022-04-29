@@ -1,0 +1,12 @@
+name: Damselfly
+website_url: https://damselfly.info
+description: Fast server-based photo management system for large collections of images.
+  Includes face detection, face & object recognition, powerful search, and EXIF Keyword
+  tagging. Runs on Linux, MacOS and Windows.
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - .NET
+tags:
+  - Photo and Video Galleries

@@ -1,0 +1,12 @@
+name: OXID eShop
+website_url: https://oxidforge.org
+description: OXID eShop is a flexible open source e-commerce software with a wide
+  range of functionalities.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/OXID-eSales/oxideshop_ce
+demo_url: https://demoshop.oxid-esales.com/community-edition/

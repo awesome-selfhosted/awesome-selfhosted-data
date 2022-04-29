@@ -1,0 +1,11 @@
+name: cryptonote
+website_url: https://cryptonote.me/
+description: Simple open source web application that lets users encrypt and share
+  messages that can only be read once.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Pastebins
+source_code_url: https://github.com/alainmeier/cryptonote

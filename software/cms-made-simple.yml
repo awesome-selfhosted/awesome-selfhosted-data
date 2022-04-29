@@ -1,0 +1,11 @@
+name: CMS Made Simple
+website_url: https://www.cmsmadesimple.org/
+description: Open source content management system, faster and easier management of
+  website contents, scalable for small businesses to large corporations.
+licenses:
+  - GPL-1.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/

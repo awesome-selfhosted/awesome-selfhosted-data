@@ -1,0 +1,13 @@
+name: h5ai
+website_url: https://larsjung.de/h5ai/
+description: Modern file indexer for HTTP web servers with focus on your files. Directories
+  are displayed in a appealing way and browsing them is enhanced by different views,
+  a breadcrumb and a tree overview.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/lrsjng/h5ai
+demo_url: https://larsjung.de/h5ai/demo/

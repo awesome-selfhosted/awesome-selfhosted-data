@@ -1,0 +1,10 @@
+name: ejabberd
+website_url: https://www.ejabberd.im/
+description: XMPP instant messaging server.
+licenses:
+  - GPL-2.0
+platforms:
+  - Erlang
+tags:
+  - Communication - XMPP - Servers
+source_code_url: https://github.com/processone/ejabberd

@@ -1,0 +1,11 @@
+name: Tracim
+website_url: https://github.com/tracim/tracim
+description: 'Collaborative Platform for team collaboration: file,threads,notes,agenda,etc.'
+licenses:
+  - AGPL-3.0
+  - LGPL-3.0
+  - MIT
+platforms:
+  - Python
+tags:
+  - Groupware

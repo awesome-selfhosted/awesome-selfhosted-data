@@ -1,0 +1,12 @@
+name: Budibase
+website_url: https://www.budibase.com
+description: Build and automate internal tools, admin panels, dashboards, CRUD apps,
+  and more, in minutes. Budibase is the open source alternative to Outsystems, Retool,
+  Mendix, Appian.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/Budibase/budibase

@@ -1,0 +1,10 @@
+name: Polr
+website_url: https://project.polr.me/
+description: Modern, minimalist, modular, and lightweight URL shortener.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/Cydrobolt/polr

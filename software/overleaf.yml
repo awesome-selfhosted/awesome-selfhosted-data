@@ -1,0 +1,10 @@
+name: Overleaf
+website_url: https://www.overleaf.com/
+description: Web-based collaborative LaTeX editor.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/overleaf/overleaf

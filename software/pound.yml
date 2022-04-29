@@ -1,0 +1,9 @@
+name: Pound
+website_url: https://www.apsis.ch/pound.html
+description: Light-weight reverse proxy and load balancer for HTTP/HTTPS.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Proxy

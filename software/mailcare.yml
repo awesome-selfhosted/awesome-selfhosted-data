@@ -1,0 +1,10 @@
+name: MailCare
+website_url: https://mailcare.io
+description: Open source disposable email address service.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://github.com/mailcare/mailcare

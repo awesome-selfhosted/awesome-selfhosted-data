@@ -1,0 +1,10 @@
+name: Hackershare
+website_url: https://github.com/hackershare/hackershare
+description: Social bookmarks website for hackers.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Bookmarks and Link Sharing
+demo_url: https://hackershare.dev

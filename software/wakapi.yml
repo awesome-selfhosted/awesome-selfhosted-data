@@ -1,0 +1,10 @@
+name: Wakapi
+website_url: https://wakapi.dev/
+description: Tracking tool for coding statistics, compatible with WakaTime.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/muety/wakapi

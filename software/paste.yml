@@ -1,0 +1,11 @@
+name: Paste
+website_url: https://phpaste.sourceforge.io/
+description: Paste is forked from the original source pastebin.com used before it
+  was bought.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Pastebins
+source_code_url: https://github.com/jordansamuel/PASTE

@@ -1,0 +1,11 @@
+name: Gogs
+website_url: https://gogs.io/
+description: Painless self-hosted Git Service written in Go.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/gogs/gogs
+demo_url: https://try.gogs.io/

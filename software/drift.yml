@@ -1,0 +1,10 @@
+name: Drift
+website_url: https://github.com/MaxLeiter/drift
+description: Self-hosted Github Gist clone.
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+tags:
+  - Pastebins
+demo_url: https://drift.maxleiter.com/

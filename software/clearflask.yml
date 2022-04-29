@@ -1,0 +1,12 @@
+name: ClearFlask
+website_url: https://clearflask.com
+description: Community-feedback tool for managing incoming feedback and prioritizing
+  a public roadmap. Alternative to Canny, UserVoice, Upvoty.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Polls and Events
+source_code_url: https://github.com/clearflask/clearflask
+demo_url: https://product.clearflask.com

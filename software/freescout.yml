@@ -1,0 +1,10 @@
+name: FreeScout
+website_url: https://github.com/freescout-helpdesk/freescout
+description: 'Open source clone of Help Scout: email-based customer support application,
+  help desk and shared mailbox.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Ticketing

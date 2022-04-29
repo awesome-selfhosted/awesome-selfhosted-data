@@ -1,0 +1,10 @@
+name: Plik
+website_url: https://github.com/root-gg/plik
+description: Plik is a scalable and friendly temporary file upload system.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://plik.root.gg/

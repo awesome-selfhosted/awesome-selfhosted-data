@@ -1,0 +1,12 @@
+name: Localizer
+website_url: https://localizer.dev
+description: Free self-hosted open-source crowd-translating service for your product.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Localization
+source_code_url: https://github.com/backmeupplz/localizer-backend
+demo_url: https://localize.todorant.com

@@ -1,0 +1,9 @@
+name: mkaczanowski pastebin
+website_url: https://github.com/mkaczanowski/pastebin
+description: Simple, fast, feature-rich, standalone pastebin service.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Pastebins

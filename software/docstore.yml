@@ -1,0 +1,12 @@
+name: Docstore
+website_url: https://git.haldean.org/docstore/
+description: Static document hosting without any server-side processing, does not
+  require you to recompile every time you change an article. Clone the repository
+  and add articles in the text/ directory to get started.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Javascript
+tags:
+  - Software Development - Documentation Generators
+source_code_url: https://github.com/haldean/docstore

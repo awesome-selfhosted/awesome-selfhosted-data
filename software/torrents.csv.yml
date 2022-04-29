@@ -1,0 +1,9 @@
+name: Torrents.csv
+website_url: https://codeberg.org/heretic/torrents-csv-server
+description: A self-hostable torrent search engine.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - File Transfer - Peer-to-peer Filesharing

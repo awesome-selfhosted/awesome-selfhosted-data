@@ -1,0 +1,9 @@
+name: LeapChat
+website_url: https://github.com/cryptag/leapchat
+description: Ephemeral, encrypted, in-browser chat rooms.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Communication - Custom Communication Systems

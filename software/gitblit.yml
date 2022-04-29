@@ -1,0 +1,10 @@
+name: Gitblit
+website_url: https://gitblit.github.io/gitblit/
+description: Pure Java stack for managing, viewing, and serving Git repositories.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/gitblit/gitblit

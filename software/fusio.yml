@@ -1,0 +1,12 @@
+name: Fusio
+website_url: https://www.fusio-project.org/
+description: Open-source API management platform which helps to build and manage REST
+  APIs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/apioo/fusio
+demo_url: https://fusio-project.org/demo

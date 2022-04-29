@@ -1,0 +1,11 @@
+name: Cal.com
+website_url: https://cal.com/
+description: The open-source online appointment scheduling system.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Booking and Scheduling
+source_code_url: https://github.com/calcom/cal.com
+demo_url: https://app.cal.com/bailey

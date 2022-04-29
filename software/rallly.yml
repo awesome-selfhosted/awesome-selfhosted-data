@@ -1,0 +1,11 @@
+name: Rallly
+website_url: https://rallly.co
+description: Rallly is an open-source alternative to Doodle that lets you create polls
+  to vote on dates and times.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/lukevella/Rallly

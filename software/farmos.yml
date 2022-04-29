@@ -1,0 +1,10 @@
+name: farmOS
+website_url: https://farmos.org/
+description: Web-based farm record keeping application.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Resource Planning
+source_code_url: https://github.com/farmOS/farmOS

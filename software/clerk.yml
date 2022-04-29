@@ -1,0 +1,10 @@
+name: Clerk
+website_url: https://github.com/AppMini/Clerk
+description: Simple event logger to keep track of periodic events, habits, etc. as
+  they occur.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Polls and Events

@@ -1,0 +1,10 @@
+name: NodeBB
+website_url: https://nodebb.org/
+description: Forum software built for the modern web.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/NodeBB/NodeBB

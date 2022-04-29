@@ -1,0 +1,10 @@
+name: Concrete 5 CMS
+website_url: https://www.concretecms.com
+description: Open source content management system.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/concrete5/concrete5

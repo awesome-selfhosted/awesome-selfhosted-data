@@ -1,0 +1,11 @@
+name: Episodes
+website_url: https://github.com/guptachetan1997/Episodes
+description: Self Hosted TV show Episode tracker and recommender built using django,
+  bootstrap4.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Automation
+depends_3rdparty: true

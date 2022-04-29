@@ -1,0 +1,10 @@
+name: Tinyproxy
+website_url: https://tinyproxy.github.io/
+description: Light-weight HTTP/HTTPS proxy daemon.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Proxy
+source_code_url: https://github.com/tinyproxy/tinyproxy

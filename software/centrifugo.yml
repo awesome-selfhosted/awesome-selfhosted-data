@@ -1,0 +1,10 @@
+name: Centrifugo
+website_url: https://github.com/centrifugal/centrifugo
+description: Language-agnostic real-time messaging (Websocket or SockJS) server.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://github.com/centrifugal/centrifugo#demo

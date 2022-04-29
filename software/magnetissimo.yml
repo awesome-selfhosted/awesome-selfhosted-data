@@ -1,0 +1,9 @@
+name: Magnetissimo
+website_url: https://github.com/sergiotapia/magnetissimo
+description: Search engine that indexes all popular torrent sites.
+licenses:
+  - MIT
+platforms:
+  - Elixir
+tags:
+  - File Transfer - Peer-to-peer Filesharing

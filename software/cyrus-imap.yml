@@ -1,0 +1,10 @@
+name: Cyrus IMAP
+website_url: https://www.cyrusimap.org/
+description: Email (IMAP/POP3), contacts and calendar server.
+licenses:
+  - BSD-3-Clause-Attribution
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Delivery Agents
+source_code_url: 'https://github.com/cyrusimap/cyrus-imapd '

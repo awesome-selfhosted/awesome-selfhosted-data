@@ -1,0 +1,11 @@
+name: Trello Burndown
+website_url: https://github.com/mtricht/trello-burndown
+description: Easy to use SCRUM burndown chart for Trello boards.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Miscellaneous
+depends_3rdparty: true

@@ -1,0 +1,10 @@
+name: s.Status
+website_url: https://github.com/scolastico-dev/s.Status
+description: s.Status is a open source server status page written in java.
+licenses:
+  - MPL-2.0
+platforms:
+  - Java
+tags:
+  - Status / Uptime pages
+demo_url: https://status.scolasti.co/

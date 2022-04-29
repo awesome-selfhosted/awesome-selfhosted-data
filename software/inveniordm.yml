@@ -1,0 +1,13 @@
+name: InvenioRDM
+website_url: https://inveniordm.docs.cern.ch/
+description: Highly scalable turn-key research data management platform with a beautiful
+  user experience.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Document Management - Institutional Repository and Digital Library Software
+source_code_url: https://github.com/inveniosoftware/
+demo_url: https://inveniordm.web.cern.ch/
+related_software_url: https://inveniosoftware.org/products/rdm/

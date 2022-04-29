@@ -1,0 +1,10 @@
+name: elevatorsaga
+website_url: https://play.elevatorsaga.com/
+description: The elevator programming game.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Games
+source_code_url: https://github.com/magwo/elevatorsaga

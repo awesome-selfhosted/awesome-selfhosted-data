@@ -1,0 +1,12 @@
+name: EspoCRM
+website_url: https://www.espocrm.com/
+description: CRM with a frontend designed as a single page application, and a REST
+  API.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Groupware
+source_code_url: https://github.com/espocrm/espocrm
+demo_url: https://demo.espocrm.com/

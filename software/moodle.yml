@@ -1,0 +1,12 @@
+name: Moodle
+website_url: https://moodle.org/
+description: Moodle is a learning and courses platform with one of the largest open
+  source communities worldwide.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Learning and Courses
+source_code_url: https://git.moodle.org/gw
+demo_url: https://moodle.org/demo/

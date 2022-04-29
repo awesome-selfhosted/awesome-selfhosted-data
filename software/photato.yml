@@ -1,0 +1,10 @@
+name: Photato
+website_url: https://github.com/trebonius0/Photato
+description: Self-hosted photo gallery, accessible through a responsive WebUI. Directly
+  uses and indexes a specific folder in the filesystem.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+tags:
+  - Photo and Video Galleries

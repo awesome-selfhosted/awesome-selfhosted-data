@@ -1,0 +1,10 @@
+name: DSpace
+website_url: https://duraspace.org/dspace/
+description: Turnkey repository application providing durable access to digital resources.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Java
+tags:
+  - Document Management - Institutional Repository and Digital Library Software
+source_code_url: https://github.com/DSpace/DSpace

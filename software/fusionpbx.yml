@@ -1,0 +1,11 @@
+name: FusionPBX
+website_url: https://www.fusionpbx.com/
+description: Open source project that provides a customizable and flexible web interface
+  to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH.
+licenses:
+  - MPL-1.1
+platforms:
+  - PHP
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/fusionpbx/fusionpbx

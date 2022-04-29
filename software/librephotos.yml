@@ -1,0 +1,10 @@
+name: LibrePhotos
+website_url: https://github.com/LibrePhotos/librephotos
+description: Self hosted wannabe Google Photos clone, with a slight focus on cool
+  graphs.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Photo and Video Galleries

@@ -1,0 +1,9 @@
+name: Mango
+website_url: https://github.com/hkalexling/Mango
+description: Manga server and web reader with a built-in MangaDex downloader.
+licenses:
+  - MIT
+platforms:
+  - Crystal
+tags:
+  - Document Management - E-books

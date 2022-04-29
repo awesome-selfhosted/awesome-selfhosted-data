@@ -1,0 +1,10 @@
+name: FluxBB
+website_url: https://fluxbb.org/
+description: Fast, light, user-friendly forum software for your website.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/fluxbb/fluxbb

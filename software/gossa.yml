@@ -1,0 +1,9 @@
+name: Gossa
+website_url: https://github.com/pldubouilh/gossa
+description: Gossa is a light and simple webserver for your files.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - File Transfer - Web-based File Managers

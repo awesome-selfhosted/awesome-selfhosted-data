@@ -1,0 +1,9 @@
+name: PassWall
+website_url: https://github.com/passwall/passwall-server
+description: Open source password manager.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Password Managers

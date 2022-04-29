@@ -1,0 +1,11 @@
+name: No Fuss Bookmarks
+website_url: https://nofussbm.herokuapp.com/signup.html
+description: Very simple software and service to store bookmarks especially designed
+  for hackers (that don't need fancy interfaces, but nice API).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Bookmarks and Link Sharing
+source_code_url: https://github.com/mapio/nofussbm

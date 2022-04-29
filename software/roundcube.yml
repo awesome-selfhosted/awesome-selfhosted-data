@@ -1,0 +1,10 @@
+name: Roundcube
+website_url: https://roundcube.net
+description: Browser-based IMAP client with an application-like user interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://github.com/roundcube/roundcubemail

@@ -1,0 +1,11 @@
+name: Notes'n'Todos
+website_url: https://github.com/larspontoppidan/notesntodos
+description: Write notes and todos online in markdown with tag filtering and date
+  sorting.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Note-taking & Editors
+demo_url: https://lpss.dk/nnt-playground/

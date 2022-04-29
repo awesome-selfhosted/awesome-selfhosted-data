@@ -1,0 +1,10 @@
+name: prologic pastebin
+website_url: https://git.mills.io/prologic/pastebin
+description: Simple pastebin service with convenient api and CLI.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Pastebins
+demo_url: https://paste.mills.io

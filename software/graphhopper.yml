@@ -1,0 +1,10 @@
+name: GraphHopper
+website_url: https://graphhopper.com/
+description: Fast routing library and server using OpenStreetMap.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/graphhopper/graphhopper

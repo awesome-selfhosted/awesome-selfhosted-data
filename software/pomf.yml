@@ -1,0 +1,10 @@
+name: Pomf
+website_url: https://github.com/Pomf/Pomf
+description: Simple file uploading and sharing, source for the now shut down site
+  Pomf.se.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

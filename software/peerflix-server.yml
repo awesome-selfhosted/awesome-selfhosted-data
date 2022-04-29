@@ -1,0 +1,10 @@
+name: peerflix-server
+website_url: https://github.com/asapach/peerflix-server
+description: Downloads torrent files and provides a direct link download or a direct
+  link stream.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Peer-to-peer Filesharing

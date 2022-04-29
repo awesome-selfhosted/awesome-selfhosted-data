@@ -1,0 +1,10 @@
+name: gritttt-rss
+website_url: http://gritttt-rss.nicolashoening.de/
+description: More features for Tiny Tiny RSS.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+tags:
+  - Feed Readers
+source_code_url: https://github.com/nhoening/gritttt-rss

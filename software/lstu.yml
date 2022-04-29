@@ -1,0 +1,9 @@
+name: Lstu
+website_url: https://github.com/ldidry/lstu
+description: _Let's SHorten That Url_ - Lightweight URL shortener.
+licenses:
+  - WTFPL
+platforms:
+  - Perl
+tags:
+  - URL Shorteners

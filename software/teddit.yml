@@ -1,0 +1,11 @@
+name: Teddit
+website_url: https://teddit.net
+description: Alternative Reddit front-end focused on privacy.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://codeberg.org/teddit/teddit
+depends_3rdparty: true

@@ -1,0 +1,11 @@
+name: Hastebin
+website_url: https://haste.zneix.eu/about.md
+description: Open source pastebin. (This is a fork with extended maintenance).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Pastebins
+source_code_url: https://github.com/zneix/haste-server
+demo_url: https://haste.zneix.eu

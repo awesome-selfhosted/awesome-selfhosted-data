@@ -1,0 +1,10 @@
+name: Gigablast
+website_url: https://www.gigablast.com/
+description: open source search engine.
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+tags:
+  - Search Engines
+source_code_url: https://github.com/gigablast/open-source-search-engine

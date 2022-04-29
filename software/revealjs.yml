@@ -1,0 +1,11 @@
+name: revealjs
+website_url: https://revealjs.com
+description: Framework for easily creating beautiful presentations using HTML.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/hakimel/reveal.js
+demo_url: https://revealjs.com/

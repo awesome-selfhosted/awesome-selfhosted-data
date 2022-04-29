@@ -1,0 +1,10 @@
+name: Family Accounting Tool
+website_url: https://github.com/nymanjens/facto
+description: Web-based finance management tool for partners with partially shared
+  expenses.
+licenses:
+  - Apache-2.0
+platforms:
+  - Scala
+tags:
+  - Money, Budgeting & Management

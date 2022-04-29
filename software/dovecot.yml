@@ -1,0 +1,11 @@
+name: Dovecot
+website_url: https://www.dovecot.org/
+description: IMAP and POP3 server written primarily with security in mind.
+licenses:
+  - MIT
+  - LGPL-2.1
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Delivery Agents
+source_code_url: https://github.com/dovecot/core

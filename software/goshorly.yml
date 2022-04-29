@@ -1,0 +1,10 @@
+name: goshorly
+website_url: https://git.ucode.space/Phil/goshorly
+description: An easy self-hosted Link shortener in Golang with Redis <3.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - URL Shorteners
+demo_url: https://gly.one

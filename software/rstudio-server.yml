@@ -1,0 +1,11 @@
+name: RStudio Server
+website_url: https://www.rstudio.com/products/rstudio/#Server
+description: Web browser based IDE for R.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - C++
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/rstudio/rstudio

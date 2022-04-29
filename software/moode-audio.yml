@@ -1,0 +1,11 @@
+name: moOde Audio
+website_url: https://moodeaudio.org/
+description: Audiophile-quality music playback for the wonderful Raspberry Pi family
+  of single board computers.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/moode-player/moode

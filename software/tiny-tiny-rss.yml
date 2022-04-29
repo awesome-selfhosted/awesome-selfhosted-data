@@ -1,0 +1,11 @@
+name: Tiny Tiny RSS
+website_url: https://tt-rss.org
+description: Open source web-based news feed (RSS/Atom) reader and aggregator.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+source_code_url: https://git.tt-rss.org/fox/tt-rss
+demo_url: https://srv.tt-rss.org/tt-rss/

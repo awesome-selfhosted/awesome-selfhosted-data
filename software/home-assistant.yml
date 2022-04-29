@@ -1,0 +1,11 @@
+name: Home Assistant
+website_url: https://home-assistant.io/
+description: Open-source home automation platform.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/home-assistant/core
+demo_url: https://home-assistant.io/demo/

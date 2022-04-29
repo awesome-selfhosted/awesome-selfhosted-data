@@ -1,0 +1,11 @@
+name: Inventaire
+website_url: https://inventaire.io/welcome
+description: Collaborative resources mapper project, while yet only focused on exploring
+  books mapping with wikidata and ISBNs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/inventaire/inventaire

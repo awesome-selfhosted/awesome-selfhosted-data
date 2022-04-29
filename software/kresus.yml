@@ -1,0 +1,11 @@
+name: Kresus
+website_url: https://kresus.org/
+description: Open source personal finance manager.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/kresusapp/kresus
+demo_url: https://kresus.org/en/demo.html

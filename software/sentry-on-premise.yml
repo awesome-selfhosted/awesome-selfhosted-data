@@ -1,0 +1,12 @@
+name: Sentry On-Premise
+website_url: https://github.com/getsentry/onpremise
+description: A powerful error tracking platform with wide language support and a robust
+  API.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+  - Django
+tags:
+  - Ticketing
+source_code_url: https://github.com/getsentry/sentry

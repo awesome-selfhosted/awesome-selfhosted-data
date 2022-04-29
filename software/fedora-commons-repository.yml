@@ -1,0 +1,12 @@
+name: Fedora Commons Repository
+website_url: https://fedorarepository.org/
+description: Robust and modular repository system for the management and dissemination
+  of digital content especially suited for digital libraries and archives, both for
+  access and preservation.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Document Management - Institutional Repository and Digital Library Software
+source_code_url: https://github.com/fcrepo/fcrepo

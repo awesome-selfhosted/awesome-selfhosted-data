@@ -1,0 +1,11 @@
+name: Docspell
+website_url: https://docspell.org
+description: Auto-tagging document organizer and archive.
+licenses:
+  - GPL-3.0
+platforms:
+  - Scala
+  - Java
+tags:
+  - Document Management
+source_code_url: https://github.com/eikek/docspell

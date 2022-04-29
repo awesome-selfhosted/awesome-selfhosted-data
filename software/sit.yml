@@ -1,0 +1,10 @@
+name: SIT
+website_url: https://sit.fyi/
+description: SCM-agnostic, file-based, offline-first, immutable issue tracker.
+licenses:
+  - MIT` `Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Ticketing
+source_code_url: https://github.com/sit-fyi/sit

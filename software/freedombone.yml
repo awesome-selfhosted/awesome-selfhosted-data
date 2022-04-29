@@ -1,0 +1,10 @@
+name: FreedomBone
+website_url: https://freedombone.net/
+description: Home server configuration based on Debian.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Shell
+tags:
+  - Self-hosting Solutions
+source_code_url: https://code.freedombone.net/bashrc/freedombone

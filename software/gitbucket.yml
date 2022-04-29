@@ -1,0 +1,11 @@
+name: gitbucket
+website_url: https://gitbucket.github.io/gitbucket-news/
+description: Easily installable GitHub clone powered by Scala.
+licenses:
+  - Apache-2.0
+platforms:
+  - Scala
+  - Java
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/gitbucket/gitbucket

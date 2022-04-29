@@ -1,0 +1,10 @@
+name: CommaFeed
+website_url: https://www.commafeed.com/
+description: Google Reader inspired self-hosted RSS reader.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Feed Readers
+source_code_url: https://github.com/Athou/commafeed

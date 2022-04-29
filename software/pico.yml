@@ -1,0 +1,10 @@
+name: Pico
+website_url: https://picocms.org/
+description: Stupidly simple, blazing fast, flat file CMS.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/picocms/Pico

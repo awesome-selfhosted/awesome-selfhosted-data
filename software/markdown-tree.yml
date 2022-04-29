@@ -1,0 +1,10 @@
+name: markdown-tree
+website_url: https://github.com/mil/markdown-tree
+description: Serve a hierarchy / tree directory of markdown files. Use intended for
+  small sites built in markdown.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Software Development - Documentation Generators

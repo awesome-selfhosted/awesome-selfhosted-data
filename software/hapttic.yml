@@ -1,0 +1,10 @@
+name: Hapttic
+website_url: https://github.com/jsoendermann/hapttic
+description: Simple HTTP server that forwards all requests to a shell script to handle
+  webhooks you receive.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Software Development - API Management

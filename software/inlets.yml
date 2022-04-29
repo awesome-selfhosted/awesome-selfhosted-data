@@ -1,0 +1,11 @@
+name: inlets
+website_url: https://inlets.dev/
+description: Expose your local endpoints to the Internet - with a Kubernetes integration,
+  Docker image and CLI available.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Proxy

@@ -1,0 +1,11 @@
+name: Flarum
+website_url: https://flarum.org
+description: Delightfully simple forums. Flarum is the next-generation forum software
+  that makes online discussion fun again.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/flarum/flarum

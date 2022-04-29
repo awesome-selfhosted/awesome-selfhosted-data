@@ -1,0 +1,10 @@
+name: 0bin
+website_url: https://github.com/Tygs/0bin
+description: Client side encrypted pastebin.
+licenses:
+  - WTFPL
+platforms:
+  - Python
+tags:
+  - Pastebins
+demo_url: https://0bin.net/

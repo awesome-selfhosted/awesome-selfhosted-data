@@ -1,0 +1,9 @@
+name: Sendmail
+website_url: https://www.proofpoint.com/us/products/email-protection/open-source-email-solution
+description: Message transfer agent (MTA).
+licenses:
+  - Sendmail
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Transfer Agents

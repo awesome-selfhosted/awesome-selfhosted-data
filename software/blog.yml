@@ -1,0 +1,11 @@
+name: Blog
+website_url: https://github.com/m1k1o/blog
+description: Facebook-styled blog. Free, extremely lightweight, single-user and easy
+  to install.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+demo_url: https://blog.m1k1o.net/

@@ -1,0 +1,10 @@
+name: Kamailio
+website_url: https://www.kamailio.org/w/
+description: Modular SIP server (registrar/proxy/router/etc).
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/kamailio/kamailio

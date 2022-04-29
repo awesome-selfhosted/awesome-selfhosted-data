@@ -1,0 +1,11 @@
+name: FileGator
+website_url: https://filegator.io/
+description: FileGator is a powerful multi-user file manager with a single page front-end.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/filegator/filegator
+demo_url: https://demo.filegator.io

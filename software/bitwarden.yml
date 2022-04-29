@@ -1,0 +1,11 @@
+name: Bitwarden
+website_url: https://bitwarden.com/
+description: Password manager with webapp, browser extension, and mobile app.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C#
+tags:
+  - Password Managers
+source_code_url: https://github.com/bitwarden/server
+depends_3rdparty: true

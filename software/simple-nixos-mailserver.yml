@@ -1,0 +1,9 @@
+name: Simple NixOS Mailserver
+website_url: https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
+description: Complete mailserver solution leveraging the Nix Ecosystem.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nix
+tags:
+  - Communication - Email - Complete Solutions

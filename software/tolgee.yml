@@ -1,0 +1,12 @@
+name: Tolgee
+website_url: https://tolgee.io
+description: Developer & translator friendly web-based localization platform enabling
+  users to translate directly in the app they develop.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Java
+tags:
+  - Software Development - Localization
+source_code_url: https://github.com/tolgee/server

@@ -1,0 +1,10 @@
+name: Calagator
+website_url: https://calagator.org/
+description: Event aggregator.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Polls and Events
+source_code_url: https://github.com/calagator/calagator

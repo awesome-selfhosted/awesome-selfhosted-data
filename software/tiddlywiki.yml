@@ -1,0 +1,10 @@
+name: TiddlyWiki
+website_url: https://tiddlywiki.com/
+description: Reusable non-linear personal web notebook.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Nodejs
+tags:
+  - Wikis
+source_code_url: https://github.com/Jermolene/TiddlyWiki5

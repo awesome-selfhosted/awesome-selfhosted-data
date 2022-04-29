@@ -1,0 +1,9 @@
+name: ydl_api_ng
+website_url: https://github.com/Totonyus/ydl_api_ng
+description: Simple youtube-dl REST API to launch downloads on a distant server.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Automation

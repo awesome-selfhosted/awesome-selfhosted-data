@@ -1,0 +1,12 @@
+name: Open Food Network
+website_url: https://www.openfoodnetwork.org/
+description: Online marketplace for local food. It enables a network of independent
+  online food stores that connect farmers and food hubs with individuals and local
+  businesses.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Community-Supported Agriculture (CSA)
+source_code_url: https://github.com/openfoodfoundation/openfoodnetwork

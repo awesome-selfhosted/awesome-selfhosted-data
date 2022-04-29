@@ -1,0 +1,11 @@
+name: Vikunja
+website_url: https://vikunja.io/
+description: The to-do app to organize your life.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://kolaente.dev/vikunja/
+demo_url: https://try.vikunja.io/login

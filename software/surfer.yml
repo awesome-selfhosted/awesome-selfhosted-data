@@ -1,0 +1,9 @@
+name: Surfer
+website_url: https://git.cloudron.io/cloudron/surfer
+description: Simple static file server with webui to manage files.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Web-based File Managers

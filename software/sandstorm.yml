@@ -1,0 +1,12 @@
+name: Sandstorm
+website_url: https://sandstorm.io/
+description: Personal server for running self-hosted apps easily and securely.
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+  - Other
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/sandstorm-io/sandstorm
+demo_url: https://demo.sandstorm.io/

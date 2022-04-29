@@ -1,0 +1,11 @@
+name: Musical Artifacts
+website_url: https://musical-artifacts.com/
+description: Helping to catalog, preserve and free the artifacts you need to produce
+  music.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/lfzawacki/musical-artifacts

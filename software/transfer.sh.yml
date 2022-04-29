@@ -1,0 +1,10 @@
+name: transfer.sh
+website_url: https://transfer.sh
+description: Easy file sharing from the command line.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/dutchcoders/transfer.sh

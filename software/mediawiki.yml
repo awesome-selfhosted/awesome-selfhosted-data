@@ -1,0 +1,13 @@
+name: Mediawiki
+website_url: https://www.mediawiki.org/wiki/MediaWiki
+description: MediaWiki is a free and open-source wiki software package written in
+  PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used
+  by hundreds of millions of people each month.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Wikis
+source_code_url: https://phabricator.wikimedia.org/diffusion/MW/
+demo_url: https://en.wikipedia.org/wiki/Main_Page

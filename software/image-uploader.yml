@@ -1,0 +1,10 @@
+name: image-uploader
+website_url: https://github.com/daggy1234/image-uploader
+description: A shareX compatible image uploader built for speed with a web interface
+  and REST API.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

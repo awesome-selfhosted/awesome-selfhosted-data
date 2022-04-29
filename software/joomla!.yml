@@ -1,0 +1,10 @@
+name: Joomla!
+website_url: https://www.joomla.org/
+description: Advanced Content Management System (CMS).
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/joomla/joomla-cms

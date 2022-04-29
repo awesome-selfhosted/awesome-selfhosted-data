@@ -1,0 +1,11 @@
+name: Samvera Hyrax
+website_url: https://samvera.org/
+description: Front-end for the Samvera framework, which itself is a Ruby on Rails
+  application for browsing and managing Fedora-based digital repositories.
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Document Management - Institutional Repository and Digital Library Software
+source_code_url: https://github.com/samvera/hyrax

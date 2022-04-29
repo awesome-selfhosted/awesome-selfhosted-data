@@ -1,0 +1,11 @@
+name: PHPBack
+website_url: https://www.phpback.org
+description: The open source feedback system.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Polls and Events
+source_code_url: https://github.com/ivandiazwm/phpback
+demo_url: https://www.phpback.org/demo/

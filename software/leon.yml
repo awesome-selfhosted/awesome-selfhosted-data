@@ -1,0 +1,10 @@
+name: Leon
+website_url: https://getleon.ai
+description: Open-source personal assistant who can live on your server.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation
+source_code_url: https://github.com/leon-ai/leon

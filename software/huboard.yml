@@ -1,0 +1,11 @@
+name: HuBoard
+website_url: https://github.com/huboard/huboard
+description: Instant project management for your GitHub issues (Connects directly
+  GitHub API).
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Ticketing
+depends_3rdparty: true

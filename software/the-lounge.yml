@@ -1,0 +1,11 @@
+name: The Lounge
+website_url: https://thelounge.chat/
+description: Self-hosted web IRC client.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - IRC
+source_code_url: https://github.com/thelounge/thelounge
+demo_url: https://demo.thelounge.chat/

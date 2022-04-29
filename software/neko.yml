@@ -1,0 +1,11 @@
+name: Neko
+website_url: https://neko.m1k1o.net
+description: A self hosted virtual browser (rabb.it clone) that runs in Docker.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Gateways and Terminal Sharing
+source_code_url: https://github.com/m1k1o/neko

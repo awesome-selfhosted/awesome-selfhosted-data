@@ -1,0 +1,9 @@
+name: MokinToken
+website_url: https://github.com/nexus-uw/mokintoken
+description: Clientside encrypted pastebin using tweetnacl.
+licenses:
+  - Unlicense
+platforms:
+  - PHP
+tags:
+  - Pastebins

@@ -1,0 +1,11 @@
+name: RetroShare
+website_url: https://retroshare.cc
+description: Secured and decentralized communication system. Offers decentralized
+  chat, forums, messaging, file transfer.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/RetroShare/RetroShare

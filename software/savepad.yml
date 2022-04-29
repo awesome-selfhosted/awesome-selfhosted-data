@@ -1,0 +1,9 @@
+name: savepad
+website_url: https://github.com/shelltr/textpad
+description: Minimalist notepad based on notepad.cc.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Note-taking & Editors

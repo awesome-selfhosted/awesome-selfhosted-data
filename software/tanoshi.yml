@@ -1,0 +1,9 @@
+name: Tanoshi
+website_url: https://github.com/faldez/tanoshi
+description: Selfhosted web manga reader with extensions.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Document Management - E-books

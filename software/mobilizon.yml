@@ -1,0 +1,12 @@
+name: Mobilizon
+website_url: https://mobilizon.org
+description: A federated tool that helps you find, create and organise events and
+  groups.
+licenses:
+  - GPL-3.0
+platforms:
+  - Elixir
+tags:
+  - Polls and Events
+source_code_url: https://framagit.org/framasoft/mobilizon/
+demo_url: https://demo.mobilizon.org/

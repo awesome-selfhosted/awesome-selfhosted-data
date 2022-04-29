@@ -1,0 +1,9 @@
+name: Weechat
+website_url: https://weechat.org/
+description: Fast, light and extensible chat client.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Communication - IRC

@@ -1,0 +1,9 @@
+name: librengine
+website_url: https://github.com/liameno/librengine
+description: Private web search engine.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Search Engines

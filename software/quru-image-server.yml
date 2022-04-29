@@ -1,0 +1,12 @@
+name: Quru Image Server
+website_url: https://quruimageserver.com/
+description: High performance dynamically resizing image server offering directory
+  based access control cropping, rotation, color management and other tools.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Photo and Video Galleries
+source_code_url: https://github.com/quru/qis
+demo_url: https://quruimageserver.com

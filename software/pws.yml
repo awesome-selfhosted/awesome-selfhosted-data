@@ -1,0 +1,9 @@
+name: pWS
+website_url: https://github.com/soketi/pws
+description: pWS is a free, open-source Pusher drop-in alternative.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems

@@ -1,0 +1,12 @@
+name: Lancache
+website_url: https://lancache.net
+description: LAN Party game caching made easy.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Shell
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/lancachenet/monolithic
+depends_3rdparty: true

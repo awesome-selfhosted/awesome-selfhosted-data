@@ -1,0 +1,13 @@
+name: formspree
+website_url: https://formspree.io/
+description: Just send your form to our URL and we'll forward it to your email. No
+  PHP, Javascript or sign up required.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/formspree/formspree
+demo_url: https://test.formspree.io/
+depends_3rdparty: true

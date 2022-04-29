@@ -1,0 +1,9 @@
+name: Maildrop
+website_url: https://gitlab.com/markbeeson/maildrop
+description: Disposable email SMTP server, also useful for development.
+licenses:
+  - MIT
+platforms:
+  - Scala
+tags:
+  - Communication - Email - Mail Transfer Agents

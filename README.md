@@ -62,7 +62,7 @@ In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 ## Build the markdown list
 
 ```bash
-make run
+make build
 ```
 
 ## Maintenance tasks

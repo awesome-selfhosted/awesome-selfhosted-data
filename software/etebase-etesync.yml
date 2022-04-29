@@ -1,0 +1,12 @@
+name: Etebase (EteSync)
+website_url: https://www.etebase.com/
+description: End-to-end encrypted and journaled personal information server supporting
+  calendar and contact data, offering its own clients.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Django
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Servers
+source_code_url: https://github.com/etesync/server

@@ -1,0 +1,12 @@
+name: Standard Notes
+website_url: https://standardnotes.com
+description: Simple and private notes app. Protect your privacy while getting more
+  done. That's Standard Notes.
+licenses:
+  - GPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/standardnotes
+demo_url: https://app.standardnotes.org/

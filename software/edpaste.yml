@@ -1,0 +1,9 @@
+name: EdPaste
+website_url: https://github.com/eahlys/EdPaste
+description: Self-hosted pastebin written in Laravel (PHP Framework).
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Pastebins

@@ -1,0 +1,10 @@
+name: Ghost
+website_url: https://ghost.org/
+description: Just a blogging platform.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/TryGhost/Ghost

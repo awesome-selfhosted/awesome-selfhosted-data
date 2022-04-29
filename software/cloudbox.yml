@@ -1,0 +1,12 @@
+name: Cloudbox
+website_url: https://cloudbox.works
+description: Ansible-based solution for rapidly deploying a Docker containerized cloud
+  media server.
+licenses:
+  - GPL-3.0
+platforms:
+  - Shell
+  - Ansible
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/Cloudbox/Cloudbox

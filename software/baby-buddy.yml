@@ -1,0 +1,11 @@
+name: Baby Buddy
+website_url: https://github.com/babybuddy/babybuddy
+description: Helps caregivers track baby sleep, feedings, diaper changes, and tummy
+  time.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+tags:
+  - Personal Dashboards
+demo_url: https://babybuddy.herokuapp.com/

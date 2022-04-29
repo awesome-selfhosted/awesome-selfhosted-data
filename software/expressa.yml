@@ -1,0 +1,10 @@
+name: Expressa
+website_url: https://github.com/thomas4019/expressa
+description: Content Management System for powering database driven websites using
+  JSON schemas. Provides permission management and automatic REST APIs.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Content Management Systems (CMS)

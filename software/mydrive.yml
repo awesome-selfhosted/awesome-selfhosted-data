@@ -1,0 +1,11 @@
+name: myDrive
+website_url: https://github.com/subnub/myDrive
+description: Fully featured online storage solution, upload/download files, photo/video
+  viewer, and more, all through the web client.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - File Transfer & Synchronization
+demo_url: https://mydrive-demo.herokuapp.com/

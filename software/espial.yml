@@ -1,0 +1,9 @@
+name: Espial
+website_url: https://github.com/jonschoning/espial
+description: An open-source, web-based bookmarking server.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Haskell
+tags:
+  - Bookmarks and Link Sharing

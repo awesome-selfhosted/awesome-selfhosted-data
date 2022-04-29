@@ -1,0 +1,10 @@
+name: Bugzilla
+website_url: https://www.bugzilla.org/
+description: General-purpose bugtracker and testing tool originally developed and
+  used by the Mozilla project.
+licenses:
+  - MPL-2.0
+platforms:
+  - Perl
+tags:
+  - Ticketing

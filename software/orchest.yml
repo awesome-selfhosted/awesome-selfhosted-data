@@ -1,0 +1,11 @@
+name: Orchest
+website_url: https://www.orchest.io/
+description: A new kind of IDE for Data Science.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/orchest/orchest
+demo_url: https://cloud.orchest.io

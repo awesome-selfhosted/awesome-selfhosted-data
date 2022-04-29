@@ -1,0 +1,10 @@
+name: SPF Toolbox
+website_url: https://spftoolbox.com
+description: Application to look up DNS records such as SPF, MX, Whois, and more.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - DNS
+source_code_url: https://github.com/charlesabarnes/SPFtoolbox

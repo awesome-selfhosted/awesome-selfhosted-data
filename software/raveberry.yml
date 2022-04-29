@@ -1,0 +1,10 @@
+name: Raveberry
+website_url: https://github.com/raveberry/raveberry
+description: A multi-user music server with a focus on participation.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Python
+tags:
+  - Media Streaming - Audio Streaming
+demo_url: https://demo.raveberry.party/

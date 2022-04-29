@@ -1,0 +1,10 @@
+name: Accent
+website_url: https://www.accent.reviews/
+description: Open-source, self-hosted, developer-oriented translation tool.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Elixir
+tags:
+  - Software Development - Localization
+source_code_url: https://github.com/mirego/accent

@@ -1,0 +1,10 @@
+name: Rocket.Chat
+website_url: https://rocket.chat/
+description: Teamchat solution similar to Gitter.im or Slack.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/RocketChat/Rocket.Chat

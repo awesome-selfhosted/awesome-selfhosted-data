@@ -1,0 +1,10 @@
+name: RSS Merger
+website_url: https://github.com/taophp/rss-merger
+description: PHP script which will take multiple RSS / Atom feeds as input and merge
+  them into a single RSS feed.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers

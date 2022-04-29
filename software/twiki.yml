@@ -1,0 +1,13 @@
+name: TWiki
+website_url: https://twiki.org/
+description: TWiki is a Perl-based structured wiki application, typically used to
+  run a collaboration platform, knowledge or document management system, a knowledge
+  base, or team portal.
+licenses:
+  - GPL-1.0
+platforms:
+  - Perl
+tags:
+  - Wikis
+source_code_url: http://svn.twiki.org/svn/twiki/
+demo_url: https://twiki.org/cgi-bin/view/Sandbox/WebHome

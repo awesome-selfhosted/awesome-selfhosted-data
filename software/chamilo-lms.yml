@@ -1,0 +1,11 @@
+name: Chamilo LMS
+website_url: https://chamilo.org/
+description: Chamilo LMS allows you to create a virtual campus for the provision of
+  online or semi-online training.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/chamilo/chamilo-lms

@@ -1,0 +1,11 @@
+name: Gosora
+website_url: https://gosora-project.com/
+description: Gosora is an ultra-fast and secure forum software written in Go that
+  balances usability with functionality.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/Azareal/Gosora

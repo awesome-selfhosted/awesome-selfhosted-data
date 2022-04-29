@@ -1,0 +1,11 @@
+name: Shopware Community Edition
+website_url: https://shopware.com/community/
+description: PHP based open source e-commerce software made in Germany.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/shopware/platform
+demo_url: https://www.shopware.com/en/test-demo/

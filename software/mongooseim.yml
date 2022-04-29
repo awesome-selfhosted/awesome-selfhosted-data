@@ -1,0 +1,10 @@
+name: MongooseIM
+website_url: https://www.erlang-solutions.com/products/mongooseim.html
+description: Mobile messaging platform with a focus on performance and scalability.
+licenses:
+  - GPL-2.0
+platforms:
+  - Erlang
+tags:
+  - Communication - XMPP - Servers
+source_code_url: https://github.com/esl/MongooseIM

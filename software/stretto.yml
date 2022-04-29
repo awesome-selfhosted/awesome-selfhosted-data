@@ -1,0 +1,11 @@
+name: Stretto
+website_url: https://github.com/benkaiser/stretto
+description: Music player with Youtube/Soundcloud import and iTunes/Spotify discovery.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming
+demo_url: https://next.kaiserapps.com
+related_software_url: https://github.com/benkaiser/stretto-mobile-next

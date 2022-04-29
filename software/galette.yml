@@ -1,0 +1,11 @@
+name: Galette
+website_url: https://galette.eu/dc/
+description: Galette is a membership management web application towards non profit
+  organizations.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://git.tuxfamily.org/galette/galette.git/

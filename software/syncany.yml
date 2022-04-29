@@ -1,0 +1,11 @@
+name: Syncany
+website_url: https://www.syncany.org/
+description: Secure file sync software for arbitrary storage backends, an open-source
+  cloud storage and filesharing application. Securely synchronize your files to any
+  kind of storage.
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+tags:
+  - File Transfer & Synchronization

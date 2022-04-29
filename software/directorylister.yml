@@ -1,0 +1,11 @@
+name: DirectoryLister
+website_url: https://www.directorylister.com/
+description: Simple PHP based directory lister that lists a directory and all its
+  sub-directories and allows you to navigate there within.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/DirectoryLister/DirectoryLister

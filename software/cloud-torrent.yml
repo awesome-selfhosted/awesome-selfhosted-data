@@ -1,0 +1,9 @@
+name: cloud-torrent
+website_url: https://github.com/jpillora/cloud-torrent
+description: Torrent Web Client with HTTP retrievable or streamable downloaded files.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Peer-to-peer Filesharing

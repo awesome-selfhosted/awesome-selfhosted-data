@@ -1,0 +1,13 @@
+name: BigBlueButton
+website_url: https://bigbluebutton.org/
+description: Supports real-time sharing of audio, video, slides (with whiteboard controls),
+  chat, and the screen. Instructors can engage remote students with polling, emojis,
+  and breakout rooms.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Java
+tags:
+  - Conference Management
+source_code_url: https://github.com/bigbluebutton/bigbluebutton
+demo_url: https://demo.bigbluebutton.org/gl

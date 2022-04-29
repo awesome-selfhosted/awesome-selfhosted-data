@@ -1,0 +1,10 @@
+name: Pootle
+website_url: https://pootle.translatehouse.org
+description: Online translation and localization tool.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Software Development - Localization
+source_code_url: https://github.com/translate/pootle

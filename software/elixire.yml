@@ -1,0 +1,11 @@
+name: elixire
+website_url: https://elixi.re
+description: Simple yet advanced screenshot uploading and link shortening service.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://gitlab.com/elixire/elixire
+related_software_url: https://gitlab.com/elixire/elixiremanager

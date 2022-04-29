@@ -1,0 +1,10 @@
+name: Olaris
+website_url: https://gitlab.com/olaris/olaris-server
+description: Olaris is an open-source, community driven, media manager and transcoding
+  server.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Media Streaming - Video Streaming

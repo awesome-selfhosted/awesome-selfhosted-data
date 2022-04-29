@@ -1,0 +1,10 @@
+name: ZNC
+website_url: https://wiki.znc.in/ZNC
+description: Advanced IRC bouncer.
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+tags:
+  - Communication - IRC
+source_code_url: https://github.com/znc/znc

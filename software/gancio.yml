@@ -1,0 +1,11 @@
+name: Gancio
+website_url: https://gancio.org/
+description: A shared agenda for local communities.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Polls and Events
+source_code_url: https://framagit.org/les/gancio
+demo_url: https://demo.gancio.org/

@@ -1,0 +1,13 @@
+name: Photoview
+website_url: https://photoview.github.io/
+description: A simple and user-friendly Photo Gallery for personal servers. It is
+  made for photographers and aims to provide an easy and fast way to navigate directories,
+  with thousands of high resolution photos.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Photo and Video Galleries
+source_code_url: https://github.com/photoview/photoview
+demo_url: https://photos.qpqp.dk/

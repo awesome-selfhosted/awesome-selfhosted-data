@@ -1,0 +1,11 @@
+name: SharpPaste
+website_url: https://github.com/phonicmouse/SharpPaste
+description: Cross-platform C# pastebin with client-side AES-256 encryption that just
+  works.
+licenses:
+  - MIT
+platforms:
+  - C#
+  - NancyFX
+tags:
+  - Pastebins

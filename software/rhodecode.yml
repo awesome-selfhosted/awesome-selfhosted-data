@@ -1,0 +1,11 @@
+name: RhodeCode
+website_url: https://rhodecode.com/
+description: RhodeCode is an open source platform for software development teams.
+  It unifies and simplifies repository management for Git, Subversion, and Mercurial.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Software Development - Project Management
+source_code_url: https://code.rhodecode.com/

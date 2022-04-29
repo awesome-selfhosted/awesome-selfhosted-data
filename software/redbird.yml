@@ -1,0 +1,10 @@
+name: Redbird
+website_url: https://github.com/OptimalBits/redbird
+description: A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt,
+  and Docker support.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Javascript
+tags:
+  - Proxy

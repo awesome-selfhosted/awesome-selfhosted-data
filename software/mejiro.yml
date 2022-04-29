@@ -1,0 +1,9 @@
+name: Mejiro
+website_url: https://github.com/dmpop/mejiro
+description: An easy-to-use PHP web application for instant photo publishing.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Photo and Video Galleries

@@ -1,0 +1,10 @@
+name: todo
+website_url: https://git.mills.io/prologic/todo
+description: Simple todo list manager.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Task Management & To-do Lists
+demo_url: https://todo.mills.io

@@ -1,0 +1,11 @@
+name: Nitter
+website_url: https://nitter.net
+description: A alternative front end to twitter.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nimble
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/zedeus/nitter
+depends_3rdparty: true

@@ -1,0 +1,10 @@
+name: GNU FM
+website_url: https://gnu.io/fm/
+description: Running music community websites, alternative to last.fm.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://git.savannah.gnu.org/cgit/librefm.git/

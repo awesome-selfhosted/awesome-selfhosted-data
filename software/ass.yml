@@ -1,0 +1,10 @@
+name: ass
+website_url: https://github.com/tycrek/ass
+description: The superior self-hosted ShareX server. For use with clients such as
+  ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS).
+licenses:
+  - ISC
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

@@ -1,0 +1,10 @@
+name: Taskord
+website_url: https://taskord.com
+description: Get things done socially with community of makers.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://gitlab.com/yo/taskord

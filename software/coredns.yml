@@ -1,0 +1,10 @@
+name: CoreDNS
+website_url: https://coredns.io/
+description: Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - DNS
+source_code_url: https://github.com/coredns/coredns

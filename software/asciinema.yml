@@ -1,0 +1,11 @@
+name: asciinema
+website_url: https://github.com/asciinema/asciinema-server
+description: Web app for hosting asciicasts.
+licenses:
+  - Apache-2.0
+platforms:
+  - Elixir
+  - Docker
+tags:
+  - Gateways and Terminal Sharing
+demo_url: https://asciinema.org/

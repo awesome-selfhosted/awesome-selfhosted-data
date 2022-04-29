@@ -1,0 +1,10 @@
+name: s3server
+website_url: https://github.com/jessfraz/s3server
+description: Simple HTTP interface to index and browse files in a public S3 or Google
+  Cloud Storage bucket.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - File Transfer - Web-based File Managers

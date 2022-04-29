@@ -1,0 +1,10 @@
+name: Open Source POS
+website_url: https://www.opensourcepos.org/
+description: Open Source Point of Sale is a web based point of sale system.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/opensourcepos/opensourcepos

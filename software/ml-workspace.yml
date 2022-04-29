@@ -1,0 +1,9 @@
+name: ML Workspace
+website_url: https://github.com/ml-tooling/ml-workspace
+description: All-in-one web-based IDE for machine learning and data science.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - IDE & Tools

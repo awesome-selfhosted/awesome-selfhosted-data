@@ -1,0 +1,10 @@
+name: openHAB
+website_url: https://www.openhab.org
+description: Vendor and technology agnostic open source software for home automation.
+licenses:
+  - EPL-2.0
+platforms:
+  - Java
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/openhab/openhab-core

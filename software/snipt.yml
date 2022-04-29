@@ -1,0 +1,9 @@
+name: snipt
+website_url: https://github.com/nicksergeant/snipt
+description: Long-term memory for coders. Share and store code snippets.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Pastebins

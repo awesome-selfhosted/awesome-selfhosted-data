@@ -1,0 +1,9 @@
+name: MiniNote
+website_url: https://github.com/muety/mininote
+description: Simple Markdown note-taking app with persistence.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Note-taking & Editors

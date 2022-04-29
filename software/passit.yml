@@ -1,0 +1,12 @@
+name: PassIt
+website_url: https://passit.io/
+description: Simple password manage with sharing features by group and user, but no
+  administration interface.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Password Managers
+source_code_url: https://gitlab.com/passit
+demo_url: https://app.passit.io/

@@ -1,0 +1,10 @@
+name: schnack
+website_url: https://github.com/schn4ck/schnack
+description: Schnack is simple self-hosted node app for Disqus-like drop-in commenting
+  on static websites.
+licenses:
+  - LIL-1.0
+platforms:
+  - Node.js
+tags:
+  - Communication - Social Networks and Forums

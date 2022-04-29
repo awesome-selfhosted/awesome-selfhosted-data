@@ -1,0 +1,12 @@
+name: Snikket
+website_url: https://snikket.org/
+description: All-in-one Dockerized easy XMPP solution, including web admin and clients.
+licenses:
+  - Apache-2.0
+platforms:
+  - Lua
+  - Python
+tags:
+  - Communication - XMPP - Servers
+source_code_url: https://github.com/snikket-im/snikket-server
+related_software_url: https://snikket.org/app/

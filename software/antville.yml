@@ -1,0 +1,11 @@
+name: Antville
+website_url: https://antville.org
+description: Free, open source project aimed at the development of a high performance,
+  feature rich weblog hosting software.
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/antville/antville

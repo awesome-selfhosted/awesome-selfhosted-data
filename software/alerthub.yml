@@ -1,0 +1,10 @@
+name: AlertHub
+website_url: https://github.com/Ardakilic/alerthub
+description: AlertHub is a simple tool to get alerted from GitHub releases.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+depends_3rdparty: true

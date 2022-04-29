@@ -1,0 +1,12 @@
+name: Zusam
+website_url: https://zusam.org
+description: Free and open-source way to self-host private forums for groups of friends
+  or family.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/zusam/zusam
+demo_url: https://demo.zusam.org

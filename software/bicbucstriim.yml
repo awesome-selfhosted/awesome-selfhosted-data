@@ -1,0 +1,10 @@
+name: BicBucStriim
+website_url: https://projekte.textmulch.de/bicbucstriim/
+description: Provides web-based access to your Calibre Library's e-book collection.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/rvolz/BicBucStriim

@@ -1,0 +1,11 @@
+name: Odoo
+website_url: https://www.odoo.com
+description: Free open source ERP system.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Python
+tags:
+  - Resource Planning - Enterprise Resource Planning
+source_code_url: https://github.com/odoo/odoo
+demo_url: https://demo.odoo.com/

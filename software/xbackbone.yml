@@ -1,0 +1,10 @@
+name: XBackBone
+website_url: https://github.com/SergiX44/XBackBone
+description: A simple, fast and lightweight file manager with instant sharing tools
+  integration, like ShareX (a free and open-source screenshot utility for Windows).
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

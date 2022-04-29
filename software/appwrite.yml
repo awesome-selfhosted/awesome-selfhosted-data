@@ -1,0 +1,10 @@
+name: Appwrite
+website_url: https://appwrite.io
+description: End to end backend server for web, native, and mobile developers 🚀.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+tags:
+  - Software Development - FaaS & Serverless
+source_code_url: https://github.com/appwrite/appwrite

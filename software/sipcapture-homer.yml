@@ -1,0 +1,11 @@
+name: SIPCAPTURE Homer
+website_url: https://www.sipcapture.org/
+description: Troubleshooting and monitoring VoIP calls.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Angular
+  - C
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/sipcapture/homer

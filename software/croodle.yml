@@ -1,0 +1,10 @@
+name: Croodle
+website_url: https://github.com/jelhan/croodle
+description: Croodle is an end-to-end encrypted web application to schedule a date
+  or to do a poll on any topic.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Polls and Events

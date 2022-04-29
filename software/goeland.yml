@@ -1,0 +1,9 @@
+name: Goeland
+website_url: https://github.com/slurdge/goeland
+description: Reads RSS/Atom feeds and filter/digest them to create beautiful emails.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Feed Readers

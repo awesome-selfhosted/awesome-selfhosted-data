@@ -1,0 +1,9 @@
+name: Supysonic
+website_url: https://github.com/spl0k/supysonic
+description: Python implementation of the Subsonic server API.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Media Streaming - Audio Streaming

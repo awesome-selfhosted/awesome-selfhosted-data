@@ -1,0 +1,10 @@
+name: Cypht
+website_url: https://cypht.org
+description: Feed reader for your email accounts.
+licenses:
+  - LGPL-2.1
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://github.com/jasonmunro/cypht

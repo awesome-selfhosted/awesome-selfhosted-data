@@ -1,0 +1,11 @@
+name: LinkPage
+website_url: https://links.zrd.sh
+description: LinkPage is a FOSS self-hosted alternative to link listing websites such
+  as LinkTree and Campsite.bio.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Go
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/rhnvrm/linkpage

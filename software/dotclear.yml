@@ -1,0 +1,10 @@
+name: Dotclear
+website_url: https://dotclear.org/
+description: Take control over your blog.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+source_code_url: https://hg.dotclear.org/dotclear

@@ -1,0 +1,10 @@
+name: TileServer PHP
+website_url: https://www.maptiler.com/server/
+description: Serve map tiles from any PHP hosting.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - PHP
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/maptiler/tileserver-php

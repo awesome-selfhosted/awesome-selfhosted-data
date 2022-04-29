@@ -1,0 +1,13 @@
+name: Framadate
+website_url: https://framadate.org/
+description: 'Online service for planning an appointment or make a decision quickly
+  and easily: Make a poll, Define dates or subjects to choose, Send the poll link
+  to your friends or colleagues, Discuss and make a decision.'
+licenses:
+  - CECILL-B
+platforms:
+  - PHP
+tags:
+  - Polls and Events
+source_code_url: https://git.framasoft.org/framasoft/framadate
+demo_url: https://framadate.org/aqg259dth55iuhwm

@@ -1,0 +1,9 @@
+name: Cherry
+website_url: https://github.com/rafael-santiago/cherry
+description: Tiny webchat server.
+licenses:
+  - GPL-2.0
+platforms:
+  - Go
+tags:
+  - Communication - Custom Communication Systems

@@ -1,0 +1,9 @@
+name: Gollum
+website_url: https://github.com/gollum/gollum
+description: Simple, Git-powered wiki with a sweet API and local frontend.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Wikis

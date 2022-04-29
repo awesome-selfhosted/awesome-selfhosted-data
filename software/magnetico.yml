@@ -1,0 +1,10 @@
+name: Magnetico
+website_url: https://github.com/boramalper/magnetico
+description: Magnetico is the first autonomous (self-hosted) BitTorrent DHT search
+  engine suite that is designed for end-users.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - File Transfer - Peer-to-peer Filesharing

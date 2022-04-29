@@ -1,0 +1,10 @@
+name: GetSimple CMS
+website_url: http://get-simple.info/
+description: The Simplest Content Management System. Ever.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/GetSimpleCMS/GetSimpleCMS

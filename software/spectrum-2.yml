@@ -1,0 +1,11 @@
+name: Spectrum 2
+website_url: https://spectrum.im/
+description: Spectrum 2 is an open source instant messaging transport.  It allows
+  users to chat together even when they are using different IM networks.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/SpectrumIM/spectrum2

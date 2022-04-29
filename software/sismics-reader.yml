@@ -1,0 +1,12 @@
+name: Sismics Reader
+website_url: https://www.sismics.com/reader/
+description: Free and open source feeds reader, including all major Google Reader
+  features.
+licenses:
+  - GPL-2.0
+platforms:
+  - Java
+tags:
+  - Feed Readers
+source_code_url: https://github.com/sismics/reader
+demo_url: https://www.sismics.com/reader/#!/demo

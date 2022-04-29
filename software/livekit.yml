@@ -1,0 +1,11 @@
+name: LiveKit
+website_url: https://livekit.io/
+description: Modern, scalable WebRTC conferencing platform with client SDKs.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/livekit/livekit-server
+demo_url: https://livekit.io/playground

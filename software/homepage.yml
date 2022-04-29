@@ -1,0 +1,10 @@
+name: Homepage
+website_url: https://github.com/tomershvueli/homepage
+description: Simple, standalone, self-hosted PHP page that is your window to your
+  server and the web.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Personal Dashboards

@@ -1,0 +1,11 @@
+name: Magento
+website_url: https://magento.com/
+description: Leading provider of open omnichannel innovation.
+licenses:
+  - OSL-3.0
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/magento/magento2
+demo_url: https://magento.com/schedule-a-demo

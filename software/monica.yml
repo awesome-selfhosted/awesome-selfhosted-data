@@ -1,0 +1,11 @@
+name: Monica
+website_url: https://monicahq.com/
+description: Personal relationship manager, and a new kind of CRM to organize interactions
+  with your friends and family.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/monicahq/monica

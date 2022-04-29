@@ -1,0 +1,14 @@
+name: üWave
+website_url: https://u-wave.net/
+description: üWave is a self-hosted collaborative listening platform. Users take turns
+  playing media—songs, talks, gameplay videos, or anything else—from a variety of
+  media sources like YouTube and SoundCloud.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Multimedia Streaming
+source_code_url: https://github.com/u-wave
+demo_url: https://wlk.yt/
+depends_3rdparty: true

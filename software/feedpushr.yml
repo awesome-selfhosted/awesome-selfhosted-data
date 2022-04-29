@@ -1,0 +1,10 @@
+name: Feedpushr
+website_url: https://github.com/ncarlier/feedpushr
+description: Powerful RSS aggregator, able to transform and send articles to many
+  outputs. Single binary, extensible with plugins.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Feed Readers

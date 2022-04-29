@@ -1,0 +1,12 @@
+name: XWiki
+website_url: https://www.xwiki.org
+description: Second generation wiki that allows the user to extend its functionalities
+  with a powerful extension-based architecture.
+licenses:
+  - LGPL-2.1
+platforms:
+  - Java
+tags:
+  - Wikis
+source_code_url: https://github.com/xwiki/xwiki-platform
+demo_url: https://playground.xwiki.org

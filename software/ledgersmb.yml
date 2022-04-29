@@ -1,0 +1,13 @@
+name: LedgerSMB
+website_url: https://ledgersmb.org/
+description: Integrated accounting and ERP system for small and midsize businesses,
+  with double entry accounting, budgeting, invoicing, quotations, projects, orders
+  and inventory management, shipping and more.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Resource Planning - Enterprise Resource Planning
+source_code_url: https://github.com/ledgersmb/LedgerSMB
+demo_url: https://demo.cloud.efficito.com/erp/1.5/login.pl

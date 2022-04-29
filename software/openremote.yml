@@ -1,0 +1,12 @@
+name: OpenRemote
+website_url: https://openremote.io
+description: 100% Open Source IoT Platform - IoT Asset management, Flow Rules and
+  WHEN-THEN rules, Data visualization, Edge Gateway.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/openremote/openremote
+demo_url: https://demo.openremote.io/

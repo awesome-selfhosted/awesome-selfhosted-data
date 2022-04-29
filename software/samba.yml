@@ -1,0 +1,12 @@
+name: Samba
+website_url: https://www.samba.org/
+description: Samba is the standard Windows interoperability suite of programs for
+  Linux and Unix. It provides secure, stable and fast file and print services for
+  all clients using the SMB/CIFS protocol.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://git.samba.org/samba.git/

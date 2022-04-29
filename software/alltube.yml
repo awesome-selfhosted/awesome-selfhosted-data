@@ -1,0 +1,11 @@
+name: Alltube
+website_url: https://www.alltubedownload.net
+description: Web interface for [youtube-dl](https://github.com/ytdl-org/youtube-dl),
+  a program to download videos and audio from [more than 100 websites](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Automation
+source_code_url: https://github.com/Rudloff/alltube

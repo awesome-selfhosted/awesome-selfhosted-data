@@ -1,0 +1,9 @@
+name: Streama
+website_url: https://github.com/streamaserver/streama
+description: Self hosted streaming media server.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Media Streaming - Video Streaming

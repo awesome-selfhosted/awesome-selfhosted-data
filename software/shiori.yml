@@ -1,0 +1,9 @@
+name: Shiori
+website_url: https://github.com/go-shiori/shiori
+description: Simple bookmark manager built with Go.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Bookmarks and Link Sharing

@@ -1,0 +1,10 @@
+name: ReleaseBell
+website_url: https://releasebell.com/
+description: Send release notifications for starred Github repos.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+source_code_url: https://git.cloudron.io/cloudron/releasebell

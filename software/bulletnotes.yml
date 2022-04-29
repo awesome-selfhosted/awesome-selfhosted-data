@@ -1,0 +1,11 @@
+name: BulletNotes
+website_url: https://bulletnotes.io/
+description: Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality.
+  Organize everything.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Note-taking & Editors
+source_code_url: https://gitlab.com/NickBusey/BulletNotes

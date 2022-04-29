@@ -1,0 +1,10 @@
+name: Gladys
+website_url: https://gladysassistant.com/
+description: Gladys is a privacy-first, open-source home assistant.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/GladysAssistant/Gladys

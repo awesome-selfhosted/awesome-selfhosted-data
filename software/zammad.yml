@@ -1,0 +1,10 @@
+name: Zammad
+website_url: https://zammad.org/
+description: Easy to use but powerful open-source support and ticketing system.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Ticketing
+source_code_url: https://github.com/zammad/zammad

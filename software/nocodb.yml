@@ -1,0 +1,11 @@
+name: NocoDB
+website_url: https://www.nocodb.com/
+description: No-code platform that turns any database into a smart spreadsheet. It
+  can be considered as an Airtable or Smartsheet alternative.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Automation
+source_code_url: https://github.com/nocodb/nocodb

@@ -1,0 +1,11 @@
+name: Saleor
+website_url: https://saleor.io
+description: Django based open-sourced e-commerce storefront.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - E-commerce
+source_code_url: https://github.com/mirumee/saleor
+demo_url: https://demo.getsaleor.com/

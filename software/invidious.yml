@@ -1,0 +1,10 @@
+name: Invidious
+website_url: https://github.com/iv-org/invidious
+description: '`⚠` Invidious is an alternative front-end to YouTube.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Crystal
+tags:
+  - Media Streaming - Video Streaming
+demo_url: https://docs.invidious.io/instances/

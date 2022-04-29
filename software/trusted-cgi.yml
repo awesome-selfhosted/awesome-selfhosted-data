@@ -1,0 +1,10 @@
+name: Trusted-CGI
+website_url: https://github.com/reddec/trusted-cgi
+description: Lightweight self-hosted lambda/applications/cgi/serverless-functions
+  platform.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Software Development - FaaS & Serverless

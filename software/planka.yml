@@ -1,0 +1,11 @@
+name: Planka
+website_url: https://planka.app/
+description: Open source Trello alternative.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/plankanban/planka
+demo_url: https://plankanban.github.io/planka/#/

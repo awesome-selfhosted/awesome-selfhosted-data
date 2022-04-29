@@ -1,0 +1,11 @@
+name: Thelia
+website_url: https://thelia.net/
+description: Thelia is an open source and flexible e-commerce solution.
+licenses:
+  - LGPL-3.0
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/thelia/thelia
+demo_url: https://demo.thelia.net/

@@ -1,0 +1,10 @@
+name: blocky
+website_url: https://github.com/0xERR0R/blocky
+description: Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local
+  network with many features.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - DNS

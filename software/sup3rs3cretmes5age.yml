@@ -1,0 +1,10 @@
+name: Sup3rS3cretMes5age
+website_url: https://github.com/algolia/sup3rS3cretMes5age
+description: Very simple (to deploy and to use) secret message service using Hashicorp
+  Vault as a secrets storage.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Pastebins

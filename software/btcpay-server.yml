@@ -1,0 +1,11 @@
+name: BTCPay Server
+website_url: https://btcpayserver.org/
+description: A self-hosted Bitcoin and other cryptocurrencies payment processor.
+licenses:
+  - MIT
+platforms:
+  - C#
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/btcpayserver/
+demo_url: https://mainnet.demo.btcpayserver.org/

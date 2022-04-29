@@ -1,0 +1,12 @@
+name: Goodwork
+website_url: https://usegood.work/
+description: Self hosted project management and collaboration tool powered by Laravel
+  & VueJS.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/iluminar/goodwork
+demo_url: https://github.com/iluminar/goodwork#demo

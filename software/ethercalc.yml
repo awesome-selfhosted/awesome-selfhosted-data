@@ -1,0 +1,11 @@
+name: EtherCalc
+website_url: https://ethercalc.net/
+description: Web spreadsheet.
+licenses:
+  - CPAL-1.0
+  - Other
+platforms:
+  - Nodejs
+tags:
+  - Office Suites
+source_code_url: https://github.com/audreyt/ethercalc

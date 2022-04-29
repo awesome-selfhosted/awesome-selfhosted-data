@@ -1,0 +1,11 @@
+name: Traduora
+website_url: https://traduora.com
+description: Translation management platform for teams.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Software Development - Localization
+source_code_url: https://github.com/ever-co/ever-traduora

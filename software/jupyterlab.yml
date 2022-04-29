@@ -1,0 +1,12 @@
+name: JupyterLab
+website_url: https://jupyterlab.github.io/jupyterlab/
+description: Web-based environment for interactive and reproducible computing.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/jupyterlab/jupyterlab/
+demo_url: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab

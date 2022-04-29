@@ -1,0 +1,11 @@
+name: paper{s}pace
+website_url: https://dedicatedcode.com/projects.html
+description: a small web application to manage all your offline documents. Provides
+  a searchable storage for your documents and reminds you of upcoming tasks.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Document Management
+source_code_url: https://gitlab.com/dedicatedcode/paperspace

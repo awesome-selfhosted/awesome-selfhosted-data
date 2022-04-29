@@ -1,0 +1,9 @@
+name: Firefox Sync Server
+website_url: https://github.com/mozilla-services/syncserver
+description: Sync Firefox bookmarks, passwords, history, tabs, preferences.
+licenses:
+  - MPL-2.0
+platforms:
+  - Python
+tags:
+  - Bookmarks and Link Sharing

@@ -1,0 +1,9 @@
+name: Microgit
+website_url: https://github.com/microgit-com/microgit
+description: Git hosting service made in Crystal and Lucky.
+licenses:
+  - MIT
+platforms:
+  - Crystal
+tags:
+  - Software Development - Project Management

@@ -1,0 +1,11 @@
+name: Convos
+website_url: https://convos.chat/
+description: Always online web IRC client.
+licenses:
+  - Artistic-2.0
+platforms:
+  - Perl
+tags:
+  - Communication - IRC
+source_code_url: https://github.com/nordaaker/convos
+demo_url: https://convos.chat/#instant-demo

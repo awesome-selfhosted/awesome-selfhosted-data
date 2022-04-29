@@ -1,0 +1,11 @@
+name: ubookmark
+website_url: https://ungleich.ch/u/projects/ubookmark/
+description: LDAP enabled bookmarking service.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Bookmarks and Link Sharing
+source_code_url: https://code.ungleich.ch/ungleich-public/ubookmark/
+demo_url: https://ipv6.blog

@@ -1,0 +1,10 @@
+name: Trudesk
+website_url: https://trudesk.io/
+description: Trudesk is an open-source help desk/ticketing solution.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Ticketing
+source_code_url: https://github.com/polonel/trudesk

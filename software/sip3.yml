@@ -1,0 +1,11 @@
+name: SIP3
+website_url: https://sip3.io/
+description: VoIP troubleshooting and monitoring platform.
+licenses:
+  - Apache-2.0
+platforms:
+  - Kotlin
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/sip3io/
+demo_url: https://demo.sip3.io

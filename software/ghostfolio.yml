@@ -1,0 +1,12 @@
+name: Ghostfolio
+website_url: https://ghostfol.io/
+description: Wealth management software to keep track of stocks, ETFs and cryptocurrencies.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/ghostfolio/ghostfolio
+demo_url: https://ghostfol.io/

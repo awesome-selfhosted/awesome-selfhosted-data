@@ -1,0 +1,10 @@
+name: Satellity
+website_url: https://satellity.org/
+description: Yet another open source forum written in Golang, React and PostgreSQL.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/satellity/satellity

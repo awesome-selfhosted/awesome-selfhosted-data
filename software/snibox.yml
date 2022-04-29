@@ -1,0 +1,11 @@
+name: Snibox
+website_url: https://snibox.github.io/
+description: Code snippets manager with attractive tag-oriented interface.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Pastebins
+source_code_url: https://github.com/snibox/snibox
+demo_url: https://snibox-demo.herokuapp.com/

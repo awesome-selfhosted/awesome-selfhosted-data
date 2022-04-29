@@ -1,0 +1,9 @@
+name: newsdash
+website_url: https://github.com/buzz/newsdash
+description: A news dashboard inspired by iGoogle and Netvibes.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Feed Readers

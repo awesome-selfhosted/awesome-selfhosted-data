@@ -1,0 +1,10 @@
+name: Dnote
+website_url: https://www.getdnote.com
+description: A simple command line notebook with multi-device sync and web interface.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/dnote/dnote

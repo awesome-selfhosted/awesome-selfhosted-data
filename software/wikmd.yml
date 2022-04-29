@@ -1,0 +1,9 @@
+name: Wikmd
+website_url: https://github.com/Linbreux/wikmd
+description: Modern and simple file based wiki that uses Markdown and Git.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Wikis

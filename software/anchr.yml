@@ -1,0 +1,11 @@
+name: Anchr
+website_url: https://anchr.io
+description: Anchr is a toolbox for tiny tasks on the internet, including bookmark
+  collections, URL shortening and (encrypted) image uploads.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/muety/anchr

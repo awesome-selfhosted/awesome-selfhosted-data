@@ -1,0 +1,11 @@
+name: Rustpad
+website_url: https://rustpad.io/
+description: Efficient and minimal collaborative code editor, self-hosted, no database
+  required.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Office Suites
+source_code_url: https://github.com/ekzhang/rustpad

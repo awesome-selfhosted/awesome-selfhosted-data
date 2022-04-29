@@ -1,0 +1,10 @@
+name: Shhh
+website_url: https://github.com/smallwat3r/shhh
+description: Keep secrets out of emails or chat logs, share them using secure links
+  with passphrase and expiration dates.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Communication - Custom Communication Systems

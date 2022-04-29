@@ -1,0 +1,9 @@
+name: Compactd
+website_url: https://github.com/compactd/compactd
+description: Remote music player that supports adding content.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming

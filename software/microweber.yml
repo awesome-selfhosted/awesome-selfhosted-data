@@ -1,0 +1,11 @@
+name: Microweber
+website_url: https://microweber.com/
+description: Drag and Drop CMS and online shop.
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/microweber/microweber
+demo_url: https://demo.microweber.org/

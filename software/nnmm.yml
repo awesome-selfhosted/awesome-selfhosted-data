@@ -1,0 +1,9 @@
+name: nnmm
+website_url: https://github.com/Mechazawa/nnmm
+description: Super tiny pastebin/url minifier _microservice_.
+licenses:
+  - Beerware
+platforms:
+  - PHP
+tags:
+  - Miscellaneous

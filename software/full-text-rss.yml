@@ -1,0 +1,11 @@
+name: Full-Text RSS
+website_url: https://fivefilters.org/content-only
+description: Extract article content from news sites and blogs and convert RSS feeds
+  that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+source_code_url: https://bitbucket.org/fivefilters/full-text-rss

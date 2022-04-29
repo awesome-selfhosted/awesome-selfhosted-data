@@ -1,0 +1,13 @@
+name: Winds
+website_url: https://getstream.io/winds/
+description: Open source and beautiful RSS reader built using React/Redux/Sails/Node
+  and Stream. It showcases personalized feeds powered by the Stream API.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Nodejs
+tags:
+  - Feed Readers
+source_code_url: https://github.com/GetStream/Winds
+demo_url: https://winds.getstream.io/
+depends_3rdparty: true

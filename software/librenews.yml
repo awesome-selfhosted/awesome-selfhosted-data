@@ -1,0 +1,10 @@
+name: LibreNews
+website_url: https://librenews.io/
+description: Decentralized and secure breaking news notification system.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/milesmcc/LibreNews-Server/

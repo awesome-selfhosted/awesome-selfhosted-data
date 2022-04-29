@@ -1,0 +1,12 @@
+name: Legend of the Green Dragon
+website_url: https://github.com/lotgd/core
+description: Legend of the Green Dragon is a text-based RPG originally developed by
+  Eric Stevens and JT Traub as a remake of and homage to the classic BBS Door game,
+  Legend of the Red Dragon, by Seth Able Robinson.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Games
+demo_url: http://lotgd.net/

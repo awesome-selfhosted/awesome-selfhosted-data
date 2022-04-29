@@ -1,0 +1,10 @@
+name: AnonAddy
+website_url: https://anonaddy.com
+description: Open source email forwarding service for creating aliases.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Complete Solutions
+source_code_url: https://github.com/anonaddy/anonaddy

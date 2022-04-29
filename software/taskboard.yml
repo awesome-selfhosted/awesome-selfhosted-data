@@ -1,0 +1,11 @@
+name: TaskBoard
+website_url: https://taskboard.matthewross.me/
+description: Kanban-inspired app for keeping track of things that need to get done.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/kiswa/TaskBoard
+demo_url: https://taskboard.matthewross.me/demo.html

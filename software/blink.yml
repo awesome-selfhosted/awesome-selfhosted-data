@@ -1,0 +1,11 @@
+name: Blink
+website_url: https://docs.blink.rest
+description: Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled
+  analytics) for teams.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/JaneJeon/blink

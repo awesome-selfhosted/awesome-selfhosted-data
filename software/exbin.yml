@@ -1,0 +1,10 @@
+name: ExBin
+website_url: https://github.com/m1dnight/exbin
+description: A pastebin with public/private snippets and netcat server.
+licenses:
+  - MIT
+platforms:
+  - Elixir
+tags:
+  - Pastebins
+demo_url: https://exbin.call-cc.be

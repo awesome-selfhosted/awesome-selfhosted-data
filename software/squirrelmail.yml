@@ -1,0 +1,10 @@
+name: SquirrelMail
+website_url: https://squirrelmail.org
+description: Another browser-based IMAP client.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://sourceforge.net/p/squirrelmail/code/HEAD/tree/

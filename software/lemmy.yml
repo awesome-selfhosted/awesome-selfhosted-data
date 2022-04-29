@@ -1,0 +1,11 @@
+name: Lemmy
+website_url: https://join-lemmy.org/
+description: A link aggregator / reddit clone for the fediverse. Reddit alternative
+  built in Rust.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/LemmyNet/lemmy

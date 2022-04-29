@@ -1,0 +1,10 @@
+name: Backdrop CMS
+website_url: https://backdropcms.org/
+description: Comprehensive CMS for small to medium sized businesses and non-profits.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/backdrop/backdrop

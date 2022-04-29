@@ -1,0 +1,11 @@
+name: Bloben
+website_url: https://bloben.com
+description: CalDAV web client.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Web-based Clients
+source_code_url: https://github.com/nibdo/bloben-app
+demo_url: https://demo.bloben.com/api/v1/users/login-demo?username=demo&password=Bg8v16a4q7gvC&redirect=https://demo.bloben.com/calendar?demo=true

@@ -1,0 +1,10 @@
+name: url-shortener
+website_url: https://github.com/cagataycali/url-shortener
+description: Shitty url shortener, emoji and AI powered.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - URL Shorteners
+depends_3rdparty: true

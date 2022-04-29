@@ -1,0 +1,12 @@
+name: OpenTripPlanner
+website_url: https://www.opentripplanner.org/
+description: Multimodal trip planning software based on OpenStreetMap data and consuming
+  published GTFS-formatted data to suggest routes using local public transit systems.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Java
+  - Javascript
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/opentripplanner/OpenTripPlanner

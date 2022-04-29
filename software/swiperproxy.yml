@@ -1,0 +1,11 @@
+name: Swiperproxy
+website_url: https://swiperproxy.github.io/
+description: Lightning-fast, open source web proxy that is easy for you to run and
+  customize.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Proxy
+source_code_url: https://github.com/swiperproxy/swiperproxy

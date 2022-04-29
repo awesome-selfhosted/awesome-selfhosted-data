@@ -1,0 +1,12 @@
+name: Podify
+website_url: https://www.podify.org/
+description: Allows you to download videos and audio from any source supported by
+  youtube-dl and subscribe to and watch these downloads using your favorite podcast
+  app.
+licenses:
+  - GPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Media Streaming - Multimedia Streaming
+source_code_url: https://github.com/podify-org/podify/

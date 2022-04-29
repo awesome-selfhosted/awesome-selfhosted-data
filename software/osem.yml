@@ -1,0 +1,11 @@
+name: osem
+website_url: https://osem.io/
+description: Event management tailored to free Software conferences.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Conference Management
+source_code_url: https://github.com/openSUSE/osem
+demo_url: https://demo.osem.io/

@@ -1,0 +1,12 @@
+name: Wallabag
+website_url: https://www.wallabag.org
+description: Wallabag, formerly Poche, is a web application allowing you to save articles
+  to read them later with improved readability.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Read-it-later Lists
+source_code_url: https://github.com/wallabag/wallabag
+demo_url: https://app.wallabag.it/register/

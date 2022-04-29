@@ -1,0 +1,10 @@
+name: Pizzly
+website_url: https://github.com/bearer/pizzly
+description: Open-source API Integrations Manager that provides everything a developer
+  needs to interact with OAuth based APIs.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Software Development - API Management

@@ -1,0 +1,10 @@
+name: bepasty
+website_url: https://bepasty-server.readthedocs.io/en/latest/
+description: A pastebin for all kinds of files.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+tags:
+  - Pastebins
+source_code_url: https://github.com/bepasty/bepasty-server

@@ -1,0 +1,11 @@
+name: Tuleap
+website_url: https://www.tuleap.org/
+description: Tuleap is a libre suite to plan, track, code and collaborate on software
+  projects.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Software Development - Project Management
+source_code_url: https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree

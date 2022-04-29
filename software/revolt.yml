@@ -1,0 +1,10 @@
+name: Revolt
+website_url: https://revolt.chat/
+description: Revolt is a user-first chat platform built with modern web technologies.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/revoltchat

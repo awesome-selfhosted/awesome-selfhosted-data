@@ -1,0 +1,11 @@
+name: Open Streaming Platform
+website_url: https://openstreamingplatform.com
+description: Self-Hosted alternative to Twitch and Youtube Live for live and on-demand
+  video streaming.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Media Streaming - Video Streaming
+source_code_url: https://gitlab.com/Deamos/flask-nginx-rtmp-manager

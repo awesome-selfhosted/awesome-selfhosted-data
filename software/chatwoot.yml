@@ -1,0 +1,11 @@
+name: Chatwoot
+website_url: https://www.chatwoot.com
+description: Self-hosted customer communication platform, an alternative to Intercom
+  & Zendesk.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/chatwoot/chatwoot

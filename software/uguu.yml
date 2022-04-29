@@ -1,0 +1,10 @@
+name: Uguu
+website_url: https://uguu.se/
+description: Stores files and deletes after X amount of time.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/nokonoko/uguu

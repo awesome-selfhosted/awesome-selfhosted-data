@@ -1,0 +1,10 @@
+name: My Mind
+website_url: https://github.com/ondras/my-mind
+description: Web application for creating and managing mind maps.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Knowledge Management Tools
+demo_url: https://my-mind.github.io/?url=examples%2Ffeatures.mymind

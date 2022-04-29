@@ -1,0 +1,11 @@
+name: Hubzilla
+website_url: https://hubzilla.org
+description: Decentralized identity, privacy, publishing, sharing, cloud storage,
+  and communications/social platform.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://framagit.org/hubzilla/core

@@ -1,0 +1,14 @@
+name: Kolab
+website_url: https://kolab.org/
+description: Kolab community is a unified communication and collaboration system.
+licenses:
+  - GPL-2.0
+  - LGPL-2.1
+  - GPL-3.0
+platforms:
+  - C++
+  - Python
+  - PHP
+tags:
+  - Groupware
+source_code_url: https://git.kolab.org/

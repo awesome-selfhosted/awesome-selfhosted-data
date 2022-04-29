@@ -1,0 +1,9 @@
+name: ReducePy
+website_url: https://github.com/abdullahselek/ReducePy
+description: URL shortener service using Tornado and Redis runs on Docker and Kubernetes.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - URL Shorteners

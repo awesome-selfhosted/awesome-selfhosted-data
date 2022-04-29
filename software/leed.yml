@@ -1,0 +1,9 @@
+name: Leed
+website_url: https://github.com/LeedRSS/Leed
+description: Leed (for Light Feed) is a Free and minimalist RSS aggregator.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers

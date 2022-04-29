@@ -1,0 +1,9 @@
+name: Hakatime
+website_url: https://github.com/mujx/hakatime
+description: WakaTime server implementation with analytics dashboard.
+licenses:
+  - Unlicense
+platforms:
+  - Haskell
+tags:
+  - Software Development - IDE & Tools

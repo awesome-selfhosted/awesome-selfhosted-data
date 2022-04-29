@@ -1,0 +1,10 @@
+name: DOCAT
+website_url: https://github.com/randombenj/docat
+description: Host your docs. Simple. Versioned. Fancy.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Document Management

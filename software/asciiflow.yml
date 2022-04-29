@@ -1,0 +1,10 @@
+name: asciiflow
+website_url: https://asciiflow.com/
+description: Flow Diagram Drawing Tool.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/lewish/asciiflow

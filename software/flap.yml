@@ -1,0 +1,11 @@
+name: FLAP
+website_url: https://www.flap.cloud
+description: Low maintenance framework to manage self-hosted services.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Shell
+tags:
+  - Self-hosting Solutions
+source_code_url: https://gitlab.com/flap-box/flap

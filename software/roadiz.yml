@@ -1,0 +1,10 @@
+name: Roadiz
+website_url: https://www.roadiz.io/
+description: ' Modern CMS based on a node system which can handle many types of services.'
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/roadiz/roadiz

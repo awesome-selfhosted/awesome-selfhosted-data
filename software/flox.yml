@@ -1,0 +1,12 @@
+name: Flox
+website_url: https://github.com/devfake/flox
+description: Self hosted movie, TV series and anime watch list with a 3-point rating
+  system. Uses The Movie Database backend for information.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+demo_url: https://flox-demo.pyxl.dev/
+depends_3rdparty: true

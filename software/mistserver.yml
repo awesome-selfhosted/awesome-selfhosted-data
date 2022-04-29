@@ -1,0 +1,10 @@
+name: MistServer
+website_url: https://mistserver.org/
+description: Streaming media server that works well in any streaming environment.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C++
+tags:
+  - Media Streaming - Multimedia Streaming
+source_code_url: https://github.com/DDVTECH/mistserver

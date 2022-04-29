@@ -1,0 +1,10 @@
+name: Mautic
+website_url: https://www.mautic.org/
+description: Mautic is marketing automation software (email, social and more).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://github.com/mautic/mautic

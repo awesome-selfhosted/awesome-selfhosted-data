@@ -1,0 +1,9 @@
+name: graph-vl
+website_url: https://github.com/verifid/graph-vl
+description: Identity document verification using Machine Learning and GraphQL.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Miscellaneous

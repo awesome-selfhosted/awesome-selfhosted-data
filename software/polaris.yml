@@ -1,0 +1,10 @@
+name: Polaris
+website_url: https://github.com/agersant/polaris
+description: Music browsing and streaming application optimized for large music collections,
+  ease of use and high performance.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Media Streaming - Audio Streaming

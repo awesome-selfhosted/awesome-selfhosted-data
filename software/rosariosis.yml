@@ -1,0 +1,11 @@
+name: RosarioSIS
+website_url: https://www.rosariosis.org/
+description: RosarioSIS, free Student Information System for school management.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Learning and Courses
+source_code_url: https://gitlab.com/francoisjacquet/rosariosis/
+demo_url: https://www.rosariosis.org/demo/

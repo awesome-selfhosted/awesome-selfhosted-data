@@ -1,0 +1,11 @@
+name: Mumble
+website_url: https://wiki.mumble.info/wiki/Main_Page
+description: Low-latency, high quality voice/text chat software.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C++
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/mumble-voip/mumble
+related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications

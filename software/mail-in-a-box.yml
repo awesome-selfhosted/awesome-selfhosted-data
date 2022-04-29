@@ -1,0 +1,11 @@
+name: Mail-in-a-Box
+website_url: https://mailinabox.email/
+description: Turns any Ubuntu server into a fully functional mail server with one
+  command.
+licenses:
+  - CC0-1.0
+platforms:
+  - Shell
+tags:
+  - Communication - Email - Complete Solutions
+source_code_url: https://github.com/mail-in-a-box/mailinabox

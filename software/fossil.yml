@@ -1,0 +1,9 @@
+name: Fossil
+website_url: https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
+description: Distributed version control system featuring wiki and bug tracker.
+licenses:
+  - BSD-2-Clause-FreeBSD
+platforms:
+  - C
+tags:
+  - Software Development - Project Management

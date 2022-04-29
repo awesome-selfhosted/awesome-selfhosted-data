@@ -1,0 +1,9 @@
+name: InvoicePlane
+website_url: https://github.com/InvoicePlane/InvoicePlane
+description: Manage quotes, invoices, payments and customers for your small business.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management

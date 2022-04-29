@@ -1,0 +1,11 @@
+name: Robust IRC
+website_url: https://robustirc.net/
+description: RobustIRC is IRC without netsplits. Distributed IRC server, based on
+  RobustSession protocol.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - Communication - IRC
+source_code_url: https://github.com/robustirc/robustirc

@@ -1,0 +1,10 @@
+name: Known
+website_url: https://withknown.com/
+description: A collaborative social publishing platform.
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/idno/known

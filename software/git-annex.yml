@@ -1,0 +1,10 @@
+name: Git Annex
+website_url: https://git-annex.branchable.com/
+description: File synchronization between computers, servers, external drives.
+licenses:
+  - GPL-3.0
+platforms:
+  - Haskell
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://git.joeyh.name/index.cgi/git-annex.git/

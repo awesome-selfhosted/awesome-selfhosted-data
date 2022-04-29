@@ -1,0 +1,11 @@
+name: Serendipity
+website_url: https://docs.s9y.org/
+description: Serendipity (s9y) is a highly extensible and customizable PHP blog engine
+  using Smarty templating.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/s9y/serendipity

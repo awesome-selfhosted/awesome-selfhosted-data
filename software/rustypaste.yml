@@ -1,0 +1,9 @@
+name: rustypaste
+website_url: https://github.com/orhun/rustypaste
+description: A minimal file upload/pastebin service.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Pastebins

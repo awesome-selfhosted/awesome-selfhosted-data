@@ -1,0 +1,11 @@
+name: uMap
+website_url: https://umap.openstreetmap.fr/en/
+description: Create maps with OpenStreetMap layers in a minute and embed them in your
+  site.
+licenses:
+  - WTFPL
+platforms:
+  - Python
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/umap-project/umap

@@ -1,0 +1,12 @@
+name: WBO
+website_url: https://github.com/lovasoa/whitebophir#wbo
+description: ' A web Whiteboard to collaborate in real-time on schemas, drawings,
+  and notes.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://wbo.ophir.dev/

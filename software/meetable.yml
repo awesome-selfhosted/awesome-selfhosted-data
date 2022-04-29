@@ -1,0 +1,11 @@
+name: Meetable
+website_url: https://meetable.org
+description: Event aggregator.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Polls and Events
+source_code_url: https://github.com/aaronpk/Meetable
+demo_url: https://events.indieweb.org

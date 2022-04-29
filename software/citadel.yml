@@ -1,0 +1,11 @@
+name: Citadel
+website_url: https://www.citadel.org/doku.php
+description: Groupware including email, calendar/scheduling, address books, forums,
+  mailing lists, IM, wiki and blog engines, RSS aggregation and more.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Groupware
+source_code_url: https://www.citadel.org/source.html

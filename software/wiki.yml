@@ -1,0 +1,10 @@
+name: wiki
+website_url: https://git.mills.io/prologic/wiki
+description: Simple Markdown based wiki engine.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Wikis
+demo_url: https://wiki.mills.io

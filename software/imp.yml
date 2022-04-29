@@ -1,0 +1,11 @@
+name: IMP
+website_url: https://www.horde.org/apps/imp/
+description: HORDE application that provides webmail access to IMAP and POP3 accounts.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://www.horde.org/download/imp
+demo_url: http://demo.horde.org/

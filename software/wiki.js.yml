@@ -1,0 +1,10 @@
+name: Wiki.js
+website_url: https://wiki.js.org/
+description: Modern, lightweight and powerful wiki app using Git and Markdown.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Wikis
+demo_url: https://docs.requarks.io

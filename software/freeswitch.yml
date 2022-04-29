@@ -1,0 +1,10 @@
+name: FreeSWITCH
+website_url: https://freeswitch.org/
+description: Scalable open source cross-platform telephony platform.
+licenses:
+  - MPL-2.0
+platforms:
+  - C
+tags:
+  - Communication - SIP
+source_code_url: https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse

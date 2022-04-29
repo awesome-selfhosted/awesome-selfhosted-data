@@ -1,0 +1,10 @@
+name: Raneto
+website_url: http://raneto.com/
+description: Raneto is an open source Knowledgebase platform that uses static Markdown
+  files to power your Knowledgebase.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Wikis

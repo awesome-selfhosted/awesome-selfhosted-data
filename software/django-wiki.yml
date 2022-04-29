@@ -1,0 +1,11 @@
+name: django-wiki
+website_url: https://github.com/django-wiki/django-wiki
+description: 'Wiki system with complex functionality for simple integration and a
+  superb interface. Store your knowledge with style: Use django models.'
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Wikis
+demo_url: https://demo.django-wiki.org/

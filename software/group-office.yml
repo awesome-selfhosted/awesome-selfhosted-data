@@ -1,0 +1,11 @@
+name: Group Office
+website_url: https://www.group-office.com
+description: Group-Office is an enterprise CRM and groupware tool. Share projects,
+  calendars, files and e-mail online with co-workers and clients.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Groupware
+source_code_url: https://github.com/Intermesh/groupoffice/

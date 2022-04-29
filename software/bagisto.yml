@@ -1,0 +1,12 @@
+name: Bagisto
+website_url: https://bagisto.com/en/
+description: Leading Laravel open source e-commerce framework with multi-inventory
+  sources, taxation, localization, dropshipping and more exciting features.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - E-commerce
+source_code_url: https://github.com/bagisto/bagisto
+demo_url: https://demo.bagisto.com/

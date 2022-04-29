@@ -1,0 +1,11 @@
+name: b2evolution CMS
+website_url: https://b2evolution.net/
+description: 'The most integrated CMS ever: b2evolution includes everything you need
+  to build websites for publishing, sharing and interacting with your community.'
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/b2evolution/b2evolution

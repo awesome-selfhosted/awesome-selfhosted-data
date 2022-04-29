@@ -1,0 +1,9 @@
+name: Git WebUI
+website_url: https://github.com/alberthier/git-webui
+description: Standalone web based user interface for git repositories.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Software Development - Project Management

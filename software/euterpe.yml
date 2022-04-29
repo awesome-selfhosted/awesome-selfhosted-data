@@ -1,0 +1,11 @@
+name: euterpe
+website_url: https://listen-to-euterpe.eu
+description: Self-hosted music streaming server with RESTful API and Web interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/ironsmile/euterpe
+demo_url: https://listen-to-euterpe.eu/demo

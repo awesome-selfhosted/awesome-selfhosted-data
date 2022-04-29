@@ -1,0 +1,11 @@
+name: AmIUnique
+website_url: https://amiunique.org/
+description: Learn how identifiable you are on the Internet (browser fingerprinting
+  tool).
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Automation
+source_code_url: https://github.com/DIVERSIFY-project/amiunique

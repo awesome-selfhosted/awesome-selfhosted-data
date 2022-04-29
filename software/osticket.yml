@@ -1,0 +1,11 @@
+name: osTicket
+website_url: https://osticket.com/
+description: Manage, organize and archive all your support requests and responses
+  in one place.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Ticketing
+source_code_url: https://github.com/osTicket/osTicket

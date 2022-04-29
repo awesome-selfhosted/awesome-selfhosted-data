@@ -1,0 +1,10 @@
+name: PsiTransfer
+website_url: https://github.com/psi-4ward/psitransfer
+description: Simple open source self-hosted file sharing solution with robust up-/download-resume
+  and password protection.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

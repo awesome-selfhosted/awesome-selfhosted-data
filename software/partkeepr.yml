@@ -1,0 +1,12 @@
+name: PartKeepr
+website_url: https://www.partkeepr.org
+description: PartKeepr is an electronic part inventory management software. It helps
+  you to keep track of your available parts and assist you with re-ordering parts.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/partkeepr/PartKeepr
+demo_url: https://demo.partkeepr.org/

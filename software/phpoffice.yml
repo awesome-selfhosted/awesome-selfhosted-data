@@ -1,0 +1,10 @@
+name: PHPOffice
+website_url: https://github.com/PHPOffice
+description: PHPOffice contains libraries which permits to write and read files from
+  most office suites.
+licenses:
+  - LGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Office Suites

@@ -1,0 +1,9 @@
+name: SOCKS5Engine
+website_url: https://github.com/VeeSecurity/SOCKS5Engine
+description: Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Proxy

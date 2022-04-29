@@ -1,0 +1,10 @@
+name: Pretix
+website_url: https://pretix.eu/
+description: Django based ticket sales platform for events.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - E-commerce
+source_code_url: https://github.com/pretix

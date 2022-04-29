@@ -1,0 +1,9 @@
+name: Journal
+website_url: https://github.com/inoda/journal
+description: Simple journaling with encrypted entries and sharing capabilities.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Miscellaneous

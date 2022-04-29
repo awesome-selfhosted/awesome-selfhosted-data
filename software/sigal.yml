@@ -1,0 +1,9 @@
+name: sigal
+website_url: https://github.com/saimn/sigal
+description: Yet another simple static gallery generator.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Photo and Video Galleries

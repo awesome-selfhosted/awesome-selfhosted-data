@@ -1,0 +1,11 @@
+name: Gitolite
+website_url: https://gitolite.com/gitolite/index.html
+description: Gitolite allows you to setup git hosting on a central server, with fine-grained
+  access control and many more powerful features.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/sitaramc/gitolite

@@ -1,0 +1,10 @@
+name: Maddy Mail Server
+website_url: https://github.com/foxcpp/maddy
+description: All-in-one mail server that implements SMTP (both MTA and MX) and IMAP.
+  Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Communication - Email - Complete Solutions

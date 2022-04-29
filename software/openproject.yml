@@ -1,0 +1,10 @@
+name: OpenProject
+website_url: https://www.openproject.org
+description: OpenProject is a web-based project management system.
+licenses:
+  - GPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/opf/openproject

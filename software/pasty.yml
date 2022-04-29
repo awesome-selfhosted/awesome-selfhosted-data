@@ -1,0 +1,10 @@
+name: pasty
+website_url: https://github.com/lus/pasty
+description: Pasty is a fast and lightweight code pasting server.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Pastebins
+demo_url: https://pasty.lus.pm/

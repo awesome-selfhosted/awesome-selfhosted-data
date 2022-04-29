@@ -1,0 +1,10 @@
+name: FoodCoopShop
+website_url: https://www.foodcoopshop.com/
+description: User-friendly open source software for food-coops.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Community-Supported Agriculture (CSA)
+source_code_url: https://github.com/foodcoopshop/foodcoopshop

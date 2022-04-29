@@ -1,0 +1,11 @@
+name: Outline
+website_url: https://www.getoutline.com/
+description: An open, extensible, wiki for your team.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Nodejs
+tags:
+  - Wikis
+source_code_url: https://github.com/outline/outline
+depends_3rdparty: true

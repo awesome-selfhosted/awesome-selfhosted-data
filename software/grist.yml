@@ -1,0 +1,13 @@
+name: Grist
+website_url: https://getgrist.com/
+description: Grist is a next-generation spreadsheet with relational structure, formula-based
+  access control, and a portable, self-contained format. Alternative to Airtable.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Python
+tags:
+  - Office Suites
+source_code_url: https://github.com/gristlabs/grist-core
+demo_url: https://docs.getgrist.com

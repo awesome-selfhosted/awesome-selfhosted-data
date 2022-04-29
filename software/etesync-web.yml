@@ -1,0 +1,11 @@
+name: EteSync Web
+website_url: https://www.etesync.com/faq/#web-client
+description: EteSync's official Web-based client (i.e., their Web app).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Web-based Clients
+source_code_url: https://github.com/etesync/etesync-web
+demo_url: https://client.etesync.com/

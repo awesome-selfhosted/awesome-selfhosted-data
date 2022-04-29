@@ -1,0 +1,10 @@
+name: Elgg
+website_url: https://elgg.org/
+description: Powerful open source social networking engine.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/Elgg/Elgg

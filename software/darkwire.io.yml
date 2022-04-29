@@ -1,0 +1,9 @@
+name: Darkwire.io
+website_url: https://github.com/darkwire/darkwire.io
+description: End-to-end encrypted instant web chat.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems

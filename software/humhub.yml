@@ -1,0 +1,10 @@
+name: HumHub
+website_url: https://www.humhub.org/
+description: Flexible kit for private social networks.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/humhub/humhub

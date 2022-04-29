@@ -1,0 +1,11 @@
+name: Mindustry
+website_url: https://mindustrygame.github.io/
+description: Factorio-like tower defense game. Build production chains to gather more
+  resources, and build complex facilities.
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+tags:
+  - Games
+source_code_url: https://github.com/Anuken/Mindustry

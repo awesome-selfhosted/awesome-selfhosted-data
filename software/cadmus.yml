@@ -1,0 +1,10 @@
+name: Cadmus
+website_url: https://github.com/ldemafelix/cadmus
+description: Cadmus is an extremely lightweight, flat-file blogging platform powered
+  by Markdown.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms

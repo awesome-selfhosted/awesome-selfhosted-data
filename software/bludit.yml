@@ -1,0 +1,13 @@
+name: Bludit
+website_url: https://www.bludit.com/
+description: Simple application to build a site or blog in seconds. Bludit uses flat-files
+  (text files in JSON format) to store posts and pages.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/bludit/bludit
+demo_url: https://demo.bludit.com/
+depends_3rdparty: true

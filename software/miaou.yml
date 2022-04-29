@@ -1,0 +1,10 @@
+name: MiAOU
+website_url: https://miaou.dystroy.org/login
+description: Multi-room persistent chat server.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/Canop/miaou

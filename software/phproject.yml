@@ -1,0 +1,11 @@
+name: Phproject
+website_url: https://www.phproject.org/
+description: High performance full-featured project management system.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/Alanaktion/phproject
+demo_url: https://demo.phproject.org/

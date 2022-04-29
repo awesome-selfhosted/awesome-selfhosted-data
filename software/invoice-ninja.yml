@@ -1,0 +1,11 @@
+name: Invoice Ninja
+website_url: https://www.invoiceninja.org/
+description: Powerful tool to invoice clients online.
+licenses:
+  - AAL
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/invoiceninja/invoiceninja
+demo_url: https://app.invoiceninja.com/invoices/create

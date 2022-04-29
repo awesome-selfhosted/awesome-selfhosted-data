@@ -1,0 +1,14 @@
+name: Net64+
+website_url: https://net64-mod.github.io
+description: Net64 aka SM64O allows playing Super Mario 64 in an online multiplayer
+  mode. Net64+ is the official continuation of the program and features an integrated
+  server list.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Games
+source_code_url: https://github.com/Tarnadas/net64plus-server/
+related_software_url: https://github.com/Tarnadas/net64plus/
+depends_3rdparty: true

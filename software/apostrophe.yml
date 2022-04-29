@@ -1,0 +1,11 @@
+name: Apostrophe
+website_url: https://apostrophecms.org/
+description: CMS with a focus on extensible in-context editing tools.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/apostrophecms/apostrophe
+demo_url: https://dashboard.apostrophecmsdemo.org

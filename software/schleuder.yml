@@ -1,0 +1,10 @@
+name: Schleuder
+website_url: https://schleuder.nadir.org/
+description: GPG-enabled mailing list manager with resending-capabilities.
+licenses:
+  - GPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://0xacab.org/schleuder/schleuder/tree/master

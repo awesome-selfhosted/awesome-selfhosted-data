@@ -1,0 +1,11 @@
+name: Syncloud
+website_url: https://syncloud.org/
+description: Your own online file storage, social network or email server.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Other
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/syncloud/platform

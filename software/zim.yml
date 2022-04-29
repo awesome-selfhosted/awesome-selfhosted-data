@@ -1,0 +1,11 @@
+name: Zim
+website_url: https://zim-wiki.org/
+description: Graphical text editor used to maintain a collection of wiki pages. Each
+  page can contain links to other pages, simple formatting and images.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Wikis
+source_code_url: https://github.com/zim-desktop-wiki/zim-desktop-wiki

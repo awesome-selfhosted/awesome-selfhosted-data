@@ -1,0 +1,9 @@
+name: Jmz HomeProxy
+website_url: https://github.com/jmztaylor/homelab_proxy
+description: A simple and clean dashboard for self hosted services.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Personal Dashboards

@@ -1,0 +1,10 @@
+name: bittorrent-tracker
+website_url: https://webtorrent.io/
+description: Simple, robust, BitTorrent tracker (client and server) implementation.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+source_code_url: https://github.com/webtorrent/bittorrent-tracker

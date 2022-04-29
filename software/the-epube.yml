@@ -1,0 +1,10 @@
+name: The Epube
+website_url: https://tt-rss.org/the-epube
+description: Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Document Management - E-books
+source_code_url: https://git.tt-rss.org/fox/the-epube

@@ -1,0 +1,10 @@
+name: Beets
+website_url: https://beets.io/
+description: Music library manager and MusicBrainz tagger (command-line and Web interface).
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/beetbox/beets

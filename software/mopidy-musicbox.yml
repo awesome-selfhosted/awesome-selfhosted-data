@@ -1,0 +1,9 @@
+name: Mopidy MusicBox
+website_url: https://github.com/pimusicbox/mopidy-musicbox-webclient
+description: Web Client for Mopidy Music Server.
+licenses:
+  - Apache-2.0
+platforms:
+  - HTML5
+tags:
+  - Media Streaming - Audio Streaming

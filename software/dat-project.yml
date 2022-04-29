@@ -1,0 +1,11 @@
+name: Dat Project
+website_url: https://datproject.org
+description: Powerful decentralized file sharing applications built from a large ecosystem
+  of modules.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+source_code_url: https://github.com/datproject

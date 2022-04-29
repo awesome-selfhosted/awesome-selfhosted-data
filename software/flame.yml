@@ -1,0 +1,10 @@
+name: Flame
+website_url: https://github.com/pawelmalak/flame
+description: Flame is self-hosted startpage for your server. Easily manage your apps
+  and bookmarks with built-in editors.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Personal Dashboards

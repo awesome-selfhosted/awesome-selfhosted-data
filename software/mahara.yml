@@ -1,0 +1,11 @@
+name: Mahara
+website_url: https://mahara.org/
+description: Open Source fully featured web application to build students electronic
+  portfolio.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/MaharaProject/mahara

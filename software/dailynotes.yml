@@ -1,0 +1,9 @@
+name: DailyNotes
+website_url: https://github.com/m0ngr31/DailyNotes/
+description: App for taking notes and tracking tasks on a daily basis in Markdown.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Note-taking & Editors

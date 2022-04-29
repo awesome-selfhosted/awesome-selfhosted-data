@@ -1,0 +1,10 @@
+name: filebrowser
+website_url: https://filebrowser.org/
+description: Web File Browser with a Material Design web interface.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/filebrowser/filebrowser

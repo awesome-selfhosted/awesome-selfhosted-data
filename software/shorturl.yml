@@ -1,0 +1,10 @@
+name: shorturl
+website_url: https://git.mills.io/prologic/shorturl
+description: Simple URL shortener with very tiny URLs.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - URL Shorteners
+demo_url: https://url.mills.io

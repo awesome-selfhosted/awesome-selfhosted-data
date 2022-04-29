@@ -1,0 +1,9 @@
+name: thewhitetulip Tasks
+website_url: https://github.com/thewhitetulip/Tasks
+description: Kanban based to-do list manager written in Go.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Task Management & To-do Lists

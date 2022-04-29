@@ -1,0 +1,12 @@
+name: FreshRSS
+website_url: https://freshrss.org/
+description: Self-hostable RSS feed aggregator.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+source_code_url: https://github.com/FreshRSS/FreshRSS
+demo_url: https://demo.freshrss.org/i/
+related_software_url: https://github.com/Alkarex/EasyRSS

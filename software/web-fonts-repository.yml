@@ -1,0 +1,9 @@
+name: Web fonts repository
+website_url: https://github.com/Finesse/web-fonts-repository
+description: Simple webfont hosting. Google Fonts alternative for your own fonts.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Miscellaneous

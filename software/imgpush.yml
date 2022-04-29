@@ -1,0 +1,10 @@
+name: imgpush
+website_url: https://github.com/hauxir/imgpush
+description: imgpush is a self-hosted file upload service that can easily be integrated
+  into other webapps.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

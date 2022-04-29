@@ -1,0 +1,10 @@
+name: Exim
+website_url: https://www.exim.org/
+description: Message transfer agent (MTA) developed at the University of Cambridge.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://git.exim.org/exim.git

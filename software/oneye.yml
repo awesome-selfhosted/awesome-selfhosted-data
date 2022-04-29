@@ -1,0 +1,11 @@
+name: oneye
+website_url: https://oneye-project.org/
+description: Cloud software to access your data from everywhere with any browser.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Gateways and Terminal Sharing
+source_code_url: https://github.com/oneye/oneye
+demo_url: https://wiki.oneye-project.org/0.9:demo

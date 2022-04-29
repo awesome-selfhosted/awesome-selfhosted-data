@@ -1,0 +1,11 @@
+name: Hauk
+website_url: https://github.com/bilde2910/Hauk
+description: Easy to setup location sharing platform that lets you temporarily share
+  your location with anyone in real-time.
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+tags:
+  - Maps and Global Positioning System (GPS)
+demo_url: https://github.com/bilde2910/Hauk#demo-server

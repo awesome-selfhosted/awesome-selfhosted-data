@@ -1,0 +1,10 @@
+name: Tasks
+website_url: https://github.com/m1guelpf/tasks
+description: Simple tasks and notes manager written in PHP, jQuery and Bootstrap using
+  a custom flat file database.
+licenses:
+  - MPL-2.0
+platforms:
+  - PHP
+tags:
+  - Task Management & To-do Lists

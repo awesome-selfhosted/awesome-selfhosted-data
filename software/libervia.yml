@@ -1,0 +1,10 @@
+name: Libervia
+website_url: https://wiki.goffi.org/wiki/Libervia/en
+description: Web frontend from Salut à Toi.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Communication - XMPP - Web Clients
+source_code_url: https://repos.goffi.org/libervia-web

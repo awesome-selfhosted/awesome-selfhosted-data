@@ -1,0 +1,9 @@
+name: dogbin
+website_url: https://github.com/dogbin/dogbin
+description: The sexiest pastebin and URL shortener ever.
+licenses:
+  - MIT
+platforms:
+  - Kotlin
+tags:
+  - Pastebins

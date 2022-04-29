@@ -1,0 +1,10 @@
+name: Flyspray
+website_url: https://www.flyspray.org/
+description: Uncomplicated, web-based bug tracking system.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Ticketing
+source_code_url: https://github.com/Flyspray/flyspray

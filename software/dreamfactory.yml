@@ -1,0 +1,10 @@
+name: DreamFactory
+website_url: https://www.dreamfactory.com/
+description: Turns any SQL/NoSQL/Structured data into Restful API.
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/dreamfactorysoftware/dreamfactory

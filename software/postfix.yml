@@ -1,0 +1,9 @@
+name: Postfix
+website_url: http://www.postfix.org/
+description: Fast, easy to administer, and secure Sendmail replacement.
+licenses:
+  - IPL-1.0
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Transfer Agents

@@ -1,0 +1,10 @@
+name: Headphones
+website_url: https://github.com/rembo10/headphones
+description: Automated music downloader for NZB and Torrent, written in Python. It
+  supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Automation

@@ -1,0 +1,10 @@
+name: Groove Basin
+website_url: https://github.com/andrewrk/groovebasin
+description: Music player server with a web-based user interface inspired by Amarok
+  1.4.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming

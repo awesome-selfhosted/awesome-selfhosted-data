@@ -1,0 +1,10 @@
+name: Tox
+website_url: https://tox.chat/
+description: Distributed, secure messenger with audio and video chat capabilities.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/TokTok/c-toxcore

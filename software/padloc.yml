@@ -1,0 +1,10 @@
+name: Padloc
+website_url: https://padloc.app/
+description: A modern, open source password manager for individuals and teams.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Password Managers
+source_code_url: https://github.com/padloc/padloc

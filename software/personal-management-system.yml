@@ -1,0 +1,11 @@
+name: Personal management system
+website_url: https://github.com/Volmarg/personal-management-system
+description: Central point for managing personal data (billings, payments, job holidays,
+  notes etc.).
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Personal Dashboards
+demo_url: http://personal-management-system.pl/

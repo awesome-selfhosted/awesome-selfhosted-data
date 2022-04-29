@@ -1,0 +1,12 @@
+name: Ombi
+website_url: https://ombi.io/
+description: A content request system for Plex/Emby, connects to SickRage, CouchPotato,
+  Sonarr, with a growing feature set.
+licenses:
+  - GPL-2.0
+platforms:
+  - C#
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/Ombi-app/Ombi
+demo_url: https://app.ombi.io/

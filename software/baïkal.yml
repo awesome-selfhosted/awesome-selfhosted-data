@@ -1,0 +1,10 @@
+name: Baïkal
+website_url: https://sabre.io/baikal/
+description: Lightweight CalDAV and CardDAV server based on sabre/dav.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Servers
+source_code_url: https://github.com/sabre-io/Baikal

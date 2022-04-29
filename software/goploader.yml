@@ -1,0 +1,9 @@
+name: goploader
+website_url: https://github.com/Depado/goploader
+description: Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

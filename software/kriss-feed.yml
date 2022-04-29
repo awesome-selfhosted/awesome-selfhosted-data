@@ -1,0 +1,11 @@
+name: Kriss Feed
+website_url: https://tontof.net/kriss/feed/
+description: Simple and smart (or stupid) feed reader.
+licenses:
+  - CC0-1.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+source_code_url: https://github.com/tontof/kriss_feed
+demo_url: https://tontof.net/feed/

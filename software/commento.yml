@@ -1,0 +1,10 @@
+name: Commento
+website_url: https://gitlab.com/commento/commento
+description: Commento is a discussion platform that you can embed on your blog, news
+  articles, and any place where you want your readers to add comments.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - Social Networks and Forums

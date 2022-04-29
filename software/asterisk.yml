@@ -1,0 +1,9 @@
+name: Asterisk
+website_url: https://www.asterisk.org/
+description: Easy to use but advanced IP PBX system, VoIP gateway and conference server.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Communication - SIP

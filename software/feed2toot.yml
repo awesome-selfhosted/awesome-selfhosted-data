@@ -1,0 +1,11 @@
+name: feed2toot
+website_url: https://feed2toot.readthedocs.io/
+description: Feed2toot parses a RSS feed, extracts the last entries and sends them
+  to Mastodon.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Automation
+source_code_url: https://gitlab.com/chaica/feed2toot

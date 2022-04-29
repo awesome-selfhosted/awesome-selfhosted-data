@@ -1,0 +1,12 @@
+name: Sakai
+website_url: https://www.sakaiproject.org/
+description: The Sakai project provides a flexible and feature-rich environment for
+  teaching, learning, research and other collaboration.
+licenses:
+  - ECL-2.0
+platforms:
+  - Java
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/sakaiproject/sakai
+demo_url: https://www.sakaiproject.org/try-sakai

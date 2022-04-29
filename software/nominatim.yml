@@ -1,0 +1,11 @@
+name: Nominatim
+website_url: https://nominatim.org/
+description: Server application for reverse geocoding (address -> coordinates) on
+  OpenStreetMap data.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/osm-search/Nominatim

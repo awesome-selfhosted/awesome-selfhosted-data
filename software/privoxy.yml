@@ -1,0 +1,11 @@
+name: Privoxy
+website_url: https://www.privoxy.org
+description: Non-caching web proxy with advanced filtering capabilities for enhancing
+  privacy, modifying web page data and HTTP headers, controlling access, and removing
+  ads and other obnoxious Internet junk.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Proxy

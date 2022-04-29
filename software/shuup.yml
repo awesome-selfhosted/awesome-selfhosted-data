@@ -1,0 +1,11 @@
+name: Shuup
+website_url: https://www.shuup.com/
+description: Django powered fully customizable open source e-commerce framework for
+  small and large sites.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - E-commerce
+source_code_url: https://github.com/shuup/shuup

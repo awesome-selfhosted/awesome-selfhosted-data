@@ -1,0 +1,11 @@
+name: Freenet
+website_url: https://freenetproject.org/index.html
+description: Anonymously share files, browse and publish _freesites_ (web sites accessible
+  only through Freenet) and chat on forums.
+licenses:
+  - GPL-2.0
+platforms:
+  - Java
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/freenet/fred

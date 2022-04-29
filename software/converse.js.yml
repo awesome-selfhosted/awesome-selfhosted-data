@@ -1,0 +1,10 @@
+name: Converse.js
+website_url: https://conversejs.org/
+description: Free and open-source XMPP chat client in your browser.
+licenses:
+  - MPL-2.0
+platforms:
+  - Javascript
+tags:
+  - Communication - XMPP - Web Clients
+source_code_url: https://github.com/conversejs/converse.js

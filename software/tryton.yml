@@ -1,0 +1,11 @@
+name: Tryton
+website_url: https://www.tryton.org/
+description: Free open source business solution.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Resource Planning - Enterprise Resource Planning
+source_code_url: https://hg.tryton.org/
+demo_url: https://www.tryton.org/download.html

@@ -1,0 +1,11 @@
+name: nsupdate.info
+website_url: https://www.nsupdate.info/
+description: nsupdate.info is a dynamic DNS service.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - DNS
+source_code_url: https://github.com/nsupdate-info/nsupdate.info
+demo_url: https://www.nsupdate.info/account/register/

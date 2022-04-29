@@ -1,0 +1,12 @@
+name: Zimbra Collaboration
+website_url: https://www.zimbra.com/
+description: Email, calendar, collaboration server with Web interface and lots of
+  integrations.
+licenses:
+  - GPL-2.0
+  - CPAL-1.0
+platforms:
+  - Java
+tags:
+  - Groupware
+source_code_url: https://github.com/zimbra

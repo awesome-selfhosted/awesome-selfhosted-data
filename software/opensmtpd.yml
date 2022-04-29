@@ -1,0 +1,10 @@
+name: OpenSMTPD
+website_url: https://opensmtpd.org/
+description: Secure SMTP server implementation from the OpenBSD project.
+licenses:
+  - ISC
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/

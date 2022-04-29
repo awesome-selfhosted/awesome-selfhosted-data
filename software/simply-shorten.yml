@@ -1,0 +1,9 @@
+name: Simply Shorten
+website_url: https://gitlab.com/draganczukp/simply-shorten
+description: A simple URL shortener that just shortens links.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - URL Shorteners

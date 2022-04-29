@@ -1,0 +1,10 @@
+name: µTask
+website_url: https://github.com/ovh/utask
+description: µTask is an automation engine that models and executes business processes
+  declared in yaml.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - Automation

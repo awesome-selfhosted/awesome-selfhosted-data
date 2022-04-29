@@ -1,0 +1,11 @@
+name: Vocascan
+website_url: https://vocascan.com/
+description: A highly configurable vocabulary trainer.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/vocascan/vocascan-server
+related_software_url: https://github.com/vocascan/vocascan-desktop

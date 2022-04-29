@@ -1,0 +1,11 @@
+name: Kallithea
+website_url: https://kallithea-scm.org/
+description: Source code management system that supports two leading version control
+  systems, Mercurial and Git, with a web interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Software Development - Project Management
+source_code_url: https://kallithea-scm.org/repos/kallithea

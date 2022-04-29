@@ -1,0 +1,10 @@
+name: updog
+website_url: https://github.com/sc0tfree/updog
+description: Updog is a replacement for Python's SimpleHTTPServer. It allows uploading
+  and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - File Transfer - Web-based File Managers

@@ -1,0 +1,10 @@
+name: sist2
+website_url: https://github.com/simon987/sist2
+description: Lightning-fast file system indexer and search tool.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Search Engines
+demo_url: https://sist2.simon987.net/

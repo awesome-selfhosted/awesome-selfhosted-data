@@ -1,0 +1,11 @@
+name: Tiki
+website_url: https://tiki.org
+description: Wiki CMS Groupware with the most built-in features.
+licenses:
+  - LGPL-2.1
+platforms:
+  - PHP
+tags:
+  - Wikis
+source_code_url: https://sourceforge.net/p/tikiwiki/code/HEAD/tree/
+demo_url: https://tiki.org/Demo

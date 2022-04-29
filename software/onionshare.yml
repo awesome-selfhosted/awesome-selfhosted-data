@@ -1,0 +1,9 @@
+name: OnionShare
+website_url: https://github.com/micahflee/onionshare
+description: Securely and anonymously share a file of any size.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

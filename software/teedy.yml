@@ -1,0 +1,11 @@
+name: Teedy
+website_url: https://teedy.io/
+description: (Ex SismicsDocs) Lightweight document management system packed with all
+  the features you can expect from big expensive solutions.
+licenses:
+  - GPL-2.0
+platforms:
+  - Java
+tags:
+  - Document Management
+source_code_url: https://github.com/sismics/docs

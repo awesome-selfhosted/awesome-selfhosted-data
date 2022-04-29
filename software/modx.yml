@@ -1,0 +1,11 @@
+name: MODX
+website_url: https://modx.com/
+description: MODX is an advanced content management and publishing platform. The current
+  version is called 'Revolution'.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/modxcms/revolution

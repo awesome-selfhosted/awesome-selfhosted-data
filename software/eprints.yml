@@ -1,0 +1,12 @@
+name: EPrints
+website_url: https://www.eprints.org/
+description: Digital document management system with a flexible metadata and workflow
+  model primarily aimed at academic institutions.
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Document Management - Institutional Repository and Digital Library Software
+source_code_url: https://github.com/eprints/eprints
+demo_url: http://tryme.demo.eprints-hosting.org/

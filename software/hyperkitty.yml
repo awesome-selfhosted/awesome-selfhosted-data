@@ -1,0 +1,12 @@
+name: HyperKitty
+website_url: https://wiki.list.org/HyperKitty
+description: Open source Django application to provide a web interface to access GNU
+  Mailman v3 archives.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://gitlab.com/mailman/hyperkitty
+demo_url: https://lists.mailman3.org/

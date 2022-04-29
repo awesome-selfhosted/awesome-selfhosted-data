@@ -1,0 +1,11 @@
+name: Gitea
+website_url: https://gitea.io
+description: Community managed fork of Gogs, lightweight code hosting solution.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/go-gitea/gitea
+demo_url: https://try.gitea.io

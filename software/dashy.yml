@@ -1,0 +1,11 @@
+name: Dashy
+website_url: https://github.com/lissy93/dashy
+description: Feature-rich homepage for your homelab, with easy YAML configuration.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Personal Dashboards
+demo_url: https://demo.dashy.to/

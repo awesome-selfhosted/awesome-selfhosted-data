@@ -1,0 +1,12 @@
+name: CapRover
+website_url: https://caprover.com/
+description: Build your own PaaS in a few minutes.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/caprover/caprover
+demo_url: https://captain.server.demo.caprover.com/#/login

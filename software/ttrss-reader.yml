@@ -1,0 +1,9 @@
+name: ttrss-reader
+website_url: https://github.com/kucrut/ttrss-reader
+description: Light and responsive client for TTRSS.
+licenses:
+  - GPL-2.0
+platforms:
+  - Javascript
+tags:
+  - Feed Readers

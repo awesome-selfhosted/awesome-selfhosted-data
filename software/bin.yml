@@ -1,0 +1,10 @@
+name: bin
+website_url: https://github.com/w4/bin
+description: a paste bin.
+licenses:
+  - WTFPL
+  - 0BSD
+platforms:
+  - Rust
+tags:
+  - Pastebins

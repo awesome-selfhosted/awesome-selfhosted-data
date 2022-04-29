@@ -1,0 +1,11 @@
+name: WonderCMS
+website_url: https://www.wondercms.com
+description: WonderCMS is the smallest flat file CMS since 2008.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/robiso/wondercms
+demo_url: https://www.wondercms.com/demo

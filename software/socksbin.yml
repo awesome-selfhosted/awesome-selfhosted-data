@@ -1,0 +1,10 @@
+name: SocksBin
+website_url: https://github.com/magnumdingusedu/socksbin
+description: Simple and fast terminal based pastebin, with optional code highlighting.
+  No specific client required, all you need is netcat.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Pastebins

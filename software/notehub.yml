@@ -1,0 +1,10 @@
+name: NoteHub
+website_url: https://github.com/chmllr/NoteHub
+description: Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password
+  provided, generated-short link.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Pastebins

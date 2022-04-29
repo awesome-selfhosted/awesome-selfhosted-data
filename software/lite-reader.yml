@@ -1,0 +1,10 @@
+name: Lite-Reader
+website_url: https://github.com/cubny/lite-reader
+description: Read your feeds on your own machine with a simple and lite application.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+demo_url: http://cubny.com/lite-reader/

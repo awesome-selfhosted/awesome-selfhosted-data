@@ -1,0 +1,10 @@
+name: OnTrack
+website_url: https://github.com/inoda/ontrack
+description: A simple app to track spend and set goals.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+  - React
+tags:
+  - Money, Budgeting & Management

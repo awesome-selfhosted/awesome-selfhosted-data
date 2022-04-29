@@ -1,0 +1,10 @@
+name: instant.io
+website_url: https://github.com/webtorrent/instant.io
+description: Streaming file transfer over WebTorrent.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+demo_url: https://instant.io

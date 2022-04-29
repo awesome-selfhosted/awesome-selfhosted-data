@@ -1,0 +1,11 @@
+name: frab
+website_url: https://frab.github.io/frab/
+description: web-based conference planning and management system. It helps to collect
+  submissions, to manage talks and speakers and to create a schedule.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Conference Management
+source_code_url: https://github.com/frab/frab

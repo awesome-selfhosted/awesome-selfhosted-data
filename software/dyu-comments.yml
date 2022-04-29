@@ -1,0 +1,10 @@
+name: dyu comments
+website_url: https://github.com/dyu/comments
+description: Real-time, markdown-enabled comment engine powered by leveldb.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Communication - Social Networks and Forums
+demo_url: https://dyu.github.io/comments/real-time/

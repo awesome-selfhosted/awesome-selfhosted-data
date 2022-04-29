@@ -1,0 +1,12 @@
+name: SilverStrike
+website_url: https://silverstrike.org/
+description: Personal finance management made easy.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Django
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/agstrike/silverstrike
+demo_url: https://demo.silverstrike.org/

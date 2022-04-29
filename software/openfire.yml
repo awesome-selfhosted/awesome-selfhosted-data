@@ -1,0 +1,10 @@
+name: Openfire
+website_url: https://www.igniterealtime.org/projects/openfire/
+description: Real time collaboration (RTC) server.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Communication - XMPP - Servers
+source_code_url: https://github.com/igniterealtime/Openfire

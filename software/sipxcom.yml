@@ -1,0 +1,10 @@
+name: SipXcom
+website_url: https://sipxcom.org/
+description: Open source unified communications system.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/sipXcom/sipxecs

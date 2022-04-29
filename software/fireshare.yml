@@ -1,0 +1,10 @@
+name: FireShare
+website_url: https://github.com/rockmanvnx6/FireShare
+description: A full-stack, pub-sub, real-time secure file sharing system.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://auspham.dev/FireShare

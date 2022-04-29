@@ -1,0 +1,10 @@
+name: Pepperminty Wiki
+website_url: https://github.com/sbrl/Pepperminty-Wiki
+description: Complete markdown-powered wiki contained in a single PHP file.
+licenses:
+  - MPL-2.0
+platforms:
+  - PHP
+tags:
+  - Wikis
+demo_url: https://starbeamrainbowlabs.com/labs/peppermint/build/

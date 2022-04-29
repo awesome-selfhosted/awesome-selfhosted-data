@@ -1,0 +1,11 @@
+name: Redmine
+website_url: https://www.redmine.org/
+description: Redmine is a flexible project management web application.
+licenses:
+  - GPL-2.0
+platforms:
+  - Ruby
+tags:
+  - Software Development - Project Management
+source_code_url: https://svn.redmine.org/redmine/
+demo_url: http://demo.redmine.org/

@@ -1,0 +1,17 @@
+name: WikiSuite
+website_url: https://wikisuite.org
+description: The most comprehensive and integrated Free / Libre / Open Source enterprise
+  software suite.
+licenses:
+  - GPL-3.0
+  - LGPL-2.1
+  - Apache-2.0
+  - MPL-2.0
+  - MPL-1.1
+  - MIT
+  - AGPL-3.0
+platforms:
+  - ClearOS
+tags:
+  - Self-hosting Solutions
+source_code_url: https://wikisuite.org/Source-Code

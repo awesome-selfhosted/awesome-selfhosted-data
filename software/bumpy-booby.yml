@@ -1,0 +1,10 @@
+name: Bumpy Booby
+website_url: https://bumpy-booby.derivoile.fr/
+description: Simple, responsive and highly customizable PHP bug tracking system.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Ticketing
+source_code_url: https://github.com/piero-la-lune/Bumpy-Booby

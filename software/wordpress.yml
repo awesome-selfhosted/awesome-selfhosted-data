@@ -1,0 +1,10 @@
+name: WordPress
+website_url: https://wordpress.org/
+description: World's most-used blogging and CMS engine.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/WordPress/WordPress

@@ -1,0 +1,12 @@
+name: Nextcloud
+website_url: https://nextcloud.com/
+description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/)
+  from any device, on your terms.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://github.com/nextcloud/server
+demo_url: https://demo.nextcloud.com/

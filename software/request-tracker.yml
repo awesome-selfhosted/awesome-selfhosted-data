@@ -1,0 +1,10 @@
+name: Request Tracker
+website_url: https://www.bestpractical.com/rt/
+description: An enterprise-grade issue tracking system.
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Ticketing
+source_code_url: https://github.com/bestpractical/rt

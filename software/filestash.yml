@@ -1,0 +1,12 @@
+name: Filestash
+website_url: https://www.filestash.app/
+description: 'A web file manager that lets you manage your data anywhere it is located:
+  FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/mickael-kerjean/filestash
+demo_url: https://demo.filestash.app/

@@ -1,0 +1,11 @@
+name: xsrv
+website_url: https://xsrv.readthedocs.io/
+description: Install and manage self-hosted services/applications, on your own server(s).
+licenses:
+  - GPL-3.0
+platforms:
+  - Shell
+  - Ansible
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/nodiscc/xsrv

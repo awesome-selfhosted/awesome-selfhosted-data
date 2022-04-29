@@ -1,0 +1,10 @@
+name: Z-Push
+website_url: https://z-push.org/
+description: Implementation of Microsoft’s ActiveSync protocol.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://stash.kopano.io/projects/ZHUB/repos/z-push

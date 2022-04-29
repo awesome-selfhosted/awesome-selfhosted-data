@@ -1,0 +1,11 @@
+name: Pinry
+website_url: https://getpinry.com/
+description: The tiling image board system for people who want to save, tag, and share
+  images, videos, and webpages.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+tags:
+  - Bookmarks and Link Sharing
+source_code_url: https://github.com/pinry/pinry

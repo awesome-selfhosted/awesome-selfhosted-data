@@ -1,0 +1,10 @@
+name: Slimta
+website_url: https://www.slimta.org
+description: Mail Transfer Library built on Python.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://github.com/slimta/python-slimta

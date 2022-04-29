@@ -1,0 +1,12 @@
+name: todoMini
+website_url: https://www.todomini.app/
+description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Java
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/appMini/todoMini
+demo_url: https://appmini.github.io/todoMini/?demo

@@ -1,0 +1,10 @@
+name: fiche
+website_url: https://github.com/solusipse/fiche
+description: Command line pastebin, all you need is netcat.
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Pastebins
+demo_url: https://termbin.com/

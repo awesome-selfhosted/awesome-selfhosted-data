@@ -1,0 +1,10 @@
+name: IHateToBudget
+website_url: https://github.com/bminusl/ihatetobudget
+description: A simple web app to understand and control your expenses.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Money, Budgeting & Management

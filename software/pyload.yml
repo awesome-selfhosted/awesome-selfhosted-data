@@ -1,0 +1,11 @@
+name: pyLoad
+website_url: https://pyload.net/
+description: Lightweight, customizable and remotely manageable downloader for 1-click-hosting
+  sites like rapidshare.com or uploaded.to.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Automation
+source_code_url: https://github.com/pyload/pyload

@@ -1,0 +1,11 @@
+name: Misago
+website_url: https://misago-project.org/
+description: Misago is fully featured modern forum application that is fast, scalable
+  and responsive.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/rafalp/Misago

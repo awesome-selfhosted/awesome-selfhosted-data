@@ -1,0 +1,11 @@
+name: Yacy
+website_url: https://yacy.net/en/index.html
+description: Peer based, decentralized search engine server.
+licenses:
+  - GPL-2.0
+platforms:
+  - Java
+tags:
+  - Search Engines
+source_code_url: https://github.com/yacy/yacy_search_server
+demo_url: https://search.yacy.net/

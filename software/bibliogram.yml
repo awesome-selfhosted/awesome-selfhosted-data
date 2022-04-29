@@ -1,0 +1,11 @@
+name: Bibliogram
+website_url: https://bibliogram.art
+description: An alternative front-end for Instagram.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://sr.ht/~cadence/bibliogram/
+depends_3rdparty: true

@@ -1,0 +1,10 @@
+name: Tuber
+website_url: https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/
+description: Peer-to-peer video chat that works.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/trailofbits/tubertc

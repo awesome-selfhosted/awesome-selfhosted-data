@@ -1,0 +1,11 @@
+name: Para
+website_url: https://paraio.org
+description: Flexible and modular backend framework/server for object persistence,
+  API development and authentication.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/erudika/para

@@ -1,0 +1,9 @@
+name: OpenCFP
+website_url: https://github.com/opencfp/opencfp
+description: OpenCFP is a PHP-based conference talk submission system.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Conference Management

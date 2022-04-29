@@ -1,0 +1,10 @@
+name: Metronome IM
+website_url: https://metronome.im/
+description: Fork of Prosody IM.
+licenses:
+  - MIT
+platforms:
+  - Lua
+tags:
+  - Communication - XMPP - Servers
+source_code_url: https://github.com/maranda/metronome

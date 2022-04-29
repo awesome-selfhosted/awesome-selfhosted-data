@@ -1,0 +1,11 @@
+name: 2FAuth
+website_url: https://github.com/Bubka/2FAuth
+description: A web app to manage your Two-Factor Authentication (2FA) accounts and
+  generate their security codes.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+demo_url: https://demo.2fauth.app/

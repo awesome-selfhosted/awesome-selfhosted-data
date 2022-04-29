@@ -1,0 +1,11 @@
+name: FriendsRadio
+website_url: https://github.com/xouabita/friends-radio
+description: Share music with your friends from Youtube and Soundcloud.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming
+demo_url: https://friends-radio.herokuapp.com/
+depends_3rdparty: true

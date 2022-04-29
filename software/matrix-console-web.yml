@@ -1,0 +1,11 @@
+name: Matrix Console Web
+website_url: https://matrix.org/docs/projects/client/matrix-console-web
+description: Web client meant to be a showcase of Matrix capabilities, and reference
+  implementation of the Matrix standard.
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/matrix-org/matrix-angular-sdk

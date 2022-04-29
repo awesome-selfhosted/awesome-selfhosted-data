@@ -1,0 +1,9 @@
+name: ytdl-webserver
+website_url: https://github.com/Algram/ytdl-webserver
+description: Docker-ready webserver for downloading youtube videos.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous

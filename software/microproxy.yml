@@ -1,0 +1,9 @@
+name: microproxy
+website_url: https://github.com/thekvs/microproxy
+description: lightweight non-caching HTTP/HTTPS proxy server.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Proxy

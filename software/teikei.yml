@@ -1,0 +1,11 @@
+name: teikei
+website_url: https://github.com/teikei/teikei
+description: A web application that maps out community-supported agriculture based
+  on crowdsourced data.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Community-Supported Agriculture (CSA)
+demo_url: https://ernte-teilen.org/karte/#/

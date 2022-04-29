@@ -1,0 +1,10 @@
+name: Dispatch
+website_url: https://github.com/khlieng/dispatch
+description: Self-hosted web IRC client written in Go.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - IRC
+demo_url: https://dispatch.khlieng.com/connect

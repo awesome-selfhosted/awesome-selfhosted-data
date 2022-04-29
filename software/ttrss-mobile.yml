@@ -1,0 +1,9 @@
+name: ttrss-mobile
+website_url: https://github.com/mboinet/ttrss-mobile
+description: Mobile webapp for Tiny Tiny RSS.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Feed Readers

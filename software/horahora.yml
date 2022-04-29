@@ -1,0 +1,10 @@
+name: Horahora
+website_url: https://github.com/horahoradev/horahora
+description: Video hosting website and video archival manager for Niconico, Bilibili,
+  and Youtube.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Archiving and Digital Preservation (DP)

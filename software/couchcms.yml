@@ -1,0 +1,10 @@
+name: CouchCMS
+website_url: https://www.couchcms.com/
+description: Simple Open-Source CMS for designers.
+licenses:
+  - CPAL-1.0
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/CouchCMS/CouchCMS

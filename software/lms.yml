@@ -1,0 +1,10 @@
+name: LMS
+website_url: https://github.com/epoupon/lms
+description: Access your self-hosted music using a web interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Media Streaming - Audio Streaming
+demo_url: https://lms.demo.poupon.io/

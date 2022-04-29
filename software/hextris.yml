@@ -1,0 +1,10 @@
+name: Hextris
+website_url: https://github.com/Hextris/hextris
+description: Fast paced HTML5 puzzle game inspired by Tetris.
+licenses:
+  - GPL-3.0
+platforms:
+  - HTML5
+tags:
+  - Games
+demo_url: https://hextris.github.io/hextris

@@ -1,0 +1,10 @@
+name: tmate
+website_url: https://tmate.io/
+description: Instant terminal sharing.
+licenses:
+  - ISC
+platforms:
+  - C
+tags:
+  - Gateways and Terminal Sharing
+source_code_url: https://github.com/tmate-io/tmate

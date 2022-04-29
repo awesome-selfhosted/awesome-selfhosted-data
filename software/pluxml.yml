@@ -1,0 +1,10 @@
+name: PluXml
+website_url: https://pluxml.org
+description: XML-based blog/CMS platform.
+licenses:
+  - GPL-1.0
+platforms:
+  - PHP
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/pluxml/PluXml

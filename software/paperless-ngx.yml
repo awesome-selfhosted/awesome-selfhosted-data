@@ -1,0 +1,11 @@
+name: Paperless-ngx
+website_url: https://github.com/paperless-ngx/paperless-ngx
+description: A fork of paperless, adding a new interface and many other changes under
+  the hood. Scan, index, and archive all of your paper documents.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Document Management
+demo_url: https://demo.paperless-ngx.com/

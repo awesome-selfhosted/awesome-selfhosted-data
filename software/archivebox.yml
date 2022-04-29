@@ -1,0 +1,11 @@
+name: ArchiveBox
+website_url: https://archivebox.io/
+description: Self-hosted _wayback machine_ that creates HTML & screenshot archives
+  of sites from your bookmarks, browsing history, RSS feeds, or other sources.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/ArchiveBox/ArchiveBox

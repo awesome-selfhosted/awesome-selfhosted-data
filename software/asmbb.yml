@@ -1,0 +1,10 @@
+name: AsmBB
+website_url: https://board.asm32.info
+description: A fast, SQLite-powered forum engine written in ASM.
+licenses:
+  - EUPL-1.2
+platforms:
+  - Assembly
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://asm32.info/fossil/asmbb/index

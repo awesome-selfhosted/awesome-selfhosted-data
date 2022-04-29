@@ -1,0 +1,10 @@
+name: Notea
+website_url: https://cinwell.com/notea/
+description: Self-hosted note-taking app stored on S3-compatible storage.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/QingWei-Li/notea

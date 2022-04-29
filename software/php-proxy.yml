@@ -1,0 +1,12 @@
+name: PHP-Proxy
+website_url: https://www.php-proxy.com/
+description: Web proxy script built specifically to be fast, easy to modify and to
+  support video sites such as YouTube.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Proxy
+source_code_url: https://github.com/Athlon1600/php-proxy-app
+demo_url: https://unblockvideos.com/

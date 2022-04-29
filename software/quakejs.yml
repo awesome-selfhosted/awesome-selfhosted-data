@@ -1,0 +1,9 @@
+name: QuakeJS
+website_url: https://github.com/begleysm/quakejs
+description: QuakeJS is a port of ioquake3 to Javascript that can be played in a browser.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Games

@@ -1,0 +1,10 @@
+name: minimalist-web-notepad
+website_url: https://github.com/pereorga/minimalist-web-notepad
+description: Minimalist notepad.cc clone.
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+tags:
+  - Note-taking & Editors
+demo_url: https://notes.orga.cat/

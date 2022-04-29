@@ -1,0 +1,11 @@
+name: DeviceHive
+website_url: https://www.devicehive.com/
+description: Open Source IoT Platform with a wide range of integration options.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/devicehive/devicehive-java-server
+demo_url: https://playground.devicehive.com/

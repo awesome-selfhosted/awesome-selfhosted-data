@@ -1,0 +1,12 @@
+name: MailyHerald
+website_url: https://mailyherald.org/
+description: Self-hosted Mailchimp alternative that you can easily integrate with
+  your site. Helps you send and manage your application mailings. It supports email
+  marketing and conducting the daily stream of notifications you send to your users.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Ruby
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://github.com/Sology/maily_herald

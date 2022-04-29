@@ -1,0 +1,9 @@
+name: TeslaMate
+website_url: https://github.com/adriankumpf/teslamate
+description: A powerful data logger for Tesla vehicles.
+licenses:
+  - MIT
+platforms:
+  - Elixir
+tags:
+  - Miscellaneous

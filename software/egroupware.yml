@@ -1,0 +1,12 @@
+name: egroupware
+website_url: https://www.egroupware.org/
+description: Software suite including calendars, address books, notepad, project management
+  tools, client relationship management tools (CRM), knowledge management tools, a
+  wiki and a CMS.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Groupware
+source_code_url: https://github.com/EGroupware/egroupware

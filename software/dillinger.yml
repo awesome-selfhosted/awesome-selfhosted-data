@@ -1,0 +1,10 @@
+name: dillinger
+website_url: https://dillinger.io/
+description: The last Markdown editor, ever.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/joemccann/dillinger

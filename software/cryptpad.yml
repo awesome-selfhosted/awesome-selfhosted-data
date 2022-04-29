@@ -1,0 +1,11 @@
+name: CryptPad
+website_url: https://cryptpad.fr/
+description: CryptPad is the zero knowledge realtime collaborative editor (rich-text,
+  files, source-code, ...).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Office Suites
+source_code_url: https://github.com/xwiki-labs/cryptpad

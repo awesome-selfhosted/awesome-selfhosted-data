@@ -1,0 +1,10 @@
+name: Freepbx
+website_url: https://www.freepbx.org
+description: Web-based open source GUI that controls and manages Asterisk.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Communication - SIP
+source_code_url: https://git.freepbx.org/projects/FREEPBX

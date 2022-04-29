@@ -1,0 +1,12 @@
+name: Calibre
+website_url: https://calibre-ebook.com/
+description: E-book library manager that can view, convert, and catalog e-books in
+  most of the major e-book formats and provides a built-in Web server for remote clients.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Document Management - E-books
+source_code_url: https://launchpad.net/calibre
+demo_url: https://calibre-ebook.com/demo

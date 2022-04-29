@@ -1,0 +1,10 @@
+name: OpenSSH SFTP server
+website_url: https://www.openssh.com/
+description: Secure File Transfer Program.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - C
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh

@@ -1,0 +1,10 @@
+name: Selfoss
+website_url: https://selfoss.aditu.de/
+description: New multipurpose rss reader, live stream, mashup, aggregation web application.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Feed Readers
+source_code_url: https://github.com/fossar/selfoss

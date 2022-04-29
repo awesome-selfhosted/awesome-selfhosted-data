@@ -1,0 +1,11 @@
+name: dpaste
+website_url: https://dpaste.org/
+description: simple pastebin with multiple text and code option, with short url result
+  easy to remember.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Pastebins
+source_code_url: https://github.com/bartTC/dpaste

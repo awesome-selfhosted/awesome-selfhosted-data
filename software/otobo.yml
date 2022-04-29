@@ -1,0 +1,12 @@
+name: OTOBO
+website_url: https://otobo.de/en/
+description: Flexible web-based ticketing system used for Customer Service, Help Desk,
+  IT Service Management.
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Ticketing
+source_code_url: https://github.com/RotherOSS/otobo
+demo_url: https://otobo.de/en/open-source-ticketing-system/#demos

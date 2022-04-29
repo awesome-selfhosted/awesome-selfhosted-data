@@ -1,0 +1,10 @@
+name: SparkleShare
+website_url: https://sparkleshare.org/
+description: Self hosted, instant, secure file sync.
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://github.com/hbons/SparkleShare

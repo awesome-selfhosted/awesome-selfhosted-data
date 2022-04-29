@@ -1,0 +1,13 @@
+name: Read the Docs
+website_url: https://readthedocs.org/
+description: Host documentation, making it fully searchable and easy to find; import
+  your docs using any major version control system, including Mercurial, Git, Subversion,
+  and Bazaar.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Software Development - Documentation Generators
+source_code_url: https://github.com/readthedocs/readthedocs.org
+demo_url: https://readthedocs.org/projects/

@@ -1,0 +1,11 @@
+name: wantguns/bin
+website_url: https://github.com/wantguns/bin
+description: Minimal pastebin for both textual and binary files shipped in a single
+  statically linked binary.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - Pastebins
+demo_url: https://basedbin.fly.dev

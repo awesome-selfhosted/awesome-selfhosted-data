@@ -1,0 +1,10 @@
+name: liteshort
+website_url: https://github.com/132ikl/liteshort
+description: User-friendly, actually lightweight, and configurable URL shortener.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - URL Shorteners
+demo_url: https://ls.ikl.sh

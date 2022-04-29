@@ -1,0 +1,10 @@
+name: Heimdall
+website_url: https://heimdall.site/
+description: Heimdall is an elegant solution to organise all your web applications.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/linuxserver/Heimdall

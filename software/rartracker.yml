@@ -1,0 +1,9 @@
+name: rartracker
+website_url: https://github.com/swetorrentking/rartracker
+description: Complete private bittorrent tracker.
+licenses:
+  - WTFPL
+platforms:
+  - PHP
+tags:
+  - File Transfer - Peer-to-peer Filesharing

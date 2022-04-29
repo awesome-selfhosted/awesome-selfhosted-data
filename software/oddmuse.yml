@@ -1,0 +1,10 @@
+name: Oddmuse
+website_url: https://oddmuse.org/
+description: A simple wiki engine written in Perl. No database required.
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/kensanata/oddmuse

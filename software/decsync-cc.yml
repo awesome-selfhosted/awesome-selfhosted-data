@@ -1,0 +1,11 @@
+name: DecSync CC
+website_url: https://f-droid.org/packages/org.decsync.cc/
+description: Serverless contacts, calendar synchronization using your own file syncing
+  method i.e Syncthing, Nextcloud etc.
+licenses:
+  - GPL-3.0
+platforms:
+  - Kotlin
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Servers
+source_code_url: https://github.com/39aldo39/DecSyncCC

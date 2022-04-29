@@ -1,0 +1,10 @@
+name: budgetzero
+website_url: https://github.com/budgetzero/budgetzero
+description: Free, self-hosted, open-source, envelope-budgeting web and desktop app.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+demo_url: https://app.budgetzero.io/budget

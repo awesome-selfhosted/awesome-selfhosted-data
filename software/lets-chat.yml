@@ -1,0 +1,10 @@
+name: Lets-Chat
+website_url: https://sdelements.github.io/lets-chat/
+description: Self hosted chat suite written in Node.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/sdelements/lets-chat

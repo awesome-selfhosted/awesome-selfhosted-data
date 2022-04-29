@@ -1,0 +1,10 @@
+name: ERPNext
+website_url: https://erpnext.com
+description: Free open source ERP system.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Resource Planning - Enterprise Resource Planning
+source_code_url: https://github.com/frappe/erpnext

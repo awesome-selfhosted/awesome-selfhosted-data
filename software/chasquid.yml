@@ -1,0 +1,11 @@
+name: chasquid
+website_url: https://blitiri.com.ar/p/chasquid/
+description: SMTP (email) server with a focus on simplicity, security, and ease of
+  operation.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://blitiri.com.ar/git/r/chasquid/

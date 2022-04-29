@@ -1,0 +1,10 @@
+name: turndown
+website_url: https://mixmark-io.github.io/turndown/
+description: HTML to Markdown converter written in Javascript.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/mixmark-io/turndown

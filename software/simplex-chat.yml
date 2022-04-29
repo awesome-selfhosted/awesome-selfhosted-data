@@ -1,0 +1,10 @@
+name: SimpleX Chat
+website_url: https://github.com/simplex-chat/simplex-chat
+description: The most private and secure chat and applications platform - now with
+  double ratchet E2E encryption.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Haskell
+tags:
+  - Communication - Custom Communication Systems

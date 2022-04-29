@@ -1,0 +1,11 @@
+name: Haven
+website_url: https://havenweb.org/
+description: Private blogging system with markdown editing and built in RSS reader.
+licenses:
+  - MIT
+platforms:
+  - Ruby
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/havenweb/haven
+demo_url: https://havenweb.org/demo.html

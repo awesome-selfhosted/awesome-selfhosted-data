@@ -1,0 +1,11 @@
+name: PicoShare
+website_url: https://pico.rocks
+description: A minimalist, easy-to-host service for sharing images and other files.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/mtlynch/picoshare
+demo_url: https://demo.pico.rocks

@@ -1,0 +1,10 @@
+name: Whoogle
+website_url: https://github.com/benbusby/whoogle-search
+description: A self-hosted, ad-free, privacy-respecting metasearch engine.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Search Engines
+depends_3rdparty: true

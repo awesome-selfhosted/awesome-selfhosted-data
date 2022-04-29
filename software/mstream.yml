@@ -1,0 +1,11 @@
+name: mStream
+website_url: https://mstream.io/
+description: Music streaming server with GUI management tools. Runs on Mac, Windows,
+  and Linux.
+licenses:
+  - GPL-2.0
+platforms:
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/IrosTheBeggar/mStream

@@ -1,0 +1,10 @@
+name: Open Event Server
+website_url: https://github.com/fossasia/open-event-server
+description: Enables organizers to manage events from concerts to conferences and
+  meet-ups.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Polls and Events

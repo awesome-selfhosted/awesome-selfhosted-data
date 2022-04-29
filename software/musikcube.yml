@@ -1,0 +1,10 @@
+name: musikcube
+website_url: https://musikcube.com/
+description: Streaming audio server with Linux/macOS/Windows/Android clients.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C++
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/clangen/musikcube

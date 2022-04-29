@@ -1,0 +1,13 @@
+name: SOGo
+website_url: https://sogo.nu/
+description: SOGo offers multiple ways to access the calendaring and messaging data.
+  CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility
+  and Web interface.
+licenses:
+  - LGPL-2.1
+platforms:
+  - Objective-C
+tags:
+  - Groupware
+source_code_url: https://github.com/inverse-inc/sogo
+demo_url: https://demo.sogo.nu/SOGo/

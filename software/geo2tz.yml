@@ -1,0 +1,10 @@
+name: Geo2tz
+website_url: https://github.com/noandrea/geo2tz
+description: Get the timezone from geo coordinates (lat, lon).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Maps and Global Positioning System (GPS)

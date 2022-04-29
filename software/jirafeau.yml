@@ -1,0 +1,11 @@
+name: Jirafeau
+website_url: https://gitlab.com/mojo42/Jirafeau
+description: Jirafeau is a web site permitting to upload a file in a simple way and
+  give an unique link to it.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: http://jirafeau.net/

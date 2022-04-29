@@ -1,0 +1,11 @@
+name: iodine
+website_url: https://code.kryo.se/iodine/
+description: IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy
+  listener.
+licenses:
+  - ISC
+platforms:
+  - C
+tags:
+  - Proxy
+source_code_url: https://github.com/yarrick/iodine

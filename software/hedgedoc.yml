@@ -1,0 +1,11 @@
+name: HedgeDoc
+website_url: https://demo.hedgedoc.org/
+description: Realtime collaborative markdown notes on all platforms, formerly known
+  as CodiMD and HackMD CE.
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/hedgedoc/hedgedoc

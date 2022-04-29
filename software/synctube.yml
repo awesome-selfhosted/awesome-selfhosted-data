@@ -1,0 +1,12 @@
+name: SyncTube
+website_url: https://github.com/RblSb/SyncTube
+description: Lightweight and very simple to setup CyTube alternative to watch videos
+  with friends and chat.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Haxe
+tags:
+  - Media Streaming - Video Streaming
+demo_url: https://synctube-example.herokuapp.com/

@@ -1,0 +1,10 @@
+name: OpenFaaS
+website_url: https://www.openfaas.com/
+description: Serverless Functions Made Simple for Docker & Kubernetes.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Software Development - FaaS & Serverless
+source_code_url: https://github.com/openfaas/faas

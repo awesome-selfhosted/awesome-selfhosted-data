@@ -1,0 +1,11 @@
+name: Kiwi IRC
+website_url: https://kiwiirc.com/
+description: Responsive web IRC client with theming support.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - IRC
+source_code_url: https://github.com/kiwiirc/kiwiirc
+demo_url: https://kiwiirc.com/nextclient/

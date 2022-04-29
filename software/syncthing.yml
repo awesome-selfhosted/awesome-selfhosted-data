@@ -1,0 +1,10 @@
+name: Syncthing
+website_url: https://syncthing.net/
+description: Syncthing is an open source peer-to-peer file synchronisation tool.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://github.com/syncthing/syncthing

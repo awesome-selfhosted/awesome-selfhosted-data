@@ -3,7 +3,7 @@ website_url: "https://babelouest.github.io/glewlwyd/"
 source_code_url: "https://github.com/babelouest/glewlwyd"
 description: "Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins."
 licenses:
-  - GPL-3.0
+  - ZXY
 platforms:
   - XYZ
 tags:

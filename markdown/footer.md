@@ -1,5 +1,11 @@
 --------------------
 
+## Anti-features
+
+- `⚠ ` - Depends on a proprietary service outside the user's control
+
+--------------------
+
 ## External Links
 
 **[`^        back to top        ^`](#)**

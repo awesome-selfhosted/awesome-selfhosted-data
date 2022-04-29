@@ -1,0 +1,11 @@
+name: "Glewlwyd SSO server"
+website_url: "https://babelouest.github.io/glewlwyd/"
+source_code_url: "https://github.com/babelouest/glewlwyd"
+description: "Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins." # required
+licenses: # required, see licenses.yml fro the full list of licenses
+  - GPL-3.0
+platforms: # required, see platforms/ for the full list of platforms
+  - C
+tags:
+  - Federated Identity & Authentication
+demo_url: "https://babelouest.io/glewlwyd/"

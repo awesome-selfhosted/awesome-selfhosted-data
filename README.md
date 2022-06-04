@@ -23,7 +23,7 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
   - [staticgen.com](https://www.staticgen.com/)
   - [staticsitegenerators.net](https://staticsitegenerators.net/)
 - [ ] Please search for relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [pull requests](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
-- [ ] [Create a new `.yml` file](https://github.com/nodiscc/awesome-selfhosted-data/new/master/software) based on the template below in the `software/` directory:
+- [ ] [Create a new `.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software) based on the template below in the `software/` directory:
 
 ```yaml
 # software/my-awesome-software.yml

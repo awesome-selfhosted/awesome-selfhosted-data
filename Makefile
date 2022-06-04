@@ -16,6 +16,11 @@ import: install
 	source .venv/bin/activate && \
 	hecat import --source-file awesome-selfhosted/README.md --output-directory ./
 
+.PHONY: process # apply automatic processing (gather github metadata)
+process: install
+	source .venv/bin/activate && \
+	hecat process --processors github_metadata --source-directory ./
+
 .PHONY: build # build markdown singlepage document from yaml data
 build: install
 	rm -rf awesome-selfhosted && git clone https://github.com/awesome-selfhosted/awesome-selfhosted

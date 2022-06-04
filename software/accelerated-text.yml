@@ -1,5 +1,5 @@
 name: Accelerated Text
-website_url: https://github.com/tokenmill/accelerated-text
+website_url: https://www.acceleratedtext.com/
 description: Automatically generate multiple natural language descriptions of your
   data varying in wording and structure.
 licenses:
@@ -8,3 +8,4 @@ platforms:
   - Java
 tags:
   - Automation
+source_code_url: https://github.com/tokenmill/accelerated-text

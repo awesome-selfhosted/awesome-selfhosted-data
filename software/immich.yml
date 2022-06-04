@@ -1,0 +1,10 @@
+name: Immich
+website_url: https://github.com/alextran1502/immich
+description: Self-hosted photo and video backup solution directly from your mobile
+  phone.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Photo and Video Galleries

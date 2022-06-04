@@ -1,0 +1,9 @@
+name: Wirow
+website_url: https://github.com/wirow-io/wirow-server
+description: A full featured self-hosted video web-conferencing platform.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - Communication - Custom Communication Systems

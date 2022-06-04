@@ -5,7 +5,8 @@ description: Realtime collaborative markdown notes on all platforms, formerly kn
 licenses:
   - AGPL-3.0
 platforms:
-  - TypeScript
+  - Docker
+  - Nodejs
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/hedgedoc/hedgedoc

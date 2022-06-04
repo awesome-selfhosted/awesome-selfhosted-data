@@ -1,0 +1,11 @@
+name: Notifo
+website_url: https://github.com/notifo-io/notifo
+description: Multichannel notification server with support for Email, Mobile Push,
+  Web Push, SMS, messaging and a javascript plugin.
+licenses:
+  - MIT
+platforms:
+  - C#
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/notifo-io/notifo

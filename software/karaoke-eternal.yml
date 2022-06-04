@@ -1,7 +1,7 @@
-name: Karaoke Forever
-website_url: https://www.karaoke-forever.com
+name: Karaoke Eternal
+website_url: https://www.karaoke-eternal.com
 description: Host awesome karaoke parties where everyone can easily find and queue
-  songs from their phone's web browser. The player is also browser-based with support
+  songs from their phone's browser. The player is also fully browser-based with support
   for MP3+G, MP4 and WebGL visualizations.
 licenses:
   - ISC
@@ -9,4 +9,4 @@ platforms:
   - Nodejs
 tags:
   - Media Streaming - Multimedia Streaming
-source_code_url: https://www.karaoke-forever.com/repo
+source_code_url: https://www.karaoke-eternal.com/repo

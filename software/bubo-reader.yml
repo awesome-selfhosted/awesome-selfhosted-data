@@ -1,0 +1,10 @@
+name: Bubo Reader
+website_url: https://github.com/georgemandis/bubo-rss
+description: Open source, "irrationally minimal" RSS feed reader.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Feed Readers
+demo_url: https://bubo-rss-demo.netlify.app/

@@ -1,0 +1,11 @@
+name: WeeWX
+website_url: https://weewx.com/
+description: Open source software for your weather station.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/weewx/weewx
+demo_url: https://weewx.com/showcase.html

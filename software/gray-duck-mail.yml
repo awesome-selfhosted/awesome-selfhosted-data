@@ -1,0 +1,11 @@
+name: Gray Duck Mail
+website_url: https://grayduckmail.com
+description: Self hosted email discussion list management that uses external email
+  providers.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://github.com/wagesj45/gray-duck-mail

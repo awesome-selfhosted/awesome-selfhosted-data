@@ -1,0 +1,10 @@
+name: Soketi
+website_url: https://soketi.app/
+description: Soketi is a free, open-source Pusher drop-in alternative.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/soketi/soketi

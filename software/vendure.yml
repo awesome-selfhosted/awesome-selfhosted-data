@@ -1,0 +1,11 @@
+name: Vendure
+website_url: https://www.vendure.io
+description: A headless commerce framework.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/vendure-ecommerce/vendure
+demo_url: https://demo.vendure.io

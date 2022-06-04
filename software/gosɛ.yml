@@ -1,0 +1,12 @@
+name: GoSƐ
+website_url: https://github.com/stv0g/gose
+description: GoSƐ is a modern file-uploader focusing on scalability and simplicity.
+  It only depends on a S3 storage backend and hence scales horizontally without the
+  need for additional databases or caches.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://gose.0l.de

@@ -1,0 +1,10 @@
+name: Uptime Kuma
+website_url: https://github.com/louislam/uptime-kuma
+description: A self-hosted website monitoring tool like "Uptime Robot".
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Status / Uptime pages
+demo_url: https://demo.uptime.kuma.pet

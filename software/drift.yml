@@ -4,7 +4,7 @@ description: Self-hosted Github Gist clone.
 licenses:
   - MIT
 platforms:
-  - TypeScript
+  - Nodejs
 tags:
   - Pastebins
 demo_url: https://drift.maxleiter.com/

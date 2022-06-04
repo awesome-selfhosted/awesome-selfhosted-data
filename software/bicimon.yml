@@ -1,0 +1,10 @@
+name: Bicimon
+website_url: https://github.com/knrdl/bicimon
+description: Bike Speedometer as Progressive Web App.
+licenses:
+  - MIT
+platforms:
+  - HTML5
+tags:
+  - Maps and Global Positioning System (GPS)
+demo_url: https://knrdl.github.io/bicimon/

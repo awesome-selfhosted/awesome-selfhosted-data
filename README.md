@@ -50,9 +50,11 @@ demo_url: "https://my.awesome.softwar.e/demo" # optional, link to an interactive
 related_software_url: "https://my.awesome.softwar.e/apps" # optional, link to a list of clients/addons/plugins/apps/bots... for the software
 ```
 
+- [ ] remove comments and unused optional fields
 - [ ] enter a descriptive commit message (such as `add My Awesome software`)
-- [ ] Then select _Create a new branch for this commit and start a pull request_ and click `Propose new file`.
-- [ ] Click `Create pull request`
+- [ ] select `Create a new branch for this commit and start a pull request`
+- [ } click `Propose new file`
+- [ ] click `Create pull request`
 
 If you are not comfortable sending a pull request, please copy/edit the template above and post it in a new [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)
 

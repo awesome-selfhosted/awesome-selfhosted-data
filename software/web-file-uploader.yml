@@ -1,5 +1,5 @@
 name: Web-File-Uploader
-website_url: https://v2.femto.pw/
+website_url: https://github.com/femto-apps/web-file-uploader
 description: A simple tool to let people upload and share images and files.
 licenses:
   - MIT
@@ -7,4 +7,5 @@ platforms:
   - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/femto-apps/web-file-uploader
+stargazers_count: 36
+updated_at: '2022-01-26'

@@ -1,5 +1,5 @@
 name: Mailtrain
-website_url: https://mailtrain.org/
+website_url: https://github.com/Mailtrain-org/mailtrain
 description: Self hosted newsletter application.
 licenses:
   - GPL-3.0
@@ -7,4 +7,5 @@ platforms:
   - Nodejs
 tags:
   - Communication - Email - Mailing Lists and Newsletters
-source_code_url: https://github.com/Mailtrain-org/mailtrain
+stargazers_count: 5033
+updated_at: '2022-06-04'

@@ -1,5 +1,5 @@
 name: Stringer
-website_url: https://github.com/swanson/stringer
+website_url: https://github.com/stringer-rss/stringer
 description: Work-in-progress self-hosted, anti-social RSS reader.
 licenses:
   - MIT
@@ -8,4 +8,4 @@ platforms:
 tags:
   - Feed Readers
 stargazers_count: 3455
-updated_at: '2022-06-03'
+updated_at: '2022-06-05'

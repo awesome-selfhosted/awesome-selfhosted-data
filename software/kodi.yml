@@ -1,0 +1,11 @@
+name: Kodi
+website_url: https://kodi.tv/
+description: Multimedia/Entertainment center, formerly known as XBMC. Runs on Android,
+  BSD, Linux, macOS, iOS and Windows.
+licenses:
+  - GPL-2.0
+platforms:
+  - C++
+tags:
+  - Media Streaming - Multimedia Streaming
+source_code_url: https://github.com/xbmc/xbmc

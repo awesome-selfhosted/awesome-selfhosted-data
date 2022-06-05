@@ -6,11 +6,16 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
         uses: actions/checkout@v3
+      - name: process
+        run: make process
       - name: build
         run: make build

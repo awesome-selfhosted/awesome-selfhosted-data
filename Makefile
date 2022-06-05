@@ -14,7 +14,7 @@ import: install
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \
-	hecat import --source-file awesome-selfhosted/README.md --output-directory ./
+	hecat import --source-file awesome-selfhosted/README.md --output-directory ./ --options=gh-metadata-only-missing
 
 .PHONY: process # apply automatic processing (gather github metadata)
 process: install

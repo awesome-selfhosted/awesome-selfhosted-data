@@ -63,13 +63,7 @@ If you are not comfortable sending a pull request, please copy/edit the template
 In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) the software will only appear under the first category in its `tags` list, so choose wisely.
 
 
-## Build the markdown list
-
-```bash
-make build
-```
-
-## Maintenance tasks
+## Maintenance
 
 **Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.
 
@@ -102,6 +96,16 @@ name: Java
 description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
 ```
 
+**Automated tasks:**
+
+```bash
+$ make help
+install             install build tools in a virtualenv
+import              import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
+process             apply automatic processing (gather github metadata)
+build               build markdown singlepage document from yaml data
+help                generate list of targets with descriptions
+```
 
 ## License
 

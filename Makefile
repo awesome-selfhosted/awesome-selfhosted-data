@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-.PHONY: install # install in a virtualenv
+.PHONY: install # install build tools in a virtualenv
 install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
@@ -27,3 +27,7 @@ build: install
 	source .venv/bin/activate && \
 	hecat build --source-directory ./ --output-directory awesome-selfhosted --output-file README.md
 	cd awesome-selfhosted && git diff --color=always
+
+.PHONY: help # generate list of targets with descriptions
+help:
+	@grep '^.PHONY: .* #' Makefile | sed 's/\.PHONY: \(.*\) # \(.*\)/\1	\2/' | expand -t20

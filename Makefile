@@ -4,6 +4,7 @@ SHELL := /bin/bash
 install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
+	pip3 install wheel && \
 	pip3 install --force git+https://github.com/nodiscc/hecat.git@hecat-process
 
 .PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
@@ -19,7 +20,7 @@ import: install
 .PHONY: process # apply automatic processing (gather github metadata)
 process: install
 	source .venv/bin/activate && \
-	hecat process --processors github_metadata --source-directory ./
+	hecat process --processors github_metadata --source-directory ./ --options=gh-metadata-only-missing
 
 .PHONY: build # build markdown singlepage document from yaml data
 build: install

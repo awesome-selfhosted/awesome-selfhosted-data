@@ -55,7 +55,7 @@ related_software_url: "https://my.awesome.softwar.e/apps" # optional, link to a 
 - [ ] remove comments and unused optional fields
 - [ ] enter a descriptive commit message (such as `add My Awesome software`)
 - [ ] select `Create a new branch for this commit and start a pull request`
-- [ } click `Propose new file`
+- [ ] click `Propose new file`
 - [ ] click `Create pull request`
 
 If you are not comfortable sending a pull request, please copy/edit the template above and post it in a new [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)

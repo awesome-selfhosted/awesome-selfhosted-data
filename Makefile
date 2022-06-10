@@ -26,7 +26,7 @@ process: install
 build: install
 	rm -rf awesome-selfhosted && git clone https://github.com/awesome-selfhosted/awesome-selfhosted
 	source .venv/bin/activate && \
-	hecat build --source-directory ./ --output-directory awesome-selfhosted --output-file README.md
+	hecat export --source-directory ./ --output-directory awesome-selfhosted --output-file README.md
 	cd awesome-selfhosted && git diff --color=always
 
 .PHONY: help # generate list of targets with descriptions

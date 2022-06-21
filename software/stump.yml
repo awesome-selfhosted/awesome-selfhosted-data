@@ -1,0 +1,11 @@
+name: Stump
+website_url: https://www.stumpapp.dev
+description: A fast, free and open source comics, manga and digital book server with
+  OPDS support.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/aaronleopold/stump

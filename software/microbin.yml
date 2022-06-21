@@ -1,0 +1,13 @@
+name: MicroBin
+website_url: https://github.com/szabodanika/microbin
+description: Simple, performant, configurable, entirely self-contained pastebin and
+  URL shortener.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Rust
+tags:
+  - Pastebins
+stargazers_count: 193
+updated_at: '2022-06-19'
+archived: false

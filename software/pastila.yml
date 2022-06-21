@@ -1,0 +1,10 @@
+name: Pastila
+website_url: https://pastila.nl/
+description: Minimalistic paste service. Single page, zero click experience.
+licenses:
+  - Apache-2.0
+platforms:
+  - SQL
+tags:
+  - Pastebins
+source_code_url: https://github.com/ClickHouse/pastila

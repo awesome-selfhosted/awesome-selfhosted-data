@@ -6,7 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Node.js
+  - Nodejs
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/jam-systems/jam

@@ -1,5 +1,5 @@
 name: Spacebin
-website_url: https://docs.spaceb.in
+website_url: https://github.com/spacebin-org/spirit
 description: Text-sharing for the final frontier — Reliable Pastebin server in Golang
   and Fiber.
 licenses:
@@ -8,5 +8,6 @@ platforms:
   - Go
 tags:
   - Pastebins
-source_code_url: https://github.com/spacebin-org/spirit
-demo_url: https://spaceb.in
+stargazers_count: 54
+updated_at: '2022-05-20'
+archived: false

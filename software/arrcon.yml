@@ -1,0 +1,13 @@
+name: ARRCON
+website_url: https://github.com/radj307/ARRCON
+description: Terminal-based RCON client compatible with any game servers using the
+  Source RCON Protocol.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Games - Administrative Utilities & Control Panels
+stargazers_count: 1
+updated_at: '2022-03-08'
+archived: false

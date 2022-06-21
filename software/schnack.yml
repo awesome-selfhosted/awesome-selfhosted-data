@@ -5,8 +5,9 @@ description: Schnack is simple self-hosted node app for Disqus-like drop-in comm
 licenses:
   - LIL-1.0
 platforms:
-  - Node.js
+  - Nodejs
 tags:
   - Communication - Social Networks and Forums
-stargazers_count: 1758
-updated_at: '2022-05-21'
+stargazers_count: 1760
+updated_at: '2022-06-21'
+archived: false

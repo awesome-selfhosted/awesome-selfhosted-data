@@ -1,5 +1,5 @@
 name: Restyaboard
-website_url: https://restya.com/board/
+website_url: https://github.com/RestyaPlatform/board/
 description: Open source Trello-like kanban board.
 licenses:
   - OSL-3.0
@@ -7,5 +7,3 @@ platforms:
   - PHP
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/RestyaPlatform/board
-demo_url: https://restya.com/board/demo

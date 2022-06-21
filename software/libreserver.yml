@@ -1,0 +1,10 @@
+name: LibreServer
+website_url: https://libreserver.org/
+description: Home server configuration based on Debian.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Shell
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/bashrc2/libreserver

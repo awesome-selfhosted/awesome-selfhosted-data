@@ -3,7 +3,7 @@ website_url: https://minio.io/
 description: Minio is an open source object storage server compatible with Amazon
   S3 APIs.
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Go
 tags:

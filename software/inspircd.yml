@@ -2,7 +2,7 @@ name: InspIRCd
 website_url: https://www.inspircd.org/
 description: Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
 licenses:
-  - GPL-2.0-only
+  - GPL-2.0
 platforms:
   - C++
 tags:

@@ -1,13 +1,12 @@
 name: Firezone
-website_url: https://www.firez.one/
-description: Open-source VPN server and egress firewall for Linux built on WireGuard
-  that makes it simple to manage secure remote access to your company’s private networks.
-  Firezone is easy to set up, secure, performant, and self-hosted.
+website_url: https://www.firezone.dev/
+description: Self-hosted secure remote access gateway that supports the WireGuard
+  protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and
+  SSO.
 licenses:
   - Apache-2.0
 platforms:
   - Elixir
-  - Ruby
 tags:
-  - Miscellaneous
+  - Gateways and Terminal Sharing
 source_code_url: https://github.com/firezone/firezone

@@ -1,0 +1,15 @@
+name: Memos
+website_url: https://github.com/usememos/memos
+description: An open source, self-hosted knowledge base that works with a SQLite db
+  file.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Note-taking & Editors
+demo_url: https://memos.onrender.com/
+stargazers_count: 494
+updated_at: '2022-07-24'
+archived: false

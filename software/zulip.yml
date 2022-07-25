@@ -3,7 +3,6 @@ website_url: https://zulip.org
 description: Zulip is a powerful, open source group chat application.
 licenses:
   - Apache-2.0
-  - Other
 platforms:
   - Python
 tags:

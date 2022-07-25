@@ -1,0 +1,14 @@
+name: LinkWarden
+website_url: https://github.com/Daniel31x13/link-warden
+description: A self-hosted bookmark + archive manager to store your useful links.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Bookmarks and Link Sharing
+demo_url: https://linkwarden.netlify.app/
+stargazers_count: 367
+updated_at: '2022-07-25'
+archived: false

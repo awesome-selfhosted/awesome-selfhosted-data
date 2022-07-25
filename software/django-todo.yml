@@ -1,8 +1,7 @@
 name: django-todo
 website_url: http://django-todo.org/
-description: django-todo is a pluggable, multi-user, multi-group, multi-list todo
-  and ticketing system - a reusable app designed to be dropped into any existing Django
-  project.
+description: Pluggable, multi-user, multi-group, multi-list todo and ticketing system
+  - a reusable app designed to be dropped into any existing Django project.
 licenses:
   - BSD-3-Clause
 platforms:

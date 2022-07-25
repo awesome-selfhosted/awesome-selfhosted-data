@@ -1,5 +1,5 @@
 name: ympd
-website_url: https://www.ympd.org/
+website_url: https://ympd.org/
 description: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.
 licenses:
   - GPL-2.0

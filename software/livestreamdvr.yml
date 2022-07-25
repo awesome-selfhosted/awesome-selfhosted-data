@@ -1,0 +1,15 @@
+name: LiveStreamDVR
+website_url: https://github.com/MrBrax/LiveStreamDVR
+description: An automatic Twitch recorder capable of capturing live streams, chat
+  messages and stream metadata.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Archiving and Digital Preservation (DP)
+depends_3rdparty: true
+stargazers_count: 115
+updated_at: '2022-07-23'
+archived: false

@@ -1,0 +1,13 @@
+name: cmyflix
+website_url: https://github.com/farfalleflickan/cmyflix
+description: Self-hosted, super lightweight Netflix alternative.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - Media Streaming - Video Streaming
+depends_3rdparty: true
+stargazers_count: 95
+updated_at: '2022-07-20'
+archived: false

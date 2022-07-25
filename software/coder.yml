@@ -1,0 +1,11 @@
+name: Coder
+website_url: https://coder.com/
+description: Visual Studio Code in the browser, hosted on a remote server.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/coder/code-server

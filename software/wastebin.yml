@@ -1,0 +1,13 @@
+name: Wastebin
+website_url: https://github.com/matze/wastebin
+description: Lightweight, minimal and fast pastebin with an SQLite backend.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Pastebins
+demo_url: https://bin.bloerg.net
+stargazers_count: 15
+updated_at: '2022-07-23'
+archived: false

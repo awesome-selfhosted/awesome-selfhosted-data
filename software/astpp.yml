@@ -1,8 +1,7 @@
 name: ASTPP
 website_url: https://www.astppbilling.org/
-description: is an Open Source VoIP Billing Solution for Freeswitch. It supports prepaid
-  and postpaid billing with call rating and credit control. It also provides many
-  other features.
+description: VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid
+  billing with call rating and credit control. It also provides many other features.
 licenses:
   - AGPL-3.0
 platforms:

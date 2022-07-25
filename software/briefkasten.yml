@@ -1,0 +1,14 @@
+name: Briefkasten
+website_url: https://github.com/ndom91/briefkasten
+description: Modern app for saving and managing your own bookmarks. Includes a browser
+  extension.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Bookmarks and Link Sharing
+demo_url: https://briefkasten.vercel.app
+stargazers_count: 40
+updated_at: '2022-07-23'
+archived: false

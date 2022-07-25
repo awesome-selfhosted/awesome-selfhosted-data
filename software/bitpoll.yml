@@ -1,0 +1,13 @@
+name: Bitpoll
+website_url: https://github.com/fsinfuhh/Bitpoll
+description: A web application for scheduling meetings and general polling.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Polls and Events
+demo_url: https://bitpoll.mafiasi.de/
+stargazers_count: 140
+updated_at: '2022-07-24'
+archived: false

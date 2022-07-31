@@ -2,8 +2,7 @@ name: Teeworlds
 website_url: https://www.teeworlds.com
 description: Open source 2D retro multiplayer shooter.
 licenses:
-  - BSD-3-Clause
-  - Other
+  - Zlib
 platforms:
   - C++
 tags:

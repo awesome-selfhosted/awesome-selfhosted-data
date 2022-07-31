@@ -4,12 +4,11 @@ description: Tool for sharing custom OSM maps. Support for annotated markers, po
   lines, multi-format import/export, multiple layers, shortlinks.
 licenses:
   - WTFPL
-  - Other
 platforms:
   - PHP
 tags:
   - Maps and Global Positioning System (GPS)
 demo_url: http://share.mapbbcode.org/
-stargazers_count: 49
-updated_at: '2022-06-27'
+stargazers_count: 50
+updated_at: '2022-07-26'
 archived: false

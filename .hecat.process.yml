@@ -2,7 +2,7 @@ steps:
   - name: update metadata form Github API
     module: processors/github_metadata
     module_options:
-      source_directory: awesome-selfhosted-data
+      source_directory: ./
       gh_metadata_only_missing: True
 
   - name: check data against awesome-selfhosted guidelines

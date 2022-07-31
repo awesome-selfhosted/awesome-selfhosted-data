@@ -3,7 +3,7 @@ website_url: https://ethercalc.net/
 description: Web spreadsheet.
 licenses:
   - CPAL-1.0
-  - Other
+  - Artistic-2.0
 platforms:
   - Nodejs
 tags:

@@ -1,0 +1,12 @@
+steps:
+  - name: update metadata form Github API
+    module: processors/github_metadata
+    module_options:
+      source_directory: awesome-selfhosted-data
+      gh_metadata_only_missing: True
+
+  - name: check data against awesome-selfhosted guidelines
+    module: processors/awesome_lint
+    module_options:
+      source_directory: ./
+      items_in_delegate_to_fatal: False

@@ -1,0 +1,6 @@
+steps:
+  - name: import awesome-selfhosted markdown to YAML
+    module: importers/markdown_awesome
+    module_options:
+      source_file: awesome-selfhosted/README.md
+      output_directory: ./

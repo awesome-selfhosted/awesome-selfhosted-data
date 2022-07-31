@@ -15,12 +15,12 @@ import: install
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \
-	hecat import --source-file awesome-selfhosted/README.md --output-directory ./
+	hecat --config .hecat.import.yml
 
 .PHONY: process # apply automatic processing (gather github metadata)
 process: install
 	source .venv/bin/activate && \
-	hecat process --processors github_metadata --source-directory ./ --options=gh-metadata-only-missing
+	hecat --config .hecat.process.yml
 
 .PHONY: build # build markdown singlepage document from yaml data
 build: install

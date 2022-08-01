@@ -1,5 +1,8 @@
 name: File Transfer - Object Storage & File Servers
-description: ''
+description: '[Object storage](https://en.wikipedia.org/wiki/Object_storage) is a
+  computer data storage that manages data as objects, as opposed to other storage
+  architectures like file systems which manages data as a file hierarchy, and block
+  storage which manages data as blocks within sectors and tracks.'
 related_tags: []
 delegate_to: []
 external_links: []

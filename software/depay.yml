@@ -1,0 +1,12 @@
+name: DePay
+website_url: https://depay.fi
+description: Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted
+  & open-source.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/depayfi/widgets
+demo_url: https://depay.fi/products/payments

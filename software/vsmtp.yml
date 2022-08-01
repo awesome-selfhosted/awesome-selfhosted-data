@@ -1,0 +1,10 @@
+name: vSMTP
+website_url: https://viridit.com/vsmtp-mail-transfer-agent/
+description: Next-gen MTA. Secured, Faster and Greener.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://github.com/viridIT/vSMTP

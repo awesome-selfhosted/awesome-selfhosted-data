@@ -1,5 +1,6 @@
 name: Federated Identity & Authentication
-description: ''
+description: '[Federated identity](https://en.wikipedia.org/wiki/Federated_identity)
+  and [authentication](https://en.wikipedia.org/wiki/Electronic_authentication) software.'
 related_tags: []
 delegate_to:
   - title: awesome-sysadmin/Identity Management

@@ -1,0 +1,11 @@
+name: Instiki
+website_url: https://golem.ph.utexas.edu/wiki/instiki/show/HomePage
+description: Instiki is a wiki clone so pretty and easy to set up, you'll wonder if
+  it’s really a wiki. Runs on Rails and focuses on portability and stability.
+licenses:
+  - Ruby
+platforms:
+  - Ruby
+tags:
+  - Wikis
+source_code_url: https://github.com/parasew/instiki

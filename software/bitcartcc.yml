@@ -1,0 +1,13 @@
+name: BitcartCC
+website_url: https://bitcartcc.com
+description: A self-hosted cryptocurrencies payment processor and development platform.
+licenses:
+  - GPL-3.0-or-later
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/bitcartcc
+demo_url: https://admin.bitcartcc.com

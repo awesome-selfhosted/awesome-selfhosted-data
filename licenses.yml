@@ -179,6 +179,10 @@
   name: Sendmail License
   url: https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf
 
+- identifier: Ruby
+  name: Ruby License
+  url: http://www.ruby-lang.org/en/LICENSE.txt
+
 - identifier: Unlicense
   name: The Unlicense
   url: https://unlicense.org/

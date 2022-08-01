@@ -1,0 +1,12 @@
+name: Technitium DNS Server
+website_url: https://technitium.com/dns/
+description: An open source authoritative as well as recursive DNS server that can
+  be used for self hosting a DNS server for privacy & security.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - C#
+tags:
+  - DNS
+source_code_url: https://github.com/TechnitiumSoftware/DnsServer

@@ -1,5 +1,5 @@
 steps:
-  - name: update metadata form Github API
+  - name: update metadata from Github API
     module: processors/github_metadata
     module_options:
       source_directory: ./
@@ -10,3 +10,6 @@ steps:
     module_options:
       source_directory: ./
       items_in_delegate_to_fatal: False
+      licenses_files:
+        - licenses.yml
+        - licenses-nonfree.yml

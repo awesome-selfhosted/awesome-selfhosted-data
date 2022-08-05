@@ -1,0 +1,13 @@
+name: WorkAdventure
+website_url: https://workadventu.re
+description: Virtual office / virtual conference application presented as a 16-bit
+  RPG video game.
+licenses:
+  - AGPL-3.0
+  - Commons-Clause
+platforms:
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/thecodingmachine/workadventure/
+demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village

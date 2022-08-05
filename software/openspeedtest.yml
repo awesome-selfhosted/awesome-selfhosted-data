@@ -1,0 +1,12 @@
+name: OpenSpeedTest
+website_url: https://github.com/openspeedtest/Speed-Test
+description: Pure HTML5 network performance estimation tool.
+licenses:
+  - CC-BY-ND-3.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+stargazers_count: 195
+updated_at: '2022-07-19'
+archived: false

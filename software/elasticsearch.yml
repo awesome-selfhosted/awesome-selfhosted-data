@@ -1,0 +1,10 @@
+name: ElasticSearch
+website_url: https://www.elastic.co/elasticsearch/
+description: Distributed, RESTful search and analytics engine.
+licenses:
+  - SSPL-1.0
+platforms:
+  - Java
+tags:
+  - Search Engines
+source_code_url: https://github.com/elastic/elasticsearch

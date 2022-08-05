@@ -1,0 +1,13 @@
+name: Dialog
+website_url: https://dlg.im
+description: Handy and feature-rich multi-device solution with native mobile clients,
+  SIP integration, chatbots, 3rd-party integrations. It brings communication efficiency
+  without sacrificing privacy. Works in closed circuit, encrypts push notifications.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Scala
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://dlg.im/en/download

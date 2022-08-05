@@ -1,0 +1,32 @@
+
+- identifier: BUSL-1.1
+  name: Business Source License 1.1
+  url: https://spdx.org/licenses/BUSL-1.1.html
+
+- identifier: CC-BY-NC-SA-3.0
+  name: Creative Commons Attribution-NonCommercial-ShareAlike License 3.0
+  url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+- identifier: CC-BY-NC-4.0
+  name: Creative Commons Attribution-NonCommercial License 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+
+- identifier: CC-BY-ND-3.0
+  name: Creative Commons Attribution-NoDerivs Unported License 3.0
+  url: https://creativecommons.org/licenses/by-nd/3.0/
+
+- identifier: Commons-Clause
+  name: Commons Clause License
+  url: https://commonsclause.com/
+
+- identifier: DPL
+  name: Devblocks Public License 1.0
+  url: https://cerb.ai/license/
+
+- identifier: SSPL-1.0
+  name: Server Side Public License
+  url: https://spdx.org/licenses/SSPL-1.0.html
+
+- identifier: ⊘ Proprietary
+  name: Proprietary software
+  url: https://en.wikipedia.org/wiki/Proprietary_software

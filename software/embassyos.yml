@@ -1,0 +1,10 @@
+name: EmbassyOS
+website_url: https://start9labs.com
+description: Graphical Operating System for running self-hosted, open source services.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Rust
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/Start9Labs/embassy-os

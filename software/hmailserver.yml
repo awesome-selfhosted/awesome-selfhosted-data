@@ -1,0 +1,10 @@
+name: hMailServer
+website_url: https://www.hmailserver.com
+description: Open-source e-mail server for Microsoft Windows.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - C++
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/hmailserver/hmailserver

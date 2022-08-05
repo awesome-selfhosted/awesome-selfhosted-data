@@ -1,0 +1,11 @@
+name: Anchor
+website_url: http://theanchorapp.com/
+description: 'Invoicing system that integrates with Stripe and Paypal. Includes features
+  such as: reporting, dashboard and no client limit.'
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management
+demo_url: http://theanchorapp.com/demo/admin-login

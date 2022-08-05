@@ -22,11 +22,11 @@ process: install
 	source .venv/bin/activate && \
 	hecat --config .hecat.process.yml
 
-.PHONY: build # build markdown singlepage document from yaml data
-build: install
+.PHONY: export # export markdown singlepage document from yaml data
+export: install
 	rm -rf awesome-selfhosted && git clone https://github.com/awesome-selfhosted/awesome-selfhosted
 	source .venv/bin/activate && \
-	hecat export --source-directory ./ --output-directory awesome-selfhosted --output-file README.md
+	hecat --config .hecat.export.yml
 	cd awesome-selfhosted && git diff --color=always
 
 .PHONY: help # generate list of targets with descriptions

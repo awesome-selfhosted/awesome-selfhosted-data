@@ -1,0 +1,17 @@
+steps:
+  - name: export YAML data to awesome-selfhosted markdown
+    module: exporters/markdown_singlepage
+    module_options:
+      source_directory: ./
+      output_directory: awesome-selfhosted
+      output_file: README.md
+      # authors_file: AUTHORS.md # optional, default no authors file
+      exclude_licenses:
+        - '⊘ Proprietary'
+        - 'BUSL-1.1'
+        - 'CC-BY-NC-4.0'
+        - 'CC-BY-NC-SA-3.0'
+        - 'CC-BY-ND-3.0'
+        - 'Commons-Clause'
+        - 'DPL'
+        - 'SSPL-1.0'

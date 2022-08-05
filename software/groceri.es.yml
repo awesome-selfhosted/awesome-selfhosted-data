@@ -5,6 +5,7 @@ description: Web-based application to manage your recipes and plan your meals ah
 licenses:
   - MIT
 platforms:
+  - Docker
   - Python
 tags:
   - Recipe Management

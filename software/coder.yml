@@ -1,11 +1,10 @@
 name: Coder
 website_url: https://coder.com/
-description: Visual Studio Code in the browser, hosted on a remote server.
+description: Remote development machines on your own infrastructure.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
-  - Nodejs
-  - Docker
+  - Go
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/coder/code-server
+source_code_url: https://github.com/coder/coder

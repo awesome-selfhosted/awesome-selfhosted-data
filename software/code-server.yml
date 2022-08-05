@@ -1,0 +1,13 @@
+name: code-server
+website_url: https://github.com/coder/code-server
+description: VS Code in the browser, hosted on a remote server.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+stargazers_count: 55842
+updated_at: '2022-08-05'
+archived: false

@@ -1,7 +1,8 @@
 name: CryptPad
 website_url: https://cryptpad.fr/
-description: CryptPad is the zero knowledge realtime collaborative editor (rich-text,
-  files, source-code, ...).
+description: CryptPad is a collaboration suite that is end-to-end-encrypted and open-source.
+  It is built to enable collaboration, synchronizing changes to documents in real
+  time.
 licenses:
   - AGPL-3.0
 platforms:

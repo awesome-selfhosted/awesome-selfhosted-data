@@ -31,9 +31,9 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 # software/my-awesome-software.yml
 name: "My awesome software" # required
 website_url: "https://my.awesome.softwar.e" # required, URL of the software project's homepage
-source_code_url: "https://gitlab.com/awesome/software" # if different from website_url, URL where the full source code of the program can be downloaded
+source_code_url: "https://gitlab.com/awesome/software" # required, URL where the full source code of the program can be downloaded
 description: "A description of my awesome software, shorter than 250 characters." # required
-licenses: # required, see licenses.yml fro the full list of licenses
+licenses: # required, see licenses.yml for the full list of licenses
   - Apache-2.0
   - AGPL-3.0
 platforms: # required, see platforms/ for the full list of platforms

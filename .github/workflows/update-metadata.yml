@@ -1,0 +1,10 @@
+on:
+  schedule:
+    - cron: '45 11 * * 1'
+
+jobs:
+  test_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: update projects metadata
+        run: make process

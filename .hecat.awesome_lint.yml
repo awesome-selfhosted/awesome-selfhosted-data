@@ -1,0 +1,9 @@
+steps:
+  - name: data against awesome-selfhosted guidelines
+    module: processors/awesome_lint
+    module_options:
+      source_directory: ./
+      items_in_delegate_to_fatal: False
+      licenses_files:
+        - licenses.yml
+        - licenses-nonfree.yml

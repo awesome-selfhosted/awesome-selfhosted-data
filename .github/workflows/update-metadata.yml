@@ -1,12 +1,20 @@
-name: daily metadata update
-
 on:
   schedule:
-    - cron: '31 12 * * 1'
+    - cron: '55 20 * * 1'
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
   test_schedule:
     runs-on: ubuntu-latest
     steps:
-      - name: update projects metadata
-        run: make process
+      - uses: actions/checkout@v3
+      - run: make update_metadata
+      - name: commit and push changes
+        run: |
+          git config user.name awesome-selfhosted-bot
+          git config user.email github-actions@github.com
+          git add software/ tags/ platforms/ licenses*.yml
+          git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
+          git push

@@ -17,10 +17,15 @@ import: install
 	source .venv/bin/activate && \
 	hecat --config .hecat.import.yml
 
-.PHONY: process # apply automatic processing (gather github metadata)
-process: install
+.PHONY: update_metadata # update metadata from project repositories/API
+update_metadata: install
 	source .venv/bin/activate && \
-	hecat --config .hecat.process.yml
+	hecat --config .hecat.update_metadata.yml
+
+.PHONY: awesome_lint # check data against awesome-selfhosted guidelines
+awesome_lint: install
+	source .venv/bin/activate && \
+	hecat --config .hecat.awesome_lint.yml
 
 .PHONY: export # export markdown singlepage document from yaml data
 export: install

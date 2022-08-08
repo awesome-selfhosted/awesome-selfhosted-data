@@ -1,5 +1,3 @@
-name: awesome-selfhosted CI
-
 on:
   push:
   pull_request:
@@ -10,12 +8,9 @@ env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
 jobs:
-  build:
+  ci:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v3
-      - name: process
-        run: make process
-      - name: export
-        run: make export
+      - uses: actions/checkout@v3
+      - run: make awesome_lint
+      - run: make export

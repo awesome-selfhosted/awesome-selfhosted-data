@@ -1,6 +1,6 @@
 steps:
-  - name: update metadata from Github API
+  - name: update all metadata from Github API
     module: processors/github_metadata
     module_options:
       source_directory: ./
-      gh_metadata_only_missing: True
+      gh_metadata_only_missing: False

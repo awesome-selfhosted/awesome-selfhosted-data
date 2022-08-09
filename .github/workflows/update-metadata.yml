@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '55 20 * * 1'
+    - cron: '06 00 * * 1'
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
@@ -9,8 +9,10 @@ jobs:
   test_schedule:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: make update_metadata
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: update all metadata from Github API
+        run: make update_metadata
       - name: commit and push changes
         run: |
           git config user.name awesome-selfhosted-bot

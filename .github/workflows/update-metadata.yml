@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '06 00 * * 1'
+    - cron: '22 * * * *'
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

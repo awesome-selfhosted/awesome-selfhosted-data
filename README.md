@@ -102,8 +102,9 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 $ make help
 install             install build tools in a virtualenv
 import              import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
-process             apply automatic processing (gather github metadata)
-build               build markdown singlepage document from yaml data
+update_metadata     update metadata from project repositories/API
+awesome_lint        check data against awesome-selfhosted guidelines
+export              export markdown singlepage document from yaml data
 help                generate list of targets with descriptions
 ```
 

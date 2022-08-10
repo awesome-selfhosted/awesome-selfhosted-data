@@ -1,0 +1,12 @@
+name: Tube Archivist
+website_url: https://www.tubearchivist.com/
+description: 'Your self hosted YouTube media server: Subscribe, download, index, search
+  and play your favorite videos.'
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Automation
+source_code_url: https://github.com/tubearchivist/tubearchivist
+depends_3rdparty: true

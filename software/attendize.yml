@@ -1,13 +1,11 @@
 name: Attendize
-website_url: https://github.com/attendize/attendize
+website_url: https://www.attendize.com/
 description: Ticket selling and event management platform.
 licenses:
   - AAL
 platforms:
+  - Docker
   - PHP
 tags:
   - E-commerce
 source_code_url: https://github.com/attendize/attendize
-stargazers_count: 3434
-updated_at: '2022-07-24'
-archived: false

@@ -1,5 +1,22 @@
 name: Software Development
-description: ''
+description: '[Software development](https://en.wikipedia.org/wiki/Software_development)
+  is the process of conceiving, specifying, designing, programming, documenting, testing,
+  and bug fixing involved in creating and maintaining applications, frameworks, or
+  other software components.'
 related_tags: []
-delegate_to: []
+delegate_to:
+  - title: Software Development - API Management
+    url: '#software-development---api-management'
+  - title: Software Development - Continuous Integration & Deployment
+    url: '#software-development---continuous-integration--deployment'
+  - title: Software Development - FaaS & Serverless
+    url: '#software-development---faas--serverless'
+  - title: Software Development - IDE & Tools
+    url: '#software-development---ide--tools'
+  - title: Software Development - Localization
+    url: '#software-development---localization'
+  - title: Software Development - Project Management
+    url: '#software-development---project-management'
+  - title: Software Development - Testing
+    url: '#software-development---testing'
 external_links: []

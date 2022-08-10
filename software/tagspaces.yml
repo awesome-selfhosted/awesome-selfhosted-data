@@ -6,7 +6,7 @@ description: TagSpaces is an offline, cross-platform file manager and organiser 
 licenses:
   - AGPL-3.0
 platforms:
-  - Javascript
+  - Nodejs
 tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/tagspaces/tagspaces

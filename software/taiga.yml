@@ -2,9 +2,11 @@ name: Taiga
 website_url: https://taiga.io/
 description: Agile Project Management Tool based on the Kanban and Scrum methods.
 licenses:
-  - AGPL-3.0
+  - MPL-2.0
 platforms:
+  - Docker
   - Python
+  - Nodejs
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/taigaio
+source_code_url: https://github.com/kaleidos-ventures

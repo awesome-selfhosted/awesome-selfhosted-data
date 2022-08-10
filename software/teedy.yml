@@ -5,7 +5,9 @@ description: Lightweight document management system packed with all the features
 licenses:
   - GPL-2.0
 platforms:
+  - Docker
   - Java
 tags:
   - Document Management
 source_code_url: https://github.com/sismics/docs
+demo_url: https://demo.teedy.io/

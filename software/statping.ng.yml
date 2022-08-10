@@ -1,0 +1,13 @@
+name: StatPing.ng
+website_url: https://statping-ng.github.io/
+description: An easy to use Status Page for your websites and applications. Statping
+  will automatically fetch the application and render a beautiful status page with
+  tons of features for you to build an even better status page.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Status / Uptime pages
+source_code_url: https://github.com/statping-ng/statping-ng

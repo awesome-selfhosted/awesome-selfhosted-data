@@ -1,0 +1,10 @@
+name: Peppermint
+website_url: https://peppermint.sh/
+description: A simple ticket management tool with support for logs and multi-deployment.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Ticketing
+source_code_url: https://github.com/Peppermint-Lab/peppermint

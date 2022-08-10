@@ -1,0 +1,10 @@
+name: Minimalist Online Markdown Editor
+website_url: http://markdown.pioul.fr
+description: The simplest and slickest online Markdown editor.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/pioul/Minimalist-Online-Markdown-Editor

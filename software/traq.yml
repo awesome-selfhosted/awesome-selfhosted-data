@@ -1,0 +1,11 @@
+name: Traq
+website_url: https://traq.io/
+description: Project management and issue tracking system written in PHP.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Nodejs
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/nirix/traq

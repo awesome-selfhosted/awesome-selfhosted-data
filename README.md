@@ -18,47 +18,15 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 
 ### Add new software to the list
 
-- [ ] Please submit one item per issue/pull request. This eases reviewing and speeds up the addition process.
-- [ ] Please check that your addition is not already listed at any of these lists (If it fits in one of those lists, please try to get it added there instead):
-  - [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin)
-  - [awesome-analytics](https://github.com/onurakpolat/awesome-analytics)
-  - [staticgen.com](https://www.staticgen.com/)
-  - [staticsitegenerators.net](https://staticsitegenerators.net/)
-- [ ] Please search for relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [pull requests](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
-- [ ] [Create a new `.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software) based on the template below in the `software/` directory:
 
-```yaml
-# software/my-awesome-software.yml
-name: "My awesome software" # required
-website_url: "https://my.awesome.softwar.e" # required, URL of the software project's homepage
-source_code_url: "https://gitlab.com/awesome/software" # required, URL where the full source code of the program can be downloaded
-description: "A description of my awesome software, shorter than 250 characters." # required
-licenses: # required, see licenses.yml for the full list of licenses
-  - Apache-2.0
-  - AGPL-3.0
-platforms: # required, see platforms/ for the full list of platforms
-  - Java
-  - Python
-  - PHP
-  - Nodejs
-  - Deb
-  - Docker
-tags: # required, , see tags/ for the full list of tags
-  - Automation
-  - Calendar
-  - File synchronization
-depends_3rdparty: yes # required if the software depends on a third-party service outside the user's control
-demo_url: "https://my.awesome.softwar.e/demo" # optional, link to an interactive demo of the software
-related_software_url: "https://my.awesome.softwar.e/apps" # optional, link to a list of clients/addons/plugins/apps/bots... for the software
-```
+- [Create a new `software/software-name.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md).
+- Remove comments and unused optional fields
+- Enter a descriptive commit message (such as `add My Awesome software`)
+- Select `Create a new branch for this commit and start a pull request`
+- Click `Propose new file`
+- Click `Create pull request`
 
-- [ ] remove comments and unused optional fields
-- [ ] enter a descriptive commit message (such as `add My Awesome software`)
-- [ ] select `Create a new branch for this commit and start a pull request`
-- [ ] click `Propose new file`
-- [ ] click `Create pull request`
-
-If you are not comfortable sending a pull request, please copy/edit the template above and post it in a new [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues)
+If you are not comfortable sending a pull request, please open a new [issue](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues).
 
 In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) the software will only appear under the first category in its `tags` list, so choose wisely.
 

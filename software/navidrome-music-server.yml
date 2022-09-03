@@ -4,8 +4,8 @@ description: Modern Music Server and Streamer, compatible with Subsonic/Airsonic
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Go
-  - Javascript
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/navidrome/navidrome

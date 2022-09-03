@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/posativ/isso

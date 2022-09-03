@@ -1,5 +1,5 @@
 name: Manager
-website_url: http://manager.io/server
+website_url: https://www.manager.io/server
 description: Online accounting software for small businesses.
 licenses:
   - ⊘ Proprietary
@@ -7,4 +7,4 @@ platforms:
   - Mono
 tags:
   - Money, Budgeting & Management
-source_code_url: http://manager.io/server
+source_code_url: https://www.manager.io/server

@@ -37,7 +37,7 @@
 
 - identifier: BSD-2-Clause-FreeBSD
   name: BSD 2-Clause FreeBSD License
-  url: https://www.freebsd.org/copyright/freebsd-license.html
+  url: http://www.freebsd.org/copyright/freebsd-license/
 
 - identifier: BSD-3-Clause
   name: BSD 3-Clause "New" or "Revised"
@@ -61,7 +61,7 @@
 
 - identifier: CC0-1.0
   name: Public Domain
-  url: https://creativecommons.org/about/cc0/
+  url: https://creativecommons.org/share-your-work/public-domain/cc0/
 
 - identifier: CDDL-1.0
   name: Common Development and Distribution License
@@ -89,7 +89,7 @@
 
 - identifier: EUPL-1.2
   name: European Union Public License 1.2
-  url: https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12
+  url: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 
 - identifier: GFDL-1.1-only
   name: GNU Free Documentation License v1.1
@@ -117,7 +117,7 @@
 
 - identifier: GPL-1.0
   name: GNU General Public License
-  url: https://www.gnu.org/licenses/gpl-1.0
+  url: https://www.gnu.org/licenses/old-licenses/gpl-1.0
 
 - identifier: GPL-2.0
   name: GNU General Public License 2.0
@@ -145,7 +145,7 @@
 
 - identifier: ISC
   name: Internet Systems Consortium License
-  url: https://www.isc.org/downloads/software-support-policy/isc-license/
+  url: https://www.isc.org/licenses/
 
 - identifier: LIL-1.0
   name: The Lil License v1
@@ -177,11 +177,11 @@
 
 - identifier: Sendmail
   name: Sendmail License
-  url: https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf
+  url: https://www.proofpoint.com/us/products/sendmail-sentrion/
 
 - identifier: Ruby
   name: Ruby License
-  url: http://www.ruby-lang.org/en/LICENSE.txt
+  url: http://www.ruby-lang.org/en/about/license.txt
 
 - identifier: Unlicense
   name: The Unlicense

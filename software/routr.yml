@@ -5,7 +5,7 @@ description: A lightweight sip proxy, location server, and registrar for a relia
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - Docker
 tags:
   - Communication - SIP
 source_code_url: https://github.com/fonoster/routr

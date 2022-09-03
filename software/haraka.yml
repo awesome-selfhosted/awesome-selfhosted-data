@@ -4,7 +4,7 @@ description: High-performance, pluginable SMTP server written in Javascript.
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - Nodejs
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://github.com/haraka/Haraka

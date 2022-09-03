@@ -1,5 +1,5 @@
 name: Subsonic
-website_url: http://subsonic.org/
+website_url: http://www.subsonic.org/pages/index.jsp
 description: Web-based media streamer and jukebox.
 licenses:
   - ⊘ Proprietary
@@ -7,5 +7,5 @@ platforms:
   - Unknown
 tags:
   - Media Streaming
-source_code_url: http://subsonic.org/
-demo_url: http://demo.subsonic.org/login.view?user=guest4&password=guest
+source_code_url: http://www.subsonic.org/pages/index.jsp
+demo_url: http://demo.subsonic.org/j_acegi_security_check?j_username=guest4&j_password=guest&_acegi_security_remember_me=check

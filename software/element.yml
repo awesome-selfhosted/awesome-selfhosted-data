@@ -4,7 +4,7 @@ description: Fully-featured Matrix client for Web, iOS & Android.
 licenses:
   - Apache-2.0
 platforms:
-  - Javascript
+  - Nodejs
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/vector-im/element-web

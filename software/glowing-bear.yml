@@ -4,7 +4,7 @@ description: A web frontend for WeeChat.
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
+  - Nodejs
 tags:
   - Communication - IRC
 source_code_url: https://github.com/glowing-bear/glowing-bear

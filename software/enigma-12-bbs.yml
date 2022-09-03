@@ -5,8 +5,9 @@ description: Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "c
 licenses:
   - BSD-2-Clause
 platforms:
+  - Shell
+  - Docker
   - Nodejs
-  - Javascript
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/NuSkooler/enigma-bbs

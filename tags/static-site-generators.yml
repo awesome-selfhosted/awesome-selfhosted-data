@@ -3,5 +3,9 @@ description: '[Static site generators](https://en.wikipedia.org/wiki/Web_templat
   generate full static HTML websites based on raw data, plain text files and a set
   of templates. '
 related_tags: []
-delegate_to: []
+delegate_to:
+  - title: staticsitegenerators.net
+    url: https://staticsitegenerators.net
+  - title: staticgen.com
+    url: https://www.staticgen.com
 external_links: []

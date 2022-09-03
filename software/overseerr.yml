@@ -1,0 +1,13 @@
+name: Overseerr
+website_url: https://overseerr.dev/
+description: Overseerr is a free and open source software application for managing
+  requests for your media library. It integrates with your existing services, such
+  as Sonarr, Radarr, and Plex!.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/sct/overseerr
+depends_3rdparty: true

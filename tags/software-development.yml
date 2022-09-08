@@ -4,7 +4,7 @@ description: '[Software development](https://en.wikipedia.org/wiki/Software_deve
   and bug fixing involved in creating and maintaining applications, frameworks, or
   other software components.'
 related_tags: []
-delegate_to:
+redirect:
   - title: Software Development - API Management
     url: '#software-development---api-management'
   - title: Software Development - Continuous Integration & Deployment

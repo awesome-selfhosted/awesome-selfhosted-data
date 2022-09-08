@@ -4,7 +4,7 @@ description: A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Vir
   receive data across shared or public networks as if their computing devices were
   directly connected to the private network.
 related_tags: []
-delegate_to:
+redirect:
   - title: awesome-sysadmin/VPN
     url: https://github.com/awesome-foss/awesome-sysadmin#vpn
 external_links: []

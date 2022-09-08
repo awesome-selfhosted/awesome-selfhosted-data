@@ -4,7 +4,7 @@ description: A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or inf
 related_tags:
   - Static Site Generators
   - Content Management Systems (CMS)
-delegate_to: []
+redirect: []
 external_links:
   - title: WeblogMatrix
     url: https://www.weblogmatrix.org/

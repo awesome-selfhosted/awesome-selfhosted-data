@@ -3,7 +3,7 @@ description: 'A [web server](https://en.wikipedia.org/wiki/Web_server) is a piec
   of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
   (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPSs). '
 related_tags: []
-delegate_to:
+redirect:
   - title: awesome-sysadmin/Web
     url: https://github.com/awesome-foss/awesome-sysadmin#web
 external_links: []

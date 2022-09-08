@@ -1,0 +1,13 @@
+name: Vigil
+website_url: https://crates.io/crates/vigil-server
+description: Microservices Status Page. Monitors a distributed infrastructure and
+  sends alerts (Slack, SMS, etc.).
+licenses:
+  - MPL-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Status / Uptime pages
+source_code_url: https://github.com/valeriansaliou/vigil
+demo_url: https://status.crisp.chat/

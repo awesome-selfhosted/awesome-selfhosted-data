@@ -1,0 +1,11 @@
+name: SnyPy
+website_url: https://snypy.com
+description: Open source on-prem code snippet manager.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Pastebins
+source_code_url: https://github.com/snypy
+demo_url: https://app.snypy.com

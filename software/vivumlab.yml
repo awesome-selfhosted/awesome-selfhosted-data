@@ -1,0 +1,12 @@
+name: VivumLab
+website_url: vivumlab.com
+description: An open-source data-center, owned by you, the user. VivumLab deploys
+  web services to a server.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Shell
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/VivumLab/VivumLab

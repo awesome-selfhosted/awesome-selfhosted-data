@@ -1,0 +1,11 @@
+name: CasaOS
+website_url: https://www.casaos.io/
+description: A simple, easy-to-use, elegant open-source Home Cloud system.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/IceWhaleTech/CasaOS

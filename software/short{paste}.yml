@@ -1,0 +1,13 @@
+name: Short{Paste}
+website_url: https://github.com/adyanth/shortpaste
+description: A Go based URL shortener, pastebin and file uploader.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/adyanth/shortpaste
+stargazers_count: 10
+updated_at: '2022-08-16'
+archived: false

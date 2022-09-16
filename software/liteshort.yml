@@ -1,5 +1,5 @@
 name: liteshort
-website_url: hhttps://git.ikl.sh/132ikl/liteshort
+website_url: https://git.ikl.sh/132ikl/liteshort
 description: User-friendly, actually lightweight, and configurable URL shortener.
 licenses:
   - MIT
@@ -7,4 +7,4 @@ platforms:
   - Python
 tags:
   - URL Shorteners
-source_code_url: hhttps://git.ikl.sh/132ikl/liteshort
+source_code_url: https://git.ikl.sh/132ikl/liteshort

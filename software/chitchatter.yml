@@ -1,0 +1,10 @@
+name: Chitchatter
+website_url: https://chitchatter.im/
+description: A peer-to-peer chat app that is serverless, decentralized, and ephemeral.
+licenses:
+  - GPL-2.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/jeremyckahn/chitchatter

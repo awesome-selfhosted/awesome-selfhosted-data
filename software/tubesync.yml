@@ -1,0 +1,15 @@
+name: tubesync
+website_url: https://github.com/meeb/tubesync
+description: Syncs YouTube channels and playlists to a locally hosted media server.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Automation
+source_code_url: https://github.com/meeb/tubesync
+depends_3rdparty: true
+stargazers_count: 794
+updated_at: '2022-09-27'
+archived: false

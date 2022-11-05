@@ -1,0 +1,14 @@
+name: Wayback
+website_url: https://github.com/wabarc/wayback
+description: A self-hosted toolkit for archiving webpages to the Internet Archive,
+  archive.today, IPFS, and local file systems.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/wabarc/wayback
+stargazers_count: 355
+updated_at: '2022-11-03'
+archived: false

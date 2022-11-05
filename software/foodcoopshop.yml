@@ -2,7 +2,7 @@ name: FoodCoopShop
 website_url: https://www.foodcoopshop.com/
 description: User-friendly open source software for food-coops.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - PHP
 tags:

@@ -1,0 +1,10 @@
+name: Cgit
+website_url: https://git.zx2c4.com/cgit/about/
+description: A fast lightweight web interface for git repositories.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Software Development - Project Management
+source_code_url: https://git.zx2c4.com/cgit/tree/

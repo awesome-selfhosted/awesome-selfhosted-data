@@ -1,6 +1,6 @@
 name: Meetable
-website_url: https://meetable.org
-description: Event aggregator.
+website_url: https://events.indieweb.org
+description: A minimal events aggregator.
 licenses:
   - MIT
 platforms:
@@ -8,4 +8,3 @@ platforms:
 tags:
   - Polls and Events
 source_code_url: https://github.com/aaronpk/Meetable
-demo_url: https://events.indieweb.org

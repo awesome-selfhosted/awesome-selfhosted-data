@@ -1,5 +1,5 @@
 name: Framadate
-website_url: https://framadate.org/
+website_url: https://framadate.org/abc/
 description: 'Online service for planning an appointment or make a decision quickly
   and easily: Make a poll, Define dates or subjects to choose, Send the poll link
   to your friends or colleagues, Discuss and make a decision.'
@@ -9,5 +9,5 @@ platforms:
   - PHP
 tags:
   - Polls and Events
-source_code_url: https://git.framasoft.org/framasoft/framadate
+source_code_url: https://framagit.org/framasoft/framadate?
 demo_url: https://framadate.org/aqg259dth55iuhwm

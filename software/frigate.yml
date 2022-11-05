@@ -1,0 +1,12 @@
+name: Frigate
+website_url: https://frigate.video/
+description: Monitor your security cameras with locally processed AI.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Media Streaming - Video Streaming
+source_code_url: https://github.com/blakeblackshear/frigate

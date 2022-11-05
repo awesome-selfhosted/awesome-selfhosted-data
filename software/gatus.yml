@@ -1,0 +1,14 @@
+name: Gatus
+website_url: https://github.com/TwiN/gatus
+description: Automated service health dashboard.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Status / Uptime pages
+source_code_url: https://github.com/TwiN/gatus
+demo_url: https://status.twin.sh
+stargazers_count: 3059
+updated_at: '2022-11-05'
+archived: false

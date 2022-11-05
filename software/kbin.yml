@@ -1,0 +1,12 @@
+name: kbin
+website_url: https://kbin.pub/
+description: Federated content aggregator and microblogging platform.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/ernestwisniewski/kbin

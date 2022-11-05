@@ -1,0 +1,15 @@
+name: Lama-Cleaner
+website_url: https://github.com/Sanster/lama-cleaner
+description: A free and open-source inpainting tool powered by SOTA AI model.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/Sanster/lama-cleaner
+depends_3rdparty: true
+stargazers_count: 2778
+updated_at: '2022-11-05'
+archived: false

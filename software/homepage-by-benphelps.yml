@@ -1,0 +1,15 @@
+name: Homepage by benphelps
+website_url: https://github.com/benphelps/homepage
+description: A highly customizable homepage (or startpage / application dashboard)
+  with Docker and service API integrations.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/benphelps/homepage
+stargazers_count: 2198
+updated_at: '2022-11-05'
+archived: false

@@ -1,0 +1,11 @@
+name: Gerrit
+website_url: https://www.gerritcodereview.com/
+description: A code review and project management tool for Git based projects.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/GerritCodeReview/gerrit

@@ -43,7 +43,6 @@ description: '[Project management](https://en.wikipedia.org/wiki/Project_managem
 related_tags: # list of related tags, by name
   - Ticketing
   - Task management & To-do lists
-delegate_to: [] # URL to redirect to/link to domain-specific software list
 external_links: # external links
   - title: awesome-sysadmin/Code Review
     url: https://github.com/awesome-foss/awesome-sysadmin#code-review

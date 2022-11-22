@@ -1,0 +1,13 @@
+name: Chirpy
+website_url: https://chirpy.dev
+description: Chirpy is an open-source, privacy-friendly and customizable Disqus (comment
+  system) alternate.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/devrsi0n/chirpy
+demo_url: https://chirpy.dev/play

@@ -1,0 +1,11 @@
+name: Sourcehut
+website_url: https://sourcehut.org/
+description: A full web git interface with no javascript.
+licenses:
+  - GLP-2.0
+platforms:
+  - Go
+tags:
+  - Software Development - Project Management
+source_code_url: https://git.sr.ht/~sircmpwn/git.sr.ht/tree
+demo_url: https://sr.ht/

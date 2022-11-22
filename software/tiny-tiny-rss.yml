@@ -4,6 +4,7 @@ description: Open source web-based news feed (RSS/Atom) reader and aggregator.
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - PHP
 tags:
   - Feed Readers

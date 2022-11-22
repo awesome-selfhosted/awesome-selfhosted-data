@@ -2,7 +2,7 @@ name: Sourcehut
 website_url: https://sourcehut.org/
 description: A full web git interface with no javascript.
 licenses:
-  - GLP-2.0
+  - GPL-2.0
 platforms:
   - Go
 tags:

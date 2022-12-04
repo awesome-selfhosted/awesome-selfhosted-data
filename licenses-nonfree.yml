@@ -7,13 +7,13 @@
   name: Creative Commons Attribution-NonCommercial-ShareAlike License 3.0
   url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-- identifier: CC-BY-NC-4.0
-  name: Creative Commons Attribution-NonCommercial License 4.0
-  url: https://creativecommons.org/licenses/by-nc/4.0/
-
 - identifier: CC-BY-ND-3.0
   name: Creative Commons Attribution-NoDerivs Unported License 3.0
   url: https://creativecommons.org/licenses/by-nd/3.0/
+
+- identifier: CC-BY-NC-4.0
+  name: Creative Commons Attribution-NonCommercial License 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
 
 - identifier: Commons-Clause
   name: Commons Clause License

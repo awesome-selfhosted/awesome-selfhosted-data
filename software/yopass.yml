@@ -1,0 +1,14 @@
+name: Yopass
+website_url: https://github.com/jhaals/yopass
+description: Secure sharing of secrets, passwords and files.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/jhaals/yopass
+demo_url: https://yopass.se/
+stargazers_count: 1018
+updated_at: '2022-12-02'
+archived: false

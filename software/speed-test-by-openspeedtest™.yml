@@ -1,0 +1,10 @@
+name: Speed Test by OpenSpeedTest™
+website_url: https://openspeedtest.com/
+description: ' Free & Open-Source HTML5 Network Performance Estimation Tool.'
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/openspeedtest/Speed-Test

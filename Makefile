@@ -15,23 +15,23 @@ import: install
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \
-	hecat --config .hecat.import.yml
+	hecat --config .hecat/import.yml
 
 .PHONY: update_metadata # update metadata from project repositories/API
 update_metadata: install
 	source .venv/bin/activate && \
-	hecat --config .hecat.update_metadata.yml
+	hecat --config .hecat/update-metadata.yml
 
 .PHONY: awesome_lint # check data against awesome-selfhosted guidelines
 awesome_lint: install
 	source .venv/bin/activate && \
-	hecat --config .hecat.awesome_lint.yml
+	hecat --config .hecat/awesome-lint.yml
 
 .PHONY: export # export markdown singlepage document from yaml data
 export: install
 	rm -rf awesome-selfhosted && git clone https://github.com/awesome-selfhosted/awesome-selfhosted
 	source .venv/bin/activate && \
-	hecat --config .hecat.export.yml
+	hecat --config .hecat/export.yml
 	cd awesome-selfhosted && git diff --color=always
 
 .PHONY: help # generate list of targets with descriptions

@@ -1,7 +1,7 @@
 name: "Glewlwyd SSO server"
-website_url: "https://babelouest.github.io/glewlwyd/"
+website_url: "https://github.com/babelouest/glewlwyd"
 source_code_url: "https://github.com/babelouest/glewlwyd"
-description: "Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins" # required
+description: "Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins." # required
 licenses:
   - AGPL-3.0
 platforms: # required, see platforms/ for the full list of platforms

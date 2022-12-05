@@ -7,5 +7,5 @@ licenses: # required, see licenses.yml fro the full list of licenses
 platforms: # required, see platforms/ for the full list of platforms
   - C
 tags:
-  - Non existing category
+  - Monitoring
 demo_url: "https://babelouest.io/glewlwyd/"

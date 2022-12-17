@@ -1,0 +1,12 @@
+name: ITFlow
+website_url: https://itflow.org
+description: Client IT Documentation, Ticketing, Invoicing and Accounting Web Application
+  for MSPs (Managed Service Providers).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Ticketing
+source_code_url: https://github.com/itflow-org/itflow
+demo_url: https://demo.itflow.org

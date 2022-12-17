@@ -1,0 +1,13 @@
+name: Tiledesk
+website_url: https://tiledesk.com
+description: All-in-one customer engagement platform from lead-gen to post-sales,
+  from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots.
+  Self hosted alternative to Intercom, Zendesk, Tawk.to and Tidio.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/Tiledesk/tiledesk

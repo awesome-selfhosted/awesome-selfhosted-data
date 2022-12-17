@@ -1,0 +1,12 @@
+name: Traggo
+website_url: https://traggo.net/
+description: Traggo is a tag-based time tracking tool. In Traggo there are no tasks,
+  only tagged time spans.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Time Tracking
+source_code_url: https://github.com/traggo/server

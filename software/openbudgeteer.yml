@@ -1,0 +1,14 @@
+name: OpenBudgeteer
+website_url: https://github.com/TheAxelander/OpenBudgeteer
+description: A budgeting app based on the Bucket Budgeting Principle.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - C#
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/TheAxelander/OpenBudgeteer
+stargazers_count: 516
+updated_at: '2022-12-16'
+archived: false

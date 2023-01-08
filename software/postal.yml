@@ -1,11 +1,11 @@
 name: Postal
-website_url: https://postal.atech.media/
-description: Fully featured open source mail delivery platform for incoming and outgoing
-  e-mail.
+website_url: https://docs.postalserver.io/
+description: A complete and fully featured mail server for use by websites & web servers.
 licenses:
   - MIT
 platforms:
+  - Docker
   - Ruby
 tags:
-  - Communication - Email - Mailing Lists and Newsletters
-source_code_url: https://github.com/postalhq/postal
+  - Communication - Email - Complete Solutions
+source_code_url: https://github.com/postalserver/postal

@@ -1,0 +1,11 @@
+name: F-Droid
+website_url: https://f-droid.org
+description: Server tools for maintaining an F-Droid repository system.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://gitlab.com/fdroid/fdroidserver

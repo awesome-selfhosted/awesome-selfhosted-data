@@ -1,0 +1,11 @@
+name: Unraid
+website_url: https://www.unraid.net
+description: Linux-based operating system designed to run on home media server setups.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Other
+tags:
+  - Self-hosting Solutions
+source_code_url: https://www.unraid.net
+depends_3rdparty: true

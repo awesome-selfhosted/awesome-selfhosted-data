@@ -1,0 +1,10 @@
+name: Benotes
+website_url: https://benotes.org/
+description: An open source self hosted notes and bookmarks taking web app.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Note-taking & Editors
+source_code_url: https://benotes.org/

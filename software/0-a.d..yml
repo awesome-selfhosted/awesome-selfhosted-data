@@ -1,0 +1,13 @@
+name: 0 A.D.
+website_url: https://play0ad.com/
+description: A free, open-source game of ancient warfare.
+licenses:
+  - MIT
+  - GPL-2.0
+  - Zlib
+platforms:
+  - C++
+  - C
+tags:
+  - Games
+source_code_url: https://github.com/0ad/0ad

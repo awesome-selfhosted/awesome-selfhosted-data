@@ -1,0 +1,16 @@
+name: Apprise
+website_url: https://github.com/caronc/apprise
+description: 'Apprise allows you to send a notification to almost all of the most
+  popular notification services available to us today such as: Telegram, Discord,
+  Slack, Amazon SNS, Gotify, etc.'
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/caronc/apprise
+stargazers_count: 7262
+updated_at: '2023-01-15'
+archived: false

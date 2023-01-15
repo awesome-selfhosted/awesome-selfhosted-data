@@ -1,0 +1,16 @@
+name: Retrospring
+website_url: https://github.com/retrospring/retrospring
+description: A free, open-source social network following the Q/A (question and answer)
+  principle of sites like Formspring, ask.fm or CuriousCat.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - Nodejs
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/retrospring/retrospring
+demo_url: https://retrospring.net
+stargazers_count: 122
+updated_at: '2023-01-05'
+archived: false

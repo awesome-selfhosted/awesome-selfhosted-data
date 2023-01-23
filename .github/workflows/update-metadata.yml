@@ -9,10 +9,10 @@ jobs:
   test_schedule:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v3
-      - name: update all metadata from Github API
-        run: make update_metadata
+      - uses: actions/checkout@v3
+      - run: make update_metadata
+      - run: make awesome_lint
+      - run: make export
       - name: commit and push changes
         run: |
           git config user.name awesome-selfhosted-bot

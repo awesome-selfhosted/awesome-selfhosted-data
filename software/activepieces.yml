@@ -1,0 +1,12 @@
+name: Activepieces
+website_url: https://www.activepieces.com
+description: No-code business automation tool like Zapier or Tray. For example, you
+  can send a Slack notification for each new Trello card.
+licenses:
+  - MIT
+platforms:
+  - Typescript
+tags:
+  - Automation
+source_code_url: https://www.github.com/activepieces/activepieces
+demo_url: https://demo.activepieces.com

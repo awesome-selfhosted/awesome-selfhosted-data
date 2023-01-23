@@ -2,7 +2,7 @@ name: Planka
 website_url: https://planka.app/
 description: Open source Trello alternative.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
 tags:

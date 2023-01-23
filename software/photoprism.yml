@@ -4,7 +4,7 @@ description: Personal photo management powered by Go and Google TensorFlow.  Bro
   organize, and share your personal photo collection, using the latest technologies
   to automatically tag and find pictures.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Go
 tags:

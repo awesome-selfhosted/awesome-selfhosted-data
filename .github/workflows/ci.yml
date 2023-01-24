@@ -9,5 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: make url_check
       - run: make awesome_lint
       - run: make export

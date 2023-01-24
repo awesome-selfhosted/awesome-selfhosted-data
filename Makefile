@@ -22,11 +22,6 @@ update_metadata: install
 	source .venv/bin/activate && \
 	hecat --config .hecat/update-metadata.yml
 
-.PHONY: url_check # check URLs for dead links or other connection problems
-url_check: install
-	source .venv/bin/activate && \
-	hecat --config .hecat/url-check.yml
-
 .PHONY: awesome_lint # check data against awesome-selfhosted guidelines
 awesome_lint: install
 	source .venv/bin/activate && \
@@ -38,6 +33,11 @@ export: install
 	source .venv/bin/activate && \
 	hecat --config .hecat/export.yml
 	cd awesome-selfhosted && git diff --color=always
+
+.PHONY: url_check # check URLs for dead links or other connection problems
+url_check: install
+	source .venv/bin/activate && \
+	hecat --config .hecat/url-check.yml
 
 .PHONY: help # generate list of targets with descriptions
 help:

@@ -1,0 +1,14 @@
+name: SmartDNS
+website_url: https://github.com/pymumu/smartdns
+description: A local DNS server to obtain the fastest website IP for the best Internet
+  experience, supports DoT, DoH.
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - DNS
+source_code_url: https://github.com/pymumu/smartdns
+stargazers_count: 5762
+updated_at: '2023-01-19'
+archived: false

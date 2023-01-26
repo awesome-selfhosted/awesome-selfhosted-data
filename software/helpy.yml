@@ -1,5 +1,5 @@
 name: Helpy
-website_url: https://helpy.io
+website_url: https://github.com/helpyio/helpy
 description: Helpy is a modern, open source helpdesk customer support application.
   Features include knowledgebase, community discussions and support tickets integrated
   with email.
@@ -10,4 +10,7 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/helpyio/helpy
-demo_url: https://demo.helpy.io
+demo_url: https://demo.helpy.io/en
+stargazers_count: 2258
+updated_at: '2021-10-20'
+archived: false

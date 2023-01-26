@@ -1,5 +1,5 @@
 name: Libreddit
-website_url: https://libredd.it/
+website_url: https://github.com/spikecodes/libreddit/
 description: Private front-end for Reddit written in Rust.
 licenses:
   - AGPL-3.0
@@ -7,5 +7,5 @@ platforms:
   - Rust
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/spikecodes/libreddit
+source_code_url: https://github.com/spikecodes/libreddit/
 depends_3rdparty: true

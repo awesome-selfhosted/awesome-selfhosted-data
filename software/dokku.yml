@@ -1,0 +1,12 @@
+name: Dokku
+website_url: https://dokku.com/
+description: An open source PAAS alternative to Heroku.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Shell
+  - Go
+tags:
+  - Software Development - FaaS & Serverless
+source_code_url: https://github.com/dokku/dokku

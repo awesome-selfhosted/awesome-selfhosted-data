@@ -1,5 +1,5 @@
 name: Anuko
-website_url: https://www.anuko.com/time-tracker/index.htm
+website_url: https://github.com/anuko/timetracker
 description: Simple time and project tracking on a self-hosted basis.
 licenses:
   - SSPL-1.0
@@ -8,4 +8,6 @@ platforms:
 tags:
   - Time Tracking
 source_code_url: https://github.com/anuko/timetracker
-demo_url: https://timetracker.anuko.com/
+stargazers_count: 170
+updated_at: '2023-01-08'
+archived: false

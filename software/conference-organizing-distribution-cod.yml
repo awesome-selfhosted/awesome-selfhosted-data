@@ -2,7 +2,7 @@ name: Conference Organizing Distribution (COD)
 website_url: http://usecod.com/
 description: Create conference and event websites built on top of Drupal.
 licenses:
-  - GPL-1.0
+  - GPL-2.0
 platforms:
   - PHP
 tags:

@@ -3,7 +3,7 @@ website_url: https://www.accesstomemory.org/
 description: Web-based, open source application for standards-based archival description
   and access in a multilingual, multi-repository environment.
 licenses:
-  - AGPL-3.0-only
+  - AGPL-3.0
 platforms:
   - PHP
 tags:

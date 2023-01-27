@@ -2,7 +2,7 @@ name: ZenTao
 website_url: https://www.zentao.pm/
 description: An agile(scrum) project management system/tool.
 licenses:
-  - ZPL-1.2
+  - AGPL-3.0
 platforms:
   - PHP
 tags:

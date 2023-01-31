@@ -15,3 +15,10 @@ steps:
       errors_are_fatal: True
       exclude_regex:
         - '^https://github.com/[\w\.\-]+/[\w\.\-]+$' # don't check URLs that will be processed by the github_metadata module
+        - '^https://retrospring.net/$' # DDoS protection page, always returns 403
+        - '^https://www.taiga.io/$' # always returns 403 Request forbidden by administrative rules
+        - '^https://docs.paperless-ngx.com/$' # DDoS protection page, always returns 403
+        - '^https://demo.paperless-ngx.com/$' # DDoS protection page, always returns 403
+        - '^https://git.dotclear.org/dev/dotclear$' # DDoS protection page, always returns 403
+        - '^https://github.com/clupasq/word-mastermind$' # the demo instance takes a long time to spin up, times out with the default 10s timeout
+        - '^https://getgrist.com/$' # hecat/python-requests bug? 'Received response with content-encoding: gzip,br, but failed to decode it.'

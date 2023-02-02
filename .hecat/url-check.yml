@@ -7,11 +7,6 @@ steps:
         - tags
       source_files:
         - licenses.yml
-      check_keys:
-        - url
-        - source_code_url
-        - website_url
-        - demo_url
       errors_are_fatal: True
       exclude_regex:
         - '^https://github.com/[\w\.\-]+/[\w\.\-]+$' # don't check URLs that will be processed by the github_metadata module

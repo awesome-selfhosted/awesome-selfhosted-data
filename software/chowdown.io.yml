@@ -1,0 +1,10 @@
+name: Chowdown.io
+website_url: https://chowdown.io/
+description: Simple recipes in Markdown format.
+licenses:
+  - Unlicense
+platforms:
+  - Ruby
+tags:
+  - Recipe Management
+source_code_url: https://github.com/clarklab/chowdown

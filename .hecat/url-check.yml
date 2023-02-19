@@ -20,4 +20,4 @@ steps:
         - '^https://www.uvdesk.com/$' # DDoS protection page, always returns 403
         - '^https://demo.uvdesk.com/$' # DDoS protection page, always returns 403
         - '^https://notes.orga.cat/$' # DDoS protection page, always returns 403
-        - '^https://cytu.be/$' # DDoS protection page, always returns 403
+        - '^https://cytu.be$' # DDoS protection page, always returns 403

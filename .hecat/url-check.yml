@@ -17,3 +17,7 @@ steps:
         - '^https://git.dotclear.org/dev/dotclear$' # DDoS protection page, always returns 403
         - '^https://github.com/clupasq/word-mastermind$' # the demo instance takes a long time to spin up, times out with the default 10s timeout
         - '^https://getgrist.com/$' # hecat/python-requests bug? 'Received response with content-encoding: gzip,br, but failed to decode it.'
+        - '^https://www.uvdesk.com/$' # DDoS protection page, always returns 403
+        - '^https://demo.uvdesk.com/$' # DDoS protection page, always returns 403
+        - '^https://notes.orga.cat/$' # DDoS protection page, always returns 403
+        - '^https://cytu.be/$' # DDoS protection page, always returns 403

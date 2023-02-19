@@ -1,7 +1,6 @@
 name: ShinobiCE
 website_url: https://gitlab.com/Shinobi-Systems/ShinobiCE
-description: Open Source CCTV software written in Node with both IP and local camera
-  support.
+description: Open Source CCTV software written in Node with both IP and local camera support.
 licenses:
   - AGPL-3.0
   - GPL-3.0

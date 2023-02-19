@@ -1,7 +1,6 @@
 name: Moonmoon
 website_url: https://moonmoon.org/
-description: 'Simple feed aggregator (planet like): it only aggregates feeds and spits
-  them out in one single page.'
+description: 'Simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page.'
 licenses:
   - BSD-3-Clause
 platforms:

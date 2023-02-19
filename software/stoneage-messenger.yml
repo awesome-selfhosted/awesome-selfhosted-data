@@ -1,7 +1,6 @@
 name: StoneAge Messenger
 website_url: https://cweb.gitlab.io/StoneAge.html
-description: A self-hosted Android messenger, S3-compatible storage is the only backend
-  needed.
+description: A self-hosted Android messenger, S3-compatible storage is the only backend needed.
 licenses:
   - GPL-3.0
 platforms:

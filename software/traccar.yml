@@ -1,7 +1,6 @@
 name: Traccar
 website_url: https://www.traccar.org/
-description: Java application to track GPS positions. Supports loads of tracking devices
-  and protocols, has an Android and iOS App. Has a web interface to view your trips.
+description: Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips.
 licenses:
   - Apache-2.0
 platforms:

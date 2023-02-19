@@ -1,7 +1,6 @@
 name: Scoold
 website_url: https://scoold.com
-description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text
-  search, SAML, LDAP integration and social login support.
+description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support.
 licenses:
   - Apache-2.0
 platforms:

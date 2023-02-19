@@ -1,7 +1,6 @@
 name: PeerTube
 website_url: https://joinpeertube.org/en/
-description: Decentralized video streaming platform using P2P (BitTorrent) directly
-  in the web browser.
+description: Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser.
 licenses:
   - AGPL-3.0
 platforms:

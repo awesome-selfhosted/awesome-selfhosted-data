@@ -1,7 +1,6 @@
 name: mStream
 website_url: https://mstream.io/
-description: Music streaming server with GUI management tools. Runs on Mac, Windows,
-  and Linux.
+description: Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux.
 licenses:
   - GPL-2.0
 platforms:

@@ -1,7 +1,6 @@
 name: RustDesk
 website_url: https://rustdesk.com/
-description: An open source TeamViewer alternative, works out of the box, no configuration
-  required.
+description: An open source TeamViewer alternative, works out of the box, no configuration required.
 licenses:
   - AGPL-3.0
 platforms:

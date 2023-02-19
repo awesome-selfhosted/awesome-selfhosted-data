@@ -1,7 +1,6 @@
 name: Gray Duck Mail
 website_url: https://grayduckmail.com
-description: Self hosted email discussion list management that uses external email
-  providers.
+description: Self hosted email discussion list management that uses external email providers.
 licenses:
   - GPL-3.0
 platforms:

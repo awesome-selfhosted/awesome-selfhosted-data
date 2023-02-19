@@ -1,7 +1,6 @@
 name: HomelabOS
 website_url: https://homelabos.com
-description: Your very own offline-first privacy-centric open-source data-center.
-  Deploy over 100 services with a few commands.
+description: Your very own offline-first privacy-centric open-source data-center. Deploy over 100 services with a few commands.
 licenses:
   - MIT
 platforms:

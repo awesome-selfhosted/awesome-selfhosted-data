@@ -1,7 +1,6 @@
 name: Gitolite
 website_url: https://gitolite.com/gitolite/index.html
-description: Gitolite allows you to setup git hosting on a central server, with fine-grained
-  access control and many more powerful features.
+description: Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
 licenses:
   - GPL-2.0
 platforms:

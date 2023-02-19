@@ -1,8 +1,6 @@
 name: Hiccup
 website_url: https://designedbyashw.in/test/hiccup/
-description: A beautiful static homepage to get to your links and services quickly.
-  It has built-in search, editing, PWA support and localstorage caching to easily
-  organize your start page.
+description: A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page.
 licenses:
   - MIT
 platforms:

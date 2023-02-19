@@ -1,8 +1,6 @@
 name: ChiefOnboarding
 website_url: https://chiefonboarding.com
-description: Employee onboarding platform that allows you to provision user accounts
-  and create sequences with todo items, resources, text/email/Slack messages, and
-  more! Available as a web portal and Slack bot.
+description: Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot.
 licenses:
   - AGPL-3.0
 platforms:

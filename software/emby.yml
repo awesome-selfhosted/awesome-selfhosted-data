@@ -1,7 +1,6 @@
 name: Emby
 website_url: https://emby.media/
-description: Home media server supporting both DLNA and DIAL (Chromecast) devices
-  out-of-the-box.
+description: Home media server supporting both DLNA and DIAL (Chromecast) devices out-of-the-box.
 licenses:
   - ⊘ Proprietary
 platforms:

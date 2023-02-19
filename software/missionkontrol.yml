@@ -1,7 +1,6 @@
 name: MissionKontrol
 website_url: https://www.missionkontrol.io
-description: Configurable admin panel allowing non-technical users to CRUD data on
-  MySQL/PostGRES databases.
+description: Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases.
 licenses:
   - AGPL-3.0
 platforms:

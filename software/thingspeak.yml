@@ -1,7 +1,6 @@
 name: Thingspeak
 website_url: https://thingspeak.com/
-description: Open source “Internet of Things” application and API to store and retrieve
-  data from things using HTTP.
+description: Open source “Internet of Things” application and API to store and retrieve data from things using HTTP.
 licenses:
   - GPL-3.0
 platforms:

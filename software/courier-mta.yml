@@ -1,7 +1,6 @@
 name: Courier MTA
 website_url: https://www.courier-mta.org/
-description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP,
-  POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
+description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
 licenses:
   - GPL-3.0
 platforms:

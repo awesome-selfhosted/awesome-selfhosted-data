@@ -1,7 +1,6 @@
 name: DAViCal
 website_url: https://www.davical.org/
-description: Server for calendar sharing (CalDAV) that uses a PostgreSQL database
-  as a data store.
+description: Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store.
 licenses:
   - GPL-2.0
 platforms:

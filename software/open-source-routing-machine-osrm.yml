@@ -1,7 +1,6 @@
 name: Open Source Routing Machine (OSRM)
 website_url: http://project-osrm.org/
-description: High performance routing engine designed to run on OpenStreetMap data
-  and offering an HTTP API, C++ library interface, and Nodejs wrapper.
+description: High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and Nodejs wrapper.
 licenses:
   - BSD-2-Clause
 platforms:

@@ -1,7 +1,6 @@
 name: EmuLinkerSF
 website_url: https://emulinker.org
-description: EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server
-  system that any emulator can implement to enable netplay over the Internet.
+description: EmuLinkerSF is an open source Kaillera server. Kaillera is a client/server system that any emulator can implement to enable netplay over the Internet.
 licenses:
   - GPL-2.0
 platforms:

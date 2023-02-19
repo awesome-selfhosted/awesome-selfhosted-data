@@ -1,7 +1,6 @@
 name: Octave Online
 website_url: https://octave-online.net/
-description: Infrastracture behind a web UI for GNU Octave, the libre alternative
-  to MATLAB.
+description: Infrastracture behind a web UI for GNU Octave, the libre alternative to MATLAB.
 licenses:
   - AGPL-3.0
 platforms:

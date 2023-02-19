@@ -1,7 +1,6 @@
 name: Wordle
 website_url: https://reactle.vercel.app/
-description: An Open Source Wordle game. Guess the Wordle in six tries. Each guess
-  must be a valid five-letter word.
+description: An Open Source Wordle game. Guess the Wordle in six tries. Each guess must be a valid five-letter word.
 licenses:
   - MIT
 platforms:

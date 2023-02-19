@@ -1,8 +1,6 @@
 name: Squid
 website_url: http://www.squid-cache.org/
-description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces
-  bandwidth and improves response times by caching and reusing frequently-requested
-  web pages.
+description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
 licenses:
   - GPL-2.0
 platforms:

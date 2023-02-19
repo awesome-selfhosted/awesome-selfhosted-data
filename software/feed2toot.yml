@@ -1,7 +1,6 @@
 name: feed2toot
 website_url: https://feed2toot.readthedocs.io/en/latest/
-description: Feed2toot parses a RSS feed, extracts the last entries and sends them
-  to Mastodon.
+description: Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon.
 licenses:
   - GPL-3.0
 platforms:

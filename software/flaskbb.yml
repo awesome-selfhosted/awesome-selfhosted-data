@@ -1,8 +1,6 @@
 name: FlaskBB
 website_url: https://flaskbb.org/
-description: FlaskBB is forum software written in Python using the microframework
-  Flask. You can easily create new topics, posts and send other users private messages.
-  It also includes basic administration and moderation tools.
+description: FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools.
 licenses:
   - BSD-3-Clause
 platforms:

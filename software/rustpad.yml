@@ -1,7 +1,6 @@
 name: Rustpad
 website_url: https://rustpad.io/
-description: Efficient and minimal collaborative code editor, self-hosted, no database
-  required.
+description: Efficient and minimal collaborative code editor, self-hosted, no database required.
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,6 @@
 name: Kinto
 website_url: https://kinto.readthedocs.org
-description: Kinto is a minimalist JSON storage service with synchronisation and sharing
-  abilities.
+description: Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.
 licenses:
   - Apache-2.0
 platforms:

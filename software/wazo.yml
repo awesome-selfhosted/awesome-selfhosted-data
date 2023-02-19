@@ -1,7 +1,6 @@
 name: Wazo
 website_url: https://wazo-platform.org/
-description: Full-featured IPBX solution built atop Asterisk with integrated Web administration
-  interface and REST-ful API.
+description: Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API.
 licenses:
   - GPL-3.0
 platforms:

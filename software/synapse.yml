@@ -1,7 +1,6 @@
 name: Synapse
 website_url: https://matrix.org/docs/projects/server/synapse
-description: Server for [Matrix](https://matrix.org/), an open standard for decentralized
-  persistent communication.
+description: Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication.
 licenses:
   - Apache-2.0
 platforms:

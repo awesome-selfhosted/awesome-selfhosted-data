@@ -1,7 +1,6 @@
 name: GitLab
 website_url: https://about.gitlab.com
-description: Self Hosted Git repository management, code reviews, issue tracking,
-  activity feeds and wikis.
+description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
 licenses:
   - MIT
 platforms:

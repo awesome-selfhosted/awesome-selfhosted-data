@@ -1,9 +1,6 @@
 name: Hawkpost
 website_url: https://hawkpost.co
-description: HawkPost is a web app that lets you create unique links that you can
-  share with a person that desires to send you important information but doesn't know
-  how to encrypt it. The message is encrypted in their browser and sent to your email
-  address.
+description: HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address.
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,6 @@
 name: Touca
 website_url: https://touca.io
-description: Continuous regression testing for engineering teams. Get feedback when
-  you write code that could break your software.
+description: Continuous regression testing for engineering teams. Get feedback when you write code that could break your software.
 licenses:
   - Apache-2.0
 platforms:

@@ -1,7 +1,6 @@
 name: OpenGTS
 website_url: http://www.opengts.org/
-description: Entry-level fleet tracking system. Supports variety of tracking devices
-  and protocols. Comes with rich web-interface and reporting features.
+description: Entry-level fleet tracking system. Supports variety of tracking devices and protocols. Comes with rich web-interface and reporting features.
 licenses:
   - Apache-2.0
 platforms:

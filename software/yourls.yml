@@ -1,8 +1,6 @@
 name: YOURLS
 website_url: https://yourls.org/
-description: YOURLS is a set of PHP scripts that will allow you to run Your Own URL
-  Shortener. Features include password protection, URL customization, bookmarklets,
-  statistics, API, plugins, jsonp.
+description: YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp.
 licenses:
   - MIT
 platforms:

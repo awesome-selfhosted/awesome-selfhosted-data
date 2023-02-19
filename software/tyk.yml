@@ -1,8 +1,6 @@
 name: Tyk
 website_url: https://tyk.io
-description: Fast and scalable open source API Gateway. Out of the box, Tyk offers
-  an API Management Platform with an API Gateway, API Analytics, Developer Portal
-  and API Management Dashboard.
+description: Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard.
 licenses:
   - MPL-2.0
 platforms:

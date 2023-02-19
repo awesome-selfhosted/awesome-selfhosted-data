@@ -1,7 +1,6 @@
 name: ReadyMedia
 website_url: https://sourceforge.net/projects/minidlna/
-description: Simple media server software, with the aim of being fully compliant with
-  DLNA/UPnP-AV clients. Formerly known as MiniDLNA.
+description: Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA.
 licenses:
   - GPL-2.0
 platforms:

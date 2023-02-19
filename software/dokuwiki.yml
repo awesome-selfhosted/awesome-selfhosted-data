@@ -1,8 +1,6 @@
 name: Dokuwiki
 website_url: https://www.dokuwiki.org/DokuWiki
-description: Easy to use, lightweight, standards-compliant wiki engine with a simple
-  syntax allowing reading the data outside the wiki. All data is stored in plain text
-  files, therefore no database is required.
+description: Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required.
 licenses:
   - GPL-2.0
 platforms:

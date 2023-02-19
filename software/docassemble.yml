@@ -1,7 +1,6 @@
 name: docassemble
 website_url: https://docassemble.org/
-description: A free, open-source expert system for guided interviews and document
-  assembly, based on Python, YAML, and Markdown.
+description: A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
 licenses:
   - MIT
 platforms:

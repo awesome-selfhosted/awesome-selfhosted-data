@@ -1,8 +1,6 @@
 name: FHEM
 website_url: https://fhem.de/fhem.html
-description: FHEM is used to automate common tasks in the household like switching
-  lamps and heating. It can also be used to log events like temperature or power consumption.
-  You can control it via web or smartphone frontends, telnet or TCP/IP directly.
+description: FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly.
 licenses:
   - GPL-3.0
 platforms:

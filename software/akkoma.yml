@@ -1,7 +1,6 @@
 name: Akkoma
 website_url: https://akkoma.social/
-description: Federated microblogging server with Mastodon, GNU social, and ActivityPub
-  compatibility.
+description: Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility.
 licenses:
   - AGPL-3.0
 platforms:

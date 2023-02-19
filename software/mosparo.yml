@@ -1,0 +1,10 @@
+name: mosparo
+website_url: https://mosparo.io/
+description: The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/mosparo/mosparo

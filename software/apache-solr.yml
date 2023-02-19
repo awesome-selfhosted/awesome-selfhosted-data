@@ -1,7 +1,6 @@
 name: Apache Solr
 website_url: https://lucene.apache.org/solr/
-description: Solr is the popular, blazing-fast, open source enterprise search platform
-  built on Apache Lucene.
+description: Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene.
 licenses:
   - Apache-2.0
 platforms:

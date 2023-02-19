@@ -1,7 +1,6 @@
 name: EPrints
 website_url: https://www.eprints.org/
-description: Digital document management system with a flexible metadata and workflow
-  model primarily aimed at academic institutions.
+description: Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions.
 licenses:
   - GPL-3.0
 platforms:

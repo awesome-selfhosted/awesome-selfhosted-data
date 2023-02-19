@@ -1,8 +1,6 @@
 name: StackStorm
 website_url: https://stackstorm.com
-description: StackStorm (aka _IFTTT for Ops_) is event-driven automation for auto-remediation,
-  security responses, troubleshooting, deployments, and more. Includes rules engine,
-  workflow, 160 integration packs with 6000+ actions and ChatOps.
+description: StackStorm (aka _IFTTT for Ops_) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps.
 licenses:
   - Apache-2.0
 platforms:

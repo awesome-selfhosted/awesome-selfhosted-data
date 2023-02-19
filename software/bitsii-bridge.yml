@@ -1,7 +1,6 @@
 name: Bitsii Bridge
 website_url: https://gitlab.com/bitsii/Bitsii/-/wikis/home
-description: Easy to install self-hosting platform for Windows, MacOS, and Linux.
-  Depends on a dynamic DNS provider and Let's Encrypt.
+description: Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt.
 licenses:
   - MPL-2.0
 platforms:

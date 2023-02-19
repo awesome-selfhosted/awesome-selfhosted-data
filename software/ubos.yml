@@ -1,8 +1,6 @@
 name: UBOS
 website_url: https://ubos.net/
-description: Linux distro that runs on indie boxes (personal servers and IoT devices).
-  Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud,
-  WordPress, etc., and other features.
+description: Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features.
 licenses:
   - GPL-3.0
 platforms:

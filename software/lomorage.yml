@@ -1,8 +1,6 @@
 name: Lomorage
 website_url: https://lomorage.com/
-description: 'Google photo alternative via simple self-hosting software. Supported
-  clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian,
-  MAC/Windows/Linux.'
+description: 'Google photo alternative via simple self-hosting software. Supported clients: iOS, Android, Web, MAC/Windows. Backend can run on Raspberry pi, Armbian, MAC/Windows/Linux.'
 licenses:
   - ⊘ Proprietary
 platforms:

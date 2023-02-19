@@ -1,7 +1,6 @@
 name: Bytebase
 website_url: https://www.bytebase.com/
-description: Safe database schema change and version control for DevOps teams, supports
-  MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake.
+description: Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake.
 licenses:
   - MIT
 platforms:

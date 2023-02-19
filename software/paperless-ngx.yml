@@ -1,7 +1,6 @@
 name: Paperless-ngx
 website_url: https://docs.paperless-ngx.com/
-description: A fork of paperless, adding a new interface and many other changes under
-  the hood. Scan, index, and archive all of your paper documents.
+description: A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents.
 licenses:
   - GPL-3.0
 platforms:

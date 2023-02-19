@@ -1,8 +1,6 @@
 name: Openmeetings
 website_url: https://openmeetings.apache.org/index.html
-description: Openmeetings provides video conferencing, instant messaging, white board,
-  collaborative document editing and other groupware tools using API functions of
-  the Red5 Streaming Server for Remoting and Streaming.
+description: Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.
 licenses:
   - Apache-2.0
 platforms:

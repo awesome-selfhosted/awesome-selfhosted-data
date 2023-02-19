@@ -1,8 +1,6 @@
 name: Jellyfin
 website_url: https://jellyfin.org
-description: Media server for audio, video, books, comics, and photos with a sleek
-  interface and robust transcoding capabilities. Almost all modern platforms have
-  clients, including Roku, Android TV, iOS, and Kodi.
+description: Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi.
 licenses:
   - GPL-2.0
 platforms:

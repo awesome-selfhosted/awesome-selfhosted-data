@@ -1,7 +1,6 @@
 name: Tandoor Recipes
 website_url: https://docs.tandoor.dev/
-description: Django application to manage, tag and search recipes using either built-in
-  models or external storage providers hosting PDFs, Images or other files.
+description: Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files.
 licenses:
   - MIT
 platforms:

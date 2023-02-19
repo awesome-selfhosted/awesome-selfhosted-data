@@ -1,7 +1,6 @@
 name: ZincSearch
 website_url: https://zincsearch.com
-description: A lightweight alternative to elasticsearch that requires minimal resources,
-  written in Go.
+description: A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 licenses:
   - Apache-2.0
 platforms:

@@ -1,7 +1,6 @@
 name: HyperKitty
 website_url: https://wiki.list.org/HyperKitty
-description: Open source Django application to provide a web interface to access GNU
-  Mailman v3 archives.
+description: Open source Django application to provide a web interface to access GNU Mailman v3 archives.
 licenses:
   - GPL-3.0
 platforms:

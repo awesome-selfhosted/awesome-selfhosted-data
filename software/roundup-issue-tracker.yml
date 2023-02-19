@@ -1,8 +1,6 @@
 name: Roundup Issue Tracker
 website_url: https://www.roundup-tracker.org/
-description: A simple-to-use and -install issue-tracking system with command-line,
-  web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not
-  just another bug tracker.
+description: A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker.
 licenses:
   - MIT
   - ZPL-2.0

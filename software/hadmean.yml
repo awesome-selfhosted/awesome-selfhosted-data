@@ -1,7 +1,6 @@
 name: Hadmean
 website_url: https://hadmean.com
-description: Don't build in hours but generate in seconds your fully functional admin
-  apps without any technical knowledge with just a single command `npx hadmean`.
+description: Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`.
 licenses:
   - AGPL-3.0
 platforms:

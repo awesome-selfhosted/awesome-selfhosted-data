@@ -1,7 +1,6 @@
 name: MapTiler Server
 website_url: https://www.maptiler.com/server/
-description: Software for self-hosting of OpenStreetMap vector tiles, satellite imagery,
-  own geodata and data from PostGIS database.
+description: Software for self-hosting of OpenStreetMap vector tiles, satellite imagery, own geodata and data from PostGIS database.
 licenses:
   - ⊘ Proprietary
 platforms:

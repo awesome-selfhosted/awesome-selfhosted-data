@@ -1,8 +1,6 @@
 name: EMQX
 website_url: https://www.emqx.io/
-description: An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices
-  in one single cluster, move and process real-time IoT data with 1M msg/s throughput
-  at 1ms latency.
+description: An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.
 licenses:
   - Apache-2.0
 platforms:

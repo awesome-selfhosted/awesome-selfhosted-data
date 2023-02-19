@@ -1,7 +1,6 @@
 name: Kerberos.io
 website_url: https://kerberos.io
-description: Kerberos.io is a video surveillance solution, which works with any camera
-  and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster).
+description: Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster).
 licenses:
   - MIT
 platforms:

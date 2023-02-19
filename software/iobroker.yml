@@ -1,8 +1,6 @@
 name: ioBroker
 website_url: https://www.iobroker.net/
-description: Integration platform for the Internet of Things, focused on building
-  automation, smart metering, ambient assisted living, process automation, visualization
-  and data logging.
+description: Integration platform for the Internet of Things, focused on building automation, smart metering, ambient assisted living, process automation, visualization and data logging.
 licenses:
   - MIT
 platforms:

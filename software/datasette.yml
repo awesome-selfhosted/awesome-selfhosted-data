@@ -1,7 +1,6 @@
 name: Datasette
 website_url: https://datasette.io/
-description: An open source multi-tool for exploring and publishing data, easy import
-  and export and database management.
+description: An open source multi-tool for exploring and publishing data, easy import and export and database management.
 licenses:
   - Apache-2.0
 platforms:

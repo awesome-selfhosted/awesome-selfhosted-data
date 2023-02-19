@@ -1,7 +1,6 @@
 name: SANE Network Scanning
 website_url: http://sane-project.org/
-description: Allow remote clients to access image acquisition devices (scanners) available
-  on the local host.
+description: Allow remote clients to access image acquisition devices (scanners) available on the local host.
 licenses:
   - GPL-2.0
 platforms:

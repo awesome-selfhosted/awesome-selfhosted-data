@@ -1,8 +1,6 @@
 name: TWiki
 website_url: https://twiki.org/
-description: TWiki is a Perl-based structured wiki application, typically used to
-  run a collaboration platform, knowledge or document management system, a knowledge
-  base, or team portal.
+description: TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal.
 licenses:
   - GPL-2.0
 platforms:

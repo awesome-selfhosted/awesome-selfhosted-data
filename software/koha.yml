@@ -1,8 +1,6 @@
 name: Koha
 website_url: https://koha-community.org/
-description: Enterprise-class ILS with modules for acquisitions, circulation, cataloging,
-  label printing, offline circulation for when Internet access is not available, and
-  much more.
+description: Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more.
 licenses:
   - GPL-3.0
 platforms:

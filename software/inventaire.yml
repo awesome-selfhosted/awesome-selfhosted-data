@@ -1,7 +1,6 @@
 name: Inventaire
 website_url: https://inventaire.io/welcome
-description: Collaborative resources mapper project, while yet only focused on exploring
-  books mapping with wikidata and ISBNs.
+description: Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs.
 licenses:
   - AGPL-3.0
 platforms:

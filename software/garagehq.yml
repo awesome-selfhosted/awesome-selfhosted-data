@@ -1,7 +1,6 @@
 name: GarageHQ
 website_url: https://garagehq.deuxfleurs.fr/
-description: An open-source geo-distributed storage service you can self-host to fulfill
-  many needs - S3 compatible.
+description: An open-source geo-distributed storage service you can self-host to fulfill many needs - S3 compatible.
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,0 +1,10 @@
+name: EmailRelay
+website_url: https://emailrelay.sourceforge.net/
+description: A small and easy to configure SMTP and POP3 server for Windows and Linux.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://sourceforge.net/p/emailrelay/code/HEAD/tree/

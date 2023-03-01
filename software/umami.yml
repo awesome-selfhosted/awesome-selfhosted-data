@@ -1,0 +1,11 @@
+name: Umami
+website_url: https://umami.is/
+description: Simple, fast, privacy-focused alternative to Google Analytics.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/mikecao/umami
+demo_url: https://app.umami.is/share/ISgW2qz8/flightphp.com

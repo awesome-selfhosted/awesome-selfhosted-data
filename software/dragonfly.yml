@@ -1,0 +1,13 @@
+name: DragonFly
+website_url: https://github.com/corecode/dma
+description: A small MTA for home and office use. Works on Linux and FreeBSD.
+licenses:
+  - BSD
+platforms:
+  - C
+tags:
+  - Communication - Email - Mail Transfer Agents
+source_code_url: https://github.com/corecode/dma
+stargazers_count: 196
+updated_at: '2023-02-26'
+archived: false

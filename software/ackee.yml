@@ -1,0 +1,11 @@
+name: Ackee
+website_url: https://ackee.electerious.com
+description: Self-hosted analytics tool for those who care about privacy.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/electerious/Ackee
+demo_url: http://demo.ackee.electerious.com

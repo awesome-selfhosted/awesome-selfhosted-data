@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
+  - Erlang
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/emqx/emqx

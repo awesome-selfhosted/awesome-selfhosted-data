@@ -1,0 +1,10 @@
+name: EDA
+website_url: https://eda.jortilles.com/en/jortilles-english/
+description: Web application for data analysis and visualization.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/jortilles/EDA

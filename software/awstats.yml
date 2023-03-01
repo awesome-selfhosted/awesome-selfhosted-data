@@ -1,0 +1,10 @@
+name: AWStats
+website_url: http://www.awstats.org/
+description: Generate statistics from web, streaming, ftp or mail server logfiles.
+licenses:
+  - GPL-3.0
+platforms:
+  - Perl
+tags:
+  - Analytics
+source_code_url: https://github.com/eldy/awstats

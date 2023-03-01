@@ -1,0 +1,10 @@
+name: GoatCounter
+website_url: https://www.goatcounter.com
+description: Easy web statistics without tracking of personal data.
+licenses:
+  - EUPL-1.2
+platforms:
+  - Go
+tags:
+  - Analytics
+source_code_url: https://github.com/zgoat/goatcounter

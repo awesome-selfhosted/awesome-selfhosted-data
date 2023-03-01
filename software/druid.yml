@@ -1,0 +1,10 @@
+name: Druid
+website_url: http://druid.io/
+description: Distributed, column-oriented, real-time analytics data store.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Analytics
+source_code_url: https://github.com/druid-io/druid

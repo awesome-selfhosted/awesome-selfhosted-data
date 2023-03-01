@@ -1,0 +1,10 @@
+name: Countly Community Edition
+website_url: https://count.ly
+description: Real time mobile and web analytics, crash reporting and push notifications platform.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/countly

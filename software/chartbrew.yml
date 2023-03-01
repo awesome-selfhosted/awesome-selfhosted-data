@@ -1,0 +1,11 @@
+name: Chartbrew
+website_url: https://chartbrew.com
+description: Web application that can connect directly to databases and APIs and use the data to create beautiful charts.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/chartbrew/chartbrew
+demo_url: https://app.chartbrew.com/live-demo

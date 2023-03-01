@@ -1,0 +1,13 @@
+name: Red Eclipse 2
+website_url: https://redeclipse.net
+description: A FOSS Arena First-Person Shooter Similar to Unreal Tournament.
+licenses:
+  - Zlib
+  - MIT
+  - CC-BY-SA
+platforms:
+  - C
+  - C++
+tags:
+  - Games
+source_code_url: https://github.com/redeclipse/base

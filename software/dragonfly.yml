@@ -2,7 +2,7 @@ name: DragonFly
 website_url: https://github.com/corecode/dma
 description: A small MTA for home and office use. Works on Linux and FreeBSD.
 licenses:
-  - BSD
+  - BSD-3-Clause
 platforms:
   - C
 tags:

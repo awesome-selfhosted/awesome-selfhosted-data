@@ -9,3 +9,4 @@ tags:
   - Search Engines
 source_code_url: https://github.com/searx/searx
 demo_url: https://searx.space/
+depends_3rdparty: true

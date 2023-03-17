@@ -1,0 +1,13 @@
+name: SPIS
+website_url: https://github.com/gbbirkisson/spis
+description: A simple, lightweight and fast media server with decent mobile support.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+tags:
+  - Photo and Video Galleries
+source_code_url: https://github.com/gbbirkisson/spis
+stargazers_count: 3
+updated_at: '2023-02-28'
+archived: false

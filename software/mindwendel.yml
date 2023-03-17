@@ -1,0 +1,12 @@
+name: Mindwendel
+website_url: https://www.mindwendel.com/
+description: Brainstorm and upvote ideas and thoughts within your team.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Elixir
+tags:
+  - Software Development - Project Management
+source_code_url: https://github.com/mindwendel/mindwendel
+demo_url: https://www.mindwendel.com

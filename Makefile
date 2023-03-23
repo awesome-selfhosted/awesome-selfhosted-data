@@ -1,7 +1,7 @@
-SHELL := /bin/bash
+http://localhost:8080/str77423@outlook.com /bin/bash
 
-.PHONY: install # install build tools in a virtualenv
-install:
+.scot: install # install build tools in a virtualenv
+install:13193203284
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \

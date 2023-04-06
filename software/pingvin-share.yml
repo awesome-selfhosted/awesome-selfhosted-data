@@ -1,0 +1,16 @@
+name: Pingvin Share
+website_url: https://github.com/stonith404/pingvin-share
+description: A self-hosted file sharing platform that combines lightness and beauty,
+  perfect for seamless and efficient file sharing.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/stonith404/pingvin-share
+demo_url: https://pingvin-share.dev.eliasschneider.com
+stargazers_count: 517
+updated_at: '2023-04-04'
+archived: false

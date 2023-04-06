@@ -1,0 +1,10 @@
+name: Gramps Web
+website_url: https://gramps-project.github.io/web/
+description: Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ([Demo](https://gramps-project.github.io/web/), [Source Code](https://github.com/gramps-project/gramps-webapi)).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Genealogy
+source_code_url: https://gramps-project.github.io/web/

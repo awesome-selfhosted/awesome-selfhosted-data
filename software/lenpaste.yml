@@ -1,0 +1,12 @@
+name: Lenpaste
+website_url: https://git.lcomrade.su/root/lenpaste
+description: Web service that allows you to share notes anonymously, an alternative to pastebin.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Pastebins
+source_code_url: https://git.lcomrade.su/root/lenpaste
+demo_url: https://paste.lcomrade.su/

@@ -1,0 +1,14 @@
+name: Hound
+website_url: https://github.com/hound-search/hound
+description: Lightning fast code searching made easy.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Search Engines
+source_code_url: https://github.com/hound-search/hound
+stargazers_count: 5313
+updated_at: '2023-02-15'
+archived: false

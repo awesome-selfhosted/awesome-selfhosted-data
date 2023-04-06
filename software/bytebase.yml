@@ -7,6 +7,6 @@ platforms:
   - Docker
   - Go
 tags:
-  - Miscellaneous
+  - Database Management
 source_code_url: https://github.com/bytebase/bytebase
 demo_url: https://demo.bytebase.com

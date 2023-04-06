@@ -1,0 +1,11 @@
+name: Seatsurfing
+website_url: https://seatsurfing.app/
+description: Webbased app to book seats, desks and rooms for offices.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Booking and Scheduling
+source_code_url: https://github.com/seatsurfing/backend
+demo_url: https://seatsurfing.app/get-started/

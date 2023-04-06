@@ -1,0 +1,10 @@
+name: Lago
+website_url: https://www.getlago.com/
+description: Open-source metering and usage-based billing.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/getlago/lago

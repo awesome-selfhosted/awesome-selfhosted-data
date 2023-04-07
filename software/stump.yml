@@ -1,6 +1,7 @@
 name: Stump
 website_url: https://www.stumpapp.dev
-description: A fast, free and open source comics, manga and digital book server with OPDS support.
+description: A fast, free and open source comics, manga and digital book server with
+  OPDS support.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/aaronleopold/stump
+stargazers_count: 409
+updated_at: '2023-03-17'
+archived: false

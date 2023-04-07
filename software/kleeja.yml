@@ -1,6 +1,7 @@
 name: Kleeja
 website_url: https://kleeja.net/
-description: File Upload/sharing application, used by thousands of webmasters since 2007.
+description: File Upload/sharing application, used by thousands of webmasters since
+  2007.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/kleeja-official/kleeja
+stargazers_count: 174
+updated_at: '2022-08-17'
+archived: false

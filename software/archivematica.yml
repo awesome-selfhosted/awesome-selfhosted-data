@@ -1,6 +1,7 @@
 name: Archivematica
 website_url: https://www.archivematica.org/en/
-description: Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects.
+description: Mature digital preservation system designed to maintain standards-based,
+  long-term access to collections of digital objects.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/artefactual/archivematica
 demo_url: https://sandbox.archivematica.org/administration/accounts/login/
+stargazers_count: 354
+updated_at: '2023-02-27'
+archived: false

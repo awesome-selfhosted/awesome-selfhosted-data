@@ -1,6 +1,7 @@
 name: Kazoo
 website_url: https://2600hz.org/
-description: KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features.
+description: KAZOO is an open-source, highly scalable software platform designed to
+  provide carrier-grade VoIP switch functions and features.
 licenses:
   - MPL-1.1
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/2600hz/KAZOO
+stargazers_count: 894
+updated_at: '2022-08-01'
+archived: false

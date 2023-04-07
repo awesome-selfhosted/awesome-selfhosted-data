@@ -1,6 +1,7 @@
 name: SickChill
 website_url: https://sickchill.github.io/
-description: SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+description: SickChill is an automatic video library manager for TV shows. It watches
+  for new episodes of your favorite shows, and when they are posted it does its magic.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/SickChill/SickChill
+stargazers_count: 2300
+updated_at: '2023-03-15'
+archived: false

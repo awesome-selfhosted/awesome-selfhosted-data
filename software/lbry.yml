@@ -1,6 +1,7 @@
 name: LBRY
 website_url: https://lbry.com/
-description: Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon.
+description: Is a secure, open, and community-run digital marketplace that aims to
+  replace Youtube and Amazon.
 licenses:
   - MIT
 platforms:
@@ -10,3 +11,6 @@ tags:
 source_code_url: https://github.com/lbryio/lbry.com
 demo_url: https://lbry.tv/
 related_software_url: https://github.com/lbryio/lbry-desktop
+stargazers_count: 253
+updated_at: '2022-12-01'
+archived: false

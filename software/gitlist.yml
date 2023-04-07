@@ -1,6 +1,8 @@
 name: Gitlist
 website_url: https://gitlist.org/
-description: Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs.
+description: Web-based git repository browser - GitList allows you to browse repositories
+  using your favorite browser, viewing files under different revisions, commit history
+  and diffs.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/klaussilveira/gitlist
+stargazers_count: 2897
+updated_at: '2022-07-29'
+archived: false

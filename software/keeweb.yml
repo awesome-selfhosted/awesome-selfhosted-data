@@ -1,6 +1,7 @@
 name: keeweb
 website_url: https://keeweb.info/
-description: This webapp is a browser and desktop password manager compatible with KeePass databases.
+description: This webapp is a browser and desktop password manager compatible with
+  KeePass databases.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Password Managers
 source_code_url: https://github.com/keeweb/keeweb
+stargazers_count: 11536
+updated_at: '2022-06-09'
+archived: false

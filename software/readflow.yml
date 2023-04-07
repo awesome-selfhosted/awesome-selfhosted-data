@@ -1,6 +1,7 @@
 name: Readflow
 website_url: https://readflow.app
-description: 'Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications...'
+description: 'Lightweight news reader with modern interface and features: full-text
+  search, automatic categorization, archiving, offline support, notifications...'
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/ncarlier/readflow
+stargazers_count: 284
+updated_at: '2023-03-28'
+archived: false

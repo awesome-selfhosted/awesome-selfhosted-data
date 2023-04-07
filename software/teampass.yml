@@ -1,6 +1,8 @@
 name: Teampass
 website_url: https://teampass.net/
-description: Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP.
+description: Password manager dedicated for managing passwords in a collaborative
+  way. One symmetric key is used to encrypt all shared/team passwords and stored server
+  side in a file and the database. works on any server Apache, MySQL and PHP.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Password Managers
 source_code_url: https://github.com/nilsteampassnet/TeamPass
+stargazers_count: 1503
+updated_at: '2023-04-01'
+archived: false

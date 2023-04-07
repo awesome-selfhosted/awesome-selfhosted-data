@@ -1,6 +1,7 @@
 name: Flarum
 website_url: https://flarum.org
-description: Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again.
+description: Delightfully simple forums. Flarum is the next-generation forum software
+  that makes online discussion fun again.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/flarum/flarum
+stargazers_count: 13870
+updated_at: '2023-03-10'
+archived: false

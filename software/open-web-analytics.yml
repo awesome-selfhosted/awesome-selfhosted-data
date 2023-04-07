@@ -1,6 +1,7 @@
 name: Open Web Analytics
 website_url: http://www.openwebanalytics.com/
-description: Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications.
+description: Web analytics framework that lets you stay in control of how you instrument
+  and analyze the use of your websites and applications.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/padams/Open-Web-Analytics
+stargazers_count: 2042
+updated_at: '2023-01-02'
+archived: false

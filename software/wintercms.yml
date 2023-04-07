@@ -1,6 +1,7 @@
 name: WinterCMS
 website_url: https://wintercms.com/
-description: Speedy and secure content management system built on the Laravel PHP framework.
+description: Speedy and secure content management system built on the Laravel PHP
+  framework.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/wintercms/winter
+stargazers_count: 1125
+updated_at: '2023-04-06'
+archived: false

@@ -1,6 +1,8 @@
 name: Recepturer
 website_url: https://recepturer.com/
-description: Let Recepturer help you organize all your recipes in one place. You can add, edit and delete recipes, and create meal plans. Simply type your recipe and all ingredients will be listed as you go. Data is stored on Dropbox.
+description: Let Recepturer help you organize all your recipes in one place. You can
+  add, edit and delete recipes, and create meal plans. Simply type your recipe and
+  all ingredients will be listed as you go. Data is stored on Dropbox.
 licenses:
   - MIT
 platforms:
@@ -9,3 +11,6 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/sjoerdvanderhoorn/recepturer
 depends_3rdparty: true
+stargazers_count: 2
+updated_at: '2022-08-19'
+archived: false

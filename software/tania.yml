@@ -1,6 +1,8 @@
 name: Tania
 website_url: https://usetania.org/
-description: Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
+description: Tania is a free and open source farming management system for everyone.
+  You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing
+  progress.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Resource Planning
 source_code_url: https://github.com/usetania/tania-core
+stargazers_count: 629
+updated_at: '2023-01-10'
+archived: false

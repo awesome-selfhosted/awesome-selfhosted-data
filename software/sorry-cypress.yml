@@ -1,6 +1,7 @@
 name: Sorry Cypress
 website_url: https://sorry-cypress.dev
-description: Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests.
+description: Alternative open-source dashboard for the Cypress browser automation
+  framework, featuring unlimited parallelization, recording and debugging of tests.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/sorry-cypress/sorry-cypress
+stargazers_count: 2353
+updated_at: '2023-03-10'
+archived: false

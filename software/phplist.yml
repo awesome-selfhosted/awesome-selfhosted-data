@@ -1,6 +1,7 @@
 name: phpList
 website_url: https://phplist.org
-description: Newsletter and email marketing with advanced management of subscribers, bounces, and plugins.
+description: Newsletter and email marketing with advanced management of subscribers,
+  bounces, and plugins.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/phpList/phplist3
+stargazers_count: 608
+updated_at: '2023-01-31'
+archived: false

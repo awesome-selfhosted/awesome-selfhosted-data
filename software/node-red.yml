@@ -1,6 +1,7 @@
 name: Node RED
 website_url: https://nodered.org/
-description: Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions.
+description: Browser-based flow editor that helps you wiring hardware devices, APIs
+  and online services to create IoT solutions.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/node-red/node-red
+stargazers_count: 16434
+updated_at: '2023-04-01'
+archived: false

@@ -1,6 +1,7 @@
 name: Offen
 website_url: https://www.offen.dev/
-description: Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data.
+description: Fair, lightweight and open web analytics tool. Gain insights while your
+  users have full access to their data.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,3 +11,6 @@ tags:
   - Analytics
 source_code_url: https://github.com/offen/offen
 demo_url: https://www.offen.dev/try-demo/
+stargazers_count: 687
+updated_at: '2023-03-04'
+archived: false

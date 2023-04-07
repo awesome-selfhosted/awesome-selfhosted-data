@@ -1,6 +1,7 @@
 name: OTS
 website_url: https://ots.fyi/
-description: One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser.
+description: One-Time-Secret sharing platform with a symmetric 256bit AES encryption
+  in the browser.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/Luzifer/ots
+stargazers_count: 278
+updated_at: '2023-03-29'
+archived: false

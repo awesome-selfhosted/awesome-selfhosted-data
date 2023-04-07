@@ -1,6 +1,7 @@
 name: Dada Mail
 website_url: https://dadamailproject.com/
-description: Web-based list management system that can be used for announcement lists and/or discussion lists.
+description: Web-based list management system that can be used for announcement lists
+  and/or discussion lists.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/justingit/dada-mail
+stargazers_count: 154
+updated_at: '2023-02-16'
+archived: false

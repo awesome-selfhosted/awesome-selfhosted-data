@@ -1,6 +1,7 @@
 name: VideoLAN Client (VLC)
 website_url: https://www.videolan.org/
-description: Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+description: Cross-platform multimedia player client and server supporting most multimedia
+  files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/videolan/vlc
+stargazers_count: 10688
+updated_at: '2023-03-16'
+archived: false

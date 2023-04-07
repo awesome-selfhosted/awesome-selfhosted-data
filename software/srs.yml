@@ -1,6 +1,7 @@
 name: SRS
 website_url: https://ossrs.io/
-description: A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+description: A simple, high efficiency and real-time video server, supports RTMP,
+  WebRTC, HLS, HTTP-FLV and SRT.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/ossrs/srs
+stargazers_count: 21227
+updated_at: '2023-04-01'
+archived: false

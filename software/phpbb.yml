@@ -1,6 +1,7 @@
 name: phpBB
 website_url: https://www.phpbb.com/
-description: Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.
+description: Flat-forum bulletin board software solution that can be used to stay
+  in touch with a group of people or can power your entire website.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/phpbb/phpbb
+stargazers_count: 1649
+updated_at: '2023-04-07'
+archived: false

@@ -1,6 +1,7 @@
 name: Evergreen
 website_url: https://evergreen-ils.org
-description: Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials.
+description: Highly-scalable software for libraries that helps library patrons find
+  library materials, and helps libraries manage, catalog, and circulate those materials.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Document Management - Integrated Library Systems (ILS)
 source_code_url: https://github.com/evergreen-library-system/Evergreen
+stargazers_count: 104
+updated_at: '2022-12-09'
+archived: false

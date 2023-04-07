@@ -1,6 +1,7 @@
 name: Raneto
 website_url: https://raneto.com/
-description: Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase.
+description: Raneto is an open source Knowledgebase platform that uses static Markdown
+  files to power your Knowledgebase.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/ryanlelek/Raneto
+stargazers_count: 2579
+updated_at: '2022-08-28'
+archived: false

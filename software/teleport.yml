@@ -1,6 +1,7 @@
 name: Teleport
 website_url: https://goteleport.com/
-description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases.
+description: Certificate authority and access plane for SSH, Kubernetes, web applications,
+  and databases.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/gravitational/teleport
+stargazers_count: 14120
+updated_at: '2023-04-07'
+archived: false

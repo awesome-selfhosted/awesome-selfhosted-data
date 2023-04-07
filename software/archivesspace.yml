@@ -1,6 +1,7 @@
 name: ArchivesSpace
 website_url: https://archivesspace.org/
-description: Archives information management application for managing and providing Web access to archives, manuscripts and digital objects.
+description: Archives information management application for managing and providing
+  Web access to archives, manuscripts and digital objects.
 licenses:
   - ECL-2.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/archivesspace/archivesspace
 demo_url: https://archivesspace.org/application/demo
+stargazers_count: 285
+updated_at: '2023-03-28'
+archived: false

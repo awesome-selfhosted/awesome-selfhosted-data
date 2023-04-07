@@ -1,6 +1,9 @@
 name: DomainMOD
 website_url: https://domainmod.org
-description: Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data.
+description: Application to manage your domains and other internet assets in a central
+  location. DomainMOD includes a Data Warehouse framework that allows you to import
+  your WHM/cPanel web server data so that you can view, export, and report on your
+  data.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +12,6 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/domainmod/domainmod
 demo_url: https://demo.domainmod.org
+stargazers_count: 372
+updated_at: '2022-04-25'
+archived: false

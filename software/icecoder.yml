@@ -1,6 +1,7 @@
 name: ICEcoder
 website_url: https://icecoder.net/
-description: ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser.
+description: ICEcoder is a web IDE / browser based code editor, which allows you to
+  develop websites directly within the web browser.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/icecoder/ICEcoder
 demo_url: http://demo.icecoder.net/ICEcoder/
+stargazers_count: 1386
+updated_at: '2022-06-25'
+archived: false

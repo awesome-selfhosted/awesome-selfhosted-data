@@ -1,6 +1,7 @@
 name: Mailchimp Open Commerce
 website_url: https://mailchimp.com/developer/open-commerce/
-description: Customizable, real-time reactive, Javascript commerce platform (formerly Reaction Commerce).
+description: Customizable, real-time reactive, Javascript commerce platform (formerly
+  Reaction Commerce).
 licenses:
   - GPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/reactioncommerce/reaction
+stargazers_count: 11957
+updated_at: '2023-03-28'
+archived: false

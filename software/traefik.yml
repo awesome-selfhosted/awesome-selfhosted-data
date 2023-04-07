@@ -1,6 +1,8 @@
 name: Traefik
 website_url: https://traefik.io/
-description: Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically.
+description: Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy
+  microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon,
+  …) to manage its configuration automatically and dynamically.
 licenses:
   - MIT
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/traefik/traefik
+stargazers_count: 42454
+updated_at: '2023-03-22'
+archived: false

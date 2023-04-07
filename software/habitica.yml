@@ -1,6 +1,7 @@
 name: Habitica
 website_url: https://habitica.com/
-description: Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG.
+description: Habit tracker app which treats your goals like a Role Playing Game. Previously
+  called HabitRPG.
 licenses:
   - GPL-3.0
   - CC-BY-SA-3.0
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/HabitRPG/habitica
+stargazers_count: 9738
+updated_at: '2023-04-05'
+archived: false

@@ -1,6 +1,7 @@
 name: OpenSupports
 website_url: https://www.opensupports.com/
-description: Multi language ticket system with FAQ, role management, metrics and canned response features.
+description: Multi language ticket system with FAQ, role management, metrics and canned
+  response features.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Ticketing
 source_code_url: https://github.com/opensupports/opensupports
 demo_url: https://www.opensupports.com/demo/
+stargazers_count: 782
+updated_at: '2022-06-10'
+archived: false

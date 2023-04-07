@@ -1,6 +1,7 @@
 name: Pump.io
 website_url: http://pump.io/
-description: Stream server that does most of what people really want from a social network.
+description: Stream server that does most of what people really want from a social
+  network.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/pump-io/pump.io
+stargazers_count: 2165
+updated_at: '2018-04-16'
+archived: false

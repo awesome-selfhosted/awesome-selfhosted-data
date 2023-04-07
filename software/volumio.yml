@@ -1,6 +1,7 @@
 name: Volumio
 website_url: https://volumio.com/
-description: A free and open source linux distribution, designed and fine-tuned exclusively for music playback.
+description: A free and open source linux distribution, designed and fine-tuned exclusively
+  for music playback.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/volumio/Volumio2
+stargazers_count: 1346
+updated_at: '2022-04-04'
+archived: false

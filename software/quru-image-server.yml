@@ -1,6 +1,7 @@
 name: Quru Image Server
 website_url: https://quruimageserver.com/
-description: High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools.
+description: High performance dynamically resizing image server offering directory
+  based access control cropping, rotation, color management and other tools.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/quru/qis
 demo_url: https://quruimageserver.com
+stargazers_count: 88
+updated_at: '2022-06-28'
+archived: false

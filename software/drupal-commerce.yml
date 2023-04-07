@@ -1,6 +1,7 @@
 name: Drupal Commerce
 website_url: https://drupalcommerce.org
-description: Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules.
+description: Drupal Commerce is a popular e-commerce module for Drupal CMS, with support
+  for dozens of payment, shipping, and shopping related modules.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/drupalcommerce/commerce
+stargazers_count: 353
+updated_at: '2020-09-30'
+archived: false

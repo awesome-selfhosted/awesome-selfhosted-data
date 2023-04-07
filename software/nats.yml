@@ -1,6 +1,8 @@
 name: NATS
 website_url: https://nats.io/
-description: Publish/Subscribe event bus, durable queues, key-value store, object store, and more. Native multi-tenancy, multiple authentication and authorization mechanisms. Easy to self-host and federate.
+description: Publish/Subscribe event bus, durable queues, key-value store, object
+  store, and more. Native multi-tenancy, multiple authentication and authorization
+  mechanisms. Easy to self-host and federate.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,3 +11,6 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/nats-io/nats-server
 related_software_url: https://github.com/nats-io
+stargazers_count: 12574
+updated_at: '2023-04-06'
+archived: false

@@ -1,6 +1,7 @@
 name: Simple Machines Forum
 website_url: https://www.simplemachines.org/
-description: Free, professional grade software package that allows you to set up your own online community within minutes.
+description: Free, professional grade software package that allows you to set up your
+  own online community within minutes.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/SimpleMachines/SMF2.1
+stargazers_count: 500
+updated_at: '2023-03-30'
+archived: false

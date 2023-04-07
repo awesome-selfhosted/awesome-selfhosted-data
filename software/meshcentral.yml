@@ -1,6 +1,8 @@
 name: MeshCentral
 website_url: https://meshcentral.com/
-description: A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet.
+description: A full computer management website. With MeshCentral, you can run your
+  own web server to remotely manage and control computers on a local network or anywhere
+  on the internet.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/Ylianst/MeshCentral
+stargazers_count: 2229
+updated_at: '2023-03-09'
+archived: false

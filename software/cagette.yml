@@ -1,6 +1,8 @@
 name: Cagette
 website_url: https://cagette.net/
-description: Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers.
+description: Open source web app to help people build a better and sustainable food
+  system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace,
+  helping consumers to order food from local farmers and producers.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +10,6 @@ platforms:
 tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/CagetteNet/cagette
+stargazers_count: 125
+updated_at: '2023-04-06'
+archived: false

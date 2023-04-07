@@ -1,6 +1,7 @@
 name: Jitsi Video Bridge
 website_url: https://jitsi.org/Projects/JitsiVideobridge
-description: WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication.
+description: WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser
+  video communication.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/jitsi/jitsi-videobridge
+stargazers_count: 2700
+updated_at: '2023-04-03'
+archived: false

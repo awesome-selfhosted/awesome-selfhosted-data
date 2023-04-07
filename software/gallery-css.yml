@@ -1,6 +1,7 @@
 name: Gallery CSS
 website_url: https://benschwarz.github.io/gallery-css/
-description: 'Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript.'
+description: 'Gallery.css is all CSS. Think: Simple, maintainable and understandable
+  galleries without the use of Javascript.'
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/benschwarz/gallery-css
+stargazers_count: 1135
+updated_at: '2016-01-21'
+archived: false

@@ -1,6 +1,7 @@
 name: RELATE
 website_url: https://documen.tician.de/relate/
-description: 'RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar.'
+description: 'RELATE is a web-based courseware package, includes features such as:
+  flexible rules, statistics, multi-course support, class calendar.'
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Learning and Courses
 source_code_url: https://github.com/inducer/relate
+stargazers_count: 324
+updated_at: '2023-04-04'
+archived: false

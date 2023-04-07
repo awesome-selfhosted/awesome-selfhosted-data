@@ -1,6 +1,7 @@
 name: DocPHT
 website_url: https://docpht.org/
-description: With DocPHT you can take notes and quickly document anything and without the use of any database.
+description: With DocPHT you can take notes and quickly document anything and without
+  the use of any database.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/docpht/docpht
 demo_url: https://demo.docpht.org/
+stargazers_count: 142
+updated_at: '2023-01-27'
+archived: false

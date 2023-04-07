@@ -1,6 +1,7 @@
 name: indico
 website_url: https://getindico.io/
-description: A feature-rich event management system, made @ CERN, the place where the Web was born.
+description: A feature-rich event management system, made @ CERN, the place where
+  the Web was born.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Conference Management
 source_code_url: https://github.com/indico/indico
 demo_url: https://sandbox.getindico.io/
+stargazers_count: 1461
+updated_at: '2023-04-06'
+archived: false

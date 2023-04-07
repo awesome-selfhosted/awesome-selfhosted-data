@@ -1,6 +1,7 @@
 name: Tolgee
 website_url: https://tolgee.io
-description: Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop.
+description: Developer & translator friendly web-based localization platform enabling
+  users to translate directly in the app they develop.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/tolgee/server
+stargazers_count: 672
+updated_at: '2023-04-04'
+archived: false

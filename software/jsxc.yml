@@ -1,6 +1,7 @@
 name: JSXC
 website_url: https://jsxc.org
-description: Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo.
+description: Real-time XMPP web chat application with video calls, file transfer and
+  encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - XMPP - Web Clients
 source_code_url: https://github.com/jsxc/jsxc
+stargazers_count: 686
+updated_at: '2022-12-12'
+archived: false

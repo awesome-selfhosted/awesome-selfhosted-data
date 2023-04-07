@@ -1,6 +1,7 @@
 name: Typemill
 website_url: https://typemill.net/
-description: Author-friendly flat-file-cms with a visual markdown editor based on vue.js.
+description: Author-friendly flat-file-cms with a visual markdown editor based on
+  vue.js.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/typemill/typemill
+stargazers_count: 372
+updated_at: '2023-03-26'
+archived: false

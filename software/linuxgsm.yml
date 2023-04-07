@@ -1,6 +1,7 @@
 name: LinuxGSM
 website_url: https://linuxgsm.com/
-description: 'CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported.'
+description: 'CLI tool for deployment and management of dedicated game servers on
+  Linux: more than 120 games are supported.'
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/GameServerManagers/LinuxGSM
+stargazers_count: 3637
+updated_at: '2023-04-02'
+archived: false

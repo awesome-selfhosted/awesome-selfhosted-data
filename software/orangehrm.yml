@@ -1,6 +1,7 @@
 name: OrangeHRM
 website_url: https://www.orangehrm.com/
-description: OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise.
+description: OrangeHRM is a comprehensive HRM system that captures all the essential
+  functionalities required for any enterprise.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Human Resources Management (HRM)
 source_code_url: https://github.com/orangehrm/orangehrm
 demo_url: https://opensource-demo.orangehrmlive.com/
+stargazers_count: 508
+updated_at: '2022-12-28'
+archived: false

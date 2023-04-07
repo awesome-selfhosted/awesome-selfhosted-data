@@ -1,6 +1,7 @@
 name: ProjectSend
 website_url: https://www.projectsend.org/
-description: Upload files and assign them to specific clients you create. Give access to those files to your clients.
+description: Upload files and assign them to specific clients you create. Give access
+  to those files to your clients.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/projectsend/projectsend
+stargazers_count: 1065
+updated_at: '2023-04-07'
+archived: false

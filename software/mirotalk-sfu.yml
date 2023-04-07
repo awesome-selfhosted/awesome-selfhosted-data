@@ -1,6 +1,7 @@
 name: MiroTalk SFU
 website_url: https://sfu.mirotalk.com
-description: Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms.
+description: Simple, secure, scalable real-time video conferences up to 4k, compatible
+  with all browsers and platforms.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +11,6 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/miroslavpejic85/mirotalksfu
 demo_url: https://sfu.mirotalk.com/newroom
+stargazers_count: 1252
+updated_at: '2023-04-07'
+archived: false

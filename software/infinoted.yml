@@ -1,6 +1,7 @@
 name: Infinoted
 website_url: https://github.com/gobby/gobby/wiki/Dedicated%20Server
-description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor.
+description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform
+  collaborative text editor.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Office Suites
 source_code_url: https://github.com/gobby/gobby
+stargazers_count: 546
+updated_at: '2023-02-13'
+archived: false

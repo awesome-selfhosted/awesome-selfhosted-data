@@ -1,6 +1,7 @@
 name: Erxes
 website_url: https://erxes.io/install/
-description: Marketing, sales, and customer service platform designed to help businesses attract more engaged customers.
+description: Marketing, sales, and customer service platform designed to help businesses
+  attract more engaged customers.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Ticketing
 source_code_url: https://github.com/erxes/erxes
 demo_url: https://demo.erxes.io/
+stargazers_count: 2769
+updated_at: '2023-01-09'
+archived: false

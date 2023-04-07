@@ -1,6 +1,7 @@
 name: Weaviate
 website_url: https://weaviate.io/
-description: A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs).
+description: A cloud-native, realtime vector search engine integrating scalable machine
+  learning models (GraphQL and RESTful APIs).
 licenses:
   - BSD-3-Clause
 platforms:
@@ -10,3 +11,6 @@ tags:
 source_code_url: https://github.com/semi-technologies/weaviate
 demo_url: https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate/
 related_software_url: https://weaviate.io/developers/weaviate/current/client-libraries/index.html
+stargazers_count: 4242
+updated_at: '2023-04-04'
+archived: false

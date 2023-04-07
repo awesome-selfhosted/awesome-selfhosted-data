@@ -1,6 +1,7 @@
 name: Piwigo
 website_url: https://piwigo.org/
-description: Photo gallery software for the web, built by an active community of users and developers.
+description: Photo gallery software for the web, built by an active community of users
+  and developers.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/Piwigo/Piwigo
+stargazers_count: 2471
+updated_at: '2023-03-27'
+archived: false

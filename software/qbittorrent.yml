@@ -1,6 +1,7 @@
 name: qBittorrent
 website_url: https://www.qbittorrent.org/
-description: Free cross-platform bittorrent client with a feature rich Web UI for remote access.
+description: Free cross-platform bittorrent client with a feature rich Web UI for
+  remote access.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/qbittorrent/qBittorrent
+stargazers_count: 19766
+updated_at: '2023-04-07'
+archived: false

@@ -1,6 +1,7 @@
 name: Loomio
 website_url: https://www.loomio.org/
-description: Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.
+description: Loomio is a collaborative decision-making tool that makes it easy for
+  anyone to participate in decisions which affect them.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/loomio/loomio
+stargazers_count: 2190
+updated_at: '2023-04-04'
+archived: false

@@ -1,6 +1,7 @@
 name: Komga
 website_url: https://komga.org
-description: Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader.
+description: Media server for comics/mangas/BDs with API and OPDS support, a modern
+  web interface for exploring your libraries, as well as a web reader.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/gotson/komga
+stargazers_count: 2250
+updated_at: '2023-03-17'
+archived: false

@@ -1,6 +1,7 @@
 name: Musical Artifacts
 website_url: https://musical-artifacts.com/
-description: Helping to catalog, preserve and free the artifacts you need to produce music.
+description: Helping to catalog, preserve and free the artifacts you need to produce
+  music.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/lfzawacki/musical-artifacts
+stargazers_count: 93
+updated_at: '2022-06-08'
+archived: false

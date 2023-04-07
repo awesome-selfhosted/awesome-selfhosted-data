@@ -1,6 +1,7 @@
 name: Pachno
 website_url: https://pach.no/
-description: Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to.
+description: Bring your team together to design, build and deliver your project with
+  a tool that works with you and your team, and adapts when you need to.
 licenses:
   - MPL-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/pachno/pachno
+stargazers_count: 110
+updated_at: '2022-09-08'
+archived: false

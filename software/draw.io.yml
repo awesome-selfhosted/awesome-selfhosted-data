@@ -1,6 +1,7 @@
 name: draw.io
 website_url: https://draw.io
-description: Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+description: Diagram software for making flowcharts, process diagrams, org charts,
+  UML, ER and network diagrams.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/jgraph/drawio
+stargazers_count: 33810
+updated_at: '2023-04-03'
+archived: false

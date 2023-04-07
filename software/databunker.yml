@@ -1,6 +1,7 @@
 name: Databunker
 website_url: https://databunker.org/
-description: Network-based, self-hosted, GDPR compliant, secure database for personal data or PII.
+description: Network-based, self-hosted, GDPR compliant, secure database for personal
+  data or PII.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/securitybunker/databunker
+stargazers_count: 1064
+updated_at: '2023-01-02'
+archived: false

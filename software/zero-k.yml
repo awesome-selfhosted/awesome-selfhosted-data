@@ -1,6 +1,9 @@
 name: Zero-K
 website_url: https://zero-k.info/
-description: Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play.
+description: Open Source on Springrts engine. Zero-K is a traditional real time strategy
+  game with a focus on player creativity through terrain manipulation, physics, and
+  a large roster of unique units - all while being balanced to support competitive
+  play.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +11,6 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/ZeroK-RTS/Zero-K
+stargazers_count: 564
+updated_at: '2023-04-04'
+archived: false

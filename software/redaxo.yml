@@ -1,6 +1,7 @@
 name: REDAXO
 website_url: https://www.redaxo.org
-description: Simple, flexible and useful content management system (documentation only available in German).
+description: Simple, flexible and useful content management system (documentation
+  only available in German).
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/redaxo/redaxo
+stargazers_count: 302
+updated_at: '2023-04-01'
+archived: false

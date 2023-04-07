@@ -1,6 +1,7 @@
 name: Access to Memory (AtoM)
 website_url: https://www.accesstomemory.org/
-description: Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment.
+description: Web-based, open source application for standards-based archival description
+  and access in a multilingual, multi-repository environment.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/artefactual/atom
 demo_url: https://demo.accesstomemory.org/
+stargazers_count: 203
+updated_at: '2023-04-05'
+archived: false

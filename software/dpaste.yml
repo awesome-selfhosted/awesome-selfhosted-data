@@ -1,6 +1,7 @@
 name: dpaste
 website_url: https://dpaste.org/
-description: Simple pastebin with multiple text and code option, with short url result easy to remember.
+description: Simple pastebin with multiple text and code option, with short url result
+  easy to remember.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Pastebins
 source_code_url: https://github.com/bartTC/dpaste
+stargazers_count: 438
+updated_at: '2023-02-17'
+archived: false

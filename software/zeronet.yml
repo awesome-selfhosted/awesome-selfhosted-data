@@ -1,6 +1,7 @@
 name: ZeroNet
 website_url: https://zeronet.io/
-description: Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
+description: Open, free, and uncensorable websites, using Bitcoin cryptography and
+  BitTorrent network.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/HelloZeroNet/ZeroNet
 depends_3rdparty: true
+stargazers_count: 17837
+updated_at: '2021-01-25'
+archived: false

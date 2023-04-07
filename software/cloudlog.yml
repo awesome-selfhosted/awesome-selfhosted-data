@@ -1,6 +1,7 @@
 name: Cloudlog
 website_url: https://magicbug.co.uk/cloudlog/
-description: Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere.
+description: Cloudlog is a self-hosted PHP application that allows you to log your
+  amateur radio contacts anywhere.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/magicbug/cloudlog
+stargazers_count: 301
+updated_at: '2023-04-06'
+archived: false

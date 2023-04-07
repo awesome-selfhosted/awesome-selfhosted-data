@@ -1,6 +1,7 @@
 name: SCM Manager
 website_url: https://www.scm-manager.org/
-description: The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
+description: The easiest way to share and manage your Git, Mercurial and Subversion
+  repositories over http.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/scm-manager/scm-manager
+stargazers_count: 111
+updated_at: '2023-04-06'
+archived: false

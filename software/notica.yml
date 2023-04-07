@@ -1,6 +1,7 @@
 name: Notica
 website_url: https://notica.us
-description: Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required.
+description: Lets you send browser notifications from your terminal to your desktop
+  or phone. No installation or registration is required.
 licenses:
   - MIT
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/tannercollin/Notica
+stargazers_count: 326
+updated_at: '2022-06-13'
+archived: false

@@ -1,6 +1,7 @@
 name: OS.js
 website_url: https://www.os-js.org/
-description: Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction.
+description: Desktop implementation for your browser with a fully-fledged window manager,
+  Application APIs, GUI toolkits and filesystem abstraction.
 licenses:
   - BSD-2-Clause
 platforms:
@@ -9,3 +10,6 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/os-js/OS.js
 demo_url: https://demo.os-js.org/
+stargazers_count: 6262
+updated_at: '2022-09-16'
+archived: false

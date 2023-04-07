@@ -1,6 +1,7 @@
 name: Thumbor
 website_url: http://thumbor.org/
-description: A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images.
+description: A smart imaging service and enables on-demand cropping, resizing, applying
+  filters and optimizing images.
 licenses:
   - MIT
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/thumbor/thumbor
+stargazers_count: 9437
+updated_at: '2023-01-27'
+archived: false

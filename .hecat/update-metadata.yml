@@ -4,3 +4,4 @@ steps:
     module_options:
       source_directory: ./
       gh_metadata_only_missing: False
+      sleep_time: 7.3

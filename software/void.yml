@@ -1,7 +1,6 @@
 name: Void
 website_url: https://github.com/AlphaNecron/Void
-description: Lightweight, fast and elegant file hosting service for ShareX with Web
-  UI and REST API.
+description: Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API.
 licenses:
   - MIT
 platforms:
@@ -9,6 +8,3 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/AlphaNecron/Void/
-stargazers_count: 180
-updated_at: '2023-03-27'
-archived: false

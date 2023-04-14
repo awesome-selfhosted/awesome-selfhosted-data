@@ -1,5 +1,6 @@
 name: Proxy
 description: A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource.
-related_tags: []
+related_tags:
+  - Web Servers
 redirect: []
 external_links: []

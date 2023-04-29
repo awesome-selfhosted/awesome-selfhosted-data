@@ -1,6 +1,6 @@
 name: LibreX
 website_url: https://github.com/hnhx/librex
-description: ' Framework and javascript free privacy respecting meta search engine.'
+description: Framework and javascript free privacy respecting meta search engine.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
   - Search Engines
 source_code_url: https://github.com/hnhx/librex
 depends_3rdparty: true
-stargazers_count: 518
+stargazers_count: 528
 updated_at: '2023-04-17'
 archived: false

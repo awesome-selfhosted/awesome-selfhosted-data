@@ -1,0 +1,16 @@
+name: LinkStack
+website_url: https://linkstack.org/
+description: Open-source, customizable, self-hosted alternative to services like Linktree
+  and Manylink with an intuitive, easy to use user/admin interface. LinkStack allows
+  you to link all your social media platforms easily accessible on one page.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/LinkStackOrg/LinkStack
+demo_url: https://linksta.cc/
+stargazers_count: 755
+updated_at: '2023-04-28'
+archived: false

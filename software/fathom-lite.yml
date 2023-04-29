@@ -1,0 +1,13 @@
+name: Fathom Lite
+website_url: https://github.com/usefathom/fathom
+description: A simple and privacy-focused web analytics alternative to Google Analytics.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Analytics
+source_code_url: https://github.com/usefathom/fathom
+stargazers_count: 7268
+updated_at: '2023-01-31'
+archived: false

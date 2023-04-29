@@ -1,0 +1,14 @@
+name: Webarchive
+website_url: https://github.com/derfenix/webarchive
+description: Lightweight self-hosted _wayback machine_ that creates HTML and PDF files
+  from your bookmarks.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/derfenix/webarchive
+stargazers_count: 1
+updated_at: '2023-04-16'
+archived: false

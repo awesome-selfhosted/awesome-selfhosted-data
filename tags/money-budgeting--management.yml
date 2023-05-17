@@ -1,7 +1,7 @@
 name: Money, Budgeting & Management
-description: '[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting sofware and tools.'
-related_tags: []
+description: '[Money management](https://en.wikipedia.org/wiki/Money_management) and budgeting sofware.'
+related_tags:
+  - Inventory Management
+  - Resource Planning - Enterprise Resource Planning
 redirect: []
-external_links:
-  - title: awesome-sysadmin/IT Asset Management
-    url: https://github.com/awesome-foss/awesome-sysadmin#it-asset-management
+external_links: []

@@ -1,0 +1,14 @@
+name: RPort
+website_url: https://rport.io
+description: Self-hosted open source remote management solution for Windows, macOS
+  & Linux.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Remote Access
+source_code_url: https://github.com/realvnc-labs/rport
+stargazers_count: 616
+updated_at: '2023-05-12'
+archived: false

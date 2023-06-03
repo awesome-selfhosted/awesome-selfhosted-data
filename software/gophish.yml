@@ -1,0 +1,15 @@
+name: Gophish
+website_url: https://getgophish.com/
+description: Gophish is a powerful, open-source phishing framework that makes it easy
+  to test your organization's exposure to phishing.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/gophish/gophish
+stargazers_count: 9121
+updated_at: '2022-12-16'
+archived: false

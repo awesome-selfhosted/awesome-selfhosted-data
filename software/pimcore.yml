@@ -2,7 +2,7 @@ name: Pimcore
 website_url: https://www.pimcore.org/
 description: Multi-Channel Experience and Engagement Management Platform.
 licenses:
-  - GPL-3.0-or-later
+  - GPL-3.0
 platforms:
   - PHP
 tags:

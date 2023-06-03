@@ -1,5 +1,5 @@
 name: CryptPad
-website_url: https://cryptpad.fr/
+website_url: https://cryptpad.org
 description: CryptPad is a collaboration suite that is end-to-end-encrypted and open-source.
   It is built to enable collaboration, synchronizing changes to documents in real
   time.
@@ -9,7 +9,7 @@ platforms:
   - Nodejs
 tags:
   - Office Suites
-source_code_url: https://github.com/xwiki-labs/cryptpad
-stargazers_count: 4433
+source_code_url: https://github.com/cryptpad/cryptpad
+stargazers_count: 4434
 updated_at: '2023-05-17'
 archived: false

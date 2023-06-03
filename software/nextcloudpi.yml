@@ -4,7 +4,7 @@ description: Nextcloud preinstalled and preconfigured, with a text and web manag
   interface and all the tools needed to self host private data. With installation
   images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian.
 licenses:
-  - GPL-2.0-or-later
+  - GPL-2.0
 platforms:
   - Bash
   - PHP

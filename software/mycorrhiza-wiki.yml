@@ -1,0 +1,10 @@
+name: Mycorrhiza Wiki
+website_url: https://mycorrhiza.wiki/
+description: Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Wikis
+source_code_url: https://github.com/bouncepaw/mycorrhiza/

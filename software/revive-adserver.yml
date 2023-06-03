@@ -3,7 +3,7 @@ website_url: https://www.revive-adserver.com/
 description: World's most popular free, open source ad serving system. Formerly known
   as OpenX Adserver and phpAdsNew.
 licenses:
-  - GPL-2.0-or-later
+  - GPL-2.0
 platforms:
   - PHP
 tags:

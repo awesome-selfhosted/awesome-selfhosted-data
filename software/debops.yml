@@ -3,7 +3,7 @@ website_url: https://docs.debops.org/
 description: Your Debian-based data center in a box. A set of general-purpose Ansible
   roles that can be used to manage Debian or Ubuntu hosts.
 licenses:
-  - GPL-3.0-only
+  - GPL-3.0
 platforms:
   - YAML
   - Ansible

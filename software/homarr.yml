@@ -1,0 +1,15 @@
+name: Homarr
+website_url: https://homarr.dev
+description: Sleek, modern dashboard with many integrations and web-based config.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/ajnart/homarr
+demo_url: https://demo.homarr.dev
+stargazers_count: 2272
+updated_at: '2023-06-03'
+archived: false

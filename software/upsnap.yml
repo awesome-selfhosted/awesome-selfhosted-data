@@ -1,0 +1,16 @@
+name: Upsnap
+website_url: https://github.com/seriousm4x/UpSnap
+description: A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network
+  and see current status.
+licenses:
+  - MIT
+platforms:
+  - Svelte
+  - Go
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/seriousm4x/UpSnap
+stargazers_count: 581
+updated_at: '2023-06-01'
+archived: false

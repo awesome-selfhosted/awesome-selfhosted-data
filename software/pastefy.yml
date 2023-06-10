@@ -1,5 +1,5 @@
 name: Pastefy
-website_url: https://pastefy.ga
+website_url: https://pastefy.app/
 description: Beautiful, simple and easy to deploy Pastebin with optional Client-Encryption,
   Multitab-Pastes, an API, a highlighted Editor and more.
 licenses:
@@ -10,6 +10,6 @@ tags:
   - Pastebins
 source_code_url: https://github.com/interaapps/pastefy
 related_software_url: https://github.com/topics/pastefy-addon
-stargazers_count: 171
+stargazers_count: 172
 updated_at: '2023-06-04'
 archived: false

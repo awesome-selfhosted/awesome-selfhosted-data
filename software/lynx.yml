@@ -1,0 +1,16 @@
+name: Lynx
+website_url: https://getlynx.dev
+description: URL shortener with many functions such as multiple accounts, ShareX support
+  and an attractive but simple interface.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/Lynx-Shortener/Lynx
+demo_url: https://demo.jck.cx
+stargazers_count: 50
+updated_at: '2023-06-07'
+archived: false

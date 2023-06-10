@@ -1,5 +1,5 @@
-name: BitcartCC
-website_url: https://bitcartcc.com
+name: Bitcart
+website_url: https://bitcart.ai
 description: A self-hosted cryptocurrencies payment processor and development platform.
 licenses:
   - MIT
@@ -9,5 +9,5 @@ platforms:
   - Nodejs
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/bitcartcc
-demo_url: https://admin.bitcartcc.com
+source_code_url: https://github.com/bitcart
+demo_url: https://admin.bitcart.ai

@@ -1,0 +1,13 @@
+name: penpot
+website_url: https://penpot.app/
+description: A web based design and prototyping platform meant for cross-domain teams.
+licenses:
+  - MPL-2.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/penpot/penpot
+stargazers_count: 21979
+updated_at: '2023-06-09'
+archived: false

@@ -1,5 +1,5 @@
 name: Nextcloud Memories
-website_url: https://github.com/pulsejet/memories
+website_url: https://memories.gallery/
 description: Fast, modern and advanced photo management suite. Runs as a Nextcloud
   app.
 licenses:
@@ -9,7 +9,7 @@ platforms:
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/pulsejet/memories
-demo_url: https://memories-demo.radialapps.com/
-stargazers_count: 1381
-updated_at: '2023-06-04'
+demo_url: https://demo.memories.gallery/apps/memories/
+stargazers_count: 1384
+updated_at: '2023-06-10'
 archived: false

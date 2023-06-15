@@ -10,7 +10,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  test_schedule:
+  update-metadata:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,4 +24,8 @@ jobs:
           git add software/ tags/ platforms/ licenses*.yml
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
+
+  url-check:
+    runs-on: ubuntu-latest
+    steps:
       - run: make url_check

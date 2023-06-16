@@ -1,6 +1,7 @@
 on:
   schedule:
     - cron: '22 22 * * *'
+  workflow_dispatch:
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

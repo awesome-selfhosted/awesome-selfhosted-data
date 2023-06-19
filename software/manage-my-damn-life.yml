@@ -1,0 +1,15 @@
+name: Manage My Damn Life
+website_url: https://intri.in/manage-my-damn-life/
+description: Manage my Damn Life (MMDL) is a self-hosted front end for managing your
+  CalDAV tasks and calendars.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Calendar & Contacts - CalDAV or CardDAV Web-based Clients
+source_code_url: https://github.com/intri-in/manage-my-damn-life-nextjs
+stargazers_count: 41
+updated_at: '2023-06-18'
+archived: false

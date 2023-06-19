@@ -1,0 +1,14 @@
+name: envlinks
+website_url: https://github.com/maxhollmann/envlinks
+description: A minimalist link dashboard showing links from environment variables.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/maxhollmann/envlinks
+demo_url: https://envlinks-demo.vercel.app/
+stargazers_count: 6
+updated_at: '2023-04-26'
+archived: false

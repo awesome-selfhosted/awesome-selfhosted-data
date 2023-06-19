@@ -1,0 +1,11 @@
+name: SyncMarks
+website_url: https://codeberg.org/Offerel/SyncMarks-Webapp
+description: Sync and manage your browser bookmarks from Edge, Firefox and Chromium.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Bookmarks and Link Sharing
+source_code_url: https://codeberg.org/Offerel/SyncMarks-Webapp
+related_software_url: https://codeberg.org/Offerel/SyncMarks-Extension

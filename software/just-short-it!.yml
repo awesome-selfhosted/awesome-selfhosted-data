@@ -1,0 +1,13 @@
+name: Just Short It!
+website_url: https://github.com/miawinter98/just-short-it
+description: A KISS, single-user URL shortener that runs in just one container.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/miawinter98/just-short-it
+stargazers_count: 4
+updated_at: '2023-04-19'
+archived: false

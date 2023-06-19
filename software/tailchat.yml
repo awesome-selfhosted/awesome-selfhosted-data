@@ -1,0 +1,15 @@
+name: Tailchat
+website_url: https://tailchat.msgbyte.com/
+description: Next generation noIM application in your own workspace, not only another
+  Slack/Discord/rocket.chat.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/msgbyte/tailchat
+demo_url: https://nightly.paw.msgbyte.com/
+stargazers_count: 955
+updated_at: '2023-06-19'
+archived: false

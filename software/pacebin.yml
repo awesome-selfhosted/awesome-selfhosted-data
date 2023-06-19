@@ -1,0 +1,10 @@
+name: pacebin
+website_url: https://paste.swurl.xyz/
+description: A dead-simple, self-hostable, filesystem-backed pastebin, written in C using Mongoose.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - Pastebins
+source_code_url: https://git.swurl.xyz/swirl/pacebin

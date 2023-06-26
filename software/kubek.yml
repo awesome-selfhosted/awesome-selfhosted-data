@@ -1,0 +1,13 @@
+name: Kubek
+website_url: https://kubek.seeroycloud.tk
+description: Web management panel for Minecraft servers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Games - Administrative Utilities & Control Panels
+source_code_url: https://github.com/seeroy/kubek-minecraft-dashboard
+stargazers_count: 26
+updated_at: '2023-06-22'
+archived: false

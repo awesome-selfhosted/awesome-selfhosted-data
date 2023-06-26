@@ -1,5 +1,5 @@
 name: Dendrite
-website_url: https://matrix.org/docs/projects/server/dendrite
+website_url: https://matrix-org.github.io/dendrite/
 description: Second-generation Matrix homeserver written in Go. It intends to provide
   an efficient, reliable and scalable alternative to Synapse.
 licenses:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/matrix-org/dendrite
-stargazers_count: 4654
+stargazers_count: 4658
 updated_at: '2023-06-22'
 archived: false

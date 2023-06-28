@@ -1,7 +1,6 @@
 name: Technitium DNS Server
 website_url: https://technitium.com/dns/
-description: An open source authoritative as well as recursive DNS server that can
-  be used for self hosting a DNS server for privacy & security.
+description: Authoritative/recursive DNS server with ad blocking functionality.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/TechnitiumSoftware/DnsServer
-stargazers_count: 2237
+stargazers_count: 2245
 updated_at: '2023-06-01'
 archived: false

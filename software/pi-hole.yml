@@ -1,0 +1,15 @@
+name: Pi-hole
+website_url: https://pi-hole.net/
+description: A blackhole for Internet qdvertisements with a GUI for management and
+  monitoring.
+licenses:
+  - EUPL-1.2
+platforms:
+  - Shell
+  - PHP
+tags:
+  - DNS
+source_code_url: https://github.com/pi-hole/pi-hole
+stargazers_count: 42717
+updated_at: '2023-05-30'
+archived: false

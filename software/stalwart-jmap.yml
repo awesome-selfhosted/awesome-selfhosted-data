@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Rust
+  - Docker
 tags:
   - Communication - Email - Mail Delivery Agents
 source_code_url: https://github.com/stalwartlabs/jmap-server
-stargazers_count: 504
+stargazers_count: 505
 updated_at: '2023-02-23'
 archived: false

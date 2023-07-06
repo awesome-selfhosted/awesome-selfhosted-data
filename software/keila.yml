@@ -5,11 +5,11 @@ description: Self-hosted reliable and easy-to-use newsletter tool. Alternative t
 licenses:
   - AGPL-3.0
 platforms:
-  - Elixir
+  - Docker
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
-stargazers_count: 904
+stargazers_count: 905
 updated_at: '2023-06-08'
 archived: false

@@ -1,0 +1,13 @@
+name: httprd
+website_url: https://github.com/bitrate16/httprd
+description: Single-script remote desktop via web browser.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Remote Access
+source_code_url: https://github.com/bitrate16/httprd
+stargazers_count: 2
+updated_at: '2023-06-08'
+archived: false

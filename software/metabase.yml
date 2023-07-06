@@ -6,9 +6,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Java
+  - Docker
 tags:
   - Analytics
 source_code_url: https://github.com/metabase/metabase
-stargazers_count: 32968
-updated_at: '2023-07-05'
+stargazers_count: 32978
+updated_at: '2023-07-06'
 archived: false

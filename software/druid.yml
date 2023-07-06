@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
 tags:
   - Analytics
 source_code_url: https://github.com/druid-io/druid
-stargazers_count: 12699
-updated_at: '2023-07-05'
+stargazers_count: 12706
+updated_at: '2023-07-06'
 archived: false

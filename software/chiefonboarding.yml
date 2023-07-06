@@ -6,7 +6,7 @@ description: Employee onboarding platform that allows you to provision user acco
 licenses:
   - AGPL-3.0
 platforms:
-  - Python
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/chiefonboarding/ChiefOnboarding

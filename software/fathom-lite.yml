@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Analytics
 source_code_url: https://github.com/usefathom/fathom
-stargazers_count: 7293
+stargazers_count: 7294
 updated_at: '2023-01-31'
 archived: false

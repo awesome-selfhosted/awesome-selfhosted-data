@@ -6,10 +6,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/screensy/screensy
 demo_url: https://screensy.marijn.it/
-stargazers_count: 358
+stargazers_count: 359
 updated_at: '2023-02-20'
 archived: false

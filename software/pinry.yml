@@ -5,11 +5,12 @@ description: The tiling image board system for people who want to save, tag, and
 licenses:
   - BSD-2-Clause
 platforms:
+  - Docker
   - Python
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/pinry/pinry
 demo_url: https://pin.37soloist.com/
-stargazers_count: 2859
+stargazers_count: 2860
 updated_at: '2022-12-02'
 archived: false

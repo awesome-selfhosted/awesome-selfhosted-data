@@ -5,10 +5,10 @@ description: Web-based tool for catching spelling errors, grammatical errors, br
 licenses:
   - AGPL-3.0
 platforms:
-  - Ruby
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/siteinspector/siteinspector
-stargazers_count: 290
+stargazers_count: 292
 updated_at: '2023-03-29'
 archived: false

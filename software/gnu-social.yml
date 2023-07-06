@@ -1,5 +1,5 @@
 name: GNU social
-website_url: https://gnu.io/social/
+website_url: https://www.gnusocial.rocks/
 description: Social communication software for both public and private communications.
 licenses:
   - AGPL-3.0
@@ -7,4 +7,4 @@ platforms:
   - PHP
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://notabug.org/diogo/gnu-social
+source_code_url: https://codeberg.org/GNUsocial/gnu-social

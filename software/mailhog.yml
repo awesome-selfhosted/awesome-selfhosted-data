@@ -6,9 +6,10 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://github.com/mailhog/MailHog
-stargazers_count: 12201
+stargazers_count: 12206
 updated_at: '2022-08-02'
 archived: false

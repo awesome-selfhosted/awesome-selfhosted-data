@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - IRC
 source_code_url: https://github.com/thelounge/thelounge

@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Analytics
 source_code_url: https://github.com/electerious/Ackee

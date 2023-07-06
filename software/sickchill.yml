@@ -6,6 +6,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/SickChill/SickChill

@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Blogging Platforms
 source_code_url: https://code.castopod.org/adaures/castopod

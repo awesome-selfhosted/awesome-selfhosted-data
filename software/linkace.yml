@@ -4,6 +4,7 @@ description: A bookmark archive with automatic backups to the Internet Archive, 
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - PHP
 tags:
   - Bookmarks and Link Sharing

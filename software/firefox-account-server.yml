@@ -4,7 +4,8 @@ description: This allows you to host your own Firefox accounts server.
 licenses:
   - MPL-2.0
 platforms:
-  - Nodejs, Java
+  - Nodejs
+  - Java
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/mozilla/fxa

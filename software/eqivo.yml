@@ -6,6 +6,7 @@ description: Eqivo implements an API layer on top of FreeSWITCH facilitating int
 licenses:
   - MIT
 platforms:
+  - Docker
   - PHP
 tags:
   - Communication - SIP

@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C++
+  - Docker
 tags:
   - Communication - IRC
 source_code_url: https://github.com/inspircd/inspircd
 stargazers_count: 1056
-updated_at: '2023-07-05'
+updated_at: '2023-07-06'
 archived: false

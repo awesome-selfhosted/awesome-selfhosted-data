@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://git.mills.io/prologic/golinks

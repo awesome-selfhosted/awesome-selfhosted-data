@@ -1,5 +1,5 @@
 name: Sympa
-website_url: https://www.sympa.org/
+website_url: https://www.sympa.community/
 description: Mailing list manager.
 licenses:
   - GPL-2.0
@@ -7,4 +7,4 @@ platforms:
   - Perl
 tags:
   - Communication - Email - Mailing Lists and Newsletters
-source_code_url: https://www.sympa.org/
+source_code_url: https://www.sympa.community/

@@ -6,9 +6,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C#
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/Radarr/Radarr
-stargazers_count: 7746
+stargazers_count: 7754
 updated_at: '2023-07-05'
 archived: false

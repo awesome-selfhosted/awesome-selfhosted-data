@@ -1,0 +1,16 @@
+name: YABin
+website_url: https://github.com/Yureien/YABin
+description: A pastebin that contains plentiful features while remaining simple. Supports
+  optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic
+  UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Pastebins
+source_code_url: https://github.com/Yureien/YABin
+demo_url: https://bin.sohamsen.me/
+stargazers_count: 54
+updated_at: '2023-06-17'
+archived: false

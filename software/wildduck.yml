@@ -5,6 +5,7 @@ licenses:
   - EUPL-1.2
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/nodemailer/wildduck

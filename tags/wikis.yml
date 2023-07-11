@@ -1,8 +1,5 @@
 name: Wikis
 description: A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.
-related_tags:
-  - Static Site Generators
-redirect: []
 external_links:
   - title: Wikimatrix
     url: https://www.wikimatrix.org/
@@ -12,3 +9,5 @@ external_links:
     url: https://en.wikipedia.org/wiki/List_of_wiki_software
   - title: Comparison of wiki software - Wikipedia
     url: https://en.wikipedia.org/wiki/Comparison_of_wiki_software
+related_tags:
+  - Static Site Generators

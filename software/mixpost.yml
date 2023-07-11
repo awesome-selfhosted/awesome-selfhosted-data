@@ -1,0 +1,16 @@
+name: Mixpost
+website_url: https://mixpost.app/
+description: Self-hosted social media management software. Easily create, schedule,
+  publish, and manage social media content in one place. Alternative to Hootsuite,
+  Buffer, and other social media tools.
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/inovector/MixpostApp
+stargazers_count: 11
+updated_at: '2023-06-28'
+archived: false

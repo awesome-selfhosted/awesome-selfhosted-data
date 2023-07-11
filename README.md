@@ -32,12 +32,16 @@ In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 Tags represent functional categories/features of the software. Any tag should have at least 3 list items attached to it, and be added to `tags/tag-name.yml` (use [existing tags](tags/) as example):
 
 ```yaml
-name: Project Management # required
-description: '[Project management](https://en.wikipedia.org/wiki/Project_management) is the process of leading the work of a team to achieve all project goals within the given constraints.' # required
-related_tags: # list of related tags, by name
+# (required) project name
+name: Project Management
+ # (required) description of what this tag/category is about (markdown allowed)
+description: '[Project management](https://en.wikipedia.org/wiki/Project_management) is the process of leading the work of a team to achieve all project goals within the given constraints.'
+# (optional) list of related tags, by name
+related_tags:
   - Ticketing
   - Task management & To-do lists
-external_links: # external links
+# (optional) external links
+external_links:
   - title: awesome-sysadmin/Code Review
     url: https://github.com/awesome-foss/awesome-sysadmin#code-review
 ```
@@ -47,8 +51,11 @@ external_links: # external links
 [Free and Open-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) software licenses (preferably [SPDX identifier](https://spdx.org/licenses/), or custom licenses, must be added to `licenses.yml` (use [existing licenses](licenses.yml) as example):
 
 ```yaml
+# (required) license identifier
 - identifier: ZPL-1.2
+  # (required) full license name
   name: Zope Public License 1.2
+  # (required) link to the full license text
   url: http://zpl.pub/page/zplv12
 ```
 
@@ -57,7 +64,9 @@ external_links: # external links
 Languages/requirements/technologies used to run or build the software should be listed in `platforms/platform-name.yml` (use [existing platforms](platforms/) as example):
 
 ```yaml
+# (required) language/platform name
 name: Java
+# (required) general description of the programming language or deployment platform
 description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
 ```
 

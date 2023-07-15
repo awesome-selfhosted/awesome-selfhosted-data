@@ -28,8 +28,8 @@ Contributing guidelines can be found in [.github/CONTRIBUTING.md](https://github
 
 ## Authors
 
-The list of authors can be found in [AUTHORS.md](AUTHORS.md).
+The list of authors can be found in the [AUTHORS](AUTHORS) file.
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.

@@ -5,11 +5,10 @@ description: Marketing, sales, and customer service platform designed to help bu
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
+  - Docker
 tags:
   - Ticketing
 source_code_url: https://github.com/erxes/erxes
-demo_url: https://demo.erxes.io/
 stargazers_count: 2934
 updated_at: '2023-06-06'
 archived: false

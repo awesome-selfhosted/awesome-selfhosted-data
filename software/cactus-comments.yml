@@ -4,6 +4,7 @@ description: Cactus Comments is a federated comment system for the open web buil
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Python
 tags:
   - Communication - Social Networks and Forums

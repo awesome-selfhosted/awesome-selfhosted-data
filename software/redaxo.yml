@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/redaxo/redaxo

@@ -6,10 +6,12 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
+  - K8S
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/Erudika/scoold
 demo_url: https://live.scoold.com
-stargazers_count: 748
+stargazers_count: 747
 updated_at: '2023-07-14'
 archived: false

@@ -6,6 +6,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - Docker
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/ortuman/jackal

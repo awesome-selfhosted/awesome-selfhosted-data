@@ -6,10 +6,11 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/simonw/datasette
 demo_url: https://global-power-plants.datasettes.com/global-power-plants/global-power-plants
-stargazers_count: 7982
+stargazers_count: 7985
 updated_at: '2023-07-08'
 archived: false

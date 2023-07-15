@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://gitlab.com/commento/commento

@@ -5,10 +5,10 @@ description: Misago is fully featured modern forum application that is fast, sca
 licenses:
   - GPL-2.0
 platforms:
-  - Python
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/rafalp/Misago
-stargazers_count: 2351
+stargazers_count: 2350
 updated_at: '2023-07-11'
 archived: false

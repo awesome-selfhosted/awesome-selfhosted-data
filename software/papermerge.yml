@@ -7,9 +7,11 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
+  - K8S
 tags:
   - Document Management
 source_code_url: https://github.com/ciur/papermerge
-stargazers_count: 2009
+stargazers_count: 2010
 updated_at: '2022-12-12'
 archived: false

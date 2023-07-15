@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Ruby
+  - Docker
 tags:
   - Conference Management
 source_code_url: https://github.com/openSUSE/osem

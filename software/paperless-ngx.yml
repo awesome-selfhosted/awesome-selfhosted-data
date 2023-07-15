@@ -6,10 +6,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Document Management
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
-stargazers_count: 9038
+stargazers_count: 9051
 updated_at: '2023-07-13'
 archived: false

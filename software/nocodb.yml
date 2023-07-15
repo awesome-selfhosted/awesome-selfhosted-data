@@ -6,9 +6,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/nocodb/nocodb
-stargazers_count: 36956
+stargazers_count: 36968
 updated_at: '2023-07-14'
 archived: false

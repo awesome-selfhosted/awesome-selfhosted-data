@@ -5,10 +5,11 @@ description: A link aggregator / reddit clone for the fediverse. Reddit alternat
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Rust
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/LemmyNet/lemmy
-stargazers_count: 11419
+stargazers_count: 11439
 updated_at: '2023-07-14'
 archived: false

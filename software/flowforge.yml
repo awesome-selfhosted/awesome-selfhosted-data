@@ -1,0 +1,17 @@
+name: FlowForge
+website_url: https://flowforge.com/
+description: FlowForge allows companies to deploy Node-RED applications in a reliable,
+  scalable and secure manner. The FlowForge platform provides DevOps capabilities
+  for Node-RED development teams.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/flowforge/flowforge
+stargazers_count: 157
+updated_at: '2023-07-14'
+archived: false

@@ -5,7 +5,7 @@ description: Loomio is a collaborative decision-making tool that makes it easy f
 licenses:
   - AGPL-3.0
 platforms:
-  - Ruby
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/loomio/loomio

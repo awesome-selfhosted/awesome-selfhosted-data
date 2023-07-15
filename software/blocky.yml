@@ -6,6 +6,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - Docker
 tags:
   - DNS
 source_code_url: https://github.com/0xERR0R/blocky

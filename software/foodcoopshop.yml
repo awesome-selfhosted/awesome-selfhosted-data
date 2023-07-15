@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/foodcoopshop/foodcoopshop

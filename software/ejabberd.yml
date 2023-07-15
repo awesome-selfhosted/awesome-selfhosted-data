@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - Erlang
+  - Docker
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/processone/ejabberd

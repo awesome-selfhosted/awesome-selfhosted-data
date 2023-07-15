@@ -5,6 +5,7 @@ description: Web-based software to manage a non-profit food coop (product catalo
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Ruby
 tags:
   - Community-Supported Agriculture (CSA)

@@ -1,5 +1,5 @@
 name: LinkWarden
-website_url: https://github.com/Daniel31x13/link-warden
+website_url: https://github.com/linkwarden/linkwarden
 description: A self-hosted bookmark + archive manager to store your useful links.
 licenses:
   - MIT
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Bookmarks and Link Sharing
-source_code_url: https://github.com/Daniel31x13/link-warden
+source_code_url: https://github.com/linkwarden/linkwarden
 demo_url: https://linkwarden.netlify.app/
 stargazers_count: 630
 updated_at: '2023-07-14'

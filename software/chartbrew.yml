@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/chartbrew/chartbrew

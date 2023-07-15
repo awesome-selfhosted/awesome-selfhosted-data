@@ -1,0 +1,13 @@
+name: AdGuard Home
+website_url: https://adguard.com/en/adguard-home/overview.html
+description: Free and open source, userfriendly ads & trackers blocking DNS server.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - DNS
+source_code_url: https://github.com/AdguardTeam/AdGuardHome
+stargazers_count: 17823
+updated_at: '2023-07-13'
+archived: false

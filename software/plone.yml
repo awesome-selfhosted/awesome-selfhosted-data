@@ -5,6 +5,7 @@ licenses:
   - ZPL-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/plone

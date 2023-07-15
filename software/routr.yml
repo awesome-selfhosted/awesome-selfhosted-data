@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - K8S
 tags:
   - Communication - SIP
 source_code_url: https://github.com/fonoster/routr

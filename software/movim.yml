@@ -6,6 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/movim/movim

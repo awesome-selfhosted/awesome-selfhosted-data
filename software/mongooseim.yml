@@ -5,6 +5,8 @@ licenses:
   - GPL-2.0
 platforms:
   - Erlang
+  - Docker
+  - K8S
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/esl/MongooseIM

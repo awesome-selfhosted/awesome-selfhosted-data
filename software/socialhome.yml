@@ -4,6 +4,7 @@ description: Federated and decentralized profile builder and social network engi
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Python
 tags:
   - Communication - Social Networks and Forums

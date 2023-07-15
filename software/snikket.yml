@@ -4,8 +4,7 @@ description: All-in-one Dockerized easy XMPP solution, including web admin and c
 licenses:
   - Apache-2.0
 platforms:
-  - Lua
-  - Python
+  - Docker
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/snikket-im/snikket-server

@@ -5,10 +5,10 @@ description: Self-hosted management of databases, supports PostgreSQL, MySQL, SQ
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/dbeaver/cloudbeaver
-stargazers_count: 2383
+stargazers_count: 2384
 updated_at: '2023-07-14'
 archived: false

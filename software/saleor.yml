@@ -4,11 +4,12 @@ description: Django based open-sourced e-commerce storefront.
 licenses:
   - BSD-3-Clause
 platforms:
+  - Docker
   - Python
 tags:
   - E-commerce
-source_code_url: https://github.com/mirumee/saleor
+source_code_url: https://github.com/saleor/saleor
 demo_url: https://demo.saleor.io/
-stargazers_count: 44
-updated_at: '2023-03-29'
+stargazers_count: 18764
+updated_at: '2023-07-14'
 archived: false

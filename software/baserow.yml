@@ -4,8 +4,7 @@ description: Open source online database tool and Airtable alternative. Create y
 licenses:
   - MIT
 platforms:
-  - Python
-  - Nodejs
+  - Docker
 tags:
   - Database Management
 source_code_url: https://gitlab.com/bramw/baserow

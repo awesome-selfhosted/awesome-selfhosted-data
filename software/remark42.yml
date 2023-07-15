@@ -5,6 +5,7 @@ description: A lightweight and simple comment engine, which doesn't spy on users
 licenses:
   - MIT
 platforms:
+  - Docker
   - Go
 tags:
   - Communication - Social Networks and Forums

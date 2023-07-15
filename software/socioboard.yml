@@ -1,5 +1,5 @@
 name: Socioboard
-website_url: https://github.com/socioboard/Socioboard-4.0
+website_url: https://github.com/socioboard/Socioboard-5.0
 description: Social media management, analytics, and reporting platform supporting
   nine social media networks out-of-the-box.
 licenses:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Analytics
-source_code_url: https://github.com/socioboard/Socioboard-4.0
+source_code_url: https://github.com/socioboard/Socioboard-5.0
 depends_3rdparty: true
 stargazers_count: 873
 updated_at: '2022-12-21'

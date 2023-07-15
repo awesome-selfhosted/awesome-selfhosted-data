@@ -5,10 +5,11 @@ description: A simple Document Management System for private use with basic func
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Ruby
 tags:
   - Document Management
 source_code_url: https://github.com/jonashellmann/everydocs-core
-stargazers_count: 131
+stargazers_count: 132
 updated_at: '2023-06-29'
 archived: false

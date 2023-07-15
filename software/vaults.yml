@@ -1,5 +1,5 @@
 name: vaults
-website_url: https://github.com/MatrixEternal/vaults
+website_url: https://github.com/IcyDrae/vaults
 description: Password manager featuring client side AES-256 encryption, PBKDF2 hashing,
   vaults, password generation & more.
 licenses:
@@ -8,7 +8,7 @@ platforms:
   - PHP
 tags:
   - Password Managers
-source_code_url: https://github.com/MatrixEternal/vaults
+source_code_url: https://github.com/IcyDrae/vaults
 stargazers_count: 32
 updated_at: '2022-06-11'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Crystal
+  - Docker
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/hkalexling/Mango
-stargazers_count: 1430
+stargazers_count: 1431
 updated_at: '2022-07-31'
 archived: false

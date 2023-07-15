@@ -5,6 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
 tags:
   - Communication - IRC
-source_code_url: https://weechat.org/
+source_code_url: https://github.com/weechat/weechat
+stargazers_count: 2687
+updated_at: '2023-07-15'
+archived: false

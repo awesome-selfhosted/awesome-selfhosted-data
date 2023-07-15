@@ -24,7 +24,7 @@
 
 ## Contributing
 
-Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
+Contributing guidelines can be found in [.github/CONTRIBUTING.md](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
 
 ## Authors
 

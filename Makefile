@@ -11,7 +11,7 @@ install:
 import: install
 	rm -rf awesome-selfhosted && git clone --depth=1 https://github.com/awesome-selfhosted/awesome-selfhosted
 	cp awesome-selfhosted/.github/.mailmap .mailmap
-	cp awesome-selfhosted/AUTHORS.md AUTHORS.md
+	cp awesome-selfhosted/AUTHORS AUTHORS
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \

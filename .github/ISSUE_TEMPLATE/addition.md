@@ -13,6 +13,7 @@ Please fill out information below:
 
 ```yaml
 # software/my-awesome-software.yml
+# required, software name
 name: "My awesome software"
 # required, URL of the software project's homepage
 website_url: "https://my.awesome.softwar.e"
@@ -20,11 +21,11 @@ website_url: "https://my.awesome.softwar.e"
 source_code_url: "https://gitlab.com/awesome/software"
 # required, description of what the software does, shorter than 250 characters, sentence case
 description: "Description of my awesome software."
-# required, see licenses.yml for the full list of licenses
+# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - Apache-2.0
   - AGPL-3.0
-# required, see platforms/ for the full list of platforms
+# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Java
   - Python
@@ -32,11 +33,12 @@ platforms:
   - Nodejs
   - Deb
   - Docker
-# required, see tags/ for the full list of tags
+# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Automation
-  - Calendar
-  - File synchronization
+  - Calendar & Contacts - CalDAV or CardDAV Servers
+  - Bookmarks and Link Sharing
+  - Pastebins
 # required if the software depends on a third-party service outside the user's control, else remove
 depends_3rdparty: yes
 # optional, link to an interactive demo of the software

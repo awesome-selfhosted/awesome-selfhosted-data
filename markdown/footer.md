@@ -28,7 +28,7 @@ Contributing guidelines can be found in [.github/CONTRIBUTING.md](https://github
 
 ## Authors
 
-The list of authors can be found in the [AUTHORS](AUTHORS) file.
+The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
 
 ## License
 

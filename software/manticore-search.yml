@@ -1,6 +1,7 @@
 name: Manticore Search
 website_url: https://github.com/manticoresoftware/manticoresearch/
-description: Much faster alternative to Elasticsearch for full-text search and data analytics. Provides much lower response time for small, medium and big data.
+description: Much faster alternative to Elasticsearch for full-text search and data
+  analytics. Provides much lower response time for small, medium and big data.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,3 +10,6 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
+stargazers_count: 4053
+updated_at: '2023-07-15'
+archived: false

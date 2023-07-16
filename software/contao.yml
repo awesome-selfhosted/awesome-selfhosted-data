@@ -1,6 +1,7 @@
 name: Contao
 website_url: https://contao.org/
-description: Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications.
+description: Contao is a powerful open source CMS that allows you to create professional
+  websites and scalable web applications.
 licenses:
   - LGPL-3.0
 platforms:
@@ -8,3 +9,6 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/contao/contao/
+stargazers_count: 285
+updated_at: '2023-07-11'
+archived: false

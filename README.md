@@ -83,6 +83,8 @@ import              import data from original list at https://github.com/awesome
 update_metadata     update metadata from project repositories/API
 awesome_lint        check data against awesome-selfhosted guidelines
 export              export markdown singlepage document from yaml data
+url_check           check URLs for dead links or other connection problems
+authors             update the AUTHORS file
 help                generate list of targets with descriptions
 ```
 

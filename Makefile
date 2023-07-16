@@ -39,6 +39,11 @@ url_check: install
 	source .venv/bin/activate && \
 	hecat --config .hecat/url-check.yml
 
+.PHONY: authors # update the AUTHORS file
+authors:
+	printf "Commits|Author\n-------|---------------------------------------------------\n" > AUTHORS
+	git shortlog -sne >> AUTHORS
+
 .PHONY: help # generate list of targets with descriptions
 help:
 	@grep '^.PHONY: .* #' Makefile | sed 's/\.PHONY: \(.*\) # \(.*\)/\1	\2/' | expand -t20

@@ -27,14 +27,15 @@ If you are not comfortable sending a pull request, please open a new [issue](htt
 
 In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) the software will only appear under the first category in its `tags` list, so choose wisely.
 
+
 ### Add a tag/category
 
-Tags represent functional categories/features of the software. Any tag should have at least 3 list items attached to it, and be added to `tags/tag-name.yml` (use [existing tags](tags/) as example):
+Tags represent functional categories/features of the software, and must be added to `tags/tag-name.yml` (use [existing tags](tags/) as example). Any tag must have a minimum of 3 software projects referencing it. The [`Miscellaneous`](tags/miscellaneous.yml) tag can be used for software not matching any existing category.
 
 ```yaml
-# (required) project name
+# project name
 name: Project Management
- # (required) description of what this tag/category is about (markdown allowed)
+# description of what this tag/category is about (markdown allowed)
 description: '[Project management](https://en.wikipedia.org/wiki/Project_management) is the process of leading the work of a team to achieve all project goals within the given constraints.'
 # (optional) list of related tags, by name
 related_tags:
@@ -51,11 +52,11 @@ external_links:
 [Free and Open-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) software licenses (preferably [SPDX identifier](https://spdx.org/licenses/), or custom licenses, must be added to `licenses.yml` (use [existing licenses](licenses.yml) as example):
 
 ```yaml
-# (required) license identifier
+  # short license identifier
 - identifier: ZPL-1.2
-  # (required) full license name
+  # full license name
   name: Zope Public License 1.2
-  # (required) link to the full license text
+  # link to the full license text
   url: http://zpl.pub/page/zplv12
 ```
 
@@ -64,9 +65,9 @@ external_links:
 Languages/requirements/technologies used to run or build the software should be listed in `platforms/platform-name.yml` (use [existing platforms](platforms/) as example):
 
 ```yaml
-# (required) language/platform name
+# language/platform name
 name: Java
-# (required) general description of the programming language or deployment platform
+# general description of the programming language or deployment platform (markdown allowed)
 description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
 ```
 

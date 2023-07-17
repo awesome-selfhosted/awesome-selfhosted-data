@@ -9,23 +9,22 @@ assignees: ''
 
 Thanks for taking the time to suggest an addition to awesome-selfhosted! 
 
-Please fill out information below:
+Please fill out information below (all fields are mandatory unless noted otherwise):
 
 ```yaml
-# software/my-awesome-software.yml
-# required, software name
+# software name
 name: "My awesome software"
-# required, URL of the software project's homepage
+# URL of the software project's homepage
 website_url: "https://my.awesome.softwar.e"
-# required, URL where the full source code of the program can be downloaded
+# URL where the full source code of the program can be downloaded
 source_code_url: "https://gitlab.com/awesome/software"
-# required, description of what the software does, shorter than 250 characters, sentence case
+# description of what the software does, shorter than 250 characters, sentence case
 description: "Description of my awesome software."
-# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - Apache-2.0
   - AGPL-3.0
-# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Java
   - Python
@@ -33,17 +32,17 @@ platforms:
   - Nodejs
   - Deb
   - Docker
-# required, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Automation
   - Calendar & Contacts - CalDAV or CardDAV Servers
   - Bookmarks and Link Sharing
   - Pastebins
-# required if the software depends on a third-party service outside the user's control, else remove
+# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: yes
-# optional, link to an interactive demo of the software
+# (optional) link to an interactive demo of the software
 demo_url: "https://my.awesome.softwar.e/demo"
-# optional, link to a list of clients/addons/plugins/apps/bots... for the software
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
 related_software_url: "https://my.awesome.softwar.e/apps"
 ```
 

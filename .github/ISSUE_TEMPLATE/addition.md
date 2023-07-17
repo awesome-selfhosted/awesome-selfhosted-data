@@ -46,9 +46,10 @@ demo_url: "https://my.awesome.softwar.e/demo"
 related_software_url: "https://my.awesome.softwar.e/apps"
 ```
 
-To ensure your issue is dealt with swiftly please check the following (check the boxes `[x]`):
+To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
+- [ ] Submit one item per pull issue. This eases reviewing and speeds up inclusion.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
-- [ ] Submit one item per pull request. This eases reviewing and speeds up inclusion.
-- [ ] Values for `platform` are the main **server-side** requirements for the software. Don't include frameworks or specific dialects.
+- [ ] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.net](https://staticsitegenerators.net/), [dbdb.io](https://dbdb.io/browse).
 - [ ] Any software project you are adding to the list is actively maintained.
-- [ ] If creating new `tags`, any tag has the minimum requirement of 3 items. If not, your addition may be inserted into `Miscellaneous`.
+- [ ] Any software project you are adding was first released more than 4 months ago.
+- [ ] Any software project you are adding has working installation instructions.

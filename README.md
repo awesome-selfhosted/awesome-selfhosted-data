@@ -2,7 +2,7 @@
 
 This repository holds data used to generate https://github.com/awesome-selfhosted/awesome-selfhosted
 
-**Status: [experimental](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/11)**
+**Status: [experimental](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/11)** [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/build.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/build.yml) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/daily-update-metadata.yml/badge.svg)]
 
 ## Contributing
 
@@ -12,7 +12,7 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 
 - Software with no development activity for 6-12 months may be removed from the list
 - Unmaintained software without an active community and/or persistent security issues may be removed from the list
-- Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/ci.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
+- Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/daily-checks.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### Add software to the list
 

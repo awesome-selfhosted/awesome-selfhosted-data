@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  ci:
+  syntax checks:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

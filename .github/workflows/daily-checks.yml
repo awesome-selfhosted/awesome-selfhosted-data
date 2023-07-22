@@ -1,4 +1,4 @@
-name: link checks
+name: dead links and unmaintained projects checks
 
 on:
   schedule:
@@ -13,6 +13,12 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  unmaintained projects checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make awesome_lint
+
   link checks:
     runs-on: ubuntu-latest
     steps:

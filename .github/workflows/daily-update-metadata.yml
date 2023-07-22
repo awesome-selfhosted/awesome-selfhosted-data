@@ -1,3 +1,5 @@
+name: update metadata
+
 on:
   schedule:
     - cron: '22 22 * * *'

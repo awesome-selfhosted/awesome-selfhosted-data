@@ -1,3 +1,5 @@
+name: link checks
+
 on:
   schedule:
     - cron: '22 22 * * *'

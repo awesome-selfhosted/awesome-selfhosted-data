@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update metadata:
+  update-metadata:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

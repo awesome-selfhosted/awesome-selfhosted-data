@@ -16,8 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: make update_metadata
-      - run: make awesome_lint
-      - run: make export
       - name: commit and push changes
         run: |
           git config user.name awesome-selfhosted-bot

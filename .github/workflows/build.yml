@@ -9,10 +9,35 @@ concurrency:
   group: build-${{ github.ref }}
   cancel-in-progress: true
 
+# This job requires deploy keys to be added to target repositories (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
+# Generate deploy keys locally:
+# $ ssh-keygen -t rsa -f awesome-selfhosted-deploy-key -C awesome-selfhosted-deploy-key
+# $ ssh-keygen -t rsa -f awesome-selfhosted-html-deploy-key -C awesome-selfhosted-html-deploy-key
+# Paste the contents of awesome-selfhosted-deploy-key.pub to https://github.com/nodiscc/awesome-selfhosted/settings/keys/new, name: awesome-selfhosted-deploy-key, allow write access
+# Paste the contents of awesome-selfhosted-html-deploy-key.pub to https://github.com/nodiscc/awesome-selfhosted-html-preview/settings/keys/new, name: awesome-selfhosted-html-deploy-key
+# Access https://github.com/awesome-selfhosted/awesome-selfhosted-data/settings/environments, create new environment with name: production
+#   - deployment branches: selected branches
+#   - add deployment branch rule: branch name pattern: master
+#   - environment secrets: add secret with name: SSH_MARKDOWN_DEPLOY_KEY, and value: paste the contents of awesome-selfhosted-deploy-key
+#   - environment secrets: add secret with name: SSH_HTML_DEPLOY_KEY, and value: paste the contents of awesome-selfhosted-html-deploy-key
+
 jobs:
   build:
+    environment: production
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - run: make awesome_lint
-      - run: make export
+      - run: make export_markdown export_html
+      - name: setup markdown repository SSH deploy key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_MARKDOWN_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 0600 ~/.ssh/id_rsa
+      - run: make push_markdown
+      - name: setup HTML repository SSH deploy key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_HTML_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+          chmod 0600 ~/.ssh/id_rsa
+      - run: make push_html

@@ -1,4 +1,4 @@
-name: dead links and unmaintained projects checks
+name: dead links/unmaintained projects checks
 
 on:
   schedule:

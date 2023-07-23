@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: make awesome_lint
-      - run: make export
+      - run: make export_markdown

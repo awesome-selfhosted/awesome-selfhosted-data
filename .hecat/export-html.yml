@@ -1,12 +1,9 @@
 steps:
-  - name: export YAML data to awesome-selfhosted markdown
-    module: exporters/markdown_singlepage
+  - name: export YAML data to multi-page markdown site
+    module: exporters/markdown_multipage
     module_options:
       source_directory: ./
-      output_directory: awesome-selfhosted
-      output_file: README.md
-      back_to_top_url: '#awesome-selfhosted'
-      # authors_file: AUTHORS.md
+      output_directory: html
       exclude_licenses:
         - '⊘ Proprietary'
         - 'BUSL-1.1'
@@ -16,3 +13,6 @@ steps:
         - 'Commons-Clause'
         - 'DPL'
         - 'SSPL-1.0'
+        - 'DPL'
+        - 'Elastic-1.0'
+        - 'Elastic-2.0'

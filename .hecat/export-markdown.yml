@@ -1,0 +1,46 @@
+steps:
+  - name: export YAML data to single-page markdown
+    module: exporters/markdown_singlepage
+    module_options:
+      source_directory: ./
+      output_directory: awesome-selfhosted
+      output_file: README.md
+      markdown_header: markdown/header.md
+      markdown_footer: markdown/footer.md
+      back_to_top_url: '#awesome-selfhosted'
+      exclude_licenses:
+        - '⊘ Proprietary'
+        - 'BUSL-1.1'
+        - 'CC-BY-NC-4.0'
+        - 'CC-BY-NC-SA-3.0'
+        - 'CC-BY-ND-3.0'
+        - 'Commons-Clause'
+        - 'DPL'
+        - 'SSPL-1.0'
+        - 'DPL'
+        - 'Elastic-1.0'
+        - 'Elastic-2.0'
+
+  - name: export YAML data to single-page markdown (non-free)
+    module: exporters/markdown_singlepage
+    module_options:
+      source_directory: ./
+      output_directory: awesome-selfhosted
+      output_file: non-free.md
+      markdown_header: markdown/non-free-header.md
+      licenses_file: licenses-nonfree.yml
+      back_to_top_url: '##awesome-selfhosted---non-free-software'
+      render_empty_categories: False
+      render_category_headers: False
+      include_licenses:
+        - '⊘ Proprietary'
+        - 'BUSL-1.1'
+        - 'CC-BY-NC-4.0'
+        - 'CC-BY-NC-SA-3.0'
+        - 'CC-BY-ND-3.0'
+        - 'Commons-Clause'
+        - 'DPL'
+        - 'SSPL-1.0'
+        - 'DPL'
+        - 'Elastic-1.0'
+        - 'Elastic-2.0'

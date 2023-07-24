@@ -1,13 +1,13 @@
-name: EmbassyOS
+name: StartOS
 website_url: https://start9.com
-description: Graphical Operating System for running self-hosted, open source services.
+description: ' Browser-based, graphical operating system for a personal server.'
 licenses:
   - ⊘ Proprietary
 platforms:
   - Rust
 tags:
   - Self-hosting Solutions
-source_code_url: https://github.com/Start9Labs/embassy-os
+source_code_url: https://github.com/Start9Labs/start-os
 stargazers_count: 421
 updated_at: '2023-07-20'
 archived: false

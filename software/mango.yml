@@ -1,5 +1,5 @@
 name: Mango
-website_url: https://github.com/hkalexling/Mango
+website_url: https://github.com/getmango/Mango
 description: Manga server and web reader with a built-in MangaDex downloader.
 licenses:
   - MIT
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Document Management - E-books
-source_code_url: https://github.com/hkalexling/Mango
-stargazers_count: 1437
+source_code_url: https://github.com/getmango/Mango
+stargazers_count: 1439
 updated_at: '2022-07-31'
 archived: false

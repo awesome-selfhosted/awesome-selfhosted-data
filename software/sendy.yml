@@ -1,0 +1,10 @@
+name: Sendy
+website_url: https://sendy.co
+description: Self-hosted email newsletter application that lets you send bulk emails via Amazon Simple Email Service (SES) or other SMTP services.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - PHP
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://sendy.co

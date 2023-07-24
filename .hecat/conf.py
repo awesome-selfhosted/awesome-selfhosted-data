@@ -13,13 +13,13 @@ html_show_search_summary = True
 html_copy_source = False
 html_show_copyright = True
 html_use_opensearch = 'https://nodiscc.github.io/awesome-selfhosted-html-preview/'
-html_favicon = '_static/favicon.ico'
-html_logo = '_static/logo.svg'
+html_favicon = '../_static/favicon.ico'
+html_logo = '../_static/logo.svg'
 extensions = ['myst_parser', 'sphinx_design']
 source_suffix = ['.md']
 templates_path = ['_templates']
 exclude_patterns = []
-html_static_path = ['_static']
+html_static_path = ['../_static']
 
 # myst-parser configuration (https://myst-parser.readthedocs.io/en/latest/configuration.html)
 myst_enable_extensions = ['fieldlist']

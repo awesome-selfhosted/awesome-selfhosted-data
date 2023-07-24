@@ -21,24 +21,24 @@ import: clean install
 	hecat --config .hecat/import.yml
 
 .PHONY: update_metadata # update metadata from project repositories/API
-update_metadata: install
+update_metadata:
 	source .venv/bin/activate && \
 	hecat --config .hecat/update-metadata.yml
 
 .PHONY: awesome_lint # check data against awesome-selfhosted guidelines
-awesome_lint: install
+awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml
 
 .PHONY: export_markdown # render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
-export_markdown: install
+export_markdown:
 	rm -rf awesome-selfhosted/
 	git clone https://github.com/$(MARKDOWN_REPOSITORY)
 	source .venv/bin/activate && hecat --config .hecat/export-markdown.yml
 	cd awesome-selfhosted && git diff --color=always
 
 .PHONY: export_html # render HTML export from YAML data (https://nodiscc.github.io/awesome-selfhosted-html-preview/)
-export_html: install
+export_html:
 	rm -rf awesome-selfhosted-html-preview/ html/
 	git clone https://github.com/$(HTML_REPOSITORY)
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
@@ -62,7 +62,7 @@ push_html:
 	cd awesome-selfhosted-html-preview/ && git push -f
 
 .PHONY: url_check # check URLs for dead links or other connection problems
-url_check: install
+url_check:
 	source .venv/bin/activate && \
 	hecat --config .hecat/url-check.yml
 

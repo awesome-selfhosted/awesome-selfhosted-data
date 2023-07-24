@@ -17,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: make install
       - run: make update_metadata
       - name: commit and push changes
         run: |

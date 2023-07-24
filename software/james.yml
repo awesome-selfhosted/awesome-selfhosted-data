@@ -1,0 +1,13 @@
+
+name: "James"
+website_url: "https://james.apache.org/"
+source_code_url: "https://github.com/apache/james-project"
+description: "James stands for Java Apache Mail Enterprise Server! It has a modular architecture based on a rich set of modern and efficient components which provides at the end complete, stable, secure and extendable Mail Servers running on the JVM."
+licenses:
+- Apache-2.0
+platforms:
+- Java
+- Docker
+tags:
+- Communication - Email - Mail Delivery Agents
+depends_3rdparty: no

@@ -27,5 +27,6 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
   build:
+    needs: update-metadata
     uses: ./.github/workflows/build.yml
     secrets: inherit

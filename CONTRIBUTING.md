@@ -65,6 +65,15 @@ name: Java
 description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
 ```
 
+### Remove software from the list
+
+Simply delete the appropriate file under `software/` and submit a Pull Request.
+To do this from Github's web interface:
+- use the [go to file](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) feature to open the appropriate file (e.g. [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml))
+- Click the `...` button at the top right of the file view, click `Delete file`
+- In the `Commit changes` dialog, enter `Remove SOFTWARE_NAME (reason)` as your commit message, additional context in the `extended description` field, select `Create a new branch for this commit and start a pull request.`, and click `Commit Changes`
+
+
 ### Other
 
 **Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.

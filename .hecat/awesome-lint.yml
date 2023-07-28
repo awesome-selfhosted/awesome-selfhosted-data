@@ -1,3 +1,4 @@
+# doc: https://github.com/nodiscc/hecat/blob/master/hecat/processors/awesome_lint.py
 steps:
   - name: data against awesome-selfhosted guidelines
     module: processors/awesome_lint

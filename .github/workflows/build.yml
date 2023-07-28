@@ -23,20 +23,29 @@ concurrency:
 #   - environment secrets: add secret with name: SSH_HTML_DEPLOY_KEY, and value: paste the contents of awesome-selfhosted-html-deploy-key
 
 jobs:
-  build:
+  build-markdown:
     environment: production
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - run: make install
       - run: make awesome_lint
-      - run: make export_markdown export_html
+      - run: make export_markdown
       - name: setup markdown repository SSH deploy key
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_MARKDOWN_DEPLOY_KEY }}" > ~/.ssh/id_rsa
           chmod 0600 ~/.ssh/id_rsa
       - run: make push_markdown
+
+  build-html:
+    environment: production
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make install
+      - run: make awesome_lint
+      - run: make export_html
       - name: setup HTML repository SSH deploy key
         run: |
           mkdir -p ~/.ssh

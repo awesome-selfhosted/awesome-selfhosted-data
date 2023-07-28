@@ -24,7 +24,9 @@ concurrency:
 
 jobs:
   build-markdown:
-    environment: production
+    environment:
+      name: production
+      url: https://github.com/nodiscc/awesome-selfhosted
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -39,7 +41,9 @@ jobs:
       - run: make push_markdown
 
   build-html:
-    environment: production
+    environment:
+      name: production
+      url: https://github.com/nodiscc/awesome-selfhosted-html-preview
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

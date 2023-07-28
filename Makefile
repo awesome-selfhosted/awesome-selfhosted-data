@@ -48,17 +48,19 @@ export_html:
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
+	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	cd awesome-selfhosted && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
 	cd awesome-selfhosted && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
-	cd awesome-selfhosted && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown repository")
+	cd awesome-selfhosted && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-selfhosted-data $(COMMIT_HASH)")
 	cd awesome-selfhosted && git push -f
 
 .PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
 push_html:
+	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	mv html/html/* awesome-selfhosted-html-preview/
 	cd awesome-selfhosted-html-preview/ && git remote set-url origin git@github.com:$(HTML_REPOSITORY)
 	cd awesome-selfhosted-html-preview/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
-	cd awesome-selfhosted-html-preview/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML site")
+	cd awesome-selfhosted-html-preview/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-selfhosted-data $(COMMIT_HASH)")
 	cd awesome-selfhosted-html-preview/ && git push -f
 
 .PHONY: url_check # check URLs for dead links or other connection problems

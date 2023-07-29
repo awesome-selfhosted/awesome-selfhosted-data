@@ -1,10 +1,12 @@
 # doc: https://github.com/nodiscc/hecat/blob/master/hecat/processors/awesome_lint.py
 steps:
-  - name: check data against awesome-selfhosted guidelines
+  - name: check data against awesome-selfhosted guidelines (strict)
     module: processors/awesome_lint
     module_options:
       source_directory: ./
       items_in_delegate_to_fatal: False
+      last_updated_error_days: 365
+      last_updated_warn_days: 186
       licenses_files:
         - licenses.yml
         - licenses-nonfree.yml

@@ -8,7 +8,7 @@ install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \
-	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.0.2
+	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.1.0
 
 .PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
@@ -29,6 +29,11 @@ update_metadata:
 awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml
+
+.PHONY: awesome_lint # check data against awesome-selfhosted guidelines (strict)
+awesome_lint_strict:
+	source .venv/bin/activate && \
+	hecat --config .hecat/awesome-lint-strict.yml
 
 .PHONY: export_markdown # render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
 export_markdown:

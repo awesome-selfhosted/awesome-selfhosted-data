@@ -1,0 +1,14 @@
+name: SQLPage
+website_url: https://sql.ophir.dev
+description: SQL-only dynamic website builder.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/lovasoa/SQLPage
+stargazers_count: 269
+updated_at: '2023-08-07'
+archived: false

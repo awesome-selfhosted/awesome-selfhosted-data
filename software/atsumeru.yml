@@ -1,0 +1,15 @@
+name: Atsumeru
+website_url: https://atsumeru.xyz
+description: Free and open source self-hosted manga/comic/light novel media server
+  with clients for Windows, Linux, macOS and Android.
+licenses:
+  - MIT
+platforms:
+  - Java
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/AtsumeruDev/Atsumeru
+related_software_url: https://atsumeru.xyz/guides/#how-does-it-work
+stargazers_count: 9
+updated_at: '2023-07-07'
+archived: false

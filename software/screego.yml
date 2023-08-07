@@ -1,0 +1,16 @@
+name: Screego
+website_url: https://screego.net
+description: Screego is a simple tool to quickly share your screen to one or multiple
+  people via web browser.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/screego/server
+demo_url: https://app.screego.net/
+stargazers_count: 5560
+updated_at: '2023-07-29'
+archived: false

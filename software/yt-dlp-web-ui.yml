@@ -1,0 +1,15 @@
+name: yt-dlp Web UI
+website_url: https://github.com/marcopeocchi/yt-dlp-web-ui
+description: Web GUI for yt-dlp.
+licenses:
+  - MPL-2.0
+platforms:
+  - Docker
+  - Go
+  - Nodejs
+tags:
+  - Automation
+source_code_url: https://github.com/marcopeocchi/yt-dlp-web-ui
+stargazers_count: 229
+updated_at: '2023-08-03'
+archived: false

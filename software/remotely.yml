@@ -1,0 +1,15 @@
+name: Remotely
+website_url: https://github.com/immense/Remotely
+description: A remote desktop control and remote scripting solution, enterprise level
+  remote support solution with admin web interface and remote control via browser.
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/immense/Remotely
+stargazers_count: 3595
+updated_at: '2023-08-04'
+archived: false

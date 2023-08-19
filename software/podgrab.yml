@@ -1,8 +1,6 @@
 name: Podgrab
 website_url: https://github.com/akhilrex/podgrab
-description: Lightweight podcast manager and automatic podcast episode downloader.
-  It will monitor podcasts for your and download them automatically whenever a new
-  episode goes live.
+description: Lightweight podcast manager and automatic podcast episode downloader. It will monitor podcasts for your and download them automatically whenever a new episode goes live.
 licenses:
   - GPL-3.0
 platforms:
@@ -11,6 +9,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/akhilrex/podgrab
-stargazers_count: 1226
+stargazers_count: 1227
 updated_at: '2022-09-20'
 archived: false

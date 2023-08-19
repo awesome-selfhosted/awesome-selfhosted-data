@@ -1,7 +1,6 @@
 name: RconCli
 website_url: https://github.com/gorcon/rcon-cli
-description: CLI for executing queries on a remote Valve Source dedicated server using
-  the RCON Protocol.
+description: CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol.
 licenses:
   - MIT
 platforms:

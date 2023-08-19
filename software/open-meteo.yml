@@ -1,7 +1,6 @@
 name: Open-Meteo
 website_url: https://open-meteo.com/
-description: Open-source weather API with open-data forecasts, historical and climate
-  data from all major national weather services.
+description: Open-source weather API with open-data forecasts, historical and climate data from all major national weather services.
 licenses:
   - AGPL-3.0
 platforms:

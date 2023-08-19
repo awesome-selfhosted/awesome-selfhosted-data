@@ -1,9 +1,6 @@
 name: Exadel CompreFace
 website_url: https://exadel.com/solutions/compreface/
-description: Face recognition system that provides REST API for face recognition,
-  face detection, and other face services, and is easily deployed with docker. There
-  are SDKs for Python and JavaScript languages. Can be used without prior machine
-  learning skills.
+description: Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills.
 licenses:
   - Apache-2.0
 platforms:
@@ -13,6 +10,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/exadel-inc/CompreFace
-stargazers_count: 3162
+stargazers_count: 3165
 updated_at: '2023-08-14'
 archived: false

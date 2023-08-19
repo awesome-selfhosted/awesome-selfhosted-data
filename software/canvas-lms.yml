@@ -1,7 +1,6 @@
 name: Canvas LMS
 website_url: https://www.instructure.com/canvas/
-description: Canvas is the trusted, open-source learning management system (LMS) that
-  is revolutionizing the way we educate.
+description: Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Learning and Courses
 source_code_url: https://github.com/instructure/canvas-lms
 demo_url: https://canvas.instructure.com/register
-stargazers_count: 4947
-updated_at: '2023-08-14'
+stargazers_count: 4948
+updated_at: '2023-08-17'
 archived: false

@@ -1,7 +1,6 @@
 name: Quassel IRC
 website_url: https://quassel-irc.org/
-description: Distributed IRC client, meaning that one (or multiple) client(s) can
-  attach to and detach from a central core.
+description: Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core.
 licenses:
   - GPL-2.0
 platforms:

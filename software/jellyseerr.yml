@@ -1,8 +1,6 @@
 name: Jellyseerr
 website_url: https://github.com/Fallenbagel/jellyseerr
-description: A free and open source software application for managing requests for
-  your media library. It is a a fork of Overseerr built to bring support for Jellyfin
-  & Emby media servers.
+description: A free and open source software application for managing requests for your media library. It is a a fork of Overseerr built to bring support for Jellyfin & Emby media servers.
 licenses:
   - MIT
 platforms:
@@ -10,6 +8,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/Fallenbagel/jellyseerr
-stargazers_count: 1663
+stargazers_count: 1665
 updated_at: '2023-08-11'
 archived: false

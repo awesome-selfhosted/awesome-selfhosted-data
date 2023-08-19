@@ -1,7 +1,6 @@
 name: exatorrent
 website_url: https://github.com/varbhat/exatorrent
-description: BitTorrent client written in Go that can be run locally or hosted on
-  a remote server, and supports streaming via HTTP.
+description: BitTorrent client written in Go that can be run locally or hosted on a remote server, and supports streaming via HTTP.
 licenses:
   - GPL-3.0
 platforms:

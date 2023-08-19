@@ -1,7 +1,6 @@
 name: Typebot
 website_url: https://typebot.io
-description: Typebot is a conversational app builder as an alternative to Typeform
-  or Landbot.
+description: Typebot is a conversational app builder as an alternative to Typeform or Landbot.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/baptisteArno/typebot.io
-stargazers_count: 3519
+stargazers_count: 3523
 updated_at: '2023-08-18'
 archived: false

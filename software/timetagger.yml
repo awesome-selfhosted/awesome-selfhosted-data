@@ -1,7 +1,6 @@
 name: TimeTagger
 website_url: https://timetagger.app
-description: An open source time-tracker based on an interactive timeline and powerful
-  reporting.
+description: An open source time-tracker based on an interactive timeline and powerful reporting.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Time Tracking
 source_code_url: https://github.com/almarklein/timetagger
 demo_url: https://timetagger.app/app/demo
-stargazers_count: 755
+stargazers_count: 756
 updated_at: '2023-08-17'
 archived: false

@@ -1,7 +1,6 @@
 name: remark42
 website_url: https://remark42.com/
-description: A lightweight and simple comment engine, which doesn't spy on users.
-  It can be embedded into blogs, articles or any other place where readers add comments.
+description: A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments.
 licenses:
   - MIT
 platforms:

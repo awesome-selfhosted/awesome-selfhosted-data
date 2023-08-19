@@ -1,7 +1,6 @@
 name: DietPi
 website_url: https://dietpi.com/
-description: Minimal Debian OS optimized for single-board computers, which allows
-  you to easily install and manage several services for selfhosting at home.
+description: Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/MichaIng/DietPi
-stargazers_count: 4030
+stargazers_count: 4031
 updated_at: '2023-08-03'
 archived: false

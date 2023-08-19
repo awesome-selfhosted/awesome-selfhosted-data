@@ -1,7 +1,6 @@
 name: Kubero
 website_url: https://www.kubero.dev/
-description: A self-hosted Heroku PaaS alternative for Kubernetes that implements
-  GitOps.
+description: A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps.
 licenses:
   - GPL-3.0
 platforms:
@@ -12,6 +11,6 @@ tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/kubero-dev/kubero
 demo_url: https://demo.kubero.dev/
-stargazers_count: 1215
+stargazers_count: 1220
 updated_at: '2023-08-18'
 archived: false

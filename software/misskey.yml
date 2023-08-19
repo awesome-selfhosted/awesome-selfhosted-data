@@ -1,7 +1,6 @@
 name: Misskey
 website_url: https://misskey.io/
-description: Decentralized app-like microblogging server/SNS for the Fediverse, using
-  the ActivityPub protocol like GNU social and Mastodon.
+description: Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/misskey-dev/misskey
-stargazers_count: 8290
-updated_at: '2023-08-18'
+stargazers_count: 8297
+updated_at: '2023-08-19'
 archived: false

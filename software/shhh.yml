@@ -1,7 +1,6 @@
 name: Shhh
 website_url: https://github.com/smallwat3r/shhh
-description: Keep secrets out of emails or chat logs, share them using secure links
-  with passphrase and expiration dates.
+description: Keep secrets out of emails or chat logs, share them using secure links with passphrase and expiration dates.
 licenses:
   - MIT
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/smallwat3r/shhh
-stargazers_count: 345
+stargazers_count: 346
 updated_at: '2023-03-08'
 archived: false

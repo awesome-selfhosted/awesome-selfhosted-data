@@ -1,7 +1,6 @@
 name: OwnTracks Recorder
 website_url: https://github.com/owntracks/recorder
-description: Store and access data published by [OwnTracks](https://owntracks.org/)
-  location tracking apps.
+description: Store and access data published by [OwnTracks](https://owntracks.org/) location tracking apps.
 licenses:
   - GPL-2.0
 platforms:

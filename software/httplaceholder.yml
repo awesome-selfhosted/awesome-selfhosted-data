@@ -1,8 +1,6 @@
 name: HttPlaceholder
 website_url: https://github.com/dukeofharen/httplaceholder
-description: Quickly mock away any webservice using HttPlaceholder. HttPlaceholder
-  lets you specify what the request should look like and what response needs to be
-  returned.
+description: Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned.
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,6 @@
 name: WebUI-aria2
 website_url: https://github.com/ziahamza/webui-aria2
-description: Interface to interact with the aria2 downloader. Very simple to use,
-  just download and open index.html in any web browser.
+description: Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser.
 licenses:
   - MIT
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Automation
 source_code_url: https://github.com/ziahamza/webui-aria2
 demo_url: https://ziahamza.github.io/webui-aria2/
-stargazers_count: 9417
+stargazers_count: 9420
 updated_at: '2021-09-01'
 archived: false

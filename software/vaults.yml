@@ -1,7 +1,6 @@
 name: vaults
 website_url: https://github.com/IcyDrae/vaults
-description: Password manager featuring client side AES-256 encryption, PBKDF2 hashing,
-  vaults, password generation & more.
+description: Password manager featuring client side AES-256 encryption, PBKDF2 hashing, vaults, password generation & more.
 licenses:
   - GPL-3.0
 platforms:

@@ -1,8 +1,6 @@
 name: YABin
 website_url: https://github.com/Yureien/YABin
-description: A pastebin that contains plentiful features while remaining simple. Supports
-  optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic
-  UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments.
+description: A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments.
 licenses:
   - MIT
 platforms:

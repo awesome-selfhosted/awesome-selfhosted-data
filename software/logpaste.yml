@@ -1,7 +1,6 @@
 name: LogPaste
 website_url: https://github.com/mtlynch/logpaste
-description: Minimal pastebin web app that's easy to self-host and persists data to
-  any S3-compatible backend.
+description: Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend.
 licenses:
   - MIT
 platforms:

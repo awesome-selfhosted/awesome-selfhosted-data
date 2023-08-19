@@ -1,7 +1,6 @@
 name: Ganymede
 website_url: https://github.com/Zibbp/ganymede
-description: Twitch VOD and Live Stream archiving platform. Includes a rendered chat
-  for each archive.
+description: Twitch VOD and Live Stream archiving platform. Includes a rendered chat for each archive.
 licenses:
   - GPL-3.0
 platforms:

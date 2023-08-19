@@ -1,7 +1,6 @@
 name: Umbrel
 website_url: https://umbrel.com/
-description: A beautiful personal server OS for self-hosting. Install on a Raspberry
-  Pi 4 or Ubuntu/Debian.
+description: A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/getumbrel/umbrel
-stargazers_count: 4774
+stargazers_count: 4785
 updated_at: '2023-08-09'
 archived: false

@@ -1,8 +1,6 @@
 name: UberGallery
 website_url: https://www.ubergallery.net
-description: UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery
-  does not require a database and supports JPEG, GIF and PNG file types. Simply upload
-  your images and UberGallery will automatically generate thumbnails and output HTML.
+description: UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML.
 licenses:
   - MIT
 platforms:

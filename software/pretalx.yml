@@ -1,7 +1,6 @@
 name: pretalx
 website_url: https://pretalx.org
-description: Web-based event management, including running a Call for Papers, reviewing
-  submissions, and scheduling talks. Exports and imports for various related tools.
+description: Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools.
 licenses:
   - Apache-2.0
 platforms:

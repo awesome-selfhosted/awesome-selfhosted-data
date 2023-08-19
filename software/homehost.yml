@@ -1,7 +1,6 @@
 name: homehost
 website_url: https://github.com/ridhwaans/homehost
-description: Self-hosted React + Redux app that streams your media collection (music,
-  movies, books, podcasts, comics etc).
+description: Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc).
 licenses:
   - MIT
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/ridhwaans/homehost
 depends_3rdparty: true
-stargazers_count: 976
+stargazers_count: 977
 updated_at: '2023-03-05'
 archived: false

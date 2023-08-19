@@ -1,7 +1,6 @@
 name: CUPS
 website_url: https://www.cups.org/
-description: The Common Unix Print System uses Internet Printing Protocol (IPP) to
-  support printing to local and network printers.
+description: The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers.
 licenses:
   - GPL-2.0
 platforms:

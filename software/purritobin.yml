@@ -1,7 +1,6 @@
 name: PurritoBin
 website_url: https://github.com/PurritoBin/PurritoBin
-description: Ultra fast, minimalistic, encrypted command line paste-bin, where the
-  server has no knowledge of the paste data.
+description: Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data.
 licenses:
   - ISC
 platforms:

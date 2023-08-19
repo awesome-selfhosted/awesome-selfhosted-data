@@ -1,7 +1,6 @@
 name: ARRCON
 website_url: https://github.com/radj307/ARRCON
-description: Terminal-based RCON client compatible with any game servers using the
-  Source RCON Protocol.
+description: Terminal-based RCON client compatible with any game servers using the Source RCON Protocol.
 licenses:
   - GPL-3.0
 platforms:

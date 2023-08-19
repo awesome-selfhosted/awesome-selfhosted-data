@@ -1,7 +1,6 @@
 name: Shaarli
 website_url: https://github.com/shaarli/Shaarli
-description: Personal, minimalist, super-fast, no-database bookmarking and link sharing
-  platform.
+description: Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.
 licenses:
   - Zlib
 platforms:
@@ -11,5 +10,5 @@ tags:
 source_code_url: https://github.com/shaarli/Shaarli
 demo_url: https://demo.shaarli.org
 stargazers_count: 3047
-updated_at: '2023-08-01'
+updated_at: '2023-08-19'
 archived: false

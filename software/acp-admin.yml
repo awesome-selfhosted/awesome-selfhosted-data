@@ -1,7 +1,6 @@
 name: ACP Admin
 website_url: https://acp-admin.ch/
-description: CSA administration. Manage members, subscriptions, deliveries, drop-off
-  locations, member participation, invoices and emails.
+description: CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails.
 licenses:
   - MIT
 platforms:

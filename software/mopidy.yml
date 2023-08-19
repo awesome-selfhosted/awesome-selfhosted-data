@@ -1,7 +1,6 @@
 name: Mopidy
 website_url: https://docs.mopidy.com/
-description: Extensible music server. Offers a superset of the mpd API, as well as
-  integration with 3rd party services like Spotify, SoundCloud etc.
+description: Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.
 licenses:
   - Apache-2.0
 platforms:

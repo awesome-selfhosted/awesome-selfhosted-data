@@ -1,7 +1,6 @@
 name: Kimai
 website_url: https://www.kimai.org/
-description: Kimai is a free & open source timetracker. It tracks work time and prints
-  out a summary of your activities on demand.
+description: Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand.
 licenses:
   - MIT
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Time Tracking
 source_code_url: https://github.com/kimai/kimai
 demo_url: https://www.kimai.org/demo/
-stargazers_count: 2350
+stargazers_count: 2351
 updated_at: '2023-08-17'
 archived: false

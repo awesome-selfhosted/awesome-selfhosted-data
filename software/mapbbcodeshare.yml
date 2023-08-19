@@ -1,7 +1,6 @@
 name: MapBBCodeShare
 website_url: https://github.com/MapBBCode/share.mapbbcode.org
-description: Tool for sharing custom OSM maps. Support for annotated markers, polygons,
-  lines, multi-format import/export, multiple layers, shortlinks.
+description: Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks.
 licenses:
   - WTFPL
 platforms:

@@ -1,7 +1,6 @@
 name: Selenoid
 website_url: https://aerokube.com/selenoid/latest/
-description: Lightweight Selenium hub implementation launching browsers within Docker
-  containers.
+description: Lightweight Selenium hub implementation launching browsers within Docker containers.
 licenses:
   - Apache-2.0
 platforms:

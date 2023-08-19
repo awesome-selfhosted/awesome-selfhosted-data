@@ -1,8 +1,6 @@
 name: Audiobookshelf
 website_url: https://www.audiobookshelf.org/
-description: Fully open-source self-hosted audiobook and podcast server. It streams
-  all audio formats, keeps and syncs progress across devices. Comes with open-source
-  apps for Android and iOS.
+description: Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS.
 licenses:
   - GPL-3.0
 platforms:
@@ -12,6 +10,6 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/advplyr/audiobookshelf
 related_software_url: https://github.com/advplyr/audiobookshelf-app
-stargazers_count: 3278
+stargazers_count: 3280
 updated_at: '2023-08-18'
 archived: false

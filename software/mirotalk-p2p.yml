@@ -1,7 +1,6 @@
 name: MiroTalk P2P
 website_url: https://p2p.mirotalk.com
-description: Simple, secure, fast real-time video conferences up to 4k and 60fps,
-  compatible with all browsers and platforms.
+description: Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms.
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,6 +10,6 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/miroslavpejic85/mirotalk
 demo_url: https://p2p.mirotalk.com/newcall
-stargazers_count: 1956
+stargazers_count: 1957
 updated_at: '2023-08-14'
 archived: false

@@ -1,7 +1,6 @@
 name: reciphpes!
 website_url: https://github.com/nanawel/reciphpes
-description: A lightweight, Symfony-based recipes indexing software supporting search
-  and tags, using a SQLite database.
+description: A lightweight, Symfony-based recipes indexing software supporting search and tags, using a SQLite database.
 licenses:
   - MIT
 platforms:

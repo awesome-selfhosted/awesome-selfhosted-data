@@ -1,8 +1,6 @@
 name: Livebook
 website_url: https://livebook.dev
-description: Realtime collaborative notebook app based on Markdown that supports running
-  Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or
-  Elixir.
+description: Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,6 +8,6 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/livebook-dev/livebook
-stargazers_count: 3770
+stargazers_count: 3771
 updated_at: '2023-08-18'
 archived: false

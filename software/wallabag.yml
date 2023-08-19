@@ -1,7 +1,6 @@
 name: Wallabag
 website_url: https://www.wallabag.org
-description: Wallabag, formerly Poche, is a web application allowing you to save articles
-  to read them later with improved readability.
+description: Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability.
 licenses:
   - MIT
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/wallabag/wallabag
-stargazers_count: 8754
+stargazers_count: 8755
 updated_at: '2023-08-14'
 archived: false

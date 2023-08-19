@@ -1,8 +1,6 @@
 name: RERO ILS
 website_url: https://rero21.ch/
-description: Large-scale ILS that can be run as a service with consortial features,
-  intended primarily for library networks. Includes most standard modules (circulation,
-  acquisitions, cataloging,...) and a web-based public and professional interface.
+description: Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface.
 licenses:
   - AGPL-3.0
 platforms:

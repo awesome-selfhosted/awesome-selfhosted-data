@@ -1,7 +1,6 @@
 name: Nginx Proxy Manager
 website_url: https://nginxproxymanager.com/
-description: Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts
-  with SSL termination.
+description: Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination.
 licenses:
   - MIT
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/NginxProxyManager/nginx-proxy-manager
-stargazers_count: 14887
+stargazers_count: 14897
 updated_at: '2023-07-30'
 archived: false

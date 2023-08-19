@@ -1,7 +1,6 @@
 name: Metabase
 website_url: https://metabase.com/
-description: Easy, open-source way for everyone in your company to ask questions and
-  learn from data.
+description: Easy, open-source way for everyone in your company to ask questions and learn from data.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/metabase/metabase
-stargazers_count: 33749
-updated_at: '2023-08-18'
+stargazers_count: 33752
+updated_at: '2023-08-19'
 archived: false

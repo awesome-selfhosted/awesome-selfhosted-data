@@ -1,7 +1,6 @@
 name: LibrePhotos
 website_url: https://github.com/LibrePhotos/librephotos
-description: Self hosted wannabe Google Photos clone, with a slight focus on cool
-  graphs.
+description: Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.
 licenses:
   - MIT
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 5798
+stargazers_count: 5800
 updated_at: '2023-08-18'
 archived: false

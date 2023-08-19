@@ -1,7 +1,6 @@
 name: Tinode
 website_url: https://github.com/tinode
-description: 'Instant messaging platform. Backend in Go. Clients: Swift iOS, Java
-  Android, JS webapp, scriptable command line; chatbots.'
+description: 'Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots.'
 licenses:
   - GPL-3.0
 platforms:

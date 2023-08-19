@@ -1,7 +1,6 @@
 name: Pastr
 website_url: https://github.com/hossainalhaidari/pastr
-description: Super-minimal URL shortener and paste tool that uses a flat-file storage
-  and has no dependencies.
+description: Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies.
 licenses:
   - MIT
 platforms:

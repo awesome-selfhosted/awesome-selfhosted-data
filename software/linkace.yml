@@ -1,8 +1,6 @@
 name: LinkAce
 website_url: https://www.linkace.org/
-description: A bookmark archive with automatic backups to the Internet Archive, link
-  monitoring, and a full REST API. Installation is done via Docker, or as a simple
-  PHP application.
+description: A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application.
 licenses:
   - GPL-3.0
 platforms:
@@ -12,6 +10,6 @@ tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/Kovah/LinkAce/
 demo_url: https://demo.linkace.org/guest/links
-stargazers_count: 2097
+stargazers_count: 2098
 updated_at: '2023-07-20'
 archived: false

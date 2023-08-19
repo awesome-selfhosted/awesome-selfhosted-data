@@ -1,7 +1,6 @@
 name: RSS2EMail
 website_url: https://github.com/rss2email/rss2email
-description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver,
-  supports OPML.
+description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML.
 licenses:
   - GPL-2.0
 platforms:

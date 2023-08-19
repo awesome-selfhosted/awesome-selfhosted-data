@@ -1,8 +1,6 @@
 name: Audioserve
 website_url: https://github.com/izderadicka/audioserve
-description: Simple personal server to serve audio files from directories (audiobooks,
-  music, podcasts...). Focused on simplicity and supports sync of play position between
-  clients.
+description: Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients.
 licenses:
   - MIT
 platforms:

@@ -1,7 +1,6 @@
 name: Bencher
 website_url: https://bencher.dev/
-description: Bencher is a suite of continuous benchmarking tools designed to catch
-  performance regressions in CI.
+description: Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI.
 licenses:
   - MIT
   - Apache-2.0

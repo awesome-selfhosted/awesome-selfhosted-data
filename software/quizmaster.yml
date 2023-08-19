@@ -1,7 +1,6 @@
 name: Quizmaster
 website_url: https://github.com/nymanjens/quizmaster
-description: A web-app for conducting a quiz, including a page for players to enter
-  their answers.
+description: A web-app for conducting a quiz, including a page for players to enter their answers.
 licenses:
   - Apache-2.0
 platforms:

@@ -1,7 +1,6 @@
 name: Stirling-PDF
 website_url: https://github.com/Frooodle/Stirling-PDF
-description: Local hosted web application that allows you to perform various operations
-  on PDF files, such as merging, splitting, file conversions and OCR.
+description: Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/Frooodle/Stirling-PDF
-stargazers_count: 1424
-updated_at: '2023-08-17'
+stargazers_count: 1444
+updated_at: '2023-08-19'
 archived: false

@@ -1,8 +1,6 @@
 name: vod2pod-rss
 website_url: https://github.com/madiele/vod2pod-rss
-description: Convert YouTube and Twitch channels to podcasts, no storage required.
-  Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast
-  clients.
+description: Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients.
 licenses:
   - MIT
 platforms:

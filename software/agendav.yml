@@ -1,7 +1,6 @@
 name: AgenDAV
 website_url: https://agendav.github.io/agendav/
-description: Multilanguage CalDAV web client with a rich AJAX interface and shared
-  calendars support.
+description: Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Calendar & Contacts - CalDAV or CardDAV Web-based Clients
 source_code_url: https://github.com/agendav/agendav
-stargazers_count: 583
+stargazers_count: 584
 updated_at: '2022-11-10'
 archived: false

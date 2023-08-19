@@ -1,7 +1,6 @@
 name: ownCloud
 website_url: https://owncloud.org/
-description: All-in-one solution for saving, synchronizing, viewing, editing and sharing
-  files, calendars, address books and more.
+description: All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more.
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,5 +10,5 @@ tags:
 source_code_url: https://github.com/owncloud/core
 related_software_url: https://github.com/owncloud/core/wiki/Apps
 stargazers_count: 8097
-updated_at: '2023-08-18'
+updated_at: '2023-08-19'
 archived: false

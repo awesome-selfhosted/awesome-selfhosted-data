@@ -1,7 +1,6 @@
 name: wger
 website_url: https://wger.de/
-description: Web-based personal workout, fitness and weight logger/tracker. It can
-  also be used as a simple gym management utility and offers a full REST API as well.
+description: Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +9,6 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/wger-project/wger
 demo_url: https://wger.de/en/dashboard
-stargazers_count: 2403
+stargazers_count: 2404
 updated_at: '2023-08-11'
 archived: false

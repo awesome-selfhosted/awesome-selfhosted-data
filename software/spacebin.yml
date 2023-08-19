@@ -1,7 +1,6 @@
 name: Spacebin
 website_url: https://spaceb.in/
-description: Text-sharing for the final frontier — Reliable Pastebin server in Golang
-  and Fiber.
+description: Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber.
 licenses:
   - Apache-2.0
 platforms:

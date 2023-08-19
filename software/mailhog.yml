@@ -1,7 +1,6 @@
 name: MailHog
 website_url: https://github.com/mailhog/MailHog
-description: Small Golang executable which runs an SMTP MTA gateway that accepts all
-  mail and displays in web interface. Useful for debugging or development.
+description: Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
 licenses:
   - MIT
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://github.com/mailhog/MailHog
-stargazers_count: 12426
+stargazers_count: 12427
 updated_at: '2022-08-02'
 archived: false

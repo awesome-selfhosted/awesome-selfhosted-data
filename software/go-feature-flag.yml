@@ -1,7 +1,6 @@
 name: GO Feature Flag
 website_url: https://gofeatureflag.org
-description: Simple, complete, and lightweight feature flag solution. Alternative
-  to LaunchDarkly.
+description: Simple, complete, and lightweight feature flag solution. Alternative to LaunchDarkly.
 licenses:
   - MIT
 platforms:

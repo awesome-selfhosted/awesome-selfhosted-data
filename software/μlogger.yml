@@ -1,7 +1,6 @@
 name: μlogger
 website_url: https://github.com/bfabiszewski/ulogger-server
-description: Collect geolocation from users in real-time and display their GPS tracks
-  on a website.
+description: Collect geolocation from users in real-time and display their GPS tracks on a website.
 licenses:
   - GPL-3.0
 platforms:

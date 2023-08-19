@@ -1,7 +1,6 @@
 name: OTS
 website_url: https://ots.fyi/
-description: One-Time-Secret sharing platform with a symmetric 256bit AES encryption
-  in the browser.
+description: One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser.
 licenses:
   - Apache-2.0
 platforms:

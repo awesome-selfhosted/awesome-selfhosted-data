@@ -1,8 +1,6 @@
 name: FlowForge
 website_url: https://flowforge.com/
-description: FlowForge allows companies to deploy Node-RED applications in a reliable,
-  scalable and secure manner. The FlowForge platform provides DevOps capabilities
-  for Node-RED development teams.
+description: FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams.
 licenses:
   - Apache-2.0
 platforms:

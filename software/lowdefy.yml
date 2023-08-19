@@ -1,8 +1,6 @@
 name: Lowdefy
 website_url: https://www.lowdefy.com/
-description: Build internal tools, BI dashboards, admin panels, CRUD apps and workflows
-  in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to
-  your data sources, host via Serverless, Netlify or Docker.
+description: Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,6 +8,6 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/lowdefy/lowdefy
-stargazers_count: 2339
+stargazers_count: 2340
 updated_at: '2023-08-15'
 archived: false

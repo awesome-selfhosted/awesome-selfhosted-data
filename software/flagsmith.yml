@@ -1,7 +1,6 @@
 name: Flagsmith
 website_url: https://flagsmith.com
-description: Flagsmith provides a dashboard, API and SDKs for adding Feature Flags
-  to your applications. Alternative to LaunchDarkly.
+description: Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications. Alternative to LaunchDarkly.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/flagsmith/flagsmith
-stargazers_count: 2619
+stargazers_count: 2621
 updated_at: '2023-08-18'
 archived: false

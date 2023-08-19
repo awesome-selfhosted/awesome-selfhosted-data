@@ -1,8 +1,6 @@
 name: Domoticz
 website_url: https://www.domoticz.com/
-description: 'Home Automation System that lets you monitor and configure various devices
-  like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV,
-  Electra, Gas, Water and much more.'
+description: 'Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.'
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,6 @@
 name: Trilium Notes
 website_url: https://github.com/zadam/trilium
-description: Trilium Notes is a hierarchical note taking application with focus on
-  building large personal knowledge bases.
+description: Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/zadam/trilium
-stargazers_count: 22375
+stargazers_count: 22379
 updated_at: '2023-08-18'
 archived: false

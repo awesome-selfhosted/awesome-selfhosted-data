@@ -1,7 +1,6 @@
 name: SFTPGo
 website_url: https://github.com/drakkan/sftpgo
-description: Flexible, fully featured and highly configurable SFTP server with optional
-  FTP/S and WebDAV support.
+description: Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/drakkan/sftpgo
-stargazers_count: 6649
+stargazers_count: 6650
 updated_at: '2023-08-14'
 archived: false

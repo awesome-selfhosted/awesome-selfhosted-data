@@ -1,7 +1,6 @@
 name: NeonLink
 website_url: https://github.com/AlexSciFier/neonlink
-description: Self-hosted bookmark service with unique design and simple installation
-  with Docker.
+description: Self-hosted bookmark service with unique design and simple installation with Docker.
 licenses:
   - MIT
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/AlexSciFier/neonlink
-stargazers_count: 125
+stargazers_count: 129
 updated_at: '2023-08-16'
 archived: false

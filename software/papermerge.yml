@@ -1,8 +1,6 @@
 name: Papermerge
 website_url: https://papermerge.com
-description: Open Source Document Management System focused on scanned documents (electronic
-  archives). Features file browsing in similar way to dropbox/google drive. OCR, full
-  text search, text overlay/selection.
+description: Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection.
 licenses:
   - Apache-2.0
 platforms:

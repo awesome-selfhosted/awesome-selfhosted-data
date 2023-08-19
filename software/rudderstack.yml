@@ -1,8 +1,6 @@
 name: RudderStack
 website_url: https://rudderstack.com/
-description: Collect, unify, transform, and store your customer data, and route it
-  to a wide range of common, popular marketing, sales, and product tools. alternative
-  to Segment.
+description: Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools. alternative to Segment.
 licenses:
   - AGPL-3.0
 platforms:
@@ -14,5 +12,5 @@ tags:
   - Analytics
 source_code_url: https://github.com/rudderlabs/rudder-server/
 stargazers_count: 3669
-updated_at: '2023-08-18'
+updated_at: '2023-08-19'
 archived: false

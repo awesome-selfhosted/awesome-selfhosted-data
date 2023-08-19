@@ -1,7 +1,6 @@
 name: Coolify
 website_url: https://coolify.io/
-description: An open-source & self-hostable Heroku / Netlify alternative (and even
-  more).
+description: An open-source & self-hostable Heroku / Netlify alternative (and even more).
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/coollabsio/coolify
-stargazers_count: 8696
+stargazers_count: 8699
 updated_at: '2023-08-17'
 archived: false

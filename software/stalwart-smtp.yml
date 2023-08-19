@@ -1,7 +1,6 @@
 name: Stalwart SMTP
 website_url: https://stalw.art/smtp
-description: Modern SMTP server designed with a focus on security, speed, and extensive
-  configurability.
+description: Modern SMTP server designed with a focus on security, speed, and extensive configurability.
 licenses:
   - AGPL-3.0
 platforms:

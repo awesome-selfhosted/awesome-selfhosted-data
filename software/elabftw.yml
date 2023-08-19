@@ -1,8 +1,6 @@
 name: eLabFTW
 website_url: https://www.elabftw.net
-description: Online lab notebook for research labs. Store experiments, use a database
-  to find reagents or protocols, use trusted timestamping to legally timestamp an
-  experiment, export as pdf or zip archive, share with collaborators….
+description: Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….
 licenses:
   - AGPL-3.0
 platforms:

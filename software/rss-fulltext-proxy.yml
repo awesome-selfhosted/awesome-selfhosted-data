@@ -1,7 +1,6 @@
 name: RSS Fulltext Proxy
 website_url: https://github.com/Kombustor/rss-fulltext-proxy
-description: Mirrors RSS feeds to return the full content of the items, extracted
-  from the website.
+description: Mirrors RSS feeds to return the full content of the items, extracted from the website.
 licenses:
   - MIT
 platforms:

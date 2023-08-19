@@ -1,7 +1,6 @@
 name: piqueserver
 website_url: https://github.com/piqueserver/piqueserver
-description: Server for openspades, the first-person shooter in a destructible voxel
-  world.
+description: Server for openspades, the first-person shooter in a destructible voxel world.
 licenses:
   - GPL-3.0
 platforms:

@@ -1,7 +1,6 @@
 name: Homer
 website_url: https://github.com/bastienwirtz/homer
-description: A dead simple static homepage to expose your server services, with an
-  easy yaml configuration and connectivity check.
+description: A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/bastienwirtz/homer
-stargazers_count: 7505
+stargazers_count: 7522
 updated_at: '2023-08-06'
 archived: false

@@ -1,7 +1,6 @@
 name: filite
 website_url: https://github.com/raftario/filite
-description: A simple, light and standalone pastebin, URL shortener and file-sharing
-  service.
+description: A simple, light and standalone pastebin, URL shortener and file-sharing service.
 licenses:
   - MIT
 platforms:

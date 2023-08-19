@@ -1,7 +1,6 @@
 name: LocalStack
 website_url: https://localstack.cloud/
-description: LocalStack is a fully functional local AWS cloud stack. This includes
-  Lambda for serverless computation.
+description: LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/localstack/localstack
-stargazers_count: 48094
+stargazers_count: 48100
 updated_at: '2023-08-18'
 archived: false

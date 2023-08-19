@@ -1,7 +1,6 @@
 name: Orange Forum
 website_url: https://www.goodoldweb.com/
-description: Orange Forum is an easy to deploy forum that has minimal dependencies
-  and uses very little javascript.
+description: Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/s-gv/orangeforum
-stargazers_count: 430
+stargazers_count: 432
 updated_at: '2023-03-07'
 archived: false

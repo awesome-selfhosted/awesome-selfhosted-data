@@ -1,7 +1,6 @@
 name: BluetoothCommunicatorExample
 website_url: https://github.com/niedev/BluetoothCommunicatorExample
-description: Bluetooth LE chat app to communicate between android devices with P2P
-  architecture.
+description: Bluetooth LE chat app to communicate between android devices with P2P architecture.
 licenses:
   - Apache-2.0
 platforms:

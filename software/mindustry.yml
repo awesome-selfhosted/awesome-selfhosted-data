@@ -1,7 +1,6 @@
 name: Mindustry
 website_url: https://mindustrygame.github.io/
-description: Factorio-like tower defense game. Build production chains to gather more
-  resources, and build complex facilities.
+description: Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/Anuken/Mindustry
-stargazers_count: 18715
-updated_at: '2023-08-18'
+stargazers_count: 18721
+updated_at: '2023-08-19'
 archived: false

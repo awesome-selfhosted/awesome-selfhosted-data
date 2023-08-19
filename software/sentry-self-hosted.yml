@@ -1,7 +1,6 @@
 name: Sentry Self-Hosted
 website_url: https://github.com/getsentry/self-hosted
-description: Powerful error tracking platform with wide language support and a robust
-  API.
+description: Powerful error tracking platform with wide language support and a robust API.
 licenses:
   - BUSL-1.1
 platforms:
@@ -10,6 +9,6 @@ platforms:
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/getsentry/sentry
-stargazers_count: 34911
-updated_at: '2023-08-18'
+stargazers_count: 34913
+updated_at: '2023-08-19'
 archived: false

@@ -1,7 +1,6 @@
 name: Bookwyrm
 website_url: https://joinbookwyrm.com/
-description: Social network for tracking your reading, talking about books, writing
-  reviews, and discovering what to read next.
+description: Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next.
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -9,6 +8,6 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/bookwyrm-social/bookwyrm
-stargazers_count: 1884
+stargazers_count: 1885
 updated_at: '2023-08-07'
 archived: false

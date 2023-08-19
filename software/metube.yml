@@ -1,7 +1,6 @@
 name: MeTube
 website_url: https://github.com/alexta69/metube
-description: Web GUI for youtube-dl, with playlist support. Allows downloading videos
-  from dozens of websites.
+description: Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,6 +10,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/alexta69/metube
-stargazers_count: 1972
+stargazers_count: 1974
 updated_at: '2023-08-13'
 archived: false

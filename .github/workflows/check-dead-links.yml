@@ -14,6 +14,7 @@ concurrency:
 
 jobs:
   check-dead-links:
+    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

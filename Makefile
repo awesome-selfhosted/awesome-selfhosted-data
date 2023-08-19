@@ -50,6 +50,7 @@ export_html:
 	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/LICENSE">CC-BY-SA 3.0</a> license. <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-html">Source code</a>, <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">raw data</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees awesome-selfhosted-html-preview/*
+	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-selfhosted/awesome-selfhosted-html. Raw data is available at https://github.com/awesome-selfhosted/awesome-selfhosted-data" >| html/html/robots.txt
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:

@@ -1,6 +1,6 @@
 name: Maloja
 website_url: https://github.com/krateng/maloja
-description: Self-hosted music scrobble database, alternative to Last.fm.
+description: Self-hosted music scrobble database (alternative to Last.fm).
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/krateng/maloja
 demo_url: https://maloja.krateng.ch/
-stargazers_count: 698
+stargazers_count: 699
 updated_at: '2023-08-13'
 archived: false

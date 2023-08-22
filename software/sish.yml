@@ -1,6 +1,6 @@
 name: sish
 website_url: https://github.com/antoniomika/sish
-description: Open source serveo/ngrok alternative providing HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH.
+description: HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative).
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/antoniomika/sish
-stargazers_count: 3512
+stargazers_count: 3513
 updated_at: '2022-12-20'
 archived: false

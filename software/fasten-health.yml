@@ -1,0 +1,15 @@
+name: Fasten Health
+website_url: https://github.com/fastenhealth/fasten-onprem/
+description: Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/fastenhealth/fasten-onprem/
+depends_3rdparty: true
+stargazers_count: 822
+updated_at: '2023-08-18'
+archived: false

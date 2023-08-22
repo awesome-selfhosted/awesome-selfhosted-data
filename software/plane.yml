@@ -1,6 +1,6 @@
 name: Plane
 website_url: https://plane.so
-description: Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+description: Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height).
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
-stargazers_count: 13933
-updated_at: '2023-08-21'
+stargazers_count: 13947
+updated_at: '2023-08-22'
 archived: false

@@ -1,6 +1,6 @@
 name: Planka
 website_url: https://planka.app/
-description: Open source Trello alternative.
+description: Realtime kanban board for workgroups (alternative to Trello).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/plankanban/planka
 demo_url: https://plankanban.github.io/planka/#/
-stargazers_count: 3080
-updated_at: '2023-07-31'
+stargazers_count: 3083
+updated_at: '2023-08-22'
 archived: false

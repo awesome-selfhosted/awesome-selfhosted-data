@@ -1,0 +1,10 @@
+name: Grai
+website_url: https://www.grai.io
+description: Automated integration testing. Uses data lineage to statically analyze the impact of a data change across your entire data stack.
+licenses:
+  - Elastic-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Testing
+source_code_url: https://www.github.com/grai-io/grai-core

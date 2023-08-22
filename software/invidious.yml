@@ -1,6 +1,6 @@
 name: Invidious
 website_url: https://github.com/iv-org/invidious
-description: Invidious is an alternative front-end to YouTube.
+description: Alternative YouTube front-end.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ tags:
 source_code_url: https://github.com/iv-org/invidious
 demo_url: https://docs.invidious.io/instances/
 depends_3rdparty: true
-stargazers_count: 12387
+stargazers_count: 12392
 updated_at: '2023-08-07'
 archived: false

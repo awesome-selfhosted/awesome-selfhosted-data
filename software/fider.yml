@@ -1,6 +1,6 @@
 name: Fider
 website_url: https://fider.io
-description: Open source alternative to UserVoice for customer feedback.
+description: Open platform to collect and prioritize feedback (alternative to UserVoice).
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
-stargazers_count: 2371
+stargazers_count: 2373
 updated_at: '2023-07-16'
 archived: false

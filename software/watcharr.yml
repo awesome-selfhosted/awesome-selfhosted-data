@@ -5,7 +5,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Go
 tags:
   - Miscellaneous
 source_code_url: https://github.com/sbondCo/Watcharr

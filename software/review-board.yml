@@ -1,0 +1,14 @@
+name: "Review Board"
+website_url: "https://www.reviewboard.org/"
+source_code_url: "https://github.com/reviewboard/reviewboard"
+description: "Extensible and friendly code review tool for projects and companies of all sizes."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Deb
+  - Docker
+tags:
+  - Software Development - Project Management
+vei
+demo_url: "https://demo.reviewboard.org/"

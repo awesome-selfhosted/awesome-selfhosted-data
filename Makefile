@@ -13,7 +13,6 @@ install:
 .PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
 	git clone --depth=1 https://github.com/awesome-selfhosted/awesome-selfhosted
-	cp awesome-selfhosted/.github/.mailmap .mailmap
 	cp awesome-selfhosted/AUTHORS AUTHORS
 	rm -rf tags/ software/ platforms/
 	mkdir -p tags/ software/ platforms/

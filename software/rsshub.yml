@@ -1,0 +1,12 @@
+name: "RSSHub"
+website_url: "https://docs.rsshub.app"
+source_code_url: "https://github.com/DIYgod/RSSHub"
+description: "An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Feed Readers
+demo_url: "https://rsshub.app"

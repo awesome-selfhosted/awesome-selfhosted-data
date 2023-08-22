@@ -1,7 +1,7 @@
 # requirements: git bash make python3-pip python3-venv
 SHELL := /bin/bash
-MARKDOWN_REPOSITORY = nodiscc/awesome-selfhosted
-HTML_REPOSITORY = nodiscc/awesome-selfhosted-html-preview
+MARKDOWN_REPOSITORY = awesome-selfhosted/awesome-selfhosted
+HTML_REPOSITORY = awesome-selfhosted/awesome-selfhosted-html
 
 .PHONY: install # install build tools in a virtualenv
 install:
@@ -42,7 +42,7 @@ export_markdown:
 	source .venv/bin/activate && hecat --config .hecat/export-markdown.yml
 	cd awesome-selfhosted && git diff --color=always
 
-.PHONY: export_html # render HTML export from YAML data (https://nodiscc.github.io/awesome-selfhosted-html-preview/)
+.PHONY: export_html # render HTML export from YAML data (https://awesome-selfhosted.net/)
 export_html:
 	rm -rf awesome-selfhosted-html-preview/ html/
 	git clone https://github.com/$(HTML_REPOSITORY)

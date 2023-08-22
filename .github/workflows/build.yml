@@ -14,8 +14,8 @@ concurrency:
 # Generate deploy keys locally:
 # $ ssh-keygen -t rsa -f awesome-selfhosted-deploy-key -C awesome-selfhosted-deploy-key
 # $ ssh-keygen -t rsa -f awesome-selfhosted-html-deploy-key -C awesome-selfhosted-html-deploy-key
-# Paste the contents of awesome-selfhosted-deploy-key.pub to https://github.com/nodiscc/awesome-selfhosted/settings/keys/new, name: awesome-selfhosted-deploy-key, allow write access
-# Paste the contents of awesome-selfhosted-html-deploy-key.pub to https://github.com/nodiscc/awesome-selfhosted-html-preview/settings/keys/new, name: awesome-selfhosted-html-deploy-key
+# Paste the contents of awesome-selfhosted-deploy-key.pub to https://github.com/awesome-selfhosted/awesome-selfhosted/settings/keys/new, name: awesome-selfhosted-deploy-key, allow write access
+# Paste the contents of awesome-selfhosted-html-deploy-key.pub to https://github.com/awesome-selfhosted/awesome-selfhosted-html/settings/keys/new, name: awesome-selfhosted-html-deploy-key
 # Access https://github.com/awesome-selfhosted/awesome-selfhosted-data/settings/environments, create new environment with name: production
 #   - deployment branches: selected branches
 #   - add deployment branch rule: branch name pattern: master
@@ -26,7 +26,7 @@ jobs:
   build-markdown:
     environment:
       name: production
-      url: https://github.com/nodiscc/awesome-selfhosted
+      url: https://github.com/awesome-selfhosted/awesome-selfhosted
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -45,7 +45,7 @@ jobs:
   build-html:
     environment:
       name: production
-      url: https://github.com/nodiscc/awesome-selfhosted-html-preview
+      url: https://github.com/awesome-selfhosted/awesome-selfhosted-html
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

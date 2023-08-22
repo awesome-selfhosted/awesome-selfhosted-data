@@ -76,7 +76,7 @@ To do this from Github's web interface:
 
 ### Domain name costs
 
-You can help covering domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
+You can help cover domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
 
 ### Other

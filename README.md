@@ -1,6 +1,6 @@
 # awesome-selfhosted-data
 
-This repository holds data used to generate https://github.com/awesome-selfhosted/awesome-selfhosted
+This repository holds data used to generate https://awesome-selfhosted.net and https://github.com/awesome-selfhosted/awesome-selfhosted
 
 **Status: [experimental](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/11)** [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/build.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/build.yml) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/daily-update-metadata.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/daily-update-metadata.yml) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 

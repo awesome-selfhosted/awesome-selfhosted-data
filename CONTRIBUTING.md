@@ -87,7 +87,7 @@ import              import data from original list at https://github.com/awesome
 update_metadata     update metadata from project repositories/API
 awesome_lint        check data against awesome-selfhosted guidelines
 export_markdown     render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
-export_html         render HTML export from YAML data (https://nodiscc.github.io/awesome-selfhosted-html-preview/)
+export_html         render HTML export from YAML data (https://awesome-selfhosted.net)
 push_markdown       commit and push changes to the markdown repository
 push_html           commit and push changes to the HTML site repository (amend previous commit and force-push)
 url_check           check URLs for dead links or other connection problems

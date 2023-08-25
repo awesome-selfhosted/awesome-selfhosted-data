@@ -1,10 +1,10 @@
 name: Transmission
 website_url: https://transmissionbt.com/
-description: Fast, easy, Free Bittorrent client.
+description: Fast, easy, free Bittorrent client.
 licenses:
   - GPL-3.0
 platforms:
-  - C
+  - C++
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/transmission/transmission

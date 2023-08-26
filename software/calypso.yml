@@ -1,6 +1,6 @@
 name: calypso
 website_url: https://keithp.com/calypso/
-description: Python-based CalDAV and CardDAV server, forked from Radicale.
+description: Python-based CalDAV and CardDAV server (fork of Radicale).
 licenses:
   - GPL-3.0
 platforms:

@@ -1,6 +1,6 @@
 name: Metronome IM
 website_url: https://metronome.im/
-description: Fork of Prosody IM.
+description: Lightweight xmpp server with advanced microblogging features (fork of Prosody).
 licenses:
   - MIT
 platforms:

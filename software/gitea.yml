@@ -1,6 +1,6 @@
 name: Gitea
 website_url: https://gitea.io
-description: Community managed fork of Gogs, lightweight code hosting solution.
+description: Community managed, lightweight code hosting solution (fork of Gogs).
 licenses:
   - MIT
 platforms:

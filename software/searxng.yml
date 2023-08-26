@@ -1,6 +1,6 @@
 name: SearXNG
 website_url: https://docs.searxng.org/
-description: Internet metasearch engine which aggregates results from various search services and databases. (Fork of Searx).
+description: Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx).
 licenses:
   - AGPL-3.0
 platforms:

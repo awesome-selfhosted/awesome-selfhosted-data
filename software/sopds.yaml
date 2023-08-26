@@ -1,0 +1,11 @@
+name: "Simple OPDS"
+website_url: "http://www.sopds.ru"
+source_code_url: "https://github.com/mitshel/sopds"
+description: "A self-hosted, open source lightweight OPDS catalog."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Document Management - E-books
+

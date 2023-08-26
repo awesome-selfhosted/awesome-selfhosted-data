@@ -53,3 +53,4 @@ To ensure your issue is dealt with swiftly, please check the following (check th
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding was first released more than 4 months ago.
 - [ ] Any software project you are adding has working installation instructions.
+- [ ] If you are adding software forked from another active project, please provide/link to a clear list of differences between both.

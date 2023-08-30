@@ -1,11 +1,14 @@
-name: "Janus"
-website_url: "https://janus.conf.meetecho.com/"
-source_code_url: "https://github.com/meetecho/janus-gateway"
-description: "General-purpose, lightweight, minimalist WebRTC Server."
+name: Janus
+website_url: https://janus.conf.meetecho.com/
+source_code_url: https://github.com/meetecho/janus-gateway
+description: General-purpose, lightweight, minimalist WebRTC Server.
 licenses:
   - GPL-3.0
 platforms:
   - C
 tags:
   - Communication - Video Conferencing
-demo_url: "https://janus.conf.meetecho.com/demos.html"
+demo_url: https://janus.conf.meetecho.com/demos.html
+stargazers_count: 7336
+updated_at: '2023-08-29'
+archived: false

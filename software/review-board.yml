@@ -1,11 +1,14 @@
-name: "Review Board"
-website_url: "https://www.reviewboard.org/"
-source_code_url: "https://github.com/reviewboard/reviewboard"
-description: "Extensible and friendly code review tool for projects and companies of all sizes."
+name: Review Board
+website_url: https://www.reviewboard.org/
+source_code_url: https://github.com/reviewboard/reviewboard
+description: Extensible and friendly code review tool for projects and companies of all sizes.
 licenses:
   - MIT
 platforms:
   - Python
 tags:
   - Software Development - Project Management
-demo_url: "https://demo.reviewboard.org/"
+demo_url: https://demo.reviewboard.org/
+stargazers_count: 1500
+updated_at: '2023-08-30'
+archived: false

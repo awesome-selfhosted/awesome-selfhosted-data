@@ -1,11 +1,14 @@
-name: "Cerbos"
-website_url: "https://cerbos.dev"
-source_code_url: "https://github.com/cerbos/cerbos"
-description: "A self-hosted, open source user authorization layer for your applications."
+name: Cerbos
+website_url: https://cerbos.dev
+source_code_url: https://github.com/cerbos/cerbos
+description: A self-hosted, open source user authorization layer for your applications.
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
   - Miscellaneous
-demo_url: "https://play.cerbos.dev"
+demo_url: https://play.cerbos.dev
+stargazers_count: 1638
+updated_at: '2023-08-31'
+archived: false

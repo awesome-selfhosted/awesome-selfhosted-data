@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - C++
+  - deb
 tags:
   - Communication - IRC
 source_code_url: https://github.com/znc/znc

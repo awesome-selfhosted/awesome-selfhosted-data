@@ -5,6 +5,7 @@ licenses:
   - BSD-3-Clause
 platforms:
   - C++
+  - deb
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/mumble-voip/mumble

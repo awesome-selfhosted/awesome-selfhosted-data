@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - PHP
+  - deb
 tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/roundcube/roundcubemail

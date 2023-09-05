@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - Python
+  - deb
 tags:
   - Wikis
 source_code_url: https://github.com/zim-desktop-wiki/zim-desktop-wiki

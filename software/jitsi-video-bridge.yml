@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - deb
 tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/jitsi/jitsi-videobridge

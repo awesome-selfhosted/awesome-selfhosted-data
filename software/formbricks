@@ -1,0 +1,12 @@
+name: "Formbricks"
+website_url: "https://formbricks.com"
+source_code_url: "https://formbricks.com/github"
+description: "Open Source Form and Survey Builder. Run TypeForm like surveys and in app surveys. Alternative to Qualtrics, SurveyMonkey, Qualaroo, Hotjar, JotForm, Sprig, Refiner."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Polls and Events
+depends_3rdparty: no
+demo_url: "https://app.formbricks.com"

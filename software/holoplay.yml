@@ -1,0 +1,12 @@
+name: "HoloPlay"
+website_url: "https://app.holoplay.io"
+source_code_url: "https://github.com/stephane-r/holoplay-pwa"
+description: "Web app using Invidious API for listening Youtube audio source."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - React
+tags:
+  - Media Streaming - Audio Streaming
+depends_3rdparty: yes

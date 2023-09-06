@@ -5,8 +5,8 @@ description: "Web app using Invidious API for listening Youtube audio source."
 licenses:
   - MIT
 platforms:
+  - Nodejs
   - Docker
-  - React
 tags:
   - Media Streaming - Audio Streaming
 depends_3rdparty: yes

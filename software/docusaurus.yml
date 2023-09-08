@@ -1,0 +1,24 @@
+# software name
+name: "docusaurus"
+# URL of the software project's homepage
+website_url: "https://docusaurus.io/"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/facebook/docusaurus"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Docusaurus is a React-based static-site generator that creates interactive single-page applications, ideal for versatile websites like documentation, blogs, personal sites, products, and marketing pages."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Javascript
+  - Typescript
+  - React
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Wikis
+  - Static Site Generators
+# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: no
+# (optional) link to an interactive demo of the software
+demo_url: "https://docusaurus.io/docs/playground"

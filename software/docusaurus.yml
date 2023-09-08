@@ -7,7 +7,6 @@ licenses:
 platforms:
   - Nodejs
 tags:
-  - Wikis
   - Static Site Generators
 depends_3rdparty: no
 demo_url: "https://docusaurus.io/docs/playground"

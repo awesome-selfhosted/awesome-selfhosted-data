@@ -1,0 +1,14 @@
+name: "Puck"
+website_url: "https://github.com/measuredco/puck"
+source_code_url: "https://github.com/measuredco/puck"
+description: "The open source visual editor for React"
+licenses:
+  - MIT
+platforms:
+  - React
+  - Javascript
+  - Typescript
+tags:
+  - Content Management Systems (CMS)
+  - Software Development - Low Code
+demo_url: "https://puck-editor-demo.vercel.app/edit"

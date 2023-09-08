@@ -5,9 +5,7 @@ description: "Docusaurus is a React-based static-site generator that creates int
 licenses:
   - MIT
 platforms:
-  - Javascript
-  - Typescript
-  - React
+  - Nodejs
 tags:
   - Wikis
   - Static Site Generators

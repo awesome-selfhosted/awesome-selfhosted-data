@@ -1,0 +1,11 @@
+name: Gallery Deluxe
+description: 'Fast Hugo gallery theme/module suitable for lots of images. Create a static website and host it anywhere.'
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Photo and Video Galleries
+external_links:
+  - title: GitHub
+    url: https://github.com/bep/gallerydeluxe

@@ -1,0 +1,11 @@
+name: "Status"
+source_code_url: "https://github.com/dani3l0/Status"
+description: "Monitoring app for small homeservers running Linux"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Personal Dashboards
+demo_url: "https://status-ksk5.onrender.com/"

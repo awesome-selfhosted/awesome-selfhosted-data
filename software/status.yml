@@ -1,6 +1,7 @@
 name: "Status"
+website_url: "https://github.com/dani3l0/Status"
 source_code_url: "https://github.com/dani3l0/Status"
-description: "Monitoring app for small homeservers running Linux"
+description: "Monitoring app for small homeservers running Linux."
 licenses:
   - MIT
 platforms:

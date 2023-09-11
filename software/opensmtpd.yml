@@ -5,6 +5,7 @@ licenses:
   - ISC
 platforms:
   - C
+  - deb
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/

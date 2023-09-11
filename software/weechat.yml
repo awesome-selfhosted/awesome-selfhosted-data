@@ -6,6 +6,7 @@ licenses:
 platforms:
   - C
   - Docker
+  - deb
 tags:
   - Communication - IRC
 source_code_url: https://github.com/weechat/weechat

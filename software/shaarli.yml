@@ -5,6 +5,7 @@ licenses:
   - Zlib
 platforms:
   - PHP
+  - deb
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/shaarli/Shaarli

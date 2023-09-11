@@ -5,6 +5,7 @@ licenses:
   - ISC
 platforms:
   - C
+  - deb
 tags:
   - Proxy
 source_code_url: https://github.com/yarrick/iodine

@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - C#
+  - deb
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/jellyfin/jellyfin

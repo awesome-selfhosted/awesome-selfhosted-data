@@ -5,6 +5,8 @@ licenses:
   - MPL-2.0
 platforms:
   - Go
+  - Docker
+  - deb
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/syncthing/syncthing

@@ -4,6 +4,7 @@ description: Quick and simple file sharing between different devices.
 licenses:
   - LGPL-3.0
 platforms:
+  - Docker
   - Go
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload

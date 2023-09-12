@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/Athou/commafeed

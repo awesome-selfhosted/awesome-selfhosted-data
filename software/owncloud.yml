@@ -5,6 +5,8 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
+  - deb
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/owncloud/core

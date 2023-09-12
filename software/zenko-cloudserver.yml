@@ -4,6 +4,7 @@ description: Zenko CloudServer, an open-source implementation of a server handli
 licenses:
   - Apache-2.0
 platforms:
+  - Docker
   - Nodejs
 tags:
   - File Transfer - Object Storage & File Servers

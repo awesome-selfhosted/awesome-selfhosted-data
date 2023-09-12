@@ -5,6 +5,7 @@ licenses:
   - MPL-2.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/timvisee/send

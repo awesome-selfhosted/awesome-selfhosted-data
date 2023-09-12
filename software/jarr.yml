@@ -4,6 +4,7 @@ description: JARR (Just Another RSS Reader) is a web-based news aggregator and r
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Python
 tags:
   - Feed Readers

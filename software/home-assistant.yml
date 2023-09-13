@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/home-assistant/core

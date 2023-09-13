@@ -6,6 +6,8 @@ licenses:
 platforms:
   - C
   - C++
+  - Docker
+  - Bash
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/domoticz/domoticz

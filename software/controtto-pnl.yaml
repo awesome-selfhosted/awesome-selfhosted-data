@@ -12,32 +12,20 @@ Thanks for taking the time to suggest an addition to awesome-selfhosted!
 Please fill out information below (all fields are mandatory unless noted otherwise):
 
 ```yaml
-# software name
-name: "Controtto (P&L)"
-# URL of the software project's homepage
+name: "Controtto"
 website_url: "https://github.contre95/controtto"
-# URL where the full source code of the program can be downloaded
-source_code_url: "https://gitlab.com/contre95/controtto"
-# description of what the software does, shorter than 250 characters, sentence case
+source_code_url: "https://github.com/contre95/controtto"
 description: " A self-hosted, P&L tracker to keep tracks of your Stocks, Crypto or Forex trades. "
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - GPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Go
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Money, Budgeting & Management
   - Resource Planning
-# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: yes
-# (optional) link to an interactive demo of the software
 demo_url: "https://demo.contre.io"
-# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
-related_software_url: ""
-```
 
 To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
 - [x] Submit one item per pull issue. This eases reviewing and speeds up inclusion.

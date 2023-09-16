@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Docker
+  - deb
   - Nodejs
 tags:
   - Media Streaming - Audio Streaming

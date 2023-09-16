@@ -4,6 +4,8 @@ description: Access your self-hosted music using a web interface.
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
+  - deb
   - C++
 tags:
   - Media Streaming - Audio Streaming

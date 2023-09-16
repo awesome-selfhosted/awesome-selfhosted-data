@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Rust
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/agersant/polaris

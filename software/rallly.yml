@@ -1,13 +1,16 @@
 name: Rallly
 website_url: https://rallly.co
-description: Create polls to vote on dates and times (alternative to Doodle).
+description: Open-source Doodle alternative. Poll for availability and schedule group meetings.
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - Node.js
+  - Docker
 tags:
-  - Communication - Custom Communication Systems
-source_code_url: https://github.com/lukevella/Rallly
+  - Booking and Scheduling
+  - Polls and Events
+source_code_url: https://github.com/lukevella/rallly
+demo_url: https://app.rallly.co
 stargazers_count: 2398
-updated_at: '2023-09-16'
+updated_at: '2023-09-17'
 archived: false

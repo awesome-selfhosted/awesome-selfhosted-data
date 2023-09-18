@@ -4,7 +4,7 @@ description: Virtual hand-drawn style whiteboard. Collaborative and end-to-end e
 licenses:
   - MIT
 platforms:
-  - Typescript
+  - Nodejs
 tags:
   - Miscellaneous
 source_code_url: https://github.com/excalidraw/excalidraw

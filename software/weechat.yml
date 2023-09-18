@@ -6,9 +6,10 @@ licenses:
 platforms:
   - C
   - Docker
+  - deb
 tags:
   - Communication - IRC
 source_code_url: https://github.com/weechat/weechat
-stargazers_count: 2706
-updated_at: '2023-09-09'
+stargazers_count: 2705
+updated_at: '2023-09-16'
 archived: false

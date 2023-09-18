@@ -5,6 +5,7 @@ licenses:
   - IPL-1.0
 platforms:
   - C
+  - deb
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: http://www.postfix.org/

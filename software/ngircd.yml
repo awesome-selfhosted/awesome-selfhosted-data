@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Communication - IRC
 source_code_url: https://github.com/ngircd/ngircd
-stargazers_count: 380
-updated_at: '2023-08-03'
+stargazers_count: 382
+updated_at: '2023-09-03'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Proxy
 source_code_url: https://github.com/tinyproxy/tinyproxy
-stargazers_count: 4119
+stargazers_count: 4133
 updated_at: '2023-06-07'
 archived: false

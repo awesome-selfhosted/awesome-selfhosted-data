@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - deb
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/transmission/transmission
-stargazers_count: 10359
-updated_at: '2023-09-08'
+stargazers_count: 10401
+updated_at: '2023-09-16'
 archived: false

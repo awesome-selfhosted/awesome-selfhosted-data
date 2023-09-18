@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Proxy
 source_code_url: https://code.launchpad.net/squid

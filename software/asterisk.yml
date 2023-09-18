@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Communication - SIP
 source_code_url: https://github.com/asterisk/asterisk
-stargazers_count: 1610
-updated_at: '2023-09-05'
+stargazers_count: 1623
+updated_at: '2023-09-13'
 archived: false

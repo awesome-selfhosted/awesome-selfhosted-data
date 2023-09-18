@@ -5,6 +5,7 @@ licenses:
   - Sendmail
 platforms:
   - C
+  - deb
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://www.proofpoint.com/us/products/email-protection/open-source-email-solution

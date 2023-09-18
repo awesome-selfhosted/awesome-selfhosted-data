@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Communication - SIP
 source_code_url: https://github.com/kamailio/kamailio
-stargazers_count: 1947
-updated_at: '2023-09-09'
+stargazers_count: 1950
+updated_at: '2023-09-14'
 archived: false

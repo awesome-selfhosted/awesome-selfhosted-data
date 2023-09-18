@@ -6,9 +6,10 @@ licenses:
   - LGPL-2.1
 platforms:
   - C
+  - deb
 tags:
   - Communication - Email - Mail Delivery Agents
 source_code_url: https://github.com/dovecot/core
-stargazers_count: 819
+stargazers_count: 818
 updated_at: '2023-09-06'
 archived: false

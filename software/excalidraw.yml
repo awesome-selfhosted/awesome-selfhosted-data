@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/excalidraw/excalidraw

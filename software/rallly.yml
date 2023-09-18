@@ -4,7 +4,7 @@ description: Create polls to vote on dates and times (alternative to Doodle).
 licenses:
   - AGPL-3.0
 platforms:
-  - Node.js
+  - Nodejs
   - Docker
 tags:
   - Booking and Scheduling

@@ -5,9 +5,12 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
-  - Communication - Custom Communication Systems
-source_code_url: https://github.com/lukevella/Rallly
+  - Booking and Scheduling
+  - Polls and Events
+source_code_url: https://github.com/lukevella/rallly
+demo_url: https://app.rallly.co
 stargazers_count: 2401
 updated_at: '2023-09-17'
 archived: false

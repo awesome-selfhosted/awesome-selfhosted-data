@@ -1,0 +1,10 @@
+name: excalidraw
+website_url: https://excalidraw.com
+description: Virtual whiteboard for sketching hand-drawn like diagrams
+licenses:
+  - MIT
+platforms:
+  - Typescript
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/excalidraw/excalidraw

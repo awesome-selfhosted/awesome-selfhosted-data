@@ -39,6 +39,11 @@ related_tags:
 external_links:
   - title: awesome-sysadmin/Code Review
     url: https://github.com/awesome-foss/awesome-sysadmin#code-review
+# (optional) if this is set, no software items will be allowed to reference this tag, and the page will display a block asking to visit these links instead
+redirect:
+  - title: awesome-sysadmin/Continuous Integration & Continuous Deployment
+    url: https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment
+
 ```
 
 ### Add a license

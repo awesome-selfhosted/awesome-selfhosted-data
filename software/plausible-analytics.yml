@@ -2,7 +2,7 @@ name: Plausible Analytics
 website_url: https://plausible.io/
 description: Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Elixir
 tags:

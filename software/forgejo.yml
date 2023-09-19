@@ -10,7 +10,6 @@ platforms:
 tags:
   - Software Development - Project Management
   - Ticketing
-  - Software Development - Continuous Integration & Deployment
 depends_3rdparty: no
 demo_url: https://next.forgejo.org
 related_software_url: https://codeberg.org/forgejo-contrib/delightful-forgejo

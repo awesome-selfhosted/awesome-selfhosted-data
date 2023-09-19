@@ -4,6 +4,7 @@ description: Allows you to download videos and audio from any source supported b
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Ruby
 tags:
   - Media Streaming - Multimedia Streaming

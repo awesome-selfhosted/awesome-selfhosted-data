@@ -4,6 +4,7 @@ description: A web-based library organizer and player for your adult media stash
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Go
 tags:
   - Media Streaming - Multimedia Streaming

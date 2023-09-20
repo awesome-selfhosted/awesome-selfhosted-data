@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - Docker
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/AirenSoft/OvenMediaEngine

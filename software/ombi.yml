@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - C#
+  - deb
 tags:
   - Miscellaneous
 source_code_url: https://github.com/Ombi-app/Ombi

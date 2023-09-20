@@ -6,6 +6,9 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - deb
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 demo_url: https://play.cerbos.dev

@@ -5,6 +5,9 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - deb
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 source_code_url: https://github.com/nats-io/nats-server

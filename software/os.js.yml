@@ -5,6 +5,7 @@ licenses:
   - BSD-2-Clause
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/os-js/OS.js

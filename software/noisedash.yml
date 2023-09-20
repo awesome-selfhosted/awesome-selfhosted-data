@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/kaythomas0/noisedash

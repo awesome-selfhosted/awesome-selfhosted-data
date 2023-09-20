@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/Ardakilic/alerthub

@@ -6,6 +6,7 @@ licenses:
   - CC-BY-SA-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/HabitRPG/habitica

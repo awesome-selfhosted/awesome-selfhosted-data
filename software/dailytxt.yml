@@ -4,7 +4,7 @@ description: Encrypted Diary Web-App to save your personal memories of each day.
 licenses:
   - MIT
 platforms:
-  - Python
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/PhiTux/DailyTxT

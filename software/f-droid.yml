@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Python
   - Docker
+  - deb
 tags:
   - Miscellaneous
 source_code_url: https://gitlab.com/fdroid/fdroidserver

@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Ruby
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/inoda/journal

@@ -5,6 +5,8 @@ licenses:
   - AAL
 platforms:
   - PHP
+  - Docker
+  - K8S
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/invoiceninja/invoiceninja

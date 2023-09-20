@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/actualbudget/actual-server

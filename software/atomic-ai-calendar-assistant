@@ -1,15 +1,9 @@
-
 name: "Atomic - an AI calendar assistant"
-
 website_url: "https://atomiclife.app"
-
 source_code_url: "https://github.com/rush86999/atomic"
-
-description: "Atomic, allows flexible timeblocking with priority, flexible meetings and generating new breaks and reminders powered by ChatGPT. It runs on Autopilot and adjusted as needed. You can teach your time preferences and priority for recurring tasks and use automatted tagging to modify behavior as well."
-
+description: "Atomic, allows flexible timeblocking with priority, flexible meetings and generating new breaks and reminders powered by ChatGPT. It runs on Autopilot and is adjusted as needed. You can teach your time preferences and priority for recurring tasks and use automatted tagging to modify behavior as well."
 licenses:
   - AGPL-3.0
-
 platforms:
   - Kotlin
   - Python
@@ -17,13 +11,10 @@ platforms:
   - Docker
   - Typescript
   - Yaml
-
 tags:
   - Automation
   - Calendar & Contacts - CalDAV or CardDAV Servers
   - Booking & Scheduling
   - Task Management & To-do Lists
-
 depends_3rdparty: yes
-
 demo_url: "https://atomiclife.app"

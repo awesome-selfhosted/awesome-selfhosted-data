@@ -1,15 +1,15 @@
-# software name
+
 name: "Atomic - an AI calendar assistant"
-# URL of the software project's homepage
+
 website_url: "https://atomiclife.app"
-# URL where the full source code of the program can be downloaded
+
 source_code_url: "https://github.com/rush86999/atomic"
-# description of what the software does, shorter than 250 characters, sentence case
+
 description: "Atomic, allows flexible timeblocking with priority, flexible meetings and generating new breaks and reminders powered by ChatGPT. It runs on Autopilot and adjusted as needed. You can teach your time preferences and priority for recurring tasks and use automatted tagging to modify behavior as well."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+
 licenses:
   - AGPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+
 platforms:
   - Kotlin
   - Python
@@ -17,13 +17,13 @@ platforms:
   - Docker
   - Typescript
   - Yaml
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+
 tags:
   - Automation
   - Calendar & Contacts - CalDAV or CardDAV Servers
   - Booking & Scheduling
   - Task Management & To-do Lists
-# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
+
 depends_3rdparty: yes
-# (optional) link to an interactive demo of the software
+
 demo_url: "https://atomiclife.app"

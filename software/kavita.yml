@@ -4,7 +4,7 @@ description: Cross-platform e-book/manga/comic/pdf server and web reader with us
 licenses:
   - GPL-3.0
 platforms:
-  - .NET Core
+  - .NET
   - Docker
 tags:
   - Document Management - E-books

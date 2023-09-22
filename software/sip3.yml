@@ -4,7 +4,7 @@ description: VoIP troubleshooting and monitoring platform.
 licenses:
   - Apache-2.0
 platforms:
-  - Kotlin
+  - Java
 tags:
   - Communication - SIP
 source_code_url: https://github.com/sip3io/

@@ -4,8 +4,7 @@ description: Highly-scalable software for libraries that helps library patrons f
 licenses:
   - GPL-2.0
 platforms:
-  - PL
-  - pgSQL
+  - PLpgSQL
 tags:
   - Document Management - Integrated Library Systems (ILS)
 source_code_url: https://github.com/evergreen-library-system/Evergreen

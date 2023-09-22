@@ -4,7 +4,7 @@ description: A alternative front end to twitter.
 licenses:
   - AGPL-3.0
 platforms:
-  - Nimble
+  - Nim
   - Docker
 tags:
   - Communication - Social Networks and Forums

@@ -1,0 +1,11 @@
+name: Homebox
+website_url: https://hay-kot.github.io/homebox/
+description: Homebox is the inventory and organization system built for the home user.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Inventory Management
+source_code_url: https://github.com/hay-kot/homebox/
+demo_url: https://homebox.fly.dev/

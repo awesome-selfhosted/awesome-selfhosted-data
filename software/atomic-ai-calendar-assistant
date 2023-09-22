@@ -5,12 +5,7 @@ description: "Atomic, allows flexible timeblocking with priority, flexible meeti
 licenses:
   - AGPL-3.0
 platforms:
-  - Kotlin
-  - Python
-  - Nodejs
   - Docker
-  - Typescript
-  - Yaml
 tags:
   - Automation
   - Calendar & Contacts - CalDAV or CardDAV Servers

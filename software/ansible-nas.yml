@@ -4,7 +4,7 @@ description: Build a full-featured home server with this playbook and an Ubuntu 
 licenses:
   - MIT
 platforms:
-  - YAML
+  - Ansible
   - Docker
 tags:
   - Self-hosting Solutions

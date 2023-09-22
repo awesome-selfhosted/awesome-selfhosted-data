@@ -4,7 +4,6 @@ description: Your Debian-based data center in a box. A set of general-purpose An
 licenses:
   - GPL-3.0
 platforms:
-  - YAML
   - Ansible
   - Python
 tags:

@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Nodejs
   - Python
+  - Docker
 tags:
   - Office Suites
 source_code_url: https://github.com/gristlabs/grist-core

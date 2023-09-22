@@ -4,7 +4,7 @@ description: Homebox is the inventory and organization system built for the home
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
+  - Docker
 tags:
   - Inventory Management
 source_code_url: https://github.com/hay-kot/homebox/

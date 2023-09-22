@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - Go
 tags:
   - Inventory Management
 source_code_url: https://github.com/hay-kot/homebox/

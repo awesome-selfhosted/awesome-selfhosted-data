@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/fr0tt/benotes

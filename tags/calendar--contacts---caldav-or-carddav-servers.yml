@@ -1,5 +1,5 @@
-name: Calendar & Contacts - CalDAV or CardDAV Servers
-description: '[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers [Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software) and [address book](https://en.wikipedia.org/wiki/Address_book) and [contact management](https://en.wikipedia.org/wiki/Contact_manager).'
+name: Calendar & Contacts
+description: '[CalDAV](https://en.wikipedia.org/wiki/CalDAV) and [CardDAV](https://en.wikipedia.org/wiki/CardDAV) protocol servers and web clients/interfaces for [Electronic calendar](https://en.wikipedia.org/wiki/Calendaring_software), [address book](https://en.wikipedia.org/wiki/Address_book) and [contact management](https://en.wikipedia.org/wiki/Contact_manager).'
 external_links:
   - title: Comparison of CalDAV and CardDAV implementations - Wikipedia
     url: https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations

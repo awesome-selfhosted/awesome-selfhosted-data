@@ -4,8 +4,9 @@ description: Troubleshooting and monitoring VoIP calls.
 licenses:
   - AGPL-3.0
 platforms:
-  - Angular
-  - C
+  - Nodejs
+  - Go
+  - Docker
 tags:
   - Communication - SIP
 source_code_url: https://github.com/sipcapture/homer

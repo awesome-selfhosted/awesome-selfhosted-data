@@ -7,8 +7,7 @@ licenses:
 platforms:
   - Docker
 tags:
-  - Automation
-  - Calendar & Contacts - CalDAV or CardDAV Servers
+  - Calendar & Contacts
   - Booking & Scheduling
   - Task Management & To-do Lists
 depends_3rdparty: yes

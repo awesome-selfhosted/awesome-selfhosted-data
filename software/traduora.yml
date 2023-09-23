@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - K8S
   - Nodejs
 tags:
   - Software Development - Localization

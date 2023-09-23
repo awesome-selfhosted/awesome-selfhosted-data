@@ -4,11 +4,11 @@ description: Build a full-featured home server with this playbook and an Ubuntu 
 licenses:
   - MIT
 platforms:
-  - YAML
+  - Ansible
   - Docker
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/DaveStephens/ansible-nas
-stargazers_count: 2627
+stargazers_count: 2630
 updated_at: '2023-08-28'
 archived: false

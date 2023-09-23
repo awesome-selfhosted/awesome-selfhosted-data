@@ -35,7 +35,7 @@ platforms:
 # list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Automation
-  - Calendar & Contacts - CalDAV or CardDAV Servers
+  - Calendar & Contacts
   - Bookmarks and Link Sharing
   - Pastebins
 # (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control

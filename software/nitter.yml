@@ -4,12 +4,12 @@ description: A alternative front end to twitter.
 licenses:
   - AGPL-3.0
 platforms:
-  - Nimble
+  - Nim
   - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/zedeus/nitter
 depends_3rdparty: true
-stargazers_count: 8380
+stargazers_count: 8388
 updated_at: '2023-08-08'
 archived: false

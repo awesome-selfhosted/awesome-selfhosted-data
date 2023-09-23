@@ -4,12 +4,12 @@ description: Cross-platform e-book/manga/comic/pdf server and web reader with us
 licenses:
   - GPL-3.0
 platforms:
-  - .NET Core
+  - .NET
   - Docker
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/Kareadita/Kavita
 demo_url: https://wiki.kavitareader.com/en/kavita-demo
-stargazers_count: 3321
+stargazers_count: 3327
 updated_at: '2023-09-15'
 archived: false

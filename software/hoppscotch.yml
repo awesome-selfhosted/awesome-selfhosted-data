@@ -1,12 +1,11 @@
-name: Hoppscotch
+name: Hoppscotch Community Edition
 website_url: https://hoppscotch.io
 description: A free, fast and beautiful API request builder.
 licenses:
   - MIT
 platforms:
   - Nodejs
-  - Vue
-  - Nuxt
+  - Docker
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/hoppscotch/hoppscotch

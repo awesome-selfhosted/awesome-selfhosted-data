@@ -5,6 +5,8 @@ licenses:
   - GPL-2.0
 platforms:
   - Java
+  - Docker
+  - K8S
 tags:
   - Search Engines
 source_code_url: https://github.com/yacy/yacy_search_server

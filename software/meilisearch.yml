@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Rust
+  - Docker
+  - deb
 tags:
   - Search Engines
 source_code_url: https://github.com/meilisearch/MeiliSearch

@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - Docker
+  - deb
   - C++
 tags:
   - Search Engines

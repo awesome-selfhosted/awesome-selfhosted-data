@@ -4,6 +4,7 @@ description: Fast server-based photo management system for large collections of 
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - C#
   - .NET
 tags:

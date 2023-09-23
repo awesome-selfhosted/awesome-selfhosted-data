@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/LycheeOrg/Lychee

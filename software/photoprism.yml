@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/photoprism/photoprism

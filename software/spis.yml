@@ -4,6 +4,7 @@ description: A simple, lightweight and fast media server with decent mobile supp
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Rust
 tags:
   - Photo and Video Galleries

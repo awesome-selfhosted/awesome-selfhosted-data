@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Software Development - Project Management
 demo_url: https://demo.reviewboard.org/

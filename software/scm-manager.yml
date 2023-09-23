@@ -5,6 +5,9 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Java
+  - deb
+  - Docker
+  - K8S
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/scm-manager/scm-manager

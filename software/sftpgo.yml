@@ -5,6 +5,8 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
+  - deb
+  - Docker
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/drakkan/sftpgo

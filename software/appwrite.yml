@@ -4,7 +4,7 @@ description: End to end backend server for web, native, and mobile developers ðŸ
 licenses:
   - BSD-3-Clause
 platforms:
-  - PHP
+  - Docker
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/appwrite/appwrite

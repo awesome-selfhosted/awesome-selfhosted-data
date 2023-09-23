@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/ncarlier/readflow

@@ -4,6 +4,7 @@ description: A one-time encrypted zero-knowledge password/secret sharing applica
 licenses:
   - MIT
 platforms:
+  - Docker
   - PHP
 tags:
   - Pastebins

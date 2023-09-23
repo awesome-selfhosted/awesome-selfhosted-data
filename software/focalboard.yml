@@ -8,6 +8,7 @@ licenses:
 platforms:
   - Nodejs
   - Go
+  - Docker
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/mattermost/focalboard

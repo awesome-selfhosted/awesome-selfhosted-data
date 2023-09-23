@@ -5,6 +5,7 @@ licenses:
   - LGPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/raveberry/raveberry

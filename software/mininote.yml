@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/muety/mininote

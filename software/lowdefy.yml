@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/lowdefy/lowdefy

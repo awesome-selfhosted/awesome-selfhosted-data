@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Polls and Events
 source_code_url: https://github.com/fossasia/open-event-server

@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Elixir
+  - Docker
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/livebook-dev/livebook

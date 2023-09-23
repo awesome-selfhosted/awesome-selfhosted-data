@@ -4,6 +4,7 @@ description: Unison is a file-synchronization tool for OSX, Unix, and Windows.
 licenses:
   - GPL-3.0
 platforms:
+  - deb
   - OCaml
 tags:
   - File Transfer & Synchronization

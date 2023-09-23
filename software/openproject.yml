@@ -5,6 +5,8 @@ licenses:
   - GPL-3.0
 platforms:
   - Ruby
+  - deb
+  - Docker
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/opf/openproject

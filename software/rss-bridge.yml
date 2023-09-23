@@ -5,6 +5,7 @@ licenses:
   - Unlicense
 platforms:
   - PHP
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/RSS-Bridge/rss-bridge

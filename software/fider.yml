@@ -4,7 +4,7 @@ description: Open platform to collect and prioritize feedback (alternative to Us
 licenses:
   - MIT
 platforms:
-  - Go
+  - Docker
 tags:
   - Polls and Events
 source_code_url: https://github.com/getfider/fider

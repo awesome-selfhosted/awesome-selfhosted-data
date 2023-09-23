@@ -5,6 +5,9 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - deb
+  - K8S
+  - Docker
 tags:
   - Password Managers
 source_code_url: https://github.com/passbolt/passbolt_api

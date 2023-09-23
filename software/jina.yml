@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Search Engines
 source_code_url: https://github.com/jina-ai/jina/

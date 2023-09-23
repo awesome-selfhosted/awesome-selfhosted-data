@@ -5,6 +5,8 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - Docker
+  - K8S
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/WeblateOrg/weblate

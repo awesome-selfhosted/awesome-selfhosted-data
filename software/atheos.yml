@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/Atheos/Atheos

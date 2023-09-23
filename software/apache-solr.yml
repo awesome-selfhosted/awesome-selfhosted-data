@@ -5,6 +5,8 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 source_code_url: https://lucene.apache.org/solr/downloads.html

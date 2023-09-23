@@ -5,6 +5,8 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/Budibase/budibase

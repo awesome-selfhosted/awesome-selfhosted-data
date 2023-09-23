@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Rust
+  - Docker
 tags:
   - Office Suites
 source_code_url: https://github.com/ekzhang/rustpad

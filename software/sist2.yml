@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
 tags:
   - Search Engines
 source_code_url: https://github.com/simon987/sist2

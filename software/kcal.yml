@@ -5,6 +5,7 @@ licenses:
   - MPL-2.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Recipe Management
 source_code_url: https://github.com/kcal-app/kcal

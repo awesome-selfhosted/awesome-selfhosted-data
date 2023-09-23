@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Elixir
+  - Docker
 tags:
   - Polls and Events
 source_code_url: https://framagit.org/framasoft/mobilizon/

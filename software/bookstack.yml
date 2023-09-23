@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/BookStackApp/BookStack

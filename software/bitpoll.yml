@@ -4,6 +4,7 @@ description: A web application for scheduling meetings and general polling.
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Python
 tags:
   - Polls and Events

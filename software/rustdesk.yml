@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Rust
   - Docker
+  - deb
 tags:
   - Remote Access
 source_code_url: https://github.com/rustdesk/rustdesk-server

@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - deb
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/badaix/snapcast

@@ -1,10 +1,13 @@
 name: Kong
 website_url: https://konghq.com/kong/
-description: The World’s Most Popular Open Source Microservice API Gateway and Platform.
+description: The World's Most Popular Open Source Microservice API Gateway and Platform.
 licenses:
   - Apache-2.0
 platforms:
   - Lua
+  - Docker
+  - K8S
+  - deb
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/Kong/kong

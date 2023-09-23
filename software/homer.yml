@@ -4,7 +4,9 @@ description: A dead simple static homepage to expose your server services, with 
 licenses:
   - Apache-2.0
 platforms:
-  - HTML5
+  - Docker
+  - K8S
+  - Nodejs
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/bastienwirtz/homer

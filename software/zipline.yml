@@ -4,6 +4,7 @@ description: A lightweight, fast and reliable file sharing server that is common
 licenses:
   - MIT
 platforms:
+  - Docker
   - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload

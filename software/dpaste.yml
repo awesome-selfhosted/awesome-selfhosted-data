@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Django
 tags:
   - Pastebins
 source_code_url: https://github.com/DarrenOfficial/dpaste

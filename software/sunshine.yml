@@ -5,6 +5,8 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - deb
+  - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/LizardByte/Sunshine

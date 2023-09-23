@@ -5,6 +5,7 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Elixir
+  - Docker
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/mirego/accent

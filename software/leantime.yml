@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/leantime/leantime

@@ -6,6 +6,8 @@ licenses:
 platforms:
   - C
   - Lua
+  - deb
+  - Docker
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/owntracks/recorder

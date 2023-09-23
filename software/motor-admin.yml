@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Ruby
+  - Docker
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/motor-admin/motor-admin

@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Rust
   - Docker
+  - deb
 tags:
   - Status / Uptime pages
 source_code_url: https://github.com/valeriansaliou/vigil

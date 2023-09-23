@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Java
+  - Docker
+  - K8S
 tags:
   - Software Development - Project Management
 source_code_url: https://code.onedev.io/projects/160

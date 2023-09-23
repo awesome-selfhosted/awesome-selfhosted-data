@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/Linbreux/wikmd

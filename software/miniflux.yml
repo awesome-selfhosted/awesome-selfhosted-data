@@ -5,6 +5,8 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - deb
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/miniflux/v2

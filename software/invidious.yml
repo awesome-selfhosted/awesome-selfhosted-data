@@ -4,6 +4,7 @@ description: Alternative YouTube front-end.
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Crystal
 tags:
   - Media Streaming - Video Streaming

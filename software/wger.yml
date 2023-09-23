@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/wger-project/wger

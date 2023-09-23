@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Office Suites
 source_code_url: https://github.com/ether/etherpad-lite

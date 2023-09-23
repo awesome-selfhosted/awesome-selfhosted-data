@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Nodejs
 tags:
   - Miscellaneous
 source_code_url: https://github.com/Fallenbagel/jellyseerr

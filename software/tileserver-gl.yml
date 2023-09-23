@@ -5,6 +5,7 @@ licenses:
   - BSD-2-Clause
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/maptiler/tileserver-gl

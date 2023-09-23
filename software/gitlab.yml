@@ -5,6 +5,9 @@ licenses:
   - MIT
 platforms:
   - Ruby
+  - deb
+  - Docker
+  - K8S
 tags:
   - Software Development - Project Management
 source_code_url: https://gitlab.com/gitlab-org/gitlab-foss

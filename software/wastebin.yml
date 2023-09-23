@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Rust
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/matze/wastebin

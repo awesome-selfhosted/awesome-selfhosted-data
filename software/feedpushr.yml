@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/ncarlier/feedpushr

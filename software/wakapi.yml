@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/muety/wakapi

@@ -5,6 +5,8 @@ licenses:
   - Apache-2.0
 platforms:
   - PHP
+  - Docker
+  - K8S
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/dreamfactorysoftware/dreamfactory

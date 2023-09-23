@@ -4,6 +4,7 @@ description: Music streaming server built with Rails and Stimulus.
 licenses:
   - MIT
 platforms:
+  - Docker
   - Ruby
 tags:
   - Media Streaming - Audio Streaming

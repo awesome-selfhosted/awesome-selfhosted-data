@@ -5,6 +5,7 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Docker
+  - K8S
 tags:
   - Miscellaneous
 source_code_url: https://github.com/flagsmith/flagsmith

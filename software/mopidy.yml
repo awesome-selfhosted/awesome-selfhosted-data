@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - deb
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/mopidy/mopidy

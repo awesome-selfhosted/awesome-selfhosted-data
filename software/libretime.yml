@@ -4,6 +4,7 @@ description: Simple, open source platform that lets you broadcast streaming radi
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - PHP
 tags:
   - Media Streaming - Audio Streaming

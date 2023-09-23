@@ -4,6 +4,7 @@ description: An open-source geo-distributed storage service you can self-host to
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Rust
 tags:
   - File Transfer - Object Storage & File Servers

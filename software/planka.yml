@@ -5,6 +5,8 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/plankanban/planka

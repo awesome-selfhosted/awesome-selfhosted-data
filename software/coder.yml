@@ -5,6 +5,9 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
+  - Docker
+  - K8S
+  - deb
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/coder

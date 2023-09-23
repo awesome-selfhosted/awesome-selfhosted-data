@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - Docker
 tags:
   - Resource Planning - Enterprise Resource Planning
 source_code_url: https://github.com/frappe/erpnext

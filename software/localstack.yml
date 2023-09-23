@@ -5,7 +5,8 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
-  - Other
+  - Docker
+  - K8S
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/localstack/localstack

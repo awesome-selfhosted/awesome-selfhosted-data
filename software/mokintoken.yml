@@ -5,6 +5,7 @@ licenses:
   - Unlicense
 platforms:
   - PHP
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/nexus-uw/mokintoken

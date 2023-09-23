@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Rust
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/wantguns/bin

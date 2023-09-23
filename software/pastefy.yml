@@ -4,6 +4,8 @@ description: Beautiful, simple and easy to deploy Pastebin with optional Client-
 licenses:
   - MIT
 platforms:
+  - Docker
+  - K8S
   - Java
 tags:
   - Pastebins

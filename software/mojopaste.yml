@@ -5,6 +5,7 @@ licenses:
   - Artistic-2.0
 platforms:
   - Perl
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/jhthorsen/app-mojopaste

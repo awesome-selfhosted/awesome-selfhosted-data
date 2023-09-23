@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/Yureien/YABin

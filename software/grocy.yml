@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Resource Planning
 source_code_url: https://github.com/grocy/grocy

@@ -5,6 +5,7 @@ licenses:
   - GPL-2.0
 platforms:
   - PHP
+  - deb
 tags:
   - Calendar & Contacts
 source_code_url: https://gitlab.com/davical-project/davical

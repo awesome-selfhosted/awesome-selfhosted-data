@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/Kozea/Radicale

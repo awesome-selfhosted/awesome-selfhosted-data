@@ -8,6 +8,7 @@ licenses:
 platforms:
   - C++
   - C
+  - deb
 tags:
   - Games
 source_code_url: https://github.com/0ad/0ad

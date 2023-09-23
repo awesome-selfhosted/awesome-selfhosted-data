@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Python
 tags:
   - Polls and Events
 source_code_url: https://github.com/jhpyle/docassemble

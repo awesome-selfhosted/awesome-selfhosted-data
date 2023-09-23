@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Ruby
+  - Docker
 tags:
   - Polls and Events
 source_code_url: https://github.com/kellerben/dudle

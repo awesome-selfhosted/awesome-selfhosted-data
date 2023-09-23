@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Ruby
+  - deb
 tags:
   - Ticketing
 source_code_url: https://github.com/zammad/zammad

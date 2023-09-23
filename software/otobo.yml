@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Perl
+  - Docker
 tags:
   - Ticketing
 source_code_url: https://github.com/RotherOSS/otobo

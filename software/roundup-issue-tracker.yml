@@ -6,6 +6,7 @@ licenses:
   - ZPL-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Ticketing
 source_code_url: https://www.roundup-tracker.org/code.html

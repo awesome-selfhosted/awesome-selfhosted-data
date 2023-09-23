@@ -4,7 +4,8 @@ description: A self hosted personal home page that allows for multiple users, gu
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
+  - .NET
+  - Docker
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/revenz/fenrus

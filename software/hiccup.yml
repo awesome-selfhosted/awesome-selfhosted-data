@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - HTML5
+  - Docker
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/ashwin-pc/hiccup

@@ -5,6 +5,8 @@ licenses:
   - MPL-2.0
 platforms:
   - Go
+  - Docker
+  - K8S
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/TykTechnologies/tyk

@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/apioo/fusio

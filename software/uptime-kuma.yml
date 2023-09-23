@@ -4,6 +4,7 @@ description: Self-hosted website monitoring tool like "Uptime Robot".
 licenses:
   - MIT
 platforms:
+  - Docker
   - Nodejs
 tags:
   - Status / Uptime pages

@@ -5,6 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
+  - K8S
 tags:
   - Status / Uptime pages
 source_code_url: https://github.com/TwiN/gatus

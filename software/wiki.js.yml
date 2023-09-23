@@ -5,6 +5,8 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Wikis
 source_code_url: https://github.com/Requarks/wiki

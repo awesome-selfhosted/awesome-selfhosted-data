@@ -5,6 +5,8 @@ licenses:
   - LGPL-2.1
 platforms:
   - Java
+  - Docker
+  - deb
 tags:
   - Wikis
 source_code_url: https://github.com/xwiki/xwiki-platform

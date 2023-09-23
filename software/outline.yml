@@ -5,6 +5,7 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/outline/outline

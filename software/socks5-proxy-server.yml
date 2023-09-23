@@ -4,7 +4,7 @@ description: SOCKS5 proxy server with built-in authentication and Telegram-bot f
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
+  - Docker
 tags:
   - Proxy
 source_code_url: https://github.com/nskondratev/socks5-proxy-server

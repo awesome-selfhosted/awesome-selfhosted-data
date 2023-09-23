@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Proxy
 source_code_url: https://github.com/antoniomika/sish

@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Go
   - Docker
+  - K8S
 tags:
   - Proxy
 source_code_url: https://github.com/imgproxy/imgproxy

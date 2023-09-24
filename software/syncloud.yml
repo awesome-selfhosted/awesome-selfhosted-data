@@ -4,8 +4,8 @@ description: Your own online file storage, social network or email server.
 licenses:
   - GPL-3.0
 platforms:
-  - Python
-  - Other
+  - Go
+  - Shell
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/syncloud/platform

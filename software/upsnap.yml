@@ -4,7 +4,6 @@ description: A simple Wake on LAN (WOL) dashboard app. Wake up devices on your n
 licenses:
   - MIT
 platforms:
-  - Svelte
   - Go
   - Docker
 tags:

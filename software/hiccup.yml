@@ -4,7 +4,7 @@ description: A beautiful static homepage to get to your links and services quick
 licenses:
   - MIT
 platforms:
-  - HTML5
+  - Javascript
   - Docker
 tags:
   - Personal Dashboards

@@ -4,7 +4,7 @@ description: Web app to convert an export bank file to compatible Homebank csv.
 licenses:
   - AGPL-3.0
 platforms:
-  - HTML5
+  - Javascript
 tags:
   - Automation
 source_code_url: https://github.com/Binnette/homebank-converter

@@ -6,7 +6,7 @@ licenses:
 platforms:
   - C
   - Docker
-  - Bash
+  - Shell
 tags:
   - Groupware
 source_code_url: https://www.citadel.org/source.html

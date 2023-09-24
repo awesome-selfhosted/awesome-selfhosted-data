@@ -5,7 +5,7 @@ licenses:
   - Apache-2.0
 platforms:
   - C++
-  - Other
+  - Shell
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/sandstorm-io/sandstorm

@@ -4,7 +4,7 @@ description: Nextcloud preinstalled and preconfigured, with a text and web manag
 licenses:
   - GPL-2.0
 platforms:
-  - Bash
+  - Shell
   - PHP
 tags:
   - Self-hosting Solutions

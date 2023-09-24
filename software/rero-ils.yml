@@ -5,7 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Python
-  - Other
+  - Docker
 tags:
   - Document Management - Integrated Library Systems (ILS)
 source_code_url: https://github.com/rero/rero-ils

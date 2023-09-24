@@ -4,7 +4,8 @@ description: Alternative open-source dashboard for the Cypress browser automatio
 licenses:
   - MIT
 platforms:
-  - Typescript
+  - Docker
+  - K8S
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/sorry-cypress/sorry-cypress

@@ -1,7 +1,7 @@
 name: "Impler"
 website_url: "https://impler.io"
 source_code_url: "https://github.com/implerhq/impler.io"
-description: "Add Data Import experience in products without building it from scratch. Supports Importing CSV & Excel files, Data Validation, Smart column mapping, Downloading Sample Excel, Data Preloading in Sample, Responsive Import Widget, Custom Validation Engine, Output Formatter, Chunked File Processing, On-demand widget loading, and Server-side data validation. Various SDKs and JS-only integration are available to integrate the widget into the application. "
+description: "Add CSV & Excel file import experience in products. Provides import widget for uploading data files, mapping columns, and reviewing data during import. Receive imported data via webhooks. Supports dynamic and static data validation."
 licenses:
   - MIT
 platforms:

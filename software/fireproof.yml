@@ -1,0 +1,26 @@
+# software name
+name: "Fireproof"
+# URL of the software project's homepage
+website_url: "https://use-fireproof.com/"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/fireproof-storage"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - JavaScript
+  - Python
+  - Ruby
+  - Rust
+  - Go
+  - Nodejs
+  - Docker
+  - K8s
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Database Management
+  - Software Development - FaaS & Serverless

@@ -4,8 +4,8 @@ description: The snappy web interface for your 3D printer.
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Python
-  - JavaScript
 tags:
   - 3D printing
 source_code_url: https://github.com/OctoPrint/OctoPrint

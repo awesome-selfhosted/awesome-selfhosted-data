@@ -4,7 +4,8 @@ description: Fluidd is a lightweight & responsive user interface for Klipper, th
 licenses:
   - GPL-3.0
 platforms:
-  - TypeScript
+  - Docker
+  - Nodejs
 tags:
   - 3D printing
 source_code_url: https://github.com/fluidd-core/fluidd

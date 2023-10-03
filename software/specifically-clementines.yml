@@ -1,0 +1,15 @@
+name: "Specifically Clementines"
+website_url: "https://davideshay.github.io/groceries/"
+source_code_url: "https://github.com/davideshay/groceries"
+description: "Grocery shopping app previously called 'groceries'. Reliable sync with multiple users/devices (web/mobile/Android/iOS). Available on Google Play Store. Includes recipes and integration with Tandoor."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Javascript
+  - Nodejs
+tags:
+  - Recipe Management
+  - Task Management & To-do Lists
+depends_3rdparty: no
+demo_url: "https://www.specificallyclementines.com/"

@@ -6,8 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Javascript
-  - Nodejs
 tags:
   - Recipe Management
   - Task Management & To-do Lists

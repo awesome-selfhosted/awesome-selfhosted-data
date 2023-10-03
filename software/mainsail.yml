@@ -4,7 +4,8 @@ description: A modern and responsive user interface for Klipper. Control and mon
 licenses:
   - GPL-3.0
 platforms:
-  - TypeScript
+  - Docker
+  - Python
 tags:
   - 3D printing
 source_code_url: https://github.com/mainsail-crew/mainsail

@@ -1,0 +1,14 @@
+name: Deluge
+website_url: https://deluge-torrent.org/
+description: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - JavaScript
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+source_code_url: https://git.deluge-torrent.org/deluge/
+stargazers_count: 0
+updated_at: '2023-07-01'
+archived: false

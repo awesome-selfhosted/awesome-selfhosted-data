@@ -5,7 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
-  - JavaScript
+  - deb
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://git.deluge-torrent.org/deluge/

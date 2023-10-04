@@ -1,14 +1,10 @@
 name: VanDAM
 website_url: https://github.com/Floppy/van_dam
-description: Digital asset manager for 3d print files; STL, OBJ, 3MF and more.
+description: Digital Asset Manager (DAM), specifically designed for 3D print files. Create a library pointing at your files on disk, and it will scan for models and parts. It assumes that any folders containing STL or OBJ files are models, and the files within them are parts.
 licenses:
   - MIT
 platforms:
-  - Ruby
   - Docker
 tags:
-  - Miscellaneous
+  - 3D Printing
 source_code_url: https://github.com/Floppy/van_dam
-stargazers_count: 282
-updated_at: '2023-09-15'
-archived: false

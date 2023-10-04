@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/SergiX44/XBackBone
-stargazers_count: 855
+stargazers_count: 862
 updated_at: '2023-08-14'
 archived: false

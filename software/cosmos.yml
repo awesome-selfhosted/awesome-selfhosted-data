@@ -2,13 +2,14 @@ name: Cosmos
 website_url: https://cosmos-cloud.io/
 description: Cosmos is a self-hosted platform for running server applications securely and with built-in privacy features. It acts as a secure gateway to your application, as well as a server manager.
 licenses:
-  - ⊘ Proprietary
+  - Apache-2.0
+  - Commons-Clause
 platforms:
   - Docker
   - Go
 tags:
   - Proxy
 source_code_url: https://github.com/azukaar/cosmos-Server
-stargazers_count: 1094
+stargazers_count: 1207
 updated_at: '2023-09-08'
 archived: false

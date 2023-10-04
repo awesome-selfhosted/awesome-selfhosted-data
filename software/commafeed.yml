@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/Athou/commafeed
-stargazers_count: 2167
-updated_at: '2023-09-12'
+stargazers_count: 2224
+updated_at: '2023-10-01'
 archived: false

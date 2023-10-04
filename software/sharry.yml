@@ -6,9 +6,11 @@ licenses:
 platforms:
   - Scala
   - Java
+  - deb
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/eikek/sharry
-stargazers_count: 610
-updated_at: '2023-09-16'
+stargazers_count: 620
+updated_at: '2023-09-29'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Rust
+  - Docker
 tags:
   - Password Managers
 source_code_url: https://github.com/dani-garcia/vaultwarden
-stargazers_count: 27728
-updated_at: '2023-09-02'
+stargazers_count: 28046
+updated_at: '2023-09-22'
 archived: false

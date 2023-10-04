@@ -4,7 +4,8 @@ description: Simple password manage with sharing features by group and user, but
 licenses:
   - AGPL-3.0
 platforms:
-  - Python
+  - Docker
+  - Django
 tags:
   - Password Managers
 source_code_url: https://gitlab.com/passit

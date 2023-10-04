@@ -5,6 +5,8 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
+  - Shell
 tags:
   - Groupware
 source_code_url: https://www.citadel.org/source.html

@@ -5,9 +5,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/zadam/trilium
-stargazers_count: 22625
-updated_at: '2023-09-13'
+stargazers_count: 22748
+updated_at: '2023-09-25'
 archived: false

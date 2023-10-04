@@ -4,10 +4,10 @@ description: Open source password manager.
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
+  - Docker
 tags:
   - Password Managers
 source_code_url: https://github.com/passwall/passwall-server
-stargazers_count: 721
+stargazers_count: 723
 updated_at: '2023-07-13'
 archived: false

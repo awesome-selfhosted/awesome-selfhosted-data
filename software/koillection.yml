@@ -4,10 +4,11 @@ description: Koillection is a service allowing users to manage any kind of colle
 licenses:
   - MIT
 platforms:
+  - Docker
   - PHP
 tags:
   - Miscellaneous
 source_code_url: https://github.com/benjaminjonard/koillection
-stargazers_count: 361
-updated_at: '2023-09-11'
+stargazers_count: 365
+updated_at: '2023-10-02'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
 tags:
   - Search Engines
 source_code_url: https://github.com/simon987/sist2
-stargazers_count: 618
-updated_at: '2023-09-16'
+stargazers_count: 628
+updated_at: '2023-09-28'
 archived: false

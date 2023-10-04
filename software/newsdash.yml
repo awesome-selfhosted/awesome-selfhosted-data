@@ -4,6 +4,7 @@ description: A news dashboard inspired by iGoogle and Netvibes.
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Nodejs
 tags:
   - Feed Readers

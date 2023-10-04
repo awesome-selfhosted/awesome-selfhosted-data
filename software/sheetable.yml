@@ -4,10 +4,11 @@ description: Self-hosted music sheet organizing software for all music enthusias
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Go
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/SheetAble/SheetAble
-stargazers_count: 244
+stargazers_count: 245
 updated_at: '2023-07-27'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/monicahq/monica
-stargazers_count: 19579
-updated_at: '2023-09-16'
+stargazers_count: 19674
+updated_at: '2023-10-02'
 archived: false

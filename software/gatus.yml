@@ -5,10 +5,11 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
+  - K8S
 tags:
   - Status / Uptime pages
 source_code_url: https://github.com/TwiN/gatus
 demo_url: https://status.twin.sh
-stargazers_count: 4043
-updated_at: '2023-09-04'
+stargazers_count: 4075
+updated_at: '2023-10-03'
 archived: false

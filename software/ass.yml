@@ -5,9 +5,10 @@ licenses:
   - ISC
 platforms:
   - Nodejs
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/tycrek/ass
-stargazers_count: 502
-updated_at: '2023-08-04'
+stargazers_count: 513
+updated_at: '2023-09-30'
 archived: false

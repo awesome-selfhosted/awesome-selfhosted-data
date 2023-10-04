@@ -5,10 +5,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
-stargazers_count: 11266
-updated_at: '2023-09-15'
+stargazers_count: 11371
+updated_at: '2023-09-24'
 archived: false

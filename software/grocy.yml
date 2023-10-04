@@ -5,10 +5,11 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Resource Planning
 source_code_url: https://github.com/grocy/grocy
 demo_url: https://en.demo.grocy.info/
-stargazers_count: 5509
-updated_at: '2023-09-15'
+stargazers_count: 5571
+updated_at: '2023-10-01'
 archived: false

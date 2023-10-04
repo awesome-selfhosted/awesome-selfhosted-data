@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - C
+  - deb
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/videolan/vlc
-stargazers_count: 11466
+stargazers_count: 11539
 updated_at: '2023-03-16'
 archived: false

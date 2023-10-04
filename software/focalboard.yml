@@ -8,10 +8,11 @@ licenses:
 platforms:
   - Nodejs
   - Go
+  - Docker
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/mattermost/focalboard
 related_software_url: https://www.focalboard.com/download/personal-edition/desktop/
-stargazers_count: 15958
-updated_at: '2023-09-14'
+stargazers_count: 16229
+updated_at: '2023-09-25'
 archived: false

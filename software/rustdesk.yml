@@ -6,9 +6,10 @@ licenses:
 platforms:
   - Rust
   - Docker
+  - deb
 tags:
   - Remote Access
 source_code_url: https://github.com/rustdesk/rustdesk-server
-stargazers_count: 4627
+stargazers_count: 4691
 updated_at: '2023-08-08'
 archived: false

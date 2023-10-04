@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Proxy
 source_code_url: https://github.com/antoniomika/sish
-stargazers_count: 3531
+stargazers_count: 3548
 updated_at: '2022-12-20'
 archived: false

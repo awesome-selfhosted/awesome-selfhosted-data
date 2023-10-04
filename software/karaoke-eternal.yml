@@ -4,6 +4,7 @@ description: Host awesome karaoke parties where everyone can easily find and que
 licenses:
   - ISC
 platforms:
+  - Docker
   - Nodejs
 tags:
   - Media Streaming - Multimedia Streaming

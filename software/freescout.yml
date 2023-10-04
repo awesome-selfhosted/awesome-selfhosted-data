@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Ticketing
 source_code_url: https://github.com/freescout-helpdesk/freescout
-stargazers_count: 2212
-updated_at: '2023-09-15'
+stargazers_count: 2242
+updated_at: '2023-09-23'
 archived: false

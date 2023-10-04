@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/hadmean/hadmean
-stargazers_count: 497
-updated_at: '2023-06-30'
+stargazers_count: 507
+updated_at: '2023-09-24'
 archived: false

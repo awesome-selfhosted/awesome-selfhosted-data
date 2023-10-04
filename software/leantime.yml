@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/leantime/leantime
-stargazers_count: 2511
-updated_at: '2023-09-15'
+stargazers_count: 2551
+updated_at: '2023-10-03'
 archived: false

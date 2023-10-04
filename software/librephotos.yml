@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 5886
-updated_at: '2023-09-17'
+stargazers_count: 5932
+updated_at: '2023-09-28'
 archived: false

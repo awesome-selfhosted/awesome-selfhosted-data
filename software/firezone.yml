@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Elixir
+  - Docker
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 5280
-updated_at: '2023-09-14'
+stargazers_count: 5361
+updated_at: '2023-10-03'
 archived: false

@@ -5,10 +5,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Miscellaneous
 source_code_url: https://github.com/weewx/weewx
 demo_url: https://weewx.com/showcase.html
-stargazers_count: 923
+stargazers_count: 925
 updated_at: '2023-07-16'
 archived: false

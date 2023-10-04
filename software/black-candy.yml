@@ -4,10 +4,11 @@ description: Music streaming server built with Rails and Stimulus.
 licenses:
   - MIT
 platforms:
+  - Docker
   - Ruby
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/blackcandy-org/black_candy
-stargazers_count: 1023
-updated_at: '2023-09-01'
+stargazers_count: 1025
+updated_at: '2023-09-27'
 archived: false

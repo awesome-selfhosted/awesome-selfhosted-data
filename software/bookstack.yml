@@ -5,10 +5,11 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/BookStackApp/BookStack
 demo_url: https://www.bookstackapp.com/#demo
-stargazers_count: 12211
-updated_at: '2023-09-17'
+stargazers_count: 12284
+updated_at: '2023-10-03'
 archived: false

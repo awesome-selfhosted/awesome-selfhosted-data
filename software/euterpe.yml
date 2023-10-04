@@ -5,10 +5,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/ironsmile/euterpe
 demo_url: https://listen-to-euterpe.eu/demo
-stargazers_count: 496
+stargazers_count: 498
 updated_at: '2023-04-02'
 archived: false

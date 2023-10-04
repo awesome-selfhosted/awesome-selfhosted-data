@@ -5,10 +5,11 @@ licenses:
   - GPL-2.0
 platforms:
   - Docker
+  - deb
   - C++
 tags:
   - Search Engines
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
-stargazers_count: 6166
-updated_at: '2023-09-16'
+stargazers_count: 6361
+updated_at: '2023-10-03'
 archived: false

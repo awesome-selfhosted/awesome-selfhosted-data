@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Go
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/ncarlier/readflow
-stargazers_count: 311
-updated_at: '2023-09-10'
+stargazers_count: 316
+updated_at: '2023-09-30'
 archived: false

@@ -4,10 +4,11 @@ description: A beautiful static homepage to get to your links and services quick
 licenses:
   - MIT
 platforms:
-  - HTML5
+  - Javascript
+  - Docker
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/ashwin-pc/hiccup
-stargazers_count: 106
+stargazers_count: 110
 updated_at: '2023-06-01'
 archived: false

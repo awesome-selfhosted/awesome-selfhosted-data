@@ -5,9 +5,12 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - Docker
+  - K8S
+  - deb
 tags:
   - Search Engines
 source_code_url: https://github.com/typesense/typesense
-stargazers_count: 14808
+stargazers_count: 15184
 updated_at: '2023-09-11'
 archived: false

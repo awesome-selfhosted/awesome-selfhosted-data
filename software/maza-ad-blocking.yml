@@ -4,10 +4,10 @@ description: Local ad blocker. Like Pi-hole but local and using your operating s
 licenses:
   - Apache-2.0
 platforms:
-  - Bash
+  - Shell
 tags:
   - DNS
 source_code_url: https://github.com/tanrax/maza-ad-blocking
-stargazers_count: 1712
+stargazers_count: 1720
 updated_at: '2023-08-22'
 archived: false

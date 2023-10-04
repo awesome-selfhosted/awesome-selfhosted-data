@@ -10,7 +10,9 @@ licenses:
   - MIT
   - AGPL-3.0
 platforms:
-  - ClearOS
+  - Shell
+  - Perl
+  - deb
 tags:
   - Self-hosting Solutions
 source_code_url: https://wikisuite.org/Source-Code

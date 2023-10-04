@@ -5,11 +5,12 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/FreshRSS/FreshRSS
 demo_url: https://demo.freshrss.org/i/
 related_software_url: https://github.com/Alkarex/EasyRSS
-stargazers_count: 6804
-updated_at: '2023-09-15'
+stargazers_count: 6902
+updated_at: '2023-09-27'
 archived: false

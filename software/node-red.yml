@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/node-red/node-red
-stargazers_count: 17350
-updated_at: '2023-09-06'
+stargazers_count: 17418
+updated_at: '2023-09-25'
 archived: false

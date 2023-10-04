@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - PHP
+  - deb
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
-stargazers_count: 4337
-updated_at: '2023-09-15'
+stargazers_count: 4358
+updated_at: '2023-10-01'
 archived: false

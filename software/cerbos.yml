@@ -6,9 +6,12 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - deb
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 demo_url: https://play.cerbos.dev
-stargazers_count: 1720
-updated_at: '2023-09-14'
+stargazers_count: 1769
+updated_at: '2023-10-03'
 archived: false

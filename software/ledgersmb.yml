@@ -4,11 +4,12 @@ description: Integrated accounting and ERP system for small and midsize business
 licenses:
   - GPL-2.0
 platforms:
+  - Docker
   - Perl
 tags:
   - Resource Planning - Enterprise Resource Planning
 source_code_url: https://github.com/ledgersmb/LedgerSMB
 demo_url: https://demo.cloud.efficito.com/erp/1.5/login.pl
-stargazers_count: 338
-updated_at: '2023-09-16'
+stargazers_count: 340
+updated_at: '2023-10-03'
 archived: false

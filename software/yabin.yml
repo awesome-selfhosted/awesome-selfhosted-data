@@ -5,10 +5,11 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/Yureien/YABin
 demo_url: https://bin.sohamsen.me/
-stargazers_count: 76
-updated_at: '2023-09-11'
+stargazers_count: 79
+updated_at: '2023-10-03'
 archived: false

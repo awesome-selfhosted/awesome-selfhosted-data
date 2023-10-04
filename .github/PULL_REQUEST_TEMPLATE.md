@@ -7,6 +7,7 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
 - [ ] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.net](https://staticsitegenerators.net/), [dbdb.io](https://dbdb.io/browse).
 - [ ] The file you are adding is formatted as described in [addition.md](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/.github/ISSUE_TEMPLATE/addition.md).
+- [ ] `Demo` links should only be used for interactive demos, i.e. not video demonstrations. 
 - [ ] Comments and unused optional fields have been removed.
 - [ ] The file you are adding uses [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) file naming, for example `my-awesome-software.yml`.
 - [ ] Values for `platform` are the main **server-side** requirements for the software. Don't include frameworks or specific dialects.
@@ -14,3 +15,4 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] Any software project you are adding was first released more than 4 months ago.
 - [ ] Any software project you are adding has working installation instructions.
 - [ ] If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
+- [ ] You understand that your Pull Request will be merged ~1 week after approval, to allow for further comments if needed.

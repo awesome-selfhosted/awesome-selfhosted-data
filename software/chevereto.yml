@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/chevereto/chevereto
-stargazers_count: 208
+stargazers_count: 214
 updated_at: '2023-08-29'
 archived: false

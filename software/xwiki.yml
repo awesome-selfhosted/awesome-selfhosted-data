@@ -5,10 +5,12 @@ licenses:
   - LGPL-2.1
 platforms:
   - Java
+  - Docker
+  - deb
 tags:
   - Wikis
 source_code_url: https://github.com/xwiki/xwiki-platform
 demo_url: https://playground.xwiki.org
-stargazers_count: 863
-updated_at: '2023-09-17'
+stargazers_count: 868
+updated_at: '2023-10-03'
 archived: false

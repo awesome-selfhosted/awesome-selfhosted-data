@@ -5,10 +5,12 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
+  - deb
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/owncloud/core
 related_software_url: https://github.com/owncloud/core/wiki/Apps
-stargazers_count: 8111
-updated_at: '2023-09-13'
+stargazers_count: 8123
+updated_at: '2023-10-03'
 archived: false

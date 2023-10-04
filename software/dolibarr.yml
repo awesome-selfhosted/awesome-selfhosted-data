@@ -5,10 +5,11 @@ licenses:
   - GPL-3.0
 platforms:
   - PHP
+  - deb
 tags:
   - Resource Planning - Enterprise Resource Planning
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
-stargazers_count: 4304
-updated_at: '2023-09-17'
+stargazers_count: 4331
+updated_at: '2023-10-03'
 archived: false

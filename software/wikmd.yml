@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/Linbreux/wikmd
-stargazers_count: 240
+stargazers_count: 241
 updated_at: '2023-05-24'
 archived: false

@@ -5,9 +5,12 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
+  - Docker
+  - K8S
+  - deb
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/coder
-stargazers_count: 5212
-updated_at: '2023-09-17'
+stargazers_count: 5361
+updated_at: '2023-10-03'
 archived: false

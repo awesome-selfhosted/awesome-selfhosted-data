@@ -2,12 +2,12 @@ name: Plausible Analytics
 website_url: https://plausible.io/
 description: Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Elixir
 tags:
   - Analytics
 source_code_url: https://github.com/plausible/analytics/
-stargazers_count: 16045
-updated_at: '2023-09-14'
+stargazers_count: 16195
+updated_at: '2023-10-03'
 archived: false

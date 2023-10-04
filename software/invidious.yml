@@ -4,12 +4,13 @@ description: Alternative YouTube front-end.
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Crystal
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/iv-org/invidious
 demo_url: https://docs.invidious.io/instances/
 depends_3rdparty: true
-stargazers_count: 12571
-updated_at: '2023-09-16'
+stargazers_count: 12679
+updated_at: '2023-09-18'
 archived: false

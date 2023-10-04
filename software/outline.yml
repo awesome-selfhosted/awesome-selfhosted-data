@@ -5,10 +5,11 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Wikis
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
-stargazers_count: 20448
-updated_at: '2023-09-16'
+stargazers_count: 20599
+updated_at: '2023-10-03'
 archived: false

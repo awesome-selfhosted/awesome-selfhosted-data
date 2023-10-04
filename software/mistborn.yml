@@ -4,7 +4,7 @@ description: Mistborn is your own virtual private cloud platform and WebUI that 
 licenses:
   - MIT
 platforms:
-  - Bash
+  - Shell
   - Docker
 tags:
   - Self-hosting Solutions

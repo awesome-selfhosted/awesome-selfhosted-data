@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Office Suites
 source_code_url: https://github.com/ONLYOFFICE/DocumentServer
-stargazers_count: 3590
+stargazers_count: 3799
 updated_at: '2023-08-30'
 archived: false

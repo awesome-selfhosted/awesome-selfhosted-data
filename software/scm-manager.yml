@@ -5,9 +5,12 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Java
+  - deb
+  - Docker
+  - K8S
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/scm-manager/scm-manager
 stargazers_count: 117
-updated_at: '2023-09-14'
+updated_at: '2023-09-28'
 archived: false

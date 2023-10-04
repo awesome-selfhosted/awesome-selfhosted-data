@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Photo and Video Galleries
 source_code_url: https://github.com/photoview/photoview
-stargazers_count: 4166
+stargazers_count: 4206
 updated_at: '2023-07-10'
 archived: false

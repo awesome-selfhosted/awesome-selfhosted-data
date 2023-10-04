@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - deb
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/mopidy/mopidy
-stargazers_count: 7775
+stargazers_count: 7785
 updated_at: '2023-09-17'
 archived: false

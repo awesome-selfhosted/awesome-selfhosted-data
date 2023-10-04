@@ -5,10 +5,12 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - Docker
+  - K8S
 tags:
   - Search Engines
 source_code_url: https://github.com/zincsearch/zincsearch
 demo_url: https://github.com/zinclabs/zinc#playground-server
-stargazers_count: 15422
+stargazers_count: 15473
 updated_at: '2023-09-13'
 archived: false

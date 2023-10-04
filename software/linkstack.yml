@@ -5,10 +5,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/LinkStackOrg/LinkStack
 demo_url: https://linksta.cc/
-stargazers_count: 1230
-updated_at: '2023-09-14'
+stargazers_count: 1262
+updated_at: '2023-10-03'
 archived: false

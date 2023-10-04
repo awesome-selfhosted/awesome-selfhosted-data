@@ -7,9 +7,10 @@ platforms:
   - Docker
   - Shell
   - Go
+  - deb
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/dokku/dokku
-stargazers_count: 24961
-updated_at: '2023-09-17'
+stargazers_count: 25019
+updated_at: '2023-09-29'
 archived: false

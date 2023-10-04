@@ -1,0 +1,15 @@
+name: Websurfx
+website_url: https://github.com/neon-mmd/websurfx
+source_code_url: https://github.com/neon-mmd/websurfx
+description: Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Search Engines
+depends_3rdparty: yes
+stargazers_count: 367
+updated_at: '2023-10-03'
+archived: false

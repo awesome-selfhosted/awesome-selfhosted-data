@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - Search Engines
 source_code_url: https://github.com/jina-ai/jina/
-stargazers_count: 19083
-updated_at: '2023-09-14'
+stargazers_count: 19135
+updated_at: '2023-09-29'
 archived: false

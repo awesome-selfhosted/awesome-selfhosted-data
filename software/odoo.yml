@@ -5,10 +5,12 @@ licenses:
   - LGPL-3.0
 platforms:
   - Python
+  - deb
+  - Docker
 tags:
   - Resource Planning - Enterprise Resource Planning
 source_code_url: https://github.com/odoo/odoo
 demo_url: https://demo.odoo.com/
-stargazers_count: 30637
-updated_at: '2023-01-12'
+stargazers_count: 30853
+updated_at: '2023-10-03'
 archived: false

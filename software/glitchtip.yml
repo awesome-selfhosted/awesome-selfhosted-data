@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
+  - K8S
 tags:
   - Ticketing
 source_code_url: https://gitlab.com/glitchtip/glitchtip

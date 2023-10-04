@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - deb
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/pikvm/ustreamer
-stargazers_count: 1352
-updated_at: '2023-08-23'
+stargazers_count: 1365
+updated_at: '2023-10-03'
 archived: false

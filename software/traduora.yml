@@ -5,10 +5,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - K8S
   - Nodejs
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/ever-co/ever-traduora
-stargazers_count: 1854
-updated_at: '2023-09-06'
+stargazers_count: 1865
+updated_at: '2023-09-23'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Rust
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/agersant/polaris
-stargazers_count: 1229
+stargazers_count: 1235
 updated_at: '2023-09-13'
 archived: false

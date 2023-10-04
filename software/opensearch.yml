@@ -5,9 +5,12 @@ licenses:
   - Apache-2.0
 platforms:
   - Java
+  - Docker
+  - K8S
+  - deb
 tags:
   - Search Engines
 source_code_url: https://github.com/opensearch-project/OpenSearch
-stargazers_count: 7540
-updated_at: '2023-09-16'
+stargazers_count: 7661
+updated_at: '2023-10-03'
 archived: false

@@ -4,11 +4,11 @@ description: Install and manage self-hosted services/applications, on your own s
 licenses:
   - GPL-3.0
 platforms:
-  - Shell
   - Ansible
+  - Shell
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/nodiscc/xsrv
-stargazers_count: 242
-updated_at: '2023-09-14'
+stargazers_count: 245
+updated_at: '2023-10-03'
 archived: false

@@ -4,11 +4,11 @@ description: View/search Uber H3 (Hexagonal Hierarchical Spatial Index) cells on
 licenses:
   - Apache-2.0
 platforms:
-  - HTML5
+  - Javascript
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/clupasq/h3-viewer
 demo_url: https://wolf-h3-viewer.glitch.me/
-stargazers_count: 41
+stargazers_count: 47
 updated_at: '2022-07-29'
 archived: false

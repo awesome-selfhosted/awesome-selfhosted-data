@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Nodejs
 tags:
   - Pastebins
 source_code_url: https://github.com/HemmeligOrg/Hemmelig.app
-stargazers_count: 532
-updated_at: '2023-09-17'
+stargazers_count: 534
+updated_at: '2023-09-24'
 archived: false

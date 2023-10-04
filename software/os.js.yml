@@ -5,10 +5,11 @@ licenses:
   - BSD-2-Clause
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/os-js/OS.js
 demo_url: https://demo.os-js.org/
-stargazers_count: 6628
+stargazers_count: 6640
 updated_at: '2022-09-16'
 archived: false

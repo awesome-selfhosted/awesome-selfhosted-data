@@ -4,7 +4,7 @@ description: A pastebin with public/private snippets and netcat server.
 licenses:
   - MIT
 platforms:
-  - Elixir
+  - Docker
 tags:
   - Pastebins
 source_code_url: https://github.com/m1dnight/exbin

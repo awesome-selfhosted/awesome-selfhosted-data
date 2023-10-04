@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C++
+  - deb
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/epoupon/fileshelter
-stargazers_count: 357
+stargazers_count: 364
 updated_at: '2023-07-20'
 archived: false

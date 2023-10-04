@@ -5,10 +5,12 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
+  - K8S
 tags:
   - Wikis
 source_code_url: https://github.com/Requarks/wiki
 demo_url: https://docs.requarks.io
-stargazers_count: 21859
-updated_at: '2023-09-07'
+stargazers_count: 21963
+updated_at: '2023-09-25'
 archived: false

@@ -5,9 +5,11 @@ licenses:
   - GPL-2.0
 platforms:
   - Java
+  - Docker
+  - K8S
 tags:
   - Search Engines
 source_code_url: https://github.com/yacy/yacy_search_server
-stargazers_count: 3032
-updated_at: '2023-09-03'
+stargazers_count: 3049
+updated_at: '2023-09-30'
 archived: false

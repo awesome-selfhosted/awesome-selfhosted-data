@@ -5,9 +5,11 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 source_code_url: https://github.com/gravitational/teleport
-stargazers_count: 15069
-updated_at: '2023-09-16'
+stargazers_count: 15159
+updated_at: '2023-10-03'
 archived: false

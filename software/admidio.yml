@@ -5,10 +5,11 @@ licenses:
   - GPL-2.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Human Resources Management (HRM)
 source_code_url: https://github.com/Admidio/admidio
 demo_url: https://www.admidio.org/demo/
-stargazers_count: 248
-updated_at: '2023-09-17'
+stargazers_count: 252
+updated_at: '2023-10-03'
 archived: false

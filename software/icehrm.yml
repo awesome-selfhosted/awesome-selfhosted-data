@@ -4,11 +4,12 @@ description: IceHrm employee management system allows companies to centralize co
 licenses:
   - Apache-2.0
 platforms:
+  - Docker
   - PHP
 tags:
   - Human Resources Management (HRM)
 source_code_url: https://github.com/gamonoid/icehrm
 demo_url: https://icehrm.com/demo.php
-stargazers_count: 506
+stargazers_count: 511
 updated_at: '2023-02-17'
 archived: false

@@ -5,6 +5,7 @@ licenses:
   - ISC
 platforms:
   - Python
+  - Docker
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/jonashaag/klaus

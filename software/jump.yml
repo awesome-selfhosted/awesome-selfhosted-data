@@ -4,10 +4,11 @@ description: Yet another self-hosted startpage for your server designed to be si
 licenses:
   - MIT
 platforms:
+  - Docker
   - PHP
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/daledavies/jump
-stargazers_count: 432
+stargazers_count: 436
 updated_at: '2023-04-19'
 archived: false

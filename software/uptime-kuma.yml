@@ -4,11 +4,12 @@ description: Self-hosted website monitoring tool like "Uptime Robot".
 licenses:
   - MIT
 platforms:
+  - Docker
   - Nodejs
 tags:
   - Status / Uptime pages
 source_code_url: https://github.com/louislam/uptime-kuma
 demo_url: https://demo.uptime.kuma.pet
-stargazers_count: 38398
-updated_at: '2023-09-17'
+stargazers_count: 39057
+updated_at: '2023-10-02'
 archived: false

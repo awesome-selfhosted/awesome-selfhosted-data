@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
+  - K8S
 tags:
   - Miscellaneous
 source_code_url: https://github.com/verifid/graph-vl

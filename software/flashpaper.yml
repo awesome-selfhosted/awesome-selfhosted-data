@@ -4,11 +4,12 @@ description: A one-time encrypted zero-knowledge password/secret sharing applica
 licenses:
   - MIT
 platforms:
+  - Docker
   - PHP
 tags:
   - Pastebins
 source_code_url: https://github.com/AndrewPaglusch/FlashPaper
 demo_url: https://flashpaper.io
-stargazers_count: 242
+stargazers_count: 245
 updated_at: '2023-06-28'
 archived: false

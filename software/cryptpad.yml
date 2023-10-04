@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Office Suites
 source_code_url: https://github.com/cryptpad/cryptpad
-stargazers_count: 4600
-updated_at: '2023-09-05'
+stargazers_count: 4633
+updated_at: '2023-10-02'
 archived: false

@@ -5,9 +5,11 @@ licenses:
   - Apache-2.0
 platforms:
   - Haskell
+  - Docker
+  - K8S
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/hasura/graphql-engine
-stargazers_count: 30123
-updated_at: '2023-09-15'
+stargazers_count: 30156
+updated_at: '2023-10-03'
 archived: false

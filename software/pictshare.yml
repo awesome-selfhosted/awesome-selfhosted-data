@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - PHP
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/HaschekSolutions/pictshare
-stargazers_count: 756
+stargazers_count: 760
 updated_at: '2023-09-14'
 archived: false

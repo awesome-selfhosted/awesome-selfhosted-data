@@ -4,10 +4,12 @@ description: Gerbera is an UPnP Media Server. It allows you to stream your digit
 licenses:
   - GPL-2.0
 platforms:
+  - Docker
+  - deb
   - C++
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/gerbera/gerbera
-stargazers_count: 1066
+stargazers_count: 1069
 updated_at: '2023-09-06'
 archived: false

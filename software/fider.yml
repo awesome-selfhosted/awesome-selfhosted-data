@@ -4,11 +4,11 @@ description: Open platform to collect and prioritize feedback (alternative to Us
 licenses:
   - MIT
 platforms:
-  - Go
+  - Docker
 tags:
   - Polls and Events
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
-stargazers_count: 2406
+stargazers_count: 2426
 updated_at: '2023-07-16'
 archived: false

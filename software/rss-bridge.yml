@@ -5,9 +5,10 @@ licenses:
   - Unlicense
 platforms:
   - PHP
+  - Docker
 tags:
   - Feed Readers
 source_code_url: https://github.com/RSS-Bridge/rss-bridge
-stargazers_count: 6254
-updated_at: '2023-09-15'
+stargazers_count: 6299
+updated_at: '2023-10-03'
 archived: false

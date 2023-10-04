@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/axeloz/filesharing
-stargazers_count: 114
+stargazers_count: 119
 updated_at: '2023-09-05'
 archived: false

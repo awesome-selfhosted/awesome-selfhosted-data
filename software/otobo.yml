@@ -5,10 +5,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Perl
+  - Docker
 tags:
   - Ticketing
 source_code_url: https://github.com/RotherOSS/otobo
 demo_url: https://otobo.de/en/open-source-ticketing-system/#demos
 stargazers_count: 198
-updated_at: '2023-08-24'
+updated_at: '2023-09-28'
 archived: false

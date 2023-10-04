@@ -4,11 +4,10 @@ description: ShellHub is a modern SSH server for remotely accessing linux device
 licenses:
   - Apache-2.0
 platforms:
-  - Go
-  - Other
+  - Docker
 tags:
   - Remote Access
 source_code_url: https://github.com/shellhub-io/shellhub
-stargazers_count: 1171
-updated_at: '2023-09-13'
+stargazers_count: 1180
+updated_at: '2023-10-03'
 archived: false

@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Java
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/airsonic-advanced/airsonic-advanced
-stargazers_count: 1041
+stargazers_count: 1057
 updated_at: '2023-03-30'
 archived: false

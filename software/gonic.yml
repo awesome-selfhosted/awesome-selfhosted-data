@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Go
+  - Docker
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/sentriz/gonic
-stargazers_count: 1175
-updated_at: '2023-09-15'
+stargazers_count: 1191
+updated_at: '2023-10-02'
 archived: false

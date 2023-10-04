@@ -5,9 +5,10 @@ licenses:
   - MIT
 platforms:
   - Ruby
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/inoda/journal
-stargazers_count: 314
+stargazers_count: 319
 updated_at: '2023-02-21'
 archived: false

@@ -5,6 +5,7 @@ licenses:
   - WTFPL
 platforms:
   - Perl
+  - Docker
 tags:
   - URL Shorteners
 source_code_url: https://github.com/ldidry/lstu

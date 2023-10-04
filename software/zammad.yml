@@ -5,9 +5,10 @@ licenses:
   - AGPL-3.0
 platforms:
   - Ruby
+  - deb
 tags:
   - Ticketing
 source_code_url: https://github.com/zammad/zammad
-stargazers_count: 3680
-updated_at: '2023-09-16'
+stargazers_count: 3695
+updated_at: '2023-10-02'
 archived: false

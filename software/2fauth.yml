@@ -5,10 +5,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - Docker
 tags:
   - Miscellaneous
 source_code_url: https://github.com/Bubka/2FAuth
 demo_url: https://demo.2fauth.app/
-stargazers_count: 995
-updated_at: '2023-09-17'
+stargazers_count: 1013
+updated_at: '2023-09-26'
 archived: false

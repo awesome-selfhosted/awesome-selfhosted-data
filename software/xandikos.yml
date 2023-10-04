@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
-  - Calendar & Contacts - CalDAV or CardDAV Servers
+  - Calendar & Contacts
 source_code_url: https://github.com/jelmer/xandikos
-stargazers_count: 314
-updated_at: '2023-09-06'
+stargazers_count: 324
+updated_at: '2023-09-29'
 archived: false

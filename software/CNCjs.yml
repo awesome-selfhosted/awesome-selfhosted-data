@@ -1,0 +1,10 @@
+name: CNCjs
+website_url: https://cnc.js.org/
+description: A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - 3D printing and CNC
+source_code_url: https://github.com/cncjs/cncjs/

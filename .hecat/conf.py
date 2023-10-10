@@ -15,6 +15,7 @@ html_show_copyright = True
 html_use_opensearch = 'https://awesome-selfhosted.net/'
 html_favicon = '../_static/favicon.ico'
 html_logo = '../_static/logo.svg'
+html_css_files = ['custom.css']
 extensions = ['myst_parser', 'sphinx_design']
 source_suffix = ['.md']
 templates_path = ['_templates']

@@ -1,0 +1,10 @@
+name: Jami
+website_url: https://jami.net/
+description: Free and universal communication platform which preserves the user's privacy and freedoms (formerly GNU Ring).
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://git.jami.net/savoirfairelinux?sort=latest_activity_desc&filter=jami

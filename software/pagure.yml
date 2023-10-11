@@ -4,6 +4,7 @@ description: A lightweight, powerful, and flexible git-centric forge with featur
 licenses:
   - GPL-2.0
 platforms:
+  - Docker
   - Python
 tags:
   - Software Development - Project Management

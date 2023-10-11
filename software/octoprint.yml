@@ -1,0 +1,11 @@
+name: Octoprint
+website_url: https://octoprint.org/
+description: A snappy web interface for controlling consumer 3D printers.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Manufacturing
+source_code_url: https://github.com/OctoPrint/OctoPrint

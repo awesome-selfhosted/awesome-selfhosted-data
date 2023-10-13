@@ -1,10 +1,10 @@
 name: Kestra
 website_url: https://kestra.io
-description: Event-driven declarative Orchestration and Scheduling platform 
+description: Event-driven declarative Orchestration and scheduling platform 
 licenses:
   - Apache-2.0
 platforms:
-  - Java
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/kestra-io/kestra

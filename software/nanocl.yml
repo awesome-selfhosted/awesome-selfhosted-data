@@ -1,12 +1,12 @@
 name: Nanocl
 website_url: https://next-hat.com/nanocl
-description: A developer friendly kubernetes alternative
+description: Distributed System that simplifies the management of containers and virtual machines (alternative to Kubernetes).
 licenses:
   - Apache-2.0
   - MIT
 platforms:
   - Docker
-  - Deb
+  - deb
   - Rust
 tags:
   - Self-hosting Solutions

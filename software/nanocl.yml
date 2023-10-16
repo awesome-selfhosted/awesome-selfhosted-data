@@ -1,0 +1,13 @@
+name: Nanocl
+website_url: https://next-hat.com/nanocl
+description: A developer friendly kubernetes alternative
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Docker
+  - Deb
+  - Rust
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/nxthat/nanocl

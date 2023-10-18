@@ -1,0 +1,15 @@
+name: "Cluster Control"
+website_url: "https://severalnines.com/clustercontrol/"
+description: "Setup many databases in few clicks with monitoring, load balancing and more"
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Deb
+  - Ansible
+  - Shell
+  - Docker
+tags:
+  - Automation
+  - Database Management
+  - Backup
+  - Monitoring

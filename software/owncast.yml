@@ -1,6 +1,6 @@
 name: Owncast
-website_url: https://github.com/owncast/owncast
-description: Owncast is an open source, self-hosted, decentralized, single user live video streaming and chat server for running your own live streams similar in style to the large mainstream options.
+website_url: https://owncast.online/
+description: Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/owncast/owncast
-stargazers_count: 8264
-updated_at: '2023-10-10'
+stargazers_count: 8287
+updated_at: '2023-10-16'
 archived: false

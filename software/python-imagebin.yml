@@ -1,0 +1,11 @@
+name: "python-imagebin"
+website_url: "https://gitlab.com/stemid/python-imagebin"
+source_code_url: "https://gitlab.com/stemid/python-imagebin"
+description: "Pastebin for images, with a very narrow use case."
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+depends_3rdparty: no

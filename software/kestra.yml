@@ -1,6 +1,6 @@
 name: Kestra
 website_url: https://kestra.io
-description: Event-driven declarative orchestration and scheduling platform 
+description: Kestra is an open-source orchestrator that simplifies workflow creation through a declarative YAML interface. It accommodates changes via UI, API, and CI/CD processes while keeping the orchestration logic in code.
 licenses:
   - Apache-2.0
 platforms:

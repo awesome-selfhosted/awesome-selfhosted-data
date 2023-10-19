@@ -1,0 +1,13 @@
+name: "La Digitale"
+website_url: "https://ladigitale.dev/"
+source_code_url: "https://codeberg.org/ladigitale"
+description: "Suite of 30+ single-task web applications to aid in learning and teaching processes, both in class and remotely (documentation in French)."
+licenses:
+  - AGPL-3.0
+  - GPL-3.0
+platforms:
+  - Javascript
+  - PHP
+tags:
+  - Learning and Courses
+demo_url: "https://ladigitale.dev/#outils"

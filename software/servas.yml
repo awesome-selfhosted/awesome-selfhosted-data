@@ -5,9 +5,9 @@ description: "A self-hosted bookmark management tool. It allows organization wit
 licenses:
   - GPL-3.0
 platforms:
-  - PHP
   - Docker
+  - Nodejs
+  - PHP
 tags:
   - Bookmarks and Link Sharing
-depends_3rdparty: no
 related_software_url: "https://github.com/beromir/Servas#browser-extensions"

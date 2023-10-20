@@ -1,0 +1,11 @@
+name: "rs-short"
+website_url: "https://git.42l.fr/42l/rs-short"
+source_code_url: "https://git.42l.fr/42l/rs-short"
+description: "A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection."
+licenses:
+  - MPL-2.0
+platforms:
+  - Rust
+tags:
+  - URL Shorteners
+demo_url: "https://s.42l.fr/"

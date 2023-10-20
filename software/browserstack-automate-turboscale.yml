@@ -1,0 +1,10 @@
+name: BrowserStack Automate TurboScale
+website_url: https://www.browserstack.com/automate-turboscale
+description: Scalable browser automation grid on your cloud (AWS, GCP and Azure) supporting Selenium and Playwright.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Software Development - Testing
+source_code_url: https://www.browserstack.com/automate-turboscale

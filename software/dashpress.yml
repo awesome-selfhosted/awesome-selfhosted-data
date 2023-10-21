@@ -1,5 +1,5 @@
-name: Hadmean
-website_url: https://hadmean.com
+name: Dashpress
+website_url: https://github.com/dashpresshq/dashpress
 description: Generate fully functional admin apps in seconds from your database information, with a single command.
 licenses:
   - AGPL-3.0
@@ -8,7 +8,8 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/hadmean/hadmean
+source_code_url: https://github.com/dashpresshq/dashpress
+demo_url: https://demo.dashpress.io/auth
 stargazers_count: 512
 updated_at: '2023-10-20'
 archived: false

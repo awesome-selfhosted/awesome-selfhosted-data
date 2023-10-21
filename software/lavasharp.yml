@@ -1,0 +1,13 @@
+﻿name: LavaSharp
+website_url: https://github.com/FabiChan99/LavaSharp
+description: LavaSharp is a Selfhostable Discord Music Bot written in C# using DisCatSharp and Lavalink.
+licenses:
+  - MIT
+platforms:
+  - C#
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://github.com/FabiChan99/LavaSharp
+stargazers_count: 3
+updated_at: '2023-10-21'
+archived: false

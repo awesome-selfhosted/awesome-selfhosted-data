@@ -1,0 +1,12 @@
+name: "Digistorm"
+website_url: "https://ladigitale.dev/"
+source_code_url: "https://codeberg.org/ladigitale/digistorm"
+description: "Digistorm is an online application for creating collaborative surveys, quizzes, brainstorms, and word clouds."
+licenses:
+  - AGPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Nodejs
+tags:
+  - Groupware
+demo_url: "https://digistorm.app/"

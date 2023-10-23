@@ -31,3 +31,4 @@ steps:
         - '^https://appflowy.io/' # Cannot get certificate but loads fine in browser and shows as secure
         - '^https://metronome.im/' # Failed to establish connection but loads fine in browser
         - '^https://moodle.org/' # Always returns 403 but loads in browser
+        - '^https://www.openwebanalytics.com/' # Always returns 403 but loads in browser

@@ -26,3 +26,4 @@ steps:
         - '^https://nitter.net$' # always times out from github actions but the website works in a browser
         - '^https://demo.memories.gallery/apps/memories/$' # always returns 401
         - '^https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree' # site takes a while to load,  times out with the default 10s timeout
+        - '^ https://www.admidio.org/' # always times out from github actions but the website works in a browser

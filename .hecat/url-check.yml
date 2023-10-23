@@ -29,3 +29,4 @@ steps:
         - '^https://www.admidio.org/' # always times out from github actions but the website works in a browser
         - '^https://demo.aimeos.org/' # always times out from github actions but the website works in a browser
         - '^https://appflowy.io/' # Cannot get certificate but loads fine in browser and shows as secure
+        - '^https://metronome.im/' # Failed to establish connection but loads fine in browser

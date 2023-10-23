@@ -1,0 +1,12 @@
+name: "LLMonitor"
+website_url: "https://llmonitor.com"
+source_code_url: "https://github.com/llmonitor/llmonitor"
+description: "Analytics & observability platform for AI apps"
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+  - Monitoring
+depends_3rdparty: no

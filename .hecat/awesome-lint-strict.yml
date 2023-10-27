@@ -10,3 +10,8 @@ steps:
       licenses_files:
         - licenses.yml
         - licenses-nonfree.yml
+      last_updated_skip: # (optional, default []) list of items (source_code_url) for which the last update date check should not produce errors/warnings
+        - https://github.com/tomershvueli/homepage # simple/no maintenance required https://github.com/awesome-selfhosted/awesome-selfhosted-data/pull/242
+        - https://github.com/abrenaut/posio # simple/no maintenance required
+        - https://github.com/knrdl/bicimon # simple/no maintenance required
+        - https://github.com/Kshitij-Banerjee/Cubiks-2048 # simple/no maintenance required

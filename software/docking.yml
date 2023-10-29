@@ -1,0 +1,15 @@
+name: DocKing
+website_url: https://docking.shipsaas.tech
+description: Your shared-microservice that takes over the document templates management & render/export PDF dynamically.
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Javascript
+  - Docker
+tags:
+  - Document Management
+source_code_url: https://github.com/shipsaas/docking
+stargazers_count: 69
+updated_at: '2023-10-29'
+archived: false

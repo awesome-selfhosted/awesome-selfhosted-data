@@ -1,6 +1,6 @@
 name: DocKing
 website_url: https://docking.shipsaas.tech
-description: Your shared-microservice that takes over the document templates management & render/export PDF dynamically.
+description: Document management service/microservice that handles templates and renders them in PDF format, all in one place.
 licenses:
   - MIT
 platforms:

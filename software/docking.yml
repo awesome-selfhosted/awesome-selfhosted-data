@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - PHP
-  - Javascript
+  - Nodejs
   - Docker
 tags:
   - Document Management

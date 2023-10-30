@@ -1,7 +1,7 @@
-name: "Servas"
-website_url: "https://github.com/beromir/Servas"
-source_code_url: "https://github.com/beromir/Servas"
-description: "A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome."
+name: Servas
+website_url: https://github.com/beromir/Servas
+source_code_url: https://github.com/beromir/Servas
+description: A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,4 +10,7 @@ platforms:
   - PHP
 tags:
   - Bookmarks and Link Sharing
-related_software_url: "https://github.com/beromir/Servas#browser-extensions"
+related_software_url: https://github.com/beromir/Servas#browser-extensions
+stargazers_count: 371
+updated_at: '2023-10-07'
+archived: false

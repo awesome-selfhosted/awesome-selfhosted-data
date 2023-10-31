@@ -1,6 +1,6 @@
 name: Kestra
 website_url: https://kestra.io
-description: Kestra is an open-source data orchestrator that simplifies workflow creation through a declarative YAML interface. It accommodates changes via UI, API, and CI/CD processes while keeping the orchestration logic in code.
+description: Event-driven, language-agnostic platform to create, schedule, and monitor workflows. In code. Coordinate data pipelines and tasks such as ETL and ELT.
 licenses:
   - Apache-2.0
 platforms:

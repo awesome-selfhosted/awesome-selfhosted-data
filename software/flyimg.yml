@@ -1,7 +1,7 @@
 name: "Flyimg"
 website_url: "https://flyimg.io"
 source_code_url: "https://github.com/flyimg/flyimg"
-description: "Dockerized application to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system."
+description: "Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system."
 licenses:
   - MIT
 platforms:

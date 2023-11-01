@@ -1,8 +1,8 @@
 name: StartOS
 website_url: https://start9.com
-description: ' Browser-based, graphical operating system for a personal server.'
+description: 'Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer.'
 licenses:
-  - ⊘ Proprietary
+  - MIT
 platforms:
   - Rust
 tags:

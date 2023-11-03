@@ -1,0 +1,11 @@
+name: "ESMira"
+website_url: "https://esmira.kl.ac.at"
+source_code_url: "https://github.com/KL-Psychological-Methodology/ESMira"
+description: "ESMira is a tool for running longitudinal studies (ESM, AA, EMA, ...) with data collection and communication with participants being completely anonymous."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+demo_url: "https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo"

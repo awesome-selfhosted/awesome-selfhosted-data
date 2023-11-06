@@ -1,7 +1,7 @@
 name: "LanguageTool"
 website_url: "https://languagetool.org/"
 source_code_url: "https://github.com/languagetool-org/languagetool"
-description: "LanguageTool is an Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect."
+description: "Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect."
 licenses:
   - LGPL-2.1
 platforms:

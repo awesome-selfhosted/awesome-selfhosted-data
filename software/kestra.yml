@@ -1,0 +1,11 @@
+name: Kestra
+website_url: https://kestra.io/
+description: Kestra is a event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Automation
+source_code_url: https://github.com/kestra-io/kestra/

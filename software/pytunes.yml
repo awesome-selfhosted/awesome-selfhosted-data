@@ -1,0 +1,11 @@
+name: "pytunes"
+website_url: "https://github.com/bernhardfritz/pytunes"
+source_code_url: "https://github.com/bernhardfritz/pytunes"
+description: "Free and open-source music streaming service."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Audio Streaming

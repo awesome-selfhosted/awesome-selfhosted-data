@@ -1,0 +1,12 @@
+name: "Digistorm"
+website_url: "https://digistorm.app/"
+source_code_url: "https://codeberg.org/ladigitale/digistorm"
+description: "Create collaborative surveys, quizzes, brainstorms, and word clouds (documentation in French)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Groupware
+  - Polls and Events
+demo_url: "https://digistorm.app/"

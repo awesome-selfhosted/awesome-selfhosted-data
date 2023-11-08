@@ -5,7 +5,6 @@ description: "Simple, easy to use wiki software using markdown."
 licenses:
   - MIT
 platforms:
-  - Python
   - Docker
 tags:
   - Wikis

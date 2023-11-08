@@ -5,8 +5,7 @@ description: "An inventory and organization system built for the Home User with 
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
   - Docker
 tags:
-  - "Inventory Management"
+  - Inventory Management
 demo_url: "https://homebox.fly.dev/"

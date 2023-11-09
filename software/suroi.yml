@@ -1,7 +1,7 @@
 name: "Suroi"
 website_url: "https://suroi.io/"
 source_code_url: "https://github.com/HasangerGames/suroi"
-description: "An open source video game, inspired by the legendary surviv.io game, that can also be self-hosted. This open source game was created after surviv.io unexpectedly decided to shut down operations and thousands of players left with no alternatives."
+description: "Clone of the now abandoned, Surviv.io"
 licenses:
   - GPL-3.0
 platforms:

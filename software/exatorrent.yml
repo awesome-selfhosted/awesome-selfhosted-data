@@ -1,0 +1,12 @@
+name: exatorrent
+website_url: https://github.com/varbhat/exatorrent
+source_code_url: https://github.com/varbhat/exatorrent
+description: An elegant BitTorrent client written in Go.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+  - Nodejs
+tags:
+  - File Transfer - Peer-to-peer Filesharing

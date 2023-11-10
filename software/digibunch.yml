@@ -1,0 +1,13 @@
+name: Digibunch
+website_url: https://ladigitale.dev/digibunch/#/
+description: Create bunches of links to share with your learners or colleagues.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Bookmarks and Link Sharing
+  - Learning and Courses
+source_code_url: https://codeberg.org/ladigitale/digibunch
+demo_url: https://ladigitale.dev/digibunch/#/b/5f67b12092b60

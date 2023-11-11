@@ -1,0 +1,11 @@
+name: Micro Url Shortener
+website_url: https://github.com/laingcc/micro-url-shortener
+description: An extremely tiny url, minimal url shortener written with bottle and python
+licenses:
+  - Zlib
+platforms:
+  - python
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/laingcc/micro-url-shortener
+updated_at: '2023-11-11'

@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Python
   - Docker
+  - deb
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/caronc/apprise

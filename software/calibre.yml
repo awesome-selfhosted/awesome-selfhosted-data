@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Document Management - E-books
 source_code_url: https://launchpad.net/calibre

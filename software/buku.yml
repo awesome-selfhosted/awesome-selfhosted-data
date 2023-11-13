@@ -5,6 +5,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/jarun/Buku

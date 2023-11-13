@@ -1,0 +1,12 @@
+name: Digiwall
+website_url: https://digiwall.app/
+description: Create multimedia collaborative walls for in-person or remote work (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Groupware
+source_code_url: https://codeberg.org/ladigitale/digiwall
+demo_url: https://digiwall.app/

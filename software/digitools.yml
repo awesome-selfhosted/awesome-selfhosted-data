@@ -1,0 +1,12 @@
+name: "Digitools"
+website_url: "https://ladigitale.dev/digitools"
+source_code_url: "https://codeberg.org/ladigitale/digitools"
+description: "A set of simple tools to accompany the animation of courses in person or remotely. (documentation in French)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Learning and Courses
+  - Groupware
+demo_url: "https://ladigitale.dev/digitools/"

@@ -38,8 +38,8 @@ tags:
   - Calendar & Contacts
   - Bookmarks and Link Sharing
   - Pastebins
-# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
-depends_3rdparty: yes
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: true
 # (optional) link to an interactive demo of the software
 demo_url: "https://my.awesome.softwar.e/demo"
 # (optional) link to a list of clients/addons/plugins/apps/bots... for the software

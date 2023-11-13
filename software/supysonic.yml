@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/spl0k/supysonic

@@ -5,9 +5,10 @@ licenses:
   - GPL-2.0
 platforms:
   - Python
+  - deb
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/onionshare/onionshare
-stargazers_count: 5739
-updated_at: '2023-10-16'
+stargazers_count: 5780
+updated_at: '2023-10-25'
 archived: false

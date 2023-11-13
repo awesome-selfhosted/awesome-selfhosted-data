@@ -1,0 +1,13 @@
+name: Digiscreen
+website_url: https://ladigitale.dev/digiscreen/
+description: Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Learning and Courses
+  - Groupware
+source_code_url: https://codeberg.org/ladigitale/digiscreen
+demo_url: https://ladigitale.dev/digiscreen/

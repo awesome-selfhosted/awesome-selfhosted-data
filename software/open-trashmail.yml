@@ -1,21 +1,13 @@
 # software name
 name: "OpenTrashmail"
-# URL of the software project's homepage
 website_url: "https://github.com/HaschekSolutions/opentrashmail"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/HaschekSolutions/opentrashmail"
-# description of what the software does, shorter than 250 characters, sentence case
-description: "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API"
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+description: "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API."
 licenses:
   - Apache-2.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Python
   - PHP
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Communication - Email - Mail Transfer Agents
-# (optional, yes/no, default no) whether the software depends on a third-party service outside the user's control
-depends_3rdparty: no

@@ -1,0 +1,14 @@
+name: "slskd"
+website_url: "https://github.com/slskd/slskd"
+source_code_url: "https://github.com/slskd/slskd"
+description: "A modern client-server application for the Soulseek file sharing network. "
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - AGPL-3.0
+platforms:
+  - C#
+  - Javascript
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Filesharing
+  - Music

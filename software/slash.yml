@@ -1,0 +1,10 @@
+name: "Slash"
+website_url: "https://github.com/boojack/slash"
+source_code_url: "https://github.com/boojack/slash"
+description: "An open source, self-hosted bookmarks and link sharing platform."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Bookmarks and Link Sharing

@@ -1,11 +1,14 @@
-name: "Docuseal"
-website_url: "https://www.docuseal.co"
-source_code_url: "https://github.com/docusealco/docuseal"
-description: "Create, fill, and sign digital documents (alternative to DocuSign)."
+name: Docuseal
+website_url: https://www.docuseal.co
+source_code_url: https://github.com/docusealco/docuseal
+description: Create, fill, and sign digital documents (alternative to DocuSign).
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Document Management
-demo_url: "https://demo.docuseal.tech/"
+demo_url: https://demo.docuseal.tech/
+stargazers_count: 3671
+updated_at: '2023-11-17'
+archived: false

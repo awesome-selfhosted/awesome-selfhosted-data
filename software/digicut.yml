@@ -1,0 +1,11 @@
+name: Digicut
+website_url: https://digicut.app/
+description: Chop and extract from an audio file or video directly into your browser (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Groupware
+source_code_url: https://codeberg.org/ladigitale/digicut
+depends_3rdparty: true

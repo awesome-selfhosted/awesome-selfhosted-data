@@ -5,9 +5,7 @@ description: "Flexible tournament system to build a tournament setup, add teams,
 licenses:
   - MIT
 platforms:
-  - Python
-  - Javascript
   - Docker
+  - Nodejs
 tags:
   - Miscellaneous
-depends_3rdparty: false

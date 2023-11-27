@@ -1,0 +1,12 @@
+name: Digimindmap
+website_url: https://ladigitale.dev/digimindmap/#/
+description: Create simple mindmaps (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Knowledge Management Tools 
+source_code_url: https://codeberg.org/ladigitale/digimindmap
+demo_url: https://ladigitale.dev/digimindmap/#/

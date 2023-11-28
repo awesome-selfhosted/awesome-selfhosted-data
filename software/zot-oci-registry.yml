@@ -1,0 +1,15 @@
+name: ZOT OCI Registry
+website_url: https://zotregistry.io/
+source_code_url: https://github.com/project-zot/zot
+description: A production-ready vendor-neutral OCI-native container image registry.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Object Storage & File Servers
+demo_url: https://zothub.io
+stargazers_count: 556
+updated_at: '2023-11-27'
+archived: false

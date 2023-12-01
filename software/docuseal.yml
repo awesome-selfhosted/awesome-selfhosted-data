@@ -1,10 +1,11 @@
-name: Docuseal
+name: DocuSeal
 website_url: https://www.docuseal.co
 source_code_url: https://github.com/docusealco/docuseal
-description: Create, fill, and sign digital documents (alternative to DocuSign).
+description: Self-hosted DocuSign alternative. Create, fill, and sign digital documents.
 licenses:
   - AGPL-3.0
 platforms:
+  - Ruby
   - Docker
 tags:
   - Document Management

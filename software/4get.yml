@@ -1,0 +1,13 @@
+name: "4get"
+website_url: "https://4get.ca"
+source_code_url: "https://git.lolcat.ca/lolcat/4get"
+description: "A proxy search engine that lets you search the internet anonymously."
+licenses:
+  - WTFPL
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Search Engines
+depends_3rdparty: true
+demo_url: "https://4get.ca"

@@ -1,7 +1,7 @@
-name: "Shelf"
-website_url: "https://www.shelf.nu"
-source_code_url: "https://github.com/Shelf-nu/shelf.nu"
-description: "Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever."
+name: Shelf
+website_url: https://www.shelf.nu
+source_code_url: https://github.com/Shelf-nu/shelf.nu
+description: Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
 tags:
   - Inventory Management
   - Maps and Global Positioning System (GPS)
+stargazers_count: 1247
+updated_at: '2023-12-05'
+archived: false

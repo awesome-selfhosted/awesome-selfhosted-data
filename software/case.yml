@@ -1,0 +1,15 @@
+name: CASE
+website_url: https://case.app/
+description: Self-hosted & local first lightweight open source backend as a service (Baas).
+licenses:
+  - MIT
+platforms:
+  - NestJS
+  - TypeScript
+  - TypeORM
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/casejs/CASE
+stargazers_count: 101
+updated_at: '2023-12-03'
+archived: false

@@ -1,7 +1,7 @@
-name: "Bracket"
-website_url: "https://evroon.github.io/bracket"
-source_code_url: "https://github.com/evroon/bracket"
-description: "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public."
+name: Bracket
+website_url: https://evroon.github.io/bracket
+source_code_url: https://github.com/evroon/bracket
+description: Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Nodejs
 tags:
   - Miscellaneous
+stargazers_count: 39
+updated_at: '2023-12-05'
+archived: false

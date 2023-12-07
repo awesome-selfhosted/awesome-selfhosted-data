@@ -5,7 +5,6 @@ description: "Visual database exploration made for real world databases (big and
 licenses:
   - MIT
 platforms:
-  - Javascript
   - Elixir
   - Nodejs
   - Docker

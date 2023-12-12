@@ -1,0 +1,12 @@
+name: "Quartz"
+website_url: "https://quartz.jzhao.xyz"
+source_code_url: "https://github.com/jackyzha0/quartz"
+description: "A fast, batteries included digital garden static-site generator that changes markdown content into websites "
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Static Site Generators
+depends_3rdparty: false
+demo_url: "https://quartz.jzhao.xyz"

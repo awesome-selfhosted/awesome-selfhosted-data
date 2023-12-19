@@ -1,0 +1,10 @@
+name: Digipad
+website_url: https://digipad.app/
+description: An online self-hosted application for creating collaborative digital notepads (Documentation in french).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Groupware
+source_code_url: https://codeberg.org/ladigitale/digipad

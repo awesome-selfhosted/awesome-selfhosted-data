@@ -1,0 +1,12 @@
+name: Monit
+website_url: https://mmonit.com/monit/
+description: An open source utility for managing and monitoring, processes, programs, files, directories and filesystems on a UNIX system.
+licenses:
+   - AGPL-3.0 
+platforms:
+  - deb
+  - Docker
+  - C
+tags:
+ - Status / Uptime Pages
+source_code_url: https://bitbucket.org/tildeslash/monit/src/master/

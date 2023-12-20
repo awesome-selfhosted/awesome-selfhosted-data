@@ -6,9 +6,7 @@ licenses:
   - Apache-2.0
   - Commons-Clause
 platforms:
-  - Python
   - Docker
-  - K8S
 tags:
   - Software Development - Low Code
   

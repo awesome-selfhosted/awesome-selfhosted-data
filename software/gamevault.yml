@@ -5,7 +5,6 @@ description: "GameVault is a gaming platform for organizing, downloading, and pl
 licenses:
   - CC-BY-NC-SA-4.0
 platforms:
-  - Javascript
   - Nodejs
   - Docker
 tags:

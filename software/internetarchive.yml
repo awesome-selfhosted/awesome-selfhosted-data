@@ -1,6 +1,6 @@
 name: Internet Archive Python Library
 website_url: https://archive.org/services/docs/api/internetarchive
-description: A command-line tool that lets you interface directly with the internet archive whether you upload and download, this is the official tool straight from the organization.
+description: A command-line tool that lets you interface directly with the internet archive whether you upload and download, you can interact directly with the servers.
 licenses:
   - AGPL-3.0
 platforms:

@@ -7,6 +7,7 @@ licenses:
 platforms:
   - JavaScript
   - Nodejs
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 depends_3rdparty: false

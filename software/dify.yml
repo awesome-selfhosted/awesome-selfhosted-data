@@ -1,0 +1,12 @@
+name: "Dify.ai"
+website_url: "https://dify.ai"
+source_code_url: "https://github.com/langgenius/dify"
+description: "Build, test and deploy LLM applications."
+licenses:
+  - Apache-2.0
+  - Commons-Clause
+platforms:
+  - Docker
+tags:
+  - Software Development - Low Code
+  

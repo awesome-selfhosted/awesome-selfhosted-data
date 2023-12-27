@@ -1,0 +1,14 @@
+name: "Frank!Framework"
+website_url: "https://frankframework.org"
+source_code_url: "https://github.com/frankframework/frankframework"
+description: "The Frank!Framework is an easy-to-use, stateless integration framework which allows (transactional) messages to be modified and exchanged between different systems."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+  - K8S
+tags:
+  - Automation
+depends_3rdparty: false
+demo_url: "https://frank2example.frankframework.org"

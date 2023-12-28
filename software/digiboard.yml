@@ -1,0 +1,11 @@
+
+name: Digiboard
+website_url: https://digiboard.app/
+description: An online self-hosted application for creating collaborative whiteboards (Documentation in french).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous 
+source_code_url: https://codeberg.org/ladigitale/digiboard

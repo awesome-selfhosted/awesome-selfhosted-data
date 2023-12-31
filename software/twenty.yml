@@ -5,8 +5,7 @@ description: A modern CRM offering the flexibility of open source, advanced feat
 licenses:
   - AGPL-3.0
 platforms:
-  - TypeScript
+  - Docker
 tags:
-  - Customer Relationship Management
-demo_url: "app.twenty.com"
-
+  - Groupware
+demo_url: "https://app.twenty.com"

@@ -1,0 +1,13 @@
+name: Digiview
+website_url: https://ladigitale.dev/digiview/
+description: View YouTube videos in a distraction-free interface (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://codeberg.org/ladigitale/digiview
+demo_url: https://ladigitale.dev/digiview/
+depends_3rdparty: true

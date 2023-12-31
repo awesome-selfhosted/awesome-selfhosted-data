@@ -5,9 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - deb
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/matrix-org/synapse
-stargazers_count: 11565
-updated_at: '2023-11-08'
+source_code_url: https://github.com/element-hq/synapse
+stargazers_count: 147
+updated_at: '2023-12-21'
 archived: false

@@ -5,6 +5,7 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Python
+  - deb
 tags:
   - Software Development - Project Management
 source_code_url: https://trac.edgewall.org/

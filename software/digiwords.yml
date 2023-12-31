@@ -1,0 +1,11 @@
+name: Digiwords
+website_url: https://ladigitale.dev/digiwords/
+description: A simple online application for creating word clouds (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://codeberg.org/ladigitale/digiwords

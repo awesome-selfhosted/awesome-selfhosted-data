@@ -2,7 +2,7 @@ name: Budibase
 website_url: https://www.budibase.com
 description: Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian).
 licenses:
-  - GPL-3.0
+  - ⊘ Proprietary
 platforms:
   - Nodejs
   - Docker
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/Budibase/budibase
-stargazers_count: 19330
-updated_at: '2023-11-08'
+stargazers_count: 19681
+updated_at: '2023-12-29'
 archived: false

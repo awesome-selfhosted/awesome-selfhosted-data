@@ -1,0 +1,10 @@
+name: "Smederee"
+website_url: "https://smeder.ee"
+source_code_url: "https://smeder.ee/~jan0sch/smederee"
+description: "A frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Scala
+tags:
+  - Software Development - Project Management

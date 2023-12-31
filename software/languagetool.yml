@@ -1,0 +1,15 @@
+name: LanguageTool
+website_url: https://languagetool.org/
+source_code_url: https://github.com/languagetool-org/languagetool
+description: Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect.
+licenses:
+  - LGPL-2.1
+platforms:
+  - Java
+  - Docker
+tags:
+  - Miscellaneous
+related_software_url: https://languagetool.org/insights/post/product-windows-app/
+stargazers_count: 10464
+updated_at: '2023-12-30'
+archived: false

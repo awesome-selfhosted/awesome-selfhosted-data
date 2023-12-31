@@ -5,9 +5,10 @@ licenses:
   - GPL-3.0
 platforms:
   - Python
+  - deb
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/jarun/Buku
-stargazers_count: 5884
-updated_at: '2023-10-20'
+stargazers_count: 5946
+updated_at: '2023-12-08'
 archived: false

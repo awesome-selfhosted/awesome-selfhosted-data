@@ -1,0 +1,12 @@
+name: WebDB
+website_url: https://webdb.app
+source_code_url: https://gitlab.com/web-db/app
+description: Efficient database IDE.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Database Management
+  - Software Development - IDE & Tools
+demo_url: https://demo.webdb.app/

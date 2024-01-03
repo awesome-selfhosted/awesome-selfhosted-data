@@ -1,0 +1,12 @@
+name: "GameVault"
+website_url: "https://gamevau.lt"
+source_code_url: "https://github.com/Phalcode/gamevault-backend"
+description: "Organize, download, and play DRM-free games from your own server, complete with metadata enrichment and user-friendly interface."
+licenses:
+  - CC-BY-NC-SA-4.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://demo.gamevau.lt"

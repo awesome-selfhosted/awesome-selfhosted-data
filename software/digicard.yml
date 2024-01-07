@@ -1,0 +1,11 @@
+name: Digicard
+website_url: https://codeberg.org/ladigitale/digicard
+description: Create simple graphic compositions (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous
+demo_url: https://ladigitale.dev/digicard/
+source_code_url: https://codeberg.org/ladigitale/digicard

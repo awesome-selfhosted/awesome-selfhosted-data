@@ -1,0 +1,12 @@
+name: Paste69
+website_url: https://0x45.st
+description: Simple CURL-able pastebin.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Crystal
+tags:
+  - Pastebins
+source_code_url: https://github.com/watzon/paste69
+related_software_url: https://github.com/topics/pastefy-addon

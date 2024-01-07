@@ -1,0 +1,12 @@
+name: Stremio
+website_url: https://www.stremio.com
+source_code_url: https://github.com/Stremio/stremio-core
+description: A fully featured media-center designed to help you organize and stream your favorite videos, movies, and TV series.
+licenses:
+ - MIT
+platforms:
+  - Rust
+tags:
+ - Media Streaming - Multimedia Streaming
+demo_url: https://web.stremio.com
+related_software_url: https://www.stremio.com/downloads

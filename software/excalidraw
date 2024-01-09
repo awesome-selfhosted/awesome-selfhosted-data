@@ -1,0 +1,14 @@
+# software name
+name: "Excalidraw"
+website_url: "https://excalidraw.com/"
+source_code_url: "https://github.com/excalidraw/excalidraw"
+description: "Create beautiful hand-drawn like diagrams, wireframes, or whatever you like."
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - Note-taking & Editors
+  - Miscellaneous
+demo_url: "https://excalidraw.com/"

@@ -1,0 +1,12 @@
+name: "ybFeed"
+website_url: "https://github.com/ybizeul/ybFeed"
+source_code_url: "https://github.com/ybizeul/ybFeed"
+description: "ybFeed is a personnal micro feed where you can post snippets of text or images"
+licenses:
+  - MIT
+platforms:
+  - Go
+  - React
+tags:
+  - Pastebins
+  - File Transfer - Single-click & Drag-n-drop Upload

@@ -1,7 +1,7 @@
-name: "WikiDocs"
-website_url: "http://wikidocs.it"
-source_code_url: "https://github.com/Zavy86/WikiDocs"
-description: "A databaseless markdown flat-file wiki engine."
+name: WikiDocs
+website_url: http://wikidocs.it
+source_code_url: https://github.com/Zavy86/WikiDocs
+description: A databaseless markdown flat-file wiki engine.
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Wikis
-demo_url: "https://demo.wikidocs.it"
+demo_url: https://demo.wikidocs.it
+stargazers_count: 134
+updated_at: '2024-01-07'
+archived: false

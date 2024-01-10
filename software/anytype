@@ -1,0 +1,16 @@
+name: "Anytype"
+website_url: "https:/anytype.io"
+source_code_url: "https://github.com/anyproto"
+description: "All-in-one tool for project, task, wiki, and knowledge management. E2E encrypted & p2p synced on Mac, Windows, Linux, Android & iOS."
+licenses:
+  - MIT
+platforms:
+  - Java
+  - Go
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Note taking & Editors
+  - Software Development - Project Management
+  - Bookmarks and Link Sharing
+  - Task Management & To do Lists
+depends_3rdparty: false

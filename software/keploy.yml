@@ -1,0 +1,19 @@
+name: "Keploy"
+website_url: "https://keploy.io"
+source_code_url: "https://github.com/keploy/keploy"
+description: "Keploy is a developer-centric backend testing tool. It makes backend tests with built-in-mocks, faster than unit tests, from user traffic, making it easy to use, powerful, and extensible.."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Python
+  - Nodejs
+  - Go
+  - JavaScript
+  - Docker
+tags:
+  - Automation
+  - Testing  
+  - API Management
+depends_3rdparty: false
+demo_url: "https://www.youtube.com/watch?v=23yQaY81Zho"

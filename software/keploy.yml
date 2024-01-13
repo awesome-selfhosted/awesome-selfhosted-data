@@ -5,11 +5,7 @@ description: "Keploy is a developer-centric backend testing tool. It makes backe
 licenses:
   - Apache-2.0
 platforms:
-  - Java
-  - Python
-  - Nodejs
   - Go
-  - JavaScript
   - Docker
 tags:
   - Software Development - Testing

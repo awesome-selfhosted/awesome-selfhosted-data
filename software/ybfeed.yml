@@ -6,7 +6,8 @@ licenses:
   - MIT
 platforms:
   - Go
-  - React
+  - Nodejs
+  - Docker
 tags:
   - Pastebins
   - File Transfer - Single-click & Drag-n-drop Upload

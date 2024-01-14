@@ -1,7 +1,7 @@
-name: "txtdot"
-website_url: "https://txtdot.github.io/documentation/"
-source_code_url: "https://github.com/TxtDot/txtdot"
-description: "A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts."
+name: txtdot
+website_url: https://txtdot.github.io/documentation/
+source_code_url: https://github.com/TxtDot/txtdot
+description: A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts.
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Proxy
-demo_url: "https://txt.dc09.ru"
+demo_url: https://txt.dc09.ru
+stargazers_count: 25
+updated_at: '2024-01-06'
+archived: false

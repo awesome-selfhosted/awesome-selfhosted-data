@@ -1,7 +1,7 @@
-name: "Mylar3"
-website_url: "https://mylarcomics.com/"
-source_code_url: "https://github.com/mylar3/mylar3"
-description: "Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents."
+name: Mylar3
+website_url: https://mylarcomics.com/
+source_code_url: https://github.com/mylar3/mylar3
+description: Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - Automation
+stargazers_count: 889
+updated_at: '2023-12-27'
+archived: false

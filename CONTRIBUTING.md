@@ -92,6 +92,8 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If the the project has no documentation in English, please add `(documentation in $LANGUAGE)` at the end of the description.
 - If the project is presented as an alternative to another service or application, please mention it as `(alternative to $PRODUCT1, $PRODUCT2)` at the end of the description.
 - If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
+- If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
+- If the project distributes a single static binary, please add the programming language in which it is written.
 
 
 ### Other operations

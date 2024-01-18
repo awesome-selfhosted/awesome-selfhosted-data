@@ -84,7 +84,19 @@ To do this from Github's web interface:
 You can help cover domain name registration and renewal costs by pledging a small amount on [Liberapay ![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay) ![](https://img.shields.io/liberapay/receives/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
 
-### Other
+### Other guidelines
+
+In addition to guidelines listed in the [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md), these general rules help keep the list consistent:
+- Please avoid redundant terms in project descriptions, such as _open-source_, _free_, _self-hosted_... as their presence on awesome-selfhosted already implies this.
+- Prefer shorter forms for descriptions - for example, `Minimalist text adventure game` would be preferred to `A minimalist text adventure game` or `$PROJECT is a minimalist text adventure game`).
+- If the the project has no documentation in English, please add `(documentation in $LANGUAGE)` at the end of the description.
+- If the project is presented as an alternative to another service or application, please mention it as `(alternative to $PRODUCT1, $PRODUCT2)` at the end of the description.
+- If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
+- If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
+- If the project distributes a single static binary, please add the programming language in which it is written.
+
+
+### Other operations
 
 **Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.
 

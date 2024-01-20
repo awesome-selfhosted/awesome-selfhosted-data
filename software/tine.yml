@@ -4,7 +4,7 @@ description: tine is the ideal software for digital collaboration in companies a
 licenses:
   - AGPL-3.0
 platforms:
-  - PHP
+  - Docker
 tags:
   - Groupware
 source_code_url: https://github.com/tine-groupware/tine

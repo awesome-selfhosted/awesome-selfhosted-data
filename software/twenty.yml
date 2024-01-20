@@ -1,0 +1,10 @@
+name: Twenty
+website_url: "https://twenty.com"
+source_code_url: "https://github.com/twentyhq/twenty"
+description: A modern CRM offering the flexibility of open source, advanced features, and a sleek design.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Groupware

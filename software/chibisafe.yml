@@ -1,0 +1,11 @@
+name: "Chibisafe"
+website_url: "https://chibisafe.moe"
+source_code_url: "https://github.com/chibisafe/chibisafe"
+description: "File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

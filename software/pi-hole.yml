@@ -8,6 +8,7 @@ platforms:
   - PHP
 tags:
   - DNS
+  - Docker
 source_code_url: https://github.com/pi-hole/pi-hole
 stargazers_count: 45791
 updated_at: '2024-01-06'

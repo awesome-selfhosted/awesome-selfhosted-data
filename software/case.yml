@@ -5,7 +5,6 @@ description: Instant backend in TS with DB, Admin panel, API, JS SDK
 licenses:
   - MIT
 platforms:
-  - Typescript
-  - Nodejs
+  - Javascript
 tags:
-  - Software Development - Low Code - Backend
+  - Software Development - FaaS & Serverless

@@ -1,0 +1,12 @@
+name: "Dozzle"
+website_url: "https://dozzle.dev/"
+source_code_url: "https://github.com/amir20/dozzle"
+description: "A lightweight, web-based Docker log viewer that provides real-time monitoring and easy troubleshooting."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+  - Go
+tags:
+  - Monitoring

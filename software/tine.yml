@@ -1,0 +1,10 @@
+name: Tine
+website_url: https://www.tine-groupware.de/
+description: Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Groupware
+source_code_url: https://github.com/tine-groupware/tine

@@ -1,7 +1,7 @@
 name: CASE
 website_url: https://case.app
 source_code_url: https://github.com/casejs/case
-description: Instant backend in TS with DB, Admin panel, API, JS SDK
+description: Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK.
 licenses:
   - MIT
 platforms:

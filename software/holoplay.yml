@@ -6,7 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - React
+  - Nodejs
 tags:
   - Media Streaming - Audio Streaming
 depends_3rdparty: yes

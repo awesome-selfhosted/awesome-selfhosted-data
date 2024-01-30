@@ -5,6 +5,8 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Docker
+  - NodeJS
+  - PHP
 tags:
   - Software Development - FaaS & Serverless
 source_code_url: https://github.com/appwrite/appwrite

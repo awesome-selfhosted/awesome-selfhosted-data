@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Ruby
+  - Docker
 tags:
   - Automation
 source_code_url: https://github.com/automaticmode/active_workflow

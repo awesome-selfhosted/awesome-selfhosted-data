@@ -4,9 +4,16 @@ description: Bookmark manager for the wizards 🧙
 licenses:
   - MIT
 platforms:
+  - Docker
+  - Dockerfile
+  - Svelte
+  - Typescript
+  - Javascript
+  - HTML
+  - Shell
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/goniszewski/
-stargazers_count: 6001
+stargazers_count: 1300
 updated_at: '2024-01-31'
 archived: false

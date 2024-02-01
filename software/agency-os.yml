@@ -1,0 +1,16 @@
+name: "AgencyOS"
+website_url: "https://www.agencyos.dev/"
+source_code_url: "https://github.com/directus-community/agency-os"
+description: "Operating system for digital agencies"
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Task Management & To-do Lists
+  - Software Development - Project Management
+  - Software Development
+depends_3rdparty: false
+demo_url: "https://www.agencyos.dev/"

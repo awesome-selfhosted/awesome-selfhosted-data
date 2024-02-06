@@ -1,8 +1,8 @@
 # software name
-name: "OpenTrashmail"
-website_url: "https://github.com/HaschekSolutions/opentrashmail"
-source_code_url: "https://github.com/HaschekSolutions/opentrashmail"
-description: "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API."
+name: OpenTrashmail
+website_url: https://github.com/HaschekSolutions/opentrashmail
+source_code_url: https://github.com/HaschekSolutions/opentrashmail
+description: Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API.
 licenses:
   - Apache-2.0
 platforms:
@@ -11,6 +11,6 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Mail Transfer Agents
-stargazers_count: 424
+stargazers_count: 438
 updated_at: '2024-01-23'
 archived: false

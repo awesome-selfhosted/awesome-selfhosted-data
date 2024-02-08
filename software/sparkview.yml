@@ -1,7 +1,7 @@
 ```yaml
 name: "SparkView"
 website_url: "https://www.beyondssl.com/en/products/sparkview/"
-description: "Description of my awesome software."
+description: "SparkView is a smart and easy remote access solution that works from any device with a browser. No VPN client needs to be installed, simply deploy the Docker image in your DMZ. Access VMs, desktops, servers or applications anytime and from anywhere, without complex and costly client roll-outs or user management."
 licenses:
   - Concurrent User
 platforms:

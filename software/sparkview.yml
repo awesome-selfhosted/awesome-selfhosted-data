@@ -1,0 +1,15 @@
+```yaml
+name: "SparkView"
+website_url: "https://www.beyondssl.com/en/products/sparkview/"
+description: "Description of my awesome software."
+licenses:
+  - Concurrent User
+platforms:
+  - Java
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Remote Access
+  - VPN
+related_software_url: "https://www.beyondssl.com/en/products/sparkview/#pg-104-16"
+```

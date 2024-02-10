@@ -2,11 +2,9 @@ name: "vdirsyncer"
 website_url: "https://vdirsyncer.pimutils.org"
 source_code_url: "https://github.com/pimutils/vdirsyncer"
 description: "Command-line tool for synchronizing calendars and addressbooks (CalDAV and CardDAV) between a variety of servers or the local filesystem."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Calendar & Contacts

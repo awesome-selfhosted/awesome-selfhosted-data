@@ -1,0 +1,12 @@
+name: "ShareTOTP"
+website_url: "https://github.com/avicoder/ShareTOTP"
+source_code_url: "https://github.com/avicoder/ShareTOTP"
+description: "Enable seamless sharing of 2FA codes within teams."
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Security
+depends_3rdparty: false

@@ -1,0 +1,18 @@
+name: "StatsPro"
+website_url: "https://statspro.io"
+source_code_url: "https://github.com/StatsProIO/StatsPro/"
+description: "StatsPro is a open-source, easily deployable, and privacy-friendly analytics software. StatsPro has many of the features that you would expect from other analytics software without invading your users privacy and without selling data to 3rd-parties."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - AGPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Javascript
+  - PHP
+  - Nodejs
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Analytics
+depends_3rdparty: false
+demo_url: "https://statspro.io/dashboard/demo.com"

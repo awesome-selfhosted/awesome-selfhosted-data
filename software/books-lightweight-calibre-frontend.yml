@@ -6,7 +6,6 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
-  - Elm
   - Docker
 tags:
   - Document Management - E-books

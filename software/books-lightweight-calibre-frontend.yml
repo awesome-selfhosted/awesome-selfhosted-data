@@ -1,0 +1,14 @@
+name: "books"
+website_url: "https://ilikeorangutans.github.io/books/"
+source_code_url: "https://git.sr.ht/~ilikeorangutans/books"
+description: "Lightweight web based ebook browser and reader frontend for calibre library."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Elm
+  - Docker
+tags:
+  - Document Management - E-books
+depends_3rdparty: false
+related_software_url: "https://calibre-ebook.com/"

@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Audio Streaming
-depends_3rdparty: yes
+depends_3rdparty: True
 stargazers_count: 58
 updated_at: '2024-01-23'
 archived: false

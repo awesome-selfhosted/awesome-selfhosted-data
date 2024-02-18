@@ -1,9 +1,10 @@
 name: Bracket
 website_url: https://evroon.github.io/bracket
 source_code_url: https://github.com/evroon/bracket
+demo_url: https://www.bracketapp.nl/demo
 description: Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Docker
   - Nodejs

@@ -1,0 +1,12 @@
+name: "EPUB to Audiobook Converter"
+website_url: "https://github.com/p0n1/epub_to_audiobook"
+source_code_url: "https://github.com/p0n1/epub_to_audiobook"
+description: "EPUB to audiobook converter, optimized for Audiobookshelf. Multiple TTS providrs supported."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+depends_3rdparty: true

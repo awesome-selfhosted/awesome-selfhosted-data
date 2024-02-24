@@ -1,0 +1,27 @@
+name: "Huly"
+website_url: "https://huly.io"
+source_code_url: "https://github.com/hcengineering/platform"
+description: "All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more. Integrated with GitHub and others."
+licenses:
+  - EPL-2.0
+platforms:
+  - Docker
+  - K8S
+  - Nodejs
+  - JavaScript
+tags:
+  - Software Development - Project Management
+  - Automation
+  - Calendar & Contacts
+  - Communication - Custom Communication Systems
+  - Document Management
+  - Groupware
+  - Human Resources Management (HRM)
+  - Knowledge Management Tools
+  - Note-taking & Editors
+  - Task Management & To-do Lists
+  - Ticketing
+  - Time Tracking
+  - Wikis
+depends_3rdparty: false
+demo_url: "https://app.huly.io"

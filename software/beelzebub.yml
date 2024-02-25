@@ -1,0 +1,18 @@
+name: "beelzebub"
+website_url: "https://beelzebub-honeypot.com/"
+source_code_url: "https://github.com/mariocandela/beelzebub"
+description: "A secure low code honeypot framework, leveraging AI for System Virtualization."
+licenses:
+  - MIT License
+platforms:
+  - Docker
+  - K8S
+  - Go
+tags:
+  - honeypot
+  - cloudnative
+  - research
+  - low-code
+  - cybersecurity
+depends_3rdparty: false
+demo_url: "https://beelzebub-honeypot.com/docs/"

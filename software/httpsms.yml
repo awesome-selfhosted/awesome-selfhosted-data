@@ -1,0 +1,14 @@
+name: "httpSMS"
+website_url: "http://httpsms.com"
+source_code_url: "https://github.com/NdoleStudio/httpsms"
+description: "Use your Android phone as an SMS gateway to send and receive SMS messages via a simple programmable API."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation
+  - Communication - Custom Communication Systems
+depends_3rdparty: true
+demo_url: "https://sandbox.httpsms.com"

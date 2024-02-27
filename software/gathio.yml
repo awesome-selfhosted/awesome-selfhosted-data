@@ -5,8 +5,6 @@ description: "Self-destructing, shareable, no-registration event pages"
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
-  - Typescrpt
   - Nodejs
   - Docker
 tags:

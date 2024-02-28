@@ -1,0 +1,12 @@
+name: "Grimoire"
+website_url: "https://grimoire.pro"
+source_code_url: "https://github.com/goniszewski/grimoire"
+description: "An open-source bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Bookmarks and Link Sharing
+depends_3rdparty: false

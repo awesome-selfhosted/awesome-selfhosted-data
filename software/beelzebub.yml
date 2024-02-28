@@ -9,10 +9,6 @@ platforms:
   - K8S
   - Go
 tags:
-  - honeypot
-  - cloudnative
-  - research
-  - low-code
-  - cybersecurity
+  - Miscellaneous 
 depends_3rdparty: false
 demo_url: "https://beelzebub-honeypot.com/docs/"

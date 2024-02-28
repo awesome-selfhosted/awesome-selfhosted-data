@@ -1,0 +1,11 @@
+name: Chhoto URL
+website_url: https://github.com/SinTan1729/chhoto-url
+description: Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten).
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/SinTan1729/chhoto-url

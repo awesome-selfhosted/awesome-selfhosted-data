@@ -1,0 +1,12 @@
+name: Refeed
+website_url: https://refeedreader.org/
+description: Open Source RSS Reader
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Feed Readers
+source_code_url: https://github.com/michaelkremenetsky/Refeed
+updated_at: '2024-02-29'
+archived: false

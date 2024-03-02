@@ -1,0 +1,16 @@
+name: Meltano
+website_url: "https://meltano.com/"
+source_code_url: "https://github.com/meltano/meltano"
+description: "The declarative code-first data integration engine."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Analytics
+  - Automation
+demo_url: "https://meltano.com/demo"
+related_software_url: "https://hub.meltano.com/"
+stargazers_count: 1518
+updated_at: "2024-03-02"
+archived: false

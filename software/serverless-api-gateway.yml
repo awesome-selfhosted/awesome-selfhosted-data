@@ -1,0 +1,14 @@
+name: Serverless API Gateway
+website_url: https://serverlessapigateway.com
+description: Serverless API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+licenses:
+  - Elastic License
+platforms:
+  - TypeScript
+  - Workers
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/irensaltali/serverlessapigateway
+stargazers_count: 38
+updated_at: '2024-03-01'
+archived: false

@@ -6,9 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Python
-  - Go
-  - JavaScript
 tags:
   - Conference Management
   - Booking and Scheduling

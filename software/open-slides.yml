@@ -1,0 +1,17 @@
+name: "OpenSlides"
+website_url: "https://openslides.com/"
+source_code_url: "https://github.com/OpenSlides/OpenSlides"
+description: "A web based presentation and assembly system for managing and projecting agenda, motions and elections of an assembly."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Go
+  - JavaScript
+tags:
+  - Conference Management
+  - Booking and Scheduling
+  - Polls and Events
+depends_3rdparty: false
+demo_url: "https://demo.os4.openslides.com/login"

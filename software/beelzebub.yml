@@ -10,5 +10,5 @@ platforms:
   - Go
 tags:
   - Miscellaneous 
-depends_3rdparty: false
+depends_3rdparty: true
 demo_url: "https://beelzebub-honeypot.com/docs/"

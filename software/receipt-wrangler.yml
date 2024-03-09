@@ -6,8 +6,6 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
-  - Javascript
-  - Dart
   - Python
   - Docker
 tags:

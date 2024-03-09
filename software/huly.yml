@@ -1,7 +1,7 @@
-name: "Huly"
-website_url: "https://huly.io"
-source_code_url: "https://github.com/hcengineering/platform"
-description: "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)."
+name: Huly
+website_url: https://huly.io
+source_code_url: https://github.com/hcengineering/platform
+description: All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion).
 licenses:
   - EPL-2.0
 platforms:
@@ -10,4 +10,7 @@ platforms:
   - Nodejs
 tags:
   - Software Development - Project Management
-demo_url: "https://app.huly.io"
+demo_url: https://app.huly.io
+stargazers_count: 1647
+updated_at: '2024-03-08'
+archived: false

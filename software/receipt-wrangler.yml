@@ -1,0 +1,16 @@
+name: "Receipt Wrangler"
+website_url: "https://receiptwrangler.io"
+source_code_url: "https://github.com/Receipt-Wrangler"
+description: "Open Source, Self hosted, Receipt Management."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Javascript
+  - Dart
+  - Python
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: true
+demo_url: "https://demo.receiptwrangler.io"

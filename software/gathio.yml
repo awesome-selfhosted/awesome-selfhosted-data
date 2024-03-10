@@ -1,7 +1,7 @@
-name: "gathio"
-website_url: "https://gath.io/"
-source_code_url: "https://github.com/lowercasename/gathio"
-description: "Self-destructing, shareable, no-registration event pages."
+name: gathio
+website_url: https://gath.io/
+source_code_url: https://github.com/lowercasename/gathio
+description: Self-destructing, shareable, no-registration event pages.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-demo_url: "https://gath.io/"
+demo_url: https://gath.io/
+stargazers_count: 247
+updated_at: '2024-03-04'
+archived: false

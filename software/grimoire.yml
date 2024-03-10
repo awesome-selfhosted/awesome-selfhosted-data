@@ -1,7 +1,7 @@
-name: "Grimoire"
-website_url: "https://grimoire.pro"
-source_code_url: "https://github.com/goniszewski/grimoire"
-description: "Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment."
+name: Grimoire
+website_url: https://grimoire.pro
+source_code_url: https://github.com/goniszewski/grimoire
+description: Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - Bookmarks and Link Sharing
+stargazers_count: 1364
+updated_at: '2024-03-07'
+archived: false

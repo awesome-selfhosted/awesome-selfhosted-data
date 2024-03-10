@@ -1,0 +1,20 @@
+name: "Tube Archivist"
+website_url: "https://tubearchivist.com/"
+source_code_url: "https://github.com/tubearchivist/tubearchivist"
+description: "Your self hosted YouTube media server"
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Javascript
+  - Django
+  - Docker
+  - 
+tags:
+  - Media Streaming
+  - Media Streaming - Video Streaming
+  - Archiving and Digital Preservation (DP)
+  - Automation
+depends_3rdparty: true
+demo_url: "https://my.awesome.softwar.e/demo"
+related_software_url: "https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi"

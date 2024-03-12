@@ -5,12 +5,9 @@ description: "Platform for tracking various facets of your life - media, fitness
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
   - Docker
-  - Rust
 tags:
   - Analytics
   - Miscellaneous
   - Time Tracking
-depends_3rdparty: false
-demo_url: "ryot.fly.dev"
+demo_url:"https://ryot.fly.dev/auth/login?redirectTo=%2F"

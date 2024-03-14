@@ -5,9 +5,6 @@ description: "Organize, search, and enjoy your YouTube collection. Subscribe, do
 licenses:
   - GPL-3.0
 platforms:
-  - Python
-  - Javascript
-  - Django
   - Docker
 tags:
   - Media Streaming - Video Streaming

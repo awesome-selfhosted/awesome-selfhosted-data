@@ -127,6 +127,10 @@
   name: Mozilla Public License
   url: https://spdx.org/licenses/MPL-2.0.html
 
+- identifier: NPOSL-3.0
+  name: Non-Profit Open Software License 3.0
+  url: https://spdx.org/licenses/NPOSL-3.0.html
+
 - identifier: OSL-3.0
   name: Open Software License 3.0
   url: https://spdx.org/licenses/OSL-3.0.html

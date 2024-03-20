@@ -1,0 +1,10 @@
+name: Procaptcha
+website_url: https://prosopo.io/
+source_code: https://github.com/prosopo/captcha
+description: "Procaptcha is an open-source privacy-preserving captcha."
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+tags:
+  - Miscellaneous

@@ -1,15 +1,16 @@
 name: Tube Archivist
-website_url: https://www.tubearchivist.com/
-description: 'Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos.'
+website_url: https://tubearchivist.com/
+source_code_url: https://github.com/tubearchivist/tubearchivist
+description: Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface.
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
-  - Automation
-source_code_url: https://github.com/tubearchivist/tubearchivist
+  - Media Streaming - Video Streaming
+  - Archiving and Digital Preservation (DP)
 depends_3rdparty: true
-stargazers_count: 3929
+related_software_url: https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi
+stargazers_count: 3934
 updated_at: '2024-03-11'
 archived: false

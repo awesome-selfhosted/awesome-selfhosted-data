@@ -5,8 +5,6 @@ description: "An easy to use Receipt manager, powered by AI. Allows users to cre
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
-  - Python
   - Docker
 tags:
   - Money, Budgeting & Management

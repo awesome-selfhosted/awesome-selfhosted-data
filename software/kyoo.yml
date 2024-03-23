@@ -1,0 +1,11 @@
+name: "Kyoo"
+website_url: "https://github.com/zoriya/kyoo"
+source_code_url: "https://github.com/zoriya/kyoo"
+description: "Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming
+demo_url: "https://kyoo.zoriya.dev"

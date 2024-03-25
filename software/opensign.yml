@@ -9,7 +9,4 @@ platforms:
   - Docker
 tags:
   - Document Management
-  - Digital Signature
-  - e-signature
-  - DocuSign alternative
-  - Free digital signatures
+depends_3rdparty: true

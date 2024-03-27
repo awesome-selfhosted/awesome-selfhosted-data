@@ -1,7 +1,7 @@
 name: uspb
 website_url: https://github.com/jneeee/uspb
 source_code_url: https://github.com/jneeee/uspb
-description: A tiny URL shortening and pastebin. self-hosted or hosted by Deno Deploy.
+description: A tiny URL shortening and pastebin.
 licenses:
   - MIT
 platforms:

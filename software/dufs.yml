@@ -1,0 +1,14 @@
+name: dufs
+website_url: https://github.com/sigoden/dufs
+description: A file server that supports static serving, uploading, searching, accessing control, webdav...
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Rust
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/sigoden/dufs
+stargazers_count: 4522
+updated_at: '2024-03-27'
+archived: false

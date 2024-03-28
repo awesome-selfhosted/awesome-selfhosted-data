@@ -1,0 +1,17 @@
+name: Proton Pass
+website_url: https://proton.me/pass
+description: Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.
+licenses:
+  - GPL-3.0
+platforms:
+  - Typescript
+  - Swift
+  - Kotlin
+  - Rust
+tags:
+  - Password Managers
+source_code_url: https://github.com/ProtonMail/WebClients
+depends_3rdparty: true
+stargazers_count: 4100
+updated_at: '2024-03-28'
+archived: false

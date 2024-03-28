@@ -1,0 +1,12 @@
+name: tau
+source_code_url: https://github.com/taubyte/tau
+description: "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging."
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+  - Rust
+  - Docker
+tags:
+  - Software Development - FaaS & Serverless
+website_url: https://taubyte.com

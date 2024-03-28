@@ -1,0 +1,12 @@
+# softwre name
+name: "Tiny File Manager"
+website_url: "https://tinyfilemanager.github.io"
+source_code_url: "https://github.com/prasathmani/tinyfilemanager"
+description: "Web based File Manager in PHP, simple, fast and small file manager with a single file."
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - File Transfer - Web-based File Managers
+demo_url: "https://tinyfilemanager.github.io/demo/"

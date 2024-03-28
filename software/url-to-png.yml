@@ -1,0 +1,12 @@
+name: "URL-to-PNG"
+website_url: "https://github.com/jasonraimondi/url-to-png"
+source_code_url: "https://github.com/jasonraimondi/url-to-png"
+description: "URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous
+depends_3rdparty: false

@@ -4,10 +4,10 @@ description: Password manager with built-in email aliases, 2FA authenticator, sh
 licenses:
   - GPL-3.0
 platforms:
-  - Typescript
-  - Swift
-  - Kotlin
+  - Python  
+  - PHP
   - Rust
+  - Docker
 tags:
   - Password Managers
 source_code_url: https://github.com/ProtonMail/WebClients

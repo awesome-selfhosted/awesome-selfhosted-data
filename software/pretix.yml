@@ -5,6 +5,9 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
+  - K8S
 tags:
   - E-commerce
-source_code_url: https://github.com/pretix
+  - Polls and Events
+source_code_url: https://github.com/pretix/pretix

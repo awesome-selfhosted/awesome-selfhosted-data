@@ -6,7 +6,6 @@ licenses:
 platforms:
   - Python
   - Docker
-  - K8S
 tags:
   - E-commerce
   - Polls and Events

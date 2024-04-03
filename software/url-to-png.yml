@@ -1,7 +1,7 @@
-name: "URL-to-PNG"
-website_url: "https://github.com/jasonraimondi/url-to-png"
-source_code_url: "https://github.com/jasonraimondi/url-to-png"
-description: "URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB."
+name: URL-to-PNG
+website_url: https://github.com/jasonraimondi/url-to-png
+source_code_url: https://github.com/jasonraimondi/url-to-png
+description: URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB.
 licenses:
   - MIT
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Miscellaneous
 depends_3rdparty: false
+stargazers_count: 63
+updated_at: '2024-03-29'
+archived: false

@@ -6,5 +6,6 @@ licenses:
   - MIT
 platforms:
   - PHP
+  - Docker
 tags:
   - Miscellaneous

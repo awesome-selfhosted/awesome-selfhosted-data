@@ -1,0 +1,14 @@
+name: "Woofed CRM"
+website_url: "https://woofedcrm.com"
+source_code_url: "https://github.com/douglara/woofed-crm"
+description: "CRM that provides a platform to drive your leads to success. You can create you pipelines with kaban style, manage deal activities, automate workflows and get a clear view of metrics."
+licenses:
+  - MIT
+platforms:
+  - Ruby
+  - Nodejs
+  - Docker
+tags:
+  - Automation
+  - Communication - SIP
+depends_3rdparty: false

@@ -1,11 +1,14 @@
-name: "ryot"
-website_url: "https://github.com/ignisda/ryot"
-source_code_url: "https://github.com/ignisda/ryot"
-description: "Platform for tracking various facets of your life - media, fitness, etc."
+name: ryot
+website_url: https://github.com/ignisda/ryot
+source_code_url: https://github.com/ignisda/ryot
+description: Platform for tracking various facets of your life - media, fitness, etc.
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Personal Dashboards
-demo_url: "https://ryot.fly.dev/auth/login?redirectTo=%2F"
+demo_url: https://ryot.fly.dev/auth/login?redirectTo=%2F
+stargazers_count: 1283
+updated_at: '2024-04-03'
+archived: false

@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Nodejs
-  - Javascript
   - Docker
 tags:
   - Media Streaming - Audio Streaming

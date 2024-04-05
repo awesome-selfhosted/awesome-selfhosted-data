@@ -1,7 +1,7 @@
 name: multi-scrobbler
 website_url: https://foxxmd.github.io/multi-scrobbler
 source_code_url: https://github.com/FoxxMD/multi-scrobbler
-description: Scrobble music from multiple sources to multiple clients.
+description: Scrobble plays from multiple sources to multiple scrobbling services.
 licenses:
   - MIT
 platforms:

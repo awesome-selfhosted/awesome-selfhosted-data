@@ -1,0 +1,14 @@
+name: Hatsu
+website_url: https://hatsu.cli.rs/
+description: Self-hosted & Fully-automated ActivityPub Bridge for Static Sites.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/importantimport/hatsu
+stargazers_count: 88
+updated_at: '2024-04-10'
+archived: false

@@ -1,0 +1,11 @@
+name: EverShop
+website_url: https://evershop.io/
+description: EverShop is a NodeJS ecommerce platform with essential commerce features. Built with NodeJS and React. Modular architecture and fully customizable.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/evershopcommerce/evershop
+demo_url: https://demo.evershop.io/

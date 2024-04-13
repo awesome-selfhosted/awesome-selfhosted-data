@@ -4,6 +4,7 @@ description: EverShop is a NodeJS ecommerce platform with essential commerce fea
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Nodejs
 tags:
   - E-commerce

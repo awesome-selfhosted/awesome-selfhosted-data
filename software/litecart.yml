@@ -1,7 +1,7 @@
-name: "Litecart"
-website_url: "https://github.com/shurco/litecart"
-source_code_url: "https://github.com/shurco/litecart"
-description: "Shopping cart in 1 file (with support for payment by card or cryptocurrency)."
+name: Litecart
+website_url: https://github.com/shurco/litecart
+source_code_url: https://github.com/shurco/litecart
+description: Shopping cart in 1 file (with support for payment by card or cryptocurrency).
 licenses:
   - MIT
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - E-commerce
 depends_3rdparty: true
+stargazers_count: 105
+updated_at: '2024-03-22'
+archived: false

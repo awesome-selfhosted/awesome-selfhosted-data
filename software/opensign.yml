@@ -1,7 +1,7 @@
-name: "OpenSign"
-website_url: "https://www.opensignlabs.com"
-source_code_url: "https://github.com/opensignlabs/opensign"
-description: "Free, open source & self-hosted document signing software (alternative to DocuSign)."
+name: OpenSign
+website_url: https://www.opensignlabs.com
+source_code_url: https://github.com/opensignlabs/opensign
+description: Free, open source & self-hosted document signing software (alternative to DocuSign).
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Document Management
 depends_3rdparty: true
+stargazers_count: 2517
+updated_at: '2024-04-12'
+archived: false

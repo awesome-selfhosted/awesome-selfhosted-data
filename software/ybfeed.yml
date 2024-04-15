@@ -1,7 +1,7 @@
-name: "ybFeed"
-website_url: "https://github.com/ybizeul/ybFeed"
-source_code_url: "https://github.com/ybizeul/ybFeed"
-description: "ybFeed is a personal micro feed where you can post snippets of text or images."
+name: ybFeed
+website_url: https://github.com/ybizeul/ybFeed
+source_code_url: https://github.com/ybizeul/ybFeed
+description: Personal micro feed where you can post snippets of text or images.
 licenses:
   - MIT
 platforms:
@@ -11,3 +11,6 @@ platforms:
 tags:
   - Pastebins
   - File Transfer - Single-click & Drag-n-drop Upload
+stargazers_count: 22
+updated_at: '2024-01-16'
+archived: false

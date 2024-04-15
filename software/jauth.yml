@@ -1,0 +1,14 @@
+name: Jauth
+website_url: https://github.com/Jipok/Jauth
+source_code_url: https://github.com/Jipok/Jauth
+description: Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Proxy
+depends_3rdparty: true
+stargazers_count: 50
+updated_at: '2024-03-29'
+archived: false

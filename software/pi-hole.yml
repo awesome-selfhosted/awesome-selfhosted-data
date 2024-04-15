@@ -6,9 +6,10 @@ licenses:
 platforms:
   - Shell
   - PHP
+  - Docker
 tags:
   - DNS
 source_code_url: https://github.com/pi-hole/pi-hole
-stargazers_count: 45756
-updated_at: '2024-01-06'
+stargazers_count: 46659
+updated_at: '2024-03-31'
 archived: false

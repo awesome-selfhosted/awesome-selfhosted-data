@@ -1,4 +1,3 @@
-# software name
 name: OpenTrashmail
 website_url: https://github.com/HaschekSolutions/opentrashmail
 source_code_url: https://github.com/HaschekSolutions/opentrashmail
@@ -11,6 +10,6 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Mail Transfer Agents
-stargazers_count: 417
-updated_at: '2024-01-08'
+stargazers_count: 467
+updated_at: '2024-03-31'
 archived: false

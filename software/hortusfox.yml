@@ -1,0 +1,11 @@
+name: "HortusFox"
+website_url: "https://hortusfox.github.io"
+source_code_url: "https://github.com/danielbrendel/hortusfox-web"
+description: "A collaborative plant management system."
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Miscellaneous

@@ -1,7 +1,7 @@
-name: "HortusFox"
-website_url: "https://hortusfox.github.io"
-source_code_url: "https://github.com/danielbrendel/hortusfox-web"
-description: "A collaborative plant management system."
+name: HortusFox
+website_url: https://hortusfox.github.io
+source_code_url: https://github.com/danielbrendel/hortusfox-web
+description: A collaborative plant management system.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
+stargazers_count: 373
+updated_at: '2024-04-15'
+archived: false

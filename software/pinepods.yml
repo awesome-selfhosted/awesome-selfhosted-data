@@ -5,8 +5,6 @@ description: "PinePods is a Rust based podcast management system that manages po
 licenses:
   - GPL-3.0
 platforms:
-  - Rust
-  - Python
   - Docker
 tags:
   - Media Streaming (Audio Streaming)

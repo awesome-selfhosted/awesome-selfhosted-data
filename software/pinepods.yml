@@ -1,7 +1,7 @@
 name: "Pinepods"
 website_url: "https://www.pinepods.online/"
 source_code_url: "https://github.com/madeofpendletonwool/PinePods"
-description: "PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it. It's browser based and your podcasts and settings follow you from device to device due to everything being stored on the server. It works on mobile devices and can also sync with a Nextcloud server so you can use external apps Like Antennapod as well!"
+description: "description: "A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device."
 licenses:
   - GPL-3.0
 platforms:

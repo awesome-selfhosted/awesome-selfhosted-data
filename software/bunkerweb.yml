@@ -8,8 +8,6 @@ platforms:
   - Deb
   - Docker
   - K8s
-  - Lua
-  - Python
   - Shell
 tags:
   - Proxy

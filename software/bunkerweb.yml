@@ -1,0 +1,19 @@
+name: "My awesome software"
+website_url: "https://www.bunkerweb.io"
+source_code_url: "https://github.com/bunkerity/bunkerweb"
+description: "BunkerWeb is an open-source and next-gen Web Application Firewall (WAF) that will protect your web services."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Deb
+  - Docker
+  - K8s
+  - Lua
+  - Python
+  - Shell
+tags:
+  - Proxy
+  - Web Servers
+depends_3rdparty: false
+demo_url: "https://demo.bunkerweb.io"
+related_software_url: "https://docs.bunkerweb.io/latest/plugins/"

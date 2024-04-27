@@ -109,6 +109,17 @@ On some shared hosting services (such as **Bluehost**), `mod_security` is enable
 You may need to adjust timeouts to larger values in your [reverse proxy configuration](Reverse-proxy.md) if you're getting `504 Gateway Timeout` errors during long-lasting operations (like importing many bookmarks from HTML, or batch deleting tags) on slow hardware. The PHP setting `max_execution_time` may also need to be adjusted for your specific setup. See issues [#1854](https://github.com/shaarli/Shaarli/issues/1854) and [#1910](https://github.com/shaarli/Shaarli/issues/1910).
 
 
+### Fatal error: Allowed memory size of xxx bytes exhausted
+
+This error may happen during save operations if your datastore grows exceptionally large (20k+ bookmarks). In this case, you should increase the `memory_limit` setting of the php-fpm pool serving your Shaarli instance. On a stock Debian installation, add the following setting to `/etc/php/PHPVERSION/fpm/pool.d/www.conf`:
+
+```ini
+php_admin_value[memory_limit] = 1024M
+```
+
+Where `1024M` is the desired value (`128M` is usually the default, and is defined in `/etc/php/PHPVERSION/fpm/php.ini`). `PHPVERSION` and the name of the pool configuration file may vary depending on your php-fpm setup and version.
+
+
 ----------------------------------------------------------
 
 ## Upgrades

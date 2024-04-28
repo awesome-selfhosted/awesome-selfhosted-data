@@ -7,7 +7,7 @@ licenses:
 platforms:
   - deb
   - Docker
-  - k8s
+  - K8S
   - Shell
 tags:
   - Proxy

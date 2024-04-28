@@ -5,12 +5,11 @@ description: "Next-gen Web Application Firewall (WAF) that will protect your web
 licenses:
   - AGPL-3.0
 platforms:
-  - Deb
+  - deb
   - Docker
-  - K8s
+  - k8s
   - Shell
 tags:
   - Proxy
-  - Web Servers
 demo_url: "https://demo.bunkerweb.io"
 related_software_url: "https://docs.bunkerweb.io/latest/plugins/"

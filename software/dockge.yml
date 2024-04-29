@@ -1,0 +1,10 @@
+name: "Dockge"
+website_url: "https://dockge.kuma.pet/"
+source_code_url: "https://github.com/louislam/dockge"
+description: "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager "
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Monitoring

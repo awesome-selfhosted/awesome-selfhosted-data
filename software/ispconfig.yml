@@ -1,0 +1,15 @@
+name: "ISPconfig"
+website_url: "https://ispconfig.org"
+source_code_url: "https://git.ispconfig.org/ispconfig/ispconfig3"
+description: "Hosting Control Panel"
+licenses:
+  - BSD 3-Clause "New" or "Revised" License.
+platforms:
+  - PHP
+  - Deb
+tags:
+  - Communication - Email - Complete Solutions
+  - DNS
+  - Web Servers
+demo_url: "https://www.ispconfig.org/ispconfig/online-demo/"
+related_software_url: "https://www.ispconfig.org/add-ons/"

@@ -1,0 +1,12 @@
+# software name
+name: "Ente"
+website_url: "https://ente.io/"
+source_code_url: "https://github.com/ente-io/ente"
+description: "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Photo and Video Galleries

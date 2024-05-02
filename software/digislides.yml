@@ -1,0 +1,12 @@
+name: Digislides
+website_url: https://ladigitale.dev/digislides/
+description: Create multimedia presentations in a quick and easy way. (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Office Suites
+source_code_url: https://codeberg.org/ladigitale/Digislides
+demo_url: https://ladigitale.dev/digislides/

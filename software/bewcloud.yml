@@ -5,8 +5,8 @@ description: "A simpler alternative to Nextcloud and ownCloud, built with TypeSc
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
   - Deno
+  - Nodejs
   - Docker
   - Javascript
 tags:

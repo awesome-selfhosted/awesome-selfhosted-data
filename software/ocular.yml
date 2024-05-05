@@ -1,0 +1,11 @@
+name: "Ocular"
+website_url: "https://github.com/simonwep/ocular"
+source_code_url: "https://github.com/simonwep/ocular"
+description: "Simplistic and straight-forward budgeting app to track your budget across months and years."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management
+demo_url: "https://ocular.reinisch.io/#demo"

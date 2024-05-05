@@ -1,0 +1,20 @@
+name: "bewCloud"
+website_url: "https://bewcloud.com"
+source_code_url: "https://github.com/bewcloud/bewcloud"
+description: "A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Deno
+  - Docker
+  - Javascript
+tags:
+  - File Transfer & Synchronization
+  - Groupware
+  - Feed Readers
+  - Knowledge Management Tools
+  - Note-taking & Editors
+  - Photo and Video Galleries
+depends_3rdparty: false
+related_software_url: "https://github.com/bewcloud"

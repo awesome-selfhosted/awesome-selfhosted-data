@@ -1,0 +1,18 @@
+name: "E-Label"
+website_url: "https://filipecarneiro.github.io/ELabel/"
+source_code_url: "https://github.com/filipecarneiro/ELabel"
+description: "Open-source solution for electronic labels, with QR Codes, on wine bottles sold within the European Union. This initiative seeks to enhance transparency, efficiency, and information accessibility in the wine industry."
+licenses:
+  - MIT
+platforms:
+  - .NET
+  - C#
+  - Docker
+  - K8S
+tags:
+  - Miscellaneous
+  - Community-Supported Agriculture (CSA)
+  - Inventory Management
+  - URL Shorteners
+depends_3rdparty: false
+demo_url: "https://qr.doutorpc.net/l/GR904-2015"

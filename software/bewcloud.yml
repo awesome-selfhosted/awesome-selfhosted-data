@@ -1,7 +1,7 @@
 name: "bewCloud"
 website_url: "https://bewcloud.com"
 source_code_url: "https://github.com/bewcloud/bewcloud"
-description: "A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh."
+description: "A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos, built with TypeScript and Deno using Fresh."
 licenses:
   - AGPL-3.0
 platforms:

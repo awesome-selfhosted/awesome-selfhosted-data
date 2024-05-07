@@ -1,0 +1,14 @@
+name: "VitoDeploy"
+website_url: "https://vitodeploy.com"
+source_code_url: "https://gitlab.com/vitodeploy/vito"
+description: "Free and Self-Hosted Server Management Tool"
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Javascript
+  - Linux
+  - Docker
+tags:
+  - Software Development - Continuous Integration & Deployment
+depends_3rdparty: true

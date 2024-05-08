@@ -1,0 +1,10 @@
+name: conduwuit
+website_url: https://conduwuit.puppyirl.gay
+description: conduwuit is a well-maintained, hard-fork of Conduit with tons of new features, many bug fixes, huge performance improvements, quality of life enhancements, moderation tools, and much more
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/girlbossceo/conduwuit

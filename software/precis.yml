@@ -1,0 +1,13 @@
+# software name
+name: Precis
+website_url: "https://github.com/leozqin/precis"
+source_code_url: "https://github.com/leozqin/precis"
+description: "Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize rss entries with built-in notification support"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Feed Readers

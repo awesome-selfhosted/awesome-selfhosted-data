@@ -33,7 +33,7 @@ jobs:
 
       - name: Build and push
         id: docker_build
-        uses: docker/build-push-action@v3
+        uses: docker/build-push-action@v5
         with:
           push: ${{ github.repository == 'shaarli/Shaarli' }}
           platforms: linux/amd64,linux/arm/v7

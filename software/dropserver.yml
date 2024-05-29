@@ -4,7 +4,6 @@ source_code_url: "https://github.com/teleclimber/Dropserver/"
 description: "An Application Platform for Your Personal Web Services"
 licenses:
   - Apache-2.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Go
   - Deno

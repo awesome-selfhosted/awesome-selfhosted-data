@@ -8,10 +8,6 @@ platforms:
   - Javascript
 tags:
   - Wikis
-  - Static Site Generators
-  - Note-taking & Editors
-  - Knowledge Management Tools
-  - Content Management Systems (CMS)
 depends_3rdparty: false
 demo_url: "https://feather.wiki/?page=gallery#wikis"
 related_software_url: "https://feather.wiki/?page=gallery#extensions"

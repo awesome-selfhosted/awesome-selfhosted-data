@@ -1,5 +1,5 @@
-name: VanDAM
-website_url: https://github.com/Floppy/van_dam
+name: Manyfold
+website_url: https://manyfold.app
 description: Digital asset manager for 3d print files; STL, OBJ, 3MF and more.
 licenses:
   - MIT
@@ -7,7 +7,7 @@ platforms:
   - Docker
 tags:
   - Manufacturing
-source_code_url: https://github.com/Floppy/van_dam
-stargazers_count: 446
-updated_at: '2024-03-21'
+source_code_url: https://github.com/manyfold3d/manyfold
+stargazers_count: 539
+updated_at: '2024-05-29'
 archived: false

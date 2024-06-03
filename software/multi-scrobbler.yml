@@ -1,0 +1,15 @@
+name: multi-scrobbler
+website_url: https://foxxmd.github.io/multi-scrobbler
+source_code_url: https://github.com/FoxxMD/multi-scrobbler
+description: Scrobble plays from multiple sources to multiple scrobbling services.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Streaming - Audio Streaming
+depends_3rdparty: false
+stargazers_count: 286
+updated_at: '2024-04-11'
+archived: false

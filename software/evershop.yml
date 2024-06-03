@@ -1,0 +1,16 @@
+name: EverShop
+website_url: https://evershop.io/
+description: E-commerce platform with essential commerce features. Modular architecture and fully customizable.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/evershopcommerce/evershop
+demo_url: https://demo.evershop.io/
+depends_3rdparty: true
+stargazers_count: 3692
+updated_at: '2024-06-02'
+archived: false

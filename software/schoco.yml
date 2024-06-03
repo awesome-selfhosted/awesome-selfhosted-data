@@ -1,0 +1,13 @@
+name: Schoco
+website_url: https://github.com/PhiTux/schoco
+source_code_url: https://github.com/PhiTux/schoco
+description: Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Learning and Courses
+stargazers_count: 14
+updated_at: '2024-05-31'
+archived: false

@@ -5,6 +5,10 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Docker
 tags:
   - E-commerce
-source_code_url: https://github.com/pretix
+source_code_url: https://github.com/pretix/pretix
+stargazers_count: 1726
+updated_at: '2024-05-31'
+archived: false

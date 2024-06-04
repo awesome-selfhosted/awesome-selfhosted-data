@@ -1,0 +1,10 @@
+name: pg
+website_url: https://github.com/mcarbonne/minimal-git-server
+source_code_url: https://github.com/datawan-labs/pg
+description: Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
+licenses:
+  - MIT
+platforms:
+  - Web Browser
+tags:
+  - Software Development - Database Management

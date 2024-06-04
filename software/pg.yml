@@ -5,6 +5,9 @@ description: Browser PostgreSQL, no server, just client and pglite (postgresql w
 licenses:
   - MIT
 platforms:
-  - Web Browser
+  - Javascript
 tags:
   - Software Development - Database Management
+stargazers_count: 305
+updated_at: '2024-06-06'
+archived: false

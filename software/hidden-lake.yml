@@ -1,0 +1,13 @@
+name: Hidden Lake
+website_url: https://github.com/number571/go-peer/tree/master/cmd/hidden_lake
+description: F2F network with theoretically provable queue-based anonymity.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/number571/go-peer/tree/master/cmd/hidden_lake
+stargazers_count: 202
+updated_at: '2024-06-06'
+archived: false

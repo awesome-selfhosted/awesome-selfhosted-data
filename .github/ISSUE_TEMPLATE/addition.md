@@ -49,7 +49,7 @@ related_software_url: "https://my.awesome.softwar.e/apps"
 To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
 - [ ] Submit one item per pull issue. This eases reviewing and speeds up inclusion.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
-- [ ] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.net](https://staticsitegenerators.net/), [dbdb.io](https://dbdb.io/browse).
+- [ ] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin), [jamstack/static site generators](https://jamstack.org/generators/), [dbdb.io](https://dbdb.io/browse).
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding was first released more than 4 months ago.
 - [ ] Any software project you are adding has working installation instructions.

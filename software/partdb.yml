@@ -1,7 +1,7 @@
 name: "Part-DB"
 website_url: "https://docs.part-db.de/"
 source_code_url: "https://github.com/Part-DB/Part-DB-server"
-description: "Part-DB is an Open-Source inventory management system for your electronic components."
+description: "An inventory management system for your electronic components."
 licenses:
   - AGPL-3.0
 platforms:

@@ -5,8 +5,8 @@ description: "An inventory management system for your electronic components."
 licenses:
   - AGPL-3.0
 platforms:
-  - Shell
   - Docker
+  - PHP
   - Nodejs
 tags:
   - Inventory Management

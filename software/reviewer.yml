@@ -1,0 +1,14 @@
+name: Reviewer
+website_url: https://github.com/pvcnt/reviewer
+source_code_url: https://github.com/pvcnt/reviewer
+description: A better inbox for GitHub pull requests.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Docker
+  - K8S
+tags:
+  - Software Development - Project Management
+depends_3rdparty: true
+demo_url: https://reviewer.pages.dev/

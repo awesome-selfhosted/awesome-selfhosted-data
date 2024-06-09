@@ -1,0 +1,15 @@
+
+name: "Coolify"
+website_url: "https://coolify.io/"
+source_code_url: "https://github.com/coollabsio/coolify"
+description: "An open-source & self-hostable Heroku / Netlify / Vercel alternative."
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Automation
+  - Deployment
+  - Web Hosting
+demo_url: "https://app.coolify.io/"

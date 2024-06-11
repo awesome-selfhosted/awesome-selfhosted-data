@@ -1,0 +1,17 @@
+name: 1Panel
+website_url: "https://www.1panel.cn/"
+source_code_url: "https://github.com/1Panel-dev/1Panel"
+description: "1Panel is a modern, lightweight, and powerful server management tool designed to make server administration simple and intuitive."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - JavaScript
+tags:
+  - Server Management
+  - System Administration
+  - Monitoring
+  - Web Interface
+depends_3rdparty: false
+demo_url: "https://www.1panel.cn/"

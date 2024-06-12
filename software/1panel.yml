@@ -9,9 +9,6 @@ platforms:
   - Docker
   - JavaScript
 tags:
-  - Server Management
-  - System Administration
-  - Monitoring
-  - Web Interface
+  -  Self-hosting Solutions
 depends_3rdparty: false
 demo_url: "https://www.1panel.cn/"

@@ -1,0 +1,19 @@
+name: "Hoarder App"
+website_url: "https://hoarder.app/"
+source_code_url: "https://github.com/hoarder-app/hoarder"
+description: "A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there."
+licenses:
+  - GNU Affero General Public License v3.0
+platforms:
+  - NextJS for the web app. Using app router.
+  - Drizzle for the database and its migrations.
+  - NextAuth for authentication.
+  - tRPC for client->server communication.
+  - Puppeteer for crawling the bookmarks.
+  - OpenAI because AI is so hot right now.
+  - BullMQ for scheduling the background jobs.
+  - Meilisearch for the full content search.
+tags:
+  - Bookmarks and Link Sharing
+  - Pastebins
+demo_url: "https://try.hoarder.app"

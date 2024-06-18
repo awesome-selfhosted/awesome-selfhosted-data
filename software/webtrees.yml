@@ -1,6 +1,6 @@
 name: webtrees
 website_url: https://www.webtrees.net
-description: Webtrees is the web's leading on-line collaborative genealogy application.
+description: Webtrees is the web's leading online collaborative genealogy application.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Genealogy
 source_code_url: https://github.com/fisharebest/webtrees
 demo_url: https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo
-stargazers_count: 374
-updated_at: '2024-04-09'
+stargazers_count: 408
+updated_at: '2024-06-16'
 archived: false

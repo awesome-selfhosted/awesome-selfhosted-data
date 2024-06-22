@@ -1,0 +1,12 @@
+name: "QST"
+website_url: "https://qstonline.org"
+source_code_url: "https://sourceforge.net/projects/qstonline/"
+description: "Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical."
+licenses:
+  - GPL-2.0
+platforms:
+  - Perl
+tags:
+  - Learning and Courses
+  - Knowledge Management Tools
+demo_url: "https://qstonline.org/free_account.htm"

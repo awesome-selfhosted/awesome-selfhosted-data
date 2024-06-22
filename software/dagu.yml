@@ -1,0 +1,11 @@
+name: "Dagu"
+website_url: "https://dagu.readthedocs.io/"
+source_code_url: "https://github.com/dagu-dev/dagu"
+description: "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format."
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation

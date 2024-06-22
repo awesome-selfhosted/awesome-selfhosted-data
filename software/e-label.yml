@@ -5,10 +5,7 @@ description: "Solution for electronic labels, with QR Codes, on wine bottles sol
 licenses:
   - MIT
 platforms:
-  - .NET
-  - C#
   - Docker
-  - K8S
 tags:
   - Miscellaneous
   - Community-Supported Agriculture (CSA)

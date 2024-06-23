@@ -1,7 +1,7 @@
-name: "Wavelog"
-website_url: "https://www.wavelog.org"
-source_code_url: "https://github.com/wavelog/wavelog"
-description: "Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser."
+name: Wavelog
+website_url: https://www.wavelog.org
+source_code_url: https://github.com/wavelog/wavelog
+description: Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser.
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-demo_url: "https://demo.wavelog.org"
+demo_url: https://demo.wavelog.org
+stargazers_count: 48
+updated_at: '2024-06-14'
+archived: false

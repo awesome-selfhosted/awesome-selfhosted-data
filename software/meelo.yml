@@ -1,0 +1,11 @@
+name: "Meelo"
+website_url: "https://github.com/Arthi-chaud/Meelo"
+source_code_url: "https://github.com/Arthi-chaud/Meelo"
+description: "Personal Music Server, designed for collectors and music maniacs."
+licenses:
+  - GPL-3.0
+platforms:
+  - Javascript
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming

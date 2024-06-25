@@ -5,7 +5,6 @@ description: "Personal Music Server, designed for collectors and music maniacs."
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming

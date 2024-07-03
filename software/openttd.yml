@@ -1,7 +1,7 @@
-name: "OpenTTD"
-website_url: "https://www.openttd.org/"
-source_code_url: "https://github.com/OpenTTD/OpenTTD"
-description: "Open source transport tycoon simulation game."
+name: OpenTTD
+website_url: https://www.openttd.org/
+source_code_url: https://github.com/OpenTTD/OpenTTD
+description: Open source transport tycoon simulation game.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Games
-related_software_url: "https://bananas.openttd.org/"
+related_software_url: https://bananas.openttd.org/
+stargazers_count: 6083
+updated_at: '2024-07-02'
+archived: false

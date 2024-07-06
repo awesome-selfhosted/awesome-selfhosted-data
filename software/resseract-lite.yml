@@ -1,0 +1,10 @@
+name: "Resseract Lite"
+website_url: "https://github.com/abistarun/resseract-lite"
+source_code_url: "https://github.com/abistarun/resseract-lite"
+description: "A Data Analytics Tool with flexible architecture to visualize and analyse data"
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Analytics

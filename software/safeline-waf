@@ -1,7 +1,6 @@
 name: "SafeLine WAF"
 website_url: "https://waf.chaitin.com/"
 source_code_url: "https://github.com/chaitin/SafeLine"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "A web security gateway, make your web app secure default, serve as a reverse proxy to protect your web app from attacks and exploits."
 licenses:
   - GPL-3.0

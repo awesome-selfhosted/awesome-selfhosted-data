@@ -1,0 +1,12 @@
+name: "adarun"
+website_url: "https://github.com/cmdada/adarun"
+source_code_url: "https://github.com/cmdada/adarun"
+description: "Selfhostable homelab dashboard using client storage and web based configuration ."
+licenses:
+  - GPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Personal Dashboards
+depends_3rdparty: false
+demo_url: "https://poweredge.xyz/"

@@ -10,5 +10,4 @@ platforms:
   - Docker
 tags:
   - Web Servers
-depends_3rdparty: false
 demo_url: "https://demo.waf.chaitin.com:9443/"

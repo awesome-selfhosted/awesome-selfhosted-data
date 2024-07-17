@@ -1,7 +1,7 @@
-name: "Hoarder App"
-website_url: "https://hoarder.app/"
-source_code_url: "https://github.com/hoarder-app/hoarder"
-description: "A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there."
+name: Hoarder App
+website_url: https://hoarder.app/
+source_code_url: https://github.com/hoarder-app/hoarder
+description: A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
   - Pastebins
-demo_url: "https://try.hoarder.app"
+demo_url: https://try.hoarder.app
+stargazers_count: 2701
+updated_at: '2024-07-14'
+archived: false

@@ -1,0 +1,11 @@
+name: "NSFW Proxy"
+website_url: "https://github.com/heliomar-pena/nsfw-proxy"
+source_code_url: "https://github.com/heliomar-pena/nsfw-proxy"
+description: "Create a self-hosted proxy for filtering NSFW content in your local network. Block innapropiate content on any APP, Browser and Device."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Proxy
+depends_3rdparty: false

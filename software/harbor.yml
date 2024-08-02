@@ -1,0 +1,12 @@
+name: "Harbor"
+website_url: "https://github.com/av/harbor"
+source_code_url: "https://github.com/av/harbor"
+description: "Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Shell
+tags:
+  - Automation
+depends_3rdparty: false

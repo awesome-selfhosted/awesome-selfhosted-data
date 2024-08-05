@@ -1,0 +1,11 @@
+name: "solidtime"
+website_url: "https://www.solidtime.io"
+source_code_url: "https://github.com/solidtime-io/solidtime"
+description: "solidtime is a modern time tracking application for freelancers and agencies."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Time Tracking

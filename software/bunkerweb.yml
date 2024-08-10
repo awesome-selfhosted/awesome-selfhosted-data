@@ -8,7 +8,7 @@ platforms:
   - deb
   - Docker
   - K8S
-  - Shell
+  - Python
 tags:
   - Web Servers
 demo_url: "https://demo.bunkerweb.io"

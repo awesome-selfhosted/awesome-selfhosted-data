@@ -1,7 +1,7 @@
-name: "Spacebin"
-website_url: "https://spaceb.in"
-source_code_url: "https://github.com/lukewhrit/spacebin"
-description: "Modern Pastebin server written in Go with a JS-free web UI and tons of features."
+name: Spacebin
+website_url: https://spaceb.in
+source_code_url: https://github.com/lukewhrit/spacebin
+description: Modern Pastebin server written in Go with a JS-free web UI and tons of features.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Pastebins
-demo_url: "https://spaceb.in"
+demo_url: https://spaceb.in
+stargazers_count: 76
+updated_at: '2024-07-08'
+archived: false

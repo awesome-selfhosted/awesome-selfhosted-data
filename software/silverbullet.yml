@@ -1,0 +1,15 @@
+# software name
+name: "My awesome software"
+website_url: "https://silverbullet.md/"
+source_code_url: "https://github.com/silverbulletmd/silverbullet"
+description: "The knowledge hacker's notebook"
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Note-taking & Editors
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://play.silverbullet.md/"
+related_software_url: "https://silverbullet.md/Libraries"

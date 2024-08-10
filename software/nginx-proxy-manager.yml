@@ -7,7 +7,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Proxy
+  - Web Servers
 source_code_url: https://github.com/NginxProxyManager/nginx-proxy-manager
 stargazers_count: 21460
 updated_at: '2024-07-01'

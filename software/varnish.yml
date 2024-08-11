@@ -1,7 +1,7 @@
-name: "Varnish"
-website_url: "https://varnish-cache.org/"
-source_code_url: "https://github.com/varnishcache/varnish-cache"
-description: "Web application accelerator/caching HTTP reverse proxy."
+name: Varnish
+website_url: https://varnish-cache.org/
+source_code_url: https://github.com/varnishcache/varnish-cache
+description: Web application accelerator/caching HTTP reverse proxy.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -10,3 +10,6 @@ platforms:
   - Docker
 tags:
   - Web Servers
+stargazers_count: 3597
+updated_at: '2024-08-06'
+archived: false

@@ -1,0 +1,16 @@
+name: "Subatic"
+website_url: "https://subatic.com"
+source_code_url: "https://github.com/orthdron/subatic"
+description: "Video hosting platform with advanced embedding options, deployable serverless or via Docker. All videos are public and utilize local/cloud S3 storage, featuring scalable HLS transcoding. A flexible solution for developers and businesses."
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Javascript
+  - Python
+tags:
+  - Media Streaming - Video Streaming
+  - Media Streaming - Multimedia Streaming
+depends_3rdparty: false
+demo_url: "https://subatic.com"
+related_software_url: "https://github.com/orthdron/subatic-transcoding"

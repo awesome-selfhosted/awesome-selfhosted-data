@@ -11,7 +11,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const extractCss = new MiniCssExtractPlugin({
-  filename: "../css/[name].min.css",
+  filename: "css/[name].min.css",
 });
 
 module.exports = [
@@ -30,8 +30,8 @@ module.exports = [
       markdown: './assets/common/css/markdown.css',
     },
     output: {
-      filename: '[name].min.js',
-      path: path.resolve(__dirname, 'tpl/default/js/')
+      filename: 'js/[name].min.js',
+      path: path.resolve(__dirname, 'tpl/default/')
     },
     module: {
       rules: [
@@ -52,9 +52,6 @@ module.exports = [
           use: [
             {
               loader: MiniCssExtractPlugin.loader,
-              options: {
-                publicPath: 'tpl/default/css/',
-              },
             },
             'css-loader',
             'sass-loader',
@@ -62,23 +59,23 @@ module.exports = [
         },
         {
           test: /\.(gif|png|jpe?g|svg|ico)$/i,
-          use: [
-            {
-              loader: 'file-loader',
-              options: {
-                name: '../img/[name].[ext]',
-                publicPath: 'tpl/default/img/',
-              }
-            }
-          ],
+          type: 'asset/resource',
+          generator: {
+            filename: 'img/[name][ext]'
+          }
+        },
+        {
+          test: /webfont\.svg$/,
+          type: 'asset/resource',
+          generator: {
+            filename: 'fonts/[name][ext]'
+          }
         },
         {
           test: /\.(eot|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-          loader: 'file-loader',
-          options: {
-            name: '../fonts/[name].[ext]',
-            // do not add a publicPath here because it's already handled by CSS's publicPath
-            publicPath: '../default/',
+          type: 'asset/resource',
+          generator: {
+            filename: 'fonts/[name][ext]'
           }
         },
       ],
@@ -105,8 +102,8 @@ module.exports = [
       thumbnails_update: './assets/common/js/thumbnails-update.js',
     },
     output: {
-      filename: '[name].min.js',
-      path: path.resolve(__dirname, 'tpl/vintage/js/')
+      filename: 'js/[name].min.js',
+      path: path.resolve(__dirname, 'tpl/vintage/')
     },
     module: {
       rules: [
@@ -127,9 +124,6 @@ module.exports = [
           use: [
             {
               loader: MiniCssExtractPlugin.loader,
-              options: {
-                publicPath: 'tpl/vintage/css/',
-              },
             },
             'css-loader',
             'sass-loader',
@@ -137,16 +131,10 @@ module.exports = [
         },
         {
           test: /\.(gif|png|jpe?g|svg|ico)$/i,
-          use: [
-            {
-              loader: 'file-loader',
-              options: {
-                name: '../img/[name].[ext]',
-                // do not add a publicPath here because it's already handled by CSS's publicPath
-                publicPath: '../vintage',
-              }
-            }
-          ],
+          type: 'asset/resource',
+          generator: {
+            filename: 'img/[name][ext]'
+          }
         },
       ],
     },

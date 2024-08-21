@@ -1,0 +1,13 @@
+name: "redirector"
+website_url: "https://github.com/gldraphael/redirector"
+source_code_url: "https://github.com/gldraphael/redirector"
+description: "🔀 A config-only barebones URL shortener."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - URL Shorteners
+depends_3rdparty: false

@@ -1,0 +1,11 @@
+name: "PodFetch"
+website_url: "https://samtv12345.github.io/PodFetch"
+source_code_url: "https://github.com/SamTV12345/PodFetch"
+description: "A sleek and efficient podcast downloader."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Automation

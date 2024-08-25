@@ -1,0 +1,14 @@
+name: Fusion
+website_url: https://github.com/0x2E/fusion
+source_code_url: https://github.com/0x2E/fusion
+description: A lightweight RSS aggregator and reader.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Feed Readers
+stargazers_count: 933
+updated_at: '2024-08-24'
+archived: false

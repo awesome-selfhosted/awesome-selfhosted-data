@@ -1,0 +1,12 @@
+name: "HAProxy"
+website_url: "https://www.haproxy.org/"
+source_code_url: "https://git.haproxy.org/?p=haproxy.git;a=tree"
+description: "Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications."
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+  - deb
+  - Docker
+tags:
+  - Web Servers

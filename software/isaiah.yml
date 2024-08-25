@@ -1,0 +1,11 @@
+name: "Isaiah"
+website_url: "https://github.com/will-moss/isaiah"
+source_code_url: "https://github.com/will-moss/isaiah"
+description: "Clone of lazydocker for the web. Manage your Docker fleet with ease."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Miscellaneous

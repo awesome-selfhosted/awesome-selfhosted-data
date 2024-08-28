@@ -1,0 +1,23 @@
+---
+name: Addition
+about: Add new software to the list.
+title: Add runs-on.com
+labels: addition
+assignees: ''
+---
+
+```yaml
+name: "RunsOn"
+website_url: "https://runs-on.com"
+source_code_url: "https://github.com/runs-on/runs-on"
+description: "10x cheaper GitHub Actions runners, self-hosted in your AWS account."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - Continuous Integration & Deployment
+  - Software Development - Testing
+depends_3rdparty: false
+```

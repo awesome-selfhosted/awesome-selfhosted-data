@@ -1,0 +1,14 @@
+name: HeyForm
+website_url: https://heyform.net
+description: HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Polls and Events
+source_code_url: https://github.com/heyform/heyform
+stargazers_count: 6289
+updated_at: '2024-08-31'
+archived: false

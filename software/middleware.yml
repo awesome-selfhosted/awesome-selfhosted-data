@@ -5,8 +5,8 @@ description: "Tool designed to help engineering leaders measure and analyze the 
 licenses:
   - Apache-2.0
 platforms:
-  - Python
-  - Javascript
   - Docker
+  - Python
+  - Nodejs
 tags:
   - Analytics

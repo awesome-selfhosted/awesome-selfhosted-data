@@ -1,0 +1,14 @@
+name: "Openchangelog"
+website_url: "https://openchangelog.com"
+source_code_url: "https://github.com/jonashiltl/openchangelog"
+description: "Easy to configure & customizable Changelog renderer."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - Project Management
+  - Blogging Platforms
+demo_url: "https://demo.openchangelog.com"
+related_software_url: "https://openchangelog.com/integrations"

@@ -1,0 +1,14 @@
+name: Algernon
+website_url: https://algernon.roboticoverlords.org/
+source_code_url: https://github.com/xyproto/algernon
+description: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+  - Docker
+tags:
+  - Web Servers
+stargazers_count: 2755
+updated_at: '2024-09-01'
+archived: false

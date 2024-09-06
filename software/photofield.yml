@@ -1,0 +1,11 @@
+name: "Photofield"
+website_url: "https://github.com/SmilyOrg/photofield"
+source_code_url: "https://github.com/SmilyOrg/photofield"
+description: "Experimental fast photo viewer."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Photo and Video Galleries

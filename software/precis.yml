@@ -1,7 +1,7 @@
 name: Precis
 website_url: "https://github.com/leozqin/precis"
 source_code_url: "https://github.com/leozqin/precis"
-description: "Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support"
+description: "Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support."
 licenses:
   - MIT
 platforms:

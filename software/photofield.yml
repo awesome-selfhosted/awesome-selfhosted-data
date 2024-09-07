@@ -1,7 +1,7 @@
-name: "Photofield"
-website_url: "https://github.com/SmilyOrg/photofield"
-source_code_url: "https://github.com/SmilyOrg/photofield"
-description: "Experimental fast photo viewer."
+name: Photofield
+website_url: https://github.com/SmilyOrg/photofield
+source_code_url: https://github.com/SmilyOrg/photofield
+description: Experimental fast photo viewer.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Go
 tags:
   - Photo and Video Galleries
+stargazers_count: 408
+updated_at: '2024-08-24'
+archived: false

@@ -1,10 +1,13 @@
-name: "Mox"
-website_url: "https://www.xmox.nl/"
-source_code_url: "https://github.com/mjl-/mox"
-description: "Complete e-mail solution with IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE and DNSSEC, reputation-based and content-based junk filtering, Internationalization (IDNA), automatic TLS with ACME and Let's Encrypt, account autoconfiguration, and webmail."
+name: Mox
+website_url: https://www.xmox.nl/
+source_code_url: https://github.com/mjl-/mox
+description: Complete e-mail solution with IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE and DNSSEC, reputation-based and content-based junk filtering, Internationalization (IDNA), automatic TLS with ACME and Let's Encrypt, account autoconfiguration, and webmail.
 licenses:
   - MIT
 platforms:
   - Go
 tags:
   - Communication - Email - Complete Solutions
+stargazers_count: 3481
+updated_at: '2024-08-23'
+archived: false

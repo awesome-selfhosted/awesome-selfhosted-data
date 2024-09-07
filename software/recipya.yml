@@ -1,7 +1,7 @@
-name: "Recipya"
-website_url: "https://recipes.musicavis.ca"
-source_code_url: "https://github.com/reaper47/recipya"
-description: "A clean, simple and powerful recipe manager your whole family will enjoy."
+name: Recipya
+website_url: https://recipes.musicavis.ca
+source_code_url: https://github.com/reaper47/recipya
+description: A clean, simple and powerful recipe manager your whole family will enjoy.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Go
 tags:
   - Recipe Management
-demo_url: "https://recipes.musicavis.ca/guide/login"
+demo_url: https://recipes.musicavis.ca/guide/login
+stargazers_count: 174
+updated_at: '2024-08-12'
+archived: false

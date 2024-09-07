@@ -1,7 +1,7 @@
-name: "PodFetch"
-website_url: "https://samtv12345.github.io/PodFetch"
-source_code_url: "https://github.com/SamTV12345/PodFetch"
-description: "A sleek and efficient podcast downloader."
+name: PodFetch
+website_url: https://samtv12345.github.io/PodFetch
+source_code_url: https://github.com/SamTV12345/PodFetch
+description: A sleek and efficient podcast downloader.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
   - Automation
+stargazers_count: 338
+updated_at: '2024-09-04'
+archived: false

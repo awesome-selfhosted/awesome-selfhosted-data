@@ -1,0 +1,14 @@
+name: "SilverBullet"
+website_url: "https://silverbullet.md/"
+source_code_url: "https://github.com/silverbulletmd/silverbullet"
+description: "Note-taking application optimized for people with a hacker mindset."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Deno
+tags:
+  - Note-taking & Editors
+  - Pastebins
+demo_url: "https://play.silverbullet.md/"
+related_software_url: "https://silverbullet.md/Libraries"

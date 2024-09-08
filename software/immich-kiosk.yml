@@ -3,7 +3,7 @@ website_url: https://github.com/damongolding/immich-kiosk
 source_code_url: https://github.com/damongolding/immich-kiosk
 description: Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
 licenses:
-  - AGPL-3.0
+  - GPL-3.0
 platforms:
   - Docker
   - Go

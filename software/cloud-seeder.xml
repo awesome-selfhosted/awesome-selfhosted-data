@@ -5,7 +5,6 @@ licenses:
   - ⊘ Proprietary
 platforms:
   - Go
-  - Podman
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/ipv6rslimited/cloudseeder

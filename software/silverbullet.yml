@@ -1,7 +1,7 @@
-name: "SilverBullet"
-website_url: "https://silverbullet.md/"
-source_code_url: "https://github.com/silverbulletmd/silverbullet"
-description: "Note-taking application optimized for people with a hacker mindset."
+name: SilverBullet
+website_url: https://silverbullet.md/
+source_code_url: https://github.com/silverbulletmd/silverbullet
+description: Note-taking application optimized for people with a hacker mindset.
 licenses:
   - MIT
 platforms:
@@ -10,5 +10,8 @@ platforms:
 tags:
   - Note-taking & Editors
   - Pastebins
-demo_url: "https://play.silverbullet.md/"
-related_software_url: "https://silverbullet.md/Libraries"
+demo_url: https://play.silverbullet.md/
+related_software_url: https://silverbullet.md/Libraries
+stargazers_count: 2278
+updated_at: '2024-09-04'
+archived: false

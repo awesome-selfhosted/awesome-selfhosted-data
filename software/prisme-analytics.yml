@@ -1,0 +1,15 @@
+name: Prisme Analytics
+website_url: https://www.prismeanalytics.com
+source_code_url: https://github.com/prismelabs/analytics
+description: A privacy-focused and progressive analytics service based on Grafana.
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Analytics
+demo_url: https://app.prismeanalytics.com/grafana
+stargazers_count: 40
+updated_at: '2024-09-11'
+archived: false

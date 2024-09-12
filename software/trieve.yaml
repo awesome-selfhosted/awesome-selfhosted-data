@@ -1,0 +1,12 @@
+name: Trieve
+website_url: https://trieve.ai
+description: All-in-one RESTful RAG, search, recommendations, and analytics engine.
+licenses:
+  - BUSL-1.1
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Search Engines
+source_code_url: https://github.com/devflowinc/trieve
+demo_url: https://hn.trieve.ai

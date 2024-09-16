@@ -17,7 +17,7 @@ jobs:
     if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: make install
       - run: make update_metadata
       - name: commit and push changes

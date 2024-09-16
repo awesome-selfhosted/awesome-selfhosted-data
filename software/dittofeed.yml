@@ -5,7 +5,7 @@ description: "Omni-channel customer engagement and messaging automation platform
 licenses:
   - MIT
 platforms:
-  - Typescript
+  - Javascript
   - Docker
 tags:
   - Automation

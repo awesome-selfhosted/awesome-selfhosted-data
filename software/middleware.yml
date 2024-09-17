@@ -1,7 +1,7 @@
-name: "Middleware"
-website_url: "https://middlewarehq.com/"
-source_code_url: "https://github.com/middlewarehq/middleware"
-description: "Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics."
+name: Middleware
+website_url: https://middlewarehq.com/
+source_code_url: https://github.com/middlewarehq/middleware
+description: Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
   - Nodejs
 tags:
   - Analytics
+stargazers_count: 1020
+updated_at: '2024-09-10'
+archived: false

@@ -1,0 +1,13 @@
+name: HeyForm
+website_url: https://heyform.net
+description: Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Polls and Events
+source_code_url: https://github.com/heyform/heyform
+stargazers_count: 6351
+updated_at: '2024-09-20'
+archived: false

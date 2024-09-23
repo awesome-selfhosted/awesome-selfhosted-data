@@ -21,6 +21,7 @@ See [REST API](REST-API.md) for a list of official and community clients.
 - [emojione](https://github.com/immanuelfodor/emojione) by [@immanuelfodor](https://github.com/immanuelfodor) - Resurrected fork of the original emojione project
 - [favicons](https://github.com/trailjeep/shaarli-favicons) by [@trailjeep](https://github.com/trailjeep) - Shaarli plugin to add favicon/filetype icons to Shaares.
 - [google analytics](https://github.com/ericjuden/Shaarli-Google-Analytics-Plugin) by [@ericjuden](https://github.com/ericjuden): Adds Google Analytics tracking support
+- [image-upload](https://github.com/meerkatzenwildschein/shaarli-image-upload) by [@meerkatzenwildschein](https://github.com/meerkatzenwildschein): Upload images to your Shaarli for use in Shaares. Good for blogging/microblogging.
 - [launch](https://github.com/ArthurHoaro/launch-plugin) - Launch Plugin is a plugin designed to enhance and customize Launch Theme for Shaarli.
 - [markdown-toolbar](https://github.com/immanuelfodor/shaarli-markdown-toolbar) by [@immanuelfodor](https://github.com/immanuelfodor) - Easily insert markdown syntax into the Description field when editing a Shaare.
 - [offen](https://github.com/waschinski/shaarli-offen/) by [@waschinski](https://github.com/waschinski) - Shaarli plugin that adds Offen analytics tracking code to Shaarli pages.

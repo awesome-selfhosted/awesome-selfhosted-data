@@ -1,0 +1,11 @@
+name: "Pelican Panel"
+website_url: "https://pelican.dev/"
+source_code_url: "https://github.com/pelican-dev/panel"
+description: "Web application for easy management of game servers, offering a user-friendly interface for deploying, configuring, and managing servers, server monitoring tools, and extensive customization options (fork of Pterodactyl)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels

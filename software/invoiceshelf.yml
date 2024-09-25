@@ -1,0 +1,12 @@
+name: "InvoiceShelf"
+website_url: "https://invoiceshelf.com/"
+source_code_url: "https://github.com/InvoiceShelf/InvoiceShelf"
+description: "InvoiceShelf is an open-source software that helps you track expenses, payments & create professional invoices & estimates."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false

@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Go
-  - JavaScript
   - Docker
 tags:
   - Communication - Social Networks and Forums

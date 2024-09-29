@@ -612,8 +612,8 @@ Complete list:
 Example:
 
 ```php
-if ($data['_PAGE_'] === TemplatePage::LINKLIST && $data['LOGGEDIN'] === true) {
-    // Do something for logged in users when the link list is rendered
+if ($data['_PAGE_'] === TemplatePage::LINKLIST && $data['_LOGGEDIN_'] === true) {
+    // Do something for logged-in users when the link list is rendered
 }
 ```
 

@@ -1,0 +1,15 @@
+name: "Mixwave"
+website_url: "https://matvp91.github.io/mixwave/"
+source_code_url: "https://github.com/matvp91/mixwave"
+description: "A selfhostable Open-Source Streaming Server and Player. Simplify transcoding and packaging media for online streaming with simple API calls and sane defaults, or craft dynamic HLS playlists on the fly with bumpers, ads and filters."
+licenses:
+  - MPL-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming
+  - Media Streaming - Video Streaming
+depends_3rdparty: true

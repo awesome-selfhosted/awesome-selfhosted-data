@@ -5,9 +5,6 @@ description: "LLM engineering platform for model tracing, prompt management, and
 licenses:
   - MIT
 platforms:
-  - Java
-  - Python
-  - Nodejs
   - Docker
 tags:
   - Software Development - IDE & Tools

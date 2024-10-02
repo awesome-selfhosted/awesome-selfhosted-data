@@ -1,0 +1,13 @@
+name: "Beaver Habit Tracker"
+website_url: "https://github.com/daya0576/beaverhabits"
+source_code_url: "https://github.com/daya0576/beaverhabits"
+description: "A self-hosted web app to track your fleeting life."
+licenses:
+  - BSD 3-Clause
+platforms:
+  - Python
+  - Docker
+tags:
+  - Time Tracking
+  - Miscellaneous
+demo_url: "https://beaverhabits.com/demo"

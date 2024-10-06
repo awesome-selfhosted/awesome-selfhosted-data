@@ -1,0 +1,12 @@
+name: "Dittofeed"
+website_url: "https://www.dittofeed.com"
+source_code_url: "https://github.com/dittofeed/dittofeed"
+description: "Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable)."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Automation
+  - Communication - Email - Mailing Lists and Newsletters
+demo_url: "https://demo.dittofeed.com/dashboard/journeys"

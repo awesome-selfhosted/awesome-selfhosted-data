@@ -1,0 +1,11 @@
+name: "SiYuan"
+website_url: "https://b3log.org/siyuan/"
+source_code_url: "https://github.com/siyuan-note/siyuan"
+description: "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Knowledge Management Tools

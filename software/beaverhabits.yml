@@ -5,9 +5,7 @@ description: "A self-hosted habit tracking app to save your precious moments in 
 licenses:
   - BSD-3-Clause
 platforms:
-  - Python
   - Docker
 tags:
   - Time Tracking
-  - Miscellaneous
 demo_url: "https://beaverhabits.com/demo"

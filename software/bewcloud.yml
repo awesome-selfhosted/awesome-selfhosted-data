@@ -5,8 +5,6 @@ description: "A simpler alternative to Nextcloud and ownCloud's RSS Reader, File
 licenses:
   - AGPL-3.0
 platforms:
-  - Deno
-  - Nodejs
   - Docker
 tags:
   - File Transfer & Synchronization

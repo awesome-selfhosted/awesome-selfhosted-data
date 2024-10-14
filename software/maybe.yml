@@ -1,0 +1,12 @@
+name: "Maybe"
+website_url: "https://maybe.co/"
+source_code_url: "https://github.com/maybe-finance/maybe"
+description: "Maybe is a fully open-source OS for your personal finances built by a small team alongside an incredible community."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - Javascript
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false

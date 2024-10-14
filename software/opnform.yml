@@ -1,0 +1,18 @@
+
+name: "OpnForm"
+website_url: "https://opnform.com"
+source_code_url: "https://github.com/JhumanJ/opnform"
+description: "Beautiful open-source form builder"
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Nodejs
+  - Docker
+tags:
+  - Polls and Events
+depends_3rdparty: false
+demo_url: "https://opnform.com/forms/create/guest"
+stargazers_count: 2014
+updated_at: '2024-10-14'
+archived: false

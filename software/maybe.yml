@@ -5,8 +5,7 @@ description: "Maybe is a fully open-source OS for your personal finances built b
 licenses:
   - AGPL-3.0
 platforms:
-  - Ruby
-  - Javascript
+  - Docker
 tags:
   - Money, Budgeting & Management
 depends_3rdparty: false

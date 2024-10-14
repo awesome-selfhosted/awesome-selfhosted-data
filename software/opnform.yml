@@ -11,7 +11,6 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-depends_3rdparty: false
 demo_url: "https://opnform.com/forms/create/guest"
 stargazers_count: 2014
 updated_at: '2024-10-14'

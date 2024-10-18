@@ -1,0 +1,12 @@
+name: "Dropserver"
+website_url: "https://dropserver.org"
+source_code_url: "https://github.com/teleclimber/Dropserver/"
+description: "An Application Platform for Your Personal Web Services."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Deno
+tags:
+  - Self-hosting Solutions
+depends_3rdparty: false

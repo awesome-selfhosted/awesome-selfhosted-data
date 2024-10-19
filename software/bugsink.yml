@@ -1,0 +1,11 @@
+name: "Bugsink"
+website_url: "https://www.bugsink.com/"
+source_code_url: "https://github.com/bugsink/bugsink/"
+description: "Real-time error tracking for your applications with all the details in one place. Self-host on your own servers for full control over your data. Easy setup with clear instructions included."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Python
+  - Docker
+tags:
+  - Ticketing

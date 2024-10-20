@@ -1,7 +1,7 @@
-name: "HTMLy"
-website_url: "https://www.htmly.com/"
-source_code_url: "https://github.com/danpros/htmly"
-description: "Databaseless PHP blogging platform. A flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds."
+name: HTMLy
+website_url: https://www.htmly.com/
+source_code_url: https://github.com/danpros/htmly
+description: Databaseless PHP blogging platform. A flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,5 +9,8 @@ platforms:
 tags:
   - Blogging Platforms
   - Content Management Systems (CMS)
-demo_url: "http://demo.htmly.com/"
-related_software_url: "https://www.htmly.com/theme/"
+demo_url: http://demo.htmly.com/
+related_software_url: https://www.htmly.com/theme/
+stargazers_count: 1074
+updated_at: '2024-10-19'
+archived: false

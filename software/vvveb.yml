@@ -1,0 +1,14 @@
+name: "Vvveb CMS"
+website_url: "https://www.vvveb.com"
+description: "Powerful and easy to use cms to build websites, blogs or ecommerce stores."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Content Management Systems (CMS)
+  - E-commerce
+  - Blogging Platform
+source_code_url: "https://github.com/givanz/Vvveb"
+demo_url: "https://demo.vvveb.com"

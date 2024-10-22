@@ -5,10 +5,6 @@ description: "Build internal tools, customer portals, and CRUD apps quickly. Con
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Java
-  - Javascript
-  - Nodejs
-  - Python
   - Docker
   - K8S
 tags:

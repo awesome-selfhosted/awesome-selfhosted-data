@@ -5,7 +5,6 @@ description: 'Platform to use one or more instances of HandBrake on a headless d
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Automation

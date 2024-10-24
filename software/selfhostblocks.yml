@@ -1,7 +1,7 @@
 name: "Self Host Blocks"
 website_url: "https://github.com/ibizaman/selfhostblocks"
 source_code_url: "https://github.com/ibizaman/selfhostblocks"
-description: " Modular server management based on NixOS modules and focused on best practices. "
+description: "Modular server management based on NixOS modules and focused on best practices."
 licenses:
   - AGPL-3.0
 platforms:

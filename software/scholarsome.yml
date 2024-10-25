@@ -4,7 +4,6 @@ description: Web-based and open source interactive flashcard learning software s
 licenses:
   - GPL-3.0
 platforms:
-  - Node
   - Docker
 tags:
   - Learning and Courses

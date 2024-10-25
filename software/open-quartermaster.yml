@@ -5,9 +5,6 @@ description: "A powerful inventory management system, designed to be flexible an
 licenses:
   - GPL-3.0
 platforms:
-  - Java
-  - Python
-  - PHP
   - Deb
   - Docker
 tags:

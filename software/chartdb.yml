@@ -1,0 +1,13 @@
+name: ChartDB
+website_url: https://chartdb.io
+description: Database diagrams editor for visualizing and designing databases with a single query, including AI-powered DDL script export in multiple SQL dialects.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Database Management
+  - Analytics
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/chartdb/chartdb
+demo_url: https://app.chartdb.io/examples

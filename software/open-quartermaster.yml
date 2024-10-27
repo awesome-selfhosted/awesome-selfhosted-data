@@ -5,7 +5,7 @@ description: "Powerful inventory management system, designed to be flexible and 
 licenses:
   - GPL-3.0
 platforms:
-  - Deb
+  - deb
   - Docker
 tags:
   - Inventory Management

@@ -1,7 +1,7 @@
-name: "bewCloud"
-website_url: "https://bewcloud.com"
-source_code_url: "https://github.com/bewcloud/bewcloud"
-description: "A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos."
+name: bewCloud
+website_url: https://bewcloud.com
+source_code_url: https://github.com/bewcloud/bewcloud
+description: A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos.
 licenses:
   - AGPL-3.0
 platforms:
@@ -12,4 +12,7 @@ tags:
   - Feed Readers
   - Note-taking & Editors
   - Photo and Video Galleries
-related_software_url: "https://github.com/bewcloud"
+related_software_url: https://github.com/bewcloud
+stargazers_count: 207
+updated_at: '2024-10-16'
+archived: false

@@ -1,7 +1,7 @@
-name: "OpnForm"
-website_url: "https://opnform.com"
-source_code_url: "https://github.com/JhumanJ/opnform"
-description: "Beautiful open-source form builder."
+name: OpnForm
+website_url: https://opnform.com
+source_code_url: https://github.com/JhumanJ/opnform
+description: Beautiful open-source form builder.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,4 +10,7 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-demo_url: "https://opnform.com/forms/create/guest"
+demo_url: https://opnform.com/forms/create/guest
+stargazers_count: 2120
+updated_at: '2024-10-24'
+archived: false

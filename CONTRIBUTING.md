@@ -96,6 +96,20 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If the project distributes a single static binary, please add the programming language in which it is written.
 
 
+### Canned replies
+
+To save maintainers time, a few premade replies for common issues can be found below
+
+#### No tagged releases
+
+>Hi, thanks for your contribution.
+>
+>However, there are no tagged releases for this project. Our guidelines require that _Any software project you are adding was first released more than 4 months ago._ We encourage you to create a release now and/or a simple [changelog](https://keepachangelog.com/en/1.1.0/) that will help users keep track of changes in the software (especially breaking changes or changes requiring configuration tweaks), and will allow administrators to install a known working, unchanging version (as opposed to always installing the latest development version).
+>
+>Once this is done, the project may be resubmitted to awesome-selfhosted when the first release reaches the age of 4 months.
+>
+>Thanks for understanding, and good luck with this project.
+
 ### Other operations
 
 **Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.

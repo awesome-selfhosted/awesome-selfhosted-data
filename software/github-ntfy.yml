@@ -5,7 +5,6 @@ licenses:
   - GPL-3.0
 platforms:
   - Docker
-  - Python
 tags:
   - Automation
 source_code_url: https://github.com/BreizhHardware/ntfy_alerts

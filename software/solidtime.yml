@@ -5,7 +5,6 @@ description: "solidtime is a modern time tracking application for freelancers an
 licenses:
   - AGPL-3.0
 platforms:
-  - PHP
   - Docker
 tags:
   - Time Tracking

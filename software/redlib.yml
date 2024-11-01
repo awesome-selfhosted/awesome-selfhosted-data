@@ -1,0 +1,14 @@
+name: Redlib
+website_url: https://github.com/redlib-org/redlib
+description: An alternative private front-end to Reddit, with its origins in Libreddit.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - Communication - Social Networks and Forums
+source_code_url: https://github.com/redlib-org/redlib
+depends_3rdparty: true
+stargazers_count: 1304
+updated_at: '2024-10-31'
+archived: false

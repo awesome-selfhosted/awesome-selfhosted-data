@@ -1,5 +1,5 @@
 name: asciinema
-website_url: https://github.com/asciinema/asciinema-server
+website_url: https://asciinema.org/
 description: Web app for hosting asciicasts.
 licenses:
   - Apache-2.0
@@ -9,7 +9,7 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/asciinema/asciinema-server
-demo_url: https://asciinema.org/
-stargazers_count: 2264
-updated_at: '2024-07-02'
+demo_url: https://asciinema.org/explore
+stargazers_count: 2302
+updated_at: '2024-10-17'
 archived: false

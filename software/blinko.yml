@@ -5,7 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Typescript
+  - Nodejs
 tags:
   - Note-taking & Ai
 source_code_url: https://github.com/blinko-space/blinko

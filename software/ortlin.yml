@@ -1,0 +1,11 @@
+name: "Ortlin"
+website_url: "https://github.com/ortlin/ortlin/"
+source_code_url: "https://github.com/ortlin/ortlin/"
+description: "Ortlin is a web-based GUI for interacting with OpenAI's models and APIs with ease."
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+tags:
+  - Miscellaneous
+demo_url: "https://ortlin.openuseai.com"

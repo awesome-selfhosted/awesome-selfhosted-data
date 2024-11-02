@@ -1,0 +1,12 @@
+name: TrailBase
+website_url: https://trailbase.io/
+description: Sub-millisecond, single-executable SaaS/Mobile backend with type-safe APIs, realtime, JS/TS runtime, auth & admin UI built on SQLite, Rust & V8.
+licenses:
+  - OSL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/trailbaseio/trailbase
+demo_url: https://demo.trailbase.io

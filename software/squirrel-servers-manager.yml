@@ -1,0 +1,11 @@
+name: "Squirrel Servers Manager"
+website_url: "https://squirrelserversmanager.io"
+source_code_url: "https://github.com/SquirrelCorporation/SquirrelServersManager"
+description: "A user-friendly, UI/UX focused server & configuration management tool."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Self-hosting Solutions
+demo_url: "https://demo.squirrelserversmanager.io/"

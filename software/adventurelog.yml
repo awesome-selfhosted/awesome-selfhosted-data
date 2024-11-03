@@ -1,12 +1,3 @@
----
-name: Addition
-about: Add new software to the list.
-title: Add AdventureLog
-labels: addition
-assignees: ''
-
----
-```yaml
 name: "AdventureLog"
 website_url: "https://adventurelog.app"
 source_code_url: "https://github.com/seanmorley15/AdventureLog"

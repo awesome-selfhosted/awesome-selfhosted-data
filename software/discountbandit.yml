@@ -1,0 +1,14 @@
+name: "Discount Bandit"
+website_url: "https://discount-bandit.cybrarist.com/"
+source_code_url: "https://github.com/Cybrarist/Discount-Bandit"
+description: "Track pricing, stock status of products across multiple stores such as Amazon, Ebay, Walmart, etc."
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Automation
+  - E-commerce
+depends_3rdparty: true
+demo_url: "https://discount-bandit.cybrarist.com/screenshots.html"

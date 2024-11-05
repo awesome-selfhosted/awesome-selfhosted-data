@@ -1,0 +1,10 @@
+name: 'HandBrake Web'
+website_url: 'https://github.com/TheNickOfTime/handbrake-web'
+source_code_url: 'https://github.com/TheNickOfTime/handbrake-web'
+description: 'Platform to use one or more instances of HandBrake video transcoder on a headless device via a web interface.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Automation

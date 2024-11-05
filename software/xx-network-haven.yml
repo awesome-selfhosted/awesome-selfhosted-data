@@ -1,0 +1,13 @@
+name: "Haven"
+website_url: "https://xx.network"
+source_code_url: "https://git.xx.network/elixxir/speakeasy-web/"
+description: "anonymous, distributed, mixnet-based text messaging chat app. Uses xx network's cMixx technology by Dr. David Chaum. Not to be confused with Haven the blogging system."
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+depends_3rdparty: false
+demo_url: "https://haven.xx.network"

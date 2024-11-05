@@ -1,0 +1,21 @@
+# software name
+name: "Serverless API Gateway"
+# URL of the software project's homepage
+website_url: "https://serverlessapigateway.com/"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/irensaltali/serverlessapigateway"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "An innovative tool designed to streamline your API management tasks using the powerful capabilities of Cloudflare Workers."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Elastic License 2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - JavaScript
+  - Cloudflare Workers
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Software Development - API Management
+  - Software Development - FaaS & Serverless
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: true

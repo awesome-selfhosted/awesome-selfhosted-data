@@ -1,0 +1,10 @@
+name: Dub
+website_url: "https://dub.co"
+source_code_url: "https://github.com/dubinc.dub"
+description: Open-source link management platform with [powerful analytics](https://dub.co/help/article/dub-analytics) and features like [UTM templates](https://dub.co/help/article/how-to-create-utm-templates), [tags](https://dub.co/help/article/how-to-use-tags), [device-targeting](https://dub.co/help/article/device-targeting), [geo-targeting](https://dub.co/help/article/geo-targeting), [link cloaking](https://dub.co/help/article/link-cloaking), [password protection](https://dub.co/help/article/password-protected-links), [link expiration](https://dub.co/help/article/link-expiration), etc.
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+tags:
+  - URL Shorteners

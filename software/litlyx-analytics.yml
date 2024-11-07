@@ -1,0 +1,13 @@
+
+name: "Litlyx"
+website_url: "https://litlyx.com"
+source_code_url: "https://github.com/Litlyx/litlyx"
+description: "All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant."
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Javascript
+  - Docker
+tags:
+  - Analytics

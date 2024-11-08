@@ -5,8 +5,7 @@ description: "An innovative tool designed to streamline your API management task
 licenses:
   - Elastic-2.0
 platforms:
-  - JavaScript
-  - Cloudflare Workers
+  - Javascript
 tags:
   - Software Development - API Management
 depends_3rdparty: true

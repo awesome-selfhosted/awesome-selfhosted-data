@@ -3,7 +3,7 @@ website_url: "https://serverlessapigateway.com/"
 source_code_url: "https://github.com/irensaltali/serverlessapigateway"
 description: "An innovative tool designed to streamline your API management tasks using the powerful capabilities of Cloudflare Workers."
 licenses:
-  - Elastic License 2.0
+  - Elastic-2.0
 platforms:
   - JavaScript
   - Cloudflare Workers

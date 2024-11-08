@@ -71,6 +71,10 @@
   name: Common Public Attribution License Version 1.0
   url: https://spdx.org/licenses/CPAL-1.0.html
 
+- identifier: Elastic-2.0
+  name: Elastic License 2.0
+  url: https://spdx.org/licenses/Elastic-2.0.html
+
 - identifier: ECL-2.0
   name: Educational Community License, Version 2.0
   url: https://spdx.org/licenses/ECL-2.0.html

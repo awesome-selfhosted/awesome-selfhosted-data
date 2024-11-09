@@ -6,7 +6,6 @@ description: "All-in-one Analytics Solution. Setup in 30 seconds. Display all yo
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Analytics

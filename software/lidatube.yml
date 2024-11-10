@@ -1,0 +1,11 @@
+name: "LidaTube"
+website_url: "https://github.com/TheWicklowWolf/LidaTube"
+source_code_url: "https://github.com/TheWicklowWolf/LidaTube"
+description: "A self-hosted video downloader and media manager with a clean interface. Rip audio from YT based on your Lidarr wanted list."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation

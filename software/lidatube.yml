@@ -5,7 +5,6 @@ description: "Finding and fetch missing Lidarr albums via yt-dlp."
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
   - Automation

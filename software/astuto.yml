@@ -5,8 +5,6 @@ description: "Customer feedback tool to collect, manage and prioritize feedback 
 licenses:
   - AGPL-3.0
 platforms:
-  - Ruby
-  - JavaScript
   - Docker
 tags:
   - Polls and Events

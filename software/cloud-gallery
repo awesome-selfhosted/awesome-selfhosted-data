@@ -1,0 +1,13 @@
+name: "Cloud Gallery"
+website_url: "https://play.google.com/store/apps/details?id=com.canopas.cloud_gallery"
+source_code_url: "https://github.com/canopas/cloud-gallery"
+description: "Cloud Gallery is a Flutter application designed to manage user media seamlessly across multiple cloud providers like Google Drive, Dropbox, while also allowing users to access and organize their local media."
+licenses:
+  - Apache-2.0
+platforms:
+  - Firebase
+  - Docker
+tags:
+  - Photo and Video Galleries
+depends_3rdparty: false
+demo_url: "https://apps.apple.com/in/app/cloud-gallery/id6480052005?platform=iphone"

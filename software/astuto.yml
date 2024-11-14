@@ -1,0 +1,13 @@
+name: "Astuto"
+website_url: "https://astuto.io/"
+source_code_url: "https://github.com/astuto/astuto"
+description: "Customer feedback tool to collect, manage and prioritize feedback from your users (alternative to Fider, Canny)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - JavaScript
+  - Docker
+tags:
+  - Polls and Events
+demo_url: "https://feedback.astuto.io/"

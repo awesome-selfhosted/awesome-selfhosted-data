@@ -3,6 +3,8 @@ website_url: https://manifest.build
 description: A complete backend that fits into 1 YAML file.
 licenses:
   - MIT
+platforms:
+  - Nodejs
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/mnfst/manifest

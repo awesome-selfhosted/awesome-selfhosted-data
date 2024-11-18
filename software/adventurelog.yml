@@ -1,0 +1,11 @@
+name: "AdventureLog"
+website_url: "https://adventurelog.app"
+source_code_url: "https://github.com/seanmorley15/AdventureLog"
+description: "Travel tracker and trip planner."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Maps and Global Positioning System (GPS)
+demo_url: "https://adventurelog.app"

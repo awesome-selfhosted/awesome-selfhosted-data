@@ -4,7 +4,6 @@ description: Click a button and get a recipe. You can exclude unavailable ingred
 licenses:
   - AGPL-3.0
 platforms:
-  - Java
   - Docker
 tags:
   - Recipe Management

@@ -1,0 +1,13 @@
+name: Portchecker.io
+website_url: https://portchecker.io
+source_code_url: https://github.com/dsgnr/portchecker.io
+description: A self-hostable tool for checking the port status of a hostname or IP address.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Miscellaneous
+  - Monitoring

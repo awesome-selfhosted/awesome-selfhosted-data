@@ -1,0 +1,13 @@
+name: Spacebar
+website_url: https://spacebar.chat/
+description: Spacebar is a free open source selfhostable discord compatible communication platform.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Python
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/spacebarchat/server
+demo_url: https://app.spacebar.chat/
+related_software_url: https://github.com/spacebarchat/client

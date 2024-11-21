@@ -1,0 +1,14 @@
+name: "Bluesky PDS"
+website_url: "https://github.com/bluesky-social/pds"
+source_code_url: "https://github.com/bluesky-social/pds"
+description: "Personal data server to federate with the Bluesky social media network via AT Protocol."
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+  - Shell
+tags:
+  - Communication - Social Networks and Forums
+depends_3rdparty: true

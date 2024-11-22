@@ -1,0 +1,13 @@
+name: "Retrom"
+website_url: "https://github.com/JMBeresford/retrom"
+source_code_url: "https://github.com/JMBeresford/retrom"
+description: "Private cloud game library distribution server + frontend/launcher"
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Javascript
+  - Deb
+  - Docker
+tags:
+  - Games

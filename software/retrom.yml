@@ -5,9 +5,8 @@ description: "Private cloud game library distribution server + frontend/launcher
 licenses:
   - GPL-3.0
 platforms:
+  - Docker
   - Rust
   - Javascript
-  - Deb
-  - Docker
 tags:
   - Games

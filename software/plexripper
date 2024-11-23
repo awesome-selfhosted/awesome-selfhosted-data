@@ -5,7 +5,6 @@ description: "A cross-platform Plex media downloader that seamlessly adds media 
 licenses:
   - GPL-3.0
 platforms:
-  - C#
   - Docker
 tags:
   - Automation

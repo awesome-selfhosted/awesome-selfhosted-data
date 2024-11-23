@@ -8,5 +8,4 @@ platforms:
   - Docker
 tags:
   - Automation
-  - Media Streaming
-  - Monitoring
+depends_3rdparty: true

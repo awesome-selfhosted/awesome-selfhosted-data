@@ -1,0 +1,12 @@
+name: "lesma"
+website_url: "https://lesma.eu"
+source_code_url: "https://gitlab.com/ogarcia/lesma"
+description: "Simple paste app friendly with browser and command line."
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Pastebins
+demo_url: "https://lesma.eu"

@@ -1,0 +1,14 @@
+name: scholarsome
+website_url: https://www.scholarsome.com/
+description: Web-based and open source interactive flashcard learning software studying for the masses.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/hwgilbert16/scholarsome
+demo_url: https://scholarsome.com/
+stargazers_count: 527
+updated_at: '2024-07-23'
+archived: false

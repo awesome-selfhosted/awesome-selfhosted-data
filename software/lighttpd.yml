@@ -1,0 +1,12 @@
+name: "Lighttpd"
+website_url: "https://www.lighttpd.net/"
+source_code_url: "https://git.lighttpd.net/lighttpd/lighttpd1.4"
+description: "Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments."
+licenses:
+  - BSD-3-Clause
+platforms:
+  - C
+  - deb
+  - Docker
+tags:
+  - Web Servers

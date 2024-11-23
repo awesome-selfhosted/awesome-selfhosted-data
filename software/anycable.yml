@@ -1,0 +1,15 @@
+name: AnyCable
+website_url: https://anycable.io/
+description: Realtime server for reliable two-way communication over WebSockets, Server-sent events, etc.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/anycable/anycable-go
+demo_url: https://demo.anycable.io
+stargazers_count: 377
+updated_at: '2024-10-31'
+archived: false

@@ -1,0 +1,11 @@
+name: "Digitranscode"
+website_url: "https://ladigitale.dev/digitranscode"
+source_code_url: "https://codeberg.org/ladigitale/digitranscode"
+description: "Convert audio files and videos directly in the browser (documentation in French)."
+licenses:
+  - AGPL-3.0
+platforms:
+ - Nodejs
+tags:
+ - Miscellaneous
+demo_url: "https://ladigitale.dev/digitranscode"

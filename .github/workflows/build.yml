@@ -29,7 +29,7 @@ jobs:
       url: https://github.com/awesome-selfhosted/awesome-selfhosted
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
       - run: make install
@@ -48,7 +48,7 @@ jobs:
       url: https://github.com/awesome-selfhosted/awesome-selfhosted-html
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
       - run: make install

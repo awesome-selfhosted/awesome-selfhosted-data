@@ -1,0 +1,11 @@
+name: "CxReports"
+website_url: "https://www.cx-reports.com"
+source_code_url: "https://www.cx-reports.com"
+description: "Reporting and PDF document generation with a user-friendly WYSIWYG template editor, API, automated email delivery, and robust security features."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Automation
+depends_3rdparty: true

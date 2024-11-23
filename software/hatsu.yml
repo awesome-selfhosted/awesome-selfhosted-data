@@ -1,0 +1,14 @@
+name: Hatsu
+website_url: https://hatsu.cli.rs/
+source_code_url: https://github.com/importantimport/hatsu
+description: Bridge that interacts with Fediverse on behalf of your static site.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Communication - Social Networks and Forums
+stargazers_count: 149
+updated_at: '2024-11-13'
+archived: false

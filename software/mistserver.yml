@@ -1,13 +1,13 @@
 name: MistServer
 website_url: https://mistserver.org/
-description: Streaming media server that works well in any streaming environment.
+description: Public domain streaming media server that works with any device and any format.
 licenses:
-  - AGPL-3.0
+  - Unlicense
 platforms:
   - C++
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/DDVTECH/mistserver
-stargazers_count: 337
-updated_at: '2023-12-20'
+stargazers_count: 382
+updated_at: '2024-07-29'
 archived: false

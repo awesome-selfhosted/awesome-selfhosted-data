@@ -1,0 +1,16 @@
+name: Collecto
+website_url: https://github.com/Eliran-Turgeman/Collecto
+description: Open-source, self-hosted, lightweight, forms backend service (like getform, formspree)
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - .Net
+tags:
+  - Forms Backend
+  - Email collection
+source_code_url: https://github.com/Eliran-Turgeman/Collecto
+demo_url: https://youtu.be/H6m5f3WL2x0?si=GwT1bT6upA_EVIjk
+stargazers_count: 18
+updated_at: '2024-11-23'
+archived: false

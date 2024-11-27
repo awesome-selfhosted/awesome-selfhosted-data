@@ -1,6 +1,6 @@
 name: Gitea
-website_url: https://gitea.io
-description: Community managed, lightweight code hosting solution (fork of Gogs).
+website_url: https://gitea.com
+description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
 licenses:
   - MIT
 platforms:
@@ -10,7 +10,7 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/go-gitea/gitea
-demo_url: https://try.gitea.io
-stargazers_count: 45250
-updated_at: '2024-11-22'
+demo_url: https://demo.gitea.com
+stargazers_count: 45311
+updated_at: '2024-11-26'
 archived: false

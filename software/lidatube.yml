@@ -1,10 +1,13 @@
-name: "LidaTube"
-website_url: "https://github.com/TheWicklowWolf/LidaTube"
-source_code_url: "https://github.com/TheWicklowWolf/LidaTube"
-description: "Finding and fetch missing Lidarr albums via yt-dlp."
+name: LidaTube
+website_url: https://github.com/TheWicklowWolf/LidaTube
+source_code_url: https://github.com/TheWicklowWolf/LidaTube
+description: Finding and fetch missing Lidarr albums via yt-dlp.
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Automation
+stargazers_count: 110
+updated_at: '2024-11-18'
+archived: false

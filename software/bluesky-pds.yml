@@ -7,7 +7,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
   - Shell
 tags:
   - Communication - Social Networks and Forums

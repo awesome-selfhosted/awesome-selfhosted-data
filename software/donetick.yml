@@ -9,8 +9,5 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-  - Automation
-  - Personal Dashboards
-
 depends_3rdparty: true
 demo_url: "https://app.donetick.com/"

@@ -6,7 +6,6 @@ licenses:
   - AGPL-3.0
 platforms:
   - Go
-  - Nodejs
   - Docker
 tags:
   - Task Management & To-do Lists

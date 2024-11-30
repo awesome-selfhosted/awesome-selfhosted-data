@@ -5,6 +5,7 @@ description: "Collaborative wiki and documentation software (alternative to Conf
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - Nodejs
 tags:
   - Knowledge Management Tools

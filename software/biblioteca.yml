@@ -1,0 +1,13 @@
+name: "Biblioteca"
+website_url: "https://biblioverse.github.io/biblioteca-doc/"
+source_code_url: "https://github.com/biblioverse/biblioteca"
+description: "Book management system"
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+depends_3rdparty: true
+demo_url: "https://my.awesome.softwar.e/demo"
+related_software_url: "https://biblioteca.biblioverse.software/"

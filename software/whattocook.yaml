@@ -1,6 +1,6 @@
 name: What To Cook?
 website_url: https://github.com/kassner/whattocook
-description: Click a button and get a recipe. You can exclude unavailable ingredients, but you can't just get another recipe.
+description: Get a recipe to cook today, based on the ingredients you have at home.
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,7 +1,7 @@
-name: "docmost"
-website_url: "https://docmost.com/"
-source_code_url: "https://github.com/docmost/docmost"
-description: "Collaborative wiki and documentation software (alternative to Confluence, Notion)."
+name: docmost
+website_url: https://docmost.com/
+source_code_url: https://github.com/docmost/docmost
+description: Collaborative wiki and documentation software (alternative to Confluence, Notion).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Nodejs
 tags:
   - Wikis
+stargazers_count: 6964
+updated_at: '2024-12-06'
+archived: false

@@ -6,7 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - C#
-  - JavaScript
+  - Javascript
 tags:
   - File Transfer - Peer-to-peer Filesharing
 depends_3rdparty: true

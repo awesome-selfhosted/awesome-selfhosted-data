@@ -5,8 +5,8 @@ description: "SponsorBlock for YouTube TV, allows skipping sponsors, muting and 
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
+  - Python
 tags:
   - Miscellaneous
 depends_3rdparty: true

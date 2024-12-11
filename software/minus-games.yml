@@ -1,0 +1,13 @@
+# software name
+name: "Minus Games"
+website_url: "https://github.com/Accessory/minus_games"
+source_code_url: "https://github.com/Accessory/minus_games"
+description: "Minus Games is a server and launcher combo that helps you sync game and save files across multiple devices."
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels
+depends_3rdparty: false

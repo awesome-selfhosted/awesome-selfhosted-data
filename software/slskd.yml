@@ -5,6 +5,7 @@ description: "A modern client-server application for the Soulseek file sharing n
 licenses:
   - AGPL-3.0
 platforms:
+  - Docker
   - C#
 tags:
   - File Transfer - Peer-to-peer Filesharing

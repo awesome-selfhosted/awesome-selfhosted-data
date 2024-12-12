@@ -1,7 +1,7 @@
 name: "HomeServerHQ"
 website_url: "https://www.homeserverhq.com/"
 source_code_url: "https://github.com/homeserverhq/hshq"
-description: "HomeServerHQ is an all-in-one home server infrastructure and installer that embarrasses its competition. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. Is this Web 3.0? You decide."
+description: "An all-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT."
 licenses:
   - GPL-3.0
 platforms:

@@ -6,7 +6,6 @@ licenses:
   - BSD-2-Clause
 platforms:
   - Nodejs
-  - Docker
 tags:
   - Communication - Custom Communication Systems
 demo_url: "https://haven.xx.network"

@@ -1,0 +1,14 @@
+name: "AuditVPS"
+website_url: "https://auditvps.com"
+source_code_url: "https://github.com/healthyhost/audit-vps-script"
+description: " AuditVPS helps you identify and fix common security vulnerabilities on your VPS through automated security auditing."
+licenses:
+  - MIT
+platforms:
+  - shell
+tags:
+  - Self-hosting Solutions
+  - Monitoring
+  - Web Servers
+depends_3rdparty: false
+demo_url: "https://auditvps.com?demo=1"

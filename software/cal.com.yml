@@ -2,7 +2,7 @@ name: Cal.com
 website_url: https://cal.com/
 description: The open-source online appointment scheduling system.
 licenses:
-  - MIT
+  - AGPLv3
 platforms:
   - Nodejs
 tags:

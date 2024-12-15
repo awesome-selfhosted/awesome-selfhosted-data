@@ -1,7 +1,7 @@
 name: "AuditVPS"
 website_url: "https://auditvps.com"
 source_code_url: "https://github.com/healthyhost/audit-vps-script"
-description: " AuditVPS helps you identify and fix common security vulnerabilities on your VPS through automated security auditing."
+description: "AuditVPS helps you identify and fix common security gaps on your VPS through automated security auditing."
 licenses:
   - MIT
 platforms:

@@ -1,0 +1,21 @@
+name: "ClipBucket"
+website_url: "https://clipbucket.oxygenz.fr/en/"
+source_code_url: "https://github.com/MacWarrior/clipbucket-v5"
+description: "ClipBucket is an Open Source and freely downloadable PHP script that will let you start your own Video Sharing website (YouTube/Netflix Clone) in a matter of minutes."
+licenses:
+  - All Rights Reseved
+platforms:
+  - Javascript
+  - PHP
+  - HTML
+  - CSS
+  - Shell
+  - Batchfile
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming
+  - Media Streaming - Video Streaming
+  - Photo and Video Galleries
+  - Content Management Systems (CMS)
+depends_3rdparty: false
+demo_url: "https://demo.clipbucket.oxygenz.fr/"

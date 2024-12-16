@@ -2,7 +2,7 @@ name: Kresus
 website_url: https://kresus.org/
 description: Open source personal finance manager.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker

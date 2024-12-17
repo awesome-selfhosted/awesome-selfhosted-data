@@ -5,8 +5,8 @@ description: "A minimalistic web application designed for sending private and se
 licenses:
   - Apache-2.0
 platforms:
-  - Nodejs
   - Docker
+  - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins

@@ -5,12 +5,6 @@ description: "ClipBucket is an Open Source and freely downloadable PHP script th
 licenses:
   - All Rights Reseved
 platforms:
-  - Javascript
-  - PHP
-  - HTML
-  - CSS
-  - Shell
-  - Batchfile
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming

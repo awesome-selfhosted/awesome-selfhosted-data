@@ -5,7 +5,6 @@ description: "Dashboard for tracking GitHub repos traffic history longer than 14
 licenses:
   - MIT
 platforms:
-  - Rust
   - Docker
 tags:
   - Personal Dashboards

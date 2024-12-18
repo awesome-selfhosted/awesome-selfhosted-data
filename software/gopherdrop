@@ -1,0 +1,30 @@
+name: "GopherDrop"
+
+website_url: "https://github.com/kek-Sec/gopherdrop"
+
+source_code_url: "https://github.com/kek-Sec/gopherdrop"
+
+description: "GopherDrop is a secure, self-hostable tool for sharing encrypted one-time secrets and files."
+
+licenses:
+  - MIT
+
+platforms:
+  - Go
+  - Vue
+  - Docker
+  - Traefik
+  - Nginx
+
+tags:
+  - Pastebins
+  - Encryption
+  - Security
+  - File Sharing
+  - Self-hosted
+
+depends_3rdparty: false
+
+demo_url: "https://gopherdrop.yup.gr/"
+
+related_software_url: ""

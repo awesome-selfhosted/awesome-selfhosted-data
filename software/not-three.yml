@@ -1,0 +1,12 @@
+name: "not-th.re"
+website_url: "https://not-th.re"
+source_code_url: "https://github.com/not-three/main"
+description: "Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor."
+licenses:
+  - NPOSL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Pastebins
+demo_url: "https://not-th.re"

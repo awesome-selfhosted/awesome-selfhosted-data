@@ -1,0 +1,14 @@
+name: "Anki Sync"
+website_url: "https://github.com/z0rrn/docker-anki-sync-server"
+source_code_url: "https://github.com/z0rrn/docker-anki-sync-server"
+description: "Sync your local Anki collections using this dockerized version of the [anki sync server](https://docs.ankiweb.net/sync-server.html)."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Python
+  - Docker
+tags:
+  - Learning and Courses
+  - Knowledge Management Tools
+depends_3rdparty: false

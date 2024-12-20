@@ -1,0 +1,11 @@
+name: Engity's Bifröst
+website_url: https://bifroest.engity.org/
+description: Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/engity-com/bifroest

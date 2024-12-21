@@ -1,0 +1,11 @@
+name: Composio
+website_url: https://composio.dev/
+source_code_url: https://github.com/ComposioHQ/composio
+description: Integration Platform for AI Agents & LLMs with support for 250+ Apps and custom tools.
+licenses:
+  - Unlicense
+platforms:
+  - Python
+tags:
+  - Software Development - API Management
+depends_3rdparty: true

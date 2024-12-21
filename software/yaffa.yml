@@ -1,0 +1,11 @@
+name: YAFFA
+website_url: https://www.yaffa.cc
+source_code_url: https://github.com/kantorge/yaffa
+description: Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Money, Budgeting & Management
+demo_url: "https://sandbox.yaffa.cc"

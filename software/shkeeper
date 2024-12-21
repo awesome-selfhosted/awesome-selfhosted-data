@@ -1,0 +1,11 @@
+name: SHKeeper.io
+website_url: https://shkeeper.io/
+source_code_url: https://github.com/vsys-host/shkeeper.io
+description: A self-hosted and open-source cryptocurrency payment processor. The unique combination of gateway and merchant. It allows you to accept payments in multiple cryptocurrencies without fees and intermediaries.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+tags:
+  - Money, Budgeting & Management
+demo_url: https://demo.shkeeper.io/

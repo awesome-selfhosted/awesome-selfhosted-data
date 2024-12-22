@@ -1,0 +1,10 @@
+name: "ChannelTube"
+website_url: "https://github.com/TheWicklowWolf/ChannelTube"
+source_code_url: "https://github.com/TheWicklowWolf/ChannelTube"
+description: "Download video or audio from YouTube channels on a schedule via yt-dlp."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Automation

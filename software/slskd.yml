@@ -1,0 +1,12 @@
+name: "slskd"
+website_url: "https://github.com/slskd/slskd"
+source_code_url: "https://github.com/slskd/slskd"
+description: "A modern client-server application for the Soulseek file sharing network."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - C#
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+depends_3rdparty: true

@@ -4,16 +4,10 @@ description: "RepoFlow simplifies package management with support for npm, PyPI,
 licenses:
   - Proprietary
 platforms:
-  - Node.js
+  - Nodejs
   - Docker
-  - PostgreSQL
-  - Redis
-  - Elasticsearch
-  - Helm
 tags:
   - Package Management
-  - Continuous Integration & Deployment
-  - DevOps Tools
-  - Private Repositories
+  - Software Development
 depends_3rdparty: false
 related_software_url: "https://docs.repoflow.io"

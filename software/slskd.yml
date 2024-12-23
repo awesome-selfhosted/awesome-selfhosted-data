@@ -1,7 +1,7 @@
-name: "slskd"
-website_url: "https://github.com/slskd/slskd"
-source_code_url: "https://github.com/slskd/slskd"
-description: "A modern client-server application for the Soulseek file sharing network."
+name: slskd
+website_url: https://github.com/slskd/slskd
+source_code_url: https://github.com/slskd/slskd
+description: A modern client-server application for the Soulseek file sharing network.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 depends_3rdparty: true
+stargazers_count: 1151
+updated_at: '2024-12-18'
+archived: false

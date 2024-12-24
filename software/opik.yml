@@ -1,17 +1,3 @@
----
-name: Addition
-about: Add new software to the list.
-title: Add Opik
-labels: addition
-assignees: ''
-
----
-
-Thanks for taking the time to suggest an addition to awesome-selfhosted! 
-
-Please fill out information below (all fields are mandatory unless noted otherwise):
-
-```yaml
 name: "Opik"
 website_url: "https://www.comet.com/site/products/opik/"
 source_code_url: "https://github.com/comet-ml/opik"

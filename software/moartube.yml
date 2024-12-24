@@ -1,0 +1,12 @@
+name: "MoarTube"
+website_url: "https://MoarTube.com"
+source_code_url: "https://github.com/MoarTube"
+description: "An anonymous, decentralized video and live streaming platform with user-managed nodes, CDN support, and anti-bot protection. Your node, your rules."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+demo_url: "https://MoarTube.com"

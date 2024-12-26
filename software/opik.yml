@@ -5,6 +5,7 @@ description: "Evaluate, test, and ship LLM applications with a suite of observab
 licenses:
   - Apache-2.0
 platforms:
+  - Docker
   - Python
 tags:
   - Monitoring

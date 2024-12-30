@@ -1,7 +1,7 @@
 name: "WeddingShare"
 website_url: "https://github.com/Cirx08/WeddingShare"
 source_code_url: "https://github.com/Cirx08/WeddingShare"
-description: "Event photo sharing platform and gallery"
+description: "An event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,4 +9,3 @@ platforms:
   - Docker
 tags:
   - Photo and Video Galleries
-depends_3rdparty: false

@@ -2,10 +2,13 @@ name: BinPastes
 website_url: https://github.com/querwurzel/BinPastes
 source_code_url: https://github.com/querwurzel/BinPastes
 demo_url: https://paste.wylke.it
-description: "Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment."
+description: Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment.
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
   - Pastebins
+stargazers_count: 2
+updated_at: '2024-12-26'
+archived: false

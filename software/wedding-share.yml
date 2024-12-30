@@ -1,0 +1,12 @@
+name: "WeddingShare"
+website_url: "https://github.com/Cirx08/WeddingShare"
+source_code_url: "https://github.com/Cirx08/WeddingShare"
+description: "Event photo sharing platform and gallery"
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - Photo and Video Galleries
+depends_3rdparty: false

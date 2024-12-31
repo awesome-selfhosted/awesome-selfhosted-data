@@ -1,17 +1,3 @@
----
-name: Addition
-about: Add new software to the list.
-title: Add MyFin
-labels: addition, reviewers wanted
-assignees: ''
-
----
-
-Thanks for taking the time to suggest an addition to awesome-selfhosted! 
-
-Please fill out information below (all fields are mandatory unless noted otherwise):
-
-```yaml
 name: "MyFin"
 website_url: "https://github.com/afaneca/myfin"
 source_code_url: "https://github.com/afaneca/myfin"

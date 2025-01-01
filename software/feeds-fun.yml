@@ -6,8 +6,5 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Python
-  - Javascript
-  - Docker
 tags:
   - Feed Readers
-depends_3rdparty: false

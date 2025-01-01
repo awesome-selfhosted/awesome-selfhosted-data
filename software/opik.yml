@@ -8,6 +8,5 @@ platforms:
   - Docker
   - Python
 tags:
-  - Monitoring
-  - Self-hosting Solutions
-  - Software Development
+  - Software Development - API Management
+depends_3rdparty: true

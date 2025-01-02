@@ -1,0 +1,13 @@
+name: "Tirreno"
+website_url: "https://www.tirreno.com"
+source_code_url: "https://github.com/TirrenoTechnologies/tirreno"
+description: "Open-source user security analytics platform."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Analytics
+  - Monitoring
+depends_3rdparty: false
+demo_url: "https://play.tirreno.com"

@@ -1,0 +1,12 @@
+name: "tirreno"
+website_url: "https://www.tirreno.com"
+source_code_url: "https://github.com/TirrenoTechnologies/tirreno"
+description: "An open-source SIEM to monitor and protect your web application from cyber fraud, account takeovers, fake accounts, and abuse."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Analytics
+depends_3rdparty: false
+demo_url: "https://play.tirreno.com"

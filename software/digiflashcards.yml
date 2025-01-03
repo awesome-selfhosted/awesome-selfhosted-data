@@ -1,0 +1,11 @@
+name: Digiflashcards
+website_url: https://ladigitale.dev/digiflashcards/
+description: An online application to create flashcards (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://codeberg.org/ladigitale/digiflashcards

@@ -5,7 +5,6 @@ licenses:
   - Apache-2.0
 platforms:
   - Docker
-  - Nodejs
 tags:
   - Analytics
 source_code_url: https://github.com/gitroomhq/postiz-app

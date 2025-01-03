@@ -7,7 +7,6 @@ licenses:
 platforms:
   - Docker
   - Nodejs
-  - Javascript
 tags:
   - Time Tracking
   - Inventory Management

@@ -1,0 +1,11 @@
+name: "Data Listener"
+website_url: "https://www.gudasoft.com/products/data-listener"
+source_code_url: "https://github.com/gudasoft/data-listener"
+description: "Data Listener is high performance and resilient application, able to receive HTTP notifications from various sources. It is optimised for speed securty and reliability."
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Internet of Things (IoT)
+depends_3rdparty: false

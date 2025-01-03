@@ -1,6 +1,6 @@
 name: Digicut
 website_url: https://ladigitale.dev/digicut/
-description: A simple application to cut audio and video files using FFMPEG.wasm (documentation in French).
+description: Cut audio and video files using FFMPEG.wasm (documentation in French).
 licenses:
   - AGPL-3.0
 platforms:

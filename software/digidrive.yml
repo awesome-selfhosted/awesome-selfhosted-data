@@ -1,0 +1,11 @@
+name: Digidrive
+website_url: https://codeberg.org/ladigitale/digidrive
+description: An online application to create and manage content for La Digitale tools (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://codeberg.org/ladigitale/digidrive

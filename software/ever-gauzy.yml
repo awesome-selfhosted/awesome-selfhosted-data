@@ -1,0 +1,19 @@
+name: "Ever Gauzy"
+website_url: "https://gauzy.co"
+source_code_url: "https://github.com/ever-co/ever-gauzy"
+description: "Open Business Management Platform (ERP/CRM/HRM/ATS/PM)"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+  - Javascript
+tags:
+  - Time Tracking
+  - Inventory Management
+  - Resource Planning
+  - Software Development - Project Management
+  - Task Management & To-do Lists
+  - Ticketing
+  - Calendar & Contacts
+demo_url: "https://demo.gauzy.co"

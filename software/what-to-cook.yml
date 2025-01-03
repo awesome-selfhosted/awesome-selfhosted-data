@@ -1,0 +1,13 @@
+name: What To Cook?
+website_url: https://github.com/kassner/whattocook
+description: Get a recipe to cook today, based on the ingredients you have at home.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Recipe Management
+source_code_url: https://github.com/kassner/whattocook
+stargazers_count: 11
+updated_at: '2024-12-28'
+archived: false

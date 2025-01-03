@@ -1,0 +1,15 @@
+name: Donetick
+website_url: https://donetick.com
+source_code_url: https://github.com/donetick/donetick
+description: Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Task Management & To-do Lists
+demo_url: https://app.donetick.com/
+stargazers_count: 240
+updated_at: '2025-01-02'
+archived: false

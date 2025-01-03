@@ -1,0 +1,15 @@
+name: ezbookkeeping
+website_url: https://ezbookkeeping.mayswind.net/
+source_code_url: https://github.com/mayswind/ezbookkeeping
+description: A lightweight personal bookkeeping app hosted by yourself.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Money, Budgeting & Management
+demo_url: https://ezbookkeeping-demo.mayswind.net/
+stargazers_count: 123
+updated_at: '2025-01-01'
+archived: false

@@ -1,6 +1,6 @@
 name: Traefik
 website_url: https://traefik.io/
-source_code_url: https://github.com/static-web-server/static-web-server
+source_code_url: https://github.com/traefik/traefik
 description: HTTP reverse proxy and load balancer that makes deploying microservices easy.
 licenses:
   - MIT
@@ -9,6 +9,6 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 1493
-updated_at: '2024-10-14'
+stargazers_count: 52067
+updated_at: '2024-12-17'
 archived: false

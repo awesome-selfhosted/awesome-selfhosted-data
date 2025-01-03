@@ -1,0 +1,15 @@
+name: UI Bakery
+website_url: https://uibakery.io
+source_code_url: https://github.com/uibakery/self-hosted
+description: Build internal tools, customer portals, and CRUD apps quickly. Configure scheduled jobs and webhooks. Create structure and manage data through a GUI.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Software Development - Low Code
+demo_url: https://cloud.uibakery.io
+stargazers_count: 163
+updated_at: '2024-05-20'
+archived: false

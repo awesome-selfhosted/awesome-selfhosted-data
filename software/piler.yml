@@ -1,5 +1,6 @@
 name: Piler
 website_url: https://www.mailpiler.org/
+source_code_url: https://github.com/jsuto/piler/
 description: Feature-rich email archiving solution.
 licenses:
   - GPL-3.0
@@ -7,4 +8,6 @@ platforms:
   - C
 tags:
   - Communication - Email - Mail Delivery Agents
-source_code_url: https://bitbucket.org/jsuto/piler
+stargazers_count: 90
+updated_at: '2025-01-01'
+archived: false

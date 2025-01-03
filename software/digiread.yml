@@ -9,3 +9,4 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://codeberg.org/ladigitale/digiread
+depends_3rdparty: true

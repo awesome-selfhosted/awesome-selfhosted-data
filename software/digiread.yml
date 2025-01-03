@@ -1,6 +1,6 @@
 name: Digiread
 website_url: https://ladigitale.dev/digiread/
-description: A simple application to clean up online pages and articles using Mozilla's Readability (documentation in French).
+description: Clean up online pages and articles using Mozilla's Readability (documentation in French).
 licenses:
   - AGPL-3.0
 platforms:

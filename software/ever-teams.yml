@@ -5,8 +5,8 @@ description: "Open work and project management platform."
 licenses:
   - AGPL-3.0
 platforms:
-  - Docker
   - Nodejs
+  - Docker
 tags:  
   - Task Management & To-do Lists
   - Software Development - Project Management

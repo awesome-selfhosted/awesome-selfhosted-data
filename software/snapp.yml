@@ -1,7 +1,7 @@
 name: "Snapp"
 website_url: "https://snapp.li"
 source_code_url: "https://github.com/urania-dev/snapp"
-description: "Modern URL shortener with support for different architecture and DBs"
+description: "Modern URL shortener with support for different architecture and DBs."
 licenses:
   - MIT
 platforms:

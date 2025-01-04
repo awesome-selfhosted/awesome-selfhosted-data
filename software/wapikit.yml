@@ -1,0 +1,16 @@
+name: WapiKit
+website_url: https://wapikit.com/
+description: Performant, self hosted WhatsApp Campaign & Contact List Manager, Live team inbox and no code chat flow configurator with cross-platform integration suite & AI features. Single Binary Executable.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Communication 
+  - WhatsApp 
+  - WhatsApp Business APIs
+source_code_url: https://github.com/wapikit/wapikit
+related_software_url: https://github.com/wapikit/wapi.go
+stargazers_count: 19
+updated_at: '2025-01-04'
+archived: false

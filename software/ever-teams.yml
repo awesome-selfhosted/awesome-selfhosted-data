@@ -1,0 +1,14 @@
+name: "Ever Teams"
+website_url: "https://ever.team"
+source_code_url: "https://github.com/ever-co/ever-teams"
+description: "Open Work and Project Management Platform"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:  
+  - Task Management & To-do Lists
+  - Software Development - Project Management
+  - Time Tracking
+demo_url: "https://demo.ever.team"

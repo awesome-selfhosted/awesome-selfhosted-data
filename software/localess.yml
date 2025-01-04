@@ -1,0 +1,13 @@
+name: "Localess"
+website_url: "https://localess.org/home"
+source_code_url: "https://github.com/Lessify/localess"
+description: "Powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses Artificial Intelligence to translate faster."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Content Management Systems (CMS)
+  - Software Development - Localization
+depends_3rdparty: true
+=demo_url: "https://github.com/Lessify/localess"

@@ -5,6 +5,6 @@ description: "Modern URL shortener with support for different architecture and D
 licenses:
   - MIT
 platforms:
-- Docker 
+  - Docker 
 tags:
   - URL Shorteners

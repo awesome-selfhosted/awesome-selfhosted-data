@@ -42,7 +42,7 @@ steps:
         - '^http://usecod.com/' # Always returns 503 but loads in browser
         - '^https://a.ocv.me/pub/demo/' # Always returns 403 but loads in browser
         - '^https://dockstarter.com/' # Always returns 403 but loads in browser
-        - 'https://dpaste.org/' # Always returns 403 but loads in browser
+        - '^https://dpaste.org/' # Always returns 403 but loads in browser
         - '^https://www.drupal.org/' # Always returns 403 but loads in browser
         - '^https://demo.hedgedoc.org/' # Always returns 403 but loads in browser
         - '^https://instant.io/' # Always returns 403 but loads in browser

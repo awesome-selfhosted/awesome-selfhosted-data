@@ -5,7 +5,6 @@ description: "A Docker-powered stateless API for PDF files."
 licenses:
   - MIT
 platforms:
-  - Go
   - Docker
 tags:
   - Document Management

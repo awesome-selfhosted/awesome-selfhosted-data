@@ -1,15 +1,15 @@
 name: HomeGallery
 website_url: https://home-gallery.org
-description: Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery.
+description: Web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery.
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Photo and Video Galleries
+  - Photo Galleries
 source_code_url: https://github.com/xemle/home-gallery
 demo_url: https://demo.home-gallery.org
-stargazers_count: 862
-updated_at: '2024-12-04'
+stargazers_count: 865
+updated_at: '2025-01-05'
 archived: false

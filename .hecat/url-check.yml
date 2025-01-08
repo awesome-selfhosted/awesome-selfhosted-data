@@ -36,3 +36,16 @@ steps:
         - '^https://alextselegidis.com/get/plainpad/' # shows 200 when curling, loads fine in browser
         - '^http://www.openwebanalytics.com/' # shows 200 when curling, loads fine in browser
         - '^https://moodle.org/' # shows 200 when curling, loads fine in browser
+        - '^https://activitywatch.net' 
+        - '^https://www.bytebase.com/' 
+        - '^https://magicbug.co.uk/cloudlog/' 
+        - '^http://usecod.com/'
+        - '^https://a.ocv.me/pub/demo/'
+        - '^https://dockstarter.com/' 
+        - 'https://dpaste.org/' 
+        - '^https://www.drupal.org/' 
+        - '^https://demo.hedgedoc.org/'
+        - '^https://instant.io/' 
+        - '^https://app.invoiceninja.com/invoices/create' 
+        - '^https://demo.hedgedoc.org/' 
+        - '^https://demo.hedgedoc.org/'  

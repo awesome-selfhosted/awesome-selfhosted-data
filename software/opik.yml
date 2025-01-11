@@ -1,7 +1,7 @@
-name: "Opik"
-website_url: "https://www.comet.com/site/products/opik/"
-source_code_url: "https://github.com/comet-ml/opik"
-description: "Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle."
+name: Opik
+website_url: https://www.comet.com/site/products/opik/
+source_code_url: https://github.com/comet-ml/opik
+description: Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
+stargazers_count: 4135
+updated_at: '2025-01-10'
+archived: false

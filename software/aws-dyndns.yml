@@ -1,0 +1,15 @@
+name: "aws-dyndns"
+website_url: "https://github.com/bst27/aws-dyndns"
+source_code_url: "https://github.com/bst27/aws-dyndns"
+description: "Simple way to use Amazon Web Services (AWS) for dynamic DNS (DynDNS) updates"
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - PHP
+tags:
+  - DNS
+  - Remote Access
+  - Self-hosting Solutions
+  - Automation
+depends_3rdparty: true

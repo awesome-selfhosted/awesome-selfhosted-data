@@ -1,0 +1,14 @@
+name: Postiz
+website_url: https://postiz.com
+description: Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social).
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/gitroomhq/postiz-app
+depends_3rdparty: true
+stargazers_count: 16938
+updated_at: '2025-01-09'
+archived: false

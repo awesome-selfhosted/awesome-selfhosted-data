@@ -1,0 +1,15 @@
+name: Localess
+website_url: https://localess.org/home
+source_code_url: https://github.com/Lessify/localess
+description: Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Content Management Systems (CMS)
+  - Software Development - Localization
+depends_3rdparty: true
+stargazers_count: 45
+updated_at: '2025-01-09'
+archived: false

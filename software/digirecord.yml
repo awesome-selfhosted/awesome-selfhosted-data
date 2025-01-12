@@ -1,0 +1,11 @@
+name: Digirecord
+website_url: https://ladigitale.dev/digirecord/
+description: Record and share audio files (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://codeberg.org/ladigitale/digirecord

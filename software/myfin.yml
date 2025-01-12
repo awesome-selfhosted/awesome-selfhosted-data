@@ -1,0 +1,15 @@
+name: MyFin
+website_url: https://github.com/afaneca/myfin
+source_code_url: https://github.com/afaneca/myfin
+description: Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+demo_url: https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself
+related_software_url: https://github.com/afaneca/myfin-android
+stargazers_count: 41
+updated_at: '2025-01-10'
+archived: false

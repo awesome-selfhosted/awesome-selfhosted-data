@@ -1,0 +1,11 @@
+name: MyServers
+website_url: https://github.com/my-servers
+description: An app for monitoring management servers and self-hosted server applications.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Go
+tags:
+  - Server Monitoring Management Tool
+  - Selfhosted Service Management Assistant
+source_code_url: https://github.com/my-servers

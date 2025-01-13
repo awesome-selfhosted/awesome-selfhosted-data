@@ -1,14 +1,13 @@
 name: SAMA
 website_url: https://samacloud.io
-source_code_url: https://github.com/SAMA-Communications
+source_code_url: https://github.com/SAMA-Communications/sama-server
 description: Next-Gen self-hosted chat server and clients.
 licenses:
   - GPL-3.0
   - Apache-2.0
 platforms:
   - Nodejs
-  - Javascript
 tags:
   - Communication - Custom Communication Systems
 demo_url: "https://app.samacloud.io"
-related_software_url: "https://github.com/SAMA-Communications"
+related_software_url: "https://github.com/SAMA-Communications/sama-client"

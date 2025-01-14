@@ -1,0 +1,14 @@
+name: crypt.fyi
+website_url: https://crypt.fyi
+description: A zero-knowledge, end-to-end encrypted secret sharing platform that enables secure transmission of sensitive information. Features include AES-256-GCM encryption, burn after reading, automatic expiration, password protection, file sharing, webhook notifications, and IP/CIDR allow-listing.
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+  - Pastebins
+source_code_url: https://github.com/osbytes/crypt.fyi
+demo_url: https://crypt.fyi

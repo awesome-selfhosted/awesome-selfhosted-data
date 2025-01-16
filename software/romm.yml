@@ -1,14 +1,15 @@
-name: Romm
-website_url: https://github.com/zurdi15/romm
-description: RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.
+name: RomM
+website_url: https://romm.app/
+description: ROM manager for organizing, enriching, and playing retro games, with support for 400+ platforms.
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
-source_code_url: https://github.com/zurdi15/romm
+source_code_url: https://github.com/rommapp/romm
 depends_3rdparty: true
-stargazers_count: 2809
-updated_at: '2025-01-07'
+demo_url: https://demo.romm.app/
+stargazers_count: 2899
+updated_at: '2025-01-12'
 archived: false

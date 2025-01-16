@@ -1,0 +1,11 @@
+name: "Wakupator"
+website_url: "https://github.com/Gibus21250/Wakupator"
+source_code_url: "https://github.com/Gibus21250/Wakupator"
+description: "Wake On LAN Machine Manager based on network traffic."
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Automation
+depends_3rdparty: false

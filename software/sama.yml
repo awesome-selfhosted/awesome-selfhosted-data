@@ -4,9 +4,9 @@ source_code_url: https://github.com/SAMA-Communications/sama-server
 description: Next-Gen self-hosted chat server and clients.
 licenses:
   - GPL-3.0
-  - Apache-2.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - Custom Communication Systems
 related_software_url: "https://github.com/SAMA-Communications/sama-client"

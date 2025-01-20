@@ -1,7 +1,7 @@
-name: "ClipBucket"
-website_url: "https://clipbucket.fr/"
-source_code_url: "https://github.com/MacWarrior/clipbucket-v5"
-description: "Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes."
+name: ClipBucket
+website_url: https://clipbucket.fr/
+source_code_url: https://github.com/MacWarrior/clipbucket-v5
+description: Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes.
 licenses:
   - AAL
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - PHP
 tags:
   - Media Streaming - Multimedia Streaming
-demo_url: "https://demo.clipbucket.oxygenz.fr/"
+demo_url: https://demo.clipbucket.oxygenz.fr/
+stargazers_count: 84
+updated_at: '2025-01-17'
+archived: false

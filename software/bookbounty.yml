@@ -8,3 +8,4 @@ platforms:
   - Docker
 tags:
   - Automation
+depends_3rdparty: true

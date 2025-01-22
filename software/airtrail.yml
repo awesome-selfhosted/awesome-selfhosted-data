@@ -6,5 +6,6 @@ licenses:
   - GPL-3.0
 platforms:
   - Docker
+  - Nodejs
 tags:
   - Maps and Global Positioning System (GPS)

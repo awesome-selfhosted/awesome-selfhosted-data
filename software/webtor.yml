@@ -5,7 +5,6 @@ description: "Web-based torrent-client with instant audio/video streaming."
 licenses:
   - MIT
 platforms:
-  - Go
   - Docker
 tags:
   - File Transfer - Peer-to-peer Filesharing

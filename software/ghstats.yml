@@ -7,6 +7,5 @@ licenses:
 platforms:
   - Docker
 tags:
-  - Personal Dashboards
   - Analytics
 depends_3rdparty: true

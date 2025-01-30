@@ -1,0 +1,13 @@
+name: "Perfect Circle Game"
+demo_url: "https://circle.shawon.me"
+website_url: "https://github.com/sharf-shawon/perfect-circle-game"
+source_code_url: "https://github.com/sharf-shawon/perfect-circle-game"
+description: "Ever wondered how steady your hand is? Welcome to Perfect Circle Game - a simple yet addictive game that challenges you to draw the most perfect circle possible."
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+  - Docker
+tags:
+  - Games
+depends_3rdparty: false

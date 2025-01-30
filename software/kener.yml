@@ -1,0 +1,12 @@
+name: "kener"
+website_url: "https://kener.ing/"
+source_code_url: "https://github.com/rajnandan1/kener"
+description: "Self-hosted status page with incident management, built with SvelteKit and Node.js."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Status / Uptime pages
+demo_url: "https://kener.ing/"

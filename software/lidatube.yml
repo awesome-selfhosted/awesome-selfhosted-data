@@ -8,6 +8,7 @@ platforms:
   - Docker
 tags:
   - Automation
+depends_3rdparty: true
 stargazers_count: 172
 updated_at: '2025-01-26'
 archived: false

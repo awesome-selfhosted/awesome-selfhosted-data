@@ -1,7 +1,7 @@
-name: "4ga Boards"
-website_url: "https://4gaboards.com"
-source_code_url: "https://github.com/RARgames/4gaBoards"
-description: "Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity."
+name: 4ga Boards
+website_url: https://4gaboards.com
+source_code_url: https://github.com/RARgames/4gaBoards
+description: Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.
 licenses:
   - MIT
 platforms:
@@ -11,4 +11,7 @@ platforms:
 tags:
   - Task Management & To-do Lists
   - Software Development - Project Management
-demo_url: "https://demo.4gaboards.com"
+demo_url: https://demo.4gaboards.com
+stargazers_count: 66
+updated_at: '2025-01-28'
+archived: false

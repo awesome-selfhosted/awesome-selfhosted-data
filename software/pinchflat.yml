@@ -1,18 +1,3 @@
----
-name: Addition
-about: Add new software to the list.
-title: Add Pinchflat
-labels: addition, reviewers wanted
-assignees: ''
-
----
-
-  Thanks for taking the time to suggest an addition to awesome-selfhosted!
-
-Please fill out information below (all fields are mandatory unless noted otherwise):
-
-  ```yaml
-# software name
 name: "Pinchflat"
 # URL of the software project's homepage
 website_url: "https://github.com/kieraneglin/pinchflat"

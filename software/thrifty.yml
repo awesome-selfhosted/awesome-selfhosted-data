@@ -1,0 +1,13 @@
+name: Thrifty
+website_url: https://github.com/tiehfood/thrifty
+source_code_url: https://github.com/tiehfood/thrifty
+description: A simple monthly income and expenses tracker.
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Nodejs
+  - Go
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false

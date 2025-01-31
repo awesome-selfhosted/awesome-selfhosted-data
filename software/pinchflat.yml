@@ -15,7 +15,4 @@ platforms:
 tags:
   - Archival
   - Archiving and Digital Preservation (DP)
-# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
-depends_3rdparty: false
-# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
 related_software_url: "https://github.com/yt-dlp/yt-dlp"

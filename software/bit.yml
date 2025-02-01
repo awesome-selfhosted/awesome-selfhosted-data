@@ -1,0 +1,12 @@
+name: bit
+website_url: https://hub.docker.com/r/sjdonado/bit
+source_code_url: https://github.com/sjdonado/bit
+description: Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Crystal
+tags:
+  - URL Shorteners
+depends_3rdparty: false

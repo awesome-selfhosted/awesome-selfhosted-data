@@ -1,0 +1,12 @@
+name: "ASP.NET Core Inventory Order Management System"
+website_url: "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System"
+source_code_url: "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System"
+description: "A powerful and ready-to-use inventory management system, based on ASP.NET Core built with Monolithic Clean Architecture, CQRS, and MediatR. It features a completely RESTful API for seamless integration and a modern front-end powered by Vue.js."
+licenses:
+  - CC BY 4.0
+platforms:
+  - .NET
+  - C#
+tags:
+  - Inventory Management
+demo_url: "https://whms-lte-fs.csharpasp.net/"

@@ -8,5 +8,6 @@ platforms:
   - Docker
   - Go
   - deb
+  - k8s
 tags:
   - Software Development - Testing

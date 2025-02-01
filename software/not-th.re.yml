@@ -3,7 +3,7 @@ website_url: https://not-th.re
 source_code_url: https://github.com/not-three/main
 description: Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor.
 licenses:
-  - NPOSL-3.0
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker
@@ -11,5 +11,5 @@ tags:
   - Pastebins
 demo_url: https://not-th.re
 stargazers_count: 4
-updated_at: '2024-11-11'
+updated_at: '2025-02-01'
 archived: false

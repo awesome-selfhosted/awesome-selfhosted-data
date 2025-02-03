@@ -1,0 +1,14 @@
+name: TriliumNext Notes
+website_url: https://triliumnext.github.io/Docs/
+description: TriliumNext Notes is an open-source, cross-platform hierarchical note taking application with focus on building large personal knowledge bases.
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/TriliumNext/Notes
+stargazers_count: 1483
+updated_at: '2025-02-03'
+archived: false

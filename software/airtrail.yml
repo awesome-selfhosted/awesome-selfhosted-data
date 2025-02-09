@@ -1,7 +1,7 @@
-name: "AirTrail"
-website_url: "https://airtrail.johan.ohly.dk"
-source_code_url: "https://github.com/johanohly/AirTrail"
-description: "A personal flight tracking system."
+name: AirTrail
+website_url: https://airtrail.johan.ohly.dk
+source_code_url: https://github.com/johanohly/AirTrail
+description: A personal flight tracking system.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Nodejs
 tags:
   - Maps and Global Positioning System (GPS)
+stargazers_count: 390
+updated_at: '2025-02-06'
+archived: false

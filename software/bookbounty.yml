@@ -1,7 +1,7 @@
-name: "BookBounty"
-website_url: "https://github.com/TheWicklowWolf/BookBounty"
-source_code_url: "https://github.com/TheWicklowWolf/BookBounty"
-description: "Retrieve missing Readarr books from Library Genesis."
+name: BookBounty
+website_url: https://github.com/TheWicklowWolf/BookBounty
+source_code_url: https://github.com/TheWicklowWolf/BookBounty
+description: Retrieve missing Readarr books from Library Genesis.
 licenses:
   - MPL-2.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
 tags:
   - Automation
 depends_3rdparty: true
+stargazers_count: 156
+updated_at: '2024-11-13'
+archived: false

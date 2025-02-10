@@ -1,0 +1,17 @@
+name: "SaveHere"
+website_url: "https://github.com/gudarzi/SaveHere"
+source_code_url: "https://github.com/gudarzi/SaveHere"
+description: "Cloud Download Manager for direct links and media files from Youtube/Spotify/etc with media converter and builtin proxy to bypass restrictions."
+licenses:
+  - Apache-2.0
+platforms:
+  - .net
+  - c#
+  - docker
+  - blazor
+tags:
+  - Download Manager
+  - Youtube Downloader
+  - File Converter
+  - File Transfer - Web-based File Managers
+depends_3rdparty: true

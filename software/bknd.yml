@@ -1,0 +1,15 @@
+name: "bknd"
+website_url: "https://bknd.io"
+source_code_url: "https://github.com/bknd-io/bknd"
+description: "Lightweight Firebase alternative built to run anywhere."
+licenses:
+  - FSL-1.1-MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Low Code
+  - Content Management Systems (CMS)
+  - Database Management
+depends_3rdparty: false
+demo_url: "https://bknd.link/demo"

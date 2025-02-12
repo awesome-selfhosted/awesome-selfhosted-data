@@ -1,0 +1,17 @@
+name: "BYCEPS"
+website_url: "https://byceps.nwsnet.de/"
+source_code_url: "https://github.com/byceps/byceps"
+description: "Advanced multi-brand, multi-site web platform to organize LAN parties with. CMS, news, shop, ticket management, seating plans, user accounts, forums, various integrations, etc."
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Python
+tags:
+  - Booking and Scheduling
+  - Communication - Social Networks and Forums
+  - Content Management Systems (CMS)
+  - E-commerce
+  - Groupware
+  - Photo Galleries
+  - Polls and Events
+related_software_url: "https://github.com/byceps/extensions"

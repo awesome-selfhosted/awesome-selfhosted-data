@@ -1,7 +1,7 @@
-name: "WebHook Tester"
-source_code_url: "https://github.com/tarampampam/webhook-tester"
-website_url: "https://github.com/tarampampam/webhook-tester"
-description: "Powerful tool for testing WebHooks and more."
+name: WebHook Tester
+source_code_url: https://github.com/tarampampam/webhook-tester
+website_url: https://github.com/tarampampam/webhook-tester
+description: Powerful tool for testing WebHooks and more.
 licenses:
   - MIT
 platforms:
@@ -11,3 +11,6 @@ platforms:
   - K8S
 tags:
   - Software Development - Testing
+stargazers_count: 207
+updated_at: '2025-02-12'
+archived: false

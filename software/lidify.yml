@@ -1,0 +1,14 @@
+name: Lidify
+website_url: https://github.com/TheWicklowWolf/Lidify
+source_code_url: https://github.com/TheWicklowWolf/Lidify
+description: Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Automation
+depends_3rdparty: true
+stargazers_count: 230
+updated_at: '2025-02-14'
+archived: false

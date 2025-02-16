@@ -5,6 +5,7 @@ description: "Syncs your clipboard across multiple devices instantly, without an
 licenses:
   - GPL-3.0
 platforms:
+  - Java
   - Docker
 tags:
   - Miscellaneous

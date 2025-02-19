@@ -1,0 +1,18 @@
+name: Apache APISIX
+website_url: http://apisix.apache.org/
+description: The Most Popular Open Source Cloud-Native API Gateway
+licenses:
+  - Apache-2.0
+platforms:
+  - Lua
+  - Docker
+  - K8S
+  - deb
+  - Helm Chart
+tags:
+  - Software Development - API Management
+  - Network Infrastructure
+source_code_url: https://github.com/apache/apisix
+stargazers_count: 14789
+updated_at: '2025-02-17'
+archived: false

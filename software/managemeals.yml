@@ -5,7 +5,6 @@ description: "Manage recipes, import recipes by URL and organize them without an
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Recipe Management

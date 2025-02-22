@@ -1,7 +1,7 @@
 name: "go-proxy"
 source_code_url: "https://github.com/yusing/go-proxy/tree/feat/godoxy-agent"
 website_url: "https://github.com/yusing/go-proxy/tree/feat/godoxy-agent"
-description: "A Easy to use reverse proxy with docker integration. Also features idlesleeper, shutting down idle containers and starting them when traffic arrives."
+description: "An easy to use reverse proxy with docker integration. Also features idlesleeper, shutting down idle containers and starting them when traffic arrives."
 licenses:
   - MIT
 platforms:

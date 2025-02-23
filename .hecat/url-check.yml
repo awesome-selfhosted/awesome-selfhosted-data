@@ -45,7 +45,6 @@ steps:
         - '^https://dpaste.org/' # Always returns 403 but loads in browser
         - '^https://www.drupal.org/' # Always returns 403 but loads in browser
         - '^https://demo.hedgedoc.org/' # Always returns 403 but loads in browser
-        - '^https://instant.io/' # Always returns 403 but loads in browser
         - '^https://www.redcort.com/timeclock' # Always returns 403 but loads in browser
         - '^https://www.redcort.com/timeclock/free-timeclock-software-trial' # Always returns 403 but loads in browser
         - '^https://oxidforge.org/en/' # Always returns 403 but loads in browser
@@ -56,7 +55,6 @@ steps:
         - '^https://static-web-server.net/' # Always returns 403 but loads in browser
         - '^https://www.supportpal.com/' # Always returns 403 but loads in browser
         - '^https://www.octobot.cloud/' # Always returns 403 but loads in browser
-        - '^https://instant.io' # Always returns 403 but loads in browser
         - '^https://kiwiirc.com/' # Timesouts in actions but loads in browser
         - '^https://kiwiirc.com/nextclient/' # Timesouts in actions but loads in browser
         - '^https://www.qbittorrent.org/' # Always returns 403 but loads in browser

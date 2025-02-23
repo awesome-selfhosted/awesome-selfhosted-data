@@ -5,6 +5,7 @@ description: "An easy to use reverse proxy with docker integration. Also feature
 licenses:
   - MIT
 platforms:
+  - Docker
   - Go
 tags:
   - Web Servers

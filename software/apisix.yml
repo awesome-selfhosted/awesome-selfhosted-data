@@ -8,7 +8,6 @@ platforms:
   - Docker
   - K8S
   - deb
-  - Helm Chart
 tags:
   - Software Development - API Management
   - Network Infrastructure

@@ -1,0 +1,12 @@
+name: "2FA Web"
+website_url: "https://github.com/AngryJKirk/2fa_web"
+source_code_url: "https://github.com/AngryJKirk/2fa_web"
+description: "Web-based TOTP authenticator. Intentionally primitive and very secure."
+licenses:
+  - MIT License
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://storozhenko.dev/no_auth/2fa_demo/"

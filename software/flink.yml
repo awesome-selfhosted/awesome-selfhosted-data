@@ -1,7 +1,7 @@
 name: "Flink"
 website_url: "https://gitlab.com/rtraceio/web/flink"
 source_code_url: "https://gitlab.com/rtraceio/web/flink"
-description: "Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata"
+description: "Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata."
 licenses:
   - MIT
 platforms:

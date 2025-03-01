@@ -10,5 +10,4 @@ platforms:
   - K8S
 tags:
   - URL Shorteners
-depends_3rdparty: false
 demo_url: "https://flink.is"

@@ -5,9 +5,7 @@ description: "Create QR Codes, embeddable link previews for your website and cra
 licenses:
   - MIT
 platforms:
-  - C#
   - Docker
-  - K8S
 tags:
   - URL Shorteners
 demo_url: "https://flink.is"

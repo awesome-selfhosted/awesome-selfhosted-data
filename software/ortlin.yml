@@ -1,0 +1,14 @@
+name: "Ortlin"
+website_url: "https://ortlin.openuseai.com"
+source_code_url: "https://github.com/ortlin/ortlin"
+description: "OpenAI User Interface"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Miscellaneous
+depends_3rdparty: true
+demo_url: "https://ortlin.openuseai.com"

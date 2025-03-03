@@ -1,0 +1,12 @@
+name: "pacebin"
+website_url: "https://paste.swurl.xyz"
+source_code_url: "https://git.swurl.xyz/swirl/pacebin.git"
+description: "A super-minimal pastebin written in pure C, focusing on small executable size, portability, and ease of configuration."
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://paste.swurl.xyz"

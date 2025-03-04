@@ -1,7 +1,7 @@
-name: "Self Host Blocks"
-website_url: "https://github.com/ibizaman/selfhostblocks"
-source_code_url: "https://github.com/ibizaman/selfhostblocks"
-description: "Modular server management based on NixOS modules and focused on best practices."
+name: Self Host Blocks
+website_url: https://github.com/ibizaman/selfhostblocks
+source_code_url: https://github.com/ibizaman/selfhostblocks
+description: Modular server management based on NixOS modules and focused on best practices.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
 tags:
   - Self-hosting Solutions
 depends_3rdparty: true
+stargazers_count: 243
+updated_at: '2025-02-11'
+archived: false

@@ -1,0 +1,11 @@
+name: "ClipCascade"
+website_url: "https://github.com/Sathvik-Rao/ClipCascade"
+source_code_url: "https://github.com/Sathvik-Rao/ClipCascade"
+description: "Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption."
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Miscellaneous

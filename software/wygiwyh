@@ -7,7 +7,6 @@ licenses:
 platforms:
   - Docker
   - Django
-  - Python
 tags:
   - Money, Budgeting & Management
 depends_3rdparty: false

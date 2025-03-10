@@ -1,0 +1,15 @@
+name: "AliasVault"
+website_url: "https://www.aliasvault.net"
+source_code_url: "https://gitlab.com/lanedirt/AliasVault"
+description: "A fully self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server."
+licenses:
+  - MIT
+platforms:
+  - C#
+  - .NET
+  - Javascript
+  - Docker
+tags:
+  - Password Managers
+depends_3rdparty: false
+demo_url: "https://app.aliasvault.net"

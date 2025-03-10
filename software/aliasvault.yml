@@ -5,9 +5,6 @@ description: "End-to-end encrypted password manager with a built-in alias genera
 licenses:
   - MIT
 platforms:
-  - C#
-  - .NET
-  - Javascript
   - Docker
 tags:
   - Password Managers

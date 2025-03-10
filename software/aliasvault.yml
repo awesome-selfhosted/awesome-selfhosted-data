@@ -11,5 +11,4 @@ platforms:
   - Docker
 tags:
   - Password Managers
-depends_3rdparty: false
 demo_url: "https://app.aliasvault.net"

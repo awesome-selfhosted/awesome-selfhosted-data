@@ -64,3 +64,4 @@ steps:
         - '^https://gauzy.co/' # Always returns 500 but loads in browser
         - '^https://demo.gauzy.co/' # Always returns 403 but loads in browser
         - '^https://traq.io/' # hecat/python-requests bug? always returns 404 but the website works in a browser
+        - '^https://kodi.tv/' # Always returns 403 but loads in browser

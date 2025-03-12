@@ -1,0 +1,14 @@
+name: "BrandCraft.Art"
+website_url: "https://brandcraft.art/"
+source_code_url: "https://github.com/sevleo/BrandCraft"
+description: "A minimalist, open-source social media scheduler designed for speed and simplicity. Fast, clean, and efficient. Create, schedule, and grow your brand effortlessly."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Automation
+  - Self-hosting Solutions
+depends_3rdparty: true

@@ -1,7 +1,7 @@
 name: "AliasVault"
 website_url: "https://www.aliasvault.net"
 source_code_url: "https://github.com/lanedirt/AliasVault"
-description: "End-to-end encrypted password manager with a built-in alias generator and email server."
+description: "End-to-end encrypted password manager with a built-in email alias generator and server."
 licenses:
   - MIT
 platforms:

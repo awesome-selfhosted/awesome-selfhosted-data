@@ -5,13 +5,7 @@ description: "Thrive is a tool for life planning. It provides goals management, 
 licenses:
   - MIT
 platforms:
-  - Java
-  - Python
-  - Nodejs
-  - JavaScript
   - Docker
-  - Objective-C
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Knowledge Management Tools
   - Task Management & To-do Lists

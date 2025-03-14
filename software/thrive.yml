@@ -1,0 +1,19 @@
+name: "Thrive"
+website_url: "https://get-thriving.com"
+source_code_url: "https://github.com/horia141/jupiter"
+description: "Thrive is a tool for life planning. It provides goals management, task tracking, work planning, habit building, a journal, chores management, lists, metrics, a personal relationship manager, and much more all in a unified package."
+licenses:
+  - MIT
+platforms:
+  - Java
+  - Python
+  - Nodejs
+  - JavaScript
+  - Docker
+  - Objective-C
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Knowledge Management Tools
+  - Task Management & To-do Lists
+  - Booking and Scheduling
+depends_3rdparty: false

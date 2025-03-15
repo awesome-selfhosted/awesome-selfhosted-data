@@ -68,5 +68,4 @@ steps:
         - '^https://www.domoticz.com/' # Always returns 403 but loads in browser
         - '^https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo' # site takes a while to load,  times out with the default 10s timeout
         - '^https://www.gnu.org/software/mailman/' # # site takes a while to load,  times out with the default 10s timeout
-        - '^https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree' # Always returns 403 but loads in browser
         - '^https://goteleport.com/' # Always returns 403 but loads in browser

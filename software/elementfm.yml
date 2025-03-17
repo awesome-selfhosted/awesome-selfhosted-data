@@ -4,7 +4,7 @@ description: Podcast hosting platform with AI features, V4V support, and easy do
 licenses:
   - GPL-3.0
 platforms:
-  - Node.js
+  - Nodejs
   - Python
   - Docker
 tags:

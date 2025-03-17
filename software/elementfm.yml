@@ -1,0 +1,12 @@
+name: Element.fm
+website_url: https://element.fm
+description: Podcast hosting platform with AI features, V4V support, and easy docker deployment
+licenses:
+  - GPL-3.0
+platforms:
+  - Node.js
+  - Python
+  - Docker
+tags:
+  - Blogging Platforms
+source_code_url: https://gitlab.com/elementfm/docs/

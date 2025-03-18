@@ -1,0 +1,30 @@
+---
+name: Addition
+about: Add new software to the list.
+title: Add 42links
+labels: addition, reviewers wanted
+assignees: ''
+
+---
+
+```yaml
+name: "42links"
+website_url: "https://code.rosaelefanten.org/42links"
+source_code_url: "https://code.rosaelefanten.org/42links"
+description: "42links is an open-source, web-based bookmarking server. It supports multiple accounts."
+licenses:
+  - BSD-3-Clause-No-Military-License
+platforms:
+  - CommonLisp
+tags:
+  - Bookmarks and Link Sharing
+depends_3rdparty: false
+```
+
+To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
+- [x] Submit one item per issue. This eases reviewing and speeds up inclusion.
+- [x] You have searched the repository for any relevant [issues](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues) or [PRs](https://github.com/awesome-selfhosted/awesome-selfhosted-data/pulls), including closed ones.
+- [x] Any software you are adding is not already listed at any of [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.net](https://staticsitegenerators.net/), [dbdb.io](https://dbdb.io/browse).
+- [x] Any software project you are adding to the list is actively maintained.
+- [ ] Any software project you are adding was first released more than 4 months ago.
+- [x] Any software project you are adding has working installation instructions.

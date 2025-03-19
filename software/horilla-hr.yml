@@ -1,0 +1,16 @@
+name: "Horilla"
+website_url: "https://horilla.com"
+source_code_url: "https://gitlab.com/horilla-opensource/horilla"
+description: "Horilla is a Free and Open Source HRMS (Human Resource Management System) Software designed to streamline HR processes and enhance organizational efficiency."
+licenses:
+  - LGPL-2.1 license
+platforms:
+  - Python
+  - Deb
+  - Docker
+tags:
+  - Human Resources Management (HRM)
+demo_url: "https://demo.horilla.com"
+stargazers_count: 352
+updated_at: '2025-03-19'
+archived: false

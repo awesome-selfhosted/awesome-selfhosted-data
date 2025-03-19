@@ -3,7 +3,7 @@ website_url: "https://www.horilla.com"
 source_code_url: "https://github.com/horilla-opensource/horilla"
 description: "Streamline HR processes and enhance organizational efficiency from hiring to off boarding, all in one platform. "
 licenses:
-  - LGPL-2.1 license
+  - LGPL-2.1
 platforms:
   - Python
   - Docker

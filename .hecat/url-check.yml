@@ -39,7 +39,6 @@ steps:
         - '^https://activitywatch.net' # Always returns 403 but loads in browser
         - '^https://www.bytebase.com/' # Always returns 403 but loads in browser
         - '^https://magicbug.co.uk/cloudlog/' # Always returns 403 but loads in browser
-        - '^http://usecod.com/' # Always returns 503 but loads in browser
         - '^https://a.ocv.me/pub/demo/' # Always returns 403 but loads in browser
         - '^https://dockstarter.com/' # Always returns 403 but loads in browser
         - '^https://dpaste.org/' # Always returns 403 but loads in browser

@@ -1,0 +1,14 @@
+name: "MFE - Multi File Upload Editor"
+website_url: "https://github.com/error311/multi-file-upload-editor"
+source_code_url: "https://github.com/error311/multi-file-upload-editor"
+description: "A web-based multi file upload editor that provides an intuitive interface for uploading and editing multiple files."
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+  - PHP
+tags:
+  - file-transfer---web-based-file-managers
+  - file-transfer---single-click--drag-n-drop-upload
+  - file-transfer---peer-to-peer-filesharing
+depends_3rdparty: false

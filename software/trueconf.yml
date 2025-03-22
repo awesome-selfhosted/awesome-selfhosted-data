@@ -1,0 +1,12 @@
+name: "TrueConf"
+website_url: "https://trueconf.com/products/server/video-conferencing-server.html"
+source_code_url: "https://trueconf.com/products/server/video-conferencing-server.html"
+description: "Platform for your corporate communications, based on the advanced architecture, with support for UltraHD video conferencing, built-in messenger with personal and group chats, and a free version for up to 1,000 users."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+  - deb
+tags:
+  - Communication - Video Conferencing 
+  - Communication - Custom Communication Systems

@@ -1,0 +1,11 @@
+name: "Speedtest Tracker"
+website_url: "https://docs.speedtest-tracker.dev/"
+source_code_url: "https://github.com/alexjustesen/speedtest-tracker"
+description: "Monitor the performance and uptime of your internet connection."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Miscellaneous

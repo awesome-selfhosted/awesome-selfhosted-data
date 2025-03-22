@@ -1,0 +1,14 @@
+name: Apache APISIX
+website_url: http://apisix.apache.org/
+description: A dynamic, real-time, high-performance API Gateway.
+licenses:
+  - Apache-2.0
+platforms:
+  - Lua
+  - Docker
+  - K8S
+  - deb
+tags:
+  - Software Development - API Management
+  - Network Infrastructure
+source_code_url: https://github.com/apache/apisix

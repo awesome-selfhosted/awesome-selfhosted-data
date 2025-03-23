@@ -1,0 +1,14 @@
+name: Vanilla Cookbook
+website_url: https://vanilla-cookbook.readthedocs.io/en/
+description: Vanilla Cookbook is a self hosted recipe manager built with Svelte(kit). It is designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Recipe Manager
+source_code_url: https://github.com/jt196/vanilla-cookbook
+stargazers_count: 20
+updated_at: "2025-03-23"
+archived: false

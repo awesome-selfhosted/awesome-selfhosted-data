@@ -1,0 +1,18 @@
+name: "Gramax"
+website_url: "https://gram.ax"
+source_code_url: "https://github.com/Gram-ax/gramax"
+description: "Create, edit, and publish Git-driven documentation sites using Markdown and a visual editor."
+licenses:
+  - GPL-3.0
+platforms:
+  - Javascript
+  - Rust
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Wikis
+  - Static Site Generators
+  - Knowledge Management Tools
+  - Note-taking & Editors
+depends_3rdparty: false
+demo_url: "https://app.gram.ax"

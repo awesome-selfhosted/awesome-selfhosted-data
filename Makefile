@@ -10,7 +10,7 @@ install:
 	pip3 install wheel && \
 	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.3.1
 
-.PHONY: import # import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
+.PHONY: import # import data from the original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
 	git clone --depth=1 https://github.com/awesome-selfhosted/awesome-selfhosted
 	cp awesome-selfhosted/AUTHORS AUTHORS

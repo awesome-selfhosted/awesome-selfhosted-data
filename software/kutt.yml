@@ -5,7 +5,7 @@ description: "A modern URL shortener with support for custom domains and custom 
 licenses:
   - MIT
 platforms:
-  - Node.js
+  - Nodejs
   - Docker
 tags:
   - URL Shorteners

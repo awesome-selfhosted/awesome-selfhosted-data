@@ -1,0 +1,13 @@
+name: "TransMail-Station"
+website_url: "https://qqays.xyz/archives/Managed-Mail-Services-TransMail-Station.html/"
+source_code_url: "https://github.com/qqAys/TransMail-Station"
+description: "An HTTP-based email management service that decouples email-sending functionality from business logic. Supports multi-recipient, scheduled, and RESTful API-driven email sending with Docker Compose deployment."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Email - Mail Transfer Agents
+depends_3rdparty: false
+related_software_url: "https://hub.docker.com/r/qqays/transmail-station"

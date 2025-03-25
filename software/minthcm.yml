@@ -1,0 +1,13 @@
+name: MintHCM
+website_url: https://minthcm.org/
+source_code_url: https://github.com/minthcm/minthcm
+description: Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Human Resources Management (HRM)
+stargazers_count: 165
+updated_at: '2025-03-13'
+archived: false

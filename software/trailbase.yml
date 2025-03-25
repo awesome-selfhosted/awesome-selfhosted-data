@@ -1,0 +1,15 @@
+name: TrailBase
+website_url: https://trailbase.io/
+description: Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI.
+licenses:
+  - OSL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/trailbaseio/trailbase
+demo_url: https://demo.trailbase.io
+stargazers_count: 1767
+updated_at: '2025-03-24'
+archived: false

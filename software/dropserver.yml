@@ -1,0 +1,14 @@
+name: Dropserver
+website_url: https://dropserver.org
+source_code_url: https://github.com/teleclimber/Dropserver/
+description: An application platform for your personal web services.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Deno
+tags:
+  - Self-hosting Solutions
+stargazers_count: 60
+updated_at: '2024-12-10'
+archived: false

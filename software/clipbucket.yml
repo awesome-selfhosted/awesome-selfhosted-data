@@ -1,0 +1,15 @@
+name: ClipBucket
+website_url: https://clipbucket.fr/
+source_code_url: https://github.com/MacWarrior/clipbucket-v5
+description: Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes.
+licenses:
+  - AAL
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Media Streaming - Multimedia Streaming
+demo_url: https://demo.clipbucket.oxygenz.fr/
+stargazers_count: 107
+updated_at: '2025-03-21'
+archived: false

@@ -2,14 +2,15 @@ name: Manticore Search
 website_url: https://github.com/manticoresoftware/manticoresearch/
 description: Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch).
 licenses:
-  - GPL-2.0
+  - GPL-3.0
 platforms:
   - Docker
   - deb
   - C++
+  - K8S
 tags:
   - Search Engines
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
-stargazers_count: 9200
-updated_at: '2025-01-11'
+stargazers_count: 9846
+updated_at: '2025-03-24'
 archived: false

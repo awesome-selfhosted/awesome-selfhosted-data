@@ -1,0 +1,16 @@
+name: SAMA
+website_url: https://samacloud.io
+source_code_url: https://github.com/SAMA-Communications/sama-server
+description: Next-Gen self-hosted chat server and clients.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://app.samacloud.io/demo
+related_software_url: https://github.com/SAMA-Communications/sama-client
+stargazers_count: 116
+updated_at: '2025-03-04'
+archived: false

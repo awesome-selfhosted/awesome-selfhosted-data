@@ -1,0 +1,15 @@
+name: Liwan
+website_url: https://liwan.dev/
+description: Easy & privacy-first web analytics.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/explodingcamera/liwan
+demo_url: https://demo.liwan.dev/p/liwan.dev
+stargazers_count: 20
+updated_at: '2025-03-14'
+archived: false

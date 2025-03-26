@@ -5,7 +5,6 @@ description: "Web application that manages your food recipes with simplicity."
 licenses:
   - BSD-3-Clause
 platforms:
-  - Python
   - Docker
 tags:
   - Recipe Management

@@ -1,0 +1,12 @@
+name: g3proxy
+website_url: "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/"
+source_code_url: "https://github.com/bytedance/g3/tree/master/g3proxy"
+description: "Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Deb
+  - Docker
+tags:
+  - Proxy

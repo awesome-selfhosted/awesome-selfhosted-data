@@ -6,7 +6,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Rust
-  - Deb
+  - deb
   - Docker
 tags:
   - Proxy

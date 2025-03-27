@@ -5,7 +5,7 @@ description: "A collaborative note taking, wiki and documentation platform that 
 licenses:
   - MIT
 platforms:
-  - Docker
+  - K8S
 tags:
   - Note-taking & Editors
   - Knowledge Management Tools

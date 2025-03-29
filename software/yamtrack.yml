@@ -1,0 +1,13 @@
+name: "Yamtrack"
+website_url: "https://github.com/FuzzyGrim/Yamtrack"
+source_code_url: "https://github.com/FuzzyGrim/Yamtrack"
+description: "Media tracker for movies, tv shows, anime, manga, video games and books."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Miscellaneous
+depends_3rdparty: true
+demo_url: "https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo"

@@ -1,0 +1,11 @@
+name: "Pinchflat"
+website_url: "https://github.com/kieraneglin/pinchflat"
+source_code_url: "https://github.com/kieraneglin/pinchflat"
+description: "An app for downloading YouTube content built using yt-dlp."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Automation
+depends_3rdparty: true

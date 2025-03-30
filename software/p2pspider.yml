@@ -1,0 +1,12 @@
+name: "p2pspider"
+website_url: "https://github.com/thejordanprice/p2pspider"
+source_code_url: "https://github.com/thejordanprice/p2pspider"
+description: "BitTorrent DHT crawler with real-time web UI. Indexes magnet links from DHT swarm into MongoDB/SQLite. Features responsive search, WebSocket updates, and torrent details."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Search Engines
+depends_3rdparty: false

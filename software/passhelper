@@ -1,7 +1,7 @@
 name: "Passhelper"
 website_url: "https://github.com/francis-a/passhelper"
 source_code_url: "https://github.com/francis-a/passhelper"
-description: "A self-hosted application for tracking passport expiration dates built using Kotlin, GraalVM and deployed as a custom AWS Lambda runtime."
+description: "Track passport expiration dates built using Kotlin, GraalVM and deployed as a custom AWS Lambda runtime."
 licenses:
   - AGPL-3.0
 platforms:

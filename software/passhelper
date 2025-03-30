@@ -8,7 +8,5 @@ platforms:
   - Java
   - Docker
 tags:
-  - Task Management & To-do Lists
-  - Calendar & Contacts
-  - Groupware
+- Miscellaneous 
 depends_3rdparty: true

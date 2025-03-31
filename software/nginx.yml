@@ -1,6 +1,6 @@
-name: "Nginx"
+name: "NGINX"
 website_url: "https://nginx.org/en/"
-source_code_url: "https://hg.nginx.org/nginx/file/tip"
+source_code_url: "https://github.com/nginx/nginx"
 description: "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server."
 licenses:
   - BSD-2-Clause

@@ -1,0 +1,12 @@
+name: "Forward Email"
+website_url: "https://forwardemail.net"
+source_code_url: "https://github.com/forwardemail/forwardemail.net"
+description: "Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid."
+licenses:
+  - BUSL-1.1
+  - MPL-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions

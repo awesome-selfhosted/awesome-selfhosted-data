@@ -1,0 +1,15 @@
+name: "Plant-it"
+website_url: "https://plant-it.org/"
+source_code_url: "https://github.com/MDeLuise/plant-it"
+description: "Plant-it is a self-hosted gardening companion app. Useful for keeping track of plant care, receiving notifications about when to water plants, uploading plant images, and more."
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+  - Dart
+  - C++
+  - HTML
+  - Docker
+tags:
+  - Miscellaneous
+depends_3rdparty: false

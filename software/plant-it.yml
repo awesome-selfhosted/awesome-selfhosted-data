@@ -5,10 +5,6 @@ description: "Plant-it is a self-hosted gardening companion app. Useful for keep
 licenses:
   - GPL-3.0
 platforms:
-  - Java
-  - Dart
-  - C++
-  - HTML
   - Docker
 tags:
   - Miscellaneous

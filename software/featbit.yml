@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - C#
+  - K8S
 tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/featbit/featbit

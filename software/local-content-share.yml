@@ -1,0 +1,12 @@
+name: Local Content Share
+website_url: https://github.com/Tanq16/local-content-share
+description:  Browser frontend that enables share and storing text snippets and files wit any local network devices. 
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/Tanq16/local-content-share

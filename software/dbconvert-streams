@@ -1,0 +1,21 @@
+# software name
+name: "DBConvert Streams"
+# URL of the software project's homepage
+website_url: "https://streams.dbconvert.com"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/slotix/dbconvert-streams-ui"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "No-code data replication tool for syncing PostgreSQL, MySQL, and cloud databases in real time or batch mode."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Go
+  - JavaScript
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Database CDC Replication and Synchronization 
+  - Automation
+  - Self-hosting

@@ -1,4 +1,5 @@
-
+# non-Free (https://en.wikipedia.org/wiki/Free_software) licenses
+# any time a new license is added here, exclude/include_licenses must be updated in .hecat/export-*.yml
 - identifier: BUSL-1.1
   name: Business Source License 1.1
   url: https://spdx.org/licenses/BUSL-1.1.html
@@ -30,6 +31,10 @@
 - identifier: Elastic-2.0
   name: Elastic License 2.0
   url: https://spdx.org/licenses/Elastic-2.0.html
+
+- identifier: NPOSL-3.0
+  name: Non-Profit Open Software License 3.0
+  url: https://spdx.org/licenses/NPOSL-3.0.html
 
 - identifier: SSPL-1.0
   name: Server Side Public License

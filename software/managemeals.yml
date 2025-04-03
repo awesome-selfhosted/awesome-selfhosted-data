@@ -1,0 +1,14 @@
+name: ManageMeals
+website_url: https://managemeals.com/
+source_code_url: https://github.com/managemeals/manage-meals-web
+description: Manage recipes, import recipes by URL and organize them without any ads or unnecessary text.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Recipe Management
+demo_url: https://demo.managemeals.com/
+stargazers_count: 43
+updated_at: '2025-03-18'
+archived: false

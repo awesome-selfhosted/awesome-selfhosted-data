@@ -1,0 +1,15 @@
+name: Wallos
+website_url: https://wallosapp.com
+source_code_url: https://github.com/ellite/wallos
+description: Lightweight personal subscription tracker with statistics and optional notifications.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Money, Budgeting & Management
+demo_url: https://github.com/ellite/wallos?tab=readme-ov-file#demo
+stargazers_count: 4222
+updated_at: '2025-03-27'
+archived: false

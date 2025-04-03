@@ -1,0 +1,14 @@
+name: Open QuarterMaster
+website_url: https://openquartermaster.com/
+source_code_url: https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster
+description: Powerful inventory management system, designed to be flexible and scalable.
+licenses:
+  - GPL-3.0
+platforms:
+  - deb
+  - Docker
+tags:
+  - Inventory Management
+stargazers_count: 28
+updated_at: '2025-03-28'
+archived: false

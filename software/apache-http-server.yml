@@ -1,0 +1,12 @@
+name: "Apache HTTP Server"
+website_url: "https://httpd.apache.org/"
+source_code_url: "https://svn.apache.org/repos/asf/httpd/httpd/trunk/"
+description: "Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards."
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+  - deb
+  - Docker
+tags:
+  - Web Servers

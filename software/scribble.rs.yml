@@ -1,0 +1,15 @@
+name: Scribble.rs
+website_url: https://github.com/scribble-rs/scribble.rs
+source_code_url: https://github.com/scribble-rs/scribble.rs
+description: A web-based pictionary game.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+  - Docker
+tags:
+  - Games
+demo_url: https://scribblers.fly.dev
+stargazers_count: 514
+updated_at: '2025-03-30'
+archived: false

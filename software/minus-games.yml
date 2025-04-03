@@ -1,0 +1,13 @@
+name: Minus Games
+website_url: https://accessory.github.io/minus_games_user_guide
+source_code_url: https://github.com/Accessory/minus_games
+description: Sync games and save files across multiple devices.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Games - Administrative Utilities & Control Panels
+stargazers_count: 13
+updated_at: '2025-03-11'
+archived: false

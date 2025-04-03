@@ -1,0 +1,13 @@
+name: LibreKB
+website_url: https://librekb.com/
+source_code_url: https://github.com/michaelstaake/LibreKB/
+description: A web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Knowledge Management Tools
+stargazers_count: 35
+updated_at: '2025-03-22'
+archived: false

@@ -9,18 +9,17 @@ steps:
       markdown_footer: markdown/footer.md
       back_to_top_url: '#awesome-selfhosted'
       exclude_licenses:
-        - '⊘ Proprietary'
-        - 'BUSL-1.1'
-        - 'CC-BY-NC-4.0'
-        - 'CC-BY-NC-SA-3.0'
-        - 'CC-BY-NC-SA-4.0'
-        - 'CC-BY-ND-3.0'
-        - 'Commons-Clause'
-        - 'DPL'
-        - 'SSPL-1.0'
-        - 'DPL'
-        - 'Elastic-1.0'
-        - 'Elastic-2.0'
+        - ⊘ Proprietary
+        - BUSL-1.1
+        - CC-BY-NC-4.0
+        - CC-BY-NC-SA-3.0
+        - CC-BY-NC-SA-4.0
+        - CC-BY-ND-3.0
+        - Commons-Clause
+        - DPL
+        - Elastic-2.0
+        - NPOSL-3.0
+        - SSPL-1.0
 
   - name: export YAML data to single-page markdown (non-free)
     module: exporters/markdown_singlepage
@@ -34,15 +33,14 @@ steps:
       render_empty_categories: False
       render_category_headers: False
       include_licenses:
-        - '⊘ Proprietary'
-        - 'BUSL-1.1'
-        - 'CC-BY-NC-4.0'
-        - 'CC-BY-NC-SA-3.0'
-        - 'CC-BY-NC-SA-4.0'
-        - 'CC-BY-ND-3.0'
-        - 'Commons-Clause'
-        - 'DPL'
-        - 'SSPL-1.0'
-        - 'DPL'
-        - 'Elastic-1.0'
-        - 'Elastic-2.0'
+        - ⊘ Proprietary
+        - BUSL-1.1
+        - CC-BY-NC-4.0
+        - CC-BY-NC-SA-3.0
+        - CC-BY-NC-SA-4.0
+        - CC-BY-ND-3.0
+        - Commons-Clause
+        - DPL
+        - Elastic-2.0
+        - NPOSL-3.0
+        - SSPL-1.0

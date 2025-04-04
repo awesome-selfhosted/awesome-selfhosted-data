@@ -1,0 +1,10 @@
+name: Django-CRM
+website_url: https://github.com/DjangoCRM/django-crm
+source_code_url: https://github.com/DjangoCRM/django-crm
+description: Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Customer Relationship Management (CRM)

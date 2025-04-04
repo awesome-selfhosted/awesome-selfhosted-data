@@ -2,6 +2,7 @@ name: WYGIWYH
 website_url: https://github.com/eitchtee/WYGIWYH
 source_code_url: https://github.com/eitchtee/WYGIWYH
 description: Simple and powerful finance tracker.
+demo_url: https://wygiwyh-demo.herculino.com/
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +10,6 @@ platforms:
   - Django
 tags:
   - Money, Budgeting & Management
-stargazers_count: 360
-updated_at: '2025-03-23'
+stargazers_count: 406
+updated_at: '2025-04-03'
 archived: false

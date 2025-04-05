@@ -1,7 +1,7 @@
-name: "Documenso"
-website_url: "https://documenso.com"
-source_code_url: "https://github.com/documenso/documenso"
-description: "Digital document signing platform (alternative to DocuSign)."
+name: Documenso
+website_url: https://documenso.com
+source_code_url: https://github.com/documenso/documenso
+description: Digital document signing platform (alternative to DocuSign).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Docker
 tags:
   - Document Management
+stargazers_count: 10682
+updated_at: '2025-04-03'
+archived: false

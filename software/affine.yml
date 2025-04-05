@@ -1,0 +1,13 @@
+name: AFFiNE
+website_url: https://affine.pro/
+source_code_url: https://github.com/toeverything/AFFiNE
+description: A workspace with fully merged docs, whiteboards and databases. Supports both local and cloud without compromise. Self-hostable alternative to Notion and Miro.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Knowledge Management Tools
+stargazers_count: 49400
+updated_at: '2025-03-10'
+archived: false

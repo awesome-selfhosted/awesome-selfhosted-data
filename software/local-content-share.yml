@@ -1,0 +1,12 @@
+name: Local Content Share
+website_url: https://github.com/Tanq16/local-content-share
+description: Store and share text snippets and files within your local network. 
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Pastebins
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/Tanq16/local-content-share

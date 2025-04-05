@@ -1,0 +1,11 @@
+name: "Reiverr"
+website_url: "https://github.com/aleksilassila/reiverr"
+source_code_url: "https://github.com/aleksilassila/reiverr"
+description: "Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming
+depends_3rdparty: true

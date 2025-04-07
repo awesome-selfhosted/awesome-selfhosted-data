@@ -1,0 +1,13 @@
+name: "Disco"
+website_url: "https://disco.cloud/"
+source_code_url: "https://github.com/letsdiscodev/disco-daemon"
+description: "Disco is a full featured Open Source web deployment platform that lets you host 10+ web apps for the price of one."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Web Servers
+depends_3rdparty: false

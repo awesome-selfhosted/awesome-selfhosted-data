@@ -7,6 +7,6 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - Database Management
 source_code_url: https://github.com/chartdb/chartdb
 demo_url: https://app.chartdb.io/?ref=github_readme

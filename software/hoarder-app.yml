@@ -1,7 +1,7 @@
-name: Hoarder App
-website_url: https://hoarder.app/
-source_code_url: https://github.com/hoarder-app/hoarder
-description: A self-hostable bookmark-everything app with a touch of AI for the data hoarders out there.
+name: Karakeep
+website_url: https://karakeep.app/
+source_code_url: https://github.com/karakeep-app/karakeep
+description: Bookmark-everything app with a touch of AI for the data hoarders out there.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
   - Pastebins
-demo_url: https://try.hoarder.app
+demo_url: https://try.karakeep.app/signin
 stargazers_count: 14783
 updated_at: '2025-04-06'
 archived: false

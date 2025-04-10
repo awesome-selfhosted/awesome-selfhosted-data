@@ -1,0 +1,11 @@
+name: Featbit
+website_url: https://www.featbit.co/
+description: Enterprise-grade feature flag platform that you can self-host. 
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Software Development - Feature Toggle
+source_code_url: https://github.com/featbit/featbit

@@ -1,0 +1,12 @@
+name: ExpenseOwl
+website_url: https://github.com/tanq16/expenseowl
+description: Extremely simple expense tracker with a beautiful UI.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/tanq16/expenseowl

@@ -1,0 +1,12 @@
+name: "DavMail"
+website_url: "https://davmail.sourceforge.net/"
+source_code_url: "https://github.com/mguessan/davmail"
+description: "POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access."
+licenses:
+  - GPL-2.0
+platforms:
+  - Java
+tags:
+  - Communication - Email - Mail Delivery Agents
+  - Calendar & Contacts
+depends_3rdparty: true

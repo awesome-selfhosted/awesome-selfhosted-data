@@ -1,0 +1,11 @@
+name: "Open-WebUI"
+website_url: "https://openwebui.com"
+source_code_url: "https://github.com/open-webui/open-webui"
+description: "User-friendly AI Interface, supports Ollama, OpenAI API."
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

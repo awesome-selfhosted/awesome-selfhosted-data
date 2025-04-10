@@ -2,7 +2,7 @@ name: "Perplexica"
 source_code_url: "https://github.com/ItzCrazyKns/Perplexica"
 description: "AI-powered search engine (alternative to Perplexity AI)."
 licenses:
-  - MIT license
+  - MIT
 platforms:
   - Docker
 tags:

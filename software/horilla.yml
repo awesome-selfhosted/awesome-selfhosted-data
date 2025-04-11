@@ -1,0 +1,12 @@
+name: "Horilla"
+website_url: "https://www.horilla.com"
+source_code_url: "https://github.com/horilla-opensource/horilla"
+description: "Streamline HR processes and enhance organizational efficiency from hiring to off boarding, all in one platform. "
+licenses:
+  - LGPL-2.1
+platforms:
+  - Python
+  - Docker
+tags:
+  - Human Resources Management (HRM)
+demo_url: "https://demo.horilla.com"

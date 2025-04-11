@@ -1,0 +1,11 @@
+name: Frappe Helpdesk
+website_url: https://frappe.io/helpdesk
+source_code_url: https://github.com/frappe/hrms
+description: Streamline your support workflows, handle issues efficiently, and delight customers.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Ticketing

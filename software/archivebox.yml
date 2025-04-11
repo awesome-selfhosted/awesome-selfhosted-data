@@ -1,6 +1,6 @@
 name: ArchiveBox
 website_url: https://archivebox.io/
-description: Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources.
+description: Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine).
 licenses:
   - MIT
 platforms:

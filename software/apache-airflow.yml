@@ -1,6 +1,6 @@
 name: Apache Airflow
 website_url: https://airflow.apache.org/
-description: Airflow is a platform to programmatically author, schedule, and monitor workflows.
+description: Platform to programmatically author, schedule, and monitor workflows.
 licenses:
   - Apache-2.0
 platforms:

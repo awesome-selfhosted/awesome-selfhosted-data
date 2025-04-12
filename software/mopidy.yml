@@ -9,6 +9,7 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/mopidy/mopidy
-stargazers_count: 8167
-updated_at: '2024-12-10'
+depends_3rdparty: true
+stargazers_count: 8242
+updated_at: '2025-03-17'
 archived: false

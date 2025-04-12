@@ -1,0 +1,11 @@
+name: Digisteps
+website_url: https://ladigitale.dev/digisteps/
+description: A simple application for creating online educational paths (documentation in French).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - PHP
+tags:
+  - Miscellaneous
+source_code_url: https://codeberg.org/ladigitale/digisteps

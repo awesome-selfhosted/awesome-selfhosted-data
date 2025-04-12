@@ -1,0 +1,17 @@
+name: Websoft9
+website_url: https://www.websoft9.com
+source_code_url: https://github.com/websoft9/websoft9
+description: GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Shell
+  - Python
+tags:
+  - Self-hosting Solutions
+depends_3rdparty: true
+demo_url: https://www.websoft9.com/demo
+related_software_url: https://www.websoft9.com/apps
+stargazers_count: 1635
+updated_at: '2025-04-10'
+archived: false

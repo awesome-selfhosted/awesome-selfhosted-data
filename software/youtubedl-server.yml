@@ -1,6 +1,6 @@
 name: YoutubeDL-Server
 website_url: https://github.com/nbr23/youtube-dl-server
-description: Youtube-DL interface for downloading videos onto a server.
+description: Web and REST interface to Youtube-DL for downloading videos onto a server.
 licenses:
   - MIT
 platforms:

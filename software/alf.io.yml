@@ -1,6 +1,6 @@
 name: Alf.io
 website_url: https://alf.io/
-description: The open source ticket reservation system.
+description: Ticket reservation system.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Booking and Scheduling
 source_code_url: https://github.com/alfio-event/alf.io
 demo_url: https://demo.alf.io/authentication
-stargazers_count: 1472
-updated_at: '2025-03-28'
+stargazers_count: 1478
+updated_at: '2025-03-29'
 archived: false

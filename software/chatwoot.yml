@@ -1,8 +1,8 @@
 name: Chatwoot
 website_url: https://www.chatwoot.com
-description: Self-hosted customer communication platform (alternative to Intercom & Zendesk).
+description: Customer communication platform (alternative to Intercom & Zendesk).
 licenses:
-  - MIT
+  - ⊘ Proprietary
 platforms:
   - Ruby
   - Docker

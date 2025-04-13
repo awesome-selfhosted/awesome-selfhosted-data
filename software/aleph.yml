@@ -1,0 +1,12 @@
+name: Aleph
+website_url: https://aleph.occrp.org/
+description: "Track people and companies"
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Miscellaneous
+source_code_url: "https://github.com/alephdata/aleph"
+demo_url: "https://aleph.occrp.org/"

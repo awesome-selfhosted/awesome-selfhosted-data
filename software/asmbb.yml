@@ -1,6 +1,6 @@
 name: AsmBB
 website_url: https://board.asm32.info
-description: A fast, SQLite-powered forum engine written in ASM.
+description: Fast, SQLite-powered forum engine written in ASM.
 licenses:
   - EUPL-1.2
 platforms:

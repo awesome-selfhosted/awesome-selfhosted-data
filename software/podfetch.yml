@@ -1,7 +1,7 @@
 name: PodFetch
 website_url: https://samtv12345.github.io/PodFetch
 source_code_url: https://github.com/SamTV12345/PodFetch
-description: A sleek and efficient podcast downloader.
+description: Sleek and efficient podcast downloader.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Rust
 tags:
   - Media Streaming - Audio Streaming
-  - Automation
+  - Media Management
 stargazers_count: 401
 updated_at: '2025-03-25'
 archived: false

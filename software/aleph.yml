@@ -1,6 +1,6 @@
 name: Aleph
 website_url: https://aleph.occrp.org/
-description: "Track people and companies."
+description: "Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search."
 licenses:
   - MIT
 platforms:

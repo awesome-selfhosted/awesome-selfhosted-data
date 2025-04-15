@@ -1,0 +1,13 @@
+name: "ARSnova"
+website_url: "https://www.particify.de/en/"
+source_code_url: "https://gitlab.com/particify/dev/foss/arsnova-server"
+description: "ARSnova is a modern, web-based approach to Audience Response Systems (ARS). It is the basis for the online service Particify and released under an open-source license."
+licenses:
+  - MIT
+platforms:
+  - Java
+  - Docker
+tags:
+  - "Polls and Events"
+  - "Learning and Courses"
+demo_url: "https://ars.particify.de/register"

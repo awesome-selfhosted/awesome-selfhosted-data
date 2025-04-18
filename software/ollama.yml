@@ -1,7 +1,7 @@
-name: "Ollama"
-website_url: "https://ollama.com/"
-source_code_url: "https://github.com/ollama/ollama"
-description: "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models."
+name: Ollama
+website_url: https://ollama.com/
+source_code_url: https://github.com/ollama/ollama
+description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Python
 tags:
   - Generative Artificial Intelligence (GenAI)
+stargazers_count: 137672
+updated_at: '2025-04-17'
+archived: false

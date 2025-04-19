@@ -1,0 +1,12 @@
+name: "Jirafeau"
+website_url: "https://gitlab.com/jirafeau/Jirafeau"
+source_code_url: "https://gitlab.com/jirafeau/Jirafeau"
+description: "Jirafeau is a 'one-click-filesharing': Select your file, upload, share a link. That's it."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+depends_3rdparty: false

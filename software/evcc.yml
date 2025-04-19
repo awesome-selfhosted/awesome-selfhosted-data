@@ -1,0 +1,12 @@
+name: "evcc"
+website_url: "https://evcc.io/"
+source_code_url: "https://github.com/evcc-io/evcc"
+description: "Extensible EV Charge Controller and home energy management system."
+licenses:
+  - MIT
+platforms:
+  - Deb
+  - Docker
+  - Go
+tags:
+  - Miscellaneous

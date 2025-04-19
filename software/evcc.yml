@@ -5,7 +5,7 @@ description: "Extensible EV Charge Controller and home energy management system.
 licenses:
   - MIT
 platforms:
-  - Deb
+  - deb
   - Docker
   - Go
 tags:

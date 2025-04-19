@@ -1,0 +1,10 @@
+name: Dawarich
+website_url: https://dawarich.app/
+description: Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control (alternative to Google Timeline a.k.a. Google Location History).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/Freika/dawarich

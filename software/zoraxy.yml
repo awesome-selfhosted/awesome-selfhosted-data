@@ -1,0 +1,11 @@
+name: "Zoraxy"
+website_url: "https://zoraxy.aroz.org/"
+source_code_url: "https://github.com/tobychui/zoraxy"
+description: "General purpose HTTP reverse proxy and forwarding tool."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Web Servers

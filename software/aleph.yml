@@ -1,0 +1,12 @@
+name: Aleph
+website_url: https://aleph.occrp.org/
+description: "Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Search Engines
+source_code_url: "https://github.com/alephdata/aleph"
+demo_url: "https://aleph.occrp.org/"

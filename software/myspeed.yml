@@ -1,7 +1,7 @@
-name: "MySpeed"
-website_url: "https://myspeed.dev/"
-source_code_url: "https://github.com/gnmyt/myspeed"
-description: "Speed test analysis software that shows your internet speed for up to 30 days."
+name: MySpeed
+website_url: https://myspeed.dev/
+source_code_url: https://github.com/gnmyt/myspeed
+description: Speed test analysis software that shows your internet speed for up to 30 days.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,6 @@ platforms:
   - Nodejs
 tags:
   - Miscellaneous
+stargazers_count: 1324
+updated_at: '2025-04-11'
+archived: false

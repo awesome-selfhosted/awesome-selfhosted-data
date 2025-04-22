@@ -1,6 +1,6 @@
 name: Guacamole
 website_url: https://guacamole.apache.org
-description: Clientless remote desktop gateway. It supports standard protocols like VNC and RDP.
+description: Clientless remote desktop gateway supporting standard protocols like VNC and RDP.
 licenses:
   - Apache-2.0
 platforms:

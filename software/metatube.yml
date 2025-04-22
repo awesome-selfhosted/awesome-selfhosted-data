@@ -1,14 +1,14 @@
 name: MetaTube
 website_url: https://github.com/JVT038/MetaTube
-description: A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz.
+description: Automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz.
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Automation
+  - Media Management
 source_code_url: https://github.com/JVT038/MetaTube
 depends_3rdparty: true
-stargazers_count: 339
+stargazers_count: 352
 updated_at: '2024-10-05'
 archived: false

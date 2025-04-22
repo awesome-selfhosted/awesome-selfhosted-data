@@ -7,7 +7,8 @@ licenses:
 platforms:
   - Docker
 tags:
-  - Automation
-stargazers_count: 156
-updated_at: '2025-01-16'
+  - Media Management
+depends_3rdparty: true
+stargazers_count: 235
+updated_at: '2025-03-31'
 archived: false

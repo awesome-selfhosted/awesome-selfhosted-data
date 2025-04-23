@@ -1,0 +1,12 @@
+name: IOPaint
+website_url: https://www.iopaint.com/
+description: Image inpainting tool powered by SOTA AI Model.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/Sanster/IOPaint
+depends_3rdparty: true

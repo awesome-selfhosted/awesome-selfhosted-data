@@ -1,6 +1,6 @@
 name: Jellyseerr
 website_url: https://github.com/Fallenbagel/jellyseerr
-description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr).
+description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of [Overseerr](https://github.com/sct/overseerr)).
 licenses:
   - MIT
 platforms:

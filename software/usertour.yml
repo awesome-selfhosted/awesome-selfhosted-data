@@ -1,0 +1,12 @@
+name: "Usertour"
+website_url: "https://www.usertour.io/"
+description: "Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Onboarding
+  - Product Tour
+  - Surveys
+source_code_url: "https://github.com/usertour/usertour/"

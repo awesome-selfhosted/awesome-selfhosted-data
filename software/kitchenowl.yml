@@ -5,6 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - deb
 tags:
   - Recipe Management
 source_code_url: https://github.com/TomBursch/kitchenowl

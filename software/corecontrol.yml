@@ -1,0 +1,14 @@
+name: "CoreControl"
+website_url: "https://corecontrol.xyz/"
+source_code_url: "https://github.com/crocofied/corecontrol"
+description: "Dashboard to manage your entire server infrastructure. Easily add your self-hosted applications with links, add your servers and monitor their availability in real-time with built-in uptime tracking and ressource tracking."
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Go
+  - Docker
+tags:
+  - Personal Dashboards
+  - Monitoring
+  - Status / Uptime pages

@@ -1,0 +1,12 @@
+name: "Termix"
+website_url: "https://github.com/LukeGus/Termix"
+source_code_url: "https://github.com/LukeGus/Termix/releases"
+description: "Clientless SSH terminal emulator web-app that stores your connection details."
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Remote Access

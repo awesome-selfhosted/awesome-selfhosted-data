@@ -5,7 +5,9 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 ### Curation
 
 - Software with no development activity for 6-12 months may be removed from the list
-- Unmaintained software without an active community and/or with persistent security issues may be removed from the list
+- Non-working software may be removed from the list
+- Unmaintained software without an active community may be removed from the list
+- Software with persistent, serious security issues will be removed from the list
 - Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### Add software to the list
@@ -95,6 +97,15 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
 - If the project distributes a single static binary, please add the programming language in which it is written.
 
+### What does not qualify
+
+- Software that depends on a specific cloud provider
+- Desktop/mobile/common-line applications which rely on a separate file synchronization/server program
+- Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
+- Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
+- Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- Software contributions that merely port an existing application to another system (e.g., Dockerization)?
+- ...
 
 ### Canned replies
 

@@ -104,8 +104,7 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
 - Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
 - Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-- Software contributions that merely port an existing application to another system (e.g., Dockerization)?
-- ...
+- Software contributions that merely port an existing application to another system (e.g., Dockerization)
 
 ### Canned replies
 

@@ -1,6 +1,6 @@
 name: hitobito
 website_url: https://hitobito.com
-description: A web application to manage complex group hierarchies with members, events and a lot more.
+description: Manage complex group hierarchies with members, events and a lot more.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,5 +10,5 @@ tags:
 source_code_url: https://github.com/hitobito/hitobito
 demo_url: https://demo.hitobito.com/en/users/sign_in
 stargazers_count: 407
-updated_at: '2025-04-14'
+updated_at: '2025-04-25'
 archived: false

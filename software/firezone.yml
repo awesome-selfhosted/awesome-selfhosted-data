@@ -1,6 +1,6 @@
 name: Firezone
 website_url: https://www.firezone.dev/
-description: Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO.
+description: Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 7150
-updated_at: '2025-04-14'
+stargazers_count: 7176
+updated_at: '2025-04-26'
 archived: false

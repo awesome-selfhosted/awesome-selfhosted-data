@@ -1,0 +1,14 @@
+name: "Marketing Agents"
+website_url: "https://marketingagents.net"
+source_code_url: "https://github.com/rasulkireev/marketing-agents"
+description: "Marketing Automation for Founders who suck at Marketing"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Django
+  - Docker
+  - Javascript
+tags:
+  - Automation
+depends_3rdparty: true

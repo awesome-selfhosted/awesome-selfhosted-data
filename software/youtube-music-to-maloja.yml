@@ -1,0 +1,14 @@
+name: "YTMtoMaloja"
+source_code_url: "https://github.com/780Farva/YTMtoMaloja"
+description: "Shell script that converts YouTube Music listening history JSON files to Maloja's import format."
+licenses:
+  - MIT
+platforms:
+  - Shell
+tags:
+  - Media Streaming - Audio Streaming
+  - Media Management
+related_software_url: 
+  - "https://github.com/krateng/maloja"
+  - "https://takeout.google.com/"
+  

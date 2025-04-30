@@ -1,0 +1,12 @@
+name: "Spoolman"
+website_url: "https://github.com/Donkie/Spoolman"
+source_code_url: "https://github.com/Donkie/Spoolman"
+description: "Keep track of your inventory of 3D-printer filament spools."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Inventory Management
+  - Manufacturing

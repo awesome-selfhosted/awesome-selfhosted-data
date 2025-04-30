@@ -1,7 +1,7 @@
 name: InvoiceShelf
 website_url: https://invoiceshelf.com/
 source_code_url: https://github.com/InvoiceShelf/InvoiceShelf
-description: A software that helps you track expenses, payments & create professional invoices & estimates (fork of Crater).
+description: Track expenses, payments & create professional invoices & estimates (fork of Crater).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
   - Docker
 tags:
   - Money, Budgeting & Management
-stargazers_count: 1030
+stargazers_count: 1061
 updated_at: '2025-04-05'
 archived: false

@@ -1,7 +1,7 @@
 name: bit
 website_url: https://github.com/sjdonado/bit
 source_code_url: https://github.com/sjdonado/bit
-description: Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite.
+description: Fast, lightweight, resource-efficient, compiled URL shortener.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
   - Crystal
 tags:
   - URL Shorteners
-stargazers_count: 28
+stargazers_count: 32
 updated_at: '2025-04-07'
 archived: false

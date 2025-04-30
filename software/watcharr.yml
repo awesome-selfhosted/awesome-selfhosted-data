@@ -1,14 +1,14 @@
 name: Watcharr
 website_url: https://github.com/sbondCo/Watcharr
-description: A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup.
+description: Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup.
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Miscellaneous
+  - Media Management
 source_code_url: https://github.com/sbondCo/Watcharr
 demo_url: https://beta.watcharr.app/
-stargazers_count: 726
+stargazers_count: 751
 updated_at: '2025-02-21'
 archived: false

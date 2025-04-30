@@ -1,6 +1,6 @@
 name: ERPNext
-website_url: https://erpnext.com
-description: Free open source ERP system.
+website_url: https://frappe.io/erpnext
+description: ERP system to help you run your business.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Resource Planning
 source_code_url: https://github.com/frappe/erpnext
-stargazers_count: 24477
-updated_at: '2025-04-11'
+stargazers_count: 24753
+updated_at: '2025-04-29'
 archived: false

@@ -1,6 +1,6 @@
 name: Black Candy
 website_url: https://github.com/blackcandy-org/black_candy
-description: Music streaming server built with Rails and Stimulus.
+description: Music streaming server.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/blackcandy-org/black_candy
-stargazers_count: 3500
-updated_at: '2025-03-12'
+stargazers_count: 3567
+updated_at: '2025-04-26'
 archived: false

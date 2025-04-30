@@ -4,7 +4,6 @@ description: Docker container for managing Nginx proxy hosts with a simple, powe
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Web Servers

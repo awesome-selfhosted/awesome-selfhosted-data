@@ -2,7 +2,7 @@ name: Prosody IM
 website_url: https://prosody.im/
 description: Feature-rich and easy to configure XMPP server.
 licenses:
-  - MIT
+  - CC-BY-SA-4.0
 platforms:
   - Lua
 tags:

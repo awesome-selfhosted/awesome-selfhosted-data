@@ -1,11 +1,11 @@
 name: Psono
 website_url: https://psono.com/
-description: A promising password managers fully featured for teams.
+description: Promising password managers fully featured for teams.
 licenses:
   - Apache-2.0
 platforms:
   - Python
 tags:
   - Password Managers
-source_code_url: https://gitlab.com/psono
+source_code_url: https://gitlab.com/psono/psono-fileserver
 demo_url: https://www.psono.pw

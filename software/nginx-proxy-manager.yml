@@ -1,10 +1,9 @@
 name: Nginx Proxy Manager
 website_url: https://nginxproxymanager.com/
-description: Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination.
+description: Docker container for managing Nginx proxy hosts with a simple, powerful interface.
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Web Servers

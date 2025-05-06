@@ -1,6 +1,6 @@
 name: OpenRouteService
 website_url: https://openrouteservice.org/
-description: Selfhosted route service with directions, isochrones, time-distance matrix, route optimization, etc.
+description: Route service with directions, isochrones, time-distance matrix, route optimization, etc.
 licenses:
   - GPL-3.0
 platforms:

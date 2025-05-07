@@ -1,7 +1,7 @@
 name: "Kottster"
 website_url: "https://kottster.app/"
 source_code_url: "https://github.com/kottster/kottster"
-description: "Low-code Node.js admin panel for your app. Connect it to your database, and it will automatically generate pages to view and manage data in your database tables. Get a secure, self-hosted admin panel in minutes."
+description: "Low-code admin panel that connects to your database and automatically generates pages to view and manage your data. Get a secure, self-hosted admin panel in minutes."
 licenses:
   - Apache-2.0
 platforms:

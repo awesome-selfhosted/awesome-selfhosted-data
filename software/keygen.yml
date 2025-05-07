@@ -1,13 +1,13 @@
 name: Keygen
-website_url: https://github.com/keygen-sh/keygen-api
-description: Self-hosted software licensing and distribution API.
+website_url: https://keygen.sh/
+description: Software licensing and distribution API.
 licenses:
-  - Elastic-2.0
+  - ⊘ Proprietary
 platforms:
   - Ruby
 tags:
   - Miscellaneous
 source_code_url: https://github.com/keygen-sh/keygen-api
 stargazers_count: 1096
-updated_at: '2025-04-29'
+updated_at: '2025-05-06'
 archived: false

@@ -6,7 +6,6 @@ licenses:
   - Apache-2.0
 platforms:
   - Nodejs
-  - Javascript
   - Docker
 tags:
   - Database Management

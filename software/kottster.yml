@@ -9,5 +9,4 @@ platforms:
   - Docker
 tags:
   - Database Management
-depends_3rdparty: true
 demo_url: "https://demo.kottster.app/"

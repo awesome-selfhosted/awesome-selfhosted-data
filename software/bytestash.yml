@@ -1,0 +1,14 @@
+name: "ByteStash"
+website_url: "https://github.com/jordan-dalby/ByteStash"
+source_code_url: "https://github.com/jordan-dalby/ByteStash"
+description: "Self-hosted pastebin and file storage service with a simple web interface and Docker support. Supports syntax highlighting, optional user authentication and public sharing."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://bytestash-demo.pikapod.net/login"
+

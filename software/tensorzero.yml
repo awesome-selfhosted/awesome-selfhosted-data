@@ -1,0 +1,13 @@
+name: TensorZero
+website_url: https://www.tensorzero.com/
+source_code_url: https://github.com/tensorzero/tensorzero
+description: TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

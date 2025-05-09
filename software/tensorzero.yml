@@ -5,9 +5,7 @@ description: Framework for building production-grade LLM applications. It unifie
 licenses:
   - Apache-2.0
 platforms:
-  - Rust
   - Python
-  - Nodejs
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)

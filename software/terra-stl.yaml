@@ -1,0 +1,14 @@
+name: TerraSTL
+website_url: https://github.com/aligundogdu/TerraStl
+description: Open-source tool that allows you to select any region on a map and export it as an STL file — ready for 3D printing. Perfect for creating custom terrain models and topographic visualizations.
+licenses:
+  - MIT
+platforms:
+  - Nuxt
+tags:
+  - Manufacturing
+source_code_url: https://github.com/aligundogdu/TerraStl
+demo_url: https://github.com/aligundogdu/TerraStl
+stargazers_count: 2736
+updated_at: '2025-05-09'
+archived: false

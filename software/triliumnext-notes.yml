@@ -1,0 +1,12 @@
+name: TriliumNext Notes
+website_url: https://github.com/TriliumNext/Notes
+description: Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/TriliumNext/Notes

@@ -1,0 +1,11 @@
+name: "Kapowarr"
+website_url: "https://casvt.github.io/Kapowarr/"
+source_code_url: "https://github.com/Casvt/Kapowarr"
+description: "Build and manage a comic book library. Download, rename, move and convert issues of the volume to your liking."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Document Management - E-books

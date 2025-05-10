@@ -1,0 +1,14 @@
+name: "Daily Stars Explorer"
+website_url: "https://emanuelef.github.io/daily-stars-explorer"
+source_code_url: "https://github.com/emanuelef/daily-stars-explorer"
+description: "Track GitHub repo trends with daily star insights to see growth and community interest over time."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: true
+demo_url: "https://emanuelef.github.io/daily-stars-explorer"

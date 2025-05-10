@@ -9,6 +9,5 @@ platforms:
   - Docker
 tags:
   - Pastebins
-depends_3rdparty: false
 demo_url: "https://bytestash-demo.pikapod.net/login"
 

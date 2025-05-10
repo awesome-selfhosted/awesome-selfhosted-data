@@ -5,7 +5,6 @@ description: "Pastebin and file storage service with a simple web interface. Sup
 licenses:
   - GPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Pastebins

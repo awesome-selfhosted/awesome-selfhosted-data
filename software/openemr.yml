@@ -1,0 +1,12 @@
+name: "OpenEMR"
+website_url: "https://www.open-emr.org/"
+source_code_url: "https://github.com/openemr/openemr"
+description: "Electronic health records and medical practice management solution."
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://www.open-emr.org/demo/"

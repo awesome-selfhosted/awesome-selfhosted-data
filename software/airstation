@@ -1,0 +1,14 @@
+name: Airstation
+description: Minimalist self-hosted web radio station with clean UI for uploading tracks, managing playback queues, and streaming music via HLS over HTTP. Features a built-in player for listeners, playback history, SQLite storage, and FFmpeg audio processing.
+website_url: https://github.com/cheatsnake/airstation
+license: MIT
+demo_url: 
+categories:
+  - Audio and Video
+tags:
+  - Audio Streaming
+  - Media Streaming
+  - Radio
+platforms:
+  - Go
+  - Docker

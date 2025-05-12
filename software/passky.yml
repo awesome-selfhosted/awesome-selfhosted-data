@@ -4,6 +4,7 @@ description: Simple and modern password manager with website, browser extension,
 licenses:
   - GPL-3.0
 platforms:
+  - PHP
   - Docker
 tags:
   - Password Managers

@@ -8,5 +8,6 @@ platforms:
   - Docker
 tags:
   - Analytics
+  - Health and Fitness
 depends_3rdparty: true
 demo_url: "https://statistics-for-strava.robiningelbrecht.be/"

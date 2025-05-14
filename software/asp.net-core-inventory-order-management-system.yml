@@ -10,3 +10,4 @@ platforms:
 tags:
   - Inventory Management
 demo_url: "https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System?tab=readme-ov-file#live-demo-link"
+depends_3rdparty: true

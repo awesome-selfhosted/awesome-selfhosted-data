@@ -1,20 +1,13 @@
-# software name
 name: "UUSEC WAF"
-# URL of the software project's homepage
 website_url: "https://uuwaf.uusec.com"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/Safe3/uuWAF"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - GPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - C
   - Lua
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Proxy
   - Web Servers

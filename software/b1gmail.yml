@@ -1,0 +1,17 @@
+# software name
+name: "b1gMail"
+# URL of the software project's homepage
+website_url: "https://www.b1gmail.eu"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://codeberg.org/b1gMail/b1gMail"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Run your own email service. b1gMail provides a complete email solution, which can run on a webspace with PHP and MariaDB. It uses a POP3-Catchall mailbox or if run you own server, also Postfix or b1gMailServer integration available."
+licenses:
+  - GPL-2
+platforms:
+  - PHP
+  - MariaDB
+tags:
+  - Communication - Email - Complete Solutions
+  - Calendar & Contacts
+related_software_url: "https://www.b1gmail.eu/en/start/addon-b1gmailserver/"

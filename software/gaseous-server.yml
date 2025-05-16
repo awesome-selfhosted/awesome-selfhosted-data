@@ -1,7 +1,7 @@
 name: Gaseous Server
 website_url: https://github.com/gaseous-project/gaseous-server
 source_code_url: https://github.com/gaseous-project/gaseous-server
-description: A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata.
+description: Game ROM manager with a built-in web-based emulator using multiple sources to identify and provide metadata.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 depends_3rdparty: true
-stargazers_count: 528
-updated_at: '2025-03-14'
+stargazers_count: 558
+updated_at: '2025-05-13'
 archived: false

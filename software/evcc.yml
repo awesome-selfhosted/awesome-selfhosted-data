@@ -1,7 +1,7 @@
-name: "evcc"
-website_url: "https://evcc.io/"
-source_code_url: "https://github.com/evcc-io/evcc"
-description: "Extensible Electric Vehicle Charge Controller and home energy management system."
+name: evcc
+website_url: https://evcc.io/
+source_code_url: https://github.com/evcc-io/evcc
+description: Extensible Electric Vehicle Charge Controller and home energy management system.
 licenses:
   - MIT
 platforms:
@@ -10,3 +10,6 @@ platforms:
   - Go
 tags:
   - Internet of Things (IoT)
+stargazers_count: 4608
+updated_at: '2025-05-16'
+archived: false

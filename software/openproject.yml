@@ -1,6 +1,6 @@
 name: OpenProject
 website_url: https://www.openproject.org
-description: OpenProject is a web-based project management system.
+description: Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/opf/openproject
-stargazers_count: 10940
-updated_at: '2025-04-29'
+stargazers_count: 11045
+updated_at: '2025-05-16'
 archived: false

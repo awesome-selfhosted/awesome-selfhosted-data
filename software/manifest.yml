@@ -1,6 +1,6 @@
 name: Manifest
 website_url: https://manifest.build
-description: A complete backend that fits into 1 YAML file.
+description: Complete backend that fits into 1 YAML file.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/mnfst/manifest
 demo_url: https://manifest.new
-stargazers_count: 2491
-updated_at: '2025-04-25'
+stargazers_count: 2550
+updated_at: '2025-05-06'
 archived: false

@@ -100,7 +100,7 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 ### What does not qualify
 
 - Software that depends on a specific cloud provider
-- Desktop/mobile/common-line applications which rely on a separate file synchronization/server program
+- Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
 - Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
 - Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
 - Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)

@@ -1,7 +1,7 @@
 name: OpenUEM
 website_url: https://openuem.eu
 source_code_url: "https://github.com/open-uem"
-description: "Unified endpoint manager which keeps an inventory of your IT assets reported by agents installed on your endpoints with a clean and concise UI"
+description: "Unified endpoint manager which keeps an inventory of your IT assets reported by agents installed on your endpoints with a clean and concise UI."
 licenses:
   - Apache-2.0
 platforms:

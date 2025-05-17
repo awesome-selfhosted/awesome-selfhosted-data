@@ -1,14 +1,14 @@
 name: PlexRipper
 website_url: https://www.plexripper.rocks/
 source_code_url: https://github.com/PlexRipper/PlexRipper
-description: A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own.
+description: Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own.
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
-  - Automation
+  - Media Management
 depends_3rdparty: true
-stargazers_count: 327
-updated_at: '2025-01-24'
+stargazers_count: 424
+updated_at: '2025-05-05'
 archived: false

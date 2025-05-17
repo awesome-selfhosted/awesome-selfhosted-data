@@ -1,6 +1,6 @@
 name: LibreTime
 website_url: https://libretime.org
-description: Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).
+description: Broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/LibreTime/libretime
-stargazers_count: 828
-updated_at: '2025-01-17'
+stargazers_count: 858
+updated_at: '2025-04-14'
 archived: false

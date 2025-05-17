@@ -1,6 +1,6 @@
 name: gitbucket
-website_url: https://gitbucket.github.io/gitbucket-news/
-description: Easily installable GitHub clone powered by Scala.
+website_url: https://gitbucket.github.io/
+description: Git platform powered with easy installation, high extensibility & GitHub API compatibility (alternative to GitHub).
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/gitbucket/gitbucket
-stargazers_count: 9193
-updated_at: '2025-01-21'
+stargazers_count: 9244
+updated_at: '2025-05-15'
 archived: false

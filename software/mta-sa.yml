@@ -1,6 +1,6 @@
 name: MTA:SA
 website_url: https://multitheftauto.com/
-description: Multi Theft Auto (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
+description: Add network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Games
 source_code_url: https://github.com/multitheftauto/mtasa-blue
 depends_3rdparty: true
-stargazers_count: 1437
-updated_at: '2025-01-29'
+stargazers_count: 1506
+updated_at: '2025-05-16'
 archived: false

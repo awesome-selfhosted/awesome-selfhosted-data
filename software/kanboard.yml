@@ -1,6 +1,6 @@
 name: Kanboard
 website_url: https://kanboard.org/
-description: Simple and open source visual task board.
+description: Simple visual task board.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/kanboard/kanboard
-stargazers_count: 8628
-updated_at: '2025-01-17'
+stargazers_count: 8878
+updated_at: '2025-05-12'
 archived: false

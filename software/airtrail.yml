@@ -1,0 +1,14 @@
+name: AirTrail
+website_url: https://airtrail.johan.ohly.dk
+source_code_url: https://github.com/johanohly/AirTrail
+description: Personal flight tracking system.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Maps and Global Positioning System (GPS)
+stargazers_count: 519
+updated_at: '2025-05-01'
+archived: false

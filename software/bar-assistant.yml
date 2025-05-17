@@ -1,6 +1,6 @@
 name: Bar Assistant
 website_url: https://barassistant.app/
-description: Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes.
+description: Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes.
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,6 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/karlomikus/bar-assistant
 demo_url: https://demo.barassistant.app/
-stargazers_count: 692
-updated_at: '2025-01-25'
+stargazers_count: 790
+updated_at: '2025-05-16'
 archived: false

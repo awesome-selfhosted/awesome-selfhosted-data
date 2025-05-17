@@ -1,5 +1,5 @@
 name: txtdot
-website_url: https://txtdot.github.io/documentation/
+website_url: https://tempoworks.github.io/documentation
 source_code_url: https://github.com/TxtDot/txtdot
 description: A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts.
 licenses:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Proxy
 demo_url: https://txt.dc09.ru
-stargazers_count: 164
-updated_at: '2025-01-23'
+stargazers_count: 185
+updated_at: '2025-05-04'
 archived: false

@@ -1,0 +1,13 @@
+name: "Statistics for Strava"
+website_url: "https://github.com/robiningelbrecht/statistics-for-strava"
+source_code_url: "https://github.com/robiningelbrecht/statistics-for-strava"
+description: "Statistics dashboard generated from Strava data."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Analytics
+  - Health and Fitness
+depends_3rdparty: true
+demo_url: "https://statistics-for-strava.robiningelbrecht.be/"

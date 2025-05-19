@@ -1,8 +1,8 @@
 name: Plane
 website_url: https://plane.so
-description: Helps you track your issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height).
+description: Track issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height).
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:

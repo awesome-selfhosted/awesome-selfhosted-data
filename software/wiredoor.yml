@@ -1,0 +1,16 @@
+name: "Wiredoor"
+website_url: "https://www.wiredoor.net"
+source_code_url: "https://github.com/wiredoor/wiredoor"
+description: "Wiredoor is a self-hosted, open source ingress-as-a-service platform to securely expose private HTTP, TCP, and UDP services to the internet using a reverse VPN with WireGuard and an NGINX-based proxy."
+licenses:
+  - MIT
+platforms:
+  - Linux
+  - Docker
+  - Kubernetes
+tags:
+  - VPN
+  - Reverse Proxy
+  - Networking
+  - Tunneling
+  - HTTPS

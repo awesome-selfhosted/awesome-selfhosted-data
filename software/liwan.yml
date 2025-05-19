@@ -2,7 +2,7 @@ name: Liwan
 website_url: https://liwan.dev/
 description: Privacy-first web analytics.
 licenses:
-  - AGPL-3.0
+  - Apache-2.0
 platforms:
   - Rust
   - Docker

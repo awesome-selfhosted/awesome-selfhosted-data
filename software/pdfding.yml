@@ -3,12 +3,11 @@ website_url: https://github.com/mrmn2/PdfDing
 source_code_url: https://github.com/mrmn2/PdfDing
 description: PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker.
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Document Management
-demo_url: https://demo.pdfding.com
-stargazers_count: 965
+stargazers_count: 973
 updated_at: '2025-04-21'
 archived: false

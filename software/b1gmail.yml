@@ -1,7 +1,7 @@
 name: "b1gMail"
 website_url: "https://www.b1gmail.eu"
 source_code_url: "https://codeberg.org/b1gMail/b1gMail"
-description: "Run your own email service. b1gMail provides a complete email solution, which can run on a webspace with PHP and MariaDB. It uses a POP3-Catchall mailbox or if run you own server, also Postfix or b1gMailServer integration available."
+description: "Complete email solution that runs on any webspace with PHP and MariaDB. It supports POP3 catchall mailboxes and can also integrate with Postfix or b1gMailServer if you're running your own server.."
 licenses:
   - GPL-2.0
 platforms:

@@ -1,0 +1,12 @@
+name: "Radioss"
+website_url: "https://github.com/DasCanard/radioss"
+source_code_url: "https://github.com/DasCanard/radioss"
+description: "A modern cross-platform internet radio player built with Tauri, React & TypeScript. Stream stations, manage favorites, and add custom channels."
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Rust
+  - Nodejs
+tags:
+  - Media Streaming - Audio Streaming

@@ -7,6 +7,5 @@ licenses:
 platforms:
   - Rust
   - deb
-  - Docker
 tags:
   - Proxy

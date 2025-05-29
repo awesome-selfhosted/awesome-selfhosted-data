@@ -1,5 +1,5 @@
 name: EmbedPDF
-description: Customizable PDF viewer for the web built using Chrome’s PDF rendering engine (PDFium) and WebAssembly
+description: Customizable PDF viewer that uses Chrome’s PDF engine (PDFium compiled to WebAssembly) for accurate rendering
 homepage_url: https://www.embedpdf.com
 repo_url: https://github.com/bobsingor/embedpdf
 license: MIT

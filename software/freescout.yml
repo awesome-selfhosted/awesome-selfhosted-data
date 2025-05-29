@@ -1,6 +1,6 @@
 name: FreeScout
-website_url: https://github.com/freescout-helpdesk/freescout
-description: 'Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox.'
+website_url: https://freescout.net/
+description: Email-based customer support application, help desk and shared mailbox (alternative to Zendesk and Help Scout).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,7 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/freescout-helpdesk/freescout
-stargazers_count: 3362
-updated_at: '2025-02-28'
+demo_url: https://demo.freescout.net/login
+stargazers_count: 3521
+updated_at: '2025-05-27'
 archived: false

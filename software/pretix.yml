@@ -1,14 +1,14 @@
 name: Pretix
 website_url: https://pretix.eu/
-description: Django based ticket sales platform for events.
+description: Ticket sales platform for events.
 licenses:
-  - Apache-2.0
+  - AGPL-3.0
 platforms:
   - Python
   - Docker
 tags:
   - E-commerce
 source_code_url: https://github.com/pretix/pretix
-stargazers_count: 2015
-updated_at: '2025-03-25'
+stargazers_count: 2096
+updated_at: '2025-05-28'
 archived: false

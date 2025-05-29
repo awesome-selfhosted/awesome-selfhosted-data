@@ -1,6 +1,6 @@
 name: DOMJudge
 website_url: https://www.domjudge.org/
-description: A system for running a programming contest, like the ICPC regional and world championship programming contests.
+description: System for running a programming contest, like the ICPC regional and world championship programming contests.
 licenses:
   - GPL-2.0
   - BSD-3-Clause
@@ -11,6 +11,6 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/DOMjudge/domjudge
 demo_url: https://www.domjudge.org/demo
-stargazers_count: 768
-updated_at: '2025-03-23'
+stargazers_count: 799
+updated_at: '2025-05-23'
 archived: false

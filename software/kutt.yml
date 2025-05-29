@@ -1,0 +1,15 @@
+name: Kutt
+website_url: https://kutt.it
+source_code_url: https://github.com/thedevs-network/kutt
+description: Modern URL shortener with support for custom domains and custom URLs.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - URL Shorteners
+demo_url: https://kutt.it
+stargazers_count: 9752
+updated_at: '2025-04-24'
+archived: false

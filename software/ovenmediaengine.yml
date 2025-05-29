@@ -1,8 +1,8 @@
 name: OvenMediaEngine
 website_url: https://github.com/AirenSoft/OvenMediaEngine
-description: OvenMediaEngine is a selfhostable Open-Source Streaming Server with Sub-Second Latency.
+description: Streaming Server with Sub-Second Latency.
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - C++
   - Docker
@@ -10,6 +10,6 @@ tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/AirenSoft/OvenMediaEngine
 demo_url: https://demo.ovenplayer.com
-stargazers_count: 2706
-updated_at: '2025-03-25'
+stargazers_count: 2757
+updated_at: '2025-05-28'
 archived: false

@@ -2,7 +2,7 @@ name: Invoice Ninja
 website_url: https://www.invoiceninja.org/
 description: Powerful tool to invoice clients online.
 licenses:
-  - AAL
+  - Elastic-2.0
 platforms:
   - PHP
   - Docker

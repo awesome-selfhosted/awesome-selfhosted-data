@@ -1,0 +1,16 @@
+name: LangGraph-GUI
+description: An user-friendly graphical interface with node-edge visualized for LangGraph.
+website_url: "https://LangGraph-GUI.github.io"
+source_code_url: "https://github.com/LangGraph-GUI/LangGraph-GUI"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+  - K8S
+tags:
+  - Automation
+  - Software Development - Low Code
+  - AI
+  - LLM
+depends_3rdparty: true

@@ -1,6 +1,6 @@
 name: Paperless-AI
 website_url: https://github.com/clusterzx/paperless-ai/
-description: Paperless-AI is an automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents.
+description: Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents.
 licenses:
   - MIT
 platforms:

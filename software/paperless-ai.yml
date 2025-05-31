@@ -4,9 +4,6 @@ description: Paperless-AI is an automated document analyzer for Paperless-ngx th
 licenses:
   - MIT
 platforms:
-  - JavaScript
-  - Nodejs
-  - Python
   - Docker
 tags:
   - Document Management

@@ -1,0 +1,14 @@
+name: "Rybbit"
+website_url: "https://www.rybbit.io"
+source_code_url: "https://github.com/rybbit-io/rybbit"
+description: "Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive."
+licenses:
+  - GNU Affero General Public License v3.0
+platforms:
+  - TypeScript
+  - JavaScript
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: false
+demo_url: "https://demo.rybbit.io/1/main?timeMode=day&day=2025-06-01&bucket=hour&stat=users"

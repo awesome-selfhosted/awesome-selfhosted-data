@@ -1,6 +1,6 @@
 name: Spooty
 website_url: https://github.com/Raiper34/spooty
-description: Spooty is a self-hosted Spotify downloader. It allows download track/playlist/album from the Spotify url. It can also subscribe to a playlist or author page and download new songs upon release.
+description: Download tracks/playlists/albums from the Spotify url. It can also subscribe to a playlist or author page and download new songs upon release.
 licenses:
   - MIT
 platforms:

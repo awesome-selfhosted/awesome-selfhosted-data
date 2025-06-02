@@ -4,8 +4,8 @@ description: Download tracks/playlists/albums from the Spotify url. It can also 
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
+  - Nodejs
 tags:
   - Media Management
 source_code_url: https://github.com/Raiper34/spooty

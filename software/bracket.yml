@@ -1,5 +1,5 @@
 name: Bracket
-website_url: https://evroon.github.io/bracket
+website_url: https://docs.bracketapp.nl/
 source_code_url: https://github.com/evroon/bracket
 demo_url: https://www.bracketapp.nl/demo
 description: Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public.
@@ -10,6 +10,6 @@ platforms:
   - Nodejs
 tags:
   - Polls and Events
-stargazers_count: 293
-updated_at: '2025-03-17'
+stargazers_count: 1201
+updated_at: '2025-05-30'
 archived: false

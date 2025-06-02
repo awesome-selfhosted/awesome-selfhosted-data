@@ -1,10 +1,13 @@
-name: "ConvertX"
-website_url: "https://github.com/C4illin/ConvertX"
-source_code_url: "https://github.com/C4illin/ConvertX"
-description: "Online file converter which supports over a thousand different formats."
+name: ConvertX
+website_url: https://github.com/C4illin/ConvertX
+source_code_url: https://github.com/C4illin/ConvertX
+description: Online file converter which supports over a thousand different formats.
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Miscellaneous
+stargazers_count: 2453
+updated_at: '2025-05-30'
+archived: false

@@ -1,6 +1,6 @@
 name: OliveTin
-website_url: https://github.com/OliveTin/OliveTin
-description: OliveTin is a web interface for running Linux shell commands.
+website_url: https://www.olivetin.app/
+description: Web interface for running Linux shell commands.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/OliveTin/OliveTin
-stargazers_count: 2801
-updated_at: '2025-02-21'
+stargazers_count: 3004
+updated_at: '2025-06-01'
 archived: false

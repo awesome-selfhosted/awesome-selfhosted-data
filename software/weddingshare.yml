@@ -1,0 +1,15 @@
+name: WeddingShare
+website_url: https://docs.wedding-share.org/
+demo_url: https://demo.wedding-share.org/
+source_code_url: https://github.com/Cirx08/WeddingShare
+description: Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code.
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - Photo Galleries
+stargazers_count: 485
+updated_at: '2025-05-22'
+archived: false

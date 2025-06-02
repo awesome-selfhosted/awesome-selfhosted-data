@@ -1,6 +1,6 @@
 name: changedetection.io
-website_url: https://github.com/dgtlmoon/changedetection.io
-description: Self-hosted tool for staying up-to-date with web-site content changes.
+website_url: https://changedetection.io/
+description: Stay up-to-date with web-site content changes.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/dgtlmoon/changedetection.io
-stargazers_count: 22652
-updated_at: '2025-03-17'
+stargazers_count: 24251
+updated_at: '2025-05-28'
 archived: false

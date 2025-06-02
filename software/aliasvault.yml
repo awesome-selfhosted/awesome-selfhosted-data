@@ -1,10 +1,13 @@
-name: "AliasVault"
-website_url: "https://www.aliasvault.net"
-source_code_url: "https://github.com/lanedirt/AliasVault"
-description: "End-to-end encrypted password manager with a built-in email alias generator and server."
+name: AliasVault
+website_url: https://www.aliasvault.net
+source_code_url: https://github.com/lanedirt/AliasVault
+description: End-to-end encrypted password manager with a built-in email alias generator and server.
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Password Managers
+stargazers_count: 793
+updated_at: '2025-06-01'
+archived: false

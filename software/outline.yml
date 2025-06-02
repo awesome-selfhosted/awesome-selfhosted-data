@@ -1,8 +1,8 @@
 name: Outline
 website_url: https://www.getoutline.com/
-description: An open, extensible, wiki for your team.
+description: Extensible wiki for your team.
 licenses:
-  - BSD-3-Clause
+  - BUSL-1.1
 platforms:
   - Nodejs
   - Docker
@@ -10,6 +10,6 @@ tags:
   - Wikis
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
-stargazers_count: 31090
-updated_at: '2025-03-16'
+stargazers_count: 32306
+updated_at: '2025-06-01'
 archived: false

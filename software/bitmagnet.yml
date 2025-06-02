@@ -1,7 +1,7 @@
 name: bitmagnet
 website_url: https://bitmagnet.io
 source_code_url: https://github.com/bitmagnet-io/bitmagnet
-description: A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+description: BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 licenses:
   - MIT
 platforms:
@@ -11,6 +11,6 @@ tags:
   - Archiving and Digital Preservation (DP)
   - File Transfer - Peer-to-peer Filesharing
   - Search Engines
-stargazers_count: 2817
-updated_at: '2025-03-02'
+stargazers_count: 3067
+updated_at: '2025-05-11'
 archived: false

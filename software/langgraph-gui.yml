@@ -9,7 +9,6 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Automation
   - Software Development - Low Code
   - Generative Artificial Intelligence (GenAI)
 depends_3rdparty: true

@@ -1,7 +1,7 @@
-name: "42links"
-website_url: "https://42links.tuxproject.de"
-source_code_url: "https://code.rosaelefanten.org/42links"
-description: "An open-source, web-based bookmarking server. It supports multiple accounts."
+name: 42links
+website_url: https://42links.tuxproject.de
+source_code_url: https://code.rosaelefanten.org/42links
+description: An open-source, web-based bookmarking server. It supports multiple accounts.
 licenses:
   - BSD-3-Clause-No-Military-License
 platforms:

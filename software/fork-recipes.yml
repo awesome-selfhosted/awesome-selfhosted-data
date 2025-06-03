@@ -1,5 +1,5 @@
 name: Fork Recipes
-website_url: https://mikebgrep.github.io/forkapi/clients/
+website_url: https://mikebgrep.github.io/forkapi/latest/clients/
 source_code_url: https://github.com/mikebgrep/fork.recipes
 description: Manage your food recipes with simplicity.
 licenses:
@@ -8,6 +8,6 @@ platforms:
   - Docker
 tags:
   - Recipe Management
-stargazers_count: 50
-updated_at: '2025-04-28'
+stargazers_count: 53
+updated_at: '2025-05-30'
 archived: false

@@ -1,5 +1,5 @@
 name: Otter Wiki
-website_url: https://github.com/redimp/otterwiki
+website_url: https://otterwiki.com/
 source_code_url: https://github.com/redimp/otterwiki
 description: Simple, easy to use wiki software using markdown.
 licenses:
@@ -8,6 +8,6 @@ platforms:
   - Docker
 tags:
   - Wikis
-stargazers_count: 872
-updated_at: '2025-04-28'
+stargazers_count: 907
+updated_at: '2025-05-14'
 archived: false

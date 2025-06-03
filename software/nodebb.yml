@@ -5,9 +5,11 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/NodeBB/NodeBB
-stargazers_count: 14563
-updated_at: '2025-05-03'
+demo_url: https://try.nodebb.org/
+stargazers_count: 14622
+updated_at: '2025-06-02'
 archived: false

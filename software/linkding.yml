@@ -1,15 +1,14 @@
 name: linkding
-website_url: https://github.com/sissbruecker/linkding
+website_url: https://linkding.link/
 description: Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi.
 licenses:
   - MIT
 platforms:
   - Docker
-  - Python
-  - Nodejs
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/sissbruecker/linkding
-stargazers_count: 8131
-updated_at: '2025-04-13'
+demo_url: https://demo.linkding.link/login/
+stargazers_count: 8377
+updated_at: '2025-05-30'
 archived: false

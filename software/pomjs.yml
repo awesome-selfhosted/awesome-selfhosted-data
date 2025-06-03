@@ -1,6 +1,6 @@
 name: POMjs
 website_url: https://password.oppetmoln.se/
-description: Random Password Generator.
+description: Random password generator.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/joho1968/POMjs
-stargazers_count: 40
+stargazers_count: 41
 updated_at: '2023-07-25'
 archived: false

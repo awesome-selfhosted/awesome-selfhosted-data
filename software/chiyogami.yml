@@ -5,8 +5,6 @@ description: "Self-hosted pastebin with API, client-side encryption, user accoun
 licenses:
   - BSD-3-Clause
 platforms:
-  - Go
-  - Javascript
   - Docker
 tags:
   - Pastebins

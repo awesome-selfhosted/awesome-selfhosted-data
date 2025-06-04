@@ -1,0 +1,19 @@
+# software name
+name: "LenoreShop"
+# URL of the software project's homepage
+website_url: "https://github.com/Novanglus96/LenoreShop"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/Novanglus96/LenoreShop"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "A simple collaborative shopping list supporting multiple stores/lists and aisle based organization."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - VueJS
+  - Django
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Task Management & To-do Lists

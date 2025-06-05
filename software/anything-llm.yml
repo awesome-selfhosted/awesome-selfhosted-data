@@ -5,7 +5,7 @@ description: The all-in-one Desktop & Docker AI application with built-in RAG, A
 licenses:
   - MIT
 platforms:
-  - Javascript
+  - Nodejs
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)

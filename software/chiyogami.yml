@@ -1,7 +1,7 @@
 name: "Chiyogami"
 website_url: "https://github.com/rhee876527/chiyogami"
 source_code_url: "https://github.com/rhee876527/chiyogami"
-description: "Self-hosted pastebin with API, client-side encryption, user accounts and support for syntax highlighting & markdown render."
+description: "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more."
 licenses:
   - BSD-3-Clause
 platforms:

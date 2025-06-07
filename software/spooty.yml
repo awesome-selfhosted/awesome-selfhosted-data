@@ -1,0 +1,11 @@
+name: Spooty
+website_url: https://github.com/Raiper34/spooty
+description: Download tracks/playlists/albums from the Spotify url. It can also subscribe to a playlist or author page and download new songs upon release.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Media Management
+source_code_url: https://github.com/Raiper34/spooty

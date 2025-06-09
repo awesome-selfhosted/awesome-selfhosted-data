@@ -1,0 +1,16 @@
+name: "AudioMuse-AI"
+website_url: "https://neptunehub.github.io/AudioMuse-AI/"
+source_code_url: "https://github.com/NeptuneHub/AudioMuse-AI"
+description: "AudioMuse-AI is a Dockerized environment for smart playlist generation for Jellyfin, using deep audio analysis via Essentia with TensorFlow."
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Audio
+  - Media
+  - AI
+  - Automation
+depends_3rdparty: true
+related_software_url: "https://jellyfin.org"

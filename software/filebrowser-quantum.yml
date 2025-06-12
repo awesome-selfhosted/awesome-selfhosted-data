@@ -1,0 +1,12 @@
+name: "FileBrowser Quantum"
+website_url: https://github.com/gtsteffaniak/filebrowser
+source_code_url: https://github.com/gtsteffaniak/filebrowser
+description: "The best free self-hosted web-based file manager."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - File Transfer - Web-based File Managers

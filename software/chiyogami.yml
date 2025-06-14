@@ -1,0 +1,13 @@
+name: Chiyogami
+website_url: https://github.com/rhee876527/chiyogami
+source_code_url: https://github.com/rhee876527/chiyogami
+description: Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+tags:
+  - Pastebins
+stargazers_count: 33
+updated_at: '2025-06-12'
+archived: false

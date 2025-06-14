@@ -1,6 +1,6 @@
 name: Routr
 website_url: https://routr.io
-description: A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure.
+description: Lightweight SIP proxy, location server, and registrar for a reliable and scalable SIP infrastructure.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/fonoster/routr
-stargazers_count: 1523
+stargazers_count: 1527
 updated_at: '2025-01-29'
 archived: false

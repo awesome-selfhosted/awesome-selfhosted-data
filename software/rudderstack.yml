@@ -2,7 +2,7 @@ name: RudderStack
 website_url: https://rudderstack.com/
 description: Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment).
 licenses:
-  - AGPL-3.0
+  - Elastic-2.0
 platforms:
   - Docker
   - K8S
@@ -11,6 +11,6 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/rudderlabs/rudder-server/
-stargazers_count: 4194
-updated_at: '2025-05-30'
+stargazers_count: 4209
+updated_at: '2025-06-13'
 archived: false

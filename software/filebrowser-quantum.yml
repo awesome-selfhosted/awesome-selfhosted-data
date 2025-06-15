@@ -1,0 +1,11 @@
+name: "FileBrowser Quantum"
+website_url: https://github.com/gtsteffaniak/filebrowser
+source_code_url: https://github.com/gtsteffaniak/filebrowser
+description: "Web-based file manager."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Web-based File Managers

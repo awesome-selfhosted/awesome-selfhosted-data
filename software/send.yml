@@ -1,5 +1,5 @@
 name: Send
-website_url: https://github.com/timvisee/send
+website_url: https://gitlab.com/timvisee/send
 description: Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla.
 licenses:
   - MPL-2.0
@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - File Transfer - Peer-to-peer Filesharing
-source_code_url: https://github.com/timvisee/send
-related_software_url: https://github.com/timvisee/send#clients
+source_code_url: https://gitlab.com/timvisee/send
+demo_url: https://send.vis.ee/
+related_software_url: https://gitlab.com/timvisee/send#clients
 stargazers_count: 5251
 updated_at: '2025-05-23'
 archived: false

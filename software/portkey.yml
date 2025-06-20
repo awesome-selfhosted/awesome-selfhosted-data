@@ -1,7 +1,7 @@
 name: portkey
 website_url: https://portkey.page
 source_code_url: https://github.com/kodehat/portkey
-description: A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file.
+description: Simple web portal that serves as a startup page, displaying a compilation of links and URLs, while also allowing the addition of custom pages, all managed through a single configuration file.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://demo.portkey.page
-stargazers_count: 47
-updated_at: '2025-04-15'
+stargazers_count: 55
+updated_at: '2025-06-08'
 archived: false

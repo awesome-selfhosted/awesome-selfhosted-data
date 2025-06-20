@@ -1,5 +1,5 @@
 name: Pairdrop
-website_url: https://github.com/schlagmichdoch/pairdrop
+website_url: https://pairdrop.net/
 description: Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop).
 licenses:
   - GPL-3.0
@@ -8,6 +8,6 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/schlagmichdoch/pairdrop
-stargazers_count: 6484
+stargazers_count: 7500
 updated_at: '2025-02-25'
 archived: false

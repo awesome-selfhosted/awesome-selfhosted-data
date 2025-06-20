@@ -1,0 +1,14 @@
+name: Paperless-AI
+website_url: https://github.com/clusterzx/paperless-ai/
+description: Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Document Management
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/clusterzx/paperless-ai/
+stargazers_count: 3573
+updated_at: '2025-06-18'
+archived: false

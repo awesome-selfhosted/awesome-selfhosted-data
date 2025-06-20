@@ -1,15 +1,16 @@
 name: Github Ntfy
 website_url: https://github.com/BreizhHardware/ntfy_alerts
-description: Push notifications to NTFY when a new release is available on Docker Hub or Github.
+description: Push notifications to NTFY, Gotify, Discord or Slack when a new release is available on Docker Hub or Github.
 licenses:
   - GPL-3.0
 platforms:
+  - Rust
   - Docker
 tags:
   - Automation
 source_code_url: https://github.com/BreizhHardware/ntfy_alerts
 related_software_url: https://github.com/binwiederhier/ntfy
 depends_3rdparty: true
-stargazers_count: 24
-updated_at: '2024-12-23'
+stargazers_count: 31
+updated_at: '2025-06-16'
 archived: false

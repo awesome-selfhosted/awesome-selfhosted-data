@@ -1,6 +1,6 @@
 name: Request Tracker
 website_url: https://www.bestpractical.com/rt/
-description: An enterprise-grade issue tracking system.
+description: Enterprise-grade issue tracking system.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/bestpractical/rt
-stargazers_count: 1013
-updated_at: '2025-04-22'
+stargazers_count: 1031
+updated_at: '2025-06-18'
 archived: false

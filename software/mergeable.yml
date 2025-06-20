@@ -1,0 +1,17 @@
+name: Mergeable
+website_url: https://www.usemergeable.dev
+source_code_url: https://github.com/pvcnt/mergeable
+description: A better inbox for GitHub pull requests.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Software Development - Project Management
+depends_3rdparty: true
+demo_url: https://app.usemergeable.dev
+stargazers_count: 94
+updated_at: '2025-06-02'
+archived: false

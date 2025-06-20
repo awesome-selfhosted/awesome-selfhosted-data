@@ -1,6 +1,6 @@
 name: ChartDB
 website_url: https://chartdb.io/
-description: Database diagrams editor that allows you to visualize and design your DB with a single query. 
+description: Database diagrams editor that allows you to visualize and design your DB with a single query.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +10,6 @@ tags:
   - Database Management
 source_code_url: https://github.com/chartdb/chartdb
 demo_url: https://app.chartdb.io
+stargazers_count: 17052
+updated_at: '2025-06-11'
+archived: false

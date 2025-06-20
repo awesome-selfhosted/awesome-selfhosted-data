@@ -6,7 +6,5 @@ licenses:
 platforms:
   - Docker
 tags:
-  - Onboarding
-  - Product Tour
-  - Surveys
+  - Miscellaneous 
 source_code_url: "https://github.com/usertour/usertour/"

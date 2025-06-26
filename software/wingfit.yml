@@ -6,6 +6,7 @@ licenses:
   - CC-BY-SA-4.0
 platforms:
   - Python
+  - Docker
 tags:
   - Health and Fitness
 demo_url: "https://wingfit.fr/home"

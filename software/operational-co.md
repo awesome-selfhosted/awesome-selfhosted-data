@@ -6,7 +6,6 @@ licenses:
   - AGPL-3.0
 platforms:
   - Nodejs
-  - Javascript
   - Docker
 tags:
   - Self-hosting Solutions

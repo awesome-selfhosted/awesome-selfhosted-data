@@ -5,7 +5,6 @@ description: "A performant, stable uptime & SSL monitoring service that just wor
 licenses:
   - Apache-2.0
 platforms:
-  - Kotlin
   - Docker
 tags:
   - Status / Uptime pages

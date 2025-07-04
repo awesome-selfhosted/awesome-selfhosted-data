@@ -1,6 +1,6 @@
 name: "Operational.co"
 website_url: "https://operational.co"
-source_code_url: "[https://github.com/awesome/software](https://github.com/operational-co/operational.co)"
+source_code_url: "https://github.com/operational-co/operational.co"
 description: "Event tracker for your tech product"
 licenses:
   - AGPL-3.0

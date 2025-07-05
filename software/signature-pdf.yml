@@ -5,7 +5,6 @@ description: "Free open source web software for signing PDFs (alone or with othe
 licenses:
   - AGPL-3.0
 platforms:
-  - Javascript
   - PHP
   - Shell
   - deb

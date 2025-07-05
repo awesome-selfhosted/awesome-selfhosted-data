@@ -1,12 +1,11 @@
 name: "CheckCle"
 website_url: "https://checkcle.io"
 source_code_url: "https://gitlab.com/operacle/checkcle"
-description: "A solution for seamless, real-time monitoring of full-stack systems, applications, and infrastructure. It provides developers, sysadmins, and DevOps teams with deep insights and actionable data across every layer of their environment—whether it's servers, applications, or services. With CheckCle, you gain visibility, control, and the ability to ensure optimal performance throughout your entire technology stack."
+description: "A solution for seamless, real-time monitoring of full-stack systems, applications, and infrastructure."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - Monitoring
   - Status / Uptime pages
 demo_url: "https://demo.checkcle.io"

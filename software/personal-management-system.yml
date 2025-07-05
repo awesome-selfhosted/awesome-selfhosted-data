@@ -5,7 +5,6 @@ description: "Organize the essentials of everyday life, everything from a simple
 licenses:
   - MIT
 platforms:
-  - PHP
   - Docker
 tags:
   - Personal Dashboards

@@ -1,0 +1,13 @@
+name: "UUSEC WAF"
+website_url: "https://uuwaf.uusec.com"
+source_code_url: "https://github.com/Safe3/uuWAF"
+description: "An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF."
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+  - Lua
+  - Docker
+tags:
+  - Proxy
+  - Web Servers

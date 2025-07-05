@@ -1,0 +1,12 @@
+name: "Hypersomnia"
+website_url: "https://github.com/TeamHypersomnia/Hypersomnia"
+source_code_url: "https://github.com/TeamHypersomnia/Hypersomnia"
+description: "Competitive top-down shooter blending Counter-Strike with Hotline Miami. Runs on Linux, Windows, MacOS and the Web."
+licenses:
+  - AGPL-3.0
+platforms:
+  - C++
+  - Docker
+tags:
+  - Games
+demo_url: "https://hypersomnia.io"

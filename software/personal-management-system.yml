@@ -1,0 +1,12 @@
+name: "Personal Management System"
+website_url: "https://volmarg.github.io/"
+source_code_url: "https://github.com/Volmarg/personal-management-system"
+description: "A web application for managing personal data."
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Personal Dashboards
+demo_url: "http://personal-management-system.pl/"

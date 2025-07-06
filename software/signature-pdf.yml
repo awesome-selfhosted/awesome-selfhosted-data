@@ -1,7 +1,7 @@
 name: "Signature PDF"
 website_url: "https://github.com/24eme/signaturepdf"
 source_code_url: "https://github.com/24eme/signaturepdf"
-description: "Free open source web software for signing PDFs (alone or with others) and manipulating them (organizing pages, editing metadata, compressing PDFs, etc)."
+description: "Sign and manipulate PDFs with collaboration, organization, compression and metadata editing."
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,0 +1,13 @@
+name: Gatus (prebuilt binaries)
+website_url: https://github.com/MiguVT/gatus-binary/actions
+source_code_url: https://github.com/MiguVT/gatus-binary/
+description: Automated service health dashboard (fork of Gatus) with automatic upstream sync and prebuilt multi-platform binaries.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Status / Uptime pages
+demo_url: https://status.twin.sh
+archived: false
+updated_at: '2025-07-06'

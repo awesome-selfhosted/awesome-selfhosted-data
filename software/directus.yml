@@ -2,13 +2,13 @@ name: Directus
 website_url: https://directus.io/
 description: An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users.
 licenses:
-  - GPL-3.0
+  - BUSL-1.1
 platforms:
   - Nodejs
   - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/directus/directus
-stargazers_count: 30487
-updated_at: '2025-05-14'
+stargazers_count: 31430
+updated_at: '2025-07-01'
 archived: false

@@ -1,6 +1,6 @@
 name: Omeka S
 website_url: https://omeka.org/s/
-description: next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online.
+description: Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/omeka/omeka-s
-stargazers_count: 434
-updated_at: '2025-04-29'
+stargazers_count: 439
+updated_at: '2025-06-30'
 archived: false

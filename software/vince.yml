@@ -1,0 +1,17 @@
+name: Vince
+website_url: https://www.vinceanalytics.com/
+source_code_url: https://github.com/vinceanalytics/vince
+description: Web analytics and dashboard (alternative to Google Analytics).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+  - deb
+tags:
+  - Analytics
+demo_url: https://demo.vinceanalytics.com/v1/share/vinceanalytics.com?auth=Ls9tV4pzqOn7BJ7-&demo=true
+stargazers_count: 1891
+updated_at: '2025-03-16'
+archived: false

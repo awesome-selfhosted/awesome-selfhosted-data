@@ -1,0 +1,13 @@
+name: "Storyden"
+website_url: "https://www.storyden.org"
+source_code_url: "https://github.com/Southclaws/storyden"
+description: "Storyden is the platform for managing community and content, wherever they call home. Run a forum, a blog, post news, curate cool sites, build a directory, a knowledgebase and more."
+licenses:
+  - MPL-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Communication - Social Networks and Forums
+  - Wikis
+demo_url: https://makeroom.club

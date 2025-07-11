@@ -5,9 +5,8 @@ description: "A cloud native image registry that stores, signs, and scans conten
 licenses:
   - Apache-2.0
 platforms:
-  - Go
-  - Javascript
   - Docker
+  - K8S
 tags:
   - Software Development - Project Management
 

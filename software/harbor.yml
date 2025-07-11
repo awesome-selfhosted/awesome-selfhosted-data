@@ -1,0 +1,13 @@
+name: "Harbor"
+website_url: "https://goharbor.io/"
+source_code_url: "https://github.com/goharbor/harbor"
+description: "A cloud native image registry that stores, signs, and scans content."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Javascript
+  - Docker
+tags:
+  - Software Development - Project Management
+

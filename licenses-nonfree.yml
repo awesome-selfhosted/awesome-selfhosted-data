@@ -1,5 +1,9 @@
 # non-Free (https://en.wikipedia.org/wiki/Free_software) licenses
 # any time a new license is added here, exclude/include_licenses must be updated in .hecat/export-*.yml
+- identifier: BSD-3-Clause-No-Military-License
+  name: BSD 3-Clause No Military License
+  url: https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html
+  
 - identifier: BUSL-1.1
   name: Business Source License 1.1
   url: https://spdx.org/licenses/BUSL-1.1.html

@@ -1,0 +1,10 @@
+name: Telebugs
+website_url: https://telebugs.com/
+source_code_url: https://telebugs.com/
+description: Lightweight error tracker without a subscription (alternative to Sentry).
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Ticketing

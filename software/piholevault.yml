@@ -1,0 +1,12 @@
+name: "PiHoleVault"
+website_url: "https://github.com/TheInfamousToTo/PiHoleVault"
+source_code_url: "https://github.com/TheInfamousToTo/PiHoleVault"
+description: "Comprehensive web-based solution for managing Pi-hole backups with automated scheduling, SSH key management, Discord notifications, and global analytics featuring a modern React frontend."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - DNS
+  - Backup

@@ -1,0 +1,14 @@
+
+name: "Betterlytics"
+website_url: "https://betterlytics.io"
+source_code_url: "https://github.com/betterlytics/betterlytics"
+description: "Privacy-first, cookieless, open source web analytics platform; no cookies or personal data collected. A GDPR-compliant alternative to Google Analytics."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: false

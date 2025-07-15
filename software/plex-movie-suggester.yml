@@ -1,0 +1,11 @@
+name: "Plex Movie Suggester"
+website_url: "https://github.com/TheInfamousToTo/plex-suggester"
+source_code_url: "https://github.com/TheInfamousToTo/plex-suggester"
+description: "Modern Flask app that connects to your Plex server and suggests random unwatched movies with JWT authentication, Plex Match functionality, and responsive UI."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Video Streaming

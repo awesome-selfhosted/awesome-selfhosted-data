@@ -1,7 +1,7 @@
-name: "Wingfit"
-website_url: "https://wingfit.fr"
-source_code_url: "https://github.com/itskovacs/wingfit"
-description: "Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data."
+name: Wingfit
+website_url: https://wingfit.fr
+source_code_url: https://github.com/itskovacs/wingfit
+description: Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data.
 licenses:
   - CC-BY-SA-4.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
   - Docker
 tags:
   - Health and Fitness
-demo_url: "https://wingfit.fr/home"
+demo_url: https://wingfit.fr/home
+stargazers_count: 129
+updated_at: '2025-07-09'
+archived: false

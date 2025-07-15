@@ -1,7 +1,7 @@
-name: "Papra"
-website_url: "https://papra.app"
-source_code_url: "https://github.com/papra-hq/papra/"
-description: "Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone."
+name: Papra
+website_url: https://papra.app
+source_code_url: https://github.com/papra-hq/papra/
+description: Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,4 +9,7 @@ platforms:
 tags:
   - Document Management
   - Archiving and Digital Preservation (DP)
-demo_url: "https://demo.papra.app/"
+demo_url: https://demo.papra.app/
+stargazers_count: 1876
+updated_at: '2025-07-14'
+archived: false

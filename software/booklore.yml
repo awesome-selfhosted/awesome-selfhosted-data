@@ -1,7 +1,7 @@
 name: "BookLore"
 website_url: "https://github.com/adityachandelgit/BookLore"
 source_code_url: "https://github.com/adityachandelgit/BookLore"
-description: "A web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats."
+description: "Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats."
 licenses:
   - GPL-3.0
 platforms:

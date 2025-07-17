@@ -1,0 +1,17 @@
+name: Reia
+website_url: https://www.playreia.com
+description: RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.
+licenses:
+  - AGPL-3.0
+platforms:
+  - GDScript
+  - Rust
+  - Zig
+  - SQLite
+  - PostgreSQL
+tags:
+  - Games
+source_code_url: https://github.com/quaint-studios/reia
+archived: false
+stargazers_count: 515
+updated_at: '2025-07-16'

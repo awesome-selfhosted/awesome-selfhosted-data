@@ -1,11 +1,14 @@
-name: "Personal Management System"
-website_url: "https://volmarg.github.io/"
-source_code_url: "https://github.com/Volmarg/personal-management-system"
-description: "Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules."
+name: Personal Management System
+website_url: https://volmarg.github.io/
+source_code_url: https://github.com/Volmarg/personal-management-system
+description: Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules.
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Personal Dashboards
-demo_url: "https://github.com/Volmarg/personal-management-system#documentation--demo"
+demo_url: https://github.com/Volmarg/personal-management-system#documentation--demo
+stargazers_count: 3473
+updated_at: '2025-07-23'
+archived: false

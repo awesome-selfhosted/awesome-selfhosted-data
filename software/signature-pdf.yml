@@ -1,7 +1,7 @@
-name: "Signature PDF"
-website_url: "https://github.com/24eme/signaturepdf"
-source_code_url: "https://github.com/24eme/signaturepdf"
-description: "Sign and manipulate PDFs with collaboration, organization, compression and metadata editing."
+name: Signature PDF
+website_url: https://github.com/24eme/signaturepdf
+source_code_url: https://github.com/24eme/signaturepdf
+description: Sign and manipulate PDFs with collaboration, organization, compression and metadata editing.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,4 +10,7 @@ platforms:
   - Docker
 tags:
   - Document Management
-demo_url: "https://pdf.24eme.fr/"
+demo_url: https://pdf.24eme.fr/
+stargazers_count: 594
+updated_at: '2025-07-21'
+archived: false

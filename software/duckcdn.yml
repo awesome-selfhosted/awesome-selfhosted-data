@@ -1,0 +1,14 @@
+name: "DuckCDN"
+website_url: "https://github.com/freeutka/DuckCDN"
+source_code_url: "https://github.com/freeutka/DuckCDN'
+description: "A simple and minimalistic image CDN built with PHP."
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - File Transfer
+  - Media Management
+  - Self-hosting Solutions
+  - Automation
+depends_3rdparty: false

@@ -5,7 +5,6 @@ description: "Project management platform focused on simplicity and efficiency."
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - K8S
   - Docker
 tags:

@@ -1,6 +1,6 @@
 name: Matchering
 website_url: https://github.com/sergree/matchering
-description: A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel).
+description: Automated music mastering (alternative to LANDR, eMastered, and MajorDecibel).
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/sergree/matchering
-stargazers_count: 2016
-updated_at: '2025-03-05'
+stargazers_count: 2153
+updated_at: '2025-07-22'
 archived: false

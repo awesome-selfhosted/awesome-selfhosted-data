@@ -1,6 +1,6 @@
 name: MediaCMS
 website_url: https://mediacms.io
-description: MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API.
+description: Modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,8 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Video Streaming
+  - Content Management Systems (CMS)
 source_code_url: https://github.com/mediacms-io/mediacms
-stargazers_count: 3329
-updated_at: '2025-04-07'
+stargazers_count: 3690
+updated_at: '2025-07-07'
 archived: false

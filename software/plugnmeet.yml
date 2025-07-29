@@ -1,6 +1,6 @@
 name: plugNmeet
 website_url: https://www.plugnmeet.org/
-description: Scalable, High Performance, Open source web conferencing system.
+description: Scalable and high performance web conferencing system.
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,6 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/mynaparrot/plugNmeet-server
 demo_url: https://demo.plugnmeet.com/login.html
-stargazers_count: 350
-updated_at: '2025-04-10'
+stargazers_count: 381
+updated_at: '2025-07-19'
 archived: false

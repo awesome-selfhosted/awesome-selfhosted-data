@@ -1,5 +1,5 @@
 name: Actual
-website_url: https://actualbudget.github.io/docs/
+website_url: https://actualbudget.org
 description: Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks.
 licenses:
   - MIT
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/actualbudget/actual
-stargazers_count: 18382
-updated_at: '2025-04-17'
+stargazers_count: 20495
+updated_at: '2025-07-28'
 archived: false

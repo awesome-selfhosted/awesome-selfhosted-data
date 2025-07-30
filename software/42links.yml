@@ -1,0 +1,10 @@
+name: 42links
+website_url: https://42links.tuxproject.de
+source_code_url: https://code.rosaelefanten.org/42links
+description: Bookmarking server supporting multiple accounts.
+licenses:
+  - BSD-3-Clause-No-Military-License
+platforms:
+  - CommonLisp
+tags:
+  - Bookmarks and Link Sharing

@@ -1,0 +1,18 @@
+name: "Sync-in"
+website_url: "https://sync-in.com"
+source_code_url: "https://github.com/Sync-in/server"
+description: "Self-hosted platform for file storage, sync, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer & Synchronization
+  - File Transfer - Web-based File Managers
+  - Groupware
+depends_3rdparty: false
+demo_url: "https://demo.sync-in.com"
+demo_login: demo
+demo_password: demo
+related_software_url: "https://github.com/Sync-in"

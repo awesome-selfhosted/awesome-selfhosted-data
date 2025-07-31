@@ -1,0 +1,13 @@
+name: "CoderScreen"
+website_url: "https://www.coderscreen.com/"
+source_code_url: "https://github.com/CoderScreen/coderscreen"
+description: "Modern, open-source technical hiring platform"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - Javascript
+tags:
+  - Human Resources Management (HRM)
+depends_3rdparty: true

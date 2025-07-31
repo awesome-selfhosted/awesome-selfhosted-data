@@ -1,7 +1,7 @@
 name: "Sync-in"
 website_url: "https://sync-in.com"
 source_code_url: "https://github.com/Sync-in/server"
-description: "Self-hosted platform for file storage, sync, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients."
+description: "File storage, syncing, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients."
 licenses:
   - AGPL-3.0
 platforms:

@@ -1,0 +1,13 @@
+name: LumenTrace
+website_url: https://github.com/patricksmith0330/lumentrace
+source_code_url: https://github.com/patricksmith0330/lumentrace
+description: Monitors UPS status and automatically sends Wake-on-LAN packets to devices after power outage.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Status / Uptime pages
+stargazers_count: 0
+updated_at: '2025-07-31'
+archived: false

@@ -1,0 +1,90 @@
+
+    .tag {
+        background-color: #DBEAFE;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #1E40AF;
+        font-weight: bold;
+        display: inline-block;
+    }
+    .tag a {
+        text-decoration: none
+    }
+    .platform {
+        background-color: #B0E6A3;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #2B4026;
+        font-weight: bold;
+        display: inline-block;
+    }
+    .platform a {
+        text-decoration: none;
+        color: #2B4026;
+    }
+    .license-box {
+        background-color: #A7C7F9;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        display: inline-block;
+    }
+    .license-link {
+        color: #173B80;
+        font-weight: bold;
+        text-decoration: none
+    }
+    .stars {
+        background-color: #FFFCAB;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #856000;
+        font-weight: bold;
+        display: inline-block;
+    }
+    .updated-at {
+        background-color: #EFEFEF;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #444444;
+        display: inline-block;
+        font-weight: bold
+    }
+    .orangebox {
+        background-color: #FD9D49;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #FFFFFF;
+        display: inline-block;
+        font-weight: bold
+    }
+    .redbox {
+        background-color: #FD4949;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        color: #FFFFFF;
+        display: inline-block;
+        font-weight: bold
+    }
+    .external-link-box {
+        background-color: #1E40AF;
+        border-radius: 5px;
+        padding: 2px 8px 0px 8px;
+        display: inline-block;
+    }
+    .external-link {
+        color: #DBEAFE;
+        font-weight: bold;
+        text-decoration: none
+    }
+    .external-link a:hover {
+        color: #FFF;
+    }
+    .sd-octicon {
+        vertical-align: inherit
+    }
+    hr.docutils {
+        margin: 1rem 0;
+    }
+    .sidebar-brand-text {
+        font-size: 1.4rem;
+    }

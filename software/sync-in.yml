@@ -11,8 +11,5 @@ tags:
   - File Transfer & Synchronization
   - File Transfer - Web-based File Managers
   - Groupware
-depends_3rdparty: false
-demo_url: "https://demo.sync-in.com"
-demo_login: demo
-demo_password: demo
+demo_url: "https://sync-in.com/docs/demo"
 related_software_url: "https://github.com/Sync-in"

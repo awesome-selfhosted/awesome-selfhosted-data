@@ -1,0 +1,19 @@
+name: "Colanode"
+website_url: "https://colanode.com"
+source_code_url: "https://github.com/colanode/colanode"
+description: "Open-source and local-first Slack and Notion alternative that puts you in control of your data."
+licenses:
+  - Apache-2.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Note-taking & Editors
+  - Knowledge Management Tools
+  - Communication - Custom Communication Systems
+  - File Transfer - Web-based File Managers
+  - Office Suites
+  - Task Management & To-do Lists
+  - Wikis
+depends_3rdparty: false

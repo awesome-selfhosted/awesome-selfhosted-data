@@ -5,8 +5,7 @@ description: "Open-source and local-first Slack and Notion alternative that puts
 licenses:
   - Apache-2.0
 platforms:
-  - Javascript
-  - Nodejs
+  - K8S
   - Docker
 tags:
   - Note-taking & Editors

@@ -1,7 +1,7 @@
-name: "Flare"
-website_url: "https://github.com/FlintSH/Flare"
-source_code_url: "https://github.com/FlintSH/Flare"
-description: "A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more."
+name: Flare
+website_url: https://github.com/FlintSH/Flare
+source_code_url: https://github.com/FlintSH/Flare
+description: A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more.
 licenses:
   - MIT
 platforms:
@@ -12,3 +12,6 @@ tags:
   - File Transfer - Web-based File Managers
   - File Transfer - Object Storage & File Servers
   - URL Shorteners
+stargazers_count: 41
+updated_at: '2025-08-02'
+archived: false

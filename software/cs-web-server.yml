@@ -1,0 +1,12 @@
+name: Counter-Strike 1.6 Web Server
+source_code_url: https://github.com/yohimik/webxash3d-fwgs/tree/main/docker/cs-web-server
+description: Counter-Strike 1.6 i386 Dedicated Server with web client.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Games
+stargazers_count: 118
+updated_at: '2025-09-08'
+archived: false

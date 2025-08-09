@@ -1,0 +1,14 @@
+name: "Libre Workspace"
+website_url: "https://www.libre-workspace.org/"
+source_code_url: "https://github.com/Jean28518/libre-workspace"
+description: "modern Cloud-Server for individuals/small organisations, based on Debian Linux, with built in Nextcloud, Matrix, Jitsi, Samba, BorgBackup and a Linux Desktop as Workspace, Extensible."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Shell
+  - Deb
+  - Docker
+tags:
+  - Self-hosting Solutions
+depends_3rdparty: false

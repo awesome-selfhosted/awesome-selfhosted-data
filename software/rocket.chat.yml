@@ -1,6 +1,6 @@
 name: Rocket.Chat
 website_url: https://rocket.chat/
-description: Teamchat solution similar to Gitter.im or Slack.
+description: Communications platform that puts data protection first (alternative to Gitter.im or Slack).
 licenses:
   - MIT
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/RocketChat/Rocket.Chat
-stargazers_count: 42776
-updated_at: '2025-06-07'
+stargazers_count: 43159
+updated_at: '2025-08-08'
 archived: false

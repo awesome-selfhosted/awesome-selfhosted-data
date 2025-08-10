@@ -1,0 +1,13 @@
+name: Kuvasz Uptime
+website_url: https://kuvasz-uptime.dev
+source_code_url: https://github.com/kuvasz-uptime/kuvasz
+description: Performant, stable uptime & SSL monitoring service that just works.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Status / Uptime pages
+stargazers_count: 198
+updated_at: '2025-08-09'
+archived: false

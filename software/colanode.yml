@@ -1,7 +1,7 @@
 name: "Colanode"
 website_url: "https://colanode.com"
 source_code_url: "https://github.com/colanode/colanode"
-description: "Open-source and local-first Slack and Notion alternative that puts you in control of your data."
+description: "Colanode is an open-source collaboration suite with real-time messaging, rich text pages, file management, and dynamic databases - built for offline work. An alternative to Slack and Notion."
 licenses:
   - Apache-2.0
 platforms:

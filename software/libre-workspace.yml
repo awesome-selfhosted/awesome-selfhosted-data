@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Python
   - Shell
-  - Deb
+  - deb
   - Docker
 tags:
   - Self-hosting Solutions

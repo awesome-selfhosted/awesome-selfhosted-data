@@ -1,0 +1,12 @@
+name: "Medama Analytics"
+website_url: "https://oss.medama.io"
+source_code_url: "https://github.com/medama-io/medama"
+description: "Privacy-first website analytics. Tiny, self-hosted, and cookie-free."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Analytics
+demo_url: "https://demo.medama.io"

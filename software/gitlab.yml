@@ -1,16 +1,14 @@
-name: Keploy
-website_url: https://keploy.io
-description: Open-source API testing platform that generates tests and mocks from API calls, enabling faster and more reliable development without writing additional test code.
+name: GitLab
+website_url: https://about.gitlab.com
+description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
 licenses:
-  - Apache-2.0
+  - MIT
 platforms:
-  - Go
+  - Ruby
+  - deb
   - Docker
-  - Linux
-  - CI/CD
+  - K8S
 tags:
-  - API Testing
-  - Software Testing
-  - Developer Tools
-source_code_url: https://github.com/keploy/keploy
-demo_url: https://keploy.io/docs/
+  - Software Development - Project Management
+source_code_url: https://gitlab.com/gitlab-org/gitlab-foss
+demo_url: https://gitlab.com/

@@ -1,6 +1,6 @@
 name: Keploy
 website_url: https://keploy.io
-description: Open-source API testing platform that generates tests and mocks from API calls, enabling faster and more reliable development without writing additional test code.
+description: API testing platform that generates tests and mocks from API calls, enabling faster and more reliable development without writing additional test code.
 licenses:
   - Apache-2.0
 platforms:

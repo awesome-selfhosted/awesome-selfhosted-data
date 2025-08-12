@@ -6,11 +6,7 @@ licenses:
 platforms:
   - Go
   - Docker
-  - Linux
 tags:
-  - API Testing
-  - Software Testing
-  - Developer Tools
-  - Testing
+  - Software Development - Testing
 source_code_url: https://github.com/keploy/keploy
 demo_url: https://keploy.io/docs/

@@ -7,10 +7,10 @@ platforms:
   - Go
   - Docker
   - Linux
-  - CI/CD
 tags:
   - API Testing
   - Software Testing
   - Developer Tools
+  - Testing
 source_code_url: https://github.com/keploy/keploy
 demo_url: https://keploy.io/docs/

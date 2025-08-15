@@ -1,0 +1,11 @@
+name: "OpenVidu"
+website_url: "https://openvidu.io/"
+source_code_url: "https://github.com/openvidu/openvidu"
+description: "Web conferencing software that works on WebRTC. It supports high-quality video and audio, screen-sharing and meeting recording and streaming. It also has a variety of SDKs and APIs."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Conference Management
+depends_3rdparty: true

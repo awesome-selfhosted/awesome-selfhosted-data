@@ -6,7 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Rust
-  - K8s
+  - K8S
 tags:
   - Self-hosting Solutions
 depends_3rdparty: false

@@ -1,7 +1,7 @@
 name: "Nirvati"
 website_url: "https://nirvati.org"
 source_code_url: "https://gitlab.com/nirvati-ug/nirvati"
-description: "A server management platform to easily self-host popular apps."
+description: "Easily self-host popular apps."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,4 +9,3 @@ platforms:
   - K8S
 tags:
   - Self-hosting Solutions
-depends_3rdparty: false

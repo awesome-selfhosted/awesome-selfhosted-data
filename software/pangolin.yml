@@ -1,0 +1,14 @@
+name: "Pangolin"
+website_url: "https://digpangolin.com/"
+source_code_url: "https://github.com/fosrl/pangolin"
+description: "Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Linux
+tags:
+  - Proxy
+  - Identity Management
+  - Remote Access
+demo_url: "https://pangolin.fossorial.io"

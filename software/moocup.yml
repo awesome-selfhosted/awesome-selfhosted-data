@@ -6,12 +6,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - JavaScript
-  - Nodejs
   - Docker
 tags:
-  - Low Code
-  - Screenshot editor
-  - Mockup
+  - Software Development - Low Code
+  - Software Development
   - Image Galleries and Photo Management
+  - Miscellaneous
 depends_3rdparty: false
 demo_url: "https://moocup.jaydip.me"

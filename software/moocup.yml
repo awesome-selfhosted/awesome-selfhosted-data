@@ -6,6 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - Javascript
 tags:
   - Software Development - Project Management
   - Software Development - Low Code

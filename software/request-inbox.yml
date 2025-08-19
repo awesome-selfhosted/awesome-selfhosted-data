@@ -6,7 +6,6 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
-  - Nodejs
   - Docker
 tags:
   - Software Development - Testing

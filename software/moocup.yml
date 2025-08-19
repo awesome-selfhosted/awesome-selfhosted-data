@@ -1,0 +1,17 @@
+name: "Moocup"
+website_url: "https://github.com/jellydeck/moocup"
+source_code_url: "https://github.com/jellydeck/moocup"
+description: "Visual editor to create styled screenshots by dropping an image, customizing style with single click export to Webp, JPEG, PNG"
+licenses:
+  - AGPL-3.0
+platforms:
+  - JavaScript
+  - Nodejs
+  - Docker
+tags:
+  - Low Code
+  - Screenshot editor
+  - Mockup
+  - Image Galleries and Photo Management
+depends_3rdparty: false
+demo_url: "https://moocup.jaydip.me"

@@ -5,7 +5,6 @@ description: "Visual editor for creating styled screenshots by dropping an image
 licenses:
   - AGPL-3.0
 platforms:
-  - JavaScript
   - Docker
 tags:
   - Software Development - Project Management

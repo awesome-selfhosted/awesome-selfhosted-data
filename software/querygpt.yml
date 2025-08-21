@@ -1,0 +1,15 @@
+name: QueryGPT
+website_url: https://github.com/MKY508/QueryGPT
+description: Natural language database query system - Convert Chinese/English questions to SQL/Python code and visualize results. Based on OpenInterpreter.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Database Management
+  - Analytics
+source_code_url: https://github.com/MKY508/QueryGPT
+stargazers_count: 0
+updated_at: '2025-08-21'
+archived: false

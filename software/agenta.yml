@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Python
+  - Javascript
 tags:
   - Software Development - IDE & Tools
-demo_url: https://cloud.agenta.ai/

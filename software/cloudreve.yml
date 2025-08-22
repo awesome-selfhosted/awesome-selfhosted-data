@@ -1,0 +1,13 @@
+name: Cloudreve
+website_url: https://cloudreve.org/
+description: Self-hosted file management and sharing system, supports multiple storage providers.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - File Transfer & Synchronization
+  - Groupware
+source_code_url: https://github.com/cloudreve/cloudreve
+demo_url: https://demo.cloudreve.org

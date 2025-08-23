@@ -1,14 +1,14 @@
 name: Medusa
 website_url: https://github.com/pymedusa/Medusa
-description: Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+description: Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Automation
+  - Media Management
 source_code_url: https://github.com/pymedusa/Medusa
 related_software_url: https://github.com/medusajs/nextjs-starter-medusa
-stargazers_count: 1854
+stargazers_count: 1886
 updated_at: '2024-12-13'
 archived: false

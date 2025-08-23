@@ -1,6 +1,6 @@
 name: flatnotes
 website_url: https://github.com/dullage/flatnotes
-description: A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage.
+description: Database-less note-taking web app that utilises a flat folder of markdown files for storage.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/dullage/flatnotes
 demo_url: https://demo.flatnotes.io
-stargazers_count: 1980
-updated_at: '2025-02-17'
+stargazers_count: 2276
+updated_at: '2025-06-20'
 archived: false

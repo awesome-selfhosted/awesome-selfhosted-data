@@ -1,6 +1,6 @@
 name: Mailu
 website_url: https://mailu.io/
-description: Mailu is a simple yet full-featured mail server as a set of Docker images.
+description: Simple yet full-featured mail server as a set of Docker images.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/Mailu/Mailu
-stargazers_count: 6317
-updated_at: '2025-03-16'
+stargazers_count: 6736
+updated_at: '2025-08-22'
 archived: false

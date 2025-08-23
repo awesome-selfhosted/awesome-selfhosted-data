@@ -1,0 +1,14 @@
+name: cmyflix
+website_url: https://github.com/farfalleflickan/cmyflix
+source_code_url: https://github.com/farfalleflickan/cmyflix
+description: Minimalist Plex/Jellyfin alternative to stream video.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+  - deb
+tags:
+  - Media Streaming - Multimedia Streaming
+stargazers_count: 177
+updated_at: '2025-07-30'
+archived: false

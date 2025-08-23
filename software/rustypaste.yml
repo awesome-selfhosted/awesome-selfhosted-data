@@ -1,6 +1,6 @@
 name: rustypaste
 website_url: https://github.com/orhun/rustypaste
-description: A minimal file upload/pastebin service.
+description: Minimal file upload/pastebin service.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Pastebins
 source_code_url: https://github.com/orhun/rustypaste
-stargazers_count: 870
-updated_at: '2025-03-21'
+stargazers_count: 958
+updated_at: '2025-08-22'
 archived: false

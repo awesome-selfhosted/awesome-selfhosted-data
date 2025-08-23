@@ -1,6 +1,6 @@
 name: Judge0 CE
 website_url: https://judge0.com
-description: Open source API to compile and run source code.
+description: API to compile and run source code.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/judge0/judge0
-stargazers_count: 3046
-updated_at: '2025-02-04'
+stargazers_count: 3431
+updated_at: '2025-06-19'
 archived: false

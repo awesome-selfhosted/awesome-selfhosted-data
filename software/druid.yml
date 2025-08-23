@@ -1,5 +1,5 @@
 name: Druid
-website_url: http://druid.io/
+website_url: https://druid.apache.org
 description: Distributed, column-oriented, real-time analytics data store.
 licenses:
   - Apache-2.0
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/apache/druid
-stargazers_count: 13645
-updated_at: '2025-03-21'
+stargazers_count: 13803
+updated_at: '2025-08-22'
 archived: false

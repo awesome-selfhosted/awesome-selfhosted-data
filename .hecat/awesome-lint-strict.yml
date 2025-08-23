@@ -21,3 +21,5 @@ steps:
         - https://github.com/oupala/apaxy # static HTML/CSS, simple/no maintenance required
         - https://github.com/joho1968/POMjs # simple/no maintenance required
         - https://github.com/apankrat/nullboard # static HTML/CSS/JS, simple/no maintenance required
+        - https://github.com/openspeedtest/Speed-Test # simple HTML/CSS/JS project with no external dependencies
+        - https://github.com/clangen/musikcube # simple C++ application with no dependencies

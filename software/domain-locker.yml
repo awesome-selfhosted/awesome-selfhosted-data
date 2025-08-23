@@ -1,0 +1,15 @@
+name: Domain Locker
+website_url: https://domain-locker.com
+source_code_url: https://github.com/lissy93/domain-locker
+description: Domain name portfolio management and tracker.
+licenses:
+  - MIT
+platforms:
+  - Deno
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: https://demo.domain-locker.com
+stargazers_count: 296
+updated_at: '2025-07-27'
+archived: false

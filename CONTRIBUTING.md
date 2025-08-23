@@ -5,12 +5,14 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 ### Curation
 
 - Software with no development activity for 6-12 months may be removed from the list
-- Unmaintained software without an active community and/or persistent security issues may be removed from the list
+- Non-working software may be removed from the list
+- Unmaintained software without an active community may be removed from the list
+- Software with persistent, serious security issues will be removed from the list
 - Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### Add software to the list
 
-- [Create a new `software/software-name.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md). Please use [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) for file naming, for example `my-awesome-software.yml`.
+- [Create a new `software/software-name.yml` file](https://github.com/awesome-selfhosted/awesome-selfhosted-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md). Please use [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) for file naming, for example, `my-awesome-software.yml`.
 - Remove comments and unused optional fields
 - Enter a descriptive commit message (such as `add My Awesome software`)
 - Select `Create a new branch for this commit and start a pull request`
@@ -24,7 +26,7 @@ In [single page mode](https://github.com/awesome-selfhosted/awesome-selfhosted) 
 
 ### Add a tag/category
 
-Tags represent functional categories/features of the software, and must be added to `tags/tag-name.yml` (use [existing tags](tags/) as example). Any tag must have a minimum of 3 software projects referencing it. The [`Miscellaneous`](tags/miscellaneous.yml) tag can be used for software not matching any existing category.
+Tags represent functional categories/features of the software and must be added to `tags/tag-name.yml` (use [existing tags](tags/) as an example). Any tag must have a minimum of 3 software projects referencing it. The [`Miscellaneous`](tags/miscellaneous.yml) tag can be used for software not matching any existing category.
 
 ```yaml
 # project name
@@ -48,7 +50,7 @@ redirect:
 
 ### Add a license
 
-[Free and Open-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) software licenses (preferably [SPDX identifier](https://spdx.org/licenses/), or custom licenses, must be added to `licenses.yml` (use [existing licenses](licenses.yml) as example):
+[Free and Open-Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) software licenses (preferably [SPDX identifier](https://spdx.org/licenses/), or custom licenses, must be added to `licenses.yml` (use [existing licenses](licenses.yml) as an example):
 
 ```yaml
   # short license identifier
@@ -61,7 +63,7 @@ redirect:
 
 ### Add a language/platform
 
-Languages/requirements/technologies used to run or build the software should be listed in `platforms/platform-name.yml` (use [existing platforms](platforms/) as example):
+Languages/requirements/technologies used to run or build the software should be listed in `platforms/platform-name.yml` (use [existing platforms](platforms/) as an example):
 
 ```yaml
 # language/platform name
@@ -75,7 +77,7 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 Simply delete the appropriate file under `software/` and submit a Pull Request.
 To do this from Github's web interface:
 - use the [go to file](https://github.com/awesome-selfhosted/awesome-selfhosted-data?search=1) feature to open the appropriate file (e.g. [`software/redash.yml`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/software/redash.yml))
-- Click the `...` button at the top right of the file view, click `Delete file`
+- Click the `...` button at the top right of the file view, and click `Delete file`
 - In the `Commit changes` dialog, enter `Remove SOFTWARE_NAME (reason)` as your commit message, additional context in the `extended description` field, select `Create a new branch for this commit and start a pull request.`, and click `Commit Changes`
 
 
@@ -95,6 +97,14 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
 - If the project distributes a single static binary, please add the programming language in which it is written.
 
+### What does not qualify
+
+- Software that depends on a specific cloud provider
+- Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
+- Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
+- Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
+- Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- Software contributions that merely port an existing application to another system (e.g., Dockerization)
 
 ### Canned replies
 
@@ -119,7 +129,7 @@ To save maintainers time, a few premade replies for common issues can be found b
 ```bash
 $ make help
 install             install build tools in a virtualenv
-import              import data from original list at https://github.com/awesome-selfhosted/awesome-selfhosted
+import              import data from the original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 update_metadata     update metadata from project repositories/API
 awesome_lint        check data against awesome-selfhosted guidelines
 export_markdown     render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -129,5 +139,5 @@ push_html           commit and push changes to the HTML site repository (amend p
 url_check           check URLs for dead links or other connection problems
 authors             update the AUTHORS file
 clean               clean files generated by automated tasks
-help                generate list of targets with descriptions
+help                generate a list of targets with descriptions
 ```

@@ -1,6 +1,6 @@
 name: Aimeos
 website_url: https://aimeos.org/
-description: Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel.
+description: E-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel.
 licenses:
   - LGPL-3.0
   - MIT
@@ -10,6 +10,6 @@ tags:
   - E-commerce
 source_code_url: https://github.com/aimeos/aimeos
 demo_url: https://demo.aimeos.org/
-stargazers_count: 4434
-updated_at: '2025-03-09'
+stargazers_count: 4842
+updated_at: '2025-07-21'
 archived: false

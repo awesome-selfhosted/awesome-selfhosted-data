@@ -1,8 +1,8 @@
 name: Liwan
 website_url: https://liwan.dev/
-description: Easy & privacy-first web analytics.
+description: Privacy-first web analytics.
 licenses:
-  - AGPL-3.0
+  - Apache-2.0
 platforms:
   - Rust
   - Docker
@@ -10,6 +10,6 @@ tags:
   - Analytics
 source_code_url: https://github.com/explodingcamera/liwan
 demo_url: https://demo.liwan.dev/p/liwan.dev
-stargazers_count: 19
-updated_at: '2025-03-14'
+stargazers_count: 70
+updated_at: '2025-08-22'
 archived: false

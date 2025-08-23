@@ -9,5 +9,4 @@ platforms:
   - Docker
 tags:
   - Feed Readers
-depends_3rdparty: false
 demo_url: "https://feed.lovergne.dev/demo"

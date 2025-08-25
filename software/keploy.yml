@@ -1,0 +1,12 @@
+name: Keploy
+website_url: https://keploy.io
+description: API testing platform that generates tests and mocks from API calls, enabling faster and more reliable development without writing additional test code.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - Testing
+source_code_url: https://github.com/keploy/keploy
+demo_url: https://keploy.io/docs/

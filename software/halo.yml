@@ -1,0 +1,16 @@
+name: Halo
+website_url: https://www.halo.run
+source_code_url: https://github.com/halo-dev/halo
+description: A powerful and easy-to-use website building tool (documentation in Chinese).
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Software Development - Low Code
+demo_url: https://demo.halo.run
+related_software_url: https://github.com/halo-sigs/awesome-halo
+stargazers_count: 36693
+updated_at: '2025-08-21'
+archived: false

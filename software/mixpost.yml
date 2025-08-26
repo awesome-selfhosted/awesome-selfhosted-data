@@ -1,6 +1,6 @@
 name: Mixpost
 website_url: https://mixpost.app/
-description: Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools).
+description: Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite and Buffer).
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/inovector/MixpostApp
-stargazers_count: 99
-updated_at: '2025-04-11'
+stargazers_count: 107
+updated_at: '2025-05-28'
 archived: false

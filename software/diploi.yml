@@ -1,10 +1,15 @@
 name: diploi
 website_url: https://diploi.com
-description: Deploy apps in seconds and code from your browser or via SSH with remote development.
+source_code_url: https://github.com/diploi/devpod
+description: Deploy new apps in seconds and code with remote development, from your browser or connecting your IDE via SSH.
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Kubernetes/Docker
+  - K8s
+  - Docker
+  - Javascript
+  - Nodejs
 tags:
   - Self-hosting Solutions
-source_code_url: https://diploi.com
+  - Web servers
+  - Software Development - IDE tools

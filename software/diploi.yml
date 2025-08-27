@@ -5,7 +5,7 @@ description: Deploy new apps in seconds and code with remote development, from y
 licenses:
   - ⊘ Proprietary
 platforms:
-  - K8s
+  - K8S
   - Docker
   - Javascript
   - Nodejs

@@ -7,7 +7,6 @@ platforms:
   - PHP
   - Docker
 tags:
-  - Application dashboard
-  - Homepage
+  - Personal Dashboards
 source_code_url: https://github.com/madroots/TileHub
 demo_url: https://demo.tilehub.online

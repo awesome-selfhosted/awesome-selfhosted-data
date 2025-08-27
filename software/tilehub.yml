@@ -1,0 +1,11 @@
+name: TileHub
+description: A simple and customizable dashboard for managing tiles with URLs and icons. Perfect for your self-hosted needs or as your browser start page.
+url: https://github.com/madroots/TileHub
+license: MIT
+tags:
+  - Application dashboard
+  - Homepage
+platforms:
+  - PHP
+  - Docker
+admin_interface: web-based

@@ -1,14 +1,13 @@
 name: TileHub
+website_url: https://tilehub.online
 description: A simple and customizable dashboard for managing tiles with URLs and icons - perfect for your self-hosted needs or as your browser start page.
-website_url: https://demo.tilehub.online
-source_code_url: https://github.com/madroots/TileHub
-demo: https://demo.tilehub.online
 licenses:
   - MIT
-tags:
-  - Dashboard
-  - Portal
 platforms:
   - PHP
   - Docker
-admin_interface: web-based
+tags:
+  - Application dashboard
+  - Homepage
+source_code_url: https://github.com/madroots/TileHub
+demo_url: https://demo.tilehub.online

@@ -7,7 +7,6 @@ licenses:
 platforms:
   - K8S
   - Docker
-  - Javascript
   - Nodejs
 tags:
   - Self-hosting Solutions

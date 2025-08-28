@@ -1,6 +1,8 @@
 name: Release awesome builds
 
-on: push
+on: 
+  push:
+    branches: [ master ]
 
 jobs:
   build:
@@ -12,7 +14,7 @@ jobs:
         id: get_username
         uses: mikefarah/yq@master
         with:
-          cmd: yq -o=json -I 0 ea '[.] as $item ireduce ([]; . *+ $item )' software/*.yml > software.json
+          cmd: yq ea '[.] as $item ireduce ([]; . *+ $item )' software/*.yml | yq -o=json -I 0 '{\"softwares\":.}' > software.json
       - name: Test
         run: cat software.json
       - name: Release

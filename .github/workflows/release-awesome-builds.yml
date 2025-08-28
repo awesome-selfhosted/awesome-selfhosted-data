@@ -1,8 +1,6 @@
 name: Release JSON for awesome-data builds
 
-on: 
-  push:
-    branches: [ master ]
+on: push
 
 jobs:
   build:

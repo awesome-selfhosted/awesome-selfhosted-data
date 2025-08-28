@@ -1,4 +1,4 @@
-name: Release awesome builds
+name: Release JSON for awesome-data builds
 
 on: 
   push:
@@ -10,12 +10,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
-      - name: Get an entry with a variable that might contain dots or spaces
-        id: get_username
+      - name: Merge software/*.yml into software.json via yq
         uses: mikefarah/yq@master
         with:
           cmd: yq ea '[.] as $item ireduce ([]; . *+ $item )' software/*.yml | yq -o=json -I 0 '{\"softwares\":.}' > software.json
-      - name: Test
+      - name: Raw dump software.json
         run: cat software.json
       - name: Release
         uses: softprops/action-gh-release@v2

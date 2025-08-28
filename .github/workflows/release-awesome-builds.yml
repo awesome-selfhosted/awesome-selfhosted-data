@@ -1,0 +1,22 @@
+name: Release awesome builds
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Get an entry with a variable that might contain dots or spaces
+        id: get_username
+        uses: mikefarah/yq@master
+        with:
+          cmd: yq -o=json -I 0 ea '[.] as $item ireduce ([]; . *+ $item )' software/*.yml > software.json
+      - name: Test
+        run: cat software.json
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        if: github.ref_type == 'tag'
+        with:
+          files: software.json

@@ -1,0 +1,15 @@
+name: "FaynoSync"
+website_url: "https://faynosync.com"
+source_code_url: "https://github.com/ku9nov/faynoSync"
+description: "Self-hosted API server for desktop app updates (Windows/macOS/Linux)"
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - API Management
+
+depends_3rdparty: false
+
+related_software_url: "https://github.com/ku9nov/faynoSync-dashboard"

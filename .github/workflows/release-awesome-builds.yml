@@ -1,0 +1,21 @@
+name: Release JSON for awesome-data builds
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+      - name: Merge software/*.yml into software.json via yq
+        uses: mikefarah/yq@master
+        with:
+          cmd: yq ea '[.] as $item ireduce ([]; . *+ $item )' software/*.yml | yq -o=json -I 2 '{"softwares":.}' > software.json
+      - name: Raw dump software.json
+        run: cat software.json
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        if: github.ref_type == 'tag'
+        with:
+          files: software.json

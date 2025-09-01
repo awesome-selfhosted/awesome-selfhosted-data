@@ -10,6 +10,7 @@ platforms:
   - Docker
   - Javascript
 tags:
-  - Backup
+  - Automation
+  - Database Management
 depends_3rdparty: false
 related_software_url: "https://github.com/Soluce-Technologies/agent-portabase"

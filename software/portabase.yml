@@ -5,8 +5,6 @@ description: "Server dashboard tool that simplifies the backup and restoration o
 licenses:
   - Apache-2.0
 platforms:
-  - Python
-  - Nodejs
   - Docker
 tags:
   - Automation

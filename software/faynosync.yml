@@ -1,0 +1,12 @@
+name: "FaynoSync"
+website_url: "https://faynosync.com"
+source_code_url: "https://github.com/ku9nov/faynoSync"
+description: Manage and update cross-platform desktop applications (Windows, macOS, Linux).
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - API Management
+related_software_url: "https://github.com/ku9nov/faynoSync-dashboard"

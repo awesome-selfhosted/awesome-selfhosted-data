@@ -1,0 +1,11 @@
+name: "Canary Tokens"
+website_url: "https://canarytokens.org"
+source_code_url: "https://github.com/thinkst/opencanary"
+description: "Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Miscellaneous

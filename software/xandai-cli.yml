@@ -1,0 +1,11 @@
+name: "XandAI-CLI"
+website_url: "https://github.com/XandAI-project/Xandai-CLI"
+source_code_url: "https://github.com/XandAI-project/Xandai-CLI"
+description: "Sophisticated CLI assistant integrating with Ollama models for terminal command interception, context tracking, chat and task planning."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

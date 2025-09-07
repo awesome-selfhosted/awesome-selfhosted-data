@@ -1,6 +1,6 @@
 name: "clink"
-website_url: "https://git.swurl.xyz/swirl/clink.git/about/"
-source_code_url: "https://git.swurl.xyz/swirl/clink.git"
+website_url: "https://git.crueter.xyz/crueter/clink"
+source_code_url: "https://git.crueter.xyz/crueter/clink"
 description: "A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration."
 licenses:
   - AGPL-3.0
@@ -8,4 +8,4 @@ platforms:
   - C
 tags:
   - URL Shorteners
-demo_url: "https://short.swurl.xyz"
+demo_url: "https://short.crueter.xyz"

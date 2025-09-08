@@ -1,7 +1,7 @@
 name: "Odilon Object Storage"
 website_url: "https://odilon.io"
 source_code_url: "https://github.com/atolomei/odilon-server"
-description: "Object Storage that runs on standard hardware. It is small and easy to integrate, offers encryption, data protection and fault tolerance (software RAID and Erasure Codes) and detection of silent data degradation (alternative to Minio)."
+description: "Easy to integrate object storage that runs on standard hardware offering encryption, data protection and fault tolerance (alternative to Minio)."
 licenses:
   - Apache-2.0
 platforms:

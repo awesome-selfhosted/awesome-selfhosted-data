@@ -1,7 +1,7 @@
 name: "Homelense"
 website_url: "https://github.com/neok0/homelense"
 source_code_url: "https://github.com/neok0/homelense"
-description: "Selfhosted metasearch for other selfhosted applications."
+description: "A metasearch engine designed for your homelab. It lets you search across all your self-hosted applications from a single interface — using their APIs"
 licenses:
   - AGPL-3.0
 platforms:

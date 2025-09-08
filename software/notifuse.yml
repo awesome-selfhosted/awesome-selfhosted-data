@@ -1,0 +1,13 @@
+name: 'Notifuse'
+website_url: 'https://www.notifuse.com'
+source_code_url: 'https://github.com/Notifuse/notifuse'
+description: 'Modern alternative to Resend/Mailchimp for newsletters & transactional API.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+  - Communication - Email - Complete Solutions
+demo_url: 'https://demo.notifuse.com/signin?email=demo@notifuse.com'

@@ -1,0 +1,21 @@
+name: Marketing Agents
+website_url: https://marketingagents.net/
+source_code_url: "https://github.com/rasulkireev/marketing-agents"
+description: AI Marketing Tools for Founders who hate Marketing.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Django
+  - Docker
+  - Javascript
+tags:
+  - Automation
+  - Blogging Platforms
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true
+source_code_url: https://github.com/Bubka/2FAuth
+demo_url: https://demo.2fauth.app/
+stargazers_count: 3356
+updated_at: '2025-06-18'
+archived: false

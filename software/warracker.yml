@@ -1,0 +1,32 @@
+# software name
+name: "Warracker"
+
+# URL of the software project's homepage
+website_url: "https://warracker.com"
+
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/sassanix/Warracker"
+
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Self-hosted warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire."
+
+# list of license identifiers
+licenses:
+  - AGPL-3.0
+
+# list of languages/platforms
+platforms:
+  - Python
+  - JavaScript
+  - Docker
+
+# list of tags (categories)
+tags:
+  - Calendars & Reminders
+  - Document Management
+  - Monitoring & Alerts
+  - Productivity
+  - Utilities
+
+# whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false

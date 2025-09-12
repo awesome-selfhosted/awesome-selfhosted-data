@@ -1,22 +1,13 @@
-# software name
 name: "rgallery"
-# URL of the software project's homepage
 website_url: "https://rgallery.app"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/robbymilo/rgallery"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "The offline photo/video timeline that syncs from your filesystem. (Demo credentials: User: demo, Password: demo)"
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - MIT
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Go
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Photo Galleries
-# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: false
-# (optional) link to an interactive demo of the software
 demo_url: "https://demo.rgallery.app"

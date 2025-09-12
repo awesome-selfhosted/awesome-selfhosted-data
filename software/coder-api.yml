@@ -1,14 +1,14 @@
 name: coder-api
 description: Minimal backend exposing an OpenAPI spec that lets AI providers interact with local files, terminal, and projects via a tunneled HTTP API.
 source_code_url: https://github.com/MauricioMilano/coder-api
-licenses: 
+licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - automation
-  - software-development---api-management
-  - software-development
-  - remote-access
+  - Automation
+  - Software Development - API Management
+  - Software Development
+  - Remote Access
   - Generative Artificial Intelligence (GenAI)

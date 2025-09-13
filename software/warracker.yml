@@ -1,0 +1,17 @@
+name: "Warracker"
+website_url: "https://warracker.com"
+source_code_url: "https://github.com/sassanix/Warracker"
+description: "Self-hosted warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - JavaScript
+  - Docker
+tags:
+  - Calendars & Reminders
+  - Document Management
+  - Monitoring & Alerts
+  - Productivity
+  - Utilities
+depends_3rdparty: false

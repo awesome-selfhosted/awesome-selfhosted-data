@@ -1,0 +1,10 @@
+name: "Odilon Object Storage"
+website_url: "https://odilon.io"
+source_code_url: "https://github.com/atolomei/odilon-server"
+description: "Easy to integrate object storage that runs on standard hardware offering encryption, data protection and fault tolerance (alternative to Minio)."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - File Transfer - Object Storage & File Servers

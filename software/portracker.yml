@@ -1,0 +1,10 @@
+name: "Portracker"
+website_url: "https://github.com/Mostafa-Wahied/portracker"
+source_code_url: "https://github.com/Mostafa-Wahied/portracker"
+description: "Real-time port monitoring and discovery"
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Monitoring

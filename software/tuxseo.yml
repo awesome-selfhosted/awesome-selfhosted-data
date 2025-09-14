@@ -1,0 +1,15 @@
+name: TuxSEO
+website_url: https://tuxseo.com/
+source_code_url: "https://github.com/rasulkireev/TuxSEO"
+description: "Automated Blog Content Creation for Founders Who Hate Writing"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Django
+  - Docker
+tags:
+  - Automation
+  - Blogging Platforms
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

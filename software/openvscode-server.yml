@@ -1,0 +1,11 @@
+name: "openvscode-server"
+website_url: "https://github.com/gitpod-io/openvscode-server"
+source_code_url: "https://github.com/gitpod-io/openvscode-server"
+description: "Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools

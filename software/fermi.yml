@@ -6,6 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Javascript
+  - Nodejs
 tags:
   - Communication - Custom Communication Systems
 demo_url: "https://fermi.chat"

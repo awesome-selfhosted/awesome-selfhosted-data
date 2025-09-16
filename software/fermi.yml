@@ -1,0 +1,11 @@
+name: "Fermi"
+website_url: "https://fermi.chat"
+source_code_url: "https://github.com/MathMan05/Fermi"
+description: "A feature rich Spacebar client"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Communication - Custom Communication Systems
+demo_url: "https://fermi.chat"

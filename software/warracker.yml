@@ -7,9 +7,5 @@ licenses:
 platforms:
   - Docker
 tags:
-  - Calendars & Reminders
-  - Document Management
-  - Monitoring & Alerts
-  - Productivity
-  - Utilities
+  - Miscellaneous
 depends_3rdparty: false

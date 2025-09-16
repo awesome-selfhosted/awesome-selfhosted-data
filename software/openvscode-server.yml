@@ -5,7 +5,6 @@ description: "Run upstream VS Code on a remote machine with access through a mod
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Software Development - IDE & Tools

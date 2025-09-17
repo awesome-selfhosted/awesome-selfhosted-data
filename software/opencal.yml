@@ -1,0 +1,14 @@
+name: "OpenCal - Open Source Appointment Scheduling Platform"
+website_url: "https://opencal.cloud"
+source_code_url: "https://git.var-lab.com/opencal"
+description: "OpenCal is an open-source web application that simplifies appointment booking. Ideal for individuals, teams, and companies, it is customizable and self-hosted. Includes CalDAV synchronization."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Nodejs
+  - Docker
+tags:
+  - Automation
+  - Calendar & Contacts
+depends_3rdparty: false

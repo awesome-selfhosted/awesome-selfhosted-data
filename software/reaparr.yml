@@ -1,6 +1,6 @@
-name: PlexRipper
-website_url: https://www.plexripper.rocks/
-source_code_url: https://github.com/PlexRipper/PlexRipper
+name: Reaparr
+website_url: https://www.reaparr.rocks/
+source_code_url: https://github.com/Reaparr/Reaparr
 description: Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own.
 licenses:
   - GPL-3.0
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-stargazers_count: 479
-updated_at: '2025-08-09'
+stargazers_count: 513
+updated_at: '2025-09-18'
 archived: false

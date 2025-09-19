@@ -1,0 +1,15 @@
+name: UUSEC WAF
+website_url: https://uuwaf.uusec.com
+source_code_url: https://github.com/Safe3/uusec-waf
+description: Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx).
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+  - Lua
+  - Docker
+tags:
+  - Web Servers
+stargazers_count: 1431
+updated_at: '2025-09-13'
+archived: false

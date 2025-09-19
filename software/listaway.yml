@@ -1,0 +1,13 @@
+name: Listaway
+website_url: https://github.com/jeffrpowell/listaway/
+source_code_url: https://github.com/jeffrpowell/listaway
+description: List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Task Management & To-do Lists
+stargazers_count: 2
+updated_at: '2025-08-16'
+archived: false

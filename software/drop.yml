@@ -1,0 +1,14 @@
+name: Drop
+website_url: https://droposs.org
+source_code_url: https://github.com/Drop-OSS/drop
+description: Game distribution platform, designed for distributing and sharing DRM-free games efficiently (alternative to Steam, GameVault).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels
+related_software_url: https://github.com/Drop-OSS/drop-app
+stargazers_count: 475
+updated_at: '2025-09-10'
+archived: false

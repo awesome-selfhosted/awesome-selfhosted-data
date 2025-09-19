@@ -1,0 +1,15 @@
+name: Wiki-Go
+website_url: https://leomoon.com/downloads/web-apps/wiki-go/
+source_code_url: https://github.com/leomoon-studios/wiki-go
+demo_url: https://wikigo.leomoon.com
+description: A modern, feature-rich, databaseless flat-file wiki platform.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Wikis
+stargazers_count: 364
+updated_at: '2025-09-18'
+archived: false

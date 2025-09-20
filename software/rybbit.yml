@@ -5,8 +5,6 @@ description: The modern Google Analytics replacement.
 licenses:
   - AGPL-3.0
 platforms:
-  - Javascript
-  - Nodejs
   - Docker
 tags:
   - Analytics

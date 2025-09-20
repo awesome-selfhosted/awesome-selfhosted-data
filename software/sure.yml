@@ -1,10 +1,10 @@
 name: Sure
-website_url: 
 description: "Sure" is a community-maintained fork of the personal finance app, Maybe. This repository continues the development of the original "Maybe" project, which is no longer actively maintained, providing a free and open-source personal finance application for everyone.
 licenses:
   - AGPLv3
 platforms:
   - Ruby
+  - Javascript
   - Docker
   - K8S
 tags:

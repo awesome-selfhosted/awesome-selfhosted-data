@@ -1,0 +1,12 @@
+name: "Anubis"
+website_url: "https://anubis.techaro.lol/"
+source_code_url: "https://github.com/TecharoHQ/anubis"
+description: "Web AI Firewall Utility which protects upstream resources from scraper bots."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Deb
+  - Go
+tags:
+  - Miscellaneous

@@ -1,7 +1,7 @@
 name: "Libre Workspace"
 website_url: "https://www.libre-workspace.org/"
 source_code_url: "https://github.com/Jean28518/libre-workspace"
-description: "Modern Cloud-Server for individuals/small organisations with built in Nextcloud, Matrix, Jitsi, Samba, BorgBackup and a Linux Desktop as Workspace, Extensible."
+description: "Set of software packages to implement a modern cloud infrastructure for small companies or individuals."
 licenses:
   - GPL-3.0
 platforms:

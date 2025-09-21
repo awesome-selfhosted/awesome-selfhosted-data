@@ -1,0 +1,14 @@
+name: Vanilla Cookbook
+website_url: https://vanilla-cookbook.readthedocs.io/en/
+source_code_url: https://github.com/jt196/vanilla-cookbook
+description: Recipe manager designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Recipe Management
+stargazers_count: 59
+updated_at: '2025-09-10'
+archived: false

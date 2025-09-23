@@ -1,7 +1,7 @@
 name: "nb"
 website_url: "https://github.com/xwmx/nb/"
 source_code_url: "https://github.com/xwmx/nb/"
-description: "CLI and local web plain text note-taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing"
+description: "CLI and local web plain text note-taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing."
 licenses:
   - AGPL-3.0
 platforms:

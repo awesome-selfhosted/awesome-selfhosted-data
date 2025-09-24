@@ -3,7 +3,7 @@ website_url: https://getstacksapp.com/
 description: A private and self-hosted project management tool that helps you keep track of your tasks, projects, and team members.
 platforms:
   - Nodejs
-  - React
-  - Electron
+  - Javascript
+  - Docker
 tags:
   - Task Management & To-do Lists

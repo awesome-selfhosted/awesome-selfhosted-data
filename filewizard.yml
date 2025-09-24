@@ -1,0 +1,12 @@
+name: "FileWizard"
+website_url: "https://github.com/LoredCast/filewizard"
+source_code_url: "https://github.com/LoredCast/filewizard"
+description: "File Converter, Document & Image OCR, Audio Transcription and Text-To-Speech with OICD Account support and API"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+depends_3rdparty: false

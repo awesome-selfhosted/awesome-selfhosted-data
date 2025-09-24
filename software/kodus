@@ -1,0 +1,16 @@
+# software name
+name: "Kodus"
+# URL of the software project's homepage
+website_url: "https://kodus.io"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/kodustech/kodus-ai"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Open-source Code review Agent"
+# list of license identifiers
+  - AGPL-3.0
+# list of languages/platforms
+  - Nodejs
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Software Development - Testing

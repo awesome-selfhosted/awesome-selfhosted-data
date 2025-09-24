@@ -1,0 +1,13 @@
+name: Agenta
+website_url: https://agenta.ai/
+source_code_url: https://github.com/agenta-ai/agenta
+description: LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications with collaborative prompt engineering.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 3174
+updated_at: '2025-09-23'
+archived: false

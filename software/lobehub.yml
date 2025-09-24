@@ -1,0 +1,25 @@
+# software name
+name: "LobeHub"
+# URL of the software project's homepage
+website_url: "https://www.lobehub.com"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/lobehub/lobe-chat"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "An open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Nodejs
+  - Docker
+  - Javascript
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Generative Artificial Intelligence (GenAI)
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+# (optional) link to an interactive demo of the software
+demo_url: "https://www.lobechat.com"
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
+related_software_url: "https://lobehub.com/mcp"

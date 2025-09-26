@@ -1,0 +1,11 @@
+name: "Rybbit"
+website_url: "https://rybbit.io"
+source_code_url: "https://github.com/rybbit-io/rybbit"
+description: Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Analytics
+demo_url: "https://demo.rybbit.io/21/"

@@ -8,6 +8,5 @@ platforms:
   - Docker
   - Shell
 tags:
-  - Automation
   - Generative Artificial Intelligence (GenAI)
 depends_3rdparty: false

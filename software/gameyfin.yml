@@ -5,7 +5,6 @@ description: Gameyfin turns your video game collection into a beautiful webpage 
 licenses:
   - AGPL-3.0
 platforms:
-  - Java
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels

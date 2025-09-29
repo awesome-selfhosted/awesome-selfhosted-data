@@ -5,8 +5,6 @@ licenses:
   - MIT
 platforms:
   - TypeScript
-  - React
-  - NestJS
   - PostgreSQL
   - Docker
 tags:

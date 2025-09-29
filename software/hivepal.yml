@@ -4,9 +4,9 @@ description: Mobile-first beekeeping management app for tracking hives, inspecti
 licenses:
   - MIT
 platforms:
-  - TypeScript
-  - PostgreSQL
-  - Docker
+  - javascript
+  - nodejs
+  - docker
 tags:
   - Resource Planning
 source_code_url: https://github.com/martinhrvn/hive-pal

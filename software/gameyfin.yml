@@ -1,0 +1,14 @@
+name: Gameyfin
+website_url: https://gameyfin.org
+source_code_url: https://github.com/gameyfin/gameyfin
+description: Gameyfin turns your video game collection into a beautiful webpage that you can sort and browse. Everything is stored locally (except videos) so its LAN-friendly as well!
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Javascript
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels
+depends_3rdparty: false
+related_software_url: https://central.sonatype.com/artifact/org.gameyfin/plugin-api

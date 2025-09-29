@@ -5,7 +5,7 @@ licenses:
   - MIT
 platforms:
   - Nodejs
-  - docker
+  - Docker
 tags:
   - Resource Planning
 source_code_url: https://github.com/martinhrvn/hive-pal

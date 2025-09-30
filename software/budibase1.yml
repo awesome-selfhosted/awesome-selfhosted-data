@@ -1,0 +1,19 @@
+name: "Budibase"
+website_url: "https://budibase.com"
+source_code_url: "https://github.com/Budibase/budibase"
+description: "Budibase is an open-source low-code platform that saves engineers 100s of hours building forms, portals, and approval apps, securely, while also allowing a database structure similar to baserow.io."
+licenses:
+  - AGPL-3.0
+platforms:
+  - TypeScript
+  - Svelte
+  - JavaScript
+  - CSS
+  - Docker
+tags:
+  - Automation
+  - Database Management
+  - Forms
+  - Portals
+  - Dashboards
+related_software_url: "https://github.com/Budibase/plugins"

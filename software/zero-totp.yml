@@ -5,7 +5,6 @@ description: "A complete, reliable, secure and zero-trust webapp based on zero-k
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
   - Password Managers

@@ -1,0 +1,13 @@
+name: "PatchMon"
+website_url: "https://patchmon.net"
+source_code_url: "https://github.com/PatchMon/PatchMon"
+description: "Linux Patch Monitoring made simple - Easily keep track of your Linux package updates on a powerful open source platform with Dashboards and reporting"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - javascript
+tags:
+  - Automation
+  - Monitoring
+depends_3rdparty: true

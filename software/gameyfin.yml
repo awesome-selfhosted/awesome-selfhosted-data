@@ -8,5 +8,4 @@ platforms:
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
-depends_3rdparty: false
 related_software_url: https://central.sonatype.com/artifact/org.gameyfin/plugin-api

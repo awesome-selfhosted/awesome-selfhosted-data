@@ -1,0 +1,10 @@
+name: Gameyfin
+website_url: https://gameyfin.org
+source_code_url: https://github.com/gameyfin/gameyfin
+description: Video game library manager with automatic scanning, web access, downloads, and plugin support.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels

@@ -6,6 +6,5 @@ licenses:
   - MIT
 platforms:
   - Rust
-  - Docker
 tags:
   - Recipe Management

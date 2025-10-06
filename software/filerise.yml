@@ -4,8 +4,8 @@ description: Web file manager with uploads, tagging, share links, gallery/table 
 licenses:
   - MIT
 platforms:
-  - PHP
   - Docker
+  - PHP
 tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/error311/FileRise

@@ -1,0 +1,13 @@
+name: FileRise
+website_url: https://github.com/error311/FileRise
+description: Self-hosted web file manager with uploads, tagging, share links, gallery/table views, and an in-browser editor.
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/error311/FileRise
+demo_url: https://demo.filerise.net
+archived: false

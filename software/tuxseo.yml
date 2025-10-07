@@ -9,6 +9,6 @@ platforms:
   - Django
   - Docker
 tags:
-  - Blogging Platforms
   - Generative Artificial Intelligence (GenAI)
+  - Blogging Platforms
 depends_3rdparty: true

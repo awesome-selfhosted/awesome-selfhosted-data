@@ -1,0 +1,14 @@
+name: Paper Firehose
+website_url: https://github.com/zrbyte/paper-firehose
+description: An RSS reader for research papers. It applies regex filters to sift through arXiv and journal RSS feeds and delivers lists of relevant papers as well as LLM-generated summaries of preprints.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Sciences & journal-article & arxiv & research & LLM & RSS & automation & scientific publication & paper-tracking & paper-summarization & academic-research
+source_code_url: https://github.com/zrbyte/paper-firehose
+stargazers_count: 2
+updated_at: '2025-10-07'
+archived: false
+demo_url: https://paperfirehose.com/

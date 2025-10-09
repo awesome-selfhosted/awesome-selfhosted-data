@@ -1,0 +1,22 @@
+# software name
+name: "Onyx"
+# URL of the software project's homepage
+website_url: "https://onyx.app"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/onyx-dot-app/onyx"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Onyx is a feature-rich, self-hostable Chat UI that works with any LLM. It comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep Research, Connectors to 40+ knowledge sources, and more."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Python
+  - Javascript
+  - Docker
+  - K8S
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Generative Artificial Intelligence (GenAI)
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false

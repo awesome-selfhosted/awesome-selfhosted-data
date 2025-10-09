@@ -1,0 +1,14 @@
+name: Shimmy
+website_url: https://github.com/Michael-A-Kuykendall/shimmy
+source_code_url: https://github.com/Michael-A-Kuykendall/shimmy
+description: Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 2918
+updated_at: '2025-10-09'
+archived: false

@@ -1,0 +1,12 @@
+name: Hive-Pal
+website_url: https://hivepal.app
+description: Mobile-first beekeeping management app for tracking hives, inspections, queen records, and equipment with streamlined data entry optimized for field use.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Community-Supported Agriculture (CSA)
+source_code_url: https://github.com/martinhrvn/hive-pal
+demo_url: https://hivepal.app

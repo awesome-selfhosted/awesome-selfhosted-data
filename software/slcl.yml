@@ -1,0 +1,14 @@
+name: slcl
+website_url: https://gitea.privatedns.org/xavi/slcl
+description: Simple and lightweight web cloud storage, written in C plus POSIX extensions.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - File Transfer - Object Storage & File Servers
+  - File Transfer & Synchronization
+source_code_url: https://codeberg.org/xavidcr/slcl
+stargazers_count: 2
+updated_at: '2025-10-11'
+archived: false

@@ -1,0 +1,14 @@
+name: Genealogy
+website_url: https://genealogy.kreaweb.be/
+source_code_url: https://github.com/MGeurts/genealogy
+description: Record family members and their relationships and build a family tree.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Genealogy
+demo_url: https://genealogy.kreaweb.be/
+stargazers_count: 265
+updated_at: '2025-10-08'
+archived: false

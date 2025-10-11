@@ -1,0 +1,10 @@
+name: CookCLI
+website_url: https://cooklang.org
+source_code_url: https://github.com/cooklang/CookCLI
+description: Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Recipe Management

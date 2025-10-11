@@ -1,0 +1,13 @@
+name: "LobeHub"
+website_url: "https://www.lobehub.com"
+source_code_url: "https://github.com/lobehub/lobe-chat"
+description: "Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: "https://www.lobechat.com"
+related_software_url: "https://lobehub.com/mcp"

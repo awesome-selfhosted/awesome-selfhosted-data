@@ -1,7 +1,7 @@
 name: "Zero-TOTP"
 website_url: "https://zero-totp.com"
 source_code_url: "https://github.com/SeaweedbrainCY/zero-totp"
-description: "A complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes."
+description: "Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes."
 licenses:
   - GPL-3.0
 platforms:

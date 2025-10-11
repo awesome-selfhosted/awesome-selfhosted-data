@@ -5,8 +5,6 @@ description: "Chat UI that works with any LLM. It comes loaded with advanced fea
 licenses:
   - MIT
 platforms:
-  - Python
-  - Javascript
   - Docker
   - K8S
 tags:

@@ -1,6 +1,6 @@
 name: ShellHub
 website_url: https://www.shellhub.io
-description: ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd.
+description: Modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface (alternative to sshd).
 licenses:
   - Apache-2.0
 platforms:
@@ -8,6 +8,6 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/shellhub-io/shellhub
-stargazers_count: 1584
-updated_at: '2025-06-10'
+stargazers_count: 1785
+updated_at: '2025-10-11'
 archived: false

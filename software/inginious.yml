@@ -1,6 +1,6 @@
 name: INGInious
 website_url: https://inginious.org/?lang=en
-source_code_url: https://github.com/UCL-INGI/INGInious
+source_code_url: https://github.com/INGInious/INGInious
 description: Intelligent grader that allows secured and automated testing of code made by students.
 licenses:
   - AGPL-3.0
@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Learning and Courses
-related_software_url: https://github.com/UCL-INGI/INGInious-plugins
-stargazers_count: 223
-updated_at: '2025-05-05'
+related_software_url: https://github.com/INGInious/plugins
+stargazers_count: 229
+updated_at: '2025-10-07'
 archived: false

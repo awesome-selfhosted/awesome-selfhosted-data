@@ -29,7 +29,7 @@ awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml
 
-.PHONY: awesome_lint # check data against awesome-selfhosted guidelines (strict)
+.PHONY: awesome_lint_strict # check data against awesome-selfhosted guidelines (strict)
 awesome_lint_strict:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint-strict.yml

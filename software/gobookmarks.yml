@@ -1,0 +1,14 @@
+name: gobookmarks
+website_url: https://github.com/arran4/gobookmarks
+source_code_url: https://github.com/arran4/gobookmarks
+description: Landing page to display bookmarks stored in GitHub, GitLab or local Git.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Personal Dashboards
+stargazers_count: 4
+updated_at: '2025-10-06'
+archived: false

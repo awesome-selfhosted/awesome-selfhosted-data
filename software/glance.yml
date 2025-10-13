@@ -1,7 +1,7 @@
 name: Glance
 website_url: https://github.com/glanceapp/glance
 source_code_url: https://github.com/glanceapp/glance
-description: A highly customizable dashboard that puts all your feeds in one place.
+description: Highly customizable dashboard that puts all your feeds in one place.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Personal Dashboards
   - Feed Readers
-stargazers_count: 21272
-updated_at: '2025-03-30'
+stargazers_count: 28609
+updated_at: '2025-09-28'
 archived: false

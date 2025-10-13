@@ -1,0 +1,13 @@
+name: BookLore
+website_url: https://github.com/booklore-app/booklore
+source_code_url: https://github.com/booklore-app/booklore
+description: Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+stargazers_count: 5050
+updated_at: '2025-10-12'
+archived: false

@@ -1,13 +1,13 @@
 name: nefarious
-website_url: https://github.com/lardbit/nefarious
-description: Web application that automates downloading Movies and TV Shows.
+website_url: https://lardbit.github.io/nefarious/
+description: Automate downloading Movies and TV Shows.
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
-  - Automation
+  - Media Management
 source_code_url: https://github.com/lardbit/nefarious
-stargazers_count: 1113
-updated_at: '2025-03-07'
+stargazers_count: 1174
+updated_at: '2025-09-17'
 archived: false

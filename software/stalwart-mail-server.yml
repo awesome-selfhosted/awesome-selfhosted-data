@@ -1,6 +1,6 @@
 name: Stalwart Mail Server
 website_url: https://stalw.art
-source_code_url: https://github.com/stalwartlabs/mail-server
+source_code_url: https://github.com/stalwartlabs/stalwart
 description: All-in-one mail server with JMAP, IMAP4, and SMTP support and a wide range of modern features.
 licenses:
   - AGPL-3.0
@@ -9,6 +9,6 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-stargazers_count: 7032
-updated_at: '2025-03-25'
+stargazers_count: 9901
+updated_at: '2025-10-06'
 archived: false

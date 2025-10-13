@@ -1,6 +1,6 @@
 name: Fava
 website_url: https://beancount.github.io/fava/
-description: Fava is the web frontend of Beancount, a text based double-entry accounting system.
+description: Web frontend of Beancount, a text based double-entry accounting system.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/beancount/fava
 demo_url: https://fava.pythonanywhere.com/example-with-budgets/income_statement/
-stargazers_count: 2109
-updated_at: '2025-03-30'
+stargazers_count: 2229
+updated_at: '2025-10-12'
 archived: false

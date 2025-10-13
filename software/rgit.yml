@@ -1,6 +1,6 @@
 name: rgit
 website_url: https://github.com/w4/rgit
-description: An ultra-fast & lightweight cgit clone.
+description: Ultra-fast & lightweight cgit clone.
 licenses:
   - WTFPL
 platforms:
@@ -9,6 +9,6 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/w4/rgit
-stargazers_count: 148
-updated_at: '2025-03-16'
+stargazers_count: 183
+updated_at: '2025-05-25'
 archived: false

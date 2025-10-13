@@ -1,5 +1,5 @@
 name: Chibisafe
-website_url: https://chibisafe.moe
+website_url: https://chibisafe.app
 source_code_url: https://github.com/chibisafe/chibisafe
 description: File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others.
 licenses:
@@ -9,6 +9,6 @@ platforms:
   - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-stargazers_count: 2105
-updated_at: '2025-03-26'
+stargazers_count: 2458
+updated_at: '2025-07-05'
 archived: false

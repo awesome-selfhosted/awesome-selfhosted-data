@@ -1,5 +1,5 @@
 name: yt-dlp Web UI
-website_url: https://github.com/marcopeocchi/yt-dlp-web-ui
+website_url: https://github.com/marcopiovanello/yt-dlp-web-ui
 description: Web GUI for yt-dlp.
 licenses:
   - MPL-2.0
@@ -8,8 +8,8 @@ platforms:
   - Go
   - Nodejs
 tags:
-  - Automation
-source_code_url: https://github.com/marcopeocchi/yt-dlp-web-ui
-stargazers_count: 1366
-updated_at: '2025-03-30'
+  - Media Management
+source_code_url: https://github.com/marcopiovanello/yt-dlp-web-ui
+stargazers_count: 2039
+updated_at: '2025-09-01'
 archived: false

@@ -1,14 +1,14 @@
 name: Lidarr
 website_url: https://lidarr.audio/
-description: Lidarr is a music collection manager for Usenet and BitTorrent users.
+description: Music collection manager for Usenet and BitTorrent users.
 licenses:
   - GPL-3.0
 platforms:
   - C#
   - Docker
 tags:
-  - Automation
+  - Media Management
 source_code_url: https://github.com/Lidarr/Lidarr
-stargazers_count: 3991
-updated_at: '2025-04-01'
+stargazers_count: 4618
+updated_at: '2025-10-05'
 archived: false

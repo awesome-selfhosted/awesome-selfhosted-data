@@ -1,7 +1,7 @@
 name: HortusFox
 website_url: https://hortusfox.github.io
 source_code_url: https://github.com/danielbrendel/hortusfox-web
-description: A collaborative plant management system.
+description: Collaborative plant management and tracking system for plant enthusiasts.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,6 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 846
-updated_at: '2025-03-31'
+stargazers_count: 1197
+updated_at: '2025-10-10'
 archived: false

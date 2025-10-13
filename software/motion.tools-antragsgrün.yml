@@ -1,7 +1,7 @@
 name: motion.tools (Antragsgrün)
 website_url: https://motion.tools/
 source_code_url: https://github.com/CatoTH/antragsgruen
-description: A web tool for managing motions and amendments for (political) conventions.
+description: Manage motions and amendments for (political) conventions.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,6 @@ platforms:
 tags:
   - Conference Management
 demo_url: https://sandbox.motion.tools/createsite
-stargazers_count: 110
-updated_at: '2025-03-30'
+stargazers_count: 124
+updated_at: '2025-10-11'
 archived: false

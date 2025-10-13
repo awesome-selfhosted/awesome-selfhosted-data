@@ -1,6 +1,6 @@
 name: Luanti
 website_url: https://www.luanti.org/
-description: An open source voxel game engine (formerly Minetest). Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.
+description: Voxel game engine (formerly Minetest). Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.
 licenses:
   - LGPL-2.1
   - MIT
@@ -11,7 +11,7 @@ platforms:
   - deb
 tags:
   - Games
-source_code_url: https://github.com/minetest/minetest
+source_code_url: https://github.com/luanti-org/luanti
 archived: false
-stargazers_count: 11284
-updated_at: '2025-04-01'
+stargazers_count: 11957
+updated_at: '2025-10-12'

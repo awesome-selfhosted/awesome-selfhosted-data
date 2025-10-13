@@ -4,7 +4,6 @@ description: 'Micro-blog tool offering built-in syntax highlighting, mobile publ
 licenses:
   - MIT
 platforms:
-  - Rust
   - Docker
 tags:
   - Blogging Platforms

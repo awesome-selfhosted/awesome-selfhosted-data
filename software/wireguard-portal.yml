@@ -1,21 +1,13 @@
-# software name
 name: "WireGuard Portal"
-# URL of the software project's homepage
 website_url: "https://wgportal.org/"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/h44z/wg-portal"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "WireGuard Portal is a simple, web-based configuration portal for WireGuard server management."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - MIT
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Go
   - Javascript
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - VPN
-# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: false

@@ -1,0 +1,12 @@
+name: "Libre Workspace"
+website_url: "https://www.libre-workspace.org/"
+source_code_url: "https://github.com/Jean28518/libre-workspace"
+description: "Set of software packages to implement a modern cloud infrastructure for small companies or individuals."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Shell
+  - deb
+tags:
+  - Groupware

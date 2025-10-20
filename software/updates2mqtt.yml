@@ -1,0 +1,15 @@
+name: "updates2mqtt"
+website_url: "https://updates2mqtt.rhizomatics.org.uk"
+source_code_url: "https://github.com/rhizomatics/updates2mqtt"
+description: "Check for software updates ( Docker image updates ) and publish the results to an MQTT broker with auto discovery for HomeAssistant and optional automated pull and restart of containers from HomeAssistant app."
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Automation
+  - Self-hosting Solutions
+  - Monitoring
+depends_3rdparty: false

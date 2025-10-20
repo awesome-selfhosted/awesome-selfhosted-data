@@ -1,0 +1,10 @@
+name: 'fx'
+website_url: 'https://github.com/rikhuijzer/fx'
+description: 'Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky).'
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Blogging Platforms
+source_code_url: 'https://github.com/rikhuijzer/fx'

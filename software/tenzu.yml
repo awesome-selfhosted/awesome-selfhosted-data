@@ -1,0 +1,17 @@
+name: "Tenzu"
+website_url: "https://tenzu.net"
+source_code_url: "https://github.com/BIRU-Scop/tenzu-front"
+description: "Lightweight project management tool for agile teams."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Django
+  - Javascript
+  - Docker
+  - K8S
+tags:
+  - Software Development - Project Management
+  - Task Management & To-do Lists
+depends_3rdparty: false
+demo_url: "https://demo.tenzu.app/"

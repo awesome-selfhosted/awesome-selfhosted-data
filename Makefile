@@ -8,7 +8,7 @@ install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \
-	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.4.0
+	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.5.0
 
 .PHONY: import # import data from the original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install

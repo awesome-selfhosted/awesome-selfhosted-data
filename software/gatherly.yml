@@ -1,0 +1,13 @@
+name: Gatherly
+website_url: https://git.mills.io/prologic/gatherly
+description: Self-destructing, shareable, no-registration event pages.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Booking and Scheduling
+  - Polls and Events
+source_code_url: https://git.mills.io/prologic/gatherly
+demo_url: https://gatherly.mills.io

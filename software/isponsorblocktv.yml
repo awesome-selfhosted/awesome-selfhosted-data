@@ -10,6 +10,13 @@ platforms:
 tags:
   - Miscellaneous
 depends_3rdparty: true
-stargazers_count: 4044
+stargazers_count: 4093
 updated_at: '2025-10-19'
 archived: false
+current_release:
+  tag: v2.6.1
+  published_at: '2025-10-19'
+commit_history:
+  2025-08: 20
+  2025-09: 18
+  2025-10: 3

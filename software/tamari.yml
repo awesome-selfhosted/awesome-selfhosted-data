@@ -10,6 +10,13 @@ platforms:
 tags:
   - Recipe Management
 demo_url: https://app.tamariapp.com
-stargazers_count: 103
-updated_at: '2025-10-21'
+stargazers_count: 102
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: v1.3
+  published_at: '2025-07-13'
+commit_history:
+  2025-08: 13
+  2025-09: 0
+  2025-10: 26

@@ -10,6 +10,13 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/opf/openproject
-stargazers_count: 12898
-updated_at: '2025-10-22'
+stargazers_count: 12903
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: v16.5.1
+  published_at: '2025-10-15'
+commit_history:
+  2025-08: 948
+  2025-09: 1089
+  2025-10: 777

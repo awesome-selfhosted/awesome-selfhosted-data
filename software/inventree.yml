@@ -9,6 +9,13 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/inventree/InvenTree
 demo_url: https://inventree.org/demo
-stargazers_count: 5882
-updated_at: '2025-10-22'
+stargazers_count: 5888
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: 1.0.7
+  published_at: '2025-10-20'
+commit_history:
+  2025-08: 86
+  2025-09: 74
+  2025-10: 107

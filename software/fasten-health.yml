@@ -10,6 +10,13 @@ tags:
   - Health and Fitness
 source_code_url: https://github.com/fastenhealth/fasten-onprem/
 depends_3rdparty: true
-stargazers_count: 2462
+stargazers_count: 2463
 updated_at: '2025-10-16'
 archived: false
+current_release:
+  tag: v1.1.3
+  published_at: '2024-10-01'
+commit_history:
+  2025-08: 103
+  2025-09: 8
+  2025-10: 3

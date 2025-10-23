@@ -15,3 +15,10 @@ depends_3rdparty: true
 stargazers_count: 19
 updated_at: '2025-10-14'
 archived: false
+current_release:
+  tag: 0.0.6
+  published_at: '2025-09-14'
+commit_history:
+  2025-08: 79
+  2025-09: 64
+  2025-10: 85

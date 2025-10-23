@@ -9,6 +9,13 @@ tags:
   - Media Management
 source_code_url: https://github.com/sct/overseerr
 depends_3rdparty: true
-stargazers_count: 4819
+stargazers_count: 4821
 updated_at: '2025-08-14'
 archived: false
+current_release:
+  tag: v1.34.0
+  published_at: '2025-03-26'
+commit_history:
+  2025-08: 2
+  2025-09: 0
+  2025-10: 0

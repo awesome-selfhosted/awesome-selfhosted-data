@@ -10,6 +10,13 @@ tags:
   - Media Management
 source_code_url: https://github.com/meeb/tubesync
 depends_3rdparty: true
-stargazers_count: 2471
+stargazers_count: 2473
 updated_at: '2025-10-16'
 archived: false
+current_release:
+  tag: v0.15.10
+  published_at: '2025-10-01'
+commit_history:
+  2025-08: 66
+  2025-09: 16
+  2025-10: 5

@@ -10,6 +10,13 @@ platforms:
 tags:
   - Document Management
 depends_3rdparty: true
-stargazers_count: 5352
+stargazers_count: 5358
 updated_at: '2025-10-16'
 archived: false
+current_release:
+  tag: v2.30.0
+  published_at: '2025-10-16'
+commit_history:
+  2025-08: 8
+  2025-09: 14
+  2025-10: 4

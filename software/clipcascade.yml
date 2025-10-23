@@ -9,6 +9,13 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 1149
+stargazers_count: 1150
 updated_at: '2025-08-07'
 archived: false
+current_release:
+  tag: 3.1.0
+  published_at: '2025-08-07'
+commit_history:
+  2025-08: 7
+  2025-09: 0
+  2025-10: 0

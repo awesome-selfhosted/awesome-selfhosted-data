@@ -10,6 +10,13 @@ platforms:
 tags:
   - Games
 related_software_url: https://bananas.openttd.org/
-stargazers_count: 7214
-updated_at: '2025-10-22'
+stargazers_count: 7213
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: 15.0-beta3
+  published_at: '2025-08-31'
+commit_history:
+  2025-08: 98
+  2025-09: 119
+  2025-10: 18

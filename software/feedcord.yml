@@ -9,6 +9,13 @@ platforms:
 tags:
   - Feed Readers
 depends_3rdparty: true
-stargazers_count: 251
+stargazers_count: 252
 updated_at: '2025-07-01'
 archived: false
+current_release:
+  tag: v3.1.0
+  published_at: '2025-02-20'
+commit_history:
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0

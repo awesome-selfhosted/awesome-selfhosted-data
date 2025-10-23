@@ -9,5 +9,12 @@ tags:
   - Groupware
 source_code_url: https://github.com/EGroupware/egroupware
 stargazers_count: 275
-updated_at: '2025-10-22'
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: 23.1.20251021
+  published_at: '2025-10-21'
+commit_history:
+  2025-08: 234
+  2025-09: 196
+  2025-10: 165

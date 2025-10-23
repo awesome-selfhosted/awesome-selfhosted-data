@@ -11,6 +11,13 @@ platforms:
 tags:
   - Password Managers
 source_code_url: https://github.com/passbolt/passbolt_api
-stargazers_count: 5391
+stargazers_count: 5394
 updated_at: '2025-10-08'
 archived: false
+current_release:
+  tag: v5.6.0
+  published_at: '2025-10-08'
+commit_history:
+  2025-08: 84
+  2025-09: 103
+  2025-10: 34

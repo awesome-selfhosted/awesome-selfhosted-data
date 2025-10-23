@@ -9,6 +9,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/badaix/snapcast
-stargazers_count: 7127
+stargazers_count: 7131
 updated_at: '2025-10-02'
 archived: false
+current_release:
+  tag: v0.34.0
+  published_at: '2025-10-03'
+commit_history:
+  2025-08: 24
+  2025-09: 53
+  2025-10: 5

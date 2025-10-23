@@ -9,6 +9,13 @@ platforms:
 tags:
   - Web Servers
 depends_3rdparty: true
-stargazers_count: 143
+stargazers_count: 144
 updated_at: '2025-03-17'
 archived: false
+current_release:
+  tag: 1.8.0
+  published_at: '2024-11-21'
+commit_history:
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0

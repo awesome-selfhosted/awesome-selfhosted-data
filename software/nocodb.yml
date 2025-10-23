@@ -9,6 +9,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/nocodb/nocodb
-stargazers_count: 58352
-updated_at: '2025-10-22'
+stargazers_count: 58367
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: 0.265.1
+  published_at: '2025-10-03'
+commit_history:
+  2025-08: 898
+  2025-09: 1380
+  2025-10: 479

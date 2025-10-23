@@ -9,6 +9,13 @@ platforms:
   - Nodejs
 tags:
   - Miscellaneous
-stargazers_count: 1931
-updated_at: '2025-10-22'
+stargazers_count: 1932
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: v1.0.9
+  published_at: '2024-05-21'
+commit_history:
+  2025-08: 64
+  2025-09: 86
+  2025-10: 52

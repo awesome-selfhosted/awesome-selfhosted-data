@@ -9,6 +9,13 @@ platforms:
 tags:
   - Web Servers
 demo_url: https://demo.waf.chaitin.com/
-stargazers_count: 18376
+stargazers_count: 18447
 updated_at: '2025-08-14'
 archived: false
+current_release:
+  tag: v9.2.0
+  published_at: '2025-08-07'
+commit_history:
+  2025-08: 3
+  2025-09: 0
+  2025-10: 0

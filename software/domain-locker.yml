@@ -10,6 +10,13 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://demo.domain-locker.com
-stargazers_count: 350
+stargazers_count: 351
 updated_at: '2025-09-28'
 archived: false
+current_release:
+  tag: v0.1.0
+  published_at: '2025-07-26'
+commit_history:
+  2025-08: 0
+  2025-09: 2
+  2025-10: 0

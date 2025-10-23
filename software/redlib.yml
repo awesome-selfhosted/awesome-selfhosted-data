@@ -9,6 +9,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/redlib-org/redlib
 depends_3rdparty: true
-stargazers_count: 2717
+stargazers_count: 2723
 updated_at: '2025-10-06'
 archived: false
+current_release:
+  tag: v0.36.0
+  published_at: '2025-03-20'
+commit_history:
+  2025-08: 4
+  2025-09: 15
+  2025-10: 1

@@ -8,6 +8,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/samuelclay/NewsBlur
-stargazers_count: 7160
+stargazers_count: 7162
 updated_at: '2025-10-22'
 archived: false
+current_release:
+  tag: Android_13.9.0
+  published_at: '2025-10-15'
+commit_history:
+  2025-08: 3
+  2025-09: 2
+  2025-10: 88

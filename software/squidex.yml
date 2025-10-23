@@ -9,6 +9,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/Squidex/squidex
 demo_url: https://cloud.squidex.io
-stargazers_count: 2455
+stargazers_count: 2456
 updated_at: '2025-10-07'
 archived: false
+current_release:
+  tag: 7.21.0
+  published_at: '2025-07-23'
+commit_history:
+  2025-08: 6
+  2025-09: 4
+  2025-10: 5

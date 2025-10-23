@@ -11,6 +11,13 @@ platforms:
 tags:
   - Polls and Events
 demo_url: https://opnform.com/forms/create/guest
-stargazers_count: 2942
-updated_at: '2025-10-22'
+stargazers_count: 2944
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: v1.10.0
+  published_at: '2025-10-18'
+commit_history:
+  2025-08: 35
+  2025-09: 41
+  2025-10: 50

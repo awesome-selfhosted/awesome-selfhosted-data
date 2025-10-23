@@ -9,6 +9,13 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/go-shiori/shiori
-stargazers_count: 10993
+stargazers_count: 11005
 updated_at: '2025-09-29'
 archived: false
+current_release:
+  tag: v1.8.0
+  published_at: '2025-09-26'
+commit_history:
+  2025-08: 0
+  2025-09: 4
+  2025-10: 0

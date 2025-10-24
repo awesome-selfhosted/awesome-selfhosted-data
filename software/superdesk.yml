@@ -11,8 +11,8 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 depends_3rdparty: true
-stargazers_count: 713
-updated_at: '2025-10-23'
+stargazers_count: 715
+updated_at: '2025-10-24'
 archived: false
 current_release:
   tag: v2.10.0
@@ -20,4 +20,4 @@ current_release:
 commit_history:
   2025-08: 22
   2025-09: 22
-  2025-10: 22
+  2025-10: 23

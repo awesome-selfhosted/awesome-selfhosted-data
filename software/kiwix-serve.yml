@@ -8,8 +8,8 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/kiwix/kiwix-tools
-stargazers_count: 687
-updated_at: '2025-10-17'
+stargazers_count: 688
+updated_at: '2025-10-24'
 archived: false
 current_release:
   tag: 3.7.0
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2025-08: 0
   2025-09: 13
-  2025-10: 2
+  2025-10: 6

@@ -5,7 +5,6 @@ description: "A minimal analytics tool. Tracks events in a span of 10-30 days."
 licenses:
   - MIT
 platforms:
-  - Javascript
   - Nodejs
   - Docker
 tags:

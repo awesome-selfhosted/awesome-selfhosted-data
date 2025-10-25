@@ -1,0 +1,14 @@
+name: "R2 Bucket Manager"
+website_url: "https://r2.adamic.tech"
+source_code_url: "https://github.com/neverinfamous/R2-Manager-Worker"
+description: "Modern web application for managing Cloudflare R2 buckets with bucket operations, folder management, file operations (rename, move, copy), chunked uploads up to 500MB, bulk downloads as ZIP, signed URLs, smart filtering, and enterprise authentication via Cloudflare Access Zero Trust."
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer - Object Storage & File Servers
+  - File Transfer - Web-based File Managers
+demo_url: "https://r2.adamic.tech"

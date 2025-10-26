@@ -1,6 +1,6 @@
 name: BookLore
-website_url: https://github.com/adityachandelgit/BookLore
-source_code_url: https://github.com/adityachandelgit/BookLore
+website_url: https://github.com/booklore-app/booklore
+source_code_url: https://github.com/booklore-app/booklore
 description: Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 licenses:
   - GPL-3.0
@@ -8,6 +8,13 @@ platforms:
   - Docker
 tags:
   - Document Management - E-books
-stargazers_count: 3797
-updated_at: '2025-08-09'
+stargazers_count: 5399
+updated_at: '2025-10-24'
 archived: false
+current_release:
+  tag: v1.9.0
+  published_at: '2025-10-24'
+commit_history:
+  2025-08: 116
+  2025-09: 70
+  2025-10: 81

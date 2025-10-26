@@ -10,6 +10,13 @@ tags:
   - Database Management
 source_code_url: https://github.com/simonw/datasette
 demo_url: https://global-power-plants.datasettes.com/global-power-plants/global-power-plants
-stargazers_count: 10253
-updated_at: '2025-07-15'
+stargazers_count: 10446
+updated_at: '2025-10-25'
 archived: false
+current_release:
+  tag: 1.0a19
+  published_at: '2025-04-22'
+commit_history:
+  2025-08: 0
+  2025-09: 2
+  2025-10: 51

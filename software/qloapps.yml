@@ -8,8 +8,15 @@ platforms:
   - Nodejs
 tags:
   - Booking and Scheduling
-source_code_url: https://github.com/webkul/hotelcommerce
+source_code_url: https://github.com/Qloapps/QloApps
 demo_url: https://demo.qloapps.com/
-stargazers_count: 6865
+stargazers_count: 10155
 updated_at: '2025-07-07'
 archived: false
+current_release:
+  tag: v1.7.0
+  published_at: '2025-07-04'
+commit_history:
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0

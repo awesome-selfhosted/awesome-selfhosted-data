@@ -9,7 +9,13 @@ platforms:
 tags:
   - Resource Planning
 source_code_url: https://github.com/ledgersmb/LedgerSMB
-demo_url: https://demo.cloud.efficito.com/erp/1.5/login.pl
-stargazers_count: 489
-updated_at: '2025-08-09'
+stargazers_count: 506
+updated_at: '2025-10-25'
 archived: false
+current_release:
+  tag: 1.13.0
+  published_at: '2025-10-06'
+commit_history:
+  2025-08: 93
+  2025-09: 36
+  2025-10: 30

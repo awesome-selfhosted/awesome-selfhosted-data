@@ -10,6 +10,13 @@ platforms:
 tags:
   - Conference Management
 demo_url: https://sandbox.motion.tools/createsite
-stargazers_count: 122
-updated_at: '2025-08-09'
+stargazers_count: 124
+updated_at: '2025-10-24'
 archived: false
+current_release:
+  tag: v4.15.3
+  published_at: '2025-05-13'
+commit_history:
+  2025-08: 62
+  2025-09: 23
+  2025-10: 15

@@ -11,6 +11,13 @@ tags:
 source_code_url: https://github.com/BreizhHardware/ntfy_alerts
 related_software_url: https://github.com/binwiederhier/ntfy
 depends_3rdparty: true
-stargazers_count: 37
+stargazers_count: 45
 updated_at: '2025-06-16'
 archived: false
+current_release:
+  tag: v2.0.2
+  published_at: '2025-06-16'
+commit_history:
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0

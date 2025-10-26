@@ -1,0 +1,21 @@
+name: Colanode
+website_url: https://colanode.com
+source_code_url: https://github.com/colanode/colanode
+description: Collaboration suite with real-time messaging, rich text pages, file management, and dynamic databases - built for offline work (alternative to Slack, Notion).
+licenses:
+  - Apache-2.0
+platforms:
+  - K8S
+  - Docker
+tags:
+  - Groupware
+stargazers_count: 4023
+updated_at: '2025-10-23'
+archived: false
+current_release:
+  tag: v0.3.11
+  published_at: '2025-10-23'
+commit_history:
+  2025-08: 30
+  2025-09: 11
+  2025-10: 8

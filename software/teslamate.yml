@@ -1,5 +1,5 @@
 name: TeslaMate
-website_url: https://github.com/adriankumpf/teslamate
+website_url: https://github.com/teslamate-org/teslamate
 description: A powerful data logger for Tesla vehicles.
 licenses:
   - MIT
@@ -8,7 +8,14 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-source_code_url: https://github.com/adriankumpf/teslamate
-stargazers_count: 6953
-updated_at: '2025-08-06'
+source_code_url: https://github.com/teslamate-org/teslamate
+stargazers_count: 7224
+updated_at: '2025-10-13'
 archived: false
+current_release:
+  tag: v2.1.1
+  published_at: '2025-08-16'
+commit_history:
+  2025-08: 18
+  2025-09: 8
+  2025-10: 30

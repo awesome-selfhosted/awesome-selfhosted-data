@@ -1,6 +1,6 @@
 name: ToolJet
 website_url: https://tooljet.io/
-description: Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool & Mendix).
+description: Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool and Mendix).
 licenses:
   - GPL-3.0
 platforms:
@@ -10,6 +10,13 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/ToolJet/ToolJet
-stargazers_count: 36286
-updated_at: '2025-08-08'
+stargazers_count: 36801
+updated_at: '2025-10-24'
 archived: false
+current_release:
+  tag: v3.20.26-lts
+  published_at: '2025-10-23'
+commit_history:
+  2025-08: 229
+  2025-09: 91
+  2025-10: 17

@@ -9,6 +9,13 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/bpatrik/pigallery2
-stargazers_count: 1963
-updated_at: '2025-08-05'
+stargazers_count: 2005
+updated_at: '2025-10-24'
 archived: false
+current_release:
+  tag: 2.0.0
+  published_at: '2023-10-12'
+commit_history:
+  2025-08: 75
+  2025-09: 73
+  2025-10: 39

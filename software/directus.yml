@@ -9,6 +9,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/directus/directus
-stargazers_count: 31917
-updated_at: '2025-08-08'
+stargazers_count: 33286
+updated_at: '2025-10-24'
 archived: false
+current_release:
+  tag: v11.12.0
+  published_at: '2025-09-16'
+commit_history:
+  2025-08: 60
+  2025-09: 29
+  2025-10: 39

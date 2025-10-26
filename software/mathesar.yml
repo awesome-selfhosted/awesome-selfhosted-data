@@ -8,7 +8,14 @@ platforms:
   - Python
 tags:
   - Database Management
-source_code_url: https://github.com/centerofci/mathesar
-stargazers_count: 4332
-updated_at: '2025-08-05'
+source_code_url: https://github.com/mathesar-foundation/mathesar
+stargazers_count: 4554
+updated_at: '2025-10-20'
 archived: false
+current_release:
+  tag: 0.7.0
+  published_at: '2025-10-21'
+commit_history:
+  2025-08: 365
+  2025-09: 334
+  2025-10: 179

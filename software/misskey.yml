@@ -9,13 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/misskey-dev/misskey
-stargazers_count: 10798
-updated_at: '2025-10-25'
+stargazers_count: 10800
+updated_at: '2025-10-26'
 archived: false
 current_release:
-  tag: 2025.10.1
-  published_at: '2025-10-24'
+  tag: 2025.10.2-beta.0
+  published_at: '2025-10-26'
 commit_history:
   2025-08: 214
   2025-09: 87
-  2025-10: 125
+  2025-10: 130

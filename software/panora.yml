@@ -12,7 +12,7 @@ tags:
 depends_3rdparty: true
 stargazers_count: 1029
 updated_at: '2025-10-14'
-archived: false
+archived: true
 current_release:
   tag: '@panora/frontend-sdk@1.2.0'
   published_at: '2024-07-27'

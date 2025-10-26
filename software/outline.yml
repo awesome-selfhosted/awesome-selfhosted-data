@@ -10,13 +10,13 @@ tags:
   - Wikis
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
-stargazers_count: 35577
-updated_at: '2025-10-25'
+stargazers_count: 35589
+updated_at: '2025-10-26'
 archived: false
 current_release:
-  tag: v0.87.4
-  published_at: '2025-09-18'
+  tag: v1.0.0
+  published_at: '2025-10-26'
 commit_history:
   2025-08: 145
   2025-09: 90
-  2025-10: 113
+  2025-10: 116

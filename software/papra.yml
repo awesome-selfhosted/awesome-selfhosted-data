@@ -10,8 +10,8 @@ tags:
   - Document Management
   - Archiving and Digital Preservation (DP)
 demo_url: https://demo.papra.app/
-stargazers_count: 2531
-updated_at: '2025-10-25'
+stargazers_count: 2545
+updated_at: '2025-10-26'
 archived: false
 current_release:
   tag: '@papra/docker@25.10.1'
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2025-08: 22
   2025-09: 33
-  2025-10: 56
+  2025-10: 61

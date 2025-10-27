@@ -10,8 +10,8 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/minio/minio
-stargazers_count: 57403
-updated_at: '2025-10-24'
+stargazers_count: 57456
+updated_at: '2025-10-27'
 archived: false
 current_release:
   tag: RELEASE.2025-10-15T17-29-55Z
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2025-08: 18
   2025-09: 12
-  2025-10: 15
+  2025-10: 16

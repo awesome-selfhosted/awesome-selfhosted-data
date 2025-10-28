@@ -9,7 +9,7 @@ tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/tigase/tigase-server
 stargazers_count: 346
-updated_at: '2025-10-27'
+updated_at: '2025-10-28'
 archived: false
 current_release:
   tag: tigase-server-8.4.0
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2025-08: 2
   2025-09: 5
-  2025-10: 5
+  2025-10: 6

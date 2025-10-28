@@ -9,6 +9,13 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/madiele/vod2pod-rss
 depends_3rdparty: true
-stargazers_count: 321
-updated_at: '2025-10-01'
+stargazers_count: 327
+updated_at: '2025-10-23'
 archived: false
+current_release:
+  tag: v1.2.4
+  published_at: '2025-04-08'
+commit_history:
+  2025-08: 15
+  2025-09: 13
+  2025-10: 11

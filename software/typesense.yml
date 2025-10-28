@@ -11,6 +11,13 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/typesense/typesense
-stargazers_count: 24458
-updated_at: '2025-10-08'
+stargazers_count: 24589
+updated_at: '2025-10-27'
 archived: false
+current_release:
+  tag: v29.0
+  published_at: '2025-06-30'
+commit_history:
+  2025-08: 30
+  2025-09: 32
+  2025-10: 18

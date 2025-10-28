@@ -1,0 +1,13 @@
+name: FMD Server
+website_url: https://fmd-foss.org
+source_code_url: https://gitlab.com/fmd-foss/fmd-server
+description: A server to communicate with the FMD (Find My Device) Android app, to locate and control your devices.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Internet of Things (IoT)
+  - Remote Access
+related_software_url: "https://gitlab.com/fmd-foss/fmd-android"

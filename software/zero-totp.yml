@@ -1,0 +1,20 @@
+name: Zero-TOTP
+website_url: https://zero-totp.com
+source_code_url: https://github.com/SeaweedbrainCY/zero-totp
+description: Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+stargazers_count: 11
+updated_at: '2025-09-30'
+archived: false
+current_release:
+  tag: v1.10.3
+  published_at: '2025-09-30'
+commit_history:
+  2025-08: 17
+  2025-09: 31
+  2025-10: 0

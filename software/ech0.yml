@@ -1,0 +1,18 @@
+name: "Ech0"
+website_url: "https://echo.soopy.cn/"
+source_code_url: "https://github.com/L1nSn0w/Ech0"
+description: "A next-generation open-source, self-hosted, lightweight federated publishing platform focused on personal idea sharing."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Linux
+  - ARM
+tags:
+  - Microblogging Platforms
+  - Federated Identity & Communication
+  - Personal Publishing
+depends_3rdparty: false
+demo_url: "https://memo.vaaat.com/"
+
+  

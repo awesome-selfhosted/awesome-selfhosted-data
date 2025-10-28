@@ -6,13 +6,11 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Linux
-  - ARM
+  - Go
 tags:
-  - Microblogging Platforms
-  - Federated Identity & Communication
-  - Personal Publishing
+  - Blogging Platforms
+  - Communication - Social Networks and Forums
+  - Personal Dashboards
+  - Knowledge Management Tools
 depends_3rdparty: false
 demo_url: "https://memo.vaaat.com/"
-
-  

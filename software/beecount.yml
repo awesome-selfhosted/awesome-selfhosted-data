@@ -1,0 +1,10 @@
+name: BeeCount
+website_url: https://github.com/TNT-Likely/BeeCount
+description: Privacy-first personal accounting app with self-hosted sync (Supabase/WebDAV). Supports iOS/Android, multi-ledger management, chart analysis, and import from Alipay/WeChat.
+licenses:
+  - MIT
+platforms:
+  - Flutter
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/TNT-Likely/BeeCount

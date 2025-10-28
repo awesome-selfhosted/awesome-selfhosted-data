@@ -4,7 +4,7 @@ description: Privacy-first personal accounting app with self-hosted sync (Supaba
 licenses:
   - MIT
 platforms:
-  - Flutter
+  - Dart
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/TNT-Likely/BeeCount

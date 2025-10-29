@@ -6,12 +6,10 @@ licenses:
   - MIT
 platforms:
   - Nodejs
-  - TypeScript
   - Docker
 tags:
-  - File sharing
+  - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins
-  - URL shorteners
-  - Code sharing
+  - URL Shorteners
 depends_3rdparty: false
 demo_url: "https://s.romain-pinsolle.fr"

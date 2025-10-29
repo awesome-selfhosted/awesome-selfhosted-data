@@ -9,8 +9,8 @@ platforms:
 tags:
   - Password Managers
 source_code_url: https://github.com/dani-garcia/vaultwarden
-stargazers_count: 50277
-updated_at: '2025-10-21'
+stargazers_count: 50295
+updated_at: '2025-10-29'
 archived: false
 current_release:
   tag: 1.34.3
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2025-08: 28
   2025-09: 0
-  2025-10: 10
+  2025-10: 13

@@ -1,0 +1,17 @@
+name: "Snowshare"
+website_url: "https://s.romain-pinsolle.fr"
+source_code_url: "https://github.com/TuroYT/snowshare"
+description: "Modern, secure file and link sharing platform built with Next.js, Prisma and NextAuth. Share URLs, code snippets and files with customizable expiration, privacy and QR codes."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - TypeScript
+  - Docker
+tags:
+  - File sharing
+  - Pastebins
+  - URL shorteners
+  - Code sharing
+depends_3rdparty: false
+demo_url: "https://s.romain-pinsolle.fr"

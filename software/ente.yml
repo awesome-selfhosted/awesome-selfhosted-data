@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 22509
-updated_at: '2025-10-29'
+stargazers_count: 22529
+updated_at: '2025-10-30'
 archived: false
 current_release:
   tag: auth-v4.4.8-beta
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2025-08: 881
   2025-09: 582
-  2025-10: 818
+  2025-10: 868

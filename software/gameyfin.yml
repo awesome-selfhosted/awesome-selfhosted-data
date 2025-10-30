@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 802
+stargazers_count: 803
 updated_at: '2025-10-08'
 archived: false
 current_release:
-  tag: v2.2.0.rc1
-  published_at: '2025-10-27'
+  tag: v2.2.0.rc2
+  published_at: '2025-10-30'
 commit_history:
   2025-08: 6
   2025-09: 47

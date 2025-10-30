@@ -8,13 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/payloadcms/payload
-stargazers_count: 38435
-updated_at: '2025-10-29'
+stargazers_count: 38459
+updated_at: '2025-10-30'
 archived: false
 current_release:
-  tag: v3.61.1
-  published_at: '2025-10-24'
+  tag: v3.62.0
+  published_at: '2025-10-30'
 commit_history:
   2025-08: 122
   2025-09: 164
-  2025-10: 167
+  2025-10: 183

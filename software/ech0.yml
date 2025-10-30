@@ -6,6 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - K8S
 tags:
   - Blogging Platforms
   - Content Management Systems (CMS)

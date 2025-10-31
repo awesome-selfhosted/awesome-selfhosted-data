@@ -12,7 +12,7 @@ tags:
 depends_3rdparty: true
 demo_url: https://statistics-for-strava.robiningelbrecht.be/
 stargazers_count: 1238
-updated_at: '2025-10-29'
+updated_at: '2025-10-30'
 archived: false
 current_release:
   tag: v3.8.2
@@ -20,4 +20,4 @@ current_release:
 commit_history:
   2025-08: 88
   2025-09: 89
-  2025-10: 186
+  2025-10: 193

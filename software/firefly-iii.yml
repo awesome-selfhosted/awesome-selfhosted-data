@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
 stargazers_count: 21320
-updated_at: '2025-10-29'
+updated_at: '2025-10-31'
 archived: false
 current_release:
-  tag: develop-20251030
-  published_at: '2025-10-30'
+  tag: 6.4.3
+  published_at: '2025-10-31'
 commit_history:
   2025-08: 350
   2025-09: 176
-  2025-10: 59
+  2025-10: 189

@@ -9,13 +9,13 @@ platforms:
   - Go
 tags:
   - Web Servers
-stargazers_count: 2534
-updated_at: '2025-10-30'
+stargazers_count: 2541
+updated_at: '2025-10-31'
 archived: false
 current_release:
-  tag: v0.20.4
-  published_at: '2025-10-29'
+  tag: v0.20.5
+  published_at: '2025-10-31'
 commit_history:
   2025-08: 40
   2025-09: 142
-  2025-10: 150
+  2025-10: 160

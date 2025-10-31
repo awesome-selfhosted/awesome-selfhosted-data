@@ -1,0 +1,12 @@
+name: NexMail
+website_url: https://nexmail.app
+description: A modern webmail for self-hosted mail servers
+source_code_url: https://codeberg.org/nexmail/NexMail
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Vue.js
+  - JavaScript
+tags:
+  - Communication - Email - Webmail Clients

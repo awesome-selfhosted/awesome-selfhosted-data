@@ -1,0 +1,13 @@
+name: "Ech0"
+website_url: "https://echo.soopy.cn/"
+source_code_url: "https://github.com/lin-snow/Ech0"
+description: "Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Blogging Platforms
+  - Content Management Systems (CMS)
+demo_url: "https://memo.vaaat.com/"

@@ -10,8 +10,8 @@ platforms:
   - Docker
 tags:
   - Photo Galleries
-stargazers_count: 747
-updated_at: '2025-10-30'
+stargazers_count: 754
+updated_at: '2025-11-01'
 archived: false
 current_release:
   tag: 1.8.1
@@ -20,3 +20,4 @@ commit_history:
   2025-08: 22
   2025-09: 4
   2025-10: 12
+  2025-11: 2

@@ -8,13 +8,14 @@ platforms:
 tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/filebrowser/filebrowser
-stargazers_count: 31777
-updated_at: '2025-10-22'
+stargazers_count: 31787
+updated_at: '2025-11-01'
 archived: false
 current_release:
-  tag: v2.44.2
-  published_at: '2025-10-22'
+  tag: v2.45.0
+  published_at: '2025-11-01'
 commit_history:
   2025-08: 13
   2025-09: 20
   2025-10: 8
+  2025-11: 4

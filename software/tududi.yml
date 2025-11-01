@@ -1,0 +1,10 @@
+name: "tududi"
+website_url: "https://tududi.com/"
+source_code_url: "https://github.com/chrisvel/tududi"
+description: "Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Task Management & To-do Lists

@@ -1,0 +1,13 @@
+name: "Domain Watchdog"
+website_url: "https://github.com/maelgangloff/domain-watchdog"
+source_code_url: "https://github.com/maelgangloff/domain-watchdog"
+description: "Uses RDAP to collect publicly available info about domains, track their history, and purchase them."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Miscellaneous
+depends_3rdparty: true
+demo_url: "https://demo.domainwatchdog.eu/"

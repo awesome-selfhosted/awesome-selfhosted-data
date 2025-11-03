@@ -1,0 +1,15 @@
+name: "Devpod"
+website_url: "https://devpod.sh/"
+source_code_url: "https://github.com/loft-sh/devpod"
+description: "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+licenses:
+  - MPL-2.0 license
+platforms:
+  - Java
+  - Python
+  - PHP
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Software Development - IDE & Tools

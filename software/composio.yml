@@ -10,13 +10,13 @@ tags:
   - Software Development - API Management
 depends_3rdparty: true
 stargazers_count: 25865
-updated_at: '2025-11-01'
+updated_at: '2025-11-03'
 archived: false
 current_release:
-  tag: '@composio/vercel@0.2.14'
-  published_at: '2025-10-31'
+  tag: v0.9.1
+  published_at: '2025-11-03'
 commit_history:
   2025-08: 60
   2025-09: 117
   2025-10: 132
-  2025-11: 2
+  2025-11: 5

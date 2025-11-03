@@ -9,14 +9,14 @@ platforms:
   - K8S
 tags:
   - Miscellaneous
-stargazers_count: 4442
-updated_at: '2025-11-01'
+stargazers_count: 4446
+updated_at: '2025-11-03'
 archived: false
 current_release:
-  tag: v1.6.10
-  published_at: '2025-10-31'
+  tag: v1.6.11
+  published_at: '2025-11-03'
 commit_history:
   2025-08: 3
   2025-09: 8
   2025-10: 8
-  2025-11: 4
+  2025-11: 8

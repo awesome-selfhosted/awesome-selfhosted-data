@@ -11,14 +11,14 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/coder
-stargazers_count: 11362
-updated_at: '2025-11-03'
+stargazers_count: 11375
+updated_at: '2025-11-04'
 archived: false
 current_release:
-  tag: v2.27.3
-  published_at: '2025-10-30'
+  tag: v2.28.0
+  published_at: '2025-11-04'
 commit_history:
   2025-08: 302
   2025-09: 232
   2025-10: 354
-  2025-11: 36
+  2025-11: 38

@@ -8,14 +8,14 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/evidence-dev/evidence
-stargazers_count: 5663
-updated_at: '2025-11-03'
+stargazers_count: 5667
+updated_at: '2025-11-04'
 archived: false
 current_release:
-  tag: '@evidence-dev/redshift@1.0.8'
-  published_at: '2025-11-03'
+  tag: '@evidence-dev/tailwind@3.1.0'
+  published_at: '2025-11-04'
 commit_history:
   2025-08: 0
-  2025-09: 0
+  2025-09: 2
   2025-10: 12
-  2025-11: 16
+  2025-11: 61

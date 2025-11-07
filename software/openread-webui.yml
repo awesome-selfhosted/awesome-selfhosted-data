@@ -1,0 +1,11 @@
+name: "OpenReader WebUI"
+website_url: "https://openreader.richardr.dev/"
+source_code_url: "https://github.com/richardr1126/OpenReader-WebUI"
+description: "Description of my awesome software."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://openreader.richardr.dev/"

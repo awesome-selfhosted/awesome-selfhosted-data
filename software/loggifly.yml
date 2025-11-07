@@ -1,0 +1,10 @@
+name: "LoggiFly"
+website_url: "https://clemcer.github.io/LoggiFly/"
+source_code_url: "https://github.com/clemcer/loggifly"
+description: "Get Alerts from your Docker Container Logs."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Network Utilities

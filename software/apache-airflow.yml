@@ -9,13 +9,14 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/apache/airflow/
-stargazers_count: 42995
-updated_at: '2025-10-30'
+stargazers_count: 43093
+updated_at: '2025-11-06'
 archived: false
 current_release:
-  tag: 3.1.1
-  published_at: '2025-10-27'
+  tag: 3.1.2
+  published_at: '2025-11-05'
 commit_history:
   2025-08: 566
   2025-09: 608
-  2025-10: 634
+  2025-10: 663
+  2025-11: 163

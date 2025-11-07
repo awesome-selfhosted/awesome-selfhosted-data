@@ -1,0 +1,12 @@
+name: "OpenCloud"
+website_url: "https://docs.opencloud.eu/"
+source_code_url: "https://github.com/opencloud-eu/opencloud"
+description: "File Sharing and Collaboration Platform."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+  - Nodejs
+tags:
+  - File Transfer & Synchronization

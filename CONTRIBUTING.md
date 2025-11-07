@@ -120,6 +120,8 @@ To save maintainers time, a few premade replies for common issues can be found b
 >
 >Thanks for understanding, and good luck with this project.
 
+>
+
 ### Other operations
 
 **Rename a tag/category:** the tag must be renamed in the appropriate `tags/mytag.yml` file. All references to it must be updated in `tags/*.yml` and `software/*.yml`.

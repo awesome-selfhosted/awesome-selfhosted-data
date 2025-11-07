@@ -7,7 +7,7 @@ licenses:
 platforms:
   - deb
   - Docker
-  - Shell 
+  - Perl
 tags:
   - Media Streaming - Audio Streaming
 related_software_url: "https://lyrion.org/extensions/applications/"

@@ -10,8 +10,8 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/TykTechnologies/tyk
-stargazers_count: 10468
-updated_at: '2025-11-06'
+stargazers_count: 10469
+updated_at: '2025-11-07'
 archived: false
 current_release:
   tag: v5.8.7-alpha-performance-1
@@ -20,4 +20,4 @@ commit_history:
   2025-08: 22
   2025-09: 26
   2025-10: 34
-  2025-11: 7
+  2025-11: 9

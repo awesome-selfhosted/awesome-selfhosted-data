@@ -1,7 +1,7 @@
-name: "LobeHub"
-website_url: "https://www.lobehub.com"
-source_code_url: "https://github.com/lobehub/lobe-chat"
-description: "Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking."
+name: LobeHub
+website_url: https://www.lobehub.com
+source_code_url: https://github.com/lobehub/lobe-chat
+description: Modern design AI chat framework supporting multiple AI providers, one click install MCP Marketplace and Artifacts / Thinking.
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -9,5 +9,15 @@ platforms:
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)
-demo_url: "https://www.lobechat.com"
-related_software_url: "https://lobehub.com/mcp"
+demo_url: https://www.lobechat.com
+related_software_url: https://lobehub.com/mcp
+stargazers_count: 67573
+updated_at: '2025-11-09'
+archived: false
+current_release:
+  tag: v2.0.0-next.43
+  published_at: '2025-11-09'
+commit_history:
+  2025-09: 331
+  2025-10: 375
+  2025-11: 161

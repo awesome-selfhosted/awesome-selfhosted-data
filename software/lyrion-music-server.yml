@@ -1,7 +1,7 @@
 name: "Lyrion Music Server"
 website_url: "https://lyrion.org/"
 source_code_url: "https://github.com/lms-community/slimserver"
-description: "Server for Squeezebox and compatible players."
+description: "The server software that powers audio players from Logitech (formerly known as SlimDevices) and many software emulators like Squeezelite and SqueezePlay."
 licenses:
   - GPL-2.0
 platforms:

@@ -9,8 +9,8 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/Zibbp/ganymede
 depends_3rdparty: true
-stargazers_count: 862
-updated_at: '2025-11-11'
+stargazers_count: 865
+updated_at: '2025-11-13'
 archived: false
 current_release:
   tag: v4.9.0
@@ -19,4 +19,4 @@ commit_history:
   2025-08: 37
   2025-09: 57
   2025-10: 59
-  2025-11: 13
+  2025-11: 15

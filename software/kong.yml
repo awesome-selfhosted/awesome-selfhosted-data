@@ -11,8 +11,8 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/Kong/kong
-stargazers_count: 42181
-updated_at: '2025-10-28'
+stargazers_count: 42195
+updated_at: '2025-11-14'
 archived: false
 current_release:
   tag: 3.9.1
@@ -21,4 +21,4 @@ commit_history:
   2025-08: 3
   2025-09: 6
   2025-10: 4
-  2025-11: 0
+  2025-11: 1

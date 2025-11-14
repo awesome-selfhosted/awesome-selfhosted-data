@@ -8,8 +8,8 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/shellhub-io/shellhub
-stargazers_count: 1811
-updated_at: '2025-11-13'
+stargazers_count: 1813
+updated_at: '2025-11-14'
 archived: false
 current_release:
   tag: v0.21.0-rc.2
@@ -18,4 +18,4 @@ commit_history:
   2025-08: 101
   2025-09: 196
   2025-10: 234
-  2025-11: 76
+  2025-11: 91

@@ -1,0 +1,12 @@
+name: Domain Watchdog
+website_url: https://domainwatchdog.eu
+source_code_url: https://github.com/maelgangloff/domain-watchdog
+description: Monitor and auto-purchase domain names when they become available.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: https://demo.domainwatchdog.eu

@@ -3,7 +3,7 @@ website_url: "https://explorer.nxz.ai"
 source_code_url: "https://github.com/vikramsoni2/nextExplorer"
 description: "nextExplorer is a modern self-hosted file explorer that secures storage with local users or optional OIDC, offers inline editing, ripgrep search, media thumbnails, drag-and-drop, and optional OnlyOffice integration."
 licenses:
-  - GPL-3.0-or-later
+  - GPL-3.0
 platforms:
   - Nodejs
   - Javascript

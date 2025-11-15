@@ -1,0 +1,13 @@
+name: "otterwiki"
+website_url: "https://otterwiki.com/"
+source_code_url: "https://github.com/redimp/otterwiki"
+description: "Minimalistic wiki where the content is stored in a git repository."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+  - Python
+tags:
+  - Wikis
+demo_url: "https://demo.otterwiki.com/"

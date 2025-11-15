@@ -1,0 +1,10 @@
+name: "OmniTools"
+website_url: "https://omnitools.app/"
+source_code_url: "https://github.com/iib0011/omni-tools"
+description: "Collection of powerful web-based tools for everyday tasks."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous

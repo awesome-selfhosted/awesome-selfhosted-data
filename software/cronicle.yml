@@ -1,0 +1,10 @@
+name: "Cronicle"
+website_url: "https://cronicle.net/"
+source_code_url: "https://github.com/jhuckaby/Cronicle"
+description: "Simple, distributed task scheduler and runner with a web based UI."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation

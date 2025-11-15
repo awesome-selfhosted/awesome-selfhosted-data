@@ -1,11 +1,13 @@
 name: PdfDing
-website_url: https://github.com/mrmn2/PdfDing
+website_url: https://www.pdfding.com
 source_code_url: https://github.com/mrmn2/PdfDing
+demo_url: https://demo.pdfding.com
 description: PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker.
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - K8S
 tags:
   - Document Management
 stargazers_count: 1394

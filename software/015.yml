@@ -1,0 +1,11 @@
+name: "015"
+website_url: "https://send.fudaoyuan.icu"
+source_code_url: "https://github.com/keven1024/015"
+description: "A temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+  - Pastebins

@@ -1,0 +1,11 @@
+name: "OpenReader WebUI"
+website_url: "https://openreader.richardr.dev/"
+source_code_url: "https://github.com/richardr1126/OpenReader-WebUI"
+description: "EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://openreader.richardr.dev/"

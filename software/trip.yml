@@ -5,7 +5,6 @@ description: "Minimalist POI Map tracker and Trip planner."
 licenses:
   - CC-BY-NC-4.0
 platforms:
-  - Python
   - Docker
 tags:
   - Maps and Global Positioning System (GPS)

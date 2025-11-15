@@ -1,0 +1,12 @@
+name: "Libredesk"
+website_url: "https://libredesk.io/"
+source_code_url: "https://github.com/abhinavxd/libredesk"
+description: "Modern customer support desk. Single binary app."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+  - Nodejs
+tags:
+  - Ticketing

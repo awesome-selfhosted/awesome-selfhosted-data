@@ -10,8 +10,8 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 2002
-updated_at: '2025-11-06'
+stargazers_count: 2004
+updated_at: '2025-11-15'
 archived: false
 current_release:
   tag: v2.39.0
@@ -20,4 +20,4 @@ commit_history:
   2025-08: 1
   2025-09: 5
   2025-10: 6
-  2025-11: 1
+  2025-11: 3

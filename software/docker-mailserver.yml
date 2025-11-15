@@ -8,8 +8,8 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/docker-mailserver/docker-mailserver
-stargazers_count: 17389
-updated_at: '2025-11-13'
+stargazers_count: 17395
+updated_at: '2025-11-15'
 archived: false
 current_release:
   tag: v15.1.0
@@ -18,4 +18,4 @@ commit_history:
   2025-08: 14
   2025-09: 5
   2025-10: 10
-  2025-11: 3
+  2025-11: 4

@@ -8,14 +8,14 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/evidence-dev/evidence
-stargazers_count: 5689
-updated_at: '2025-11-14'
+stargazers_count: 5690
+updated_at: '2025-11-15'
 archived: false
 current_release:
-  tag: '@evidence-dev/tailwind@3.1.0'
-  published_at: '2025-11-04'
+  tag: '@evidence-dev/universal-sql@3.0.0'
+  published_at: '2025-11-15'
 commit_history:
   2025-08: 0
   2025-09: 2
   2025-10: 12
-  2025-11: 85
+  2025-11: 87

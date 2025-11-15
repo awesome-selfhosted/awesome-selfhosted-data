@@ -1,0 +1,14 @@
+name: LangGraph-GUI
+description: Interactive visual interface for designing and managing LangGraph workflows, allowing users to build, connect, and execute graph-based LLM pipelines using a drag-and-drop GUI.
+website_url: "https://LangGraph-GUI.github.io"
+source_code_url: "https://github.com/LangGraph-GUI/LangGraph-GUI"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+  - K8S
+tags:
+  - Software Development - Low Code
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

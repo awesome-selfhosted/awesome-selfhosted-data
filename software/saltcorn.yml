@@ -1,0 +1,16 @@
+name: "Saltcorn"
+website_url: "https://saltcorn.com"
+source_code_url: "https://github.com/saltcorn/saltcorn"
+description: "No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications"
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Low Code
+  - Database Management
+  - Automation  
+depends_3rdparty: false
+demo_url: "https://saltcorn.com/"
+related_software_url: "https://store.saltcorn.com/"

@@ -1,0 +1,11 @@
+name: "CordysCRM"
+website_url: "https://cordys.cn/"
+source_code_url: "https://github.com/1Panel-dev/CordysCRM"
+description: "A new-generation open-source AI CRM system that integrates digitalization, automation, and intelligent customer management."
+licenses:
+  - GPLv3
+platforms:
+  - Docker
+  - Java
+tags:
+  - CRM

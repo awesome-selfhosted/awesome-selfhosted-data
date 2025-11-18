@@ -1,0 +1,15 @@
+name: "Eonvelope"
+website_url: "https:/dacid99.gitlab.io/eonvelope"
+source_code_url: "https://gitlab.com/dacid99/eonvelope"
+description: "Preserve your emails with this open-source email archive designed for the self-hosted community"
+licenses:
+  - AGPL-3.0
+  - CC-BY-SA-4.0
+platforms:
+  - Python
+  - Django
+  - Docker
+tags:
+  - Archiving and Digital Preservation (DP)
+  - Communication - Email - Mail Delivery Agents
+depends_3rdparty: false

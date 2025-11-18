@@ -120,6 +120,8 @@ To save maintainers time, a few premade replies for common issues can be found b
 >
 >Thanks for understanding, and good luck with this project.
 
+#### First release less than 4 months old
+
 >Hi, thanks for your contribution.
 >
 >Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are >adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need >not rely on the latest development version to use the project.

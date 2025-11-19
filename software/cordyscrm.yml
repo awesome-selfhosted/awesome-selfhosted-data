@@ -5,7 +5,7 @@ description: "A new-generation open-source AI CRM system that integrates digital
 licenses:
   - GPLv3
 platforms:
-  - Docker
   - Java
+  - Docker
 tags:
   - CRM

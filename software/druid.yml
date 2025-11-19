@@ -10,13 +10,13 @@ tags:
   - Analytics
 source_code_url: https://github.com/apache/druid
 stargazers_count: 13869
-updated_at: '2025-11-13'
+updated_at: '2025-11-18'
 archived: false
 current_release:
-  tag: druid-34.0.0
-  published_at: '2025-08-11'
+  tag: druid-35.0.0
+  published_at: '2025-11-18'
 commit_history:
   2025-08: 72
   2025-09: 86
   2025-10: 72
-  2025-11: 22
+  2025-11: 24

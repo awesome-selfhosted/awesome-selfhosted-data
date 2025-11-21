@@ -10,8 +10,8 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/gravitational/teleport
-stargazers_count: 19419
-updated_at: '2025-11-20'
+stargazers_count: 19420
+updated_at: '2025-11-21'
 archived: false
 current_release:
   tag: v18.4.1
@@ -20,4 +20,4 @@ commit_history:
   2025-08: 347
   2025-09: 386
   2025-10: 370
-  2025-11: 260
+  2025-11: 282

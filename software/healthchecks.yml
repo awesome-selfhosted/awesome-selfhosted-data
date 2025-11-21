@@ -9,8 +9,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/healthchecks/healthchecks
-stargazers_count: 9617
-updated_at: '2025-11-20'
+stargazers_count: 9620
+updated_at: '2025-11-21'
 archived: false
 current_release:
   tag: v3.11.2
@@ -19,4 +19,4 @@ commit_history:
   2025-08: 24
   2025-09: 32
   2025-10: 115
-  2025-11: 7
+  2025-11: 9

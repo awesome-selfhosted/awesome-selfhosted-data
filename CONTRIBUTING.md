@@ -124,9 +124,9 @@ To save maintainers time, a few premade replies for common issues can be found b
 
 >Hi, thanks for your contribution.
 >
->Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are >adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need >not rely on the latest development version to use the project.
+>Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need not rely on the latest development version to use the project.
 >
->I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is four months old, feel >free to resubmit it to awesome-selfhosted, or you can create an issue instead (we don't close issues; we just tag them to indicate >they need to mature).
+>I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is four months old, feel free to resubmit it to awesome-selfhosted, or you can create an issue instead (we don't close issues; we just tag them to indicate they need to mature).
 >
 >Thanks for understanding, and good luck with this project.
 

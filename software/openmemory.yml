@@ -1,0 +1,19 @@
+# software name
+name: "OpenMemory"
+# URL of the software project's homepage
+website_url: "https://openmemory.cavira.app"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/caviraoss/openmemory"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Add Long-Term self-evolving memory to AI/Agents in one line."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - automation

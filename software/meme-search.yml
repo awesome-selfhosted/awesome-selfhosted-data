@@ -4,8 +4,6 @@ description: AI-powered meme search engine. Automatically extracts descriptions 
 licenses:
   - Apache-2.0
 platforms:
-  - Python
-  - Ruby
   - Docker
 tags:
   - Search Engines

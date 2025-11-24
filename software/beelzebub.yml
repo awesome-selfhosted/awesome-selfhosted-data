@@ -11,8 +11,8 @@ platforms:
 tags:
   - Miscellaneous
 depends_3rdparty: true
-stargazers_count: 1696
-updated_at: '2025-11-16'
+stargazers_count: 1698
+updated_at: '2025-11-24'
 archived: false
 current_release:
   tag: v3.6.0
@@ -21,4 +21,4 @@ commit_history:
   2025-08: 7
   2025-09: 9
   2025-10: 5
-  2025-11: 6
+  2025-11: 8

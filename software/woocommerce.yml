@@ -8,14 +8,14 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/woocommerce/woocommerce
-stargazers_count: 10068
-updated_at: '2025-11-21'
+stargazers_count: 10071
+updated_at: '2025-11-24'
 archived: false
 current_release:
-  tag: nightly
-  published_at: '2020-04-28'
+  tag: 10.4.0-beta.1
+  published_at: '2025-11-24'
 commit_history:
   2025-08: 229
   2025-09: 233
   2025-10: 229
-  2025-11: 125
+  2025-11: 136

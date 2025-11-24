@@ -1,0 +1,21 @@
+name: TRIP
+website_url: https://itskovacs-trip.netlify.app/
+source_code_url: https://github.com/itskovacs/trip
+description: Minimalist POI Map tracker and Trip planner.
+licenses:
+  - CC-BY-NC-4.0
+platforms:
+  - Docker
+tags:
+  - Maps and Global Positioning System (GPS)
+demo_url: https://itskovacs-trip.netlify.app/home
+stargazers_count: 690
+updated_at: '2025-11-23'
+archived: false
+current_release:
+  tag: 1.33.0
+  published_at: '2025-11-23'
+commit_history:
+  2025-09: 12
+  2025-10: 101
+  2025-11: 137

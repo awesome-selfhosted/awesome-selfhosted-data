@@ -1,0 +1,20 @@
+# software name
+name: "YouthCheckIn"
+# URL of the software project's homepage
+website_url: "https://youthcheckin.net"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/mrcrunchybeans/youthcheckin"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Self-hosted check-in and check-out system for youth programs, featuring family management, authorized pickup controls, kiosk mode, QR-based checkout, event tracking, and custom branding."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+  - JavaScript
+tags:
+  - Calendar & Contacts
+  - Miscellaneous
+  - Task management & To-do lists
+depends_3rdparty: false
+demo_url: "https://demo.youthcheckin.net/"

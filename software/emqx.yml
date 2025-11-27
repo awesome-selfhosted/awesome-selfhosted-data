@@ -10,8 +10,8 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/emqx/emqx
 demo_url: https://www.emqx.com/en/mqtt/public-mqtt5-broker
-stargazers_count: 15575
-updated_at: '2025-11-26'
+stargazers_count: 15580
+updated_at: '2025-11-27'
 archived: false
 current_release:
   tag: e5.9.2
@@ -19,5 +19,5 @@ current_release:
 commit_history:
   2025-08: 628
   2025-09: 823
-  2025-10: 268
-  2025-11: 286
+  2025-10: 269
+  2025-11: 287

@@ -10,8 +10,8 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/syncthing/syncthing
-stargazers_count: 77857
-updated_at: '2025-11-24'
+stargazers_count: 77875
+updated_at: '2025-11-27'
 archived: false
 current_release:
   tag: v2.0.12-rc.1
@@ -20,4 +20,4 @@ commit_history:
   2025-08: 53
   2025-09: 45
   2025-10: 19
-  2025-11: 6
+  2025-11: 7

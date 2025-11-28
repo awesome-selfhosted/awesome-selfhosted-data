@@ -1,2 +1,2 @@
 name: Docker
-description: "[Docker](https://en.wikipedia.org/wiki/Docker_(software)) is a tool that automates the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation."
+description: "[Docker](https://en.wikipedia.org/wiki/Docker_(software)) is a tool that automates the deployment of applications in lightweight containers so that applications can work efficiently in different environments. This page lists software which can run through Docker or similar containerization platforms relying on [OCI](https://en.wikipedia.org/wiki/Open_Container_Initiative) images, such as [Podman](https://en.wikipedia.org/wiki/Podman)"

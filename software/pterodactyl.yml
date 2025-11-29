@@ -8,6 +8,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/pterodactyl/panel
-stargazers_count: 8213
-updated_at: '2025-06-18'
+stargazers_count: 8344
+updated_at: '2025-11-09'
 archived: false
+current_release:
+  tag: v1.11.11
+  published_at: '2025-06-18'
+commit_history:
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1

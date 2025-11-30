@@ -9,13 +9,21 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 8263
+stargazers_count: 8264
 updated_at: '2025-11-29'
 archived: false
 current_release:
   tag: gateway-1.4.18
   published_at: '2025-11-10'
 commit_history:
+  2024-12: 152
+  2025-01: 271
+  2025-02: 231
+  2025-03: 172
+  2025-04: 263
+  2025-05: 270
+  2025-06: 296
+  2025-07: 222
   2025-08: 124
   2025-09: 136
   2025-10: 209

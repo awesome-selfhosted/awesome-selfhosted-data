@@ -9,13 +9,21 @@ platforms:
 tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/roundcube/roundcubemail
-stargazers_count: 6642
+stargazers_count: 6643
 updated_at: '2025-11-29'
 archived: false
 current_release:
   tag: 1.7-beta2
   published_at: '2025-10-01'
 commit_history:
+  2024-12: 14
+  2025-01: 20
+  2025-02: 22
+  2025-03: 30
+  2025-04: 32
+  2025-05: 8
+  2025-06: 37
+  2025-07: 12
   2025-08: 12
   2025-09: 23
   2025-10: 36

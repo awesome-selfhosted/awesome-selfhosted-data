@@ -11,13 +11,21 @@ tags:
 source_code_url: https://github.com/jupyterlab/jupyterlab/
 demo_url: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
 stargazers_count: 14917
-updated_at: '2025-11-27'
+updated_at: '2025-11-30'
 archived: false
 current_release:
   tag: v4.5.0
   published_at: '2025-11-18'
 commit_history:
+  2024-12: 41
+  2025-01: 35
+  2025-02: 43
+  2025-03: 41
+  2025-04: 32
+  2025-05: 26
+  2025-06: 16
+  2025-07: 18
   2025-08: 44
   2025-09: 38
   2025-10: 48
-  2025-11: 22
+  2025-11: 24

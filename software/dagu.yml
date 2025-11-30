@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Automation
-stargazers_count: 2874
+stargazers_count: 2875
 updated_at: '2025-11-30'
 archived: false
 current_release:
-  tag: v1.24.8
-  published_at: '2025-11-23'
+  tag: v1.24.11
+  published_at: '2025-11-30'
 commit_history:
   2024-12: 19
   2025-01: 26
@@ -27,4 +27,4 @@ commit_history:
   2025-08: 85
   2025-09: 44
   2025-10: 65
-  2025-11: 39
+  2025-11: 43

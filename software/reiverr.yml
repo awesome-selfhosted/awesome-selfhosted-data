@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-stargazers_count: 2047
+stargazers_count: 2048
 updated_at: '2025-02-22'
 archived: false
 current_release:
   tag: v2.2.0
   published_at: '2025-02-22'
 commit_history:
-  2024-12: 13
   2025-01: 1
   2025-02: 75
   2025-03: 0
@@ -28,3 +27,4 @@ commit_history:
   2025-09: 0
   2025-10: 0
   2025-11: 0
+  2025-12: 0

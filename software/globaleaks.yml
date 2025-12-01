@@ -12,13 +12,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 stargazers_count: 1411
-updated_at: '2025-11-30'
+updated_at: '2025-12-01'
 archived: false
 current_release:
   tag: v5.0.85
   published_at: '2025-10-12'
 commit_history:
-  2024-12: 88
   2025-01: 62
   2025-02: 84
   2025-03: 130
@@ -29,4 +28,5 @@ commit_history:
   2025-08: 68
   2025-09: 95
   2025-10: 50
-  2025-11: 39
+  2025-11: 42
+  2025-12: 3

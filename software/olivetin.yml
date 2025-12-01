@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/OliveTin/OliveTin
-stargazers_count: 3296
-updated_at: '2025-11-27'
+stargazers_count: 3297
+updated_at: '2025-12-01'
 archived: false
 current_release:
-  tag: 3000.5.0
-  published_at: '2025-11-27'
+  tag: 3000.6.0
+  published_at: '2025-12-01'
 commit_history:
-  2024-12: 8
   2025-01: 4
   2025-02: 12
   2025-03: 14
@@ -26,4 +25,5 @@ commit_history:
   2025-08: 11
   2025-09: 3
   2025-10: 100
-  2025-11: 83
+  2025-11: 91
+  2025-12: 12

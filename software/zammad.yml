@@ -9,11 +9,10 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/zammad/zammad
-stargazers_count: 5239
-updated_at: '2025-11-29'
+stargazers_count: 5242
+updated_at: '2025-12-01'
 archived: false
 commit_history:
-  2024-12: 101
   2025-01: 127
   2025-02: 150
   2025-03: 173
@@ -24,4 +23,5 @@ commit_history:
   2025-08: 129
   2025-09: 189
   2025-10: 175
-  2025-11: 163
+  2025-11: 164
+  2025-12: 9

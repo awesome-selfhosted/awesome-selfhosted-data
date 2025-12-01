@@ -9,14 +9,13 @@ tags:
   - Booking and Scheduling
 source_code_url: https://github.com/calcom/cal.com
 demo_url: https://app.cal.com/bailey
-stargazers_count: 38985
-updated_at: '2025-11-29'
+stargazers_count: 38993
+updated_at: '2025-12-01'
 archived: false
 current_release:
   tag: v5.9.6
   published_at: '2025-11-27'
 commit_history:
-  2024-12: 300
   2025-01: 305
   2025-02: 295
   2025-03: 387
@@ -28,3 +27,4 @@ commit_history:
   2025-09: 373
   2025-10: 274
   2025-11: 248
+  2025-12: 14

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Analytics
 demo_url: https://demo.rybbit.io/21/
-stargazers_count: 9772
-updated_at: '2025-11-30'
+stargazers_count: 9776
+updated_at: '2025-12-01'
 archived: false
 current_release:
   tag: v2.2.0
   published_at: '2025-11-22'
 commit_history:
-  2024-12: 0
   2025-01: 12
   2025-02: 111
   2025-03: 113
@@ -26,5 +25,6 @@ commit_history:
   2025-07: 44
   2025-08: 67
   2025-09: 46
-  2025-10: 141
-  2025-11: 215
+  2025-10: 214
+  2025-11: 287
+  2025-12: 15

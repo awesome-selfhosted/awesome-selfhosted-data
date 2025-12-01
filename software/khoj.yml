@@ -10,14 +10,13 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 demo_url: https://app.khoj.dev/
-stargazers_count: 31770
+stargazers_count: 31780
 updated_at: '2025-11-30'
 archived: false
 current_release:
   tag: 2.0.0-beta.21
   published_at: '2025-11-30'
 commit_history:
-  2024-12: 198
   2025-01: 175
   2025-02: 37
   2025-03: 91
@@ -29,3 +28,4 @@ commit_history:
   2025-09: 11
   2025-10: 0
   2025-11: 47
+  2025-12: 0

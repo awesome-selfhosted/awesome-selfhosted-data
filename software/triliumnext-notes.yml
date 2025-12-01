@@ -10,14 +10,13 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/TriliumNext/Trilium
-stargazers_count: 33206
-updated_at: '2025-11-30'
+stargazers_count: 33231
+updated_at: '2025-12-01'
 archived: false
 current_release:
   tag: v0.99.5
   published_at: '2025-11-11'
 commit_history:
-  2024-12: 678
   2025-01: 855
   2025-02: 921
   2025-03: 1418
@@ -28,4 +27,5 @@ commit_history:
   2025-08: 1241
   2025-09: 1171
   2025-10: 1421
-  2025-11: 1148
+  2025-11: 1149
+  2025-12: 40

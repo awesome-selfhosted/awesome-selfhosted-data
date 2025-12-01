@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/muety/wakapi
-stargazers_count: 3913
-updated_at: '2025-11-30'
+stargazers_count: 3918
+updated_at: '2025-12-01'
 archived: false
 current_release:
   tag: 2.16.1
   published_at: '2025-11-03'
 commit_history:
-  2024-12: 2
   2025-01: 20
   2025-02: 54
   2025-03: 17
@@ -28,3 +27,4 @@ commit_history:
   2025-09: 27
   2025-10: 29
   2025-11: 32
+  2025-12: 1

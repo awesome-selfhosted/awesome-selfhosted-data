@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/octobox/octobox
 depends_3rdparty: true
 stargazers_count: 4430
-updated_at: '2025-11-28'
+updated_at: '2025-12-01'
 archived: false
 current_release:
-  tag: november-2025
-  published_at: '2025-11-02'
+  tag: december-2025
+  published_at: '2025-12-01'
 commit_history:
-  2024-12: 71
   2025-01: 45
   2025-02: 45
   2025-03: 39
@@ -29,3 +28,4 @@ commit_history:
   2025-09: 66
   2025-10: 53
   2025-11: 36
+  2025-12: 2

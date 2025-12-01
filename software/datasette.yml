@@ -9,14 +9,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/simonw/datasette
-stargazers_count: 10562
+stargazers_count: 10563
 updated_at: '2025-11-27'
 archived: false
 current_release:
   tag: 1.0a22
   published_at: '2025-11-13'
 commit_history:
-  2024-12: 0
   2025-01: 5
   2025-02: 13
   2025-03: 5
@@ -28,3 +27,4 @@ commit_history:
   2025-09: 2
   2025-10: 139
   2025-11: 43
+  2025-12: 0

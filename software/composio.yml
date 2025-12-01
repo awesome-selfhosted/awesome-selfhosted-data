@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 26198
+stargazers_count: 26196
 updated_at: '2025-11-26'
 archived: false
 current_release:
   tag: v0.9.4
   published_at: '2025-11-26'
 commit_history:
-  2024-12: 0
   2025-01: 0
   2025-02: 0
   2025-03: 0
@@ -28,3 +27,4 @@ commit_history:
   2025-09: 117
   2025-10: 132
   2025-11: 80
+  2025-12: 0

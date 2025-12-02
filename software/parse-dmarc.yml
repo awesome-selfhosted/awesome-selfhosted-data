@@ -1,0 +1,19 @@
+name: "Parse DMARC"
+website_url: "https://github.com/meysam81/parse-dmarc"
+source_code_url: "https://github.com/meysam81/parse-dmarc"
+description: >-
+  Transform cryptic DMARC XML reports into actionable insights. Parse DMARC auto-fetches reports from your inbox, analyzes who is sending email as your domain, and spots spoofing attempts—all in a sleek 14MB Docker image with zero dependencies.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Vuejs
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions
+  - Monitoring
+  - Analytics
+  - Miscellaneous
+  - Personal Dashboard
+depends_3rdparty: true
+related_software_url: "https://github.com/domainaware/parsedmarc"

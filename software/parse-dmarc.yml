@@ -7,13 +7,13 @@ licenses:
   - Apache-2.0
 platforms:
   - Go
-  - Vuejs
+  - Javascript
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-  - Monitoring
+  - awesome-sysadmin/Monitoring
   - Analytics
   - Miscellaneous
-  - Personal Dashboard
+  - Personal Dashboards
 depends_3rdparty: true
 related_software_url: "https://github.com/domainaware/parsedmarc"

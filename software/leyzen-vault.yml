@@ -1,0 +1,23 @@
+name: "Leyzen Vault"
+
+website_url: "https://github.com/3xpyth0n/leyzen-vault"
+
+source_code_url: "https://github.com/3xpyth0n/leyzen-vault"
+
+description: "Self-hosted secure file storage vault with client-side encryption and Moving-Target Defense."
+
+licenses:
+  - BSL-1.1
+
+platforms:
+  - Python
+  - Go
+  - Docker
+  - PostgreSQL
+  - Nodejs
+
+tags:
+  - File Transfer - Object Storage & File Servers
+  - File Transfer - File Transfer - Web-based File Managers
+
+depends_3rdparty: false

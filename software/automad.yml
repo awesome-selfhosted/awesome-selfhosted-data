@@ -1,7 +1,7 @@
-name: "Automad"
-website_url: "https://automad.org/"
-source_code_url: "https://github.com/marcantondahmen/automad"
-description: "Flat-file content management system and template engine."
+name: Automad
+website_url: https://automad.org/
+source_code_url: https://github.com/marcantondahmen/automad
+description: Flat-file content management system and template engine.
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,14 @@ platforms:
   - Docker
 tags:
   - Content Management Systems (CMS)
-demo_url: "https://try.automad.org/"
+demo_url: https://try.automad.org/
+stargazers_count: 814
+updated_at: '2025-12-03'
+archived: false
+current_release:
+  tag: 2.0.0-alpha.51
+  published_at: '2025-11-23'
+commit_history:
+  2025-10: 90
+  2025-11: 34
+  2025-12: 9

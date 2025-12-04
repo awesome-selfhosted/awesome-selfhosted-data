@@ -8,12 +8,12 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/OpenPrinting/cups
-stargazers_count: 1430
-updated_at: '2025-12-03'
+stargazers_count: 1433
+updated_at: '2025-12-04'
 archived: false
 current_release:
-  tag: v2.4.15
-  published_at: '2025-11-27'
+  tag: v2.4.16
+  published_at: '2025-12-04'
 commit_history:
   2025-01: 22
   2025-02: 25
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 45
   2025-10: 19
   2025-11: 62
-  2025-12: 10
+  2025-12: 12

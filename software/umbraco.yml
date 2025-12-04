@@ -8,12 +8,12 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/umbraco/Umbraco-CMS
-stargazers_count: 5038
-updated_at: '2025-12-03'
+stargazers_count: 5039
+updated_at: '2025-12-04'
 archived: false
 current_release:
-  tag: release-17.0.0
-  published_at: '2025-11-27'
+  tag: release-13.13.0-rc
+  published_at: '2025-12-04'
 commit_history:
   2025-01: 407
   2025-02: 232
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 176
   2025-10: 326
   2025-11: 173
-  2025-12: 38
+  2025-12: 48

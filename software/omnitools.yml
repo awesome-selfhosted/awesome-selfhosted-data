@@ -1,10 +1,20 @@
-name: "OmniTools"
-website_url: "https://omnitools.app/"
-source_code_url: "https://github.com/iib0011/omni-tools"
-description: "Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...)."
+name: OmniTools
+website_url: https://omnitools.app/
+source_code_url: https://github.com/iib0011/omni-tools
+description: Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...).
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Miscellaneous
+stargazers_count: 7711
+updated_at: '2025-12-04'
+archived: false
+current_release:
+  tag: v0.6.0
+  published_at: '2025-10-02'
+commit_history:
+  2025-10: 24
+  2025-11: 6
+  2025-12: 1

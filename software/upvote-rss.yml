@@ -1,0 +1,13 @@
+name: "Upvote RSS"
+website_url: "https://www.upvote-rss.com/"
+source_code_url: "https://github.com/johnwarne/upvote-rss"
+description: "Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Feed Readers
+depends_3rdparty: true
+demo_url: "https://www.upvote-rss.com/"

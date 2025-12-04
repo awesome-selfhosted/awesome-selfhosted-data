@@ -1,0 +1,12 @@
+name: "YAMLResume"
+website_url: "https://yamlresume.dev/"
+source_code_url: "https://github.com/yamlresume/yamlresume"
+description: "Resumes as Code in YAML, a resume compiler/transpiler that allows people to write resumes in YAML, provides clang-style validations and generate multiple outputs in one shot."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+  - JavaScript
+tags:
+  - Miscellaneous

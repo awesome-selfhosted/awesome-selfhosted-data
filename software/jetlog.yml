@@ -1,0 +1,10 @@
+name: "jetlog"
+website_url: "https://github.com/pbogre/jetlog"
+source_code_url: "https://github.com/pbogre/jetlog"
+description: "Personal flight tracker and viewer."
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous

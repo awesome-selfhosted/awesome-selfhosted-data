@@ -1,0 +1,11 @@
+name: "autokitteh"
+website_url: "https://autokitteh.com/"
+source_code_url: "https://github.com/autokitteh/autokitteh"
+description: "Durable workflow automation in just a few lines of code."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation

@@ -9,8 +9,8 @@ platforms:
 tags:
   - Self-hosting Solutions
 depends_3rdparty: true
-stargazers_count: 387
-updated_at: '2025-12-03'
+stargazers_count: 388
+updated_at: '2025-12-06'
 archived: false
 current_release:
   tag: v0.7.0
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 32
   2025-10: 47
   2025-11: 29
-  2025-12: 12
+  2025-12: 13

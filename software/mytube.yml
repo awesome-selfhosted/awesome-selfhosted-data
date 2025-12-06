@@ -5,12 +5,9 @@ description: "A YouTube/Bilibili/MissAV video downloader and player that support
 licenses:
   - MIT
 platforms:
-  - React
-  - TypeScript
   - Nodejs
   - Docker
 tags:
   - Media Management
-  - Media Streaming
 depends_3rdparty: true
 demo_url: "https://mytube-demo.vercel.app"

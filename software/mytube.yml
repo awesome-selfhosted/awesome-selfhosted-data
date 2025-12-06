@@ -1,0 +1,13 @@
+name: "MyTube"
+website_url: "https://github.com/franklioxygen/mytube"
+source_code_url: "https://github.com/franklioxygen/mytube"
+description: "A YouTube/Bilibili/MissAV video downloader and player that supports channel subscriptions, and local library organization."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true
+demo_url: "https://mytube-demo.vercel.app"

@@ -11,11 +11,11 @@ tags:
   - Conference Management
 demo_url: https://sandbox.motion.tools/createsite
 stargazers_count: 129
-updated_at: '2025-12-06'
+updated_at: '2025-12-07'
 archived: false
 current_release:
-  tag: v4.16.1-rc
-  published_at: '2025-11-27'
+  tag: v4.16.1
+  published_at: '2025-12-07'
 commit_history:
   2025-01: 11
   2025-02: 13
@@ -28,4 +28,4 @@ commit_history:
   2025-09: 23
   2025-10: 20
   2025-11: 30
-  2025-12: 3
+  2025-12: 5

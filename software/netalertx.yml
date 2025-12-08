@@ -1,0 +1,10 @@
+name: "NetAlertX"
+website_url: "https://netalertx.com/"
+source_code_url: "https://github.com/jokob-sk/NetAlertX"
+description: "Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Network Utilities

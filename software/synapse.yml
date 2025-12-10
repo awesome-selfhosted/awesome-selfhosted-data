@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/element-hq/synapse
-stargazers_count: 3221
-updated_at: '2025-12-05'
+stargazers_count: 3233
+updated_at: '2025-12-10'
 archived: false
 current_release:
-  tag: v1.144.0rc1
-  published_at: '2025-12-02'
+  tag: v1.144.0
+  published_at: '2025-12-09'
 commit_history:
   2025-01: 47
   2025-02: 68
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 103
   2025-10: 122
   2025-11: 94
-  2025-12: 35
+  2025-12: 41

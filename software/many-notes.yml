@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - Note-taking & Editors
-stargazers_count: 865
-updated_at: '2025-11-25'
+stargazers_count: 866
+updated_at: '2025-12-08'
 archived: false
 current_release:
-  tag: v0.15.4
-  published_at: '2025-11-25'
+  tag: v0.15.5
+  published_at: '2025-12-08'
 commit_history:
   2025-01: 90
   2025-02: 84
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 56
   2025-10: 44
   2025-11: 4
-  2025-12: 0
+  2025-12: 2

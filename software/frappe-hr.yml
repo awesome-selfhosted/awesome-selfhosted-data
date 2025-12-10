@@ -10,12 +10,12 @@ platforms:
   - Nodejs
 tags:
   - Human Resources Management (HRM)
-stargazers_count: 6986
-updated_at: '2025-12-05'
+stargazers_count: 6990
+updated_at: '2025-12-10'
 archived: false
 current_release:
-  tag: v15.52.5
-  published_at: '2025-12-03'
+  tag: v15.53.0
+  published_at: '2025-12-10'
 commit_history:
   2025-01: 208
   2025-02: 143
@@ -28,4 +28,4 @@ commit_history:
   2025-09: 176
   2025-10: 200
   2025-11: 319
-  2025-12: 68
+  2025-12: 127

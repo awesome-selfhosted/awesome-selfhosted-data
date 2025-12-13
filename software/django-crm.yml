@@ -8,12 +8,12 @@ platforms:
   - Python
 tags:
   - Customer Relationship Management (CRM)
-stargazers_count: 455
-updated_at: '2025-12-12'
+stargazers_count: 456
+updated_at: '2025-12-13'
 archived: false
 current_release:
-  tag: 1.6.1
-  published_at: '2025-10-31'
+  tag: v1.7.0
+  published_at: '2025-12-13'
 commit_history:
   2025-01: 112
   2025-02: 74
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 57
   2025-10: 63
   2025-11: 36
-  2025-12: 11
+  2025-12: 15

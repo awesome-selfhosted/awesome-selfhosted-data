@@ -1,12 +1,13 @@
 name: "lemon chat"
+website_url: "https://github.com/azc5OQ/lemon-chat"
 source_code_url: "https://github.com/azc5OQ/lemon-chat"
-description: "Chat system that can be selfhosted."
+description: "Secure and easy to self host chat."
 licenses:
   - GPL-3.0
 platforms:
   - C
   - C++
-  - html
+  - Javascript
 tags:
   - Communication - Custom Communication Systems
 depends_3rdparty: false

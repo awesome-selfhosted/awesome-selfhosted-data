@@ -1,6 +1,6 @@
 name: HealthWallet.me
 website_url: https://github.com/LifeValue/HealthWallet.me/
-description: HealthWallet.me is the patient-controlled, open-source personal and family medical record aggregator and international wallet, powerfully connecting to over 52,000 US healthcare systems, 40+ major EHRs (including Epic and Cerner), and 78% of US hospital beds to deliver AI health insights, AI note-taking prescription, and comprehensive family management.
+description: HealthWallet.me, the international, vendor-agnostic EMR/Wallet, links to 78% of US beds/40+ EHRs (Epic/Cerner), offering AI insights & family management.
 licenses:
   - GPL-3.0
 platforms:

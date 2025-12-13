@@ -1,0 +1,11 @@
+name: "re:Director"
+website_url: "https://re-director.github.io/"
+source_code_url: "https://github.com/re-Director/re-director"
+description: "Manage Redirects Like a Pro — Connect any domain and set up custom redirects in seconds."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Miscellaneous

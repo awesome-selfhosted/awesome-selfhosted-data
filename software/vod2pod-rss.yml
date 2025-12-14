@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/madiele/vod2pod-rss
 depends_3rdparty: true
 stargazers_count: 336
-updated_at: '2025-10-23'
+updated_at: '2025-12-14'
 archived: false
 current_release:
   tag: v1.2.4
@@ -26,5 +26,5 @@ commit_history:
   2025-08: 15
   2025-09: 13
   2025-10: 11
-  2025-11: 0
-  2025-12: 0
+  2025-11: 1
+  2025-12: 18

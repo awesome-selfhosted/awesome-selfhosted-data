@@ -10,12 +10,12 @@ platforms:
 tags:
   - Photo Galleries
 related_software: https://github.com/immich-app/immich
-stargazers_count: 1207
-updated_at: '2025-12-09'
+stargazers_count: 1208
+updated_at: '2025-12-16'
 archived: false
 current_release:
-  tag: v0.28.4
-  published_at: '2025-12-09'
+  tag: v0.29.0
+  published_at: '2025-12-16'
 commit_history:
   2025-01: 175
   2025-02: 145
@@ -28,4 +28,4 @@ commit_history:
   2025-09: 54
   2025-10: 46
   2025-11: 121
-  2025-12: 67
+  2025-12: 90

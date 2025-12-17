@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/GIScience/openrouteservice
 demo_url: https://openrouteservice.org/dev/#/api-docs/introduction
 stargazers_count: 1782
-updated_at: '2025-12-16'
+updated_at: '2025-12-17'
 archived: false
 current_release:
-  tag: v9.5.1
-  published_at: '2025-11-14'
+  tag: v9.6.0
+  published_at: '2025-12-17'
 commit_history:
   2025-01: 77
   2025-02: 8
@@ -28,4 +28,4 @@ commit_history:
   2025-09: 84
   2025-10: 38
   2025-11: 96
-  2025-12: 60
+  2025-12: 78

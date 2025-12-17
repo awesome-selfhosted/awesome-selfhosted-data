@@ -5,7 +5,6 @@ description: "Changelog and roadmap platform that bridges project management and
 licenses:
   - Apache-2.0
 platforms:
-  - Go
   - Docker
 tags:
   - Software Development - Project Management

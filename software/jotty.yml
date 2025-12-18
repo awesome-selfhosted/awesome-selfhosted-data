@@ -1,9 +1,11 @@
 name: Jotty
+website_url: https://jotty.page
 description: Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
-website: https://jotty.page
-repo: https://github.com/fccview/jotty
-license: AGPL-3.0
-language: Javascript
+licenses: 
+  -AGPL-3.0
+platforms: 
+  - Javascript
 tags:
   - Note-taking & Editors
   - Task Management & To-do Lists
+source_code_url: https://github.com/fccview/jotty

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/SuiteCRM/SuiteCRM
-stargazers_count: 5190
-updated_at: '2025-11-04'
+stargazers_count: 5191
+updated_at: '2025-12-18'
 archived: false
 current_release:
-  tag: v7.14.8
-  published_at: '2025-11-06'
+  tag: v7.15.0
+  published_at: '2025-12-18'
 commit_history:
   2025-01: 2
   2025-02: 0
@@ -25,5 +25,5 @@ commit_history:
   2025-08: 32
   2025-09: 0
   2025-10: 11
-  2025-11: 3
-  2025-12: 0
+  2025-11: 51
+  2025-12: 62

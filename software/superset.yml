@@ -8,12 +8,12 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/apache/superset
-stargazers_count: 69439
-updated_at: '2025-12-17'
+stargazers_count: 69456
+updated_at: '2025-12-18'
 archived: false
 current_release:
-  tag: 6.0.0rc4
-  published_at: '2025-12-04'
+  tag: 6.0.0
+  published_at: '2025-12-18'
 commit_history:
   2025-01: 153
   2025-02: 111
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 173
   2025-10: 221
   2025-11: 162
-  2025-12: 207
+  2025-12: 217

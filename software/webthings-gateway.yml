@@ -9,11 +9,11 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/WebThingsIO/gateway
 stargazers_count: 2630
-updated_at: '2025-12-17'
+updated_at: '2025-12-18'
 archived: false
 current_release:
-  tag: 2.0.0-beta.1
-  published_at: '2025-08-08'
+  tag: 2.0.0
+  published_at: '2025-12-18'
 commit_history:
   2025-01: 1
   2025-02: 2
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 1
   2025-10: 3
   2025-11: 0
-  2025-12: 4
+  2025-12: 8

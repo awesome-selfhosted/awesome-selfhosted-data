@@ -1,7 +1,7 @@
 name: "Fredy"
 website_url: "https://fredy.orange-coding.net/"
 source_code_url: "https://github.com/orangecoding/fredy"
-description: "Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt etc and instantly delivers the results to you via Slack, Telegram etc..."
+description: "Searches for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, and others, and instantly delivers the results to you via Slack, Telegram, and more."
 licenses:
   - Apache-2.0
 platforms:

@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Customer Relationship Management (CRM)
-stargazers_count: 37317
-updated_at: '2025-12-19'
+stargazers_count: 37330
+updated_at: '2025-12-20'
 archived: false
 current_release:
   tag: v1.13.7
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 351
   2025-10: 452
   2025-11: 440
-  2025-12: 354
+  2025-12: 355

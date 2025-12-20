@@ -8,8 +8,8 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/gogs/gogs
-stargazers_count: 47359
-updated_at: '2025-12-11'
+stargazers_count: 47363
+updated_at: '2025-12-20'
 archived: false
 current_release:
   tag: v0.13.3
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 7
   2025-10: 1
   2025-11: 9
-  2025-12: 4
+  2025-12: 5

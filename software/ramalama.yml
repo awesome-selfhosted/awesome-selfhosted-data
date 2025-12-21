@@ -1,0 +1,12 @@
+name: "RamaLama"
+website_url: "https://ramalama.ai"
+source_code_url: "https://github.com/containers/ramalama"
+description: "Make working with AI boring through the use of OCI containers."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: false

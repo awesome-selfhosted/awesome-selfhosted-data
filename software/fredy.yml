@@ -5,11 +5,10 @@ description: "Searches for new apartments, houses, and flats in Germany on platf
 licenses:
   - Apache-2.0
 platforms:
-  - Javascript
   - Nodejs
   - Docker
+depends_3rdparty: true
 tags:
   - Automation
-  - Self-hosting Solutions
   - Search Engines
 demo_url: "https://fredy-demo.orange-coding.net"

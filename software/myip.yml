@@ -11,12 +11,12 @@ tags:
   - Miscellaneous
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
-stargazers_count: 9500
-updated_at: '2025-11-12'
+stargazers_count: 9502
+updated_at: '2025-12-21'
 archived: false
 current_release:
-  tag: v5.1.0
-  published_at: '2025-11-12'
+  tag: v5.1.1
+  published_at: '2025-12-21'
 commit_history:
   2025-01: 47
   2025-02: 13
@@ -29,4 +29,4 @@ commit_history:
   2025-09: 5
   2025-10: 0
   2025-11: 8
-  2025-12: 0
+  2025-12: 2

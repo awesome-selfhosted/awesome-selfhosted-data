@@ -10,11 +10,11 @@ tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/eclipse-che/che
 stargazers_count: 7103
-updated_at: '2025-12-12'
+updated_at: '2025-12-22'
 archived: false
 current_release:
-  tag: 7.112.0
-  published_at: '2025-11-17'
+  tag: 7.113.0
+  published_at: '2025-12-22'
 commit_history:
   2025-01: 10
   2025-02: 9
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 8
   2025-10: 12
   2025-11: 4
-  2025-12: 3
+  2025-12: 4

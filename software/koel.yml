@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/koel/koel
 demo_url: https://demo.koel.dev/
 stargazers_count: 16907
-updated_at: '2025-12-15'
+updated_at: '2025-12-22'
 archived: false
 current_release:
-  tag: v8.1.0
-  published_at: '2025-10-27'
+  tag: v8.2.0
+  published_at: '2025-12-22'
 commit_history:
   2025-01: 0
   2025-02: 2
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 36
   2025-10: 50
   2025-11: 1
-  2025-12: 3
+  2025-12: 4

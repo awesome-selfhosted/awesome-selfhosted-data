@@ -1,0 +1,12 @@
+name: Shimmy
+website_url: https://github.com/Michael-A-Kuykendall/shimmy
+source_code_url: https://github.com/Michael-A-Kuykendall/shimmy
+description: Self-hosted OpenAI-compatible inference server with Rust performance. Supports multiple model formats with streaming and multimodal capabilities.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Generative Artificial Intelligence
+depends_3rdparty: false

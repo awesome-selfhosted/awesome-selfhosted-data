@@ -11,12 +11,12 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
-stargazers_count: 6766
-updated_at: '2025-12-23'
+stargazers_count: 6768
+updated_at: '2025-12-24'
 archived: false
 current_release:
-  tag: 22.0.3
-  published_at: '2025-11-25'
+  tag: 22.0.4
+  published_at: '2025-12-24'
 commit_history:
   2025-01: 1369
   2025-02: 1309
@@ -29,4 +29,4 @@ commit_history:
   2025-09: 779
   2025-10: 822
   2025-11: 1001
-  2025-12: 687
+  2025-12: 690

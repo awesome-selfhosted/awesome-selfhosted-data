@@ -1,0 +1,11 @@
+name: Local Deep Research
+source_code_url: https://github.com/LearningCircuit/local-deep-research
+website_url: https://github.com/LearningCircuit/local-deep-research
+description: AI-powered deep research tool achieving ~95% on SimpleQA benchmark. Supports local and cloud LLMs, searches 10+ sources including arXiv, PubMed, and private documents. Everything local and encrypted.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

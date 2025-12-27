@@ -1,0 +1,13 @@
+name: Bubble Lab
+website_url: https://www.bubblelab.ai/
+description: AI-powered workflow automation that exports production-ready TypeScript. Build workflows visually or with natural language, with full observability and cost tracking.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Automation
+  - Software Development - Low Code
+  - Generative AI
+source_code_url: https://github.com/bubblelabai/BubbleLab
+demo_url: https://app.bubblelab.ai/

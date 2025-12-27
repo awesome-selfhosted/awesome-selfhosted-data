@@ -1,0 +1,11 @@
+name: "monetr"
+website_url: "https://monetr.app/"
+source_code_url: "https://github.com/monetr/monetr"
+description: "Budgeting application focused on planning for recurring expenses."
+licenses:
+  - FSL-1.1-MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Money, Budgeting & Management

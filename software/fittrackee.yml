@@ -1,0 +1,11 @@
+name: "FitTrackee"
+website_url: "https://docs.fittrackee.org/"
+source_code_url: "https://github.com/SamR1/FitTrackee"
+description: "Simple workout/activity tracker."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Health and Fitness

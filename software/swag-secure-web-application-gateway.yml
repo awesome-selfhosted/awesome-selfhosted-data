@@ -8,12 +8,12 @@ platforms:
 tags:
   - Web Servers
 source_code_url: https://github.com/linuxserver/docker-swag
-stargazers_count: 3536
-updated_at: '2025-12-20'
+stargazers_count: 3539
+updated_at: '2025-12-27'
 archived: false
 current_release:
-  tag: 5.2.2-ls426
-  published_at: '2025-12-20'
+  tag: 5.2.2-ls427
+  published_at: '2025-12-27'
 commit_history:
   2025-01: 38
   2025-02: 11
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 5
   2025-10: 6
   2025-11: 13
-  2025-12: 5
+  2025-12: 6

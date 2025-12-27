@@ -1,0 +1,11 @@
+name: "Wishlist"
+website_url: "https://github.com/cmintey/wishlist"
+source_code_url: "https://github.com/cmintey/wishlist"
+description: "Wishlist application that you can share with your friends and family."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Miscellaneous

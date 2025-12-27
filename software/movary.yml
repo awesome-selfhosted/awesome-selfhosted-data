@@ -1,0 +1,13 @@
+name: "Movary"
+website_url: "https://github.com/leepeuker/movary"
+source_code_url: "https://github.com/leepeuker/movary"
+description: "Web app to track and rate your watched movies."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Miscellaneous
+depends_3rdparty: true
+demo_url: "https://github.com/leepeuker/movary?tab=readme-ov-file#demo"

@@ -1,5 +1,5 @@
 name: Rybbit
-website_url: https://rybbit.io
+website_url: https://rybbit.com/
 source_code_url: https://github.com/rybbit-io/rybbit
 description: Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics).
 licenses:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Analytics
-demo_url: https://demo.rybbit.io/21/
+demo_url: https://demo.rybbit.com/1
 stargazers_count: 10560
 updated_at: '2025-12-24'
 archived: false

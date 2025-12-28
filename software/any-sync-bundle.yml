@@ -1,0 +1,12 @@
+name: "Anytype Bundle"
+website_url: "https://github.com/grishy/any-sync-bundle"
+source_code_url: "https://github.com/grishy/any-sync-bundle"
+description: "Prepackaged, all-in-one self-hosted Anytype sync server that bundles official any-sync modules into a single deployable unit."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Knowledge Management Tools
+depends_3rdparty: false

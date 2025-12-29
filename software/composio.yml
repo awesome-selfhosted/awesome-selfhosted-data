@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 26235
-updated_at: '2025-12-27'
+stargazers_count: 26242
+updated_at: '2025-12-29'
 archived: false
 current_release:
-  tag: '@composio/vercel@0.3.3'
-  published_at: '2025-12-24'
+  tag: '@composio/claude-agent-sdk@0.3.3'
+  published_at: '2025-12-29'
 commit_history:
   2025-01: 0
   2025-02: 0
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 117
   2025-10: 132
   2025-11: 95
-  2025-12: 206
+  2025-12: 209

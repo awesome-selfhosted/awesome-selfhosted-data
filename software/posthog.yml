@@ -9,12 +9,12 @@ tags:
   - Analytics
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 30572
-updated_at: '2025-12-28'
+stargazers_count: 30577
+updated_at: '2025-12-29'
 archived: false
 current_release:
-  tag: posthog-cli-v0.5.20
-  published_at: '2025-12-22'
+  tag: posthog-cli-v0.5.21
+  published_at: '2025-12-29'
 commit_history:
   2025-01: 720
   2025-02: 901
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 1074
   2025-10: 1333
   2025-11: 1106
-  2025-12: 1250
+  2025-12: 1297

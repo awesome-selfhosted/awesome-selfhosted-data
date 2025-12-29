@@ -8,12 +8,12 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/moode-player/moode
-stargazers_count: 1229
-updated_at: '2025-12-16'
+stargazers_count: 1235
+updated_at: '2025-12-28'
 archived: false
 current_release:
-  tag: r1001
-  published_at: '2025-12-10'
+  tag: r1002
+  published_at: '2025-12-21'
 commit_history:
   2025-01: 100
   2025-02: 82
@@ -26,4 +26,4 @@ commit_history:
   2025-09: 39
   2025-10: 29
   2025-11: 55
-  2025-12: 43
+  2025-12: 66

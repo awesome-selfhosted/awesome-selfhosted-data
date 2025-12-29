@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/coralproject/talk
-stargazers_count: 1964
-updated_at: '2025-12-08'
+stargazers_count: 1967
+updated_at: '2025-12-19'
 archived: false
 current_release:
-  tag: v9.11.0
-  published_at: '2025-12-09'
+  tag: v9.11.1
+  published_at: '2025-12-19'
 commit_history:
   2025-01: 16
   2025-02: 129
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 36
   2025-10: 35
   2025-11: 26
-  2025-12: 12
+  2025-12: 19

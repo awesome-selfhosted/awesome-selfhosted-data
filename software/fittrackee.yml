@@ -1,0 +1,21 @@
+name: FitTrackee
+website_url: https://docs.fittrackee.org/
+source_code_url: https://github.com/SamR1/FitTrackee
+description: Simple workout/activity tracker.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Health and Fitness
+stargazers_count: 1025
+updated_at: '2025-12-27'
+archived: false
+current_release:
+  tag: v1.0.5
+  published_at: '2025-12-27'
+commit_history:
+  2025-10: 178
+  2025-11: 52
+  2025-12: 66

@@ -1,0 +1,12 @@
+---
+name: Nimbus
+description: Modern drag-and-drop homelab dashboard with visual editor and simple configuration.
+url: https://nimbus.turboot.com/
+github_repo: Turbootzz/Nimbus
+platform:
+  - go
+  - nodejs
+  - docker
+tags:
+  - personal-dashboards
+license: AGPL-3.0

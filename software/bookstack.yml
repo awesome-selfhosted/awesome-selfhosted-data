@@ -10,12 +10,12 @@ tags:
   - Wikis
 source_code_url: https://github.com/BookStackApp/BookStack
 demo_url: https://www.bookstackapp.com/#demo
-stargazers_count: 17951
-updated_at: '2025-12-24'
+stargazers_count: 17952
+updated_at: '2025-12-30'
 archived: false
 current_release:
-  tag: v25.12
-  published_at: '2025-12-24'
+  tag: v25.12.1
+  published_at: '2025-12-30'
 commit_history:
   2025-01: 31
   2025-02: 41
@@ -28,4 +28,4 @@ commit_history:
   2025-09: 18
   2025-10: 33
   2025-11: 37
-  2025-12: 46
+  2025-12: 52

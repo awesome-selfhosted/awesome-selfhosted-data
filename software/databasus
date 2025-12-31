@@ -1,0 +1,12 @@
+name: "Databasus"
+website_url: "https://databasus.com"
+source_code_url: "https://github.com/databasus/databasus"
+description: "PostgreSQL backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. Also supports other databases like MySQL, MariaDB and MongoDB"
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Backup
+  - Database management
+depends_3rdparty: false

@@ -9,8 +9,8 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 26246
-updated_at: '2025-12-30'
+stargazers_count: 26245
+updated_at: '2025-12-31'
 archived: false
 current_release:
   tag: '@composio/claude-agent-sdk@0.3.3'
@@ -27,4 +27,4 @@ commit_history:
   2025-09: 117
   2025-10: 132
   2025-11: 95
-  2025-12: 215
+  2025-12: 219

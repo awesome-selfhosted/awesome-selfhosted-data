@@ -1,7 +1,7 @@
 name: "PrivyDrop"
 website_url: "https://www.privydrop.app"
 source_code_url: "https://github.com/david-bai00/PrivyDrop"
-description: "A simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC. "
+description: "A simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC."
 platforms:
   - Docker
   - Shell

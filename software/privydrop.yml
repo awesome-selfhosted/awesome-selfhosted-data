@@ -5,5 +5,7 @@ description: "A simple and user-friendly, breakpoint-resumable peer-to-peer text
 platforms:
   - Docker
   - Shell
+licenses:
+  - MIT
 tags:
   - File Transfer - Peer-to-peer Filesharing

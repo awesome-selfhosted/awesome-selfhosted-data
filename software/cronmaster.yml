@@ -1,0 +1,11 @@
+name: Cr*nmaster
+website_url: https://github.com/fccview/cronmaster
+description: Cronjob management UI with human readable syntax, live logging and log history for your cronjobs.
+licenses: 
+  - AGPL-3.0
+platforms: 
+  - Docker
+tags:
+  - Automation
+  - Monitoring
+source_code_url: https://github.com/fccview/cronmaster

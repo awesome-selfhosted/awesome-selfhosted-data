@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - Money, Budgeting & Management
-stargazers_count: 414
+stargazers_count: 415
 updated_at: '2025-12-04'
 archived: false
 current_release:
   tag: v1.22.13
   published_at: '2025-12-04'
 commit_history:
-  2025-01: 50
   2025-02: 25
   2025-03: 4
   2025-04: 21
@@ -27,3 +26,4 @@ commit_history:
   2025-10: 6
   2025-11: 5
   2025-12: 2
+  2026-01: 0

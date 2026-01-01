@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/cfu288/mere-medical
 demo_url: https://demo.meremedical.co
 depends_3rdparty: true
-stargazers_count: 226
+stargazers_count: 227
 updated_at: '2025-12-10'
 archived: false
 current_release:
   tag: 2025.12.10
   published_at: '2025-12-10'
 commit_history:
-  2025-01: 1
   2025-02: 0
   2025-03: 0
   2025-04: 0
@@ -30,3 +29,4 @@ commit_history:
   2025-10: 10
   2025-11: 9
   2025-12: 5
+  2026-01: 0

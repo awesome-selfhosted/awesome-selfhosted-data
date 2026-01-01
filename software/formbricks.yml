@@ -10,14 +10,13 @@ platforms:
 tags:
   - Polls and Events
 demo_url: https://app.formbricks.com
-stargazers_count: 11687
+stargazers_count: 11696
 updated_at: '2025-12-31'
 archived: false
 current_release:
   tag: v4.5.0-rc.1
   published_at: '2025-12-31'
 commit_history:
-  2025-01: 74
   2025-02: 116
   2025-03: 127
   2025-04: 134
@@ -29,3 +28,4 @@ commit_history:
   2025-10: 72
   2025-11: 52
   2025-12: 73
+  2026-01: 0

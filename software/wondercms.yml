@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/WonderCMS/wondercms
 demo_url: https://www.wondercms.com/demo
 stargazers_count: 711
-updated_at: '2025-12-16'
+updated_at: '2026-01-01'
 archived: false
 current_release:
-  tag: 3.5.0
-  published_at: '2025-03-16'
+  tag: 3.6.0
+  published_at: '2025-12-31'
 commit_history:
-  2025-01: 2
   2025-02: 0
   2025-03: 15
   2025-04: 0
@@ -27,4 +26,5 @@ commit_history:
   2025-09: 0
   2025-10: 0
   2025-11: 0
-  2025-12: 1
+  2025-12: 10
+  2026-01: 1

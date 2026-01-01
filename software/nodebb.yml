@@ -10,14 +10,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/NodeBB/NodeBB
 demo_url: https://try.nodebb.org/
-stargazers_count: 14879
-updated_at: '2025-12-27'
+stargazers_count: 14878
+updated_at: '2026-01-01'
 archived: false
 current_release:
   tag: v4.7.2
   published_at: '2025-12-24'
 commit_history:
-  2025-01: 199
   2025-02: 304
   2025-03: 155
   2025-04: 202
@@ -29,3 +28,4 @@ commit_history:
   2025-10: 121
   2025-11: 83
   2025-12: 32
+  2026-01: 1

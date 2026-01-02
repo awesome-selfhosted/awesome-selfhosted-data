@@ -9,8 +9,8 @@ platforms:
 tags:
   - Resource Planning
 source_code_url: https://github.com/frappe/erpnext
-stargazers_count: 30824
-updated_at: '2026-01-01'
+stargazers_count: 30840
+updated_at: '2026-01-02'
 archived: false
 current_release:
   tag: v16.0.0-rc.2
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 401
   2025-11: 441
   2025-12: 472
-  2026-01: 16
+  2026-01: 27

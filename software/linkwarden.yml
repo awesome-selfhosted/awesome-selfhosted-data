@@ -9,14 +9,22 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/linkwarden/linkwarden
-stargazers_count: 15712
-updated_at: '2025-10-30'
+stargazers_count: 16545
+updated_at: '2025-12-28'
 archived: false
 current_release:
-  tag: v2.13.1
-  published_at: '2025-10-15'
+  tag: v2.13.5
+  published_at: '2025-12-28'
 commit_history:
+  2025-02: 87
+  2025-03: 34
+  2025-04: 30
+  2025-05: 74
+  2025-06: 240
+  2025-07: 66
   2025-08: 174
   2025-09: 86
   2025-10: 52
-  2025-11: 0
+  2025-11: 30
+  2025-12: 53
+  2026-01: 0

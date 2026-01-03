@@ -8,14 +8,22 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/flatpressblog/flatpress
-stargazers_count: 202
-updated_at: '2025-11-15'
+stargazers_count: 203
+updated_at: '2026-01-02'
 archived: false
 current_release:
-  tag: 1.4.1
-  published_at: '2025-07-15'
+  tag: 1.5.rc1
+  published_at: '2025-12-12'
 commit_history:
+  2025-02: 51
+  2025-03: 214
+  2025-04: 339
+  2025-05: 21
+  2025-06: 25
+  2025-07: 21
   2025-08: 64
   2025-09: 45
   2025-10: 52
-  2025-11: 45
+  2025-11: 109
+  2025-12: 159
+  2026-01: 8

@@ -8,14 +8,22 @@ platforms:
   - Docker
 tags:
   - Time Tracking
-stargazers_count: 161
-updated_at: '2025-11-15'
+stargazers_count: 181
+updated_at: '2025-12-18'
 archived: false
 current_release:
   tag: v1.1.1
   published_at: '2025-11-15'
 commit_history:
+  2025-02: 0
+  2025-03: 0
+  2025-04: 266
+  2025-05: 89
+  2025-06: 20
+  2025-07: 11
   2025-08: 68
   2025-09: 25
   2025-10: 25
-  2025-11: 6
+  2025-11: 9
+  2025-12: 18
+  2026-01: 0

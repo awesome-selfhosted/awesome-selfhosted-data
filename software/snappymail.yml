@@ -1,14 +1,17 @@
-name: SnappyMail
-website_url: https://snappymail.eu/
-description: Simple, modern, lightweight & fast web-based email client (fork of RainLoop).
+name: "SnappyMail"
+website_url: "https://snappymail.eu"
+source_code_url: "https://github.com/the-djmaze/snappymail"
+description: "Simple, modern, lightweight & fast web-based email client. Fork of RainLoop with masive changes."
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
+  - JavaScript
+  - Shell
 tags:
-  - Communication - Email - Webmail Clients
-source_code_url: https://github.com/the-djmaze/snappymail
-demo_url: https://snappymail.eu/demo/
-stargazers_count: 1419
-updated_at: '2025-06-16'
-archived: false
+  - Communication
+  - Email
+  - Webmail Clients
+depends_3rdparty: false
+demo_url: "https://snappymail.eu/demo/"
+related_software_url: "https://snappymail.eu/repository/v2/plugins/"

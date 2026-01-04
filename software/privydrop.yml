@@ -4,7 +4,7 @@ source_code_url: "https://github.com/david-bai00/PrivyDrop"
 description: "Simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC."
 platforms:
   - Docker
-  - Shell
+  - Nodejs
 licenses:
   - MIT
 tags:

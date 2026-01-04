@@ -1,7 +1,7 @@
 name: "motionEye"
 website_url: "https://github.com/motioneye-project/motioneye"
 source_code_url: "https://github.com/motioneye-project/motioneye"
-description: "Online interface for the software [motion](https://motion-project.github.io/), a video surveillance program with motion detection."
+description: "Online interface for the software Motion, a video surveillance program with motion detection."
 licenses:
   - GPL-3.0
 platforms:

@@ -1,20 +1,12 @@
-# software name
 name: "BotWave"
-# URL of the software project's homepage
 website_url: "https://botwave.dpip.lol"
-# URL where the full source code of the program can be downloaded
-source_code_url: "https://gitlab.com/dpipstudio/botwave"
-# description of what the software does, shorter than 250 characters, sentence case
+source_code_url: "https://github.com/dpipstudio/botwave"
 description: "FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - GPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Python
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Media Streaming - Audio Streaming
   - Communication - Custom Communication Systems
-# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: false

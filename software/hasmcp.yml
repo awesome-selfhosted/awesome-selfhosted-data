@@ -1,0 +1,13 @@
+name: "HasMCP"
+website_url: "https://hasmcp.com"
+source_code_url: "https://githu.com/hasmcp/hasmcp-ce"
+description: "No-code API to Model Context Protocol (MCP) bridge. Build MCP servers from API endpoints in seconds using OpenAPI spec and server with Streamable HTTP. Access MCP client interaction metrics and request/response logs in real-time."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+  - Javscript
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: false

@@ -8,12 +8,12 @@ platforms:
   - Rust
 tags:
   - Recipe Management
-stargazers_count: 1054
-updated_at: '2025-12-29'
+stargazers_count: 1058
+updated_at: '2026-01-04'
 archived: false
 current_release:
-  tag: v0.19.2
-  published_at: '2025-12-29'
+  tag: v0.19.3
+  published_at: '2026-01-04'
 commit_history:
   2025-02: 0
   2025-03: 4
@@ -26,4 +26,4 @@ commit_history:
   2025-10: 20
   2025-11: 53
   2025-12: 30
-  2026-01: 0
+  2026-01: 4

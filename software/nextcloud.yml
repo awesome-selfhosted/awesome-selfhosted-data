@@ -11,8 +11,8 @@ tags:
   - Groupware
 source_code_url: https://github.com/nextcloud/server
 demo_url: https://try.nextcloud.com/
-stargazers_count: 33716
-updated_at: '2026-01-02'
+stargazers_count: 33734
+updated_at: '2026-01-04'
 archived: false
 current_release:
   tag: v32.0.3
@@ -29,4 +29,4 @@ commit_history:
   2025-10: 587
   2025-11: 568
   2025-12: 390
-  2026-01: 10
+  2026-01: 21

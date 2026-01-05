@@ -5,5 +5,7 @@ description: "A web application for archiving, searching, and exporting emails f
 platforms:
   - .NET
   - Docker
+licenses:
+  - GPL-3.0
 tags:
   - Archiving and Digital Preservation (DP)

@@ -1,0 +1,12 @@
+name: Sure
+website_url: https://github.com/we-promise/sure
+description: Sure is a free and open-source personal finance application for everyone (fork of Maybe).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - Docker
+  - K8S
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/we-promise/sure

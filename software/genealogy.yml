@@ -9,14 +9,13 @@ platforms:
 tags:
   - Genealogy
 demo_url: https://genealogy.kreaweb.be/
-stargazers_count: 289
-updated_at: '2025-11-29'
+stargazers_count: 292
+updated_at: '2026-01-04'
 archived: false
 current_release:
-  tag: v5.2.0
-  published_at: '2025-11-26'
+  tag: v5.4.0
+  published_at: '2026-01-04'
 commit_history:
-  2025-01: 37
   2025-02: 46
   2025-03: 17
   2025-04: 38
@@ -27,4 +26,5 @@ commit_history:
   2025-09: 31
   2025-10: 11
   2025-11: 62
-  2025-12: 0
+  2025-12: 16
+  2026-01: 12

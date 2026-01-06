@@ -9,14 +9,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/craftcms/cms
 demo_url: https://craftcms.com/demo
-stargazers_count: 3521
-updated_at: '2025-12-10'
+stargazers_count: 3525
+updated_at: '2026-01-03'
 archived: false
 current_release:
   tag: 5.8.21
   published_at: '2025-12-05'
 commit_history:
-  2025-01: 1263
   2025-02: 524
   2025-03: 907
   2025-04: 716
@@ -27,4 +26,5 @@ commit_history:
   2025-09: 149
   2025-10: 152
   2025-11: 93
-  2025-12: 55
+  2025-12: 84
+  2026-01: 2

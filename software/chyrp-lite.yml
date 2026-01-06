@@ -8,14 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/xenocrat/chyrp-lite
-stargazers_count: 465
-updated_at: '2025-12-08'
+stargazers_count: 468
+updated_at: '2025-12-13'
 archived: false
 current_release:
-  tag: v2025.02
-  published_at: '2025-05-24'
+  tag: v2025.03.01
+  published_at: '2025-12-13'
 commit_history:
-  2025-01: 45
   2025-02: 47
   2025-03: 80
   2025-04: 20
@@ -26,4 +25,5 @@ commit_history:
   2025-09: 17
   2025-10: 15
   2025-11: 16
-  2025-12: 5
+  2025-12: 13
+  2026-01: 0

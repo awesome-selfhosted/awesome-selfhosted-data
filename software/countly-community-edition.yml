@@ -9,14 +9,22 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/Countly/countly-server
-stargazers_count: 5779
-updated_at: '2025-11-06'
+stargazers_count: 5807
+updated_at: '2025-12-23'
 archived: false
 current_release:
-  tag: 25.03.26
-  published_at: '2025-11-06'
+  tag: 25.03.30
+  published_at: '2025-12-10'
 commit_history:
+  2025-02: 87
+  2025-03: 171
+  2025-04: 272
+  2025-05: 217
+  2025-06: 190
+  2025-07: 300
   2025-08: 122
   2025-09: 160
   2025-10: 236
-  2025-11: 63
+  2025-11: 172
+  2025-12: 69
+  2026-01: 0

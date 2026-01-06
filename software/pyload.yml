@@ -8,14 +8,22 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/pyload/pyload
-stargazers_count: 3610
-updated_at: '2025-10-27'
+stargazers_count: 3667
+updated_at: '2026-01-03'
 archived: false
 current_release:
-  tag: v0.4.20
-  published_at: '2020-02-20'
+  tag: v0.4.x
+  published_at: '2026-01-01'
 commit_history:
+  2025-02: 2
+  2025-03: 13
+  2025-04: 15
+  2025-05: 1
+  2025-06: 13
+  2025-07: 18
   2025-08: 24
   2025-09: 5
   2025-10: 21
-  2025-11: 0
+  2025-11: 33
+  2025-12: 25
+  2026-01: 2

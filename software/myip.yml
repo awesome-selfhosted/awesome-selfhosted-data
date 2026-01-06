@@ -8,7 +8,7 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - Network Utilities
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
 stargazers_count: 9590

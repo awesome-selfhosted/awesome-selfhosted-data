@@ -1,7 +1,7 @@
 name: "RamaLama"
 website_url: "https://ramalama.ai"
 source_code_url: "https://github.com/containers/ramalama"
-description: "Make working with AI boring through the use of OCI containers."
+description: "RamaLama makes it easy to run and serve AI models locally using OCI containers, treating models like container images and pulling them from sources like Hugging Face, Ollama, or OCI registries."
 licenses:
   - MIT
 platforms:

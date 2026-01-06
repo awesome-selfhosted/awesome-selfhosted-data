@@ -10,8 +10,6 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-  - Calendar & Contacts
-  - Task Management & To-do Lists
 depends_3rdparty: true
 demo_url: "https://demo.letsrevel.io"
 related_software_url: "https://github.com/letsrevel"

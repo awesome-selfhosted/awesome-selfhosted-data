@@ -9,12 +9,12 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/transmission/transmission
-stargazers_count: 13877
-updated_at: '2026-01-04'
+stargazers_count: 13889
+updated_at: '2026-01-06'
 archived: false
 current_release:
-  tag: 4.1.0-beta.4
-  published_at: '2025-12-04'
+  tag: 4.1.0-beta.5
+  published_at: '2026-01-06'
 commit_history:
   2025-02: 1
   2025-03: 35
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 52
   2025-11: 88
   2025-12: 100
-  2026-01: 14
+  2026-01: 21

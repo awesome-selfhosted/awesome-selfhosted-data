@@ -9,12 +9,12 @@ tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/sissbruecker/linkding
 demo_url: https://demo.linkding.link/login/
-stargazers_count: 9834
-updated_at: '2026-01-04'
+stargazers_count: 9856
+updated_at: '2026-01-06'
 archived: false
 current_release:
-  tag: v1.44.2
-  published_at: '2025-12-13'
+  tag: v1.45.0
+  published_at: '2026-01-06'
 commit_history:
   2025-02: 17
   2025-03: 31
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 19
   2025-11: 0
   2025-12: 15
-  2026-01: 16
+  2026-01: 32

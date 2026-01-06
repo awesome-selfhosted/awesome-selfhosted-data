@@ -7,15 +7,24 @@ platforms:
   - Go
   - Docker
 tags:
-  - Miscellaneous
+  - Network Utilities
 source_code_url: https://github.com/seriousm4x/UpSnap
-stargazers_count: 4094
-updated_at: '2025-10-31'
+stargazers_count: 4536
+updated_at: '2025-12-30'
 archived: false
 current_release:
-  tag: 5.2.3
-  published_at: '2025-10-19'
+  tag: 5.2.5
+  published_at: '2025-12-25'
 commit_history:
+  2025-02: 72
+  2025-03: 72
+  2025-04: 63
+  2025-05: 49
+  2025-06: 44
+  2025-07: 45
   2025-08: 47
   2025-09: 70
   2025-10: 72
+  2025-11: 39
+  2025-12: 42
+  2026-01: 0

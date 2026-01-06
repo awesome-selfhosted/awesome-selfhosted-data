@@ -11,13 +11,22 @@ platforms:
   - Docker
 tags:
   - Communication - Custom Communication Systems
-stargazers_count: 1398
-updated_at: '2025-10-31'
+stargazers_count: 1422
+updated_at: '2026-01-04'
 archived: false
 current_release:
-  tag: v5.0.85
-  published_at: '2025-10-12'
+  tag: v5.0.87
+  published_at: '2025-12-14'
 commit_history:
+  2025-02: 84
+  2025-03: 130
+  2025-04: 23
+  2025-05: 29
+  2025-06: 25
+  2025-07: 74
   2025-08: 68
   2025-09: 95
-  2025-10: 43
+  2025-10: 50
+  2025-11: 33
+  2025-12: 33
+  2026-01: 3

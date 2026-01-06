@@ -4,9 +4,7 @@ description: Personal finance application for everyone (fork of Maybe).
 licenses:
   - AGPL-3.0
 platforms:
-  - Ruby
   - Docker
-  - K8S
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/we-promise/sure

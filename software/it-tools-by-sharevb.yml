@@ -1,0 +1,11 @@
+name: "IT-Tools by sharevb"
+website_url: "https://github.com/sharevb/it-tools"
+source_code_url: "https://github.com/sharevb/it-tools"
+description: "Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools))."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: "https://sharevb-it-tools.vercel.app/"

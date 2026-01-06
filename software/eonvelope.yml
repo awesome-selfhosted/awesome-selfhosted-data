@@ -4,7 +4,6 @@ source_code_url: "https://gitlab.com/dacid99/eonvelope"
 description: "Email archiving software that allows you to preserve your emails for an indefinite long period of time."
 licenses:
   - AGPL-3.0
-  - CC-BY-SA-4.0
 platforms:
   - K8S
   - Docker

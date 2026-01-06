@@ -1,0 +1,14 @@
+name: "SmtpMux"
+website_url: "https://github.com/goyal-aman/smtpmux"
+source_code_url: "https://github.com/goyal-aman/smtpmux"
+description: "SMTP Mux is a programmable SMTP proxy that multiplexes outbound email at runtime via plugins, allowing fine-grained control over delivery based on sender, recipient, domain, volume, health checks, or custom policies."
+licenses:
+  - MIT License
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Email - Mail Transfer Agents
+  - Proxy
+  - Self-hosting Solutions
+depends_3rdparty: false

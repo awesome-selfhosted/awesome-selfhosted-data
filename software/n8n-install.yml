@@ -1,0 +1,11 @@
+name: "n8n Install"
+website_url: "https://github.com/kossakovsky/n8n-install"
+source_code_url: "https://github.com/kossakovsky/n8n-install"
+description: "Self-hosted AI automation platform. Deploy n8n with 30 AI tools (Ollama, Open WebUI, Supabase, Qdrant, etc.) using one command. Auto HTTPS via Caddy."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Automation

@@ -1,0 +1,13 @@
+name: "Sniffnet"
+website_url: "https://sniffnet.net"
+source_code_url: "https://github.com/GyulyVGC/sniffnet"
+description: "App to comfortably monitor your Internet traffic."
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Network Utilities
+  - Analytics
+depends_3rdparty: false

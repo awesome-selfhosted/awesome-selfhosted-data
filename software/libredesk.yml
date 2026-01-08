@@ -10,8 +10,8 @@ platforms:
   - Nodejs
 tags:
   - Ticketing
-stargazers_count: 2007
-updated_at: '2026-01-05'
+stargazers_count: 2048
+updated_at: '2026-01-08'
 archived: false
 current_release:
   tag: v0.9.5-beta
@@ -19,5 +19,5 @@ current_release:
 commit_history:
   2025-10: 3
   2025-11: 47
-  2025-12: 122
-  2026-01: 14
+  2025-12: 124
+  2026-01: 43

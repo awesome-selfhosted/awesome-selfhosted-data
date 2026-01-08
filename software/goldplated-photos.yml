@@ -1,0 +1,11 @@
+name: Goldplated Photos
+website_url: https://goldplated.photos
+description: Photo gallery for photographers with file-based storage (no database), password protection, and multiple view modes.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Photo Galleries
+source_code_url: https://github.com/klukacin/goldplated-photos
+demo_url: https://kristijan.lukacin.com

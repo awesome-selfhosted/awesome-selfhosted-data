@@ -1,0 +1,13 @@
+name: "tnyr.me"
+website_url: "https://tnyr.me"
+source_code_url: "https://github.com/Sevi-py/tnyr.me"
+description: "A privacy-focused URL shortener with zero trust passwordless encryption."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+  - Python
+tags:
+  - URL Shorteners
+depends_3rdparty: false

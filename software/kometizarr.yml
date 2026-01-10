@@ -1,0 +1,11 @@
+name: Kometizarr
+website_url: https://github.com/P2Chill/kometizarr
+description: Automated rating overlays (TMDB/IMDb/RT) and collection management for Plex with web UI.
+licenses:
+- MIT
+platforms:
+- Python
+- Docker
+tags:
+- Media Management
+source_code_url: https://github.com/P2Chill/kometizarr

@@ -10,11 +10,11 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/gitbucket/gitbucket
 stargazers_count: 9337
-updated_at: '2026-01-08'
+updated_at: '2026-01-10'
 archived: false
 current_release:
-  tag: 4.44.0
-  published_at: '2025-09-23'
+  tag: 4.45.0
+  published_at: '2026-01-10'
 commit_history:
   2025-02: 15
   2025-03: 15
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 13
   2025-11: 13
   2025-12: 19
-  2026-01: 5
+  2026-01: 12

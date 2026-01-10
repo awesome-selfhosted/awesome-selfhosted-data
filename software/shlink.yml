@@ -10,12 +10,12 @@ tags:
   - URL Shorteners
 source_code_url: https://github.com/shlinkio/shlink
 related_software_url: https://shlink.io/apps
-stargazers_count: 4568
-updated_at: '2026-01-07'
+stargazers_count: 4575
+updated_at: '2026-01-09'
 archived: false
 current_release:
-  tag: v4.6.0
-  published_at: '2025-11-01'
+  tag: v5.0.0
+  published_at: '2026-01-09'
 commit_history:
   2025-02: 18
   2025-03: 13
@@ -28,4 +28,4 @@ commit_history:
   2025-10: 39
   2025-11: 50
   2025-12: 61
-  2026-01: 4
+  2026-01: 10

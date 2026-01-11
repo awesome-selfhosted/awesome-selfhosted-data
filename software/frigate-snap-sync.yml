@@ -9,13 +9,7 @@ platforms:
   - Docker
 tags:
   - Automation
-  - Video Surveillance
-  - File Transfer
-  - Home Automation
-  - Media Streaming
-  - MQTT
-  - Backup
-  - Self-hosting
-  - Surveillance
-  - IoT
+  - "File Transfer & Synchronization"
+  - "Internet of Things (IoT)"
+  - "Video Surveillance"
 depends_3rdparty: false

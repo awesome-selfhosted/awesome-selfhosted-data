@@ -1,0 +1,11 @@
+name: Temps
+website_url: https://temps.sh/
+description: Deployment platform for any application from Git with built-in analytics, error tracking, session replay, and uptime monitoring.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/gotempsh/temps

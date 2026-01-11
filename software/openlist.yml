@@ -1,0 +1,13 @@
+name: "OpenList"
+website_url: "https://doc.oplist.org/"
+source_code_url: "https://github.com/OpenListTeam/OpenList"
+description: "OpenList is an file listing and management service that provides access to local and cloud storage services via a web-based interface."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Web-based File Managers
+depends_3rdparty: false
+demo_url: "https://demo.oplist.org/"

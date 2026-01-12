@@ -9,12 +9,12 @@ platforms:
 tags:
   - Pastebins
 source_code_url: https://github.com/HemmeligOrg/Hemmelig.app
-stargazers_count: 1076
-updated_at: '2026-01-09'
+stargazers_count: 1085
+updated_at: '2026-01-12'
 archived: false
 current_release:
-  tag: v7.3.6
-  published_at: '2025-12-29'
+  tag: cli-v1.0.2
+  published_at: '2026-01-12'
 commit_history:
   2025-02: 108
   2025-03: 0
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 0
   2025-11: 2
   2025-12: 246
-  2026-01: 1
+  2026-01: 2

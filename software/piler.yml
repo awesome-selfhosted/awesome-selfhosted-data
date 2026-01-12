@@ -6,8 +6,10 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
+  - deb
 tags:
-  - Communication - Email - Mail Delivery Agents
+  - Archiving and Digital Preservation (DP)
 stargazers_count: 232
 updated_at: '2026-01-11'
 archived: false

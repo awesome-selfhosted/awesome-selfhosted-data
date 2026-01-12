@@ -1,0 +1,13 @@
+name: "Econumo"
+website_url: "https://econumo.com"
+source_code_url: "https://github.com/econumo/econumo"
+description: "A budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets."
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false
+demo_url: "https://demo.econumo.com"

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/Freika/dawarich
-stargazers_count: 7686
-updated_at: '2026-01-04'
+stargazers_count: 7694
+updated_at: '2026-01-11'
 archived: false
 current_release:
-  tag: 0.37.2
-  published_at: '2026-01-04'
+  tag: 0.37.3
+  published_at: '2026-01-11'
 commit_history:
   2025-02: 161
   2025-03: 58
@@ -26,4 +26,4 @@ commit_history:
   2025-10: 123
   2025-11: 116
   2025-12: 8
-  2026-01: 1
+  2026-01: 2

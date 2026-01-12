@@ -1,7 +1,7 @@
-name: "LocalAI"
-website_url: "https://localai.io/"
-source_code_url: "https://github.com/mudler/LocalAI"
-description: "Run your AI models locally and generate images and audio (alternative to OpenAI and Claude)."
+name: LocalAI
+website_url: https://localai.io/
+source_code_url: https://github.com/mudler/LocalAI
+description: Run your AI models locally and generate images and audio (alternative to OpenAI and Claude).
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,14 @@ platforms:
   - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)
-related_software_url: "https://localai.io/gallery.html"
+related_software_url: https://localai.io/gallery.html
+stargazers_count: 41265
+updated_at: '2026-01-11'
+archived: false
+current_release:
+  tag: v3.9.0
+  published_at: '2025-12-24'
+commit_history:
+  2025-11: 163
+  2025-12: 195
+  2026-01: 71

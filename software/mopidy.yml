@@ -10,8 +10,8 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/mopidy/mopidy
 depends_3rdparty: true
-stargazers_count: 8425
-updated_at: '2026-01-08'
+stargazers_count: 8424
+updated_at: '2026-01-13'
 archived: false
 current_release:
   tag: v4.0.0a13
@@ -28,4 +28,4 @@ commit_history:
   2025-10: 0
   2025-11: 24
   2025-12: 102
-  2026-01: 13
+  2026-01: 15

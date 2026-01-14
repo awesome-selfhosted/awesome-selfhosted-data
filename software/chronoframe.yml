@@ -1,0 +1,13 @@
+name: "ChronoFrame"
+website_url: "https://chronoframe.bh8.ga/"
+source_code_url: "https://github.com/HoshinoSuzumi/chronoframe"
+description: "Self-hosted personal gallery application with online photo management, supporting Live/Motion Photos, and explore map."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Photo Galleries
+  - Content Management Systems (CMS)
+demo_url: "https://lens.bh8.ga/"

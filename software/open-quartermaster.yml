@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 51
-updated_at: '2026-01-08'
+updated_at: '2026-01-15'
 archived: false
 current_release:
-  tag: oqm-theming-1.0.0
-  published_at: '2026-01-08'
+  tag: core-base+station-1.10.0
+  published_at: '2026-01-15'
 commit_history:
   2025-02: 85
   2025-03: 28
@@ -26,5 +26,5 @@ commit_history:
   2025-09: 97
   2025-10: 78
   2025-11: 148
-  2025-12: 66
-  2026-01: 29
+  2025-12: 78
+  2026-01: 80

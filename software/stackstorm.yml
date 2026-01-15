@@ -8,8 +8,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/StackStorm/st2
-stargazers_count: 6398
-updated_at: '2026-01-12'
+stargazers_count: 6399
+updated_at: '2026-01-14'
 archived: false
 current_release:
   tag: v3.9.0
@@ -26,4 +26,4 @@ commit_history:
   2025-10: 40
   2025-11: 0
   2025-12: 1
-  2026-01: 1
+  2026-01: 3

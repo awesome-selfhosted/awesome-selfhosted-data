@@ -10,12 +10,12 @@ tags:
   - Automation
   - Communication - Email - Mailing Lists and Newsletters
 demo_url: https://demo.dittofeed.com/dashboard/journeys
-stargazers_count: 2617
-updated_at: '2026-01-15'
+stargazers_count: 2620
+updated_at: '2026-01-16'
 archived: false
 current_release:
-  tag: v0.24.0-alpha.12
-  published_at: '2026-01-15'
+  tag: v0.24.0-alpha.13
+  published_at: '2026-01-16'
 commit_history:
   2025-02: 28
   2025-03: 54
@@ -28,4 +28,4 @@ commit_history:
   2025-10: 14
   2025-11: 21
   2025-12: 21
-  2026-01: 21
+  2026-01: 22

@@ -1,0 +1,13 @@
+name: NewsFeed
+website_url: https://github.com/drenlia/newsfeed
+description: Bilingual news aggregator with customizable tabs, filtering, and real-time updates.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Feed Readers
+source_code_url: https://github.com/drenlia/newsfeed
+demo_url: https://newsfeed.demo.drenlia.com

@@ -1,5 +1,5 @@
-name: Jellyseerr
-website_url: https://github.com/Fallenbagel/jellyseerr
+name: Seerr
+website_url: https://github.com/seerr-team/seerr
 description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr).
 licenses:
   - MIT
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Media Management
-source_code_url: https://github.com/Fallenbagel/jellyseerr
+source_code_url: https://github.com/seerr-team/seerr
 stargazers_count: 6742
 updated_at: '2025-10-20'
 archived: false

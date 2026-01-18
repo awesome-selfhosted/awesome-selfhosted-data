@@ -1,0 +1,12 @@
+name: "Infisical Community Edition"
+website_url: "https://infisical.com/"
+source_code_url: "https://github.com/Infisical/infisical"
+description: "Platform for secrets, certificates, and privileged access management."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+  - deb
+tags:
+  - Miscellaneous

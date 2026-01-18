@@ -1,0 +1,10 @@
+name: KaiROS AI
+website_url: https://github.com/avikeid2007/Kairos.local
+description: Local AI assistant for Windows that runs LLMs locally with CPU and GPU acceleration (CUDA 12), built-in REST API server, and support for 31+ pre-configured models from major AI organizations.
+licenses:
+  - MIT
+platforms:
+  - C#
+tags:
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/avikeid2007/Kairos.local

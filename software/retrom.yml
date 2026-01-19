@@ -9,12 +9,12 @@ platforms:
   - Rust
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 1645
-updated_at: '2026-01-14'
+stargazers_count: 1646
+updated_at: '2026-01-18'
 archived: false
 current_release:
-  tag: v0.7.50
-  published_at: '2026-01-14'
+  tag: v0.7.51
+  published_at: '2026-01-18'
 commit_history:
   2025-02: 59
   2025-03: 12
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 17
   2025-11: 41
   2025-12: 25
-  2026-01: 6
+  2026-01: 9

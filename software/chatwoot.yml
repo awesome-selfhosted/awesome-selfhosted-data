@@ -10,12 +10,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/chatwoot/chatwoot
-stargazers_count: 26949
-updated_at: '2026-01-19'
+stargazers_count: 26982
+updated_at: '2026-01-21'
 archived: false
 current_release:
-  tag: v4.10.0
-  published_at: '2026-01-16'
+  tag: v4.10.1
+  published_at: '2026-01-20'
 commit_history:
   2025-02: 98
   2025-03: 103
@@ -28,4 +28,4 @@ commit_history:
   2025-10: 66
   2025-11: 83
   2025-12: 64
-  2026-01: 49
+  2026-01: 56

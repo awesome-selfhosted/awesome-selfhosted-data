@@ -9,12 +9,12 @@ platforms:
 tags:
   - Web Servers
 source_code_url: https://github.com/pomerium/pomerium
-stargazers_count: 4636
+stargazers_count: 4645
 updated_at: '2026-01-17'
 archived: false
 current_release:
-  tag: v0.31.3
-  published_at: '2025-12-11'
+  tag: v0.32.0
+  published_at: '2026-01-20'
 commit_history:
   2025-02: 28
   2025-03: 28

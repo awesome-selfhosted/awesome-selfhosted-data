@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - Document Management - E-books
-stargazers_count: 9181
-updated_at: '2026-01-21'
+stargazers_count: 9204
+updated_at: '2026-01-22'
 archived: false
 current_release:
-  tag: v1.17.0
-  published_at: '2026-01-09'
+  tag: v1.18.2
+  published_at: '2026-01-22'
 commit_history:
   2025-02: 30
   2025-03: 82
@@ -24,6 +24,6 @@ commit_history:
   2025-08: 116
   2025-09: 70
   2025-10: 105
-  2025-11: 79
-  2025-12: 173
-  2026-01: 145
+  2025-11: 81
+  2025-12: 183
+  2026-01: 173

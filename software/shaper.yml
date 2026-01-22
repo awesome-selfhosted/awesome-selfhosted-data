@@ -1,0 +1,14 @@
+name: Shaper
+website_url: https://taleshape.com/shaper/docs
+description: Build Data Dashboards all in SQL. Powered by DuckDB.
+licenses:
+  - MPL-2.0
+platforms:
+  - Docker
+  - Nodejs
+  - Python
+  - Go
+tags:
+  - Analytics
+source_code_url: https://github.com/taleshape-com/shaper
+demo_url: https://demo.taleshape.com/view/pvggvdpiwb9wlyppuqbyx0nt

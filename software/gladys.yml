@@ -9,12 +9,12 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/GladysAssistant/Gladys
-stargazers_count: 2971
-updated_at: '2026-01-19'
+stargazers_count: 2975
+updated_at: '2026-01-23'
 archived: false
 current_release:
-  tag: v4.66.9
-  published_at: '2026-01-19'
+  tag: v4.67.0
+  published_at: '2026-01-23'
 commit_history:
   2025-02: 23
   2025-03: 20
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 10
   2025-11: 10
   2025-12: 29
-  2026-01: 9
+  2026-01: 13

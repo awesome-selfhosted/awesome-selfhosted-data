@@ -1,5 +1,5 @@
 name: OvenMediaEngine
-website_url: https://github.com/AirenSoft/OvenMediaEngine
+website_url: https://github.com/OvenMediaLabs/OvenMediaEngine
 description: Streaming Server with Sub-Second Latency.
 licenses:
   - AGPL-3.0
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Video Streaming
-source_code_url: https://github.com/AirenSoft/OvenMediaEngine
+source_code_url: https://github.com/OvenMediaLabs/OvenMediaEngine
 demo_url: https://demo.ovenplayer.com
 stargazers_count: 3032
 updated_at: '2026-01-19'

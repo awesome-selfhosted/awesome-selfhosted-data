@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/pulsejet/memories
 demo_url: https://demo.memories.gallery/apps/memories/
 stargazers_count: 3677
-updated_at: '2026-01-24'
+updated_at: '2026-01-25'
 archived: false
 current_release:
-  tag: v7.7.0
-  published_at: '2025-10-04'
+  tag: v7.8.0
+  published_at: '2026-01-25'
 commit_history:
   2025-02: 39
   2025-03: 28
@@ -26,5 +26,5 @@ commit_history:
   2025-09: 38
   2025-10: 28
   2025-11: 31
-  2025-12: 3
-  2026-01: 10
+  2025-12: 5
+  2026-01: 33

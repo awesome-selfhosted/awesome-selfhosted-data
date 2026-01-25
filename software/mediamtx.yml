@@ -1,6 +1,6 @@
 name: MediaMTX
 website_url: https://mediamtx.org
-description: Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. Single executable for Linux, Windows and macOS.
+description: Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP.
 licenses:
   - MIT
 platforms:

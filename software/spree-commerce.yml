@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/spree/spree
 demo_url: https://demo.spreecommerce.org/
 stargazers_count: 15160
-updated_at: '2026-01-25'
+updated_at: '2026-01-26'
 archived: false
 current_release:
-  tag: v5.3.0.rc2
-  published_at: '2026-01-22'
+  tag: v5.3.0
+  published_at: '2026-01-26'
 commit_history:
   2025-02: 200
   2025-03: 189
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 96
   2025-11: 116
   2025-12: 139
-  2026-01: 186
+  2026-01: 190

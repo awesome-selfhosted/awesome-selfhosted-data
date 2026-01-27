@@ -1,7 +1,7 @@
 name: TinyFeed
 website_url: https://feed.lovergne.dev/
 source_code_url: https://github.com/TheBigRoomXXL/tinyfeed
-description: Generate a static HTML page from a collection of feeds wtih a simple CLI.
+description: Generate a static HTML page from a collection of feeds with a simple CLI.
 licenses:
   - MIT
 platforms:

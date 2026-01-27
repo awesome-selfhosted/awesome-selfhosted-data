@@ -1,0 +1,10 @@
+name: Bolt CMS
+website_url: https://boltcms.io/
+description: Content Management Tool, which strives to be as simple and straightforward as possible.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/bolt/core

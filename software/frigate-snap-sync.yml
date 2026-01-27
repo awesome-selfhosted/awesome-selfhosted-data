@@ -1,0 +1,14 @@
+name: "Frigate Snap-Sync"
+website_url: "https://github.com/TheQuantumPhysicist/frigate-snap-sync"
+source_code_url: "https://github.com/TheQuantumPhysicist/frigate-snap-sync"
+description: "Automatically syncs Frigate snapshots and recordings to external servers using MQTT events."
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Automation
+  - "File Transfer & Synchronization"
+  - "Internet of Things (IoT)"
+  - "Video Surveillance"

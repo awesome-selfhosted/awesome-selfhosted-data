@@ -21,6 +21,7 @@ steps:
         - Elastic-2.0
         - NPOSL-3.0
         - SSPL-1.0
+        - SUL-1.0
 
   - name: export YAML data to single-page markdown (non-free)
     module: exporters/markdown_singlepage
@@ -46,3 +47,4 @@ steps:
         - Elastic-2.0
         - NPOSL-3.0
         - SSPL-1.0
+        - SUL-1.0

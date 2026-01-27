@@ -10,12 +10,12 @@ platforms:
 tags:
   - Inventory Management
 demo_url: https://demo.homebox.software/
-stargazers_count: 4744
-updated_at: '2026-01-03'
+stargazers_count: 5003
+updated_at: '2026-01-26'
 archived: false
 current_release:
-  tag: v0.22.3
-  published_at: '2025-12-26'
+  tag: v0.23.0-rc.1
+  published_at: '2026-01-20'
 commit_history:
   2025-02: 93
   2025-03: 87
@@ -28,4 +28,4 @@ commit_history:
   2025-10: 11
   2025-11: 14
   2025-12: 96
-  2026-01: 4
+  2026-01: 38

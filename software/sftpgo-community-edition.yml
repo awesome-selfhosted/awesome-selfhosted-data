@@ -1,8 +1,9 @@
-name: SFTPGo
+name: sftpgo Community Edition
 website_url: https://github.com/drakkan/sftpgo
 description: Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support.
 licenses:
   - AGPL-3.0
+  - ⊘ Proprietary
 platforms:
   - Go
   - deb
@@ -10,8 +11,8 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/drakkan/sftpgo
-stargazers_count: 11537
-updated_at: '2026-01-01'
+stargazers_count: 11621
+updated_at: '2026-01-24'
 archived: false
 current_release:
   tag: v2.7.0
@@ -28,4 +29,4 @@ commit_history:
   2025-10: 20
   2025-11: 9
   2025-12: 24
-  2026-01: 1
+  2026-01: 8

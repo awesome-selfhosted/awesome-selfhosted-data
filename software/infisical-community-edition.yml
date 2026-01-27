@@ -1,0 +1,22 @@
+name: Infisical Community Edition
+website_url: https://infisical.com/
+source_code_url: https://github.com/Infisical/infisical
+description: Platform for secrets, certificates, and privileged access management.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+  - deb
+tags:
+  - Miscellaneous
+stargazers_count: 24591
+updated_at: '2026-01-26'
+archived: false
+current_release:
+  tag: v0.156.3
+  published_at: '2026-01-22'
+commit_history:
+  2025-11: 1128
+  2025-12: 574
+  2026-01: 616

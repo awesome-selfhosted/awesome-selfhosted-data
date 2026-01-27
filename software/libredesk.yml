@@ -10,14 +10,14 @@ platforms:
   - Nodejs
 tags:
   - Ticketing
-stargazers_count: 1954
-updated_at: '2026-01-02'
+stargazers_count: 2107
+updated_at: '2026-01-22'
 archived: false
 current_release:
-  tag: v0.9.5-beta
-  published_at: '2025-12-30'
+  tag: v0.11.1-beta
+  published_at: '2026-01-20'
 commit_history:
   2025-10: 3
   2025-11: 47
-  2025-12: 122
-  2026-01: 2
+  2025-12: 124
+  2026-01: 60

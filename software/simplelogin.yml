@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/simple-login/app
-stargazers_count: 6383
-updated_at: '2026-01-26'
+stargazers_count: 6387
+updated_at: '2026-01-27'
 archived: false
 current_release:
-  tag: v4.78.1
-  published_at: '2026-01-22'
+  tag: v4.78.4
+  published_at: '2026-01-27'
 commit_history:
   2025-02: 25
   2025-03: 12
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 13
   2025-11: 23
   2025-12: 14
-  2026-01: 63
+  2026-01: 73

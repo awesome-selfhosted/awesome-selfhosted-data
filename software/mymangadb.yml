@@ -1,0 +1,11 @@
+name: "MyMangaDB"
+website_url: "https://github.com/FabianRolfMatthiasNoll/MyMangaDB"
+source_code_url: "https://github.com/FabianRolfMatthiasNoll/MyMangaDB"
+description: "Manga collection manager with automatic metadata, MyAnimeList import and detailed collection statistics."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+depends_3rdparty: true

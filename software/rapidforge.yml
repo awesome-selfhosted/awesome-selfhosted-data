@@ -1,7 +1,7 @@
 name: RapidForge
 website_url: https://rapidforge.io/
 source_code_url: https://github.com/rapidforge-io/rapidforge
-description: Lightweight, self hosted platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua.
+description: Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua.
 licenses:
   - Apache-2.0
 platforms:

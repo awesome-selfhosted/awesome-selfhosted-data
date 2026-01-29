@@ -9,12 +9,12 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/warp-tech/warpgate
-stargazers_count: 6479
-updated_at: '2026-01-27'
+stargazers_count: 6486
+updated_at: '2026-01-28'
 archived: false
 current_release:
-  tag: v0.19.1
-  published_at: '2026-01-05'
+  tag: v0.20.0
+  published_at: '2026-01-28'
 commit_history:
   2025-02: 47
   2025-03: 13
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 25
   2025-11: 18
   2025-12: 23
-  2026-01: 53
+  2026-01: 56

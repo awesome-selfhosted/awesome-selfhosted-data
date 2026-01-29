@@ -10,11 +10,11 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/bigcapitalhq/bigcapital
 stargazers_count: 3474
-updated_at: '2026-01-27'
+updated_at: '2026-01-29'
 archived: false
 current_release:
-  tag: v0.23.0-rc.3
-  published_at: '2026-01-21'
+  tag: v0.24.0
+  published_at: '2026-01-28'
 commit_history:
   2025-02: 7
   2025-03: 21
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 39
   2025-11: 44
   2025-12: 43
-  2026-01: 59
+  2026-01: 65

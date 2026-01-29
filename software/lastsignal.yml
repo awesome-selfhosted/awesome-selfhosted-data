@@ -1,0 +1,11 @@
+name: LastSignal
+website_url: https://lastsignal.app
+source_code_url: https://github.com/giovantenne/lastsignal
+description: Email-first dead man's switch with end-to-end encrypted messages.
+licenses:
+  - BUSL-1.1
+platforms:
+  - Ruby
+  - Docker
+tags:
+  - Miscellaneous

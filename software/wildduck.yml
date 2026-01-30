@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/zone-eu/wildduck
-stargazers_count: 2067
-updated_at: '2026-01-29'
+stargazers_count: 2065
+updated_at: '2026-01-30'
 archived: false
 current_release:
-  tag: v1.46.19
-  published_at: '2026-01-27'
+  tag: v1.46.20
+  published_at: '2026-01-30'
 commit_history:
   2025-02: 5
   2025-03: 11
@@ -27,4 +27,4 @@ commit_history:
   2025-10: 23
   2025-11: 24
   2025-12: 13
-  2026-01: 30
+  2026-01: 31

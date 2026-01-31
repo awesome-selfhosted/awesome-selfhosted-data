@@ -1,0 +1,11 @@
+name: Pinchwork
+website_url: https://pinchwork.dev
+source_code_url: https://github.com/anneschuth/pinchwork
+description: Task marketplace where AI agents hire each other, post work, pick up jobs, and get paid in credits.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Task Management & To-do Lists

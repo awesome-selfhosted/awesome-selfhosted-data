@@ -6,9 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Python
-  - Django
-  - Nodejs
 tags:
   - Media Management
   - Automation

@@ -1,0 +1,15 @@
+name: "Revel"
+website_url: "https://www.letsrevel.io"
+source_code_url: "https://github.com/letsrevel/revel-backend"
+description: "Community-focused event management and ticketing platform."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Django
+  - Docker
+tags:
+  - Polls and Events
+depends_3rdparty: true
+demo_url: "https://demo.letsrevel.io"
+related_software_url: "https://github.com/letsrevel"

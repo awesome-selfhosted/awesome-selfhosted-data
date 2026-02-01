@@ -9,14 +9,13 @@ platforms:
 tags:
   - Recipe Management
 source_code_url: https://github.com/TomBursch/kitchenowl
-stargazers_count: 3034
+stargazers_count: 3036
 updated_at: '2026-01-24'
 archived: false
 current_release:
   tag: v0.7.6
   published_at: '2026-01-24'
 commit_history:
-  2025-02: 36
   2025-03: 17
   2025-04: 25
   2025-05: 23
@@ -28,3 +27,4 @@ commit_history:
   2025-11: 9
   2025-12: 6
   2026-01: 20
+  2026-02: 0

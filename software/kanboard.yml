@@ -8,14 +8,13 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/kanboard/kanboard
-stargazers_count: 9422
+stargazers_count: 9423
 updated_at: '2026-01-31'
 archived: false
 current_release:
   tag: v1.2.49
   published_at: '2026-01-07'
 commit_history:
-  2025-02: 0
   2025-03: 6
   2025-04: 4
   2025-05: 17
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 1
   2025-12: 5
   2026-01: 12
+  2026-02: 0

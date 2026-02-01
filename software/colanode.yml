@@ -9,14 +9,13 @@ platforms:
   - Docker
 tags:
   - Groupware
-stargazers_count: 4547
+stargazers_count: 4548
 updated_at: '2026-01-30'
 archived: false
 current_release:
   tag: v0.4.4
   published_at: '2026-01-30'
 commit_history:
-  2025-02: 55
   2025-03: 8
   2025-04: 20
   2025-05: 16
@@ -28,3 +27,4 @@ commit_history:
   2025-11: 16
   2025-12: 0
   2026-01: 28
+  2026-02: 0

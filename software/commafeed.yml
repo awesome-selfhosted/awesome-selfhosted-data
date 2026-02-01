@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/Athou/commafeed
 demo_url: https://www.commafeed.com/#/app/category/all
 stargazers_count: 3404
-updated_at: '2026-01-30'
+updated_at: '2026-02-01'
 archived: false
 current_release:
   tag: 6.1.1
   published_at: '2026-01-26'
 commit_history:
-  2025-02: 109
   2025-03: 116
   2025-04: 94
   2025-05: 109
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 122
   2025-11: 89
   2025-12: 92
-  2026-01: 86
+  2026-01: 87
+  2026-02: 1

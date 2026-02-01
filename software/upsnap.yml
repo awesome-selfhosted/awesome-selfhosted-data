@@ -9,14 +9,13 @@ platforms:
 tags:
   - Network Utilities
 source_code_url: https://github.com/seriousm4x/UpSnap
-stargazers_count: 4894
+stargazers_count: 4903
 updated_at: '2026-01-30'
 archived: false
 current_release:
   tag: 5.2.7
   published_at: '2026-01-07'
 commit_history:
-  2025-02: 72
   2025-03: 72
   2025-04: 63
   2025-05: 49
@@ -28,3 +27,4 @@ commit_history:
   2025-11: 39
   2025-12: 42
   2026-01: 45
+  2026-02: 0

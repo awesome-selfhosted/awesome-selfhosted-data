@@ -9,13 +9,12 @@ platforms:
 tags:
   - Customer Relationship Management (CRM)
 stargazers_count: 489
-updated_at: '2026-01-30'
+updated_at: '2026-02-01'
 archived: false
 current_release:
   tag: v1.7.0
   published_at: '2025-12-13'
 commit_history:
-  2025-02: 74
   2025-03: 75
   2025-04: 91
   2025-05: 86
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 36
   2025-12: 52
   2026-01: 86
+  2026-02: 1

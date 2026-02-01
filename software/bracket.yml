@@ -10,14 +10,13 @@ platforms:
   - Nodejs
 tags:
   - Polls and Events
-stargazers_count: 1580
+stargazers_count: 1581
 updated_at: '2026-01-29'
 archived: false
 current_release:
   tag: v3.0.0-rc1
   published_at: '2025-12-29'
 commit_history:
-  2025-02: 50
   2025-03: 21
   2025-04: 25
   2025-05: 43
@@ -29,3 +28,4 @@ commit_history:
   2025-11: 53
   2025-12: 57
   2026-01: 24
+  2026-02: 0

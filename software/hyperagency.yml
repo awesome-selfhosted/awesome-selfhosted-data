@@ -18,12 +18,12 @@ platforms:
   - K8S
 # list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
+  - Generative Artificial Intelligence (GenAI)
   - Automation
   - Internet of Things (IoT)
   - Software Development - Continuous Integration & Deployment
   - Media Management
   - Communication - XMPP - Servers
-  - Generative Artificial Intelligence (GenAI)
   - Software Development - FaaS & Serverless
   - Static Site Generators
   - Self-hosting Solutions

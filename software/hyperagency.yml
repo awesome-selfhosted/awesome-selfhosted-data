@@ -1,0 +1,35 @@
+# softwarA name
+name: "HyperAgency"
+# URL of the software project's homepage
+website_url: "https://h9y.ai"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/vuics/h9y"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "HyperAgency (h9y.ai) is agentic AI operating system that replaces brittle/fragmented automations with long-lived, self-improving systems. Open-source, decentralized, omni-channel, self-host & cloud, web3 marketplace."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+  - AGPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+  - K8S
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Automation
+  - Internet of Things (IoT)
+  - Software Development - Continuous Integration & Deployment
+  - Media Management
+  - Communication - XMPP - Servers
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - FaaS & Serverless
+  - Static Site Generators
+  - Self-hosting Solutions
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+# (optional) link to an interactive demo of the software
+demo_url: "https://h9y.ai"
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
+related_software_url: "https://hyag.org/"

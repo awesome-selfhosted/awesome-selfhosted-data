@@ -1,0 +1,11 @@
+name: PicPeak
+website_url: https://github.com/the-luap/picpeak
+description: Photo sharing platform for photographers and events with time-limited galleries, password protection, guest uploads, analytics, and white-label branding (alternative to PicDrop).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Photo Galleries
+source_code_url: https://github.com/the-luap/picpeak

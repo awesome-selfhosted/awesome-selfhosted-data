@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/apache/answer
-stargazers_count: 15354
-updated_at: '2026-01-29'
+stargazers_count: 15362
+updated_at: '2026-02-03'
 archived: false
 current_release:
-  tag: v2.0.0-RC2
-  published_at: '2026-01-29'
+  tag: v2.0.0
+  published_at: '2026-02-03'
 commit_history:
   2025-03: 52
   2025-04: 79
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 10
   2025-12: 73
   2026-01: 59
-  2026-02: 0
+  2026-02: 1

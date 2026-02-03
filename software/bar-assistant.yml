@@ -10,12 +10,12 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/karlomikus/bar-assistant
 demo_url: https://demo.barassistant.app/
-stargazers_count: 965
-updated_at: '2026-02-01'
+stargazers_count: 966
+updated_at: '2026-02-02'
 archived: false
 current_release:
-  tag: v5.13.0
-  published_at: '2026-02-01'
+  tag: v5.13.1
+  published_at: '2026-02-02'
 commit_history:
   2025-03: 105
   2025-04: 25
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 26
   2025-12: 27
   2026-01: 41
-  2026-02: 2
+  2026-02: 3

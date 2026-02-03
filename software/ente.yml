@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 24201
-updated_at: '2026-01-31'
+stargazers_count: 24247
+updated_at: '2026-02-03'
 archived: false
 current_release:
-  tag: photos-v1.3.7
-  published_at: '2026-01-29'
+  tag: photos-v1.3.10
+  published_at: '2026-02-03'
 commit_history:
   2025-03: 1033
   2025-04: 693
@@ -27,5 +27,5 @@ commit_history:
   2025-10: 1039
   2025-11: 1425
   2025-12: 1240
-  2026-01: 1244
-  2026-02: 0
+  2026-01: 1257
+  2026-02: 42

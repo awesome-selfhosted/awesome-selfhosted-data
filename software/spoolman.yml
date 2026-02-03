@@ -10,12 +10,12 @@ platforms:
 tags:
   - Inventory Management
   - Manufacturing
-stargazers_count: 2122
-updated_at: '2026-01-27'
+stargazers_count: 2129
+updated_at: '2026-02-03'
 archived: false
 current_release:
-  tag: v0.23.0
-  published_at: '2026-01-23'
+  tag: v0.23.1
+  published_at: '2026-02-03'
 commit_history:
   2025-03: 35
   2025-04: 10
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 3
   2025-12: 0
   2026-01: 65
-  2026-02: 0
+  2026-02: 1

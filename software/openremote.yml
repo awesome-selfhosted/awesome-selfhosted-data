@@ -9,12 +9,12 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/openremote/openremote
 demo_url: https://demo.openremote.io/
-stargazers_count: 1641
-updated_at: '2026-02-03'
+stargazers_count: 1643
+updated_at: '2026-02-04'
 archived: false
 current_release:
-  tag: 1.15.1
-  published_at: '2026-02-02'
+  tag: 1.16.1
+  published_at: '2026-02-04'
 commit_history:
   2025-03: 22
   2025-04: 28
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 21
   2025-12: 32
   2026-01: 46
-  2026-02: 5
+  2026-02: 13

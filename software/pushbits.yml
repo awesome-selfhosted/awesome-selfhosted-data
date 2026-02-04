@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/pushbits/server
-stargazers_count: 352
-updated_at: '2025-05-29'
+stargazers_count: 354
+updated_at: '2026-01-10'
 archived: false
 current_release:
   tag: v0.10.7
   published_at: '2025-05-29'
 commit_history:
-  2025-01: 0
-  2025-02: 8
   2025-03: 0
   2025-04: 0
   2025-05: 3
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
+  2026-01: 4
+  2026-02: 0

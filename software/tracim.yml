@@ -10,15 +10,13 @@ platforms:
 tags:
   - Groupware
 source_code_url: https://github.com/tracim/tracim
-stargazers_count: 250
-updated_at: '2025-12-23'
+stargazers_count: 261
+updated_at: '2026-01-14'
 archived: false
 current_release:
   tag: release_04.12.00
   published_at: '2024-12-23'
 commit_history:
-  2025-01: 16
-  2025-02: 5
   2025-03: 19
   2025-04: 18
   2025-05: 9
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 12
   2025-10: 21
   2025-11: 1
-  2025-12: 4
+  2025-12: 6
+  2026-01: 3
+  2026-02: 0

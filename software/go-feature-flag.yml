@@ -8,12 +8,12 @@ platforms:
 tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
-stargazers_count: 1920
-updated_at: '2026-02-04'
+stargazers_count: 1922
+updated_at: '2026-02-05'
 archived: false
 current_release:
   tag: openfeature/providers/kotlin-provider/v1.0.0
-  published_at: '2026-02-04'
+  published_at: '2026-02-05'
 commit_history:
   2025-03: 122
   2025-04: 114
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 156
   2025-12: 167
   2026-01: 155
-  2026-02: 20
+  2026-02: 33

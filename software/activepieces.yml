@@ -8,12 +8,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/activepieces/activepieces
-stargazers_count: 20712
-updated_at: '2026-02-04'
+stargazers_count: 20741
+updated_at: '2026-02-05'
 archived: false
 current_release:
-  tag: 0.77.6
-  published_at: '2026-01-21'
+  tag: 0.78.0
+  published_at: '2026-02-05'
 commit_history:
   2025-03: 686
   2025-04: 591
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 1478
   2025-12: 1183
   2026-01: 355
-  2026-02: 34
+  2026-02: 43

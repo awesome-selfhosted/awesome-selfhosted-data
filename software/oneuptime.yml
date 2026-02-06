@@ -1,0 +1,13 @@
+name: OneUptime
+website_url: https://oneuptime.com/
+description: Complete observability platform with uptime monitoring, status pages, incident management, on-call scheduling, logs, traces, metrics, and error tracking. Replaces Pingdom, StatusPage.io, PagerDuty, Datadog, and Sentry.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Monitoring
+  - Status / Uptime pages
+source_code_url: https://github.com/OneUptime/oneuptime
+demo_url: https://oneuptime.com/

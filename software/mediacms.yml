@@ -10,12 +10,12 @@ tags:
   - Media Streaming - Video Streaming
   - Content Management Systems (CMS)
 source_code_url: https://github.com/mediacms-io/mediacms
-stargazers_count: 4703
-updated_at: '2026-01-31'
+stargazers_count: 4709
+updated_at: '2026-02-06'
 archived: false
 current_release:
-  tag: v7.2.0
-  published_at: '2025-11-11'
+  tag: v7.5.0
+  published_at: '2026-02-06'
 commit_history:
   2025-03: 7
   2025-04: 3
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 11
   2025-12: 9
   2026-01: 2
-  2026-02: 0
+  2026-02: 8

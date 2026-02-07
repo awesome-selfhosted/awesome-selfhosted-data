@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/asciinema/asciinema-server
 demo_url: https://asciinema.org/explore
 stargazers_count: 2438
-updated_at: '2026-01-29'
+updated_at: '2026-01-31'
 archived: false
 current_release:
-  tag: v20260114
-  published_at: '2026-01-14'
+  tag: v20260207
+  published_at: '2026-02-07'
 commit_history:
   2025-03: 2
   2025-04: 60
@@ -27,5 +27,5 @@ commit_history:
   2025-10: 36
   2025-11: 68
   2025-12: 36
-  2026-01: 47
+  2026-01: 52
   2026-02: 0

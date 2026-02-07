@@ -10,12 +10,12 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
-stargazers_count: 22305
-updated_at: '2026-01-29'
+stargazers_count: 22309
+updated_at: '2026-02-07'
 archived: false
 current_release:
-  tag: develop-20260206.2
-  published_at: '2026-02-06'
+  tag: v6.4.17
+  published_at: '2026-02-07'
 commit_history:
   2025-03: 144
   2025-04: 132
@@ -27,5 +27,5 @@ commit_history:
   2025-10: 190
   2025-11: 164
   2025-12: 141
-  2026-01: 104
-  2026-02: 0
+  2026-01: 291
+  2026-02: 87

@@ -1,0 +1,11 @@
+name: Telegram Archive
+website_url: https://github.com/GeiserX/Telegram-Archive
+source_code_url: https://github.com/GeiserX/Telegram-Archive
+description: Automated, incremental Telegram backups with a local web viewer that looks and feels like the real app (alternative to Telegram Desktop export).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Archiving and Digital Preservation (DP)

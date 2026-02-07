@@ -1,0 +1,12 @@
+name: LynxPrompt
+website_url: https://lynxprompt.com
+source_code_url: https://github.com/GeiserX/LynxPrompt
+description: Universal AI IDE configuration hub with a wizard, blueprint marketplace, and CLI for generating and sharing AI coding assistant rules across 30+ platforms.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+demo_url: https://lynxprompt.com

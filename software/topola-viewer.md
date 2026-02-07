@@ -1,0 +1,12 @@
+name: "Topola Genealogy Viewer"
+website_url: "https://pewu.github.io/topola-viewer/"
+source_code_url: "https://github.com/PeWu/topola-viewer"
+description: "Web-based genealogy visualization tool. Loads GEDCOM files to create interactive family trees with hourglass and all-relatives charts. Integrates with Gramps, Webtrees, WikiTree."
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Genealogy
+depends_3rdparty: false
+demo_url: "https://pewu.github.io/topola-viewer/#/view?indi=Sk%C5%82odowska-2&source=wikitree"

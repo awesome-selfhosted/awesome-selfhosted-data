@@ -10,7 +10,7 @@ platforms:
 tags:
   - Communication - Email - Mail Delivery Agents
 source_code_url: https://github.com/dovecot/core
-stargazers_count: 1167
+stargazers_count: 1169
 updated_at: '2026-02-06'
 archived: false
 current_release:
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 123
   2025-12: 59
   2026-01: 69
-  2026-02: 68
+  2026-02: 70

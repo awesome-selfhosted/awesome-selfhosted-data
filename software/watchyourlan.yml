@@ -1,0 +1,12 @@
+name: "WatchYourLAN"
+website_url: "https://github.com/aceberg/WatchYourLAN"
+source_code_url: "https://github.com/aceberg/WatchYourLAN"
+description: "Lightweight network IP scanner with notifications, history, export to Grafana."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+  - deb
+tags:
+  - Network Utilities

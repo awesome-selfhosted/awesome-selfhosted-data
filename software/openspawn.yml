@@ -1,0 +1,12 @@
+name: OpenSpawn
+website_url: https://openspawn.github.io/openspawn/
+source_code_url: https://github.com/openspawn/openspawn
+demo_url: https://openspawn.github.io/openspawn/demo/
+description: Self-hosted platform for managing AI agent operations with budgets, trust scoring, and task workflows. Monitor agents, track spending, and coordinate multi-agent systems.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)

@@ -1,0 +1,12 @@
+name: "VibeNVR"
+website_url: "https://github.com/spupuz/VibeNVR"
+source_code_url: "https://github.com/spupuz/VibeNVR"
+description: "Simple, privacy-respecting local NVR — fast setup, flexible recording, no cloud required."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Video Surveillance

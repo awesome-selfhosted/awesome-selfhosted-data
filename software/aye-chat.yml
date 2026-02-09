@@ -1,0 +1,10 @@
+name: Aye Chat
+website_url: https://ayechat.ai
+description: AI-powered terminal workspace to edit files, run commands, and chat with your codebase; works with Aye Chat’s API, OpenAI-compatible endpoints, and local Ollama models.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/acrotron/aye-chat

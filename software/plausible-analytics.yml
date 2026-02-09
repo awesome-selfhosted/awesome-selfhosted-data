@@ -8,8 +8,8 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/plausible/analytics/
-stargazers_count: 24196
-updated_at: '2026-02-05'
+stargazers_count: 24201
+updated_at: '2026-02-09'
 archived: false
 current_release:
   tag: v3.2.0
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 43
   2025-12: 45
   2026-01: 35
-  2026-02: 8
+  2026-02: 9

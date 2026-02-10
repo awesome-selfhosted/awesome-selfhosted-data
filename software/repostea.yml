@@ -1,0 +1,13 @@
+name: Repostea
+website_url: https://repostea.com
+source_code_url: https://github.com/repostea/repostea-server
+description: Content aggregation platform with real-time chat, karma system, and ActivityPub federation (alternative to Reddit, Hacker News).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+demo_url: https://app.renegados.es

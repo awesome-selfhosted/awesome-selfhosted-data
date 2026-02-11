@@ -1,0 +1,12 @@
+name: OneUptime
+website_url: https://oneuptime.com/
+source_code_url: https://github.com/OneUptime/oneuptime
+description: Complete observability platform with uptime monitoring, status pages, incident management, on-call scheduling, logs, traces, and error tracking.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Status / Uptime pages
+demo_url: https://oneuptime.com/

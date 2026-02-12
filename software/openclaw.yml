@@ -1,0 +1,12 @@
+name: OpenClaw
+website_url: https://openclawhardware.dev
+source_code_url: https://github.com/openclaw/openclaw
+description: AI assistant platform that runs on dedicated hardware (NVIDIA Jetson). Supports Telegram, WhatsApp, Discord, browser automation, cron jobs, and multi-agent workflows. Privacy-first with all data staying local.
+licenses:
+  - MIT
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+platforms:
+  - Nodejs
+demo_url: https://openclawhardware.dev

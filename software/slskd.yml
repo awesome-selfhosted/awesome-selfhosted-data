@@ -10,8 +10,8 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 depends_3rdparty: true
-stargazers_count: 2738
-updated_at: '2026-02-06'
+stargazers_count: 2748
+updated_at: '2026-02-12'
 archived: false
 current_release:
   tag: 0.24.3
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 80
   2025-12: 122
   2026-01: 111
-  2026-02: 2
+  2026-02: 4

@@ -8,12 +8,12 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/opensourcepos/opensourcepos
-stargazers_count: 4030
+stargazers_count: 4031
 updated_at: '2026-02-07'
 archived: false
 current_release:
-  tag: 3.4.1
-  published_at: '2025-06-05'
+  tag: unstable
+  published_at: '2026-02-12'
 commit_history:
   2025-03: 24
   2025-04: 87

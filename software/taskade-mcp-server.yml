@@ -1,0 +1,10 @@
+name: Taskade MCP Server
+website_url: https://github.com/taskade/mcp
+description: MCP server providing 62+ tools for AI-powered project management, tasks, notes, mind maps, and AI agents via the Model Context Protocol.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/taskade/mcp

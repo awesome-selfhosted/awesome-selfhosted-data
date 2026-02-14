@@ -1,0 +1,38 @@
+# software name
+name: "RackPeek"
+
+# URL of the software project's homepage
+website_url: "https://github.com/Timmoth/RackPeek"
+
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/Timmoth/RackPeek"
+
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Lightweight CLI and web UI for documenting and managing home labs and small-scale IT infrastructure as code using YAML, without enterprise bloat or proprietary lock-in."
+
+# list of license identifiers
+licenses:
+  - AGPL-3.0 license
+
+# list of languages/platforms
+platforms:
+  - C#
+  - Docker
+  - Linux
+
+# list of tags (categories)
+tags:
+  - IT Asset Management
+  - Inventory Management
+  - Documentation
+  - DevOps
+  - Infrastructure Automation
+
+# (optional) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+
+# (optional) link to an interactive demo of the software
+demo_url: "https://timmoth.github.io/RackPeek/"
+
+# (optional) link to a list of clients/addons/plugins/apps/bots...
+related_software_url: ""

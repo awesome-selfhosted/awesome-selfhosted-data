@@ -8,14 +8,13 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/wekan/wekan
-stargazers_count: 20802
-updated_at: '2026-01-22'
+stargazers_count: 20837
+updated_at: '2026-02-13'
 archived: false
 current_release:
-  tag: v8.23
-  published_at: '2026-01-21'
+  tag: v8.32
+  published_at: '2026-02-13'
 commit_history:
-  2025-02: 18
   2025-03: 42
   2025-04: 42
   2025-05: 43
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 361
   2025-11: 68
   2025-12: 97
-  2026-01: 153
+  2026-01: 245
+  2026-02: 63

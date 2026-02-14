@@ -8,13 +8,14 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-stargazers_count: 898
-updated_at: '2026-01-22'
+stargazers_count: 906
+updated_at: '2026-02-13'
 archived: false
 current_release:
-  tag: v1.4.1-free
-  published_at: '2025-11-20'
+  tag: v1.5.0-free
+  published_at: '2026-01-26'
 commit_history:
   2025-11: 95
   2025-12: 28
-  2026-01: 52
+  2026-01: 70
+  2026-02: 8

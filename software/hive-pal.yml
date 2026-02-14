@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/martinhrvn/hive-pal
 demo_url: https://hivepal.app
 stargazers_count: 15
-updated_at: '2026-01-22'
+updated_at: '2026-02-12'
 archived: false
 current_release:
-  tag: v0.14.1
-  published_at: '2026-01-06'
+  tag: v0.14.2
+  published_at: '2026-01-26'
 commit_history:
-  2025-02: 33
   2025-03: 306
   2025-04: 18
   2025-05: 2
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 3
   2025-11: 15
   2025-12: 38
-  2026-01: 5
+  2026-01: 8
+  2026-02: 2

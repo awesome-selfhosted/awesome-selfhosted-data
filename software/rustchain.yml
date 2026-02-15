@@ -1,0 +1,11 @@
+name: "RustChain"
+website_url: "https://rustchain.org"
+source_code_url: "https://github.com/Scottcjn/Rustchain"
+description: "Proof-of-Antiquity blockchain node with hardware fingerprint attestation, where vintage hardware earns higher mining rewards."
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Money, Budgeting & Management
+demo_url: "https://rustchain.org"

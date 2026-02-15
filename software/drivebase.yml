@@ -1,0 +1,13 @@
+# Drivebase - Cloud-agnostic file management application
+name: "Drivebase"
+website_url: "https://drivebase.one"
+source_code_url: "https://github.com/drivebase/drivebase"
+description: "Cloud-agnostic file management application that empowers users to organize, upload, and access files across multiple cloud providers under one unified folder structure."
+licenses:
+  - MIT
+platforms:
+  - Bun
+  - Docker
+tags:
+  - File Transfer & Synchronization
+depends_3rdparty: false

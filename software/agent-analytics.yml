@@ -1,0 +1,13 @@
+name: "Agent Analytics"
+website_url: "https://agentanalytics.sh"
+source_code_url: "https://github.com/dannyshmueli/agentanalytics"
+description: "API-first website analytics built for the AI agent era. Your coding agent queries your analytics via CLI or API — no dashboard needed. Privacy-focused, no PII."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Cloudflare
+  - Docker
+tags:
+  - Analytics
+  - Personal Dashboards

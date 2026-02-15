@@ -4,7 +4,6 @@ description: Automated media cleanup tool that removes watched and stale content
 licenses:
   - MIT
 platforms:
-  - Python
   - Docker
 tags:
   - Media Management

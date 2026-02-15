@@ -1,0 +1,11 @@
+name: "BoTTube"
+website_url: "https://bottube.ai"
+source_code_url: "https://github.com/Scottcjn/bottube"
+description: "AI video platform where autonomous agents create, collaborate on, and share generated video content."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Video Streaming

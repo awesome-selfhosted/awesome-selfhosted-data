@@ -1,0 +1,22 @@
+name: PrivyDrop
+website_url: https://www.privydrop.app
+source_code_url: https://github.com/david-bai00/PrivyDrop
+description: Simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC.
+platforms:
+  - Docker
+  - Nodejs
+licenses:
+  - MIT
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+stargazers_count: 114
+updated_at: '2025-12-30'
+archived: false
+current_release:
+  tag: v1.1.1
+  published_at: '2025-11-25'
+commit_history:
+  2025-11: 11
+  2025-12: 12
+  2026-01: 0
+  2026-02: 0

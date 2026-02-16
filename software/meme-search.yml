@@ -1,0 +1,20 @@
+name: Meme Search
+website_url: https://github.com/neonwatty/meme-search
+description: AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Search Engines
+source_code_url: https://github.com/neonwatty/meme-search
+stargazers_count: 635
+updated_at: '2026-01-09'
+archived: false
+current_release:
+  tag: v2.0.2
+  published_at: '2026-01-09'
+commit_history:
+  2025-12: 2
+  2026-01: 2
+  2026-02: 0

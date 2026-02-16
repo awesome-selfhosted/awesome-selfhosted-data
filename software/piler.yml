@@ -6,16 +6,17 @@ licenses:
   - GPL-3.0
 platforms:
   - C
+  - Docker
+  - deb
 tags:
-  - Communication - Email - Mail Delivery Agents
-stargazers_count: 227
-updated_at: '2026-01-02'
+  - Archiving and Digital Preservation (DP)
+stargazers_count: 252
+updated_at: '2026-02-14'
 archived: false
 current_release:
   tag: piler-1.4.8
   published_at: '2025-09-24'
 commit_history:
-  2025-02: 3
   2025-03: 3
   2025-04: 1
   2025-05: 1
@@ -26,4 +27,5 @@ commit_history:
   2025-10: 1
   2025-11: 4
   2025-12: 13
-  2026-01: 5
+  2026-01: 23
+  2026-02: 8

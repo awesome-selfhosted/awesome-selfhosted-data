@@ -1,0 +1,21 @@
+name: eigenfocus
+website_url: https://eigenfocus.com/
+source_code_url: https://github.com/Eigenfocus/eigenfocus
+description: Project Management, Planning and Time Tracking app. From solo projects to multi-member teams, Eigenfocus adapts to your workflow.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Software Development - Project Management
+stargazers_count: 907
+updated_at: '2026-02-14'
+archived: false
+current_release:
+  tag: v1.5.0-free
+  published_at: '2026-01-26'
+commit_history:
+  2025-11: 95
+  2025-12: 28
+  2026-01: 70
+  2026-02: 12

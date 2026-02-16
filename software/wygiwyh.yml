@@ -10,14 +10,13 @@ platforms:
   - Django
 tags:
   - Money, Budgeting & Management
-stargazers_count: 766
-updated_at: '2025-12-31'
+stargazers_count: 805
+updated_at: '2026-02-15'
 archived: false
 current_release:
-  tag: 0.18.3
-  published_at: '2025-12-21'
+  tag: 0.19.1
+  published_at: '2026-01-25'
 commit_history:
-  2025-02: 169
   2025-03: 80
   2025-04: 94
   2025-05: 13
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 41
   2025-11: 55
   2025-12: 116
-  2026-01: 0
+  2026-01: 61
+  2026-02: 19

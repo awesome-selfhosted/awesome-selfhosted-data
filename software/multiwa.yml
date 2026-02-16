@@ -1,11 +1,11 @@
 name: MultiWA
 website_url: https://github.com/ribato22/MultiWA
-source_code_url: https://github.com/ribato22/MultiWA
-description: Multi-engine WhatsApp Business API Gateway with admin dashboard, automation builder, and AI knowledge base.
+description: Multi-engine WhatsApp Business API Gateway with admin dashboard, visual automation builder, and AI knowledge base.
 licenses:
   - MIT
 platforms:
   - Nodejs
   - Docker
 tags:
-  - Communication - Social Networks and Messengers
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/ribato22/MultiWA

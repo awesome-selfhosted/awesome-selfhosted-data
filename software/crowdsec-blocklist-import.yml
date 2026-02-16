@@ -1,0 +1,11 @@
+name: CrowdSec Blocklist Import
+website_url: https://github.com/wolffcatskyy/crowdsec-blocklist-import
+description: Import 120k+ IPs from 36 free threat intelligence feeds into CrowdSec for enhanced network protection.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Network Utilities
+source_code_url: https://github.com/wolffcatskyy/crowdsec-blocklist-import

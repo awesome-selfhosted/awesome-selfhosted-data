@@ -1,0 +1,14 @@
+name: Gulama
+website_url: https://github.com/san-techie21/gulama-bot
+description: Security-first open-source personal AI agent with 15+ security mechanisms (AES-256-GCM encryption, bubblewrap sandbox, Ed25519-signed skills), 100+ LLM providers, 19 built-in skills, and 10 communication channels.
+licenses:
+  - MIT
+platforms:
+  - Linux
+  - Windows
+  - macOS
+  - Docker
+tags:
+  - Automation
+  - Personal Assistants
+source_code_url: https://github.com/san-techie21/gulama-bot

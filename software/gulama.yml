@@ -4,11 +4,9 @@ description: Security-first open-source personal AI agent with 15+ security mech
 licenses:
   - MIT
 platforms:
-  - Linux
-  - Windows
-  - macOS
+  - Python
   - Docker
 tags:
   - Automation
-  - Personal Assistants
+  - Generative Artificial Intelligence (GenAI)
 source_code_url: https://github.com/san-techie21/gulama-bot

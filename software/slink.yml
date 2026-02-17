@@ -9,11 +9,11 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 stargazers_count: 1379
-updated_at: '2026-02-13'
+updated_at: '2026-02-15'
 archived: false
 current_release:
-  tag: v1.9.5
-  published_at: '2026-02-13'
+  tag: v1.9.6
+  published_at: '2026-02-15'
 commit_history:
   2025-03: 3
   2025-04: 8
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 19
   2025-12: 68
   2026-01: 67
-  2026-02: 103
+  2026-02: 118

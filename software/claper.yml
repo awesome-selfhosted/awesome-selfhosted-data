@@ -9,15 +9,13 @@ platforms:
 tags:
   - Polls and Events
 source_code_url: https://github.com/ClaperCo/Claper
-stargazers_count: 680
-updated_at: '2025-12-28'
+stargazers_count: 700
+updated_at: '2026-02-10'
 archived: false
 current_release:
   tag: v2.4.0
   published_at: '2025-12-26'
 commit_history:
-  2025-01: 5
-  2025-02: 0
   2025-03: 9
   2025-04: 0
   2025-05: 1
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 2
   2025-10: 2
   2025-11: 4
-  2025-12: 6
+  2025-12: 7
+  2026-01: 3
+  2026-02: 3

@@ -9,15 +9,13 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/0xERR0R/blocky
-stargazers_count: 5842
-updated_at: '2025-12-15'
+stargazers_count: 6109
+updated_at: '2026-02-10'
 archived: false
 current_release:
   tag: v0.28.2
   published_at: '2025-11-18'
 commit_history:
-  2025-01: 16
-  2025-02: 8
   2025-03: 23
   2025-04: 0
   2025-05: 19
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 44
   2025-11: 31
   2025-12: 10
+  2026-01: 15
+  2026-02: 3

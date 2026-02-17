@@ -10,15 +10,13 @@ platforms:
 tags:
   - E-commerce
 depends_3rdparty: true
-stargazers_count: 335
-updated_at: '2025-11-21'
+stargazers_count: 342
+updated_at: '2026-01-27'
 archived: false
 current_release:
-  tag: v0.1.13
-  published_at: '2025-06-24'
+  tag: v0.2.6
+  published_at: '2026-01-27'
 commit_history:
-  2025-01: 9
-  2025-02: 10
   2025-03: 8
   2025-04: 14
   2025-05: 2
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 2
   2025-10: 3
   2025-11: 2
-  2025-12: 0
+  2025-12: 12
+  2026-01: 24
+  2026-02: 0

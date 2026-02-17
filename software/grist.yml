@@ -11,15 +11,13 @@ tags:
   - Office Suites
 source_code_url: https://github.com/gristlabs/grist-core
 demo_url: https://docs.getgrist.com
-stargazers_count: 10312
-updated_at: '2025-12-28'
+stargazers_count: 10648
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v1.7.8
-  published_at: '2025-11-26'
+  tag: v1.7.10
+  published_at: '2026-01-12'
 commit_history:
-  2025-01: 81
-  2025-02: 116
   2025-03: 84
   2025-04: 95
   2025-05: 104
@@ -29,4 +27,6 @@ commit_history:
   2025-09: 90
   2025-10: 89
   2025-11: 113
-  2025-12: 156
+  2025-12: 162
+  2026-01: 92
+  2026-02: 31

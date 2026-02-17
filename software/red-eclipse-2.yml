@@ -12,15 +12,13 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/redeclipse/base
-stargazers_count: 488
+stargazers_count: 499
 updated_at: '2025-12-23'
 archived: false
 current_release:
   tag: v2.0.0
   published_at: '2019-12-19'
 commit_history:
-  2025-01: 11
-  2025-02: 35
   2025-03: 20
   2025-04: 27
   2025-05: 43
@@ -31,3 +29,5 @@ commit_history:
   2025-10: 6
   2025-11: 0
   2025-12: 1
+  2026-01: 0
+  2026-02: 0

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/nskondratev/socks5-proxy-server
-stargazers_count: 133
+stargazers_count: 136
 updated_at: '2025-11-29'
 archived: false
 current_release:
   tag: v1.20.0
   published_at: '2025-11-29'
 commit_history:
-  2025-01: 0
-  2025-02: 0
   2025-03: 0
   2025-04: 1
   2025-05: 0
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 1
   2025-12: 0
+  2026-01: 0
+  2026-02: 0

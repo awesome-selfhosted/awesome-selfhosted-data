@@ -9,15 +9,13 @@ tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/Project-OSRM/osrm-backend
 demo_url: https://map.project-osrm.org/
-stargazers_count: 7364
-updated_at: '2025-10-21'
+stargazers_count: 7483
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v6.0.0
   published_at: '2025-04-21'
 commit_history:
-  2025-01: 2
-  2025-02: 18
   2025-03: 9
   2025-04: 5
   2025-05: 2
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 3
   2025-11: 0
   2025-12: 0
+  2026-01: 36
+  2026-02: 11

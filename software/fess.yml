@@ -10,15 +10,13 @@ tags:
   - Search Engines
 source_code_url: https://github.com/codelibs/fess
 demo_url: https://search.n2sm.co.jp/
-stargazers_count: 1070
-updated_at: '2025-12-25'
+stargazers_count: 1088
+updated_at: '2026-02-14'
 archived: false
 current_release:
-  tag: fess-15.4.0
-  published_at: '2025-12-25'
+  tag: fess-15.5.0
+  published_at: '2026-02-14'
 commit_history:
-  2025-01: 7
-  2025-02: 2
   2025-03: 6
   2025-04: 3
   2025-05: 13
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 5
   2025-10: 9
   2025-11: 46
-  2025-12: 16
+  2025-12: 17
+  2026-01: 38
+  2026-02: 10

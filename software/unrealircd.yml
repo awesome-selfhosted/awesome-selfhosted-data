@@ -8,12 +8,10 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/unrealircd/unrealircd
-stargazers_count: 483
-updated_at: '2025-12-26'
+stargazers_count: 499
+updated_at: '2026-01-31'
 archived: false
 commit_history:
-  2025-01: 9
-  2025-02: 13
   2025-03: 22
   2025-04: 6
   2025-05: 1
@@ -24,3 +22,5 @@ commit_history:
   2025-10: 64
   2025-11: 20
   2025-12: 12
+  2026-01: 41
+  2026-02: 0

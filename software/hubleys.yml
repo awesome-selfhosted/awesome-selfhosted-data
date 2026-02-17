@@ -8,15 +8,13 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/knrdl/hubleys-dashboard
-stargazers_count: 105
-updated_at: '2025-12-21'
+stargazers_count: 107
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v0.5.0
   published_at: '2025-10-26'
 commit_history:
-  2025-01: 38
-  2025-02: 14
   2025-03: 23
   2025-04: 22
   2025-05: 32
@@ -26,4 +24,6 @@ commit_history:
   2025-09: 16
   2025-10: 31
   2025-11: 24
-  2025-12: 10
+  2025-12: 14
+  2026-01: 16
+  2026-02: 6

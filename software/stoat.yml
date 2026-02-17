@@ -1,0 +1,25 @@
+name: Stoat
+website_url: https://stoat.chat/
+description: Stoat is a user-first chat platform built with modern web technologies.
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/stoatchat/self-hosted
+stargazers_count: 2000
+updated_at: '2025-11-14'
+archived: false
+commit_history:
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+current_release:
+  tag: v1.1.4
+  published_at: '2025-11-24'

@@ -9,15 +9,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/depayfi/widgets
 demo_url: https://depay.com/products/payments
-stargazers_count: 121
-updated_at: '2025-11-19'
+stargazers_count: 123
+updated_at: '2026-02-13'
 archived: false
 current_release:
-  tag: v13.0.39
-  published_at: '2025-11-19'
+  tag: v13.0.42
+  published_at: '2026-02-13'
 commit_history:
-  2025-01: 1
-  2025-02: 3
   2025-03: 1
   2025-04: 10
   2025-05: 31
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 4
   2025-10: 2
   2025-11: 2
-  2025-12: 0
+  2025-12: 11
+  2026-01: 2
+  2026-02: 1

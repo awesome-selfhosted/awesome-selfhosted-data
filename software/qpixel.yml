@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/codidact/qpixel
-stargazers_count: 435
-updated_at: '2025-12-14'
+stargazers_count: 437
+updated_at: '2026-01-29'
 archived: false
 current_release:
   tag: v0.12.3
   published_at: '2025-09-22'
 commit_history:
-  2025-01: 142
-  2025-02: 44
   2025-03: 99
   2025-04: 149
   2025-05: 106
@@ -26,4 +24,6 @@ commit_history:
   2025-09: 271
   2025-10: 184
   2025-11: 51
-  2025-12: 10
+  2025-12: 60
+  2026-01: 162
+  2026-02: 0

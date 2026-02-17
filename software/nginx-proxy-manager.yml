@@ -8,15 +8,13 @@ platforms:
 tags:
   - Web Servers
 source_code_url: https://github.com/NginxProxyManager/nginx-proxy-manager
-stargazers_count: 30690
-updated_at: '2025-12-01'
+stargazers_count: 31682
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v2.13.5
-  published_at: '2025-11-18'
+  tag: v2.13.7
+  published_at: '2026-02-05'
 commit_history:
-  2025-01: 12
-  2025-02: 36
   2025-03: 4
   2025-04: 2
   2025-05: 17
@@ -25,5 +23,7 @@ commit_history:
   2025-08: 9
   2025-09: 2
   2025-10: 65
-  2025-11: 225
-  2025-12: 1
+  2025-11: 236
+  2025-12: 17
+  2026-01: 128
+  2026-02: 62

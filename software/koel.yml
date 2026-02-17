@@ -9,15 +9,13 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/koel/koel
 demo_url: https://demo.koel.dev/
-stargazers_count: 16912
-updated_at: '2025-12-22'
+stargazers_count: 17043
+updated_at: '2026-01-28'
 archived: false
 current_release:
-  tag: v8.2.0
-  published_at: '2025-12-22'
+  tag: v8.3.0
+  published_at: '2026-01-08'
 commit_history:
-  2025-01: 0
-  2025-02: 2
   2025-03: 13
   2025-04: 4
   2025-05: 43
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 50
   2025-11: 1
   2025-12: 4
+  2026-01: 8
+  2026-02: 0

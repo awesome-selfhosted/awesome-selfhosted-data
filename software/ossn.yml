@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/opensource-socialnetwork/opensource-socialnetwork
-stargazers_count: 1177
-updated_at: '2025-12-27'
+stargazers_count: 1190
+updated_at: '2026-02-12'
 archived: false
 current_release:
   tag: '8.9'
   published_at: '2025-10-10'
 commit_history:
-  2025-01: 48
-  2025-02: 0
   2025-03: 0
   2025-04: 1
   2025-05: 4
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 63
   2025-11: 5
   2025-12: 23
+  2026-01: 3
+  2026-02: 6

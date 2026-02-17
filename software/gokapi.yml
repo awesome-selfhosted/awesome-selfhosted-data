@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/Forceu/gokapi
-stargazers_count: 2473
-updated_at: '2025-12-20'
+stargazers_count: 2598
+updated_at: '2026-02-15'
 archived: false
 current_release:
-  tag: v2.1.0
-  published_at: '2025-08-29'
+  tag: v2.2.2
+  published_at: '2026-01-31'
 commit_history:
-  2025-01: 3
-  2025-02: 5
   2025-03: 6
   2025-04: 5
   2025-05: 18
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 0
   2025-10: 8
   2025-11: 1
-  2025-12: 6
+  2025-12: 8
+  2026-01: 42
+  2026-02: 11

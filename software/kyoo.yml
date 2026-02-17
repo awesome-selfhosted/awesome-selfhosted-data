@@ -9,15 +9,13 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 demo_url: https://kyoo.zoriya.dev
-stargazers_count: 2263
-updated_at: '2025-12-27'
+stargazers_count: 2306
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v4.7.1
   published_at: '2025-01-05'
 commit_history:
-  2025-01: 259
-  2025-02: 19
   2025-03: 198
   2025-04: 163
   2025-05: 64
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 25
   2025-10: 72
   2025-11: 194
-  2025-12: 98
+  2025-12: 108
+  2026-01: 83
+  2026-02: 64

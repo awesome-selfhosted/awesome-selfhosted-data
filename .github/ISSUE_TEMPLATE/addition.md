@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- DO NOT DELETE THE TEXT BELOW . Please make sure relevant boxes are checked [x] -->
+
 Thanks for taking the time to suggest an addition to awesome-selfhosted! 
 
 Please fill out information below (all fields are mandatory unless noted otherwise):

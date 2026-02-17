@@ -8,15 +8,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/nymanjens/facto
-stargazers_count: 318
-updated_at: '2025-12-10'
+stargazers_count: 331
+updated_at: '2026-02-08'
 archived: false
 current_release:
-  tag: v4.13
-  published_at: '2025-12-10'
+  tag: v4.15
+  published_at: '2026-02-08'
 commit_history:
-  2025-01: 33
-  2025-02: 3
   2025-03: 8
   2025-04: 0
   2025-05: 2
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 2
+  2026-01: 0
+  2026-02: 4

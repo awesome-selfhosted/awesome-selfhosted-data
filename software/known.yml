@@ -8,15 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/idno/known
-stargazers_count: 1100
-updated_at: '2025-06-12'
+stargazers_count: 1106
+updated_at: '2026-02-14'
 archived: false
 current_release:
-  tag: 1.6.2
-  published_at: '2024-01-03'
+  tag: 1.6.3
+  published_at: '2026-02-13'
 commit_history:
-  2025-01: 2
-  2025-02: 3
   2025-03: 3
   2025-04: 0
   2025-05: 0
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
+  2026-01: 0
+  2026-02: 8

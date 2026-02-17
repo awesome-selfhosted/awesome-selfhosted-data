@@ -9,15 +9,13 @@ platforms:
 tags:
   - Time Tracking
 source_code_url: https://github.com/traggo/server
-stargazers_count: 1495
-updated_at: '2025-12-26'
+stargazers_count: 1527
+updated_at: '2026-02-02'
 archived: false
 current_release:
-  tag: v0.7.1
-  published_at: '2025-04-28'
+  tag: v0.8.2
+  published_at: '2026-01-08'
 commit_history:
-  2025-01: 4
-  2025-02: 1
   2025-03: 0
   2025-04: 7
   2025-05: 0
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 16
+  2026-01: 10
+  2026-02: 6

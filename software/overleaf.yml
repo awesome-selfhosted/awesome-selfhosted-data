@@ -8,15 +8,13 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/overleaf/overleaf
-stargazers_count: 17062
-updated_at: '2025-12-18'
+stargazers_count: 17328
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v0.1.3
   published_at: '2015-02-26'
 commit_history:
-  2025-01: 232
-  2025-02: 297
   2025-03: 245
   2025-04: 194
   2025-05: 277
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 219
   2025-11: 188
   2025-12: 128
+  2026-01: 212
+  2026-02: 112

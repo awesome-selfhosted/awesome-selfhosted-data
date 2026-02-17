@@ -9,15 +9,13 @@ platforms:
   - Crystal
 tags:
   - URL Shorteners
-stargazers_count: 68
-updated_at: '2025-12-23'
+stargazers_count: 74
+updated_at: '2026-02-06'
 archived: false
 current_release:
   tag: 1.6.1
   published_at: '2025-12-23'
 commit_history:
-  2025-01: 0
-  2025-02: 12
   2025-03: 47
   2025-04: 2
   2025-05: 0
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 17
   2025-12: 4
+  2026-01: 2
+  2026-02: 2

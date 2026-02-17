@@ -10,15 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/asciinema/asciinema-server
 demo_url: https://asciinema.org/explore
-stargazers_count: 2427
-updated_at: '2025-12-15'
+stargazers_count: 2440
+updated_at: '2026-02-10'
 archived: false
 current_release:
-  tag: v20251114
-  published_at: '2025-11-14'
+  tag: v20260207
+  published_at: '2026-02-07'
 commit_history:
-  2025-01: 32
-  2025-02: 75
   2025-03: 2
   2025-04: 60
   2025-05: 9
@@ -29,3 +27,5 @@ commit_history:
   2025-10: 36
   2025-11: 68
   2025-12: 36
+  2026-01: 52
+  2026-02: 17

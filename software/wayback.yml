@@ -8,15 +8,13 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/wabarc/wayback
-stargazers_count: 2114
-updated_at: '2025-11-23'
+stargazers_count: 2141
+updated_at: '2026-01-10'
 archived: false
 current_release:
   tag: v0.20.1
   published_at: '2024-07-02'
 commit_history:
-  2025-01: 4
-  2025-02: 0
   2025-03: 0
   2025-04: 2
   2025-05: 1
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 2
   2025-11: 3
   2025-12: 0
+  2026-01: 1
+  2026-02: 0

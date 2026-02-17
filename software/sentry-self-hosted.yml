@@ -9,15 +9,13 @@ platforms:
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/getsentry/sentry
-stargazers_count: 42779
-updated_at: '2025-12-26'
+stargazers_count: 43155
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: 25.12.1
-  published_at: '2025-12-23'
+  tag: 26.1.0
+  published_at: '2026-01-15'
 commit_history:
-  2025-01: 1407
-  2025-02: 1399
   2025-03: 1782
   2025-04: 1979
   2025-05: 1595
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 1765
   2025-10: 1557
   2025-11: 1282
-  2025-12: 1073
+  2025-12: 1152
+  2026-01: 1460
+  2026-02: 675

@@ -9,12 +9,10 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/znc/znc
-stargazers_count: 2086
-updated_at: '2025-12-12'
+stargazers_count: 2084
+updated_at: '2026-01-26'
 archived: false
 commit_history:
-  2025-01: 0
-  2025-02: 19
   2025-03: 25
   2025-04: 36
   2025-05: 38
@@ -25,3 +23,5 @@ commit_history:
   2025-10: 12
   2025-11: 17
   2025-12: 7
+  2026-01: 5
+  2026-02: 0

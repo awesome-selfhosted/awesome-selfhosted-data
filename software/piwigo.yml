@@ -8,15 +8,13 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/Piwigo/Piwigo
-stargazers_count: 3677
-updated_at: '2025-12-22'
+stargazers_count: 3713
+updated_at: '2026-02-12'
 archived: false
 current_release:
-  tag: 16.1.0
-  published_at: '2025-12-02'
+  tag: 16.2.0
+  published_at: '2025-12-30'
 commit_history:
-  2025-01: 12
-  2025-02: 10
   2025-03: 21
   2025-04: 5
   2025-05: 6
@@ -26,4 +24,6 @@ commit_history:
   2025-09: 21
   2025-10: 17
   2025-11: 50
-  2025-12: 12
+  2025-12: 15
+  2026-01: 12
+  2026-02: 2

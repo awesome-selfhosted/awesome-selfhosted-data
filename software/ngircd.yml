@@ -9,15 +9,13 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/ngircd/ngircd
-stargazers_count: 523
+stargazers_count: 538
 updated_at: '2025-12-19'
 archived: false
 current_release:
   tag: rel-27
   published_at: '2024-04-26'
 commit_history:
-  2025-01: 0
-  2025-02: 0
   2025-03: 0
   2025-04: 0
   2025-05: 0
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 2
+  2026-01: 0
+  2026-02: 0

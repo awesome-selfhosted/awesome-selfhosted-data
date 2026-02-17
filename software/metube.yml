@@ -10,15 +10,13 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/alexta69/metube
-stargazers_count: 11266
-updated_at: '2025-12-27'
+stargazers_count: 12599
+updated_at: '2026-02-14'
 archived: false
 current_release:
-  tag: 2025.12.27
-  published_at: '2025-12-27'
+  tag: 2026.02.14
+  published_at: '2026-02-14'
 commit_history:
-  2025-01: 12
-  2025-02: 4
   2025-03: 21
   2025-04: 5
   2025-05: 10
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 15
   2025-10: 6
   2025-11: 6
-  2025-12: 12
+  2025-12: 23
+  2026-01: 20
+  2026-02: 15

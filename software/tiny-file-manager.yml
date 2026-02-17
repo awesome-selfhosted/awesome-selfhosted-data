@@ -10,15 +10,13 @@ platforms:
 tags:
   - File Transfer - Web-based File Managers
 demo_url: https://tinyfilemanager.github.io/demo/
-stargazers_count: 5714
-updated_at: '2025-11-13'
+stargazers_count: 5777
+updated_at: '2026-02-03'
 archived: false
 current_release:
   tag: '2.6'
   published_at: '2024-11-05'
 commit_history:
-  2025-01: 3
-  2025-02: 3
   2025-03: 1
   2025-04: 0
   2025-05: 0
@@ -29,3 +27,5 @@ commit_history:
   2025-10: 1
   2025-11: 1
   2025-12: 0
+  2026-01: 1
+  2026-02: 1

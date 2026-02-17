@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/ihexxa/quickshare
-stargazers_count: 599
-updated_at: '2025-10-12'
+stargazers_count: 624
+updated_at: '2026-02-15'
 archived: false
 current_release:
-  tag: v0.10.7
-  published_at: '2025-05-02'
+  tag: v0.11.4
+  published_at: '2026-01-30'
 commit_history:
-  2025-01: 3
-  2025-02: 0
   2025-03: 0
   2025-04: 6
   2025-05: 5
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 1
   2025-11: 0
   2025-12: 0
+  2026-01: 12
+  2026-02: 3

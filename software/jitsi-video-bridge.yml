@@ -9,15 +9,13 @@ platforms:
 tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/jitsi/jitsi-videobridge
-stargazers_count: 3040
-updated_at: '2025-12-15'
+stargazers_count: 3053
+updated_at: '2026-02-10'
 archived: false
 current_release:
-  tag: stable/jitsi-meet_10655
-  published_at: '2025-11-24'
+  tag: stable/jitsi-meet_10741
+  published_at: '2026-02-02'
 commit_history:
-  2025-01: 14
-  2025-02: 5
   2025-03: 7
   2025-04: 10
   2025-05: 9
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 6
   2025-10: 1
   2025-11: 2
-  2025-12: 6
+  2025-12: 7
+  2026-01: 3
+  2026-02: 3

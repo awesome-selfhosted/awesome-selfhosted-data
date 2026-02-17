@@ -9,15 +9,13 @@ platforms:
 tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/foodcoopshop/foodcoopshop
-stargazers_count: 113
-updated_at: '2025-12-18'
+stargazers_count: 114
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v4.1.1
   published_at: '2025-05-18'
 commit_history:
-  2025-01: 18
-  2025-02: 50
   2025-03: 86
   2025-04: 37
   2025-05: 41
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 18
   2025-11: 18
   2025-12: 20
+  2026-01: 13
+  2026-02: 9

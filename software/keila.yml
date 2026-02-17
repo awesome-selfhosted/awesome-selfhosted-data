@@ -9,15 +9,13 @@ tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
-stargazers_count: 1917
-updated_at: '2025-12-20'
+stargazers_count: 1987
+updated_at: '2026-02-11'
 archived: false
 current_release:
-  tag: 0.17.1
-  published_at: '2025-03-14'
+  tag: 0.18.0
+  published_at: '2026-01-04'
 commit_history:
-  2025-01: 15
-  2025-02: 27
   2025-03: 42
   2025-04: 7
   2025-05: 1
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 1
   2025-10: 3
   2025-11: 57
-  2025-12: 12
+  2025-12: 20
+  2026-01: 67
+  2026-02: 3

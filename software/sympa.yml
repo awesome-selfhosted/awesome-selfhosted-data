@@ -8,15 +8,13 @@ platforms:
   - Perl
 tags:
   - Communication - Email - Mailing Lists and Newsletters
-stargazers_count: 280
+stargazers_count: 284
 updated_at: '2025-12-18'
 archived: false
 current_release:
   tag: 6.2.76
   published_at: '2025-02-04'
 commit_history:
-  2025-01: 12
-  2025-02: 3
   2025-03: 0
   2025-04: 4
   2025-05: 9
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 1
+  2026-01: 0
+  2026-02: 0

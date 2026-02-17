@@ -9,15 +9,13 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/fluidd-core/fluidd
-stargazers_count: 1671
-updated_at: '2025-12-25'
+stargazers_count: 1706
+updated_at: '2026-02-13'
 archived: false
 current_release:
-  tag: v1.36.1
-  published_at: '2025-12-23'
+  tag: v1.36.2
+  published_at: '2026-01-02'
 commit_history:
-  2025-01: 19
-  2025-02: 79
   2025-03: 75
   2025-04: 25
   2025-05: 15
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 19
   2025-10: 10
   2025-11: 50
-  2025-12: 46
+  2025-12: 50
+  2026-01: 5
+  2026-02: 5

@@ -10,15 +10,13 @@ tags:
   - Remote Access
 source_code_url: https://github.com/nirui/sshwifty
 demo_url: https://sshwifty-demo.nirui.org
-stargazers_count: 2957
-updated_at: '2025-12-03'
+stargazers_count: 3025
+updated_at: '2026-01-16'
 archived: false
 current_release:
-  tag: 0.4.2-beta-release-prebuild
-  published_at: '2025-12-03'
+  tag: 0.4.3-beta-release-prebuild
+  published_at: '2026-01-16'
 commit_history:
-  2025-01: 2
-  2025-02: 5
   2025-03: 6
   2025-04: 7
   2025-05: 11
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 0
   2025-10: 4
   2025-11: 8
-  2025-12: 4
+  2025-12: 6
+  2026-01: 2
+  2026-02: 0

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/element-hq/element-web
-stargazers_count: 12396
-updated_at: '2025-12-24'
+stargazers_count: 12649
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v1.12.7
-  published_at: '2025-12-16'
+  tag: v1.12.11-rc.0
+  published_at: '2026-02-11'
 commit_history:
-  2025-01: 162
-  2025-02: 142
   2025-03: 163
   2025-04: 133
   2025-05: 102
@@ -26,4 +24,6 @@ commit_history:
   2025-09: 157
   2025-10: 148
   2025-11: 140
-  2025-12: 149
+  2025-12: 151
+  2026-01: 193
+  2026-02: 101

@@ -1,0 +1,22 @@
+name: LLM Harbor
+website_url: https://github.com/av/harbor
+source_code_url: https://github.com/av/harbor
+description: Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Shell
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 2431
+updated_at: '2026-02-15'
+archived: false
+current_release:
+  tag: v0.4.1
+  published_at: '2026-02-09'
+commit_history:
+  2025-11: 12
+  2025-12: 27
+  2026-01: 54
+  2026-02: 34

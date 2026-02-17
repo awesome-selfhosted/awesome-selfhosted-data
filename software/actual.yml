@@ -9,15 +9,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/actualbudget/actual
-stargazers_count: 23877
-updated_at: '2025-12-27'
+stargazers_count: 25011
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v25.12.0
-  published_at: '2025-12-03'
+  tag: v26.2.0
+  published_at: '2026-02-02'
 commit_history:
-  2025-01: 148
-  2025-02: 130
   2025-03: 138
   2025-04: 83
   2025-05: 105
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 83
   2025-10: 106
   2025-11: 123
-  2025-12: 104
+  2025-12: 110
+  2026-01: 136
+  2026-02: 76

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/nymanjens/piga
-stargazers_count: 90
-updated_at: '2025-12-10'
+stargazers_count: 92
+updated_at: '2026-01-02'
 archived: false
 current_release:
-  tag: v3.88
-  published_at: '2025-12-10'
+  tag: v3.91
+  published_at: '2026-01-02'
 commit_history:
-  2025-01: 6
-  2025-02: 1
   2025-03: 19
   2025-04: 2
   2025-05: 0
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 2
   2025-11: 0
   2025-12: 4
+  2026-01: 7
+  2026-02: 0

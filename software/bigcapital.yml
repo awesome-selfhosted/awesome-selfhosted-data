@@ -9,15 +9,13 @@ tags:
   - Money, Budgeting & Management
   - Inventory Management
 source_code_url: https://github.com/bigcapitalhq/bigcapital
-stargazers_count: 3445
-updated_at: '2025-12-23'
+stargazers_count: 3517
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v0.23.0-rc.1
-  published_at: '2025-12-03'
+  tag: v0.24.9
+  published_at: '2026-02-16'
 commit_history:
-  2025-01: 36
-  2025-02: 7
   2025-03: 21
   2025-04: 24
   2025-05: 24
@@ -27,4 +25,6 @@ commit_history:
   2025-09: 2
   2025-10: 39
   2025-11: 44
-  2025-12: 36
+  2025-12: 43
+  2026-01: 67
+  2026-02: 56

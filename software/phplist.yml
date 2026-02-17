@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/phpList/phplist3
-stargazers_count: 826
+stargazers_count: 833
 updated_at: '2025-05-27'
 archived: false
 current_release:
   tag: v3.7.0-RC2
   published_at: '2025-06-21'
 commit_history:
-  2025-01: 2
-  2025-02: 0
   2025-03: 0
   2025-04: 0
   2025-05: 42
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
+  2026-01: 0
+  2026-02: 0

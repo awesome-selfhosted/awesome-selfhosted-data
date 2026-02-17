@@ -1,0 +1,21 @@
+name: ShipShipShip
+website_url: https://shipshipship.io
+source_code_url: https://github.com/GauthierNelkinsky/ShipShipShip
+description: Changelog and roadmap platform that bridges project management and customer communication.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Project Management
+demo_url: https://demo.shipshipship.io/admin
+stargazers_count: 255
+updated_at: '2026-01-05'
+archived: false
+current_release:
+  tag: v1.3.4
+  published_at: '2025-12-17'
+commit_history:
+  2025-12: 25
+  2026-01: 1
+  2026-02: 0

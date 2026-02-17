@@ -8,15 +8,13 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/judge0/judge0
-stargazers_count: 3739
-updated_at: '2025-12-26'
+stargazers_count: 3965
+updated_at: '2026-02-13'
 archived: false
 current_release:
   tag: v1.13.1-extra
   published_at: '2024-04-18'
 commit_history:
-  2025-01: 7
-  2025-02: 1
   2025-03: 1
   2025-04: 0
   2025-05: 2
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 3
   2025-11: 2
   2025-12: 17
+  2026-01: 12
+  2026-02: 7

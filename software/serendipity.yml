@@ -8,15 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/s9y/serendipity
-stargazers_count: 220
+stargazers_count: 218
 updated_at: '2025-11-11'
 archived: false
 current_release:
   tag: 2.6-beta1
   published_at: '2025-07-31'
 commit_history:
-  2025-01: 3
-  2025-02: 11
   2025-03: 10
   2025-04: 4
   2025-05: 4
@@ -27,3 +25,5 @@ commit_history:
   2025-10: 11
   2025-11: 5
   2025-12: 0
+  2026-01: 0
+  2026-02: 0

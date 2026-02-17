@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/fusionpbx/fusionpbx
-stargazers_count: 954
-updated_at: '2025-12-27'
+stargazers_count: 972
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: 5.4.4
-  published_at: '2025-07-15'
+  tag: 5.5.7
+  published_at: '2026-01-29'
 commit_history:
-  2025-01: 72
-  2025-02: 79
   2025-03: 135
   2025-04: 51
   2025-05: 45
@@ -26,4 +24,6 @@ commit_history:
   2025-09: 110
   2025-10: 138
   2025-11: 125
-  2025-12: 20
+  2025-12: 30
+  2026-01: 144
+  2026-02: 29

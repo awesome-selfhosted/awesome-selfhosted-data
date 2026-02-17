@@ -10,15 +10,13 @@ platforms:
 tags:
   - Database Management
 demo_url: https://demo.kottster.app/
-stargazers_count: 1077
-updated_at: '2025-12-05'
+stargazers_count: 1131
+updated_at: '2026-01-16'
 archived: false
 current_release:
-  tag: v3.4.7
-  published_at: '2025-12-05'
+  tag: v3.5.1
+  published_at: '2026-01-12'
 commit_history:
-  2025-01: 10
-  2025-02: 9
   2025-03: 10
   2025-04: 17
   2025-05: 29
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 12
   2025-10: 26
   2025-11: 12
-  2025-12: 1
+  2025-12: 3
+  2026-01: 5
+  2026-02: 0

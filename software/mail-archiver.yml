@@ -1,0 +1,20 @@
+name: mail-archiver
+website_url: https://github.com/s1t5/mail-archiver
+source_code_url: https://github.com/s1t5/mail-archiver
+description: Web application for archiving, searching, and exporting emails from multiple accounts (IMAP, M365 or Import). Featuring folder sync, attachment support, mailbox migration and a dashboard.
+platforms:
+  - Docker
+licenses:
+  - GPL-3.0
+tags:
+  - Archiving and Digital Preservation (DP)
+stargazers_count: 1609
+updated_at: '2026-02-15'
+archived: false
+current_release:
+  tag: '2602.1'
+  published_at: '2026-02-11'
+commit_history:
+  2025-12: 12
+  2026-01: 22
+  2026-02: 13

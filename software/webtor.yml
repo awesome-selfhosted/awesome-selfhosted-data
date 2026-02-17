@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 demo_url: https://webtor.io
-stargazers_count: 513
+stargazers_count: 534
 updated_at: '2025-11-30'
 archived: false
 current_release:
   tag: v1.1.4
   published_at: '2025-11-24'
 commit_history:
-  2025-01: 13
-  2025-02: 1
   2025-03: 1
   2025-04: 0
   2025-05: 0
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 7
   2025-12: 0
+  2026-01: 0
+  2026-02: 0

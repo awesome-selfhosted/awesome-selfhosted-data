@@ -8,12 +8,10 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/openhab/openhab-core
-stargazers_count: 1083
-updated_at: '2025-12-27'
+stargazers_count: 1094
+updated_at: '2026-02-16'
 archived: false
 commit_history:
-  2025-01: 25
-  2025-02: 31
   2025-03: 24
   2025-04: 64
   2025-05: 39
@@ -23,4 +21,6 @@ commit_history:
   2025-09: 35
   2025-10: 35
   2025-11: 36
-  2025-12: 51
+  2025-12: 54
+  2026-01: 48
+  2026-02: 27

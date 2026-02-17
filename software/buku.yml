@@ -9,15 +9,13 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/jarun/Buku
-stargazers_count: 6945
-updated_at: '2025-12-13'
+stargazers_count: 7069
+updated_at: '2026-02-15'
 archived: false
 current_release:
   tag: v5.1
   published_at: '2025-12-07'
 commit_history:
-  2025-01: 10
-  2025-02: 11
   2025-03: 3
   2025-04: 23
   2025-05: 16
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 5
   2025-11: 20
   2025-12: 6
+  2026-01: 1
+  2026-02: 2

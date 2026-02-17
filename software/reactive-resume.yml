@@ -10,15 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/AmruthPillai/Reactive-Resume
 demo_url: https://rxresu.me/app/dashboard/
-stargazers_count: 34240
-updated_at: '2025-12-23'
+stargazers_count: 35234
+updated_at: '2026-02-10'
 archived: false
 current_release:
-  tag: v4.5.4
-  published_at: '2025-11-04'
+  tag: v5.0.9
+  published_at: '2026-02-09'
 commit_history:
-  2025-01: 106
-  2025-02: 12
   2025-03: 5
   2025-04: 1
   2025-05: 3
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 4
   2025-10: 51
   2025-11: 25
-  2025-12: 9
+  2025-12: 10
+  2026-01: 240
+  2026-02: 40

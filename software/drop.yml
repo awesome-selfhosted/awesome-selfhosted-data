@@ -9,15 +9,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 related_software_url: https://github.com/Drop-OSS/drop-app
-stargazers_count: 562
-updated_at: '2025-11-30'
+stargazers_count: 592
+updated_at: '2026-02-13'
 archived: false
 current_release:
   tag: v0.3.5
   published_at: '2025-12-04'
 commit_history:
-  2025-01: 35
-  2025-02: 23
   2025-03: 79
   2025-04: 96
   2025-05: 113
@@ -28,3 +26,5 @@ commit_history:
   2025-10: 7
   2025-11: 14
   2025-12: 0
+  2026-01: 20
+  2026-02: 16

@@ -1,0 +1,22 @@
+name: motionEye
+website_url: https://github.com/motioneye-project/motioneye
+source_code_url: https://github.com/motioneye-project/motioneye
+description: Online interface for the software Motion, a video surveillance program with motion detection.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Video Surveillance
+stargazers_count: 4511
+updated_at: '2025-12-11'
+archived: false
+current_release:
+  tag: 0.43.1
+  published_at: '2025-12-11'
+commit_history:
+  2025-11: 34
+  2025-12: 247
+  2026-01: 0
+  2026-02: 0

@@ -12,15 +12,13 @@ tags:
   - Task Management & To-do Lists
   - Software Development - Project Management
 demo_url: https://demo.4gaboards.com
-stargazers_count: 425
-updated_at: '2025-12-23'
+stargazers_count: 458
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v3.2.16
-  published_at: '2025-12-02'
+  tag: v3.3.2
+  published_at: '2026-02-04'
 commit_history:
-  2025-01: 35
-  2025-02: 96
   2025-03: 42
   2025-04: 148
   2025-05: 68
@@ -31,3 +29,5 @@ commit_history:
   2025-10: 69
   2025-11: 57
   2025-12: 57
+  2026-01: 85
+  2026-02: 33

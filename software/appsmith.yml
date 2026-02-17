@@ -10,15 +10,13 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/appsmithorg/appsmith
-stargazers_count: 38760
-updated_at: '2025-12-26'
+stargazers_count: 39097
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v1.94
-  published_at: '2025-12-18'
+  tag: v1.95
+  published_at: '2026-01-22'
 commit_history:
-  2025-01: 165
-  2025-02: 186
   2025-03: 216
   2025-04: 188
   2025-05: 80
@@ -28,4 +26,6 @@ commit_history:
   2025-09: 19
   2025-10: 20
   2025-11: 23
-  2025-12: 16
+  2025-12: 18
+  2026-01: 11
+  2026-02: 11

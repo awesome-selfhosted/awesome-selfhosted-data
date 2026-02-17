@@ -11,15 +11,13 @@ tags:
   - Wikis
 source_code_url: https://github.com/xwiki/xwiki-platform
 demo_url: https://www.xwikiplayground.org/xwiki/bin/view/Main/
-stargazers_count: 1176
-updated_at: '2025-12-24'
+stargazers_count: 1200
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: xwiki-platform-17.10.1
-  published_at: '2025-12-18'
+  tag: xwiki-platform-17.4.9
+  published_at: '2026-02-05'
 commit_history:
-  2025-01: 116
-  2025-02: 126
   2025-03: 100
   2025-04: 218
   2025-05: 165
@@ -29,4 +27,6 @@ commit_history:
   2025-09: 166
   2025-10: 263
   2025-11: 224
-  2025-12: 134
+  2025-12: 180
+  2026-01: 408
+  2026-02: 71

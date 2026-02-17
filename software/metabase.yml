@@ -9,8 +9,8 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/metabase/metabase
-stargazers_count: 45963
-updated_at: '2026-02-16'
+stargazers_count: 45976
+updated_at: '2026-02-17'
 archived: false
 current_release:
   tag: v0.59.0-beta
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 386
   2025-12: 453
   2026-01: 482
-  2026-02: 320
+  2026-02: 355

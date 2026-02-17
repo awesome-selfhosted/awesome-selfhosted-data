@@ -8,8 +8,8 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/owncast/owncast
-stargazers_count: 10936
-updated_at: '2026-02-16'
+stargazers_count: 10942
+updated_at: '2026-02-17'
 archived: false
 current_release:
   tag: v0.2.4
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 110
   2025-12: 105
   2026-01: 113
-  2026-02: 71
+  2026-02: 73

@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/juspay/hyperswitch
 depends_3rdparty: true
 stargazers_count: 40137
-updated_at: '2026-02-16'
+updated_at: '2026-02-17'
 archived: false
 current_release:
   tag: v1.120.0
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 220
   2025-12: 187
   2026-01: 184
-  2026-02: 104
+  2026-02: 111

@@ -9,8 +9,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/n8n-io/n8n
-stargazers_count: 174808
-updated_at: '2026-02-16'
+stargazers_count: 174958
+updated_at: '2026-02-17'
 archived: false
 current_release:
   tag: n8n@2.9.0
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 385
   2025-12: 497
   2026-01: 531
-  2026-02: 293
+  2026-02: 322

@@ -1,0 +1,16 @@
+name: Webhook Debugger
+website_url: https://github.com/brancogao/webhook-debugger
+description: Self-hosted webhook inspector with signature verification, 90-day history, full-text search, and one-click replay for debugging Stripe, GitHub, Shopify, Slack webhooks.
+licenses:
+  - MIT
+platforms:
+  - Cloudflare
+  - Nodejs
+tags:
+  - Software Development - API Management
+  - Software Development - Testing
+source_code_url: https://github.com/brancogao/webhook-debugger
+demo_url: https://webhook-debugger.autocompany.workers.dev
+stargazers_count: 0
+updated_at: '2026-02-18'
+archived: false

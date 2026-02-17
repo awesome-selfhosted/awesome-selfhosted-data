@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming
-stargazers_count: 1061
-updated_at: '2026-02-11'
+stargazers_count: 1065
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v3.9.0
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 38
   2025-12: 72
   2026-01: 93
-  2026-02: 16
+  2026-02: 25

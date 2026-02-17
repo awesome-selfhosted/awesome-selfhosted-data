@@ -9,12 +9,12 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/9001/copyparty
 demo_url: https://a.ocv.me/pub/demo/
-stargazers_count: 42341
-updated_at: '2026-02-12'
+stargazers_count: 42428
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v1.20.6
-  published_at: '2026-01-31'
+  tag: v1.20.7
+  published_at: '2026-02-14'
 commit_history:
   2025-03: 34
   2025-04: 47
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 33
   2025-12: 82
   2026-01: 117
-  2026-02: 32
+  2026-02: 50

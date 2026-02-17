@@ -10,8 +10,8 @@ tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/jupyterlab/jupyterlab/
 demo_url: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
-stargazers_count: 15012
-updated_at: '2026-02-12'
+stargazers_count: 15013
+updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v4.5.4
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 25
   2025-12: 40
   2026-01: 43
-  2026-02: 39
+  2026-02: 46

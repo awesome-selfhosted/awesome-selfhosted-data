@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/Luzifer/ots
-stargazers_count: 728
-updated_at: '2026-02-12'
+stargazers_count: 731
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v1.21.0
-  published_at: '2026-01-19'
+  tag: v1.21.1
+  published_at: '2026-02-16'
 commit_history:
   2025-03: 0
   2025-04: 4
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 48
   2025-12: 37
   2026-01: 41
-  2026-02: 18
+  2026-02: 30

@@ -11,8 +11,8 @@ tags:
   - Miscellaneous
 depends_3rdparty: true
 demo_url: https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo
-stargazers_count: 2053
-updated_at: '2026-02-09'
+stargazers_count: 2085
+updated_at: '2026-02-15'
 archived: false
 current_release:
   tag: v0.25.0
@@ -29,4 +29,4 @@ commit_history:
   2025-11: 71
   2025-12: 62
   2026-01: 57
-  2026-02: 69
+  2026-02: 75

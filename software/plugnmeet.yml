@@ -10,12 +10,12 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/mynaparrot/plugNmeet-server
 demo_url: https://demo.plugnmeet.com/login.html
-stargazers_count: 426
-updated_at: '2026-02-11'
+stargazers_count: 428
+updated_at: '2026-02-16'
 archived: false
 current_release:
-  tag: v2.1.2
-  published_at: '2026-01-31'
+  tag: v2.1.3
+  published_at: '2026-02-13'
 commit_history:
   2025-03: 8
   2025-04: 21
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 55
   2025-12: 67
   2026-01: 113
-  2026-02: 8
+  2026-02: 20

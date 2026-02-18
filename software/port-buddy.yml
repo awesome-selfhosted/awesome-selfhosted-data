@@ -1,7 +1,7 @@
 name: "Port Buddy"
 website_url: "https://portbuddy.dev"
 source_code_url: "https://github.com/amak-tech/port-buddy"
-description: "Expose your local server to the internet. Public reverse proxy. Alternative to Ngrok, Tailscale and Cloudflare Tunnels"
+description: "Expose your local server to the internet. Public reverse proxy. Alternative to Ngrok, Tailscale and Cloudflare Tunnels."
 licenses:
   - Apache-2.0
 platforms:

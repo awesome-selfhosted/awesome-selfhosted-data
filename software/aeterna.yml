@@ -1,0 +1,11 @@
+name: Aeterna
+description: Dead man's switch with email delivery and webhook integrations.
+website_url: https://github.com/alpyxn/aeterna
+source_code_url: https://github.com/alpyxn/aeterna
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

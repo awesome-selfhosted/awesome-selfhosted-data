@@ -9,12 +9,12 @@ platforms:
 tags:
   - Video Surveillance
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
-stargazers_count: 5762
-updated_at: '2026-02-18'
+stargazers_count: 5764
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: 1.38.1
-  published_at: '2026-02-17'
+  tag: 1.36.38
+  published_at: '2026-02-19'
 commit_history:
   2025-03: 138
   2025-04: 147
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 77
   2025-12: 155
   2026-01: 483
-  2026-02: 291
+  2026-02: 305

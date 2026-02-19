@@ -1,0 +1,11 @@
+name: Screenpipe
+website_url: https://screenpi.pe/
+source_code_url: https://github.com/screenpipe/screenpipe
+description: 24/7 local screen and audio recording with AI-powered search. Find anything you've seen, said, or heard using natural language queries. All data stays on your machine.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Knowledge Management Tools

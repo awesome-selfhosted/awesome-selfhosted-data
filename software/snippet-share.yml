@@ -1,0 +1,12 @@
+name: Snippet Share
+website_url: https://snippet-share.com
+description: Zero-knowledge code snippet sharing with client-side AES-256-GCM encryption, password protection, and burn-after-reading (alternative to Pastebin, PrivateBin).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Cloudflare
+tags:
+  - Pastebins
+source_code_url: https://github.com/abdihashii/code-snippet-tool
+demo_url: https://snippet-share.com

@@ -1,0 +1,12 @@
+name: Cordum
+website_url: https://github.com/cordum-io/cordum
+source_code_url: https://github.com/cordum-io/cordum
+description: Safety-first agent orchestration platform with policy evaluation before dispatch, output scanning, job scheduling, workflow engine, and native MCP server.
+licenses:
+  - BUSL-1.1
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

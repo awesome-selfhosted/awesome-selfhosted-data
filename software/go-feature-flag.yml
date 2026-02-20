@@ -8,8 +8,8 @@ platforms:
 tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
-stargazers_count: 1939
-updated_at: '2026-02-17'
+stargazers_count: 1941
+updated_at: '2026-02-20'
 archived: false
 current_release:
   tag: cmd/wasm/v0.2.0
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 156
   2025-12: 167
   2026-01: 155
-  2026-02: 94
+  2026-02: 97

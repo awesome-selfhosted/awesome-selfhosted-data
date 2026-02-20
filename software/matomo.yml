@@ -8,8 +8,8 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/matomo-org/matomo
-stargazers_count: 21287
-updated_at: '2026-02-19'
+stargazers_count: 21286
+updated_at: '2026-02-20'
 archived: false
 current_release:
   tag: 5.8.0-b1
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 80
   2025-12: 49
   2026-01: 58
-  2026-02: 45
+  2026-02: 46

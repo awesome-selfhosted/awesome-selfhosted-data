@@ -1,0 +1,12 @@
+name: "DOCSight"
+website_url: "https://github.com/itsDNNS/docsight"
+source_code_url: "https://github.com/itsDNNS/docsight"
+description: "DOCSIS cable modem signal monitor with dashboard, trend analysis, event detection, Home Assistant integration via MQTT, and ISP complaint report generation."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Network Utilities
+demo_url: "https://github.com/itsDNNS/docsight/wiki/Features-Demo-Mode"

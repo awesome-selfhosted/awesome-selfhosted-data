@@ -1,0 +1,14 @@
+name: GrantFlow
+website_url: https://grantflow-zeta.vercel.app
+description: Grant lifecycle manager for small nonprofits. Track applications through a Kanban pipeline, manage deadlines, search 146K+ funding opportunities (Grants.gov + ProPublica), track budgets, manage documents, and run funder CRM. Includes CSV import/export and GrantHub migration support.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Resource Planning
+  - Customer Relationship Management (CRM)
+  - Money, Budgeting & Management
+source_code_url: https://github.com/WabiSabikk/grantflow
+demo_url: https://grantflow-zeta.vercel.app

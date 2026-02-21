@@ -10,8 +10,8 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/TykTechnologies/tyk
-stargazers_count: 10634
-updated_at: '2026-02-16'
+stargazers_count: 10636
+updated_at: '2026-02-20'
 archived: false
 current_release:
   tag: v5.12.0-alphafips5
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 38
   2025-12: 13
   2026-01: 26
-  2026-02: 29
+  2026-02: 34

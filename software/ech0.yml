@@ -11,12 +11,12 @@ tags:
   - Blogging Platforms
   - Content Management Systems (CMS)
 demo_url: https://memo.vaaat.com/
-stargazers_count: 1835
-updated_at: '2026-01-14'
+stargazers_count: 1842
+updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-01-14'
+  tag: v3.1.1
+  published_at: '2026-02-20'
 commit_history:
   2025-03: 56
   2025-04: 22
@@ -29,4 +29,4 @@ commit_history:
   2025-11: 122
   2025-12: 121
   2026-01: 30
-  2026-02: 0
+  2026-02: 15

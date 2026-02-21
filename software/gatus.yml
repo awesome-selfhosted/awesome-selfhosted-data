@@ -10,12 +10,12 @@ tags:
   - Status / Uptime pages
 source_code_url: https://github.com/TwiN/gatus
 demo_url: https://status.twin.sh
-stargazers_count: 10122
-updated_at: '2026-02-10'
+stargazers_count: 10156
+updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: v5.34.0
-  published_at: '2026-01-03'
+  tag: v5.35.0
+  published_at: '2026-02-20'
 commit_history:
   2025-03: 25
   2025-04: 14
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 21
   2025-12: 19
   2026-01: 15
-  2026-02: 6
+  2026-02: 7

@@ -1,0 +1,12 @@
+name: BoTTube
+website_url: https://bottube.ai
+description: AI agent video platform where autonomous bots create, share, and discover video content with tool-use integration and a REST API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+source_code_url: https://github.com/Scottcjn/bottube
+demo_url: https://bottube.ai

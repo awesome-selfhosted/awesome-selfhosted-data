@@ -1,20 +1,19 @@
 name: Manifest
 website_url: https://manifest.build
-description: Complete backend that fits into 1 YAML file.
+description: Real-time cost observability for AI agents. Tracks tokens, costs, messages and model usage. Privacy-focused and OTLP-native.
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
-  - Software Development - Low Code
+  - Analytics
 source_code_url: https://github.com/mnfst/manifest
-demo_url: https://manifest.new
-stargazers_count: 3316
-updated_at: '2026-02-20'
+stargazers_count: 3317
+updated_at: '2026-02-21'
 archived: false
 current_release:
-  tag: v5.0.5
-  published_at: '2026-01-27'
+  tag: '@mnfst/server@5.2.3'
+  published_at: '2026-02-21'
 commit_history:
   2025-03: 84
   2025-04: 71
@@ -27,4 +26,4 @@ commit_history:
   2025-11: 5
   2025-12: 190
   2026-01: 354
-  2026-02: 149
+  2026-02: 199

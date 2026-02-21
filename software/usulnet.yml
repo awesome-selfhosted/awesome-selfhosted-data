@@ -1,0 +1,11 @@
+name: "usulnet"
+website_url: "https://usulnet.com"
+source_code_url: "https://github.com/fr4nsys/usulnet"
+description: "Docker management platform with multi-node orchestration, Trivy security scanning, in-browser terminal and code editor, automated backups, TOTP, RDP on browser, stacks managment and much more. (alternative to Portainer)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Self-hosting Solutions

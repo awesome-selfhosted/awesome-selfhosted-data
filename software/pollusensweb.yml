@@ -1,0 +1,13 @@
+name: polluSensWeb
+website_url: https://wespeakenglish.github.io/polluSensWeb/
+source_code_url: https://github.com/WeSpeakEnglish/polluSensWeb
+description: Web-based serial interface and charting tool for visualizing and logging data from UART pollution sensors (PM2.5, VOC, etc). Features live data acquisition, dynamic charts, CSV export, and webhook integration.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Internet of Things (IoT)
+depends_3rdparty: false
+demo_url: https://wespeakenglish.github.io/polluSensWeb/
+related_software_url: https://github.com/WeSpeakEnglish/polluSensWeb/releases

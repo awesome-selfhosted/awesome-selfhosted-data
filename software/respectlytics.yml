@@ -1,0 +1,12 @@
+name: Respectlytics
+website_url: https://respectlytics.com
+description: Privacy-focused session-based analytics for mobile apps with strict 5-field storage, RAM-only identifiers, and data minimization by design.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/respectlytics/respectlytics
+depends_3rdparty: false

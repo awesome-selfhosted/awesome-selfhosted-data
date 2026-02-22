@@ -1,0 +1,10 @@
+name: Deleterr
+website_url: https://github.com/rfsbraz/deleterr
+description: Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Media Management
+source_code_url: https://github.com/rfsbraz/deleterr

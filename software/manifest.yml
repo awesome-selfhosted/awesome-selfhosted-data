@@ -1,10 +1,12 @@
 name: Manifest
 website_url: https://manifest.build
-source_code_url: https://github.com/mnfst/manifest
-description: Lightweight BaaS (Backend As A Service) requiring minimal coding, with database, admin panel, API, and Javascript SDK.
+description: Real-time cost observability for AI agents — track tokens, costs, messages, and model usage with a local-first dashboard supporting 28+ LLM models.
 licenses:
   - MIT
 platforms:
   - Nodejs
+  - Docker
 tags:
-  - Software Development - FaaS & Serverless
+  - Monitoring
+source_code_url: https://github.com/mnfst/manifest
+depends_3rdparty: false

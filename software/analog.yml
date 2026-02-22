@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Analytics
-stargazers_count: 35
-updated_at: '2026-02-11'
+stargazers_count: 36
+updated_at: '2026-02-21'
 archived: false
 current_release:
   tag: v0.1.4
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 5
   2025-12: 5
   2026-01: 9
-  2026-02: 3
+  2026-02: 7

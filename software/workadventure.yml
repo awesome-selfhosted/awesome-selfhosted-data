@@ -10,12 +10,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/workadventure/workadventure
 demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
-stargazers_count: 5244
-updated_at: '2026-02-16'
+stargazers_count: 5253
+updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: v1.28.5
-  published_at: '2026-02-13'
+  tag: v1.28.8
+  published_at: '2026-02-20'
 commit_history:
   2025-03: 212
   2025-04: 262
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 65
   2025-12: 118
   2026-01: 122
-  2026-02: 61
+  2026-02: 74

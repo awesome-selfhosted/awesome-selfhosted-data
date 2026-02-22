@@ -1,0 +1,11 @@
+name: "Pønskelisten"
+website_url: "https://github.com/aunefyren/poenskelisten"
+source_code_url: "https://github.com/aunefyren/poenskelisten"
+description: "Sharing wishlists and collaborating on gifts and presents."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Miscellaneous

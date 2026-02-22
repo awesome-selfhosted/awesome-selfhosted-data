@@ -1,0 +1,11 @@
+name: "CheckCle"
+website_url: "https://checkcle.io"
+source_code_url: "https://github.com/operacle/checkcle"
+description: "Seamless, real-time monitoring of full-stack systems, applications, and infrastructure."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Status / Uptime pages
+demo_url: "https://github.com/operacle/checkcle?tab=readme-ov-file#-live-demo"

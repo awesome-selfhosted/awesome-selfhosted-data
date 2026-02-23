@@ -8,8 +8,8 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/bolt/core
-stargazers_count: 584
-updated_at: '2026-02-19'
+stargazers_count: 585
+updated_at: '2026-02-23'
 archived: false
 current_release:
   tag: 6.0.1
@@ -18,4 +18,4 @@ commit_history:
   2025-11: 126
   2025-12: 47
   2026-01: 12
-  2026-02: 10
+  2026-02: 11

@@ -12,11 +12,11 @@ tags:
   - Content Management Systems (CMS)
 depends_3rdparty: true
 stargazers_count: 724
-updated_at: '2026-02-20'
+updated_at: '2026-02-23'
 archived: false
 current_release:
-  tag: v3.2
-  published_at: '2026-01-27'
+  tag: v3.3
+  published_at: '2026-02-23'
 commit_history:
   2025-03: 6
   2025-04: 18
@@ -29,4 +29,4 @@ commit_history:
   2025-11: 20
   2025-12: 20
   2026-01: 32
-  2026-02: 17
+  2026-02: 19

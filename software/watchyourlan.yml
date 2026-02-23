@@ -1,0 +1,22 @@
+name: WatchYourLAN
+website_url: https://github.com/aceberg/WatchYourLAN
+source_code_url: https://github.com/aceberg/WatchYourLAN
+description: Lightweight network IP scanner with notifications, history, export to Grafana.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+  - deb
+tags:
+  - Network Utilities
+stargazers_count: 6781
+updated_at: '2025-09-10'
+archived: false
+current_release:
+  tag: 2.1.4
+  published_at: '2025-09-10'
+commit_history:
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0

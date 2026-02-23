@@ -1,0 +1,21 @@
+name: Pønskelisten
+website_url: https://github.com/aunefyren/poenskelisten
+source_code_url: https://github.com/aunefyren/poenskelisten
+description: Sharing wishlists and collaborating on gifts and presents.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Miscellaneous
+stargazers_count: 184
+updated_at: '2026-02-02'
+archived: false
+current_release:
+  tag: v2.2.1
+  published_at: '2025-11-05'
+commit_history:
+  2025-12: 0
+  2026-01: 5
+  2026-02: 4

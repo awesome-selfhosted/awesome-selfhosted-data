@@ -9,12 +9,12 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/jortilles/EDA
-stargazers_count: 178
-updated_at: '2026-02-17'
+stargazers_count: 179
+updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: EDA-3.0.0
-  published_at: '2025-12-23'
+  tag: edalitics-3.0.1
+  published_at: '2026-02-18'
 commit_history:
   2025-03: 20
   2025-04: 33
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 338
   2025-12: 166
   2026-01: 124
-  2026-02: 125
+  2026-02: 175

@@ -1,0 +1,11 @@
+name: Renovate Operator
+website_url: https://github.com/mogenius/renovate-operator
+description: "Kubernetes operator to automate Renovate dependency update jobs, with CRD-based scheduling, parallel execution, auto-discovery, a built-in UI, and Prometheus metrics."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation
+source_code_url: https://github.com/mogenius/renovate-operator

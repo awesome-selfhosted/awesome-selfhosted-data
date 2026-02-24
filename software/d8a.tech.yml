@@ -1,7 +1,7 @@
 name: "d8a.tech"
 website_url: "https://d8a.tech"
 source_code_url: "https://github.com/d8a-tech/d8a"
-description: "GA4-compatible, reporting-ready clickstream for your own data warehouse (BigQuery and Clickhouse)."
+description: "A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database."
 licenses:
   - MIT
 platforms:

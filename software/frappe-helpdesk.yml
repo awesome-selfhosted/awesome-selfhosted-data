@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Ticketing
-stargazers_count: 2978
-updated_at: '2026-02-23'
+stargazers_count: 2981
+updated_at: '2026-02-24'
 archived: false
 current_release:
   tag: v1.20.2
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 217
   2025-12: 187
   2026-01: 183
-  2026-02: 162
+  2026-02: 174

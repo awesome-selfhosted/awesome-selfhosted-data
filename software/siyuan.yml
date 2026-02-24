@@ -9,12 +9,12 @@ platforms:
   - Go
 tags:
   - Knowledge Management Tools
-stargazers_count: 41435
-updated_at: '2026-02-14'
+stargazers_count: 41475
+updated_at: '2026-02-24'
 archived: false
 current_release:
-  tag: v3.5.8-dev2
-  published_at: '2026-02-23'
+  tag: v3.5.8
+  published_at: '2026-02-24'
 commit_history:
   2025-03: 335
   2025-04: 295
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 319
   2025-12: 443
   2026-01: 390
-  2026-02: 215
+  2026-02: 319

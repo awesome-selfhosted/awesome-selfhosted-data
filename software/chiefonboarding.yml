@@ -8,12 +8,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/chiefonboarding/ChiefOnboarding
-stargazers_count: 865
-updated_at: '2026-02-20'
+stargazers_count: 867
+updated_at: '2026-02-24'
 archived: false
 current_release:
-  tag: v2.3.1
-  published_at: '2025-10-11'
+  tag: v2.4.0
+  published_at: '2026-02-24'
 commit_history:
   2025-03: 3
   2025-04: 0
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 2
   2025-12: 1
   2026-01: 2
-  2026-02: 6
+  2026-02: 9

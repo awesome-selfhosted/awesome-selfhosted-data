@@ -1,0 +1,11 @@
+name: Atlas UI 3
+website_url: https://github.com/sandialabs/atlas-ui-3
+source_code_url: https://github.com/sandialabs/atlas-ui-3
+description: Full-stack LLM chat interface with MCP tool integration, multi-provider support (OpenAI, Anthropic, Google), RAG, and agentic workflows.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

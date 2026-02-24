@@ -3,7 +3,7 @@ website_url: https://blescalesync.dev
 source_code_url: https://github.com/KristianP26/ble-scale-sync
 description: Reads body composition data from 23 BLE smart scales and exports to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, webhooks, push notifications and local files.
 licenses:
-  - GPL-3.0-only
+  - GPL-3.0
 platforms:
   - Nodejs
   - Docker

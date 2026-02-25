@@ -1,0 +1,12 @@
+name: "SOLECTRUS"
+website_url: "https://solectrus.de"
+source_code_url: "https://github.com/solectrus/solectrus"
+description: "Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Ruby
+tags:
+  - Internet of Things (IoT)
+demo_url: "https://demo.solectrus.de"

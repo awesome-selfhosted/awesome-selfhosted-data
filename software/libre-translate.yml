@@ -9,12 +9,12 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/LibreTranslate/LibreTranslate
-stargazers_count: 13812
-updated_at: '2026-02-21'
+stargazers_count: 13828
+updated_at: '2026-02-24'
 archived: false
 current_release:
-  tag: v1.9.3
-  published_at: '2026-02-21'
+  tag: v1.9.4
+  published_at: '2026-02-24'
 commit_history:
   2025-03: 21
   2025-04: 55
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 14
   2025-12: 41
   2026-01: 17
-  2026-02: 43
+  2026-02: 46

@@ -9,11 +9,11 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/Kinto/kinto
 stargazers_count: 4421
-updated_at: '2026-02-24'
+updated_at: '2026-02-26'
 archived: false
 current_release:
-  tag: 25.0.0
-  published_at: '2026-02-19'
+  tag: 25.0.2
+  published_at: '2026-02-26'
 commit_history:
   2025-03: 7
   2025-04: 20
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 10
   2025-12: 9
   2026-01: 12
-  2026-02: 16
+  2026-02: 24

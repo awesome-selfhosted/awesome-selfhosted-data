@@ -1,0 +1,11 @@
+name: LastSaaS
+website_url: "https://metavert.io/lastsaas"
+source_code_url: "https://github.com/jonradoff/lastsaas"
+description: "SaaS platform foundation with multi-tenant auth, Stripe billing, white-label branding, MCP server, and admin dashboard."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - Low Code

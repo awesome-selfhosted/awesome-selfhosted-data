@@ -1,0 +1,13 @@
+name: "Bonetflix"
+website_url: "https://bonetflix.com"
+source_code_url: https://github.com/kujaomega/Bonetflix
+description: "A browser extension to display IMDB and Filmaffinity movie ratings in Netflix."
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Python
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming

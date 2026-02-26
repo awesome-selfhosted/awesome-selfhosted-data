@@ -1,0 +1,12 @@
+# OpenCodex - native iOS AI coding assistant with self-hosted backend
+name: OpenCodex
+website_url: https://github.com/mjmkk/opencodex
+source_code_url: https://github.com/mjmkk/opencodex
+description: Native iOS client + self-hosted Node.js backend to run Claude/Codex AI from your iPhone — real-time chat, remote terminal (PTY/WebSocket), file browser, and command approval.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - IDE & Tools

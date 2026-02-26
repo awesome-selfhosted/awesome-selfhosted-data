@@ -1,0 +1,10 @@
+name: LightCMS
+website_url: https://metavert.io
+description: AI-native content management system with REST API and MCP (Model Context Protocol) integration, featuring templates, asset management, themes, collections, redirects, and content versioning.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/jonradoff/lightcms

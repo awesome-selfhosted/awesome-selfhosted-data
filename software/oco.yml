@@ -1,0 +1,13 @@
+name: "Open Computer Orchestration (OCO)"
+website_url: "https://oco.sieber.systems/"
+source_code_url: "https://github.com/schorschii/OCO-Server"
+description: "Self-hosted client/endpoint & server inventory, configuration & policy management, software deployment, mobile device management"
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - PHP
+tags:
+  - Automation
+  - Software Development - Continuous Integration & Deployment
+depends_3rdparty: false

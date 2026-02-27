@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/indico/indico
 demo_url: https://sandbox.getindico.io/
 stargazers_count: 2027
-updated_at: '2026-02-26'
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v3.3.10
-  published_at: '2026-02-17'
+  tag: v3.3.11
+  published_at: '2026-02-27'
 commit_history:
   2025-03: 60
   2025-04: 25
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 36
   2025-12: 41
   2026-01: 44
-  2026-02: 66
+  2026-02: 74

@@ -9,8 +9,8 @@ platforms:
   - Rust
 tags:
   - Media Management
-stargazers_count: 462
-updated_at: '2026-02-23'
+stargazers_count: 461
+updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v5.0.1
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 51
   2025-12: 52
   2026-01: 49
-  2026-02: 85
+  2026-02: 89

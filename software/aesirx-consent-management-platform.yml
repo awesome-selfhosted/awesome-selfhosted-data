@@ -1,0 +1,10 @@
+name: AesirX Consent Management Platform
+website_url: https://aesirx.io/solutions/consent-management-platform/freemium/wordpress
+source_code_url: https://github.com/aesirxio/wordpress-freemium-consent-plugin
+description: Consent Management plugin for WordPress enabling first-party data control, browser signal support, and privacy-by-design compliance with GDPR and ePrivacy.
+platforms:
+  - PHP
+tags:
+  - Miscellaneous
+depends_3rdparty: false
+demo_url: https://consent.freemium.aesirx.io

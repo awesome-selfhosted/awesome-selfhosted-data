@@ -8,14 +8,13 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/ioBroker/ioBroker
-stargazers_count: 1357
-updated_at: '2025-09-08'
+stargazers_count: 1360
+updated_at: '2026-02-01'
 archived: false
 current_release:
-  tag: '1012-08-09'
-  published_at: '2025-08-10'
+  tag: '2026-02-01'
+  published_at: '2026-02-01'
 commit_history:
-  2025-02: 7
   2025-03: 0
   2025-04: 0
   2025-05: 2
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
-  2026-01: 0
+  2026-01: 18
+  2026-02: 1

@@ -9,14 +9,13 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/pydio/cells
 demo_url: https://pydio.com/en/demo
-stargazers_count: 2120
-updated_at: '2026-01-16'
+stargazers_count: 2157
+updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v4.4.17
   published_at: '2026-01-08'
 commit_history:
-  2025-02: 47
   2025-03: 22
   2025-04: 50
   2025-05: 39
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 87
   2025-11: 33
   2025-12: 35
-  2026-01: 16
+  2026-01: 21
+  2026-02: 37

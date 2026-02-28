@@ -8,14 +8,13 @@ platforms:
 tags:
   - Groupware
 source_code_url: https://github.com/EGroupware/egroupware
-stargazers_count: 286
-updated_at: '2026-01-16'
+stargazers_count: 287
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: 26.0.20260113
-  published_at: '2026-01-13'
+  tag: 26.2.20260224
+  published_at: '2026-02-24'
 commit_history:
-  2025-02: 119
   2025-03: 139
   2025-04: 140
   2025-05: 91
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 219
   2025-11: 165
   2025-12: 136
-  2026-01: 112
+  2026-01: 190
+  2026-02: 135

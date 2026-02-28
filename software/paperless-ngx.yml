@@ -11,14 +11,13 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
-stargazers_count: 35659
-updated_at: '2026-01-16'
+stargazers_count: 36982
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v2.20.4
-  published_at: '2026-01-13'
+  tag: v2.20.8
+  published_at: '2026-02-22'
 commit_history:
-  2025-02: 85
   2025-03: 94
   2025-04: 86
   2025-05: 69
@@ -29,4 +28,5 @@ commit_history:
   2025-10: 96
   2025-11: 89
   2025-12: 66
-  2026-01: 56
+  2026-01: 145
+  2026-02: 130

@@ -10,14 +10,13 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://demo.portkey.page
-stargazers_count: 88
-updated_at: '2025-12-27'
+stargazers_count: 98
+updated_at: '2026-02-19'
 archived: false
 current_release:
   tag: v2.0.2
   published_at: '2025-12-27'
 commit_history:
-  2025-02: 43
   2025-03: 32
   2025-04: 23
   2025-05: 36
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 36
   2025-11: 26
   2025-12: 36
-  2026-01: 0
+  2026-01: 28
+  2026-02: 10

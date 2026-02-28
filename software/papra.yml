@@ -10,14 +10,13 @@ tags:
   - Document Management
   - Archiving and Digital Preservation (DP)
 demo_url: https://demo.papra.app/
-stargazers_count: 3348
-updated_at: '2026-01-16'
+stargazers_count: 3864
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: '@papra/webhooks@0.3.2'
-  published_at: '2025-12-21'
+  tag: '@papra/app@26.2.2'
+  published_at: '2026-02-18'
 commit_history:
-  2025-02: 19
   2025-03: 18
   2025-04: 65
   2025-05: 38
@@ -26,6 +25,7 @@ commit_history:
   2025-08: 22
   2025-09: 33
   2025-10: 72
-  2025-11: 44
-  2025-12: 38
-  2026-01: 27
+  2025-11: 45
+  2025-12: 43
+  2026-01: 114
+  2026-02: 39

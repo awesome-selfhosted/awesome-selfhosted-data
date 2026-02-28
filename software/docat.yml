@@ -9,14 +9,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/docat-org/docat
-stargazers_count: 879
-updated_at: '2025-06-24'
+stargazers_count: 886
+updated_at: '2026-02-23'
 archived: false
 current_release:
   tag: 1.5.3
   published_at: '2025-06-24'
 commit_history:
-  2025-02: 0
   2025-03: 0
   2025-04: 4
   2025-05: 0
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
-  2026-01: 0
+  2026-01: 3
+  2026-02: 11

@@ -10,14 +10,13 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/hedgedoc/hedgedoc
 demo_url: https://demo.hedgedoc.org/
-stargazers_count: 6859
-updated_at: '2026-01-15'
+stargazers_count: 6967
+updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: 1.10.5
-  published_at: '2025-12-06'
+  tag: 1.10.7
+  published_at: '2026-02-24'
 commit_history:
-  2025-02: 37
   2025-03: 10
   2025-04: 11
   2025-05: 1
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 0
   2025-11: 56
   2025-12: 135
-  2026-01: 59
+  2026-01: 75
+  2026-02: 13

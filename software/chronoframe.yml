@@ -1,0 +1,22 @@
+name: ChronoFrame
+website_url: https://chronoframe.bh8.ga/
+source_code_url: https://github.com/HoshinoSuzumi/chronoframe
+description: Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Photo Galleries
+demo_url: https://lens.bh8.ga/
+stargazers_count: 1658
+updated_at: '2026-02-02'
+archived: false
+current_release:
+  tag: v1.0.0-beta.2
+  published_at: '2025-11-19'
+commit_history:
+  2025-12: 3
+  2026-01: 0
+  2026-02: 1

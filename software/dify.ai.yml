@@ -9,14 +9,13 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-stargazers_count: 126155
-updated_at: '2026-01-16'
+stargazers_count: 130599
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: 1.11.4
-  published_at: '2026-01-15'
+  tag: 1.14.0-rc1
+  published_at: '2026-02-14'
 commit_history:
-  2025-02: 230
   2025-03: 333
   2025-04: 377
   2025-05: 258
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 306
   2025-11: 311
   2025-12: 458
-  2026-01: 187
+  2026-01: 355
+  2026-02: 263

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/redaxo/redaxo
-stargazers_count: 346
-updated_at: '2026-01-12'
+stargazers_count: 345
+updated_at: '2026-02-26'
 archived: false
 current_release:
   tag: 5.20.2
   published_at: '2026-01-05'
 commit_history:
-  2025-02: 13
   2025-03: 13
   2025-04: 0
   2025-05: 1
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 5
   2025-12: 0
-  2026-01: 23
+  2026-01: 25
+  2026-02: 7

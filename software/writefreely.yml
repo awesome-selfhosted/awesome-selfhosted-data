@@ -8,14 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/writefreely/writefreely
-stargazers_count: 5025
-updated_at: '2026-01-16'
+stargazers_count: 5080
+updated_at: '2026-02-13'
 archived: false
 current_release:
   tag: v0.16.0
   published_at: '2025-08-29'
 commit_history:
-  2025-02: 10
   2025-03: 0
   2025-04: 0
   2025-05: 5
@@ -25,5 +24,6 @@ commit_history:
   2025-09: 9
   2025-10: 8
   2025-11: 4
-  2025-12: 2
-  2026-01: 8
+  2025-12: 3
+  2026-01: 11
+  2026-02: 17

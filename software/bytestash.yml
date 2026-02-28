@@ -9,14 +9,13 @@ platforms:
 tags:
   - Pastebins
 demo_url: https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo
-stargazers_count: 2040
-updated_at: '2025-11-22'
+stargazers_count: 2122
+updated_at: '2026-02-17'
 archived: false
 current_release:
-  tag: v1.5.9
-  published_at: '2025-10-06'
+  tag: v1.5.11
+  published_at: '2026-02-03'
 commit_history:
-  2025-02: 3
   2025-03: 6
   2025-04: 0
   2025-05: 2
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 14
   2025-11: 2
   2025-12: 0
-  2026-01: 0
+  2026-01: 15
+  2026-02: 3

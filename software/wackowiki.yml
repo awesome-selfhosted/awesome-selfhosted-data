@@ -8,14 +8,13 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/WackoWiki/wackowiki
-stargazers_count: 54
-updated_at: '2026-01-11'
+stargazers_count: 55
+updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: 6.2.0
   published_at: '2025-12-13'
 commit_history:
-  2025-02: 22
   2025-03: 27
   2025-04: 3
   2025-05: 1
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 38
   2025-11: 55
   2025-12: 43
-  2026-01: 4
+  2026-01: 8
+  2026-02: 10

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Time Tracking
 demo_url: https://beaverhabits.com/demo
-stargazers_count: 1638
-updated_at: '2026-01-15'
+stargazers_count: 1686
+updated_at: '2026-02-23'
 archived: false
 current_release:
-  tag: v0.8.1
-  published_at: '2026-01-04'
+  tag: v0.9.0
+  published_at: '2026-02-20'
 commit_history:
-  2025-02: 21
   2025-03: 61
   2025-04: 69
   2025-05: 32
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 6
   2025-11: 9
   2025-12: 28
-  2026-01: 5
+  2026-01: 24
+  2026-02: 13

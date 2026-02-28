@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/leon-ai/leon
-stargazers_count: 16896
-updated_at: '2026-01-11'
+stargazers_count: 17022
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: python-bridge_v1.3.0
-  published_at: '2024-05-08'
+  tag: tcp-server_v2.0.0
+  published_at: '2026-02-19'
 commit_history:
-  2025-02: 11
   2025-03: 2
   2025-04: 11
   2025-05: 0
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 8
   2025-12: 5
-  2026-01: 13
+  2026-01: 25
+  2026-02: 102

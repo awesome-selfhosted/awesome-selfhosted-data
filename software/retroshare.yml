@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/RetroShare/RetroShare
-stargazers_count: 1906
-updated_at: '2026-01-15'
+stargazers_count: 1941
+updated_at: '2026-02-23'
 archived: false
 current_release:
   tag: v0.6.7.2
   published_at: '2023-11-30'
 commit_history:
-  2025-02: 26
   2025-03: 16
   2025-04: 23
   2025-05: 5
@@ -25,5 +24,6 @@ commit_history:
   2025-09: 19
   2025-10: 24
   2025-11: 42
-  2025-12: 72
-  2026-01: 41
+  2025-12: 73
+  2026-01: 90
+  2026-02: 86

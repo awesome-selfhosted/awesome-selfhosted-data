@@ -9,14 +9,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/omeka/Omeka
 demo_url: https://omeka.org/classic/showcase/
-stargazers_count: 523
-updated_at: '2026-01-16'
+stargazers_count: 526
+updated_at: '2026-02-06'
 archived: false
 current_release:
   tag: v3.2
   published_at: '2025-08-28'
 commit_history:
-  2025-02: 7
   2025-03: 9
   2025-04: 8
   2025-05: 16
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 1
   2025-11: 0
   2025-12: 3
-  2026-01: 3
+  2026-01: 10
+  2026-02: 1

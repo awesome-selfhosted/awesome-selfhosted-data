@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/smallwat3r/shhh
-stargazers_count: 412
-updated_at: '2025-10-27'
+stargazers_count: 416
+updated_at: '2026-01-25'
 archived: false
 current_release:
-  tag: 3.2.3
-  published_at: '2025-10-22'
+  tag: 3.2.4
+  published_at: '2026-01-22'
 commit_history:
-  2025-02: 7
   2025-03: 6
   2025-04: 9
   2025-05: 8
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 4
   2025-11: 0
   2025-12: 0
-  2026-01: 0
+  2026-01: 16
+  2026-02: 0

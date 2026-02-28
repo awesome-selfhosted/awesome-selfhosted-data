@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/TobySuch/Shifter
-stargazers_count: 41
-updated_at: '2026-01-16'
+stargazers_count: 42
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v0.5.0
-  published_at: '2026-01-03'
+  tag: v0.7.0
+  published_at: '2026-02-08'
 commit_history:
-  2025-02: 13
   2025-03: 12
   2025-04: 14
   2025-05: 20
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 18
   2025-11: 17
   2025-12: 31
-  2026-01: 22
+  2026-01: 27
+  2026-02: 21

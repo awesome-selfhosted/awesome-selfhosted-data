@@ -1,6 +1,6 @@
 name: wanderer
-website_url: https://github.com/Flomp/wanderer
-source_code_url: https://github.com/Flomp/wanderer
+website_url: https://github.com/open-wanderer/wanderer
+source_code_url: https://github.com/open-wanderer/wanderer
 description: Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue.
 licenses:
   - AGPL-3.0
@@ -11,14 +11,13 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 demo_url: https://demo.wanderer.to
-stargazers_count: 3249
-updated_at: '2025-10-05'
+stargazers_count: 3411
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v0.18.3
-  published_at: '2025-09-19'
+  tag: v0.18.5
+  published_at: '2026-02-20'
 commit_history:
-  2025-02: 106
   2025-03: 98
   2025-04: 94
   2025-05: 8
@@ -29,4 +28,5 @@ commit_history:
   2025-10: 10
   2025-11: 0
   2025-12: 0
-  2026-01: 0
+  2026-01: 23
+  2026-02: 60

@@ -1,0 +1,23 @@
+name: Fredy
+website_url: https://fredy.orange-coding.net/
+source_code_url: https://github.com/orangecoding/fredy
+description: Searches for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, and others, and instantly delivers the results to you via Slack, Telegram, and more.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+depends_3rdparty: true
+tags:
+  - Automation
+demo_url: https://fredy-demo.orange-coding.net
+stargazers_count: 523
+updated_at: '2026-02-24'
+archived: false
+current_release:
+  tag: 19.5.2
+  published_at: '2026-02-20'
+commit_history:
+  2025-12: 19
+  2026-01: 29
+  2026-02: 19

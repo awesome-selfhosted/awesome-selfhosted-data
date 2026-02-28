@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - Recipe Management
-stargazers_count: 62
-updated_at: '2026-01-08'
+stargazers_count: 64
+updated_at: '2026-02-15'
 archived: false
 current_release:
   tag: v.4.1.1-Hot-fix
   published_at: '2025-04-28'
 commit_history:
-  2025-02: 26
   2025-03: 17
   2025-04: 47
   2025-05: 1
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 3
   2025-12: 2
   2026-01: 2
+  2026-02: 2

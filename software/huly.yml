@@ -11,14 +11,13 @@ platforms:
 tags:
   - Software Development - Project Management
 demo_url: https://app.huly.io
-stargazers_count: 24174
-updated_at: '2026-01-16'
+stargazers_count: 24516
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v0.7.344
-  published_at: '2026-01-13'
+  tag: v0.7.375
+  published_at: '2026-02-23'
 commit_history:
-  2025-02: 300
   2025-03: 209
   2025-04: 214
   2025-05: 212
@@ -29,4 +28,5 @@ commit_history:
   2025-10: 434
   2025-11: 111
   2025-12: 64
-  2026-01: 66
+  2026-01: 106
+  2026-02: 76

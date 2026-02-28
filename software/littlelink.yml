@@ -9,14 +9,13 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/sethcottle/littlelink
 demo_url: https://littlelink.io/
-stargazers_count: 2783
-updated_at: '2025-07-25'
+stargazers_count: 2859
+updated_at: '2026-01-28'
 archived: false
 current_release:
-  tag: v3.7.0
-  published_at: '2025-04-18'
+  tag: v3.10.0
+  published_at: '2026-01-28'
 commit_history:
-  2025-02: 3
   2025-03: 20
   2025-04: 4
   2025-05: 2
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
-  2026-01: 0
+  2026-01: 1
+  2026-02: 0

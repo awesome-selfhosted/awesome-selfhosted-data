@@ -10,14 +10,13 @@ platforms:
 tags:
   - Polls and Events
 demo_url: https://gath.io/
-stargazers_count: 419
-updated_at: '2026-01-12'
+stargazers_count: 435
+updated_at: '2026-02-25'
 archived: false
 current_release:
-  tag: v1.6.0
-  published_at: '2025-05-28'
+  tag: v1.6.1
+  published_at: '2026-02-25'
 commit_history:
-  2025-02: 19
   2025-03: 7
   2025-04: 48
   2025-05: 39
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 4
   2025-11: 6
   2025-12: 0
-  2026-01: 2
+  2026-01: 6
+  2026-02: 25

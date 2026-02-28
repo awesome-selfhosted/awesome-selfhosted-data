@@ -9,14 +9,15 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/bhj/KaraokeEternal
-stargazers_count: 663
-updated_at: '2026-01-10'
+stargazers_count: 702
+updated_at: '2026-02-14'
 archived: false
 current_release:
-  tag: v2.0.1
-  published_at: '2026-01-10'
+  tag: v2.0.2
+  published_at: '2026-02-15'
 commit_history:
   2025-10: 4
   2025-11: 5
   2025-12: 50
-  2026-01: 8
+  2026-01: 16
+  2026-02: 13

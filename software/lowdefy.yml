@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/lowdefy/lowdefy
-stargazers_count: 2929
-updated_at: '2025-11-10'
+stargazers_count: 2949
+updated_at: '2026-02-19'
 archived: false
 current_release:
   tag: v4.5.2
   published_at: '2025-11-10'
 commit_history:
-  2025-02: 10
   2025-03: 7
   2025-04: 0
   2025-05: 0
@@ -26,5 +25,6 @@ commit_history:
   2025-09: 1
   2025-10: 22
   2025-11: 8
-  2025-12: 0
-  2026-01: 0
+  2025-12: 1
+  2026-01: 21
+  2026-02: 29

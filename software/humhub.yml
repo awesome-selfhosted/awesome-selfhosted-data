@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/humhub/humhub
-stargazers_count: 6604
-updated_at: '2025-12-11'
+stargazers_count: 6636
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v1.18.0-beta.6
-  published_at: '2026-01-08'
+  tag: v1.18.0
+  published_at: '2026-02-04'
 commit_history:
-  2025-02: 8
   2025-03: 13
   2025-04: 13
   2025-05: 6
@@ -25,5 +24,6 @@ commit_history:
   2025-09: 6
   2025-10: 2
   2025-11: 6
-  2025-12: 2
-  2026-01: 0
+  2025-12: 34
+  2026-01: 51
+  2026-02: 27

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/movim/movim
-stargazers_count: 1862
-updated_at: '2026-01-16'
+stargazers_count: 1953
+updated_at: '2026-02-25'
 archived: false
 current_release:
   tag: v0.32.1
   published_at: '2025-11-17'
 commit_history:
-  2025-02: 20
   2025-03: 66
   2025-04: 41
   2025-05: 37
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 62
   2025-11: 78
   2025-12: 39
-  2026-01: 64
+  2026-01: 93
+  2026-02: 49

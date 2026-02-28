@@ -10,14 +10,13 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/gotify/server
 related_software_url: https://github.com/gotify/android
-stargazers_count: 14490
-updated_at: '2026-01-14'
+stargazers_count: 14677
+updated_at: '2026-02-06'
 archived: false
 current_release:
-  tag: v2.8.0
-  published_at: '2026-01-02'
+  tag: v2.9.0
+  published_at: '2026-02-13'
 commit_history:
-  2025-02: 1
   2025-03: 6
   2025-04: 1
   2025-05: 3
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 6
   2025-11: 17
   2025-12: 3
-  2026-01: 4
+  2026-01: 13
+  2026-02: 3

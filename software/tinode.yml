@@ -10,14 +10,13 @@ tags:
 source_code_url: https://github.com/tinode/chat
 demo_url: https://sandbox.tinode.co/
 related_software_url: https://github.com/tinode/webapp
-stargazers_count: 13040
-updated_at: '2025-12-26'
+stargazers_count: 13107
+updated_at: '2026-01-20'
 archived: false
 current_release:
   tag: v0.25.1
   published_at: '2025-12-26'
 commit_history:
-  2025-02: 5
   2025-03: 7
   2025-04: 17
   2025-05: 6
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 31
   2025-11: 33
   2025-12: 7
-  2026-01: 0
+  2026-01: 3
+  2026-02: 0

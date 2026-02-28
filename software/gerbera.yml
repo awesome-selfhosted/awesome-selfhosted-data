@@ -10,14 +10,13 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/gerbera/gerbera
-stargazers_count: 1326
-updated_at: '2026-01-16'
+stargazers_count: 1349
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-01-16'
+  tag: v3.1.1
+  published_at: '2026-01-19'
 commit_history:
-  2025-02: 26
   2025-03: 14
   2025-04: 10
   2025-05: 11
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 32
   2025-11: 48
   2025-12: 14
-  2026-01: 17
+  2026-01: 28
+  2026-02: 17

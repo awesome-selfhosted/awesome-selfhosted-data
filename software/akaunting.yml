@@ -8,14 +8,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/akaunting/akaunting
-stargazers_count: 9514
-updated_at: '2026-01-16'
+stargazers_count: 9621
+updated_at: '2026-02-26'
 archived: false
 current_release:
   tag: 3.1.21
   published_at: '2025-12-13'
 commit_history:
-  2025-02: 29
   2025-03: 35
   2025-04: 19
   2025-05: 9
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 0
   2025-11: 17
   2025-12: 16
-  2026-01: 6
+  2026-01: 11
+  2026-02: 6

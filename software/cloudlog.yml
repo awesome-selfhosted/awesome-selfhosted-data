@@ -10,13 +10,12 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/magicbug/cloudlog
 stargazers_count: 543
-updated_at: '2026-01-14'
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: 2.8.6
-  published_at: '2026-01-14'
+  tag: 2.8.8
+  published_at: '2026-02-19'
 commit_history:
-  2025-02: 0
   2025-03: 4
   2025-04: 7
   2025-05: 17
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 84
   2025-11: 77
   2025-12: 30
-  2026-01: 42
+  2026-01: 59
+  2026-02: 29

@@ -11,14 +11,13 @@ platforms:
 tags:
   - Document Management
 demo_url: https://pdf.24eme.fr/
-stargazers_count: 721
+stargazers_count: 739
 updated_at: '2025-12-05'
 archived: false
 current_release:
   tag: v1.9.2
   published_at: '2025-12-03'
 commit_history:
-  2025-02: 2
   2025-03: 28
   2025-04: 46
   2025-05: 27
@@ -30,3 +29,4 @@ commit_history:
   2025-11: 6
   2025-12: 7
   2026-01: 0
+  2026-02: 0

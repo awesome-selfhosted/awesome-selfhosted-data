@@ -9,14 +9,13 @@ tags:
   - Time Tracking
 source_code_url: https://github.com/almarklein/timetagger
 demo_url: https://timetagger.app/app/demo
-stargazers_count: 1615
-updated_at: '2026-01-05'
+stargazers_count: 1676
+updated_at: '2026-02-02'
 archived: false
 current_release:
-  tag: v26.1.1
-  published_at: '2026-01-05'
+  tag: v26.1.3
+  published_at: '2026-02-02'
 commit_history:
-  2025-02: 7
   2025-03: 3
   2025-04: 0
   2025-05: 3
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 0
   2025-11: 11
   2025-12: 2
-  2026-01: 2
+  2026-01: 7
+  2026-02: 2

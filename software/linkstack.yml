@@ -10,14 +10,13 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/LinkStackOrg/LinkStack
 demo_url: https://linksta.cc/
-stargazers_count: 3410
-updated_at: '2025-12-16'
+stargazers_count: 3470
+updated_at: '2026-02-17'
 archived: false
 current_release:
-  tag: v4.8.4
-  published_at: '2024-12-10'
+  tag: v4.8.6
+  published_at: '2026-02-17'
 commit_history:
-  2025-02: 1
   2025-03: 0
   2025-04: 0
   2025-05: 0
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 2
-  2026-01: 0
+  2026-01: 9
+  2026-02: 6

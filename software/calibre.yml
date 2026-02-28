@@ -10,14 +10,13 @@ tags:
   - Document Management - E-books
 source_code_url: https://github.com/kovidgoyal/calibre
 demo_url: https://calibre-ebook.com/demo
-stargazers_count: 23390
-updated_at: '2026-01-16'
+stargazers_count: 24222
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v8.16.2
-  published_at: '2025-12-06'
+  tag: v9.4.0
+  published_at: '2026-02-27'
 commit_history:
-  2025-02: 235
   2025-03: 176
   2025-04: 190
   2025-05: 93
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 112
   2025-11: 117
   2025-12: 291
-  2026-01: 234
+  2026-01: 406
+  2026-02: 151

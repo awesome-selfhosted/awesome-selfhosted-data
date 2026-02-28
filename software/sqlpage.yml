@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/sqlpage/SQLPage
-stargazers_count: 2413
-updated_at: '2026-01-12'
+stargazers_count: 2464
+updated_at: '2026-02-05'
 archived: false
 current_release:
-  tag: v0.41.0
-  published_at: '2025-12-28'
+  tag: v0.42.0
+  published_at: '2026-01-17'
 commit_history:
-  2025-02: 79
   2025-03: 38
   2025-04: 35
   2025-05: 79
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 128
   2025-11: 51
   2025-12: 27
-  2026-01: 9
+  2026-01: 25
+  2026-02: 6

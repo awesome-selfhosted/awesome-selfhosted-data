@@ -9,14 +9,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://app.mybucks.online
-stargazers_count: 14
-updated_at: '2026-01-09'
+stargazers_count: 16
+updated_at: '2026-02-26'
 archived: false
 current_release:
-  tag: v1.33
-  published_at: '2026-01-09'
+  tag: v1.41
+  published_at: '2026-02-24'
 commit_history:
-  2025-02: 5
   2025-03: 11
   2025-04: 0
   2025-05: 0
@@ -28,3 +27,4 @@ commit_history:
   2025-11: 0
   2025-12: 10
   2026-01: 6
+  2026-02: 13

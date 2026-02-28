@@ -9,14 +9,13 @@ platforms:
   - Deno
 tags:
   - Self-hosting Solutions
-stargazers_count: 79
+stargazers_count: 82
 updated_at: '2025-10-31'
 archived: false
 current_release:
   tag: v0.14.4
   published_at: '2025-10-31'
 commit_history:
-  2025-02: 7
   2025-03: 4
   2025-04: 11
   2025-05: 4
@@ -28,3 +27,4 @@ commit_history:
   2025-11: 0
   2025-12: 0
   2026-01: 0
+  2026-02: 0

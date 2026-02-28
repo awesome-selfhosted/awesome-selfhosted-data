@@ -8,14 +8,13 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/blinkospace/blinko
-stargazers_count: 9177
-updated_at: '2026-01-11'
+stargazers_count: 9502
+updated_at: '2026-02-12'
 archived: false
 current_release:
-  tag: 1.8.3
-  published_at: '2026-01-11'
+  tag: 1.8.5
+  published_at: '2026-02-06'
 commit_history:
-  2025-02: 119
   2025-03: 178
   2025-04: 77
   2025-05: 71
@@ -26,4 +25,5 @@ commit_history:
   2025-10: 20
   2025-11: 13
   2025-12: 45
-  2026-01: 24
+  2026-01: 41
+  2026-02: 10

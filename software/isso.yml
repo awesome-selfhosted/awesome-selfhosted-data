@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/isso-comments/isso
-stargazers_count: 5218
-updated_at: '2025-10-30'
+stargazers_count: 5268
+updated_at: '2026-02-26'
 archived: false
 current_release:
   tag: 0.13.1.dev0
   published_at: '2023-02-05'
 commit_history:
-  2025-02: 1
   2025-03: 0
   2025-04: 4
   2025-05: 0
@@ -26,5 +25,6 @@ commit_history:
   2025-09: 0
   2025-10: 10
   2025-11: 0
-  2025-12: 0
-  2026-01: 0
+  2025-12: 3
+  2026-01: 13
+  2026-02: 37

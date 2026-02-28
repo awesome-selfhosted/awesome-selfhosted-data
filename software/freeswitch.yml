@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/signalwire/freeswitch
-stargazers_count: 4555
+stargazers_count: 4647
 updated_at: '2026-01-16'
 archived: false
 current_release:
   tag: v1.10.12
   published_at: '2024-08-03'
 commit_history:
-  2025-02: 20
   2025-03: 8
   2025-04: 2
   2025-05: 1
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 4
   2025-12: 0
   2026-01: 1
+  2026-02: 0

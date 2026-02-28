@@ -8,14 +8,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/evidence-dev/evidence
-stargazers_count: 5817
-updated_at: '2025-12-22'
+stargazers_count: 5958
+updated_at: '2026-02-18'
 archived: false
 current_release:
-  tag: '@evidence-dev/universal-sql@3.0.0'
-  published_at: '2025-11-15'
+  tag: '@evidence-dev/universal-sql@3.0.1'
+  published_at: '2026-02-06'
 commit_history:
-  2025-02: 112
   2025-03: 15
   2025-04: 19
   2025-05: 0
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 87
   2025-12: 25
   2026-01: 0
+  2026-02: 17

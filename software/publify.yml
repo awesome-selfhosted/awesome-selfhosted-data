@@ -8,14 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/publify/publify
-stargazers_count: 1856
+stargazers_count: 1854
 updated_at: '2025-12-22'
 archived: false
 current_release:
   tag: v10.0.1
   published_at: '2024-06-28'
 commit_history:
-  2025-02: 0
   2025-03: 22
   2025-04: 10
   2025-05: 2
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 12
   2025-12: 4
   2026-01: 0
+  2026-02: 0

@@ -9,14 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/PrestaShop/PrestaShop
 demo_url: https://demo.prestashop.com/
-stargazers_count: 8937
-updated_at: '2026-01-16'
+stargazers_count: 8985
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: 9.1.0-beta.1
-  published_at: '2026-01-07'
+  tag: 9.0.3
+  published_at: '2026-02-03'
 commit_history:
-  2025-02: 194
   2025-03: 239
   2025-04: 180
   2025-05: 209
@@ -25,6 +24,7 @@ commit_history:
   2025-08: 215
   2025-09: 284
   2025-10: 283
-  2025-11: 269
-  2025-12: 227
-  2026-01: 95
+  2025-11: 270
+  2025-12: 233
+  2026-01: 246
+  2026-02: 292

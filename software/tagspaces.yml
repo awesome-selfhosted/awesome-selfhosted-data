@@ -9,14 +9,13 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/tagspaces/tagspaces
 demo_url: https://demo.tagspaces.com
-stargazers_count: 4854
-updated_at: '2026-01-16'
+stargazers_count: 4946
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v6.8.1
-  published_at: '2026-01-10'
+  tag: v6.9.2
+  published_at: '2026-02-12'
 commit_history:
-  2025-02: 60
   2025-03: 164
   2025-04: 50
   2025-05: 74
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 34
   2025-11: 78
   2025-12: 35
-  2026-01: 58
+  2026-01: 97
+  2026-02: 74

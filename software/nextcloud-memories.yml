@@ -9,14 +9,13 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/pulsejet/memories
 demo_url: https://demo.memories.gallery/apps/memories/
-stargazers_count: 3672
-updated_at: '2026-01-14'
+stargazers_count: 3702
+updated_at: '2026-02-24'
 archived: false
 current_release:
-  tag: v7.7.0
-  published_at: '2025-10-04'
+  tag: v7.8.2
+  published_at: '2026-01-28'
 commit_history:
-  2025-02: 39
   2025-03: 28
   2025-04: 37
   2025-05: 15
@@ -26,5 +25,6 @@ commit_history:
   2025-09: 38
   2025-10: 28
   2025-11: 31
-  2025-12: 3
-  2026-01: 5
+  2025-12: 5
+  2026-01: 51
+  2026-02: 10

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://sandbox.yaffa.cc
-stargazers_count: 71
-updated_at: '2026-01-12'
+stargazers_count: 90
+updated_at: '2026-02-22'
 archived: false
 current_release:
-  tag: v2.1.0
-  published_at: '2026-01-03'
+  tag: v2.3.0
+  published_at: '2026-01-25'
 commit_history:
-  2025-02: 11
   2025-03: 14
   2025-04: 1
   2025-05: 25
@@ -27,4 +26,5 @@ commit_history:
   2025-10: 14
   2025-11: 13
   2025-12: 8
-  2026-01: 8
+  2026-01: 22
+  2026-02: 14

@@ -10,14 +10,13 @@ tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/GIScience/openrouteservice
 demo_url: https://openrouteservice.org/dev/#/api-docs/introduction
-stargazers_count: 1803
-updated_at: '2025-12-18'
+stargazers_count: 1830
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: v9.6.0
-  published_at: '2025-12-17'
+  tag: v9.7.1
+  published_at: '2026-02-27'
 commit_history:
-  2025-02: 8
   2025-03: 226
   2025-04: 87
   2025-05: 67
@@ -28,4 +27,5 @@ commit_history:
   2025-10: 38
   2025-11: 96
   2025-12: 79
-  2026-01: 0
+  2026-01: 17
+  2026-02: 13

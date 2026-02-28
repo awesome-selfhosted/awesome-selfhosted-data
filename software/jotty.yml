@@ -1,0 +1,21 @@
+name: Jotty
+website_url: https://jotty.page
+description: Lightweight but powerful alternative for managing your personal, file based, notes and checklists.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Note-taking & Editors
+  - Task Management & To-do Lists
+source_code_url: https://github.com/fccview/jotty
+stargazers_count: 1654
+updated_at: '2026-02-12'
+archived: false
+current_release:
+  tag: 1.20.0
+  published_at: '2026-02-12'
+commit_history:
+  2025-12: 122
+  2026-01: 158
+  2026-02: 24

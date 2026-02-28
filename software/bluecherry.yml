@@ -8,14 +8,13 @@ platforms:
 tags:
   - Video Surveillance
 source_code_url: https://github.com/bluecherrydvr/bluecherry-apps
-stargazers_count: 254
+stargazers_count: 258
 updated_at: '2025-12-29'
 archived: false
 current_release:
   tag: v3.1.14
   published_at: '2025-08-31'
 commit_history:
-  2025-02: 17
   2025-03: 2
   2025-04: 1
   2025-05: 45
@@ -27,3 +26,4 @@ commit_history:
   2025-11: 0
   2025-12: 31
   2026-01: 0
+  2026-02: 0

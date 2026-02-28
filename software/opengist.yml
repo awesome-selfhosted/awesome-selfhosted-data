@@ -1,5 +1,5 @@
 name: Opengist
-website_url: https://github.com/thomiceli/opengist
+website_url: https://opengist.io
 description: Pastebin powered by Git.
 licenses:
   - AGPL-3.0
@@ -11,14 +11,13 @@ tags:
   - Pastebins
 source_code_url: https://github.com/thomiceli/opengist
 demo_url: https://demo.opengist.io
-stargazers_count: 2913
-updated_at: '2025-12-28'
+stargazers_count: 3005
+updated_at: '2026-02-25'
 archived: false
 current_release:
-  tag: v1.11.1
-  published_at: '2025-09-30'
+  tag: v1.12.1
+  published_at: '2026-02-03'
 commit_history:
-  2025-02: 8
   2025-03: 8
   2025-04: 6
   2025-05: 10
@@ -29,4 +28,5 @@ commit_history:
   2025-10: 16
   2025-11: 0
   2025-12: 31
-  2026-01: 0
+  2026-01: 17
+  2026-02: 12

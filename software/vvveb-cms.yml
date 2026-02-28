@@ -10,14 +10,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/givanz/Vvveb
 demo_url: https://demo.vvveb.com
-stargazers_count: 952
-updated_at: '2025-10-13'
+stargazers_count: 977
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: 1.0.7.3
-  published_at: '2025-10-06'
+  tag: 1.0.8
+  published_at: '2026-02-19'
 commit_history:
-  2025-02: 2
   2025-03: 1
   2025-04: 0
   2025-05: 0
@@ -29,3 +28,4 @@ commit_history:
   2025-11: 0
   2025-12: 0
   2026-01: 0
+  2026-02: 85

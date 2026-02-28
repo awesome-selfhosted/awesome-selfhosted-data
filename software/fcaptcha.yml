@@ -1,0 +1,14 @@
+name: FCaptcha
+description: CAPTCHA that detects bots, vision AI agents, and headless browsers through behavioral analysis and SHA-256 proof of work.
+website_url: https://webdecoy.com/product/fcaptcha/
+source_code_url: https://github.com/WebDecoy/FCaptcha
+demo_url: https://webdecoy.com/product/fcaptcha-demo/
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Nodejs
+  - Python
+  - Docker
+tags:
+  - Miscellaneous

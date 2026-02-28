@@ -5,7 +5,6 @@ description: Track habits, tasks and notes with time tracking, calendar view and
 licenses:
   - GPL-3.0
 platforms:
-  - C#
   - Docker
 tags:
   - Time Tracking

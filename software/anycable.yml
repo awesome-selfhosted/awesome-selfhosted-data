@@ -10,12 +10,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/anycable/anycable
 demo_url: https://demo.anycable.io
-stargazers_count: 2268
-updated_at: '2026-02-10'
+stargazers_count: 2278
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: v1.6.9
-  published_at: '2026-01-27'
+  tag: v1.6.10
+  published_at: '2026-02-19'
 commit_history:
   2025-03: 22
   2025-04: 8
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 10
   2025-12: 10
   2026-01: 29
-  2026-02: 2
+  2026-02: 16

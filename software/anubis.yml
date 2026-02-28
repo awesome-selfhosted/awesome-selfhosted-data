@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - Miscellaneous
-stargazers_count: 16813
-updated_at: '2026-01-28'
+stargazers_count: 17259
+updated_at: '2026-02-19'
 archived: false
 current_release:
-  tag: v1.24.0
-  published_at: '2025-12-24'
+  tag: v1.25.0
+  published_at: '2026-02-18'
 commit_history:
   2025-03: 87
   2025-04: 110
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 40
   2025-12: 24
   2026-01: 18
-  2026-02: 0
+  2026-02: 12

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/erudika/para
-stargazers_count: 561
-updated_at: '2026-02-05'
+stargazers_count: 562
+updated_at: '2026-02-13'
 archived: false
 current_release:
-  tag: 1.52.4
-  published_at: '2026-02-04'
+  tag: 1.52.5
+  published_at: '2026-02-13'
 commit_history:
   2025-03: 7
   2025-04: 3
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 40
   2025-12: 15
   2026-01: 28
-  2026-02: 10
+  2026-02: 15

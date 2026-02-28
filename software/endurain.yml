@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - Health and Fitness
-stargazers_count: 1746
-updated_at: '2026-01-23'
+stargazers_count: 1800
+updated_at: '2026-02-23'
 archived: false
 current_release:
-  tag: v0.17.3
-  published_at: '2026-01-23'
+  tag: v0.17.5
+  published_at: '2026-02-24'
 commit_history:
   2025-03: 180
   2025-04: 274
@@ -25,5 +25,5 @@ commit_history:
   2025-10: 170
   2025-11: 78
   2025-12: 100
-  2026-01: 268
-  2026-02: 0
+  2026-01: 270
+  2026-02: 11

@@ -8,13 +8,13 @@ platforms:
   - Docker
 tags:
   - Status / Uptime pages
-stargazers_count: 496
-updated_at: '2026-02-10'
+stargazers_count: 498
+updated_at: '2026-02-27'
 archived: false
 demo_url: https://kuvasz-uptime.dev/demo/
 current_release:
-  tag: 3.4.0
-  published_at: '2026-01-11'
+  tag: 3.5.1
+  published_at: '2026-02-17'
 commit_history:
   2025-03: 0
   2025-04: 23
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 10
   2025-12: 15
   2026-01: 13
-  2026-02: 5
+  2026-02: 10

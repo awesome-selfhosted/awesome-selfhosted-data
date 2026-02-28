@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/loomio/loomio
-stargazers_count: 2518
-updated_at: '2026-02-10'
+stargazers_count: 2523
+updated_at: '2026-02-25'
 archived: false
 current_release:
-  tag: v3.0.19
-  published_at: '2026-02-09'
+  tag: v3.0.21
+  published_at: '2026-02-25'
 commit_history:
   2025-03: 80
   2025-04: 74
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 167
   2025-12: 66
   2026-01: 119
-  2026-02: 47
+  2026-02: 127

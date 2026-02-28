@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/featbit/featbit
-stargazers_count: 1746
-updated_at: '2026-02-10'
+stargazers_count: 1758
+updated_at: '2026-02-27'
 archived: false
 current_release:
-  tag: 5.2.3
-  published_at: '2026-02-10'
+  tag: 5.2.4
+  published_at: '2026-02-13'
 commit_history:
   2025-03: 11
   2025-04: 10
@@ -27,4 +27,4 @@ commit_history:
   2025-11: 8
   2025-12: 8
   2026-01: 17
-  2026-02: 8
+  2026-02: 12

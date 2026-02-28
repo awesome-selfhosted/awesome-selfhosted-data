@@ -15,7 +15,7 @@ website_url: "https://poznote.com"
 # URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/timothepoznanski/poznote?tab=readme-ov-file#poznote"
 # description of what the software does, shorter than 250 characters, sentence case
-description: "Poznote is a lightweight, open-source personal note-taking and documentation platform."
+description: "Poznote is a personal note-taking and documentation platform."
 # list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - MIT License

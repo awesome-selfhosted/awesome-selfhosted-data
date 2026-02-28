@@ -1,0 +1,20 @@
+name: "WolfLoom"
+website_url: "https://wolfloom.github.io/"
+source_code_url: "https://github.com/wolfloom/wolfloom.github.io
+description: "A simple self-hosted local python server that has a files, notes and home page."
+licenses:
+  - Unlicense
+platforms:
+  - Python
+  - Flask
+  - HTML
+  - JavaScript
+  - CSS
+tags:
+  - Self-hosting Solutions
+  - File Transfer - Web-based File Managers
+  - Groupware
+  - Note-taking & Editors
+  - Pastebins
+  - Personal Dashboards
+  - Photo Galleries

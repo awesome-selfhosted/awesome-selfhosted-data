@@ -8,8 +8,8 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/omeka/omeka-s
-stargazers_count: 465
-updated_at: '2026-02-13'
+stargazers_count: 470
+updated_at: '2026-02-19'
 archived: false
 current_release:
   tag: v4.2.0
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 22
   2025-12: 7
   2026-01: 16
-  2026-02: 3
+  2026-02: 4

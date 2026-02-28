@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/hyphanet/fred
-stargazers_count: 1152
-updated_at: '2026-02-09'
+stargazers_count: 1155
+updated_at: '2026-02-22'
 archived: false
 current_release:
-  tag: build01505
-  published_at: '2026-02-08'
+  tag: build01506
+  published_at: '2026-02-15'
 commit_history:
   2025-03: 2
   2025-04: 18
@@ -26,4 +26,4 @@ commit_history:
   2025-11: 14
   2025-12: 8
   2026-01: 6
-  2026-02: 4
+  2026-02: 13

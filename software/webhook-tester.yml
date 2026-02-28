@@ -11,12 +11,12 @@ platforms:
   - K8S
 tags:
   - Software Development - Testing
-stargazers_count: 389
-updated_at: '2025-12-03'
+stargazers_count: 397
+updated_at: '2026-02-24'
 archived: false
 current_release:
-  tag: v2.2.5
-  published_at: '2025-11-21'
+  tag: v2.2.6
+  published_at: '2026-02-24'
 commit_history:
   2025-03: 9
   2025-04: 8
@@ -29,4 +29,4 @@ commit_history:
   2025-11: 16
   2025-12: 3
   2026-01: 0
-  2026-02: 0
+  2026-02: 7

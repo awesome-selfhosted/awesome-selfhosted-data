@@ -10,8 +10,8 @@ platforms:
 tags:
   - E-commerce
 depends_3rdparty: true
-stargazers_count: 342
-updated_at: '2026-01-27'
+stargazers_count: 344
+updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v0.2.6
@@ -28,4 +28,4 @@ commit_history:
   2025-11: 2
   2025-12: 12
   2026-01: 24
-  2026-02: 0
+  2026-02: 2

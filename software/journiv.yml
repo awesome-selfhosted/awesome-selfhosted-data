@@ -1,0 +1,12 @@
+name: Journiv
+website_url: https://journiv.com
+source_code_url: https://github.com/journiv/journiv-app
+description: Self hosted private journaling platform with mood tracking, guided prompts, analytics and immich integration.
+licenses:
+  - PolyForm-Noncommercial-1.0.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Journaling
+  - Note-taking & Editors

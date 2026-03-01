@@ -7,6 +7,7 @@ platforms:
   - Docker
   - Go
 tags:
+  - Journaling
   - Note-taking & Editors
 source_code_url: https://github.com/usememos/memos
 demo_url: https://demo.usememos.com/explore

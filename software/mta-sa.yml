@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/multitheftauto/mtasa-blue
 depends_3rdparty: true
 stargazers_count: 1689
-updated_at: '2026-02-28'
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v1.6.0
   published_at: '2023-06-16'
 commit_history:
-  2025-03: 109
   2025-04: 43
   2025-05: 77
   2025-06: 15
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 50
   2026-01: 133
   2026-02: 200
+  2026-03: 1

@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/codelibs/fess
 demo_url: https://search.n2sm.co.jp/
 stargazers_count: 1093
-updated_at: '2026-02-25'
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: fess-15.5.0
-  published_at: '2026-02-14'
+  tag: fess-15.5.1
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 6
   2025-04: 3
   2025-05: 13
   2025-06: 15
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 17
   2026-01: 38
   2026-02: 13
+  2026-03: 3

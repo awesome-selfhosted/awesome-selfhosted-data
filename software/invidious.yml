@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/iv-org/invidious
 demo_url: https://docs.invidious.io/instances/
 depends_3rdparty: true
-stargazers_count: 18686
+stargazers_count: 18691
 updated_at: '2026-02-24'
 archived: false
 current_release:
   tag: v2.20260207.0
   published_at: '2026-02-07'
 commit_history:
-  2025-03: 17
   2025-04: 3
   2025-05: 90
   2025-06: 18
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 27
   2026-01: 8
   2026-02: 21
+  2026-03: 0

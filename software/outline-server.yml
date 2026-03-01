@@ -9,14 +9,13 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/OutlineFoundation/outline-server
-stargazers_count: 6172
+stargazers_count: 6174
 updated_at: '2026-02-23'
 archived: false
 current_release:
   tag: server-v1.12.3
   published_at: '2025-02-24'
 commit_history:
-  2025-03: 6
   2025-04: 0
   2025-05: 0
   2025-06: 0
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 0
   2026-01: 7
   2026-02: 1
+  2026-03: 0

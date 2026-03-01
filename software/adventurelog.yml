@@ -9,14 +9,13 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 demo_url: https://demo.adventurelog.app/signup
-stargazers_count: 2769
+stargazers_count: 2777
 updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v0.12.0
   published_at: '2026-02-23'
 commit_history:
-  2025-03: 47
   2025-04: 60
   2025-05: 119
   2025-06: 99
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 2
   2026-01: 3
   2026-02: 3
+  2026-03: 0

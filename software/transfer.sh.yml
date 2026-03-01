@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/dutchcoders/transfer.sh
-stargazers_count: 15798
+stargazers_count: 15799
 updated_at: '2025-11-19'
 archived: false
 current_release:
   tag: v1.6.1
   published_at: '2023-12-04'
 commit_history:
-  2025-03: 0
   2025-04: 1
   2025-05: 0
   2025-06: 0
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 0

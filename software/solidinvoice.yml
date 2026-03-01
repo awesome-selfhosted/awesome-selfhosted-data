@@ -8,14 +8,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/SolidInvoice/SolidInvoice
-stargazers_count: 858
+stargazers_count: 859
 updated_at: '2026-02-20'
 archived: false
 current_release:
-  tag: 3.0.0-alpha1
-  published_at: '2026-02-20'
+  tag: 2.3.16
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 70
   2025-04: 291
   2025-05: 186
   2025-06: 47
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 37
   2026-01: 4
   2026-02: 20
+  2026-03: 0

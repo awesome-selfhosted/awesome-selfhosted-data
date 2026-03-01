@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/cypht-org/cypht
-stargazers_count: 1435
+stargazers_count: 1437
 updated_at: '2026-02-28'
 archived: false
 current_release:
   tag: v2.7.0
   published_at: '2026-02-27'
 commit_history:
-  2025-03: 33
   2025-04: 14
   2025-05: 32
   2025-06: 77
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 20
   2026-01: 52
   2026-02: 61
+  2026-03: 0

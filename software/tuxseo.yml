@@ -12,14 +12,13 @@ tags:
   - Generative Artificial Intelligence (GenAI)
   - Blogging Platforms
 depends_3rdparty: true
-stargazers_count: 47
+stargazers_count: 48
 updated_at: '2026-02-26'
 archived: false
 current_release:
   tag: 0.0.8
   published_at: '2025-11-23'
 commit_history:
-  2025-03: 36
   2025-04: 8
   2025-05: 65
   2025-06: 55
@@ -31,3 +30,4 @@ commit_history:
   2025-12: 15
   2026-01: 1
   2026-02: 13
+  2026-03: 0

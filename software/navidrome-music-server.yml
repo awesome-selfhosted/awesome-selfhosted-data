@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/navidrome/navidrome
 demo_url: https://www.navidrome.org/demo
 related_software_url: https://www.navidrome.org/docs/overview/#apps
-stargazers_count: 19543
-updated_at: '2026-02-28'
+stargazers_count: 19560
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v0.60.3
   published_at: '2026-02-10'
 commit_history:
-  2025-03: 75
   2025-04: 25
   2025-05: 72
   2025-06: 68
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 44
   2026-01: 54
   2026-02: 81
+  2026-03: 4

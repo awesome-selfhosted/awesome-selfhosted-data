@@ -8,14 +8,13 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/getredash/redash
-stargazers_count: 28243
-updated_at: '2026-02-28'
+stargazers_count: 28245
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v25.8.0
   published_at: '2025-08-01'
 commit_history:
-  2025-03: 4
   2025-04: 7
   2025-05: 9
   2025-06: 1
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 6
   2026-01: 5
   2026-02: 13
+  2026-03: 1

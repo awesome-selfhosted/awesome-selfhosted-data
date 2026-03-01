@@ -11,14 +11,13 @@ tags:
   - Database Management
 source_code_url: https://github.com/bytebase/bytebase
 demo_url: https://demo.bytebase.com
-stargazers_count: 13765
+stargazers_count: 13767
 updated_at: '2026-02-28'
 archived: false
 current_release:
   tag: 3.15.1
   published_at: '2026-02-26'
 commit_history:
-  2025-03: 284
   2025-04: 312
   2025-05: 264
   2025-06: 378
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 429
   2026-01: 401
   2026-02: 191
+  2026-03: 0

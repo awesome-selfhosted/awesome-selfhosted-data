@@ -8,14 +8,13 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/gollum/gollum
-stargazers_count: 14236
+stargazers_count: 14237
 updated_at: '2025-08-31'
 archived: false
 current_release:
   tag: v6.1.0
   published_at: '2024-12-23'
 commit_history:
-  2025-03: 0
   2025-04: 2
   2025-05: 2
   2025-06: 2
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 0

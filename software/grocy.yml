@@ -11,14 +11,13 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/grocy/grocy
 demo_url: https://en.demo.grocy.info/
-stargazers_count: 8781
-updated_at: '2026-02-08'
+stargazers_count: 8789
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v4.5.0
   published_at: '2025-03-28'
 commit_history:
-  2025-03: 15
   2025-04: 1
   2025-05: 2
   2025-06: 3
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 0
   2026-01: 4
   2026-02: 5
+  2026-03: 1

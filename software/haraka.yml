@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Email - Mail Transfer Agents
 source_code_url: https://github.com/haraka/Haraka
-stargazers_count: 5569
+stargazers_count: 5570
 updated_at: '2026-02-20'
 archived: false
 current_release:
   tag: v3.1.3
   published_at: '2026-02-20'
 commit_history:
-  2025-03: 5
   2025-04: 2
   2025-05: 1
   2025-06: 1
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 0
   2026-01: 5
   2026-02: 3
+  2026-03: 0

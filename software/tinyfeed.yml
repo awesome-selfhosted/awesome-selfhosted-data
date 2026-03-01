@@ -10,14 +10,13 @@ platforms:
 tags:
   - Feed Readers
 demo_url: https://feed.lovergne.dev/demo
-stargazers_count: 305
+stargazers_count: 306
 updated_at: '2025-11-16'
 archived: false
 current_release:
   tag: v1.3.0
   published_at: '2025-07-27'
 commit_history:
-  2025-03: 2
   2025-04: 23
   2025-05: 31
   2025-06: 0
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 0

@@ -11,14 +11,13 @@ tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/plankanban/planka
 demo_url: https://plankanban.github.io/planka/#/
-stargazers_count: 11605
-updated_at: '2026-02-23'
+stargazers_count: 11606
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: v2.0.2
-  published_at: '2026-02-23'
+  tag: v2.0.3
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 8
   2025-04: 16
   2025-05: 43
   2025-06: 58
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 22
   2026-01: 33
   2026-02: 34
+  2026-03: 3

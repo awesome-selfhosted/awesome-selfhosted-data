@@ -10,14 +10,13 @@ tags:
   - Media Management
 source_code_url: https://github.com/Ombi-app/Ombi
 demo_url: https://app.ombi.io/
-stargazers_count: 4063
-updated_at: '2026-02-22'
+stargazers_count: 4062
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: v4.55.6
-  published_at: '2026-02-22'
+  tag: v4.55.7
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 5
   2025-04: 2
   2025-05: 19
   2025-06: 0
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 1
   2026-01: 17
   2026-02: 73
+  2026-03: 2

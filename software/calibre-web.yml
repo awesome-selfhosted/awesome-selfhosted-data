@@ -8,14 +8,13 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/janeczku/calibre-web
-stargazers_count: 16648
-updated_at: '2026-02-22'
+stargazers_count: 16651
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: 0.6.26
   published_at: '2026-02-06'
 commit_history:
-  2025-03: 31
   2025-04: 9
   2025-05: 4
   2025-06: 13
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 28
   2026-01: 43
   2026-02: 26
+  2026-03: 1

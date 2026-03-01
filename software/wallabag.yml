@@ -8,14 +8,13 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/wallabag/wallabag
-stargazers_count: 12502
+stargazers_count: 12505
 updated_at: '2026-02-23'
 archived: false
 current_release:
   tag: 2.6.14
   published_at: '2025-10-07'
 commit_history:
-  2025-03: 150
   2025-04: 125
   2025-05: 34
   2025-06: 97
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 54
   2026-01: 55
   2026-02: 38
+  2026-03: 0

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Document Management - E-books
 demo_url: https://demo.booklogr.app/
-stargazers_count: 485
+stargazers_count: 486
 updated_at: '2026-02-08'
 archived: false
 current_release:
   tag: v1.7.0
   published_at: '2026-02-08'
 commit_history:
-  2025-03: 0
   2025-04: 0
   2025-05: 0
   2025-06: 72
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 4
   2026-01: 0
   2026-02: 7
+  2026-03: 0

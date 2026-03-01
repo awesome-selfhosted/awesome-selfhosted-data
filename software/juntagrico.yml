@@ -9,13 +9,12 @@ tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/juntagrico/juntagrico
 stargazers_count: 53
-updated_at: '2026-02-28'
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: 2.0.0
-  published_at: '2026-02-26'
+  tag: 2.0.1
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 14
   2025-04: 60
   2025-05: 18
   2025-06: 14
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 82
   2026-01: 42
   2026-02: 52
+  2026-03: 4

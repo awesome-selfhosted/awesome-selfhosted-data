@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/svenstaro/miniserve
-stargazers_count: 7408
-updated_at: '2026-02-22'
+stargazers_count: 7410
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v0.33.0
   published_at: '2026-02-16'
 commit_history:
-  2025-03: 32
   2025-04: 13
   2025-05: 4
   2025-06: 21
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 2
   2026-01: 41
   2026-02: 25
+  2026-03: 2

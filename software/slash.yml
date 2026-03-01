@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - Bookmarks and Link Sharing
-stargazers_count: 3093
+stargazers_count: 3094
 updated_at: '2025-12-22'
 archived: false
 current_release:
   tag: v0.5.3
   published_at: '2024-02-06'
 commit_history:
-  2025-03: 1
   2025-04: 23
   2025-05: 24
   2025-06: 6
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 9
   2026-01: 0
   2026-02: 0
+  2026-03: 0

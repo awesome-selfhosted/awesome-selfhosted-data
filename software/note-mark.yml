@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - Note-taking & Editors
-stargazers_count: 633
+stargazers_count: 634
 updated_at: '2026-01-30'
 archived: false
 current_release:
   tag: v0.19.0
   published_at: '2026-01-30'
 commit_history:
-  2025-03: 7
   2025-04: 1
   2025-05: 20
   2025-06: 23
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 0
   2026-01: 9
   2026-02: 0
+  2026-03: 0

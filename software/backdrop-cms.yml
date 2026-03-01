@@ -8,14 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/backdrop/backdrop
-stargazers_count: 1032
+stargazers_count: 1031
 updated_at: '2026-01-27'
 archived: false
 current_release:
   tag: 1.33.1
   published_at: '2026-01-27'
 commit_history:
-  2025-03: 10
   2025-04: 5
   2025-05: 15
   2025-06: 2
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 4
   2026-01: 42
   2026-02: 0
+  2026-03: 0

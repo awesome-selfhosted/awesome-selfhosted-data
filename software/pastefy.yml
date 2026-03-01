@@ -11,14 +11,13 @@ tags:
   - Pastebins
 source_code_url: https://github.com/interaapps/pastefy
 related_software_url: https://github.com/topics/pastefy-addon
-stargazers_count: 415
-updated_at: '2025-10-15'
+stargazers_count: 416
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: 7.1.5
-  published_at: '2025-10-15'
+  tag: 7.1.6
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 11
   2025-04: 9
   2025-05: 26
   2025-06: 0
@@ -30,3 +29,4 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 3

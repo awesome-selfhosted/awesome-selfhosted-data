@@ -10,14 +10,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/caronc/apprise
-stargazers_count: 15940
+stargazers_count: 15950
 updated_at: '2026-02-20'
 archived: false
 current_release:
   tag: v1.9.7
   published_at: '2026-01-20'
 commit_history:
-  2025-03: 12
   2025-04: 2
   2025-05: 1
   2025-06: 4
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 14
   2026-01: 15
   2026-02: 17
+  2026-03: 0

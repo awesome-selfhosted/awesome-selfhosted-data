@@ -9,14 +9,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/killbill/killbill
-stargazers_count: 5358
+stargazers_count: 5359
 updated_at: '2025-11-25'
 archived: false
 current_release:
   tag: killbill-0.24.16
   published_at: '2025-11-25'
 commit_history:
-  2025-03: 4
   2025-04: 1
   2025-05: 2
   2025-06: 5
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 0

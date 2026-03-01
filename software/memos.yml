@@ -10,14 +10,13 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/usememos/memos
 demo_url: https://demo.usememos.com/explore
-stargazers_count: 57352
-updated_at: '2026-02-26'
+stargazers_count: 57383
+updated_at: '2026-03-01'
 archived: false
 current_release:
   tag: v0.26.2
   published_at: '2026-02-23'
 commit_history:
-  2025-03: 73
   2025-04: 50
   2025-05: 67
   2025-06: 82
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 100
   2026-01: 113
   2026-02: 67
+  2026-03: 10

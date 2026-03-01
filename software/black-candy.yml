@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/blackcandy-org/blackcandy
-stargazers_count: 4146
+stargazers_count: 4149
 updated_at: '2026-01-19'
 archived: false
 current_release:
   tag: v3.1.0
   published_at: '2025-06-18'
 commit_history:
-  2025-03: 2
   2025-04: 5
   2025-05: 3
   2025-06: 15
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 2
   2026-01: 2
   2026-02: 0
+  2026-03: 0

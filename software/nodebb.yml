@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/NodeBB/NodeBB
 demo_url: https://try.nodebb.org/
 stargazers_count: 14995
-updated_at: '2026-02-27'
+updated_at: '2026-03-01'
 archived: false
 current_release:
-  tag: v4.9.0
-  published_at: '2026-02-27'
+  tag: v4.9.1
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 155
   2025-04: 202
   2025-05: 185
   2025-06: 119
@@ -29,3 +28,4 @@ commit_history:
   2025-12: 129
   2026-01: 198
   2026-02: 426
+  2026-03: 11

@@ -1,0 +1,10 @@
+name: "OneUptime"
+website_url: "https://oneuptime.com"
+source_code_url: "https://github.com/oneuptime/oneuptime"
+description: "Complete open-source monitoring and observability platform."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Monitoring

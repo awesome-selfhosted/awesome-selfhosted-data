@@ -1,0 +1,12 @@
+name: "CordysCRM"
+website_url: "https://cordys.cn/"
+source_code_url: "https://github.com/1Panel-dev/CordysCRM"
+description: "AI CRM system that integrates digitalization, automation, and intelligent customer management (documentation in Chinese)."
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+  - Generative Artificial Intelligence (GenAI)

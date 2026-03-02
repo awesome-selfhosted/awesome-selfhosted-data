@@ -1,0 +1,11 @@
+name: Char
+website_url: https://char.com
+description: AI notepad for meetings with flexible AI stack and on-device storage (Open-source alternative to Otter.ai, Granola, Fireflies).
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Nodejs
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/fastrepl/char

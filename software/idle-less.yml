@@ -1,0 +1,11 @@
+name: idle-less
+website_url: https://tvup.github.io/idle-less/
+source_code_url: https://github.com/tvup/idle-less
+description: Docker-based nginx reverse proxy with automatic Wake-on-LAN — wakes sleeping servers when web traffic arrives, shows a waiting screen, and redirects when ready.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Web Servers

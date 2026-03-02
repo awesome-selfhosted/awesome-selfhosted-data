@@ -9,12 +9,12 @@ platforms:
   - Nodejs
 tags:
   - Recipe Management
-stargazers_count: 141
-updated_at: '2026-03-01'
+stargazers_count: 140
+updated_at: '2026-03-02'
 archived: false
 current_release:
-  tag: v1.5.8
-  published_at: '2026-02-22'
+  tag: v1.5.9
+  published_at: '2026-03-02'
 commit_history:
   2025-04: 49
   2025-05: 3
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 83
   2026-01: 76
   2026-02: 100
-  2026-03: 5
+  2026-03: 9

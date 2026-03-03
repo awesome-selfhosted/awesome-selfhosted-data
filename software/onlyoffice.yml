@@ -9,12 +9,12 @@ platforms:
 tags:
   - Office Suites
 source_code_url: https://github.com/ONLYOFFICE/DocumentServer
-stargazers_count: 6306
-updated_at: '2026-02-25'
+stargazers_count: 6307
+updated_at: '2026-03-03'
 archived: false
 current_release:
-  tag: v9.3.0
-  published_at: '2026-02-24'
+  tag: v9.3.1
+  published_at: '2026-03-03'
 commit_history:
   2025-04: 5
   2025-05: 1
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 6
   2026-01: 0
   2026-02: 3
-  2026-03: 0
+  2026-03: 2

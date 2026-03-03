@@ -9,11 +9,11 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/concretecms/concretecms
 stargazers_count: 825
-updated_at: '2026-02-24'
+updated_at: '2026-03-03'
 archived: false
 current_release:
-  tag: 9.5.0RC1
-  published_at: '2026-02-03'
+  tag: 9.5.0RC2
+  published_at: '2026-03-03'
 commit_history:
   2025-04: 42
   2025-05: 34
@@ -26,4 +26,4 @@ commit_history:
   2025-12: 32
   2026-01: 17
   2026-02: 66
-  2026-03: 0
+  2026-03: 8

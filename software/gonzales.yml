@@ -1,0 +1,11 @@
+name: Gonzales
+website_url: https://github.com/akustikrausch/gonzales
+source_code_url: https://github.com/akustikrausch/gonzales
+description: 24/7 internet speed monitor with Home Assistant integration, ISP grading (A-F), outage detection with automatic burst mode, and MCP server for AI assistant queries.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Network Utilities

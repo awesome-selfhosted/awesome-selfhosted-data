@@ -7,6 +7,6 @@ licenses:
 platforms:
   - Go
   - Docker
-  - K8s
+  - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)

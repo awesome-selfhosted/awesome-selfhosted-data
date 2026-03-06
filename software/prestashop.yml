@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/PrestaShop/PrestaShop
 demo_url: https://demo.prestashop.com/
 stargazers_count: 8997
-updated_at: '2026-03-04'
+updated_at: '2026-03-05'
 archived: false
 current_release:
-  tag: 9.0.3
-  published_at: '2026-02-03'
+  tag: 9.1.0-rc.1
+  published_at: '2026-03-05'
 commit_history:
   2025-04: 180
   2025-05: 209
@@ -26,5 +26,5 @@ commit_history:
   2025-11: 270
   2025-12: 233
   2026-01: 246
-  2026-02: 296
-  2026-03: 6
+  2026-02: 326
+  2026-03: 8

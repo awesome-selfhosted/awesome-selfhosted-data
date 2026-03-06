@@ -10,12 +10,12 @@ platforms:
 tags:
   - Status / Uptime pages
 demo_url: https://kener.ing/
-stargazers_count: 4775
-updated_at: '2026-02-28'
+stargazers_count: 4774
+updated_at: '2026-03-05'
 archived: false
 current_release:
-  tag: v4.0.11
-  published_at: '2026-02-26'
+  tag: v4.0.12
+  published_at: '2026-03-05'
 commit_history:
   2025-04: 64
   2025-05: 41
@@ -27,5 +27,5 @@ commit_history:
   2025-11: 0
   2025-12: 1
   2026-01: 42
-  2026-02: 153
-  2026-03: 0
+  2026-02: 155
+  2026-03: 7

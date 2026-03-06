@@ -10,12 +10,12 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/error311/FileRise
 demo_url: https://github.com/error311/FileRise?tab=readme-ov-file#live-demo
-stargazers_count: 901
-updated_at: '2026-03-04'
+stargazers_count: 903
+updated_at: '2026-03-05'
 archived: false
 current_release:
-  tag: v3.6.0
-  published_at: '2026-03-03'
+  tag: v3.6.1
+  published_at: '2026-03-05'
 commit_history:
   2025-04: 135
   2025-05: 27
@@ -28,4 +28,4 @@ commit_history:
   2025-12: 92
   2026-01: 47
   2026-02: 27
-  2026-03: 5
+  2026-03: 10

@@ -1,0 +1,12 @@
+name: Rental Property Deal Analyzer
+website_url: https://rental-property-deal-analyzer.onrender.com
+description: Free rental property investment calculator with 20+ metrics, AI-powered analysis, deal scoring, and 5-year return projections. Supports Zillow scraping, save/compare scenarios, and PDF/HTML export.
+licenses:
+  - MIT
+  platforms:
+    - Python
+      - Docker
+      tags:
+        - Money, Budgeting & Management
+        demo_url: https://rental-property-deal-analyzer.onrender.com
+        source_code_url: https://github.com/berkcankapusuzoglu/Rental-Property-Deal-Analyzer

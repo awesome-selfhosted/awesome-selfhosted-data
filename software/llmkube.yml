@@ -1,5 +1,5 @@
 name: LLMKube
-website_url: https://github.com/defilantech/LLMKube
+website_url: https://llmkube.com
 source_code_url: https://github.com/defilantech/LLMKube
 description: Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API.
 licenses:

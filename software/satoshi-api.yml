@@ -1,0 +1,11 @@
+name: Satoshi API
+website_url: https://bitcoinsapi.com
+description: REST API for Bitcoin Core nodes. Turns your node into a developer-friendly data service with fee recommendations, mempool analysis, and real-time streams.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/Bortlesboat/bitcoin-api
+demo_url: https://bitcoinsapi.com/docs

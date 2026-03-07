@@ -1,7 +1,7 @@
 name: Contexto
 website_url: https://ekailabs.xyz
 source_code_url: https://github.com/ekailabs/contexto
-description: Local-first context engine for AI agents providing persistent conversation memory, recall, and attribution. Works as an OpenAI-compatible proxy or memory SDK, with memory stored in local SQLite without sending data to third-party services. (alternative to Mem0)
+description: Self-hosted context engine for AI agents with persistent conversation memory, recall, and attribution. Works as an OpenClaw plugin, OpenAI-compatible proxy, or memory SDK. Data stays local in SQLite.
 licenses:
   - Apache-2.0
 platforms:

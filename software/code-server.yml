@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/code-server
-stargazers_count: 76491
-updated_at: '2026-03-04'
+stargazers_count: 76509
+updated_at: '2026-03-06'
 archived: false
 current_release:
-  tag: v4.109.5
-  published_at: '2026-03-02'
+  tag: v4.110.0-rc.1
+  published_at: '2026-03-06'
 commit_history:
   2025-04: 18
   2025-05: 16
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 10
   2026-01: 19
   2026-02: 4
-  2026-03: 15
+  2026-03: 16

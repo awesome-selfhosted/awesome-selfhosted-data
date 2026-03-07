@@ -9,12 +9,12 @@ platforms:
   - Python
 tags:
   - Document Management - E-books
-stargazers_count: 875
-updated_at: '2026-03-04'
+stargazers_count: 876
+updated_at: '2026-03-06'
 archived: false
 current_release:
-  tag: V1.2.0
-  published_at: '2025-04-16'
+  tag: V1.3.0
+  published_at: '2026-03-06'
 commit_history:
   2025-04: 14
   2025-05: 29
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 19
   2026-01: 18
   2026-02: 27
-  2026-03: 14
+  2026-03: 20

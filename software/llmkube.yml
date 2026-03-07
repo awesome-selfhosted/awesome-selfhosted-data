@@ -1,0 +1,12 @@
+name: LLMKube
+website_url: https://llmkube.com
+source_code_url: https://github.com/defilantech/LLMKube
+description: Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)

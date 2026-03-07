@@ -1,0 +1,12 @@
+name: "RamaLama"
+website_url: "https://ramalama.ai"
+source_code_url: "https://github.com/containers/ramalama"
+description: "RamaLama is a unified CLI for working with AI models wherever they are hosted, whether locally or in the cloud."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: false

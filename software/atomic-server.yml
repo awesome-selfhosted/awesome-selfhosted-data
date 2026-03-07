@@ -1,5 +1,5 @@
 name: Atomic Server
-website_url: https://github.com/atomicdata-dev/atomic-server
+website_url: hhttps://atomicserver.eu/
 description: Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies.
 licenses:
   - MIT
@@ -8,7 +8,7 @@ platforms:
   - Rust
 tags:
   - Knowledge Management Tools
-source_code_url: https://github.com/atomicdata-dev/atomic-server
+source_code_url: https://github.com/ontola/atomic-server
 demo_url: https://atomicdata.dev/
 stargazers_count: 1480
 updated_at: '2026-01-08'

@@ -6,6 +6,7 @@ licenses:
 platforms:
   - Docker
 tags:
+  - Journaling
   - Note-taking & Editors
 source_code_url: https://github.com/PhiTux/DailyTxT
 demo_url: https://dailytxt.phitux.de

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/idno/idno
-stargazers_count: 1106
-updated_at: '2026-02-14'
+stargazers_count: 1109
+updated_at: '2026-03-04'
 archived: false
 current_release:
-  tag: 1.6.3
-  published_at: '2026-02-13'
+  tag: 1.6.4
+  published_at: '2026-03-01'
 commit_history:
-  2025-03: 3
   2025-04: 0
   2025-05: 0
   2025-06: 24
@@ -26,4 +25,5 @@ commit_history:
   2025-11: 0
   2025-12: 0
   2026-01: 0
-  2026-02: 8
+  2026-02: 28
+  2026-03: 12

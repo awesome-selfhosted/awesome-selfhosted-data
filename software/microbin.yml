@@ -1,0 +1,16 @@
+# software name
+name: "MicroBin"
+website_url: "https://microbin.eu"
+source_code_url: "https://github.com/szabodanika/microbin"
+description: "Simple, encrypted, configurable, entirely self-contained pastebin and URL shortener."
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Pastebins
+  - URL Shorteners
+  - File Transfer - Web-based File Managers
+depends_3rdparty: false
+demo_url: "https://pub.microbin.eu"

@@ -1,0 +1,12 @@
+name: Pharos AI
+website_url: https://conflicts.app
+description: Real-time intelligence dashboard for geopolitical conflict tracking, aggregating 30+ OSINT feeds with interactive geospatial visualization, actor dossiers, event timelines, and daily intelligence briefs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Maps and Global Positioning System (GPS)
+source_code_url: https://github.com/Juliusolsson05/pharos-ai
+demo_url: https://conflicts.app

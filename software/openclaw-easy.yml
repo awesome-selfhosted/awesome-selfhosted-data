@@ -1,6 +1,6 @@
-name: OpenClaw
+name: OpenClaw Easy
 website_url: https://openclaw-easy.com
-description: AI assistant gateway that connects LLMs (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord. Supports local models via Ollama for fully offline operation.
+description: Free desktop app that connects LLMs (ChatGPT, Claude, Ollama) to WhatsApp, Telegram, Slack, and Discord. Built on top of the open-source OpenClaw project.
 licenses:
   - MIT
 platforms:

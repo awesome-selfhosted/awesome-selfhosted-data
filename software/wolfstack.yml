@@ -1,0 +1,12 @@
+name: WolfStack
+website_url: https://github.com/wolfsoftwaresystemsltd/wolfstack
+source_code_url: https://github.com/wolfsoftwaresystemsltd/wolfstack
+description: "Proxmox-like server management platform for Linux clusters with Docker/LXC containers, VMs, networking, storage, backups, and status pages."
+licenses:
+  - FSL-1.1-Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Monitoring

@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Python
-  - Django
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)

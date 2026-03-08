@@ -7,7 +7,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Django
+  - Python
 tags:
   - Money, Budgeting & Management
 stargazers_count: 825

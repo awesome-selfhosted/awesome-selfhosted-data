@@ -1,0 +1,11 @@
+name: Website-Diff
+website_url: https://github.com/GeiserX/Website-Diff
+source_code_url: https://github.com/GeiserX/Website-Diff
+description: Web page comparison tool with Wayback Machine artifact cleaning, significance scoring, and multi-browser visual regression testing.
+licenses:
+  - GPL-3.0-only
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation

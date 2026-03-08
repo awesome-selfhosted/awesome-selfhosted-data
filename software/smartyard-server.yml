@@ -1,7 +1,7 @@
-name: "SmartYard-Server"
-website_url: "https://sesameware.com"
-source_code_url: "https://github.com/rosteleset/SmartYard-Server"
-description: "Open source Intercom & CCTV platform with Mobile apps, Face and LP Recognition, Task Tracker and Simple Media Server for DVR."
+name: SmartYard-Server
+website_url: https://sesameware.com
+source_code_url: https://github.com/rosteleset/SmartYard-Server
+description: Open source Intercom & CCTV platform with Mobile apps, Face and LP Recognition, Task Tracker and Simple Media Server for DVR.
 licenses:
   - GPL-3.0
 platforms:

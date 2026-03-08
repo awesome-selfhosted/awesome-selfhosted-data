@@ -1,0 +1,10 @@
+name: ePubLangMerger
+website_url: https://github.com/GeiserX/ePubLangMerger
+description: Merge two ePub files in different languages into a single bilingual ebook for parallel reading.
+licenses:
+  - LGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/GeiserX/ePubLangMerger

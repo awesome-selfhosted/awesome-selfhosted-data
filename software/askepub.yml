@@ -1,0 +1,12 @@
+name: AskePub
+website_url: https://github.com/GeiserX/AskePub
+source_code_url: https://github.com/GeiserX/AskePub
+description: Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Document Management - E-books
+depends_3rdparty: true

@@ -1,0 +1,12 @@
+name: AgentCost
+description: Cost governance platform for AI agents with cost tracking for 2,610+ models, forecasting, budget enforcement, smart routing, and policy controls.
+website_url: https://agentcost.in
+source_code_url: https://github.com/agentcostin/agentcost
+demo_url: https://demo.agentcost.in
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Analytics

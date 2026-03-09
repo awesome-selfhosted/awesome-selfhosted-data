@@ -1,0 +1,12 @@
+name: MiniClaw
+website_url: https://miniclaw.bot
+source_code_url: https://github.com/augmentedmike/miniclaw-os
+description: Personal AI agent OS for Mac — personality, memory, plugins, cron automation, email, SEO tools, and a kanban project board, all running on your own hardware.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+

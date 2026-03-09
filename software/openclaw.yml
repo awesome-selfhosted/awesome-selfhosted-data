@@ -1,0 +1,12 @@
+name: OpenClaw
+website_url: https://openclaw.ai
+source_code_url: https://github.com/openclaw/openclaw
+description: Personal AI assistant with 24+ messaging channel integrations (Telegram, WhatsApp, Slack, Discord, Signal), multi-agent routing, voice, browser control, and a skills platform.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+depends_3rdparty: true

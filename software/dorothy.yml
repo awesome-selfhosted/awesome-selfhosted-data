@@ -1,0 +1,10 @@
+name: Dorothy
+website_url: https://dorothyai.app
+source_code_url: https://github.com/Charlie85270/Dorothy
+description: Desktop application to orchestrate, manage and monitor multiple AI coding agents (Claude Code, Codex, Gemini CLI) from a single interface.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools

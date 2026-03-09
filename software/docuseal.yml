@@ -9,12 +9,12 @@ platforms:
 tags:
   - Document Management
 demo_url: https://demo.docuseal.tech/
-stargazers_count: 11561
-updated_at: '2026-03-02'
+stargazers_count: 11569
+updated_at: '2026-03-09'
 archived: false
 current_release:
-  tag: 2.3.6
-  published_at: '2026-03-02'
+  tag: 2.3.7
+  published_at: '2026-03-09'
 commit_history:
   2025-04: 50
   2025-05: 76
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 53
   2026-01: 96
   2026-02: 79
-  2026-03: 4
+  2026-03: 16

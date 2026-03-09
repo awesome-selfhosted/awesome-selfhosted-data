@@ -1,0 +1,10 @@
+name: mini-agent
+website_url: https://github.com/miles990/mini-agent
+description: Perception-driven personal AI agent framework. Shell scripts define what the agent can see, Claude decides what to do. File-based memory (Markdown + JSON Lines), no database.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation
+source_code_url: https://github.com/miles990/mini-agent

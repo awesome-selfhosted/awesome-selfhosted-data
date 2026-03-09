@@ -1,0 +1,11 @@
+name: unified-support
+website_url: https://github.com/gambletan/unified-support
+source_code_url: https://github.com/gambletan/unified-support
+description: AI-native omnichannel customer support system that accepts messages from 19+ channels (Telegram, WhatsApp, WeChat, Discord, Slack, LINE, and more) via a single QR code, replies with AI using your knowledge base, and escalates to human agents when needed.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

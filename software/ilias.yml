@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/ILIAS-eLearning/ILIAS
 demo_url: https://demo.ilias.de
 stargazers_count: 472
-updated_at: '2026-03-09'
+updated_at: '2026-03-10'
 archived: false
 current_release:
-  tag: v10.5
-  published_at: '2026-01-20'
+  tag: v10.6
+  published_at: '2026-03-10'
 commit_history:
   2025-04: 230
   2025-05: 178
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 117
   2026-01: 178
   2026-02: 179
-  2026-03: 18
+  2026-03: 24

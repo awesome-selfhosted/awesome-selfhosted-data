@@ -10,11 +10,11 @@ tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/scality/cloudserver
 stargazers_count: 1909
-updated_at: '2026-03-05'
+updated_at: '2026-03-09'
 archived: false
 current_release:
-  tag: 9.2.29
-  published_at: '2026-03-05'
+  tag: 9.3.5
+  published_at: '2026-03-10'
 commit_history:
   2025-04: 41
   2025-05: 100
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 83
   2026-01: 100
   2026-02: 45
-  2026-03: 5
+  2026-03: 7

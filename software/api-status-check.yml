@@ -1,0 +1,12 @@
+name: API Status Check
+website_url: https://apistatuscheck.com/
+source_code_url: https://github.com/shibley/apistatuscheck
+description: Real-time status dashboard for 160+ third-party APIs including AI platforms (OpenAI, Anthropic), cloud providers (AWS, Vercel), payments (Stripe, PayPal), and developer tools (GitHub, Supabase). Includes embeddable badges.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Status / Uptime pages
+demo_url: https://apistatuscheck.com/
+depends_3rdparty: false

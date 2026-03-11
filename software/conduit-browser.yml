@@ -1,0 +1,11 @@
+name: Conduit
+website_url: https://github.com/bkauto3/Conduit
+description: Headless browser with SHA-256 hash chain and Ed25519 audit trails. Self-verifiable proof bundles, BFS crawler with robots.txt compliance, and MCP server for AI agents.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation
+source_code_url: https://github.com/bkauto3/Conduit

@@ -1,0 +1,12 @@
+name: Databasement
+website_url: https://github.com/David-Crty/databasement
+source_code_url: https://github.com/David-Crty/databasement
+description: Database backup management tool supporting MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, and Redis with scheduling, multiple storage backends, and cross-server restore.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Database Management
+demo_url: https://databasement-demo.crty.dev/

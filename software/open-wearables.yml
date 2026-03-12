@@ -1,11 +1,11 @@
 name: Open Wearables
 website_url: https://openwearables.io/
-description: Open-source platform that connects and unifies wearable data from multiple providers and enables AI-powered health insights through natural language automations
+description: Open-source platform that connects and unifies wearable data from multiple providers and enables AI-powered health insights through natural language automations.
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - health-and-fitness
+  - Health and Fitness
 source_code_url: https://github.com/the-momentum/open-wearables

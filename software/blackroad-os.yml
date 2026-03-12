@@ -1,0 +1,12 @@
+name: BlackRoad OS
+website_url: https://blackroad.io
+description: Edge AI operating system with fleet monitoring, self-healing infrastructure, and mesh networking for Raspberry Pi clusters.
+licenses:
+  - BUSL-1.1
+platforms:
+  - Shell
+  - Nodejs
+tags:
+  - Automation
+  - Internet of Things (IoT)
+source_code_url: https://github.com/blackboxprogramming/BlackRoad-Operating-System

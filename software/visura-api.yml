@@ -1,0 +1,11 @@
+name: Visura API
+website_url: https://github.com/zornade/visura-api
+description: REST API for automated Italian cadastral property record extraction (visure catastali) from the SISTER portal, using Playwright for browser automation with SPID authentication.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/zornade/visura-api

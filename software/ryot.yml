@@ -9,12 +9,12 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo
-stargazers_count: 3173
-updated_at: '2026-03-07'
+stargazers_count: 3176
+updated_at: '2026-03-13'
 archived: false
 current_release:
-  tag: v10.3.0
-  published_at: '2026-02-13'
+  tag: v10.3.6
+  published_at: '2026-03-13'
 commit_history:
   2025-04: 18
   2025-05: 24
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 19
   2026-01: 18
   2026-02: 29
-  2026-03: 7
+  2026-03: 20

@@ -1,0 +1,12 @@
+name: ISMS Builder
+website_url: https://github.com/coolstartnow/isms-builder
+source_code_url: https://github.com/coolstartnow/isms-builder
+description: "Information Security Management System (ISMS) for ISO 27001, NIS2, GDPR/DSGVO and BSI IT-Grundschutz. Policy lifecycle, risk register, SoA with 313 controls, asset management, supplier management, audit findings and local AI search via Ollama."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Node.js
+  - Docker
+demo_url: https://demo.isms-builder.de
+tags:
+  - Resource Planning

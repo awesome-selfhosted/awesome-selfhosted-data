@@ -1,0 +1,11 @@
+name: Learning Hub
+website_url: https://www.learninghub.cc
+source_code_url: https://github.com/genyk1p/learning-hub-mcp
+description: AI-powered learning assistant that manages game time rewards based on school grades, homework, and bonus tasks. Syncs with EduPage/PRONOTE.
+licenses:
+  - PolyForm-Noncommercial-1.0.0
+platforms:
+  - Python
+tags:
+  - Learning and Courses
+depends_3rdparty: true

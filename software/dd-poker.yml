@@ -1,0 +1,30 @@
+name: DD Poker
+website_url: https://www.ddpoker.com/
+description: Texas Hold'em poker game with a self-hostable multiplayer server and online portal.
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+tags:
+  - Games
+source_code_url: https://github.com/dougdonohoe/ddpoker
+stargazers_count: 205
+updated_at: '2026-03-11'
+archived: false
+current_release:
+  tag: 3.1.6
+  published_at: '2026-01-08'
+commit_history:
+  2025-03: 6
+  2025-04: 6
+  2025-05: 14
+  2025-06: 7
+  2025-07: 14
+  2025-08: 13
+  2025-09: 11
+  2025-10: 10
+  2025-11: 19
+  2025-12: 14
+  2026-01: 4
+  2026-02: 12
+  2026-03: 5

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/GhostWriters/DockSTARTer
-stargazers_count: 2546
-updated_at: '2026-03-10'
+stargazers_count: 2549
+updated_at: '2026-03-14'
 archived: false
 current_release:
-  tag: v1.20260301.1
-  published_at: '2026-03-01'
+  tag: v1.20260314.1
+  published_at: '2026-03-14'
 commit_history:
   2025-04: 10
   2025-05: 19
@@ -26,4 +26,4 @@ commit_history:
   2025-12: 23
   2026-01: 85
   2026-02: 9
-  2026-03: 1
+  2026-03: 6

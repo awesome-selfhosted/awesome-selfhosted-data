@@ -1,0 +1,12 @@
+name: Aqua News
+website_url: https://github.com/soubhik-ai/aqua-news
+description: News aggregator that clusters articles from multiple sources about the same story and visualizes editorial bias.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Feed Readers
+source_code_url: https://github.com/soubhik-ai/aqua-news

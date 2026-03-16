@@ -1,0 +1,10 @@
+name: TITAN
+website_url: https://github.com/Djtony707/TITAN
+source_code_url: https://github.com/Djtony707/TITAN
+description: Autonomous AI agent framework with 149 tools, 34 LLM providers, P2P mesh networking, WebRTC voice, RAG, MCP server mode, sandbox code execution, and React dashboard.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)

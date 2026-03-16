@@ -1,7 +1,7 @@
-name: "MKVPriority"
-website_url: "https://github.com/kennethsible/mkvpriority"
-source_code_url: "https://github.com/kennethsible/mkvpriority"
-description: "Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags."
+name: MKVPriority
+website_url: https://github.com/kennethsible/mkvpriority
+source_code_url: https://github.com/kennethsible/mkvpriority
+description: Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags.
 licenses:
   - MIT
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - Media Management
+stargazers_count: 58
+updated_at: '2026-03-14'
+archived: false
+current_release:
+  tag: v1.3.0
+  published_at: '2026-03-15'
+commit_history:
+  2026-01: 0
+  2026-02: 12
+  2026-03: 4

@@ -9,8 +9,8 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/maptiler/tileserver-gl
-stargazers_count: 2748
-updated_at: '2026-03-13'
+stargazers_count: 2751
+updated_at: '2026-03-16'
 archived: false
 current_release:
   tag: v5.6.0-pre.4
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 67
   2026-01: 48
   2026-02: 58
-  2026-03: 30
+  2026-03: 34

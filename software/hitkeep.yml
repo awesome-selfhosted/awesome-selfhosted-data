@@ -1,0 +1,12 @@
+name: HitKeep
+website_url: https://hitkeep.com/
+description: Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/pascalebeier/hitkeep
+demo_url: https://cloud.hitkeep.eu/signup

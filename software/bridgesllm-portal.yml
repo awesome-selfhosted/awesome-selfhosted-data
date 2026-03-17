@@ -1,0 +1,13 @@
+name: "BridgesLLM Portal"
+website_url: "https://bridgesllm.ai"
+source_code_url: "https://github.com/BridgesLLM-ai/portal"
+description: "Web-based AI workstation built on OpenClaw with multi-provider agent chat, sandboxed code execution, browser-based remote desktop, and project management. One-command installer."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: false

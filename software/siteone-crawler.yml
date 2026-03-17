@@ -1,0 +1,12 @@
+name: SiteOne Crawler
+website_url: https://crawler.siteone.io/
+source_code_url: https://github.com/janreges/siteone-crawler
+description: Website archiver and AI-ready markdown exporter with built-in HTTP serving, crawler, and auditor for SEO, security, performance, and accessibility with quality scoring and CI/CD gating.
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Archiving and Digital Preservation (DP)
+  - Analytics
+demo_url: https://crawler.siteone.io/examples-exports/netlify.com/

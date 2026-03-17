@@ -1,0 +1,14 @@
+name: "ties"
+website_url: "https://ties.pub"
+source_code_url: "https://github.com/raffomania/ties"
+description: "The federated bookmark manager."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Bookmarks and Link Sharing
+  - Archiving and Digital Preservation (DP)
+depends_3rdparty: false
+demo_url: "https://demo.ties.pub"

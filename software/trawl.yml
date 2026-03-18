@@ -1,0 +1,11 @@
+name: trawl
+website_url: https://github.com/udaykumar-dhokia/trawl
+source_code_url: https://github.com/udaykumar-dhokia/trawl
+description: On-Premise AI Powered Research Assistant with terminal interface, it brings deep-dive research capabilities directly to your command line.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

@@ -11,11 +11,11 @@ tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/esl/MongooseIM
 stargazers_count: 1732
-updated_at: '2026-03-13'
+updated_at: '2026-03-18'
 archived: false
 current_release:
-  tag: 6.5.0
-  published_at: '2025-12-08'
+  tag: 6.6.0
+  published_at: '2026-03-18'
 commit_history:
   2025-04: 70
   2025-05: 38
@@ -28,4 +28,4 @@ commit_history:
   2025-12: 108
   2026-01: 141
   2026-02: 115
-  2026-03: 35
+  2026-03: 42

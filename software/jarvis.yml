@@ -1,0 +1,11 @@
+name: "JARVIS"
+website_url: "https://github.com/hyhmrright/JARVIS"
+source_code_url: "https://github.com/hyhmrright/JARVIS"
+description: "AI assistant platform with LangGraph ReAct agent, RAG knowledge base, sandboxed tool execution, visual workflow studio, multi-tenant workspaces, and full-stack observability."
+licenses:
+  - "MIT"
+platforms:
+  - "Python"
+  - "Docker"
+tags:
+  - "Generative Artificial Intelligence (GenAI)"

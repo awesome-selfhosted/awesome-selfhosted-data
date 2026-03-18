@@ -1,0 +1,11 @@
+name: PingCRM
+website_url: https://github.com/sneg55/pingcrm
+description: AI-powered personal CRM with Gmail, Telegram, and Twitter sync, automatic interaction tracking, relationship scoring, and intelligent follow-up suggestions.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+source_code_url: https://github.com/sneg55/pingcrm

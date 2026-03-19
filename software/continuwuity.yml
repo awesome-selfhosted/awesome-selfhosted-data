@@ -8,6 +8,6 @@ platforms:
   - Rust
   - Docker
   - K8S
-  - Deb
+  - deb
 tags:
   - Communication - Custom Communication Systems

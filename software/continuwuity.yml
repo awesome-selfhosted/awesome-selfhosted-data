@@ -1,0 +1,13 @@
+name: "Continuwuity"
+website_url: "https://continuwuity.org/"
+source_code_url: "https://forgejo.ellis.link/continuwuation/continuwuity"
+description: "Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit)."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+  - K8S
+  - Deb
+tags:
+  - Communication - Custom Communication Systems

@@ -1,0 +1,11 @@
+name: Aegis
+description: Credential isolation proxy for AI agents that injects secrets at the network boundary with domain restrictions, agent authentication, and audit logging.
+website_url: https://github.com/getaegis/aegis
+source_code_url: https://github.com/getaegis/aegis
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - software-development-api-management

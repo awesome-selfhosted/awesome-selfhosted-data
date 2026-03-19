@@ -5,7 +5,6 @@ description: "Lightweight PDF library and reader."
 licenses:
   - Apache-2.0
 platforms:
-  - Rust
   - Docker
 tags:
   - Document Management - E-books

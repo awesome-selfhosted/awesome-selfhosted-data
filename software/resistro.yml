@@ -1,0 +1,11 @@
+name: "resistro"
+website_url: "https://resistro.org"
+source_code_url: "https://git.uuxo.net/UUXO/resistro"
+description: "Automated backup tool for PostgreSQL and MariaDB with AES-256 encryption, scheduling, retention policies, deduplication, and Prometheus metrics. Single binary, no agent required."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Backup
+demo_url: "https://cloud.resistro.org"

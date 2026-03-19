@@ -1,0 +1,11 @@
+name: SafeShare
+website_url: https://github.com/fjmerc/safeshare
+description: Ephemeral file sharing with configurable deployment modes from anonymous dead drop to enterprise file intake with malware scanning, E2E encryption, and auto-expiration.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/fjmerc/safeshare

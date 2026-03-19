@@ -1,0 +1,11 @@
+name: sE2EEnd
+website_url: https://github.com/sE2EEnd/sE2EEnd
+source_code_url: https://github.com/sE2EEnd/sE2EEnd
+description: End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

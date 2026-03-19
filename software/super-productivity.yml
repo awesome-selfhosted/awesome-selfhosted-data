@@ -5,7 +5,6 @@ description: Advanced todo list app with integrated timeboxing and time tracking
 licenses:
   - MIT
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Task Management & To-do Lists

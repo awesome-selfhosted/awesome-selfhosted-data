@@ -1,0 +1,12 @@
+name: "Ups"
+website_url: "https://ups.dev"
+source_code_url: "https://github.com/codenamev/ups"
+description: "Status page and incident management platform built with Rails 8 and SQLite."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Ruby
+  - Docker
+tags:
+  - Status / Uptime pages
+demo_url: "https://ups.dev/ups-dev"

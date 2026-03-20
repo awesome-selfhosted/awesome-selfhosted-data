@@ -9,12 +9,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/ovh/utask
-stargazers_count: 1365
-updated_at: '2026-03-17'
+stargazers_count: 1366
+updated_at: '2026-03-18'
 archived: false
 current_release:
-  tag: v1.33.3
-  published_at: '2025-09-02'
+  tag: v1.34.0
+  published_at: '2026-03-18'
 commit_history:
   2025-04: 3
   2025-05: 0
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 1
   2026-01: 1
   2026-02: 3
-  2026-03: 1
+  2026-03: 2

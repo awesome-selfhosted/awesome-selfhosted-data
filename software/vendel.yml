@@ -1,0 +1,12 @@
+name: Vendel
+website_url: https://vendel.cc
+description: SMS gateway platform for sending messages using registered Android devices or modems, with quota management, webhooks, and API key authentication.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/JimScope/vendel
+demo_url: https://app.vendel.cc

@@ -1,0 +1,12 @@
+name: Blik360
+website_url: https://www.blik360.com
+source_code_url: https://github.com/thijsdezoete/blik
+description: 360-degree feedback platform with token-based anonymity, research-backed questionnaires, and REST API (alternative to Lattice, Culture Amp).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Human Resources Management (HRM)
+demo_url: https://www.blik360.com/demo/

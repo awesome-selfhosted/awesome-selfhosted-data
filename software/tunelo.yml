@@ -1,0 +1,11 @@
+name: tunelo
+website_url: https://tunelo.net
+description: Expose localhost to the internet via QUIC tunnel. Single binary with built-in file server and web explorer for code, PDF, video, audio, and CSV preview.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Proxy
+source_code_url: https://github.com/jiweiyuan/tunelo

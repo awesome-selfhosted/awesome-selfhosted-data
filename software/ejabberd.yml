@@ -9,8 +9,8 @@ platforms:
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/processone/ejabberd
-stargazers_count: 6613
-updated_at: '2026-03-19'
+stargazers_count: 6614
+updated_at: '2026-03-20'
 archived: false
 current_release:
   tag: '26.02'
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 48
   2026-01: 74
   2026-02: 81
-  2026-03: 55
+  2026-03: 57

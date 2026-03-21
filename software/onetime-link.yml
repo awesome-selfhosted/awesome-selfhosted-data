@@ -1,0 +1,12 @@
+name: OneTimeLink
+website_url: https://onetimelink.me
+source_code_url: https://github.com/shingrus/onetime
+description: Zero-knowledge one-time secret sharing with end-to-end encryption in the browser (alternative to One Time Secret, Yopass).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://onetimelink.me

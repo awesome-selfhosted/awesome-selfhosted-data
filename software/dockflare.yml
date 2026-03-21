@@ -1,0 +1,12 @@
+name: DockFlare
+website_url: https://dockflare.app
+source_code_url: https://github.com/ChrispyBacon-dev/DockFlare
+description: Automates Cloudflare Tunnel routes, DNS records, and Access applications using Docker container labels, with a web UI for manual rule management and multi-host agent support.
+licenses:
+  - GPL-3.0-only
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation
+depends_3rdparty: true

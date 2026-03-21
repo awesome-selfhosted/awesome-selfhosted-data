@@ -1,0 +1,12 @@
+name: "DevToolBox"
+website_url: "https://usedevtools.com/"
+source_code_url: "https://github.com/Rih0z/devtoolbox"
+description: "Collection of 75+ developer utilities (encoding/decoding, JSON/data format conversion, CSS tools, hash generation, regex testing, network tools) with complete local processing and zero data transmission. Bilingual Japanese/English interface."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools
+demo_url: "https://usedevtools.com/"

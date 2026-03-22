@@ -1,0 +1,12 @@
+name: Notifuse
+website_url: https://www.notifuse.com
+source_code_url: https://github.com/Notifuse/notifuse
+description: Emailing platform for newsletters, transactional emails, and automations with visual email builder, campaign management, and analytics (alternative to Mailchimp, Resend).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+demo_url: https://demo.notifuse.com/console/signin?email=demo@notifuse.com

@@ -1,0 +1,12 @@
+name: Hydra Torrent
+website_url: https://github.com/DelCtrlAlt33/hydra-torrent
+description: Torrent client with automatic VPN kill switch, Plex auto-sorting, and RSS auto-download rules. Replaces
+qBittorrent + Sonarr + Radarr.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+repository_url: https://github.com/DelCtrlAlt33/hydra-torrent
+categories:
+  - File Transfer - Peer-to-peer Filesharing

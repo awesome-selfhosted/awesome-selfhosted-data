@@ -1,0 +1,11 @@
+name: EmitHQ
+website_url: https://emithq.com
+description: Webhook infrastructure platform for sending and receiving webhooks with Standard Webhooks signing, configurable retries, circuit breakers, and a real-time dashboard.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/Not-Another-Ai-Co/EmitHQ

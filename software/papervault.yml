@@ -1,0 +1,12 @@
+name: PaperVault
+website_url: https://papervault.xyz
+description: Store secrets on paper using threshold encryption with Shamir's Secret Sharing (alternative to metal seed plates, paper wallets).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Password Managers
+source_code_url: https://github.com/boazeb/papervault
+demo_url: https://app.papervault.xyz

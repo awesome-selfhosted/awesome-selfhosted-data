@@ -1,0 +1,10 @@
+name: Rapid-MLX
+website_url: https://github.com/raullenchai/Rapid-MLX
+source_code_url: https://github.com/raullenchai/Rapid-MLX
+description: OpenAI-compatible local LLM inference server optimized for Apple Silicon, 2-4x faster than Ollama. Supports tool calling, reasoning, vision, audio, and structured output.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

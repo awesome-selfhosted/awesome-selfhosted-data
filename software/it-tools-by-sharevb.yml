@@ -1,11 +1,21 @@
-name: "IT-Tools by sharevb"
-website_url: "https://github.com/sharevb/it-tools"
-source_code_url: "https://github.com/sharevb/it-tools"
-description: "Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools))."
+name: IT-Tools by sharevb
+website_url: https://github.com/sharevb/it-tools
+source_code_url: https://github.com/sharevb/it-tools
+description: Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools)).
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Miscellaneous
-demo_url: "https://sharevb-it-tools.vercel.app/"
+demo_url: https://sharevb-it-tools.vercel.app/
+stargazers_count: 1228
+updated_at: '2026-03-22'
+archived: false
+current_release:
+  tag: v2026.1.4
+  published_at: '2026-02-20'
+commit_history:
+  2026-01: 62
+  2026-02: 27
+  2026-03: 17

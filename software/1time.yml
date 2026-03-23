@@ -1,0 +1,15 @@
+name: 1time
+website_url: https://1time.io
+source_code_url: https://github.com/shingrus/1time
+description: >
+  Zero-knowledge one-time secret sharing with end-to-end encryption in the browser.
+  Secrets are encrypted client-side, never reach the server in plaintext, and can only
+  be viewed once.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://1time.io

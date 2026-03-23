@@ -7,7 +7,6 @@ licenses:
 platforms:
   - Go
   - Javascript
-  - C
 tags:
   - Bookmarks and Link Sharing
 depends_3rdparty: false

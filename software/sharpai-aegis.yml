@@ -1,0 +1,10 @@
+name: SharpAI Aegis
+website_url: https://sharpai.org
+description: AI-powered local NVR and security agent that uses VLMs and LLMs to provide scene understanding, smart alerts, and natural language interaction for IP cameras. Supports Blink, Ring, and any RTSP/ONVIF camera.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Video Surveillance
+source_code_url: https://github.com/SharpAI/DeepCamera

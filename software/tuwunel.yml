@@ -1,0 +1,24 @@
+name: Tuwunel
+website_url: https://tuwunel.chat
+source_code_url: https://github.com/matrix-construct/tuwunel
+description: High-performance and feature-rich chat server for Matrix, and the successor to conduwuit (fork of Conduit).
+licenses:
+  - Apache-2.0
+platforms:
+  - deb
+  - Docker
+  - Nix
+  - Rust
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://try.tuwunel.chat/
+stargazers_count: 1741
+updated_at: '2026-03-22'
+archived: false
+current_release:
+  tag: v1.5.1
+  published_at: '2026-03-07'
+commit_history:
+  2026-01: 132
+  2026-02: 112
+  2026-03: 97

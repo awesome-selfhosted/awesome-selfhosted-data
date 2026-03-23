@@ -11,15 +11,16 @@ tags:
   - Feed Readers
 depends_3rdparty: true
 demo_url: https://www.upvote-rss.com/
-stargazers_count: 464
-updated_at: '2025-09-22'
+stargazers_count: 473
+updated_at: '2026-03-13'
 archived: false
 current_release:
-  tag: v1.8.0
-  published_at: '2025-09-22'
+  tag: v1.8.1
+  published_at: '2026-03-13'
 commit_history:
   2025-10: 0
   2025-11: 0
   2025-12: 0
   2026-01: 0
   2026-02: 0
+  2026-03: 5

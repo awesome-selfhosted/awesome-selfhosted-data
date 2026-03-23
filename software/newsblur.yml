@@ -8,14 +8,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/samuelclay/NewsBlur
-stargazers_count: 7318
-updated_at: '2026-02-23'
+stargazers_count: 7381
+updated_at: '2026-03-22'
 archived: false
 current_release:
-  tag: Android_13.12.2
-  published_at: '2026-02-23'
+  tag: v0.1.0
+  published_at: '2026-03-17'
 commit_history:
-  2025-03: 13
   2025-04: 14
   2025-05: 8
   2025-06: 8
@@ -25,5 +24,6 @@ commit_history:
   2025-10: 199
   2025-11: 97
   2025-12: 146
-  2026-01: 335
-  2026-02: 311
+  2026-01: 370
+  2026-02: 499
+  2026-03: 513

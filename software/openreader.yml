@@ -1,6 +1,6 @@
-name: OpenReader WebUI
+name: OpenReader
 website_url: https://openreader.richardr.dev/
-source_code_url: https://github.com/richardr1126/OpenReader-WebUI
+source_code_url: https://github.com/richardr1126/openreader
 description: EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks.
 licenses:
   - MIT
@@ -9,15 +9,16 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://openreader.richardr.dev/
-stargazers_count: 278
-updated_at: '2026-01-24'
+stargazers_count: 295
+updated_at: '2026-03-19'
 archived: false
 current_release:
-  tag: v1.2.1
-  published_at: '2026-01-21'
+  tag: v2.1.0
+  published_at: '2026-03-19'
 commit_history:
   2025-10: 0
   2025-11: 47
   2025-12: 1
-  2026-01: 24
-  2026-02: 0
+  2026-01: 36
+  2026-02: 63
+  2026-03: 11

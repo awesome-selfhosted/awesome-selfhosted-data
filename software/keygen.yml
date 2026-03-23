@@ -8,14 +8,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/keygen-sh/keygen-api
-stargazers_count: 1331
-updated_at: '2026-02-17'
+stargazers_count: 1374
+updated_at: '2026-03-18'
 archived: false
 current_release:
   tag: v1.6.0
   published_at: '2026-01-12'
 commit_history:
-  2025-03: 57
   2025-04: 23
   2025-05: 75
   2025-06: 7
@@ -26,4 +25,5 @@ commit_history:
   2025-11: 18
   2025-12: 3
   2026-01: 100
-  2026-02: 24
+  2026-02: 125
+  2026-03: 24

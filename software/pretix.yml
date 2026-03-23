@@ -9,11 +9,10 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/pretix/pretix
-stargazers_count: 2333
-updated_at: '2026-02-23'
+stargazers_count: 2348
+updated_at: '2026-03-19'
 archived: false
 commit_history:
-  2025-03: 153
   2025-04: 80
   2025-05: 181
   2025-06: 105
@@ -24,4 +23,5 @@ commit_history:
   2025-11: 116
   2025-12: 82
   2026-01: 202
-  2026-02: 134
+  2026-02: 153
+  2026-03: 114

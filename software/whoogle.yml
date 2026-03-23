@@ -9,14 +9,13 @@ tags:
   - Search Engines
 source_code_url: https://github.com/benbusby/whoogle-search
 depends_3rdparty: true
-stargazers_count: 11368
+stargazers_count: 11416
 updated_at: '2025-12-29'
 archived: false
 current_release:
   tag: v1.2.2
   published_at: '2025-12-29'
 commit_history:
-  2025-03: 1
   2025-04: 0
   2025-05: 1
   2025-06: 0
@@ -28,3 +27,4 @@ commit_history:
   2025-12: 4
   2026-01: 0
   2026-02: 0
+  2026-03: 0

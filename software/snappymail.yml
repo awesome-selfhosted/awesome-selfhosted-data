@@ -9,7 +9,14 @@ tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/the-djmaze/snappymail
 demo_url: https://snappymail.eu/demo/
-related_software_url: "https://snappymail.eu/repository/v2/plugins/"
-stargazers_count: 1419
-updated_at: '2025-06-16'
+related_software_url: https://snappymail.eu/repository/v2/plugins/
+stargazers_count: 1555
+updated_at: '2026-03-11'
 archived: false
+current_release:
+  tag: v2.38.2
+  published_at: '2024-10-09'
+commit_history:
+  2026-01: 0
+  2026-02: 0
+  2026-03: 1

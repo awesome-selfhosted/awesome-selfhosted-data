@@ -9,15 +9,16 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins
-stargazers_count: 317
-updated_at: '2026-01-30'
+stargazers_count: 330
+updated_at: '2026-03-08'
 archived: false
 current_release:
-  tag: 0.0.8.1
-  published_at: '2025-10-28'
+  tag: 0.0.9
+  published_at: '2026-03-09'
 commit_history:
   2025-10: 46
   2025-11: 1
   2025-12: 31
   2026-01: 3
-  2026-02: 0
+  2026-02: 32
+  2026-03: 15

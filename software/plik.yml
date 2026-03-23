@@ -10,14 +10,13 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/root-gg/plik
 demo_url: https://plik.root.gg/
-stargazers_count: 1697
-updated_at: '2026-02-23'
+stargazers_count: 1718
+updated_at: '2026-03-22'
 archived: false
 current_release:
-  tag: 1.4-RC4
-  published_at: '2026-02-22'
+  tag: 1.4.1
+  published_at: '2026-03-08'
 commit_history:
-  2025-03: 0
   2025-04: 0
   2025-05: 0
   2025-06: 7
@@ -28,4 +27,5 @@ commit_history:
   2025-11: 0
   2025-12: 7
   2026-01: 0
-  2026-02: 204
+  2026-02: 274
+  2026-03: 188

@@ -1,0 +1,19 @@
+name: OpenHabitTracker
+website_url: https://openhabittracker.net
+source_code_url: https://github.com/Jinjinov/OpenHabitTracker
+description: Track habits, tasks and notes with time tracking, calendar view and completion statistics.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Task Management & To-do Lists
+  - Time Tracking
+demo_url: https://pwa.openhabittracker.net
+stargazers_count: 219
+updated_at: '2026-03-21'
+archived: false
+commit_history:
+  2026-01: 0
+  2026-02: 168
+  2026-03: 199

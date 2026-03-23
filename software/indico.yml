@@ -9,14 +9,13 @@ tags:
   - Conference Management
 source_code_url: https://github.com/indico/indico
 demo_url: https://sandbox.getindico.io/
-stargazers_count: 2026
-updated_at: '2026-02-19'
+stargazers_count: 2035
+updated_at: '2026-03-20'
 archived: false
 current_release:
-  tag: v3.3.10
-  published_at: '2026-02-17'
+  tag: v3.3.11
+  published_at: '2026-02-27'
 commit_history:
-  2025-03: 60
   2025-04: 25
   2025-05: 14
   2025-06: 42
@@ -27,4 +26,5 @@ commit_history:
   2025-11: 36
   2025-12: 41
   2026-01: 44
-  2026-02: 52
+  2026-02: 74
+  2026-03: 27

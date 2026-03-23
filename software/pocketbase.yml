@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/pocketbase/pocketbase
-stargazers_count: 56328
-updated_at: '2026-02-21'
+stargazers_count: 57019
+updated_at: '2026-03-16'
 archived: false
 current_release:
-  tag: v0.36.5
-  published_at: '2026-02-21'
+  tag: v0.36.7
+  published_at: '2026-03-16'
 commit_history:
-  2025-03: 51
   2025-04: 46
   2025-05: 13
   2025-06: 25
@@ -27,4 +26,5 @@ commit_history:
   2025-11: 29
   2025-12: 24
   2026-01: 29
-  2026-02: 20
+  2026-02: 33
+  2026-03: 16

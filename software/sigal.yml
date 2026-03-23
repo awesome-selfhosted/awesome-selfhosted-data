@@ -8,14 +8,13 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/saimn/sigal
-stargazers_count: 934
-updated_at: '2026-02-16'
+stargazers_count: 935
+updated_at: '2026-03-03'
 archived: false
 current_release:
   tag: '2.6'
   published_at: '2026-02-06'
 commit_history:
-  2025-03: 0
   2025-04: 1
   2025-05: 2
   2025-06: 0
@@ -27,3 +26,4 @@ commit_history:
   2025-12: 2
   2026-01: 0
   2026-02: 9
+  2026-03: 1

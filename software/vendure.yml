@@ -9,14 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/vendurehq/vendure
 demo_url: https://demo.vendure.io
-stargazers_count: 7931
-updated_at: '2026-02-23'
+stargazers_count: 7994
+updated_at: '2026-03-20'
 archived: false
 current_release:
-  tag: v3.5.4
-  published_at: '2026-02-17'
+  tag: v3.5.5
+  published_at: '2026-02-27'
 commit_history:
-  2025-03: 163
   2025-04: 147
   2025-05: 97
   2025-06: 117
@@ -27,4 +26,5 @@ commit_history:
   2025-11: 52
   2025-12: 56
   2026-01: 78
-  2026-02: 64
+  2026-02: 82
+  2026-03: 24

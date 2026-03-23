@@ -9,14 +9,15 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/seerr-team/seerr
-stargazers_count: 9707
-updated_at: '2026-02-23'
+stargazers_count: 10409
+updated_at: '2026-03-21'
 archived: false
 current_release:
-  tag: v3.0.1
-  published_at: '2026-02-14'
+  tag: v3.1.0
+  published_at: '2026-02-27'
 commit_history:
   2025-11: 14
   2025-12: 14
   2026-01: 29
-  2026-02: 62
+  2026-02: 77
+  2026-03: 43

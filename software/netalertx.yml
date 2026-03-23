@@ -1,10 +1,20 @@
-name: "NetAlertX"
-website_url: "https://netalertx.com/"
-source_code_url: "https://github.com/jokob-sk/NetAlertX"
-description: "Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found."
+name: NetAlertX
+website_url: https://netalertx.com/
+source_code_url: https://github.com/netalertx/NetAlertX
+description: Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Network Utilities
+stargazers_count: 5933
+updated_at: '2026-03-22'
+archived: false
+current_release:
+  tag: v26.3.15
+  published_at: '2026-03-14'
+commit_history:
+  2026-01: 335
+  2026-02: 203
+  2026-03: 125

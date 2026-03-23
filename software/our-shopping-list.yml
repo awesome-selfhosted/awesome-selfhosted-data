@@ -9,14 +9,13 @@ tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/nanawel/our-shopping-list
 demo_url: https://osl.lanterne-rouge.info/
-stargazers_count: 168
-updated_at: '2026-02-14'
+stargazers_count: 178
+updated_at: '2026-03-03'
 archived: false
 current_release:
-  tag: 4.1.2
-  published_at: '2026-02-14'
+  tag: 4.2.0
+  published_at: '2026-03-03'
 commit_history:
-  2025-03: 6
   2025-04: 3
   2025-05: 0
   2025-06: 12
@@ -27,4 +26,5 @@ commit_history:
   2025-11: 2
   2025-12: 0
   2026-01: 0
-  2026-02: 5
+  2026-02: 7
+  2026-03: 2

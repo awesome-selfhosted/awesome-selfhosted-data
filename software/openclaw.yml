@@ -1,0 +1,11 @@
+name: OpenClaw
+website_url: https://github.com/openclaw/openclaw
+source_code_url: https://github.com/openclaw/openclaw
+description: Personal AI assistant with persistent memory, tool use, and messaging channel integrations (Telegram, Discord, WhatsApp, Slack).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

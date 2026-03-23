@@ -1,0 +1,12 @@
+name: "MySigMail"
+website_url: "https://mysigmail.com/"
+source_code_url: "https://github.com/antonreshetov/mysigmail"
+description: "Email signature generator for Gmail, Outlook, Apple Mail, etc."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Vue
+  - TypeScript
+  - Nodejs
+tags:
+  - Miscellaneous

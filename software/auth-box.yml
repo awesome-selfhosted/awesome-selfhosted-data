@@ -1,0 +1,12 @@
+name: Auth Box
+website_url: https://authbox.io
+description: Zero-knowledge password manager using BIP-39 seed phrases. Deterministic password derivation, AI agent MCP credential gateway, import from 13 sources, 70+ API key providers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Go
+  - Docker
+tags:
+  - Password Managers
+source_code_url: https://github.com/MARUCIE/authbox

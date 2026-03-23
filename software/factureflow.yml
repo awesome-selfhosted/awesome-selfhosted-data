@@ -1,0 +1,11 @@
+name: FactureFlow
+website_url: https://github.com/AdrienTHOMAS/factureflow
+description: Free invoicing app for French auto-entrepreneurs. Compliant with French tax law (CGI art. 293B).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+demo_url: http://54.38.26.64:8091/demo
+source_code_url: https://github.com/AdrienTHOMAS/factureflow

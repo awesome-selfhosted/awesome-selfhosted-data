@@ -1,0 +1,12 @@
+name: Django-CRM
+website_url: https://bottlecrm.io
+source_code_url: https://github.com/MicroPyramid/Django-CRM
+demo_url: https://bottlecrm.io
+description: CRM for startups and small businesses with leads, contacts, accounts, opportunities, invoices, and multi-tenant architecture using PostgreSQL Row-Level Security.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)

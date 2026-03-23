@@ -1,0 +1,11 @@
+name: CloudHop
+website_url: https://github.com/ozymandiashh/cloudhop
+description: Visual cloud-to-cloud file transfer tool with live dashboard, pause/resume, presets, and scheduling. Supports 70+ providers via rclone (alternative to MultCloud, Cloudsfer).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://github.com/ozymandiashh/cloudhop

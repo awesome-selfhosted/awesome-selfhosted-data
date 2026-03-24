@@ -8,14 +8,13 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/elastic/elasticsearch
-stargazers_count: 76014
-updated_at: '2026-02-03'
+stargazers_count: 76407
+updated_at: '2026-03-23'
 archived: false
 current_release:
-  tag: v9.3.0
-  published_at: '2026-02-03'
+  tag: v9.3.2
+  published_at: '2026-03-19'
 commit_history:
-  2025-03: 754
   2025-04: 728
   2025-05: 530
   2025-06: 751
@@ -26,4 +25,5 @@ commit_history:
   2025-11: 634
   2025-12: 732
   2026-01: 751
-  2026-02: 83
+  2026-02: 874
+  2026-03: 906

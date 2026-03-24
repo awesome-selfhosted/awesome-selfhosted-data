@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/SimpleMachines/SMF
-stargazers_count: 693
-updated_at: '2026-01-31'
+stargazers_count: 710
+updated_at: '2026-03-21'
 archived: false
 current_release:
-  tag: v2.1.6
-  published_at: '2025-06-26'
+  tag: v2.1.7
+  published_at: '2026-03-08'
 commit_history:
-  2025-03: 143
   2025-04: 164
   2025-05: 118
   2025-06: 95
@@ -25,5 +24,6 @@ commit_history:
   2025-10: 86
   2025-11: 42
   2025-12: 0
-  2026-01: 67
-  2026-02: 0
+  2026-01: 68
+  2026-02: 62
+  2026-03: 33

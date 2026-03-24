@@ -9,14 +9,13 @@ platforms:
   - Nodejs
 tags:
   - Maps and Global Positioning System (GPS)
-stargazers_count: 858
-updated_at: '2026-02-01'
+stargazers_count: 955
+updated_at: '2026-03-21'
 archived: false
 current_release:
-  tag: v3.5.1
-  published_at: '2026-02-01'
+  tag: v3.7.5
+  published_at: '2026-03-21'
 commit_history:
-  2025-03: 7
   2025-04: 27
   2025-05: 13
   2025-06: 0
@@ -27,4 +26,5 @@ commit_history:
   2025-11: 21
   2025-12: 2
   2026-01: 66
-  2026-02: 4
+  2026-02: 31
+  2026-03: 26

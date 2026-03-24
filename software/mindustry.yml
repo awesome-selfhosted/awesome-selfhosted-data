@@ -8,14 +8,13 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/Anuken/Mindustry
-stargazers_count: 26427
-updated_at: '2026-02-03'
+stargazers_count: 26997
+updated_at: '2026-03-23'
 archived: false
 current_release:
-  tag: v154.3
-  published_at: '2025-12-21'
+  tag: v156
+  published_at: '2026-03-23'
 commit_history:
-  2025-03: 6
   2025-04: 256
   2025-05: 134
   2025-06: 78
@@ -26,4 +25,5 @@ commit_history:
   2025-11: 63
   2025-12: 149
   2026-01: 97
-  2026-02: 1
+  2026-02: 175
+  2026-03: 114

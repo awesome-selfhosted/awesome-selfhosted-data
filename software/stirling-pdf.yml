@@ -9,12 +9,12 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/Stirling-Tools/Stirling-PDF
-stargazers_count: 75707
-updated_at: '2026-03-23'
+stargazers_count: 75745
+updated_at: '2026-03-24'
 archived: false
 current_release:
-  tag: v2.7.3
-  published_at: '2026-03-19'
+  tag: v2.8.0
+  published_at: '2026-03-24'
 commit_history:
   2025-04: 119
   2025-05: 95
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 119
   2026-01: 131
   2026-02: 102
-  2026-03: 89
+  2026-03: 98

@@ -5,8 +5,6 @@ description: "Modern drag-and-drop homelab dashboard with visual editor and simp
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
-  - Nodejs
   - Docker
 tags:
   - Personal Dashboards

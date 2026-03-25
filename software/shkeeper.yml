@@ -9,12 +9,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://github.com/vsys-host/shkeeper.io?tab=readme-ov-file#11-demo
-stargazers_count: 538
-updated_at: '2026-03-11'
+stargazers_count: 542
+updated_at: '2026-03-23'
 archived: false
 current_release:
-  tag: v2.5.9
-  published_at: '2026-03-12'
+  tag: v2.5.11
+  published_at: '2026-03-23'
 commit_history:
   2025-04: 2
   2025-05: 3
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 24
   2026-01: 13
   2026-02: 12
-  2026-03: 2
+  2026-03: 6

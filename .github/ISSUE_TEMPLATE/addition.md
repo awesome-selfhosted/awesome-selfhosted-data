@@ -32,7 +32,7 @@ platforms:
   - Python
   - PHP
   - Nodejs
-  - Deb
+  - deb
   - Docker
 # list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:

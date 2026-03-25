@@ -1,7 +1,7 @@
 name: "Betula"
 website_url: "https://betula.mycorrhiza.wiki"
 source_code_url: "https://codeberg.org/bouncepaw/betula"
-description: "A self-hosted federated bookmark manager."
+description: "Single-user federated bookmark manager with Fediverse support and archives."
 licenses:
   - AGPL-3.0
 platforms:

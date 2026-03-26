@@ -1,0 +1,10 @@
+name: Locally Uncensored
+website_url: https://github.com/PurpleDoubleD/locally-uncensored
+source_code_url: https://github.com/PurpleDoubleD/locally-uncensored
+description: All-in-one local AI app with chat via Ollama, image generation via ComfyUI, and video generation via Wan/AnimateDiff. Features 25+ personas, model manager, dark/light mode.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)

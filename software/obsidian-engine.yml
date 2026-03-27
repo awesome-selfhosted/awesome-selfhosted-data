@@ -1,0 +1,12 @@
+name: Obsidian Engine
+website_url: https://github.com/Drogon4231/obsidian-engine
+source_code_url: https://github.com/Drogon4231/obsidian-engine
+description: AI video pipeline that generates full YouTube videos from a single topic — research, script, narration, visuals, and upload.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

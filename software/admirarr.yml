@@ -1,0 +1,11 @@
+name: Admirarr
+website_url: https://github.com/maxtechera/admirarr
+description: Unified CLI for Jellyfin/Plex + *Arr stacks — deploy, configure, diagnose, and operate an entire media server fleet. Single binary with 26 commands, JSON output everywhere, and SKILL.md for AI agent integration.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Media Management
+  - Automation
+source_code_url: https://github.com/maxtechera/admirarr

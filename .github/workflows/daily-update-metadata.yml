@@ -17,6 +17,7 @@ jobs:
   update-metadata:
     if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: actions/checkout@v6
       - run: make install

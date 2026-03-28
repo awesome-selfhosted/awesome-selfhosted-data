@@ -1,0 +1,11 @@
+name: TradeClaw
+website_url: https://github.com/naimkatiman/tradeclaw
+description: AI trading signal platform with RSI/MACD/EMA confluence scoring, real-time signals for 10+ assets, and interactive signal cards.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/naimkatiman/tradeclaw

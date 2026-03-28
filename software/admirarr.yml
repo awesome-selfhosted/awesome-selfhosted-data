@@ -1,0 +1,10 @@
+name: Admirarr
+website_url: https://github.com/maxtechera/admirarr
+description: Unified CLI for Jellyfin/Plex + Radarr + Sonarr + Prowlarr + qBittorrent stacks. One binary, zero dependencies, JSON output. Includes setup, diagnostics, library management, and AI agent integration via SKILL.md.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Media Management
+source_code_url: https://github.com/maxtechera/admirarr

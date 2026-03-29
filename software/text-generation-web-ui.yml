@@ -1,0 +1,11 @@
+name: Text generation web UI
+website_url: https://github.com/oobabooga/text-generation-webui
+source_code_url: https://github.com/oobabooga/text-generation-webui
+description: Web interface for running Large Language Models locally, with support for text generation, vision, tool-calling, training and an OpenAI-compatible API.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

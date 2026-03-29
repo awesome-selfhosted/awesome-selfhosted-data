@@ -1,0 +1,11 @@
+name: CueAPI
+website_url: https://cueapi.ai
+source_code_url: https://github.com/cueapi/cueapi-core
+description: Execution accountability and scheduling infrastructure for AI agents. Tracks whether agents succeeded or failed, with retries and alerts.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation

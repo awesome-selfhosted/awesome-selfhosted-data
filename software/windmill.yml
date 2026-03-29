@@ -1,0 +1,13 @@
+name: Windmill
+website_url: https://windmill.dev
+source_code_url: https://github.com/windmill-labs/windmill
+description: Open-source platform to build internal tools from scripts, turning them into auto-generated UIs, APIs and cron jobs, composable as workflows or data pipelines.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Automation
+  - Software Development - Low Code
+demo_url: https://app.windmill.dev/user/login

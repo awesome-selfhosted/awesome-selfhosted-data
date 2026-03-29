@@ -1,7 +1,7 @@
 name: "MyTube"
 website_url: "https://github.com/franklioxygen/MyTube"
 source_code_url: "https://github.com/franklioxygen/MyTube"
-description: "Self-hosted downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization."
+description: "Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization."
 licenses:
   - MIT
 platforms:

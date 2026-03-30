@@ -1,0 +1,12 @@
+name: WooTTY
+website_url: https://github.com/icoretech/wootty
+description: Browser-based terminal with session resume, reconnect safety, and Kubernetes-ready deployment. (alternative to gotty, WeTTy, ttyd).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Remote Access
+source_code_url: https://github.com/icoretech/wootty

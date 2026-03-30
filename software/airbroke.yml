@@ -1,0 +1,12 @@
+name: Airbroke
+website_url: https://airbroke.icorete.ch
+description: Lightweight, Airbrake/Sentry-compatible, PostgreSQL-based error catcher with built-in MCP server. (alternative to Errbit).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Software Development - Testing
+source_code_url: https://github.com/icoretech/airbroke

@@ -1,0 +1,10 @@
+name: TeamSpace
+website_url: https://github.com/Yuusuke9228/groupware
+source_code_url: https://github.com/Yuusuke9228/groupware
+description: Work platform with schedules, workflow approvals, kanban tasks, daily reports, and web database apps.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Groupware

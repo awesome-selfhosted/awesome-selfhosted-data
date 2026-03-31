@@ -1,0 +1,15 @@
+diff --git a/software/forward-email.yml b/software/forward-email.yml
+index 1265ff2..4404b65 100644
+--- a/software/forward-email.yml
++++ b/software/forward-email.yml
+@@ -1,9 +1,8 @@
+ name: Forward Email
+ website_url: https://forwardemail.net
+ source_code_url: https://github.com/forwardemail/forwardemail.net
+-description: Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid.
++description: Privacy-focused encrypted email service with IMAP, POP3, SMTP, and email forwarding for custom domains (alternative to Gmail, Proton Mail, Sendgrid).
+ licenses:
+-  - BUSL-1.1
+   - MPL-2.0
+ platforms:
+   - Nodejs

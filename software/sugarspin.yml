@@ -1,0 +1,9 @@
+name: SugarSpin
+website_url: https://sugarspin.hotdang.studio
+description: Self-hosted music streaming server with a Spotify-like interface, auto-detection setup wizard, and smart library repair tools.
+licenses:
+  - "⊘ Proprietary"
+  platforms:
+    - Nodejs
+    tags:
+      - Media Streaming - Audio Streaming

@@ -1,0 +1,10 @@
+name: Super Productivity
+website_url: https://super-productivity.com
+source_code_url: https://github.com/johannesjo/super-productivity
+description: Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Task Management & To-do Lists

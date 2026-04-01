@@ -1,7 +1,7 @@
-name: "Hook0"
-website_url: "https://www.hook0.com"
-source_code_url: "https://gitlab.com/hook0/hook0"
-description: "Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free."
+name: Hook0
+website_url: https://www.hook0.com
+source_code_url: https://gitlab.com/hook0/hook0
+description: Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free.
 licenses:
   - SSPL-1.0
 platforms:
@@ -10,3 +10,9 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
+stargazers_count: 15
+updated_at: '2026-03-27'
+archived: false
+current_release:
+  tag: v1.0.0-alpha.3
+  published_at: '2026-02-19'

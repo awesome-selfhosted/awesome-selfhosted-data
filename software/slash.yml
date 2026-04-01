@@ -1,6 +1,6 @@
 name: Slash
-website_url: https://github.com/boojack/slash
-source_code_url: https://github.com/boojack/slash
+website_url: https://github.com/yourselfhosted/slash
+source_code_url: https://github.com/yourselfhosted/slash
 description: An open source, self-hosted bookmarks and link sharing platform.
 licenses:
   - GPL-3.0
@@ -8,6 +8,22 @@ platforms:
   - Docker
 tags:
   - Bookmarks and Link Sharing
-stargazers_count: 2908
-updated_at: '2025-08-18'
+stargazers_count: 3114
+updated_at: '2025-12-22'
 archived: false
+current_release:
+  tag: v0.5.3
+  published_at: '2024-02-06'
+commit_history:
+  2025-04: 23
+  2025-05: 24
+  2025-06: 6
+  2025-07: 0
+  2025-08: 12
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 9
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0

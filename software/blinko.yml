@@ -7,7 +7,23 @@ platforms:
   - Docker
 tags:
   - Note-taking & Editors
-source_code_url: https://github.com/blinko-space/blinko
-stargazers_count: 5619
-updated_at: '2025-08-11'
+source_code_url: https://github.com/blinkospace/blinko
+stargazers_count: 9915
+updated_at: '2026-03-25'
 archived: false
+current_release:
+  tag: 1.8.6
+  published_at: '2026-03-16'
+commit_history:
+  2025-04: 77
+  2025-05: 71
+  2025-06: 56
+  2025-07: 41
+  2025-08: 41
+  2025-09: 117
+  2025-10: 20
+  2025-11: 13
+  2025-12: 45
+  2026-01: 41
+  2026-02: 10
+  2026-03: 26

@@ -1,5 +1,5 @@
 name: Black Candy
-website_url: https://github.com/blackcandy-org/black_candy
+website_url: https://github.com/blackcandy-org/blackcandy
 description: Music streaming server.
 licenses:
   - MIT
@@ -8,7 +8,23 @@ platforms:
   - Ruby
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/blackcandy-org/black_candy
-stargazers_count: 3871
-updated_at: '2025-07-09'
+source_code_url: https://github.com/blackcandy-org/blackcandy
+stargazers_count: 4171
+updated_at: '2026-03-17'
 archived: false
+current_release:
+  tag: v3.1.0
+  published_at: '2025-06-18'
+commit_history:
+  2025-04: 5
+  2025-05: 3
+  2025-06: 15
+  2025-07: 20
+  2025-08: 0
+  2025-09: 0
+  2025-10: 6
+  2025-11: 0
+  2025-12: 2
+  2026-01: 4
+  2026-02: 1
+  2026-03: 9

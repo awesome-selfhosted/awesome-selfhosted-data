@@ -11,7 +11,7 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] `Demo` links should only be used for interactive demos, i.e. not video demonstrations. If login credentials are required to access the demo, please link to the credentials directly.
 - [ ] Comments and unused optional fields have been removed.
 - [ ] The file you are adding uses [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) file naming, for example `my-awesome-software.yml`.
-- [ ] Values for `platform` are the main **server-side** requirements for the software. Don't include frameworks or specific dialects.
+- [ ] Values for `platform` should match the platforms required to install and run the software.
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding was first released more than 4 months ago.
 - [ ] Any software project you are adding has working installation instructions.

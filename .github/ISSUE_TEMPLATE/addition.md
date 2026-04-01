@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- DO NOT DELETE THE TEXT BELOW . Please make sure relevant boxes are checked [x] -->
+
 Thanks for taking the time to suggest an addition to awesome-selfhosted! 
 
 Please fill out information below (all fields are mandatory unless noted otherwise):
@@ -30,7 +32,7 @@ platforms:
   - Python
   - PHP
   - Nodejs
-  - Deb
+  - deb
   - Docker
 # list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:

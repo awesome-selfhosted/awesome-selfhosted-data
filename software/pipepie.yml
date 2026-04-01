@@ -1,0 +1,12 @@
+name: Pipepie
+website_url: https://github.com/pipepie/pipepie
+source_code_url: https://github.com/pipepie/pipepie
+description: Encrypted tunnel for exposing localhost with end-to-end Noise encryption, webhook inspection, AI pipeline tracing, and web dashboard (alternative to ngrok, Cloudflare Tunnel).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Web Servers
+  - Remote Access

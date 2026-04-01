@@ -1,0 +1,11 @@
+name: Librarr
+website_url: https://github.com/JeremiahM37/librarr
+description: Book, audiobook, and manga search and download manager that aggregates 13 sources (Anna's Archive, AudioBookBay, MangaDex, Open Library, and more), with Torznab/OPDS APIs, request workflow, and auto-import into Calibre/Audiobookshelf/Kavita.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/JeremiahM37/librarr

@@ -1,0 +1,12 @@
+name: AegisFlow
+website_url: https://github.com/saivedant169/AegisFlow
+source_code_url: https://github.com/saivedant169/AegisFlow
+description: AI gateway that routes LLM traffic across multiple providers with a policy engine, canary rollouts, and a real-time dashboard.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+  - Go
+tags:
+  - Generative Artificial Intelligence (GenAI)

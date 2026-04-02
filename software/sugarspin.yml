@@ -1,6 +1,6 @@
 name: SugarSpin
 website_url: https://sugarspin.hotdang.studio
-description: Self-hosted music streaming server with one-command Docker install, setup wizard, and smart library repair tools.
+description: Self-hosted music streaming server with a Spotify-like interface, auto-detection setup wizard, and smart library repair tools.
 licenses:
   - ⊘ Proprietary
 platforms:

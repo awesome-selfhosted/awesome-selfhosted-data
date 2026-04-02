@@ -1,0 +1,10 @@
+name: Open WebUI Ultimate Stack
+website_url: https://github.com/BitWise-0x/open-webui-ultimate-stack
+source_code_url: https://github.com/BitWise-0x/open-webui-ultimate-stack
+description: Production-ready Docker stack for Open WebUI with 35+ pre-built tools/filters/pipelines, RAG (pgvector), private search (SearXNG), OCR, TTS, and ComfyUI workflows. Includes a curated tool library pushed automatically on every deploy.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

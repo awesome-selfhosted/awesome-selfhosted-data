@@ -1,0 +1,12 @@
+name: DropMind
+website_url: https://github.com/oldany/dropmind
+description: Minimal self-hosted tool to capture and store anything instantly with no upfront organization.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Bookmarks
+  - Note-taking
+  - Productivity
+source_code_url: https://github.com/oldany/dropmind

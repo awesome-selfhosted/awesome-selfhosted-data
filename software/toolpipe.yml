@@ -1,0 +1,10 @@
+name: ToolPipe
+website_url: https://toolpipe.dev
+source_code_url: https://github.com/Aldric-Core/toolpipe-mcp-server
+description: Developer utility API with 55+ endpoints for QR codes, text analysis, PDF processing, image manipulation, DNS lookup, hashing, UUID generation, base64 encoding, JSON/CSV conversion, and markdown rendering.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous

@@ -1,0 +1,13 @@
+name: HookProbe
+website_url: https://hookprobe.com
+source_code_url: https://github.com/hookprobe/hookprobe
+description: AI-native intrusion detection system with eBPF/XDP kernel-level packet filtering and ML-based threat classification, designed for edge deployment on Raspberry Pi.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+  - C
+tags:
+  - Network Utilities
+demo_url: https://mssp.hookprobe.com/?site=demo-site

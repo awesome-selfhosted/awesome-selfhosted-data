@@ -1,0 +1,11 @@
+name: "Duptator"
+website_url: "https://github.com/tommie0079/Duptator"
+source_code_url: "https://github.com/tommie0079/Duptator"
+description: "Web-based Docker package updater that scans, updates and rolls back dependencies across Docker Compose projects. Supports pip, npm, Composer, Go, Cargo, Maven, Gradle, NuGet, Bundler and Docker images."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Self-hosting Solutions

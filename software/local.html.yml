@@ -1,0 +1,12 @@
+name: "local.html"
+website_url: "https://sr.ht/~espen/local.html"
+source_code_url: "https://git.sr.ht/~espen/local.html"
+description: "Social feed without servers: a client-side crawler that builds a timeline by following rel=friend links between ordinary URLs. No accounts, no federation, no backend. Just HTML pages and a browser building the graph locally."
+licenses:
+  - GPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Communication - Social Networks and Forums
+depends_3rdparty: false
+demo_url: "https://lofihi.fi/app/local.html"

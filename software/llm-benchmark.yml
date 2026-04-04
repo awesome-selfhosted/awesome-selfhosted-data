@@ -1,0 +1,14 @@
+name: LLM Benchmark
+website_url: https://github.com/chuangyiyongxian/llm-benchmark
+source_code_url: https://github.com/chuangyiyongxian/llm-benchmark
+description: Benchmark, monitor, and compare LLM API providers with configurable concurrency, real-time metrics (latency, TTFT, throughput), and a 24h health dashboard.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 2
+updated_at: '2026-04-04'
+archived: false

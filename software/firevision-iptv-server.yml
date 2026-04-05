@@ -1,0 +1,12 @@
+name: FireVision IPTV Server
+website_url: https://github.com/akshaynikhare/FireVisionIPTVServer
+description: Self-hosted IPTV channel management platform with admin panel, EPG integration, TV device pairing, and multi-user role-based access.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+source_code_url: https://github.com/akshaynikhare/FireVisionIPTVServer
+related_software_url: https://github.com/akshaynikhare/FireVisionIPTV

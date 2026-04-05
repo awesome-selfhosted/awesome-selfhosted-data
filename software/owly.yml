@@ -1,0 +1,11 @@
+name: Owly
+website_url: https://github.com/Hesper-Labs/owly
+description: AI-powered customer support agent with multi-channel support (WhatsApp, Email, Phone). Features knowledge base, ticket system, CRM, automation rules, and analytics dashboard.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Ticketing
+source_code_url: https://github.com/Hesper-Labs/owly

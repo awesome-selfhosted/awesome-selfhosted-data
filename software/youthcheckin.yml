@@ -1,15 +1,12 @@
-# software name
-name: "YouthCheckIn"
-website_url: "https://youthcheckin.net"
-source_code_url: "https://github.com/mrcrunchybeans/youthcheckin"
-description: "Self-hosted check-in and check-out system for youth programs, featuring family management, authorized pickup controls, kiosk mode, QR-based checkout, event tracking, and custom branding."
+name: YouthCheckIn
+website_url: https://youthcheckin.net
+source_code_url: https://github.com/mrcrunchybeans/youth-secure-checkin
+description: Self-hosted check-in and check-out system for youth programs, featuring family management, authorized pickup controls, kiosk mode, QR-based checkout, event tracking, and custom branding. Demo login: demo123
 licenses:
   - MIT
 platforms:
   - Python
   - Docker
 tags:
-  - Calendar & Contacts
-  - Miscellaneous
-depends_3rdparty: false
-demo_url: "https://demo.youthcheckin.net"
+  - Booking and Scheduling
+demo_url: https://demo.youthcheckin.net

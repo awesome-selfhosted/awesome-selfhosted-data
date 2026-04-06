@@ -1,5 +1,5 @@
 name: Kutt
-website_url: https://kutt.it
+website_url: https://kutt.to
 source_code_url: https://github.com/thedevs-network/kutt
 description: Modern URL shortener with support for custom domains and custom URLs.
 licenses:
@@ -9,15 +9,23 @@ platforms:
   - Docker
 tags:
   - URL Shorteners
-demo_url: https://kutt.it
-stargazers_count: 10303
-updated_at: '2025-11-23'
+demo_url: https://kutt.to
+stargazers_count: 10680
+updated_at: '2026-02-27'
 archived: false
 current_release:
   tag: v3.2.3
   published_at: '2025-02-06'
 commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
-  2025-11: 1
+  2025-11: 2
+  2025-12: 0
+  2026-01: 0
+  2026-02: 1
+  2026-03: 0
+  2026-04: 0

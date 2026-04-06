@@ -1,0 +1,21 @@
+name: Sure
+website_url: https://github.com/we-promise/sure
+description: Personal finance application for everyone (fork of Maybe).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/we-promise/sure
+stargazers_count: 7612
+updated_at: '2026-04-02'
+archived: false
+current_release:
+  tag: v0.6.9
+  published_at: '2026-03-31'
+commit_history:
+  2026-01: 303
+  2026-02: 142
+  2026-03: 140
+  2026-04: 7

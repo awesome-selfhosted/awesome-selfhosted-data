@@ -1,6 +1,6 @@
 name: Receipt Wrangler
 website_url: https://receiptwrangler.io
-source_code_url: https://github.com/Receipt-Wrangler/receipt-wrangler-api
+source_code_url: https://github.com/Receipt-Wrangler/receipt-wrangler
 description: Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more.
 licenses:
   - AGPL-3.0
@@ -10,14 +10,22 @@ tags:
   - Money, Budgeting & Management
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
-stargazers_count: 168
-updated_at: '2025-10-28'
+stargazers_count: 209
+updated_at: '2026-04-02'
 archived: false
 current_release:
-  tag: v6.6.1
-  published_at: '2025-10-06'
+  tag: v6.7.0
+  published_at: '2026-01-05'
 commit_history:
+  2025-05: 14
+  2025-06: 1
+  2025-07: 3
   2025-08: 20
   2025-09: 84
   2025-10: 11
   2025-11: 0
+  2025-12: 2
+  2026-01: 50
+  2026-02: 0
+  2026-03: 59
+  2026-04: 18

@@ -7,17 +7,25 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - Django
+  - Python
 tags:
   - Money, Budgeting & Management
-stargazers_count: 558
-updated_at: '2025-11-24'
+stargazers_count: 828
+updated_at: '2026-03-02'
 archived: false
 current_release:
-  tag: 0.18.0
-  published_at: '2025-11-24'
+  tag: 0.20.0
+  published_at: '2026-03-02'
 commit_history:
+  2025-05: 13
+  2025-06: 49
+  2025-07: 69
   2025-08: 134
   2025-09: 79
   2025-10: 41
-  2025-11: 48
+  2025-11: 55
+  2025-12: 116
+  2026-01: 61
+  2026-02: 31
+  2026-03: 3
+  2026-04: 0

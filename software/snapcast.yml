@@ -1,5 +1,5 @@
 name: Snapcast
-website_url: https://github.com/badaix/snapcast
+website_url: https://github.com/snapcast/snapcast
 description: Synchronous multiroom audio server.
 licenses:
   - GPL-3.0
@@ -8,15 +8,23 @@ platforms:
   - deb
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/badaix/snapcast
-stargazers_count: 7207
-updated_at: '2025-11-24'
+source_code_url: https://github.com/snapcast/snapcast
+stargazers_count: 7543
+updated_at: '2026-03-08'
 archived: false
 current_release:
-  tag: v0.34.0
-  published_at: '2025-10-03'
+  tag: v0.35.0
+  published_at: '2026-03-10'
 commit_history:
+  2025-05: 2
+  2025-06: 59
+  2025-07: 21
   2025-08: 24
   2025-09: 53
   2025-10: 5
   2025-11: 11
+  2025-12: 11
+  2026-01: 0
+  2026-02: 6
+  2026-03: 10
+  2026-04: 0

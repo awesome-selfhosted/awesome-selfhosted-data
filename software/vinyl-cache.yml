@@ -1,0 +1,12 @@
+name: Vinyl Cache
+website_url: https://vinyl-cache.org/
+source_code_url: https://code.vinyl-cache.org/vinyl-cache/vinyl-cache
+description: Web application accelerator/caching HTTP reverse proxy (formerly Varnish).
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Go
+  - deb
+  - Docker
+tags:
+  - Web Servers

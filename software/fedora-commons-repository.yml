@@ -8,14 +8,22 @@ platforms:
 tags:
   - Document Management - Institutional Repository and Digital Library Software
 source_code_url: https://github.com/fcrepo/fcrepo
-stargazers_count: 230
-updated_at: '2025-11-25'
+stargazers_count: 245
+updated_at: '2026-03-31'
 archived: false
 current_release:
-  tag: fcrepo-6.5.1
-  published_at: '2025-01-16'
+  tag: fcrepo-7.0.0-RC1
+  published_at: '2026-03-31'
 commit_history:
+  2025-05: 12
+  2025-06: 9
+  2025-07: 5
   2025-08: 7
   2025-09: 3
   2025-10: 7
   2025-11: 3
+  2025-12: 4
+  2026-01: 16
+  2026-02: 8
+  2026-03: 11
+  2026-04: 0

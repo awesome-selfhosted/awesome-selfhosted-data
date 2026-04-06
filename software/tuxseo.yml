@@ -6,20 +6,27 @@ licenses:
   - MIT
 platforms:
   - Python
-  - Django
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)
   - Blogging Platforms
 depends_3rdparty: true
-stargazers_count: 31
-updated_at: '2025-11-23'
+stargazers_count: 52
+updated_at: '2026-03-19'
 archived: false
 current_release:
-  tag: 0.0.8
-  published_at: '2025-11-23'
+  tag: 0.0.9
+  published_at: '2026-03-05'
 commit_history:
+  2025-05: 65
+  2025-06: 55
+  2025-07: 4
   2025-08: 79
   2025-09: 64
   2025-10: 101
-  2025-11: 104
+  2025-11: 109
+  2025-12: 15
+  2026-01: 1
+  2026-02: 13
+  2026-03: 128
+  2026-04: 0

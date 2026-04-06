@@ -1,0 +1,30 @@
+name: Reaparr
+website_url: https://www.reaparr.rocks/
+source_code_url: https://github.com/Reaparr/Reaparr
+description: Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true
+stargazers_count: 623
+updated_at: '2026-04-01'
+archived: false
+current_release:
+  tag: v0.37.0
+  published_at: '2026-03-31'
+commit_history:
+  2025-05: 32
+  2025-06: 99
+  2025-07: 81
+  2025-08: 133
+  2025-09: 128
+  2025-10: 88
+  2025-11: 150
+  2025-12: 163
+  2026-01: 77
+  2026-02: 244
+  2026-03: 295
+  2026-04: 18

@@ -1,0 +1,24 @@
+name: gocron
+website_url: https://github.com/flohoss/gocron
+source_code_url: https://github.com/flohoss/gocron
+description: Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Automation
+stargazers_count: 537
+updated_at: '2026-04-02'
+archived: false
+current_release:
+  tag: v0.9.8
+  published_at: '2026-03-18'
+commit_history:
+  2025-10: 27
+  2025-11: 14
+  2025-12: 2
+  2026-01: 13
+  2026-02: 7
+  2026-03: 9
+  2026-04: 4

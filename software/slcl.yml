@@ -1,0 +1,10 @@
+name: slcl
+website_url: https://gitea.privatedns.org/xavi/slcl
+description: Simple and lightweight web cloud storage.
+licenses:
+  - AGPL-3.0
+platforms:
+  - C
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://codeberg.org/xavidcr/slcl

@@ -1,13 +1,29 @@
 name: Picsur
 website_url: https://github.com/CaramelFur/Picsur
-description: A simple imaging hosting platform that allows you to easily host, edit, and share images.
+description: Simple imaging hosting platform that allows you to easily host, edit, and share images.
 licenses:
-  - GPL-3.0
+  - AGPL-3.0
 platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/CaramelFur/Picsur
-stargazers_count: 1009
-updated_at: '2024-11-13'
+stargazers_count: 1222
+updated_at: '2025-10-12'
 archived: false
+current_release:
+  tag: 0.5.6
+  published_at: '2024-11-01'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 1
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

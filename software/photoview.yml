@@ -1,6 +1,6 @@
 name: Photoview
 website_url: https://photoview.github.io/
-description: A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos.
+description: Simple and user-friendly photo gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,23 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/photoview/photoview
-stargazers_count: 5855
-updated_at: '2025-04-28'
+demo_url: https://photoview.github.io/
+stargazers_count: 6391
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: v2.4.0
+  published_at: '2024-06-23'
+commit_history:
+  2025-05: 10
+  2025-06: 14
+  2025-07: 18
+  2025-08: 17
+  2025-09: 15
+  2025-10: 6
+  2025-11: 10
+  2025-12: 8
+  2026-01: 1
+  2026-02: 8
+  2026-03: 12
+  2026-04: 1

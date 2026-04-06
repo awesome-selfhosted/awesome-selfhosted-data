@@ -1,6 +1,6 @@
 name: beelzebub
 website_url: https://beelzebub-honeypot.com/
-source_code_url: https://github.com/mariocandela/beelzebub
+source_code_url: https://github.com/beelzebub-labs/beelzebub
 description: Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks.
 licenses:
   - MIT
@@ -9,8 +9,24 @@ platforms:
   - K8S
   - Go
 tags:
-  - Miscellaneous
+  - Network Utilities
 depends_3rdparty: true
-stargazers_count: 1049
-updated_at: '2025-04-17'
+stargazers_count: 1937
+updated_at: '2026-03-29'
 archived: false
+current_release:
+  tag: v3.6.7
+  published_at: '2026-03-09'
+commit_history:
+  2025-05: 1
+  2025-06: 1
+  2025-07: 9
+  2025-08: 7
+  2025-09: 9
+  2025-10: 5
+  2025-11: 8
+  2025-12: 5
+  2026-01: 3
+  2026-02: 8
+  2026-03: 7
+  2026-04: 0

@@ -1,6 +1,6 @@
 name: Restreamer
 website_url: https://datarhei.github.io/restreamer/
-description: Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider.
+description: Access H.264 real-time video streaming on your website without a streaming provider.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/datarhei/restreamer
-stargazers_count: 4361
-updated_at: '2025-03-03'
+stargazers_count: 4973
+updated_at: '2025-12-29'
 archived: false
+current_release:
+  tag: v2.12.0
+  published_at: '2024-09-13'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 1
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0

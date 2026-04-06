@@ -1,6 +1,6 @@
 name: Postal
 website_url: https://docs.postalserver.io/
-description: A complete and fully featured mail server for use by websites & web servers.
+description: Complete and fully featured mail server for use by websites & web servers.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/postalserver/postal
-stargazers_count: 15451
-updated_at: '2024-10-31'
+stargazers_count: 16429
+updated_at: '2026-02-01'
 archived: false
+current_release:
+  tag: 3.3.5
+  published_at: '2026-02-01'
+commit_history:
+  2025-05: 1
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 10
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 2
+  2026-03: 0
+  2026-04: 0

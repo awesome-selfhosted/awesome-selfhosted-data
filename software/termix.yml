@@ -1,0 +1,23 @@
+name: Termix
+website_url: https://docs.termix.site/
+source_code_url: https://github.com/Termix-SSH/Termix
+description: Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Remote Access
+stargazers_count: 12070
+updated_at: '2026-03-29'
+archived: false
+current_release:
+  tag: release-2.0.0-tag
+  published_at: '2026-03-15'
+commit_history:
+  2025-11: 8
+  2025-12: 1
+  2026-01: 20
+  2026-02: 6
+  2026-03: 23
+  2026-04: 0

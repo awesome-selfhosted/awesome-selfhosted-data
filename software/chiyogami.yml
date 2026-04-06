@@ -1,0 +1,30 @@
+name: Chiyogami
+website_url: https://github.com/rhee876527/chiyogami
+source_code_url: https://github.com/rhee876527/chiyogami
+demo_url: https://chiyogami.myaddr.dev/
+description: Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+tags:
+  - Pastebins
+stargazers_count: 74
+updated_at: '2026-03-23'
+archived: false
+current_release:
+  tag: 1.5.3
+  published_at: '2026-01-21'
+commit_history:
+  2025-05: 21
+  2025-06: 10
+  2025-07: 15
+  2025-08: 16
+  2025-09: 9
+  2025-10: 11
+  2025-11: 6
+  2025-12: 3
+  2026-01: 2
+  2026-02: 1
+  2026-03: 2
+  2026-04: 0

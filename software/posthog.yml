@@ -1,6 +1,6 @@
 name: PostHog
 website_url: https://posthog.com
-description: Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely).
+description: Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely).
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Analytics
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 26087
-updated_at: '2025-04-28'
+stargazers_count: 32348
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: agent-skills-v0.37.0
+  published_at: '2026-04-02'
+commit_history:
+  2025-05: 749
+  2025-06: 1042
+  2025-07: 1140
+  2025-08: 994
+  2025-09: 1074
+  2025-10: 1333
+  2025-11: 1106
+  2025-12: 1350
+  2026-01: 1616
+  2026-02: 2149
+  2026-03: 2586
+  2026-04: 228

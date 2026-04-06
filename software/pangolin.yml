@@ -1,0 +1,30 @@
+name: Pangolin
+website_url: https://digpangolin.com/
+source_code_url: https://github.com/fosrl/pangolin
+description: Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Web Servers
+  - Remote Access
+stargazers_count: 19801
+updated_at: '2026-03-31'
+archived: false
+current_release:
+  tag: 1.17.0-rc.0
+  published_at: '2026-03-31'
+commit_history:
+  2025-05: 139
+  2025-06: 287
+  2025-07: 305
+  2025-08: 375
+  2025-09: 356
+  2025-10: 663
+  2025-11: 380
+  2025-12: 769
+  2026-01: 285
+  2026-02: 519
+  2026-03: 449
+  2026-04: 0

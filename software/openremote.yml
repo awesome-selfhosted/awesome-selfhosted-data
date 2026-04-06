@@ -1,6 +1,6 @@
 name: OpenRemote
 website_url: https://openremote.io
-description: Open-Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway.
+description: IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/openremote/openremote
 demo_url: https://demo.openremote.io/
-stargazers_count: 1391
-updated_at: '2025-04-28'
+stargazers_count: 1713
+updated_at: '2026-04-02'
 archived: false
+current_release:
+  tag: 1.20.2
+  published_at: '2026-03-24'
+commit_history:
+  2025-05: 19
+  2025-06: 27
+  2025-07: 27
+  2025-08: 21
+  2025-09: 38
+  2025-10: 27
+  2025-11: 21
+  2025-12: 32
+  2026-01: 46
+  2026-02: 54
+  2026-03: 39
+  2026-04: 2

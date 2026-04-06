@@ -1,0 +1,33 @@
+name: Flare
+website_url: https://github.com/FlintSH/Flare
+source_code_url: https://github.com/FlintSH/Flare
+description: A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+  - File Transfer - Web-based File Managers
+  - File Transfer - Object Storage & File Servers
+  - URL Shorteners
+stargazers_count: 111
+updated_at: '2026-04-01'
+archived: false
+current_release:
+  tag: v1.7.3
+  published_at: '2026-03-07'
+commit_history:
+  2025-05: 38
+  2025-06: 13
+  2025-07: 56
+  2025-08: 6
+  2025-09: 38
+  2025-10: 0
+  2025-11: 0
+  2025-12: 7
+  2026-01: 3
+  2026-02: 9
+  2026-03: 15
+  2026-04: 7

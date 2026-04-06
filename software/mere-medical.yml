@@ -1,16 +1,32 @@
 name: Mere Medical
 website_url: https://meremedical.co/
-description: With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first.
+description: Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first.
 licenses:
   - GPL-3.0
 platforms:
   - Docker
   - Nodejs
 tags:
-  - Miscellaneous
+  - Health and Fitness
 source_code_url: https://github.com/cfu288/mere-medical
 demo_url: https://demo.meremedical.co
 depends_3rdparty: true
-stargazers_count: 102
-updated_at: '2025-01-03'
+stargazers_count: 263
+updated_at: '2026-02-17'
 archived: false
+current_release:
+  tag: 2026.01.22
+  published_at: '2026-01-22'
+commit_history:
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 0
+  2025-09: 12
+  2025-10: 10
+  2025-11: 9
+  2025-12: 5
+  2026-01: 30
+  2026-02: 4
+  2026-03: 0
+  2026-04: 0

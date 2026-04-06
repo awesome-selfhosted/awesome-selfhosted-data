@@ -1,11 +1,1 @@
-name: Youth Secure Check-in
-website_url: https://github.com/mrcrunchybeans/youth-secure-checkin
-description: Secure check-in/check-out system for youth organizations with family management, event tracking, QR code checkout, and comprehensive security controls.
-licenses:
-  - MIT
-platforms:
-  - Python
-  - Docker
-tags:
-  - Booking and Scheduling
-source_code_url: https://github.com/mrcrunchybeans/youth-secure-checkin
+

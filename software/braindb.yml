@@ -1,0 +1,10 @@
+name: BrainDB
+website_url: https://github.com/beckfexx/BrainDB
+source_code_url: https://github.com/beckfexx/BrainDB
+description: Local-first AI memory and multi-agent orchestrator with hybrid search (SQLite FTS5 + semantic), knowledge graph, self-learning, and 51 MCP tools. 110 REST endpoints.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Knowledge Management Tools

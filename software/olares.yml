@@ -1,0 +1,11 @@
+name: Olares
+website_url: https://olares.com
+source_code_url: https://github.com/beclab/Olares
+description: Personal cloud operating system for managing and deploying applications locally, featuring AI capabilities, unified file system, single sign-on, and enterprise-grade security.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Self-hosting Solutions

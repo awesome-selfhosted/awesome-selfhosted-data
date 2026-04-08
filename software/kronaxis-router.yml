@@ -1,0 +1,11 @@
+name: Kronaxis Router
+website_url: https://github.com/Kronaxis/kronaxis-router
+source_code_url: https://github.com/Kronaxis/kronaxis-router
+description: Intelligent LLM proxy that auto-classifies prompts and routes to the cheapest capable model. Cost-based routing, quality validation, batch API aggregation, response caching, budget enforcement.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

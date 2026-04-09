@@ -1,0 +1,13 @@
+name: "plumio"
+website_url: "https://plumio.app"
+source_code_url: "https://github.com/albertasaftei/plumio"
+description: "A self-hosted markdown editor with live preview, document encryption, multi-user support, and multi-organization capabilities."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Note-taking & Editors
+demo_url: "https://demo.plumio.app"

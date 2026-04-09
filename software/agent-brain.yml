@@ -1,0 +1,11 @@
+name: Agent Brain
+website_url: https://github.com/kaderosio/agent-brain
+source_code_url: https://github.com/kaderosio/agent-brain
+description: 7-layer cognitive memory system for AI agents with perception gating, forgetting curves, and predictive alerts. No LLM required.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

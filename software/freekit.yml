@@ -1,0 +1,12 @@
+name: FreeKit
+website_url: https://freekit.dev
+source_code_url: https://github.com/softvoyagers/pagedrop-api
+description: Instant HTML hosting API. Deploy HTML pages via API and get a live link, no signup required.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Pastebins
+demo_url: https://freekit.dev

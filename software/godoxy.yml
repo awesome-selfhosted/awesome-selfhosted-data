@@ -1,0 +1,12 @@
+name: "godoxy"
+website_url: "https://docs.godoxy.dev/"
+source_code_url: "https://github.com/yusing/godoxy"
+description: "High-performance reverse proxy and container orchestrator for self-hosters."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Web Servers
+demo_url: "https://demo.godoxy.dev/"

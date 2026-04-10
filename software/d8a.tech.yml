@@ -1,0 +1,22 @@
+name: d8a.tech
+website_url: https://d8a.tech
+source_code_url: https://github.com/d8a-tech/d8a
+description: A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Analytics
+demo_url: https://lookerstudio.google.com/u/0/reporting/0e4102b6-c38b-4f55-aa25-c1fe91d1c1e9
+stargazers_count: 8
+updated_at: '2026-04-02'
+archived: false
+current_release:
+  tag: v0.47.0
+  published_at: '2026-03-24'
+commit_history:
+  2026-02: 65
+  2026-03: 47
+  2026-04: 7

@@ -1,5 +1,5 @@
 name: GoSƐ
-website_url: https://github.com/stv0g/gose
+website_url: https://codeberg.org/stv0g/gose
 description: Modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches.
 licenses:
   - Apache-2.0
@@ -8,7 +8,4 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/stv0g/gose
-stargazers_count: 248
-updated_at: '2025-09-22'
-archived: false
+source_code_url: https://codeberg.org/stv0g/gose

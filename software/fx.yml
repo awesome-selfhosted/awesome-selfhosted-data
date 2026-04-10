@@ -1,0 +1,29 @@
+name: fx
+website_url: https://github.com/rikhuijzer/fx
+description: Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/rikhuijzer/fx
+stargazers_count: 293
+updated_at: '2026-03-09'
+archived: false
+current_release:
+  tag: v1.4.1
+  published_at: '2026-03-24'
+commit_history:
+  2025-05: 111
+  2025-06: 6
+  2025-07: 3
+  2025-08: 4
+  2025-09: 14
+  2025-10: 8
+  2025-11: 13
+  2025-12: 0
+  2026-01: 0
+  2026-02: 32
+  2026-03: 4
+  2026-04: 0

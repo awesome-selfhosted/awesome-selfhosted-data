@@ -1,0 +1,24 @@
+name: Cronicle
+website_url: https://cronicle.net/
+source_code_url: https://github.com/jhuckaby/Cronicle
+description: Simple, distributed task scheduler and runner with a web based UI.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation
+stargazers_count: 5575
+updated_at: '2026-04-02'
+archived: false
+current_release:
+  tag: v0.9.111
+  published_at: '2026-04-02'
+commit_history:
+  2025-10: 16
+  2025-11: 4
+  2025-12: 5
+  2026-01: 2
+  2026-02: 14
+  2026-03: 11
+  2026-04: 6

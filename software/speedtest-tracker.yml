@@ -8,7 +8,23 @@ platforms:
   - Docker
   - K8S
 tags:
-  - Miscellaneous
-stargazers_count: 4326
-updated_at: '2025-09-24'
+  - Network Utilities
+stargazers_count: 5474
+updated_at: '2026-04-01'
 archived: false
+current_release:
+  tag: v1.13.12
+  published_at: '2026-03-26'
+commit_history:
+  2025-05: 21
+  2025-06: 11
+  2025-07: 14
+  2025-08: 3
+  2025-09: 8
+  2025-10: 8
+  2025-11: 54
+  2025-12: 54
+  2026-01: 13
+  2026-02: 19
+  2026-03: 7
+  2026-04: 1

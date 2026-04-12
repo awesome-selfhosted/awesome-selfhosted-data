@@ -1,11 +1,11 @@
 name: "VaulTLS"
 website_url: "https://github.com/7ritn/VaulTLS"
 source_code_url: "https://github.com/7ritn/VaulTLS"
-description: "VaulTLS provides an intuitive web interface to make managing client and server TLS (and SSH) certificates a breeze"
+description: "VaulTLS provides an intuitive web interface to make managing client and server TLS (and SSH) certificates a breeze."
 licenses:
   - GPL-3.0
 platforms:
-  - VueJS
+  - Javascript
   - Rust
   - Docker
 tags:

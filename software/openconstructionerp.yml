@@ -1,0 +1,14 @@
+name: OpenConstructionERP
+description: Professional construction cost estimation, BOQ management, 4D/5D planning, CAD/BIM takeoff (RVT/IFC/DWG/DGN), and AI-powered estimation with 55,000+ cost items across 20 regional standards and 21 languages.
+demo_url: https://openconstructionerp.com
+website_url: https://openconstructionerp.com
+source_code_url: https://github.com/datadrivenconstruction/OpenConstructionERP
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Resource Planning
+depends_on: SQLite/PostgreSQL

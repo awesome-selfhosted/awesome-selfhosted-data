@@ -1,0 +1,13 @@
+name: Pingr                                                                                                                                            
+  website_url: https://getpingr.com
+  source_code_url: https://github.com/smaranbhupathi/pingr                                                                                               
+  description: Uptime monitoring and status pages. Monitor URLs, get alerted via Email/Slack/Discord when they go down, and share a public status page
+  with your users.                            
+  licenses:                                                                                                                                              
+    - MIT
+  platforms:                                                                                                                                             
+    - Go                                                    
+    - Nodejs                                                                                                                                             
+  tags:                                                     
+    - Monitoring
+  demo_url: https://getpingr.com

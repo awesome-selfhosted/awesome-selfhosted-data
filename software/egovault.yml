@@ -1,0 +1,11 @@
+name: EgoVault
+website_url: https://github.com/milika/EgoVault
+source_code_url: https://github.com/milika/EgoVault
+description: Local-first personal data vault with hybrid RAG (FTS5 + semantic + HyDE + sentence-window chunks, RRF fusion). Ingests emails, local files, and Telegram exports; chat via a local LLM using llama.cpp — no cloud dependencies.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

@@ -10,14 +10,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/FOSSBilling/FOSSBilling
 demo_url: https://fossbilling.org/demo
-stargazers_count: 1488
-updated_at: '2026-03-11'
+stargazers_count: 1516
+updated_at: '2026-04-02'
 archived: false
 current_release:
   tag: 0.7.2
   published_at: '2025-09-07'
 commit_history:
-  2025-04: 57
   2025-05: 68
   2025-06: 50
   2025-07: 37
@@ -28,4 +27,5 @@ commit_history:
   2025-12: 93
   2026-01: 117
   2026-02: 91
-  2026-03: 42
+  2026-03: 118
+  2026-04: 5

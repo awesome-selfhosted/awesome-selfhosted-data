@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/hoppscotch/hoppscotch
-stargazers_count: 78347
-updated_at: '2026-03-04'
+stargazers_count: 78764
+updated_at: '2026-03-30'
 archived: false
 current_release:
-  tag: 2026.2.1
-  published_at: '2026-03-05'
+  tag: 2026.3.0
+  published_at: '2026-03-31'
 commit_history:
-  2025-04: 35
   2025-05: 42
   2025-06: 45
   2025-07: 41
@@ -27,4 +26,5 @@ commit_history:
   2025-12: 35
   2026-01: 32
   2026-02: 34
-  2026-03: 6
+  2026-03: 34
+  2026-04: 0

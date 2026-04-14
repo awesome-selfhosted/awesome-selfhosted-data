@@ -8,14 +8,13 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/bestpractical/rt
-stargazers_count: 1103
-updated_at: '2026-03-07'
+stargazers_count: 1108
+updated_at: '2026-04-02'
 archived: false
 current_release:
   tag: rt-6.0.2
   published_at: '2025-10-22'
 commit_history:
-  2025-04: 159
   2025-05: 147
   2025-06: 43
   2025-07: 92
@@ -24,6 +23,7 @@ commit_history:
   2025-10: 130
   2025-11: 28
   2025-12: 58
-  2026-01: 66
-  2026-02: 65
-  2026-03: 5
+  2026-01: 70
+  2026-02: 71
+  2026-03: 86
+  2026-04: 1

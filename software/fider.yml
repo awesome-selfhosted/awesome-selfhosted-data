@@ -9,14 +9,13 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
-stargazers_count: 4150
-updated_at: '2026-03-09'
+stargazers_count: 4189
+updated_at: '2026-04-02'
 archived: false
 current_release:
   tag: v0.33.0
   published_at: '2026-03-05'
 commit_history:
-  2025-04: 12
   2025-05: 6
   2025-06: 6
   2025-07: 10
@@ -27,4 +26,5 @@ commit_history:
   2025-12: 62
   2026-01: 39
   2026-02: 9
-  2026-03: 8
+  2026-03: 12
+  2026-04: 3

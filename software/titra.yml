@@ -8,15 +8,14 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/kromitgmbh/titra
-stargazers_count: 466
+source_code_url: https://github.com/titraio/titra
+stargazers_count: 488
 updated_at: '2026-02-26'
 archived: false
 current_release:
   tag: 0.99.52
   published_at: '2026-02-26'
 commit_history:
-  2025-04: 1
   2025-05: 3
   2025-06: 9
   2025-07: 5
@@ -28,3 +27,4 @@ commit_history:
   2026-01: 1
   2026-02: 2
   2026-03: 0
+  2026-04: 0

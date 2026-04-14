@@ -9,14 +9,13 @@ tags:
   - Groupware
 source_code_url: https://github.com/Alinto/sogo
 demo_url: https://demo.sogo.nu/SOGo/
-stargazers_count: 2090
-updated_at: '2026-03-03'
+stargazers_count: 2096
+updated_at: '2026-04-02'
 archived: false
 current_release:
-  tag: SOGo-5.12.5
-  published_at: '2026-03-04'
+  tag: SOGo-5.12.7
+  published_at: '2026-03-30'
 commit_history:
-  2025-04: 45
   2025-05: 4
   2025-06: 15
   2025-07: 16
@@ -27,4 +26,5 @@ commit_history:
   2025-12: 7
   2026-01: 3
   2026-02: 7
-  2026-03: 10
+  2026-03: 18
+  2026-04: 1

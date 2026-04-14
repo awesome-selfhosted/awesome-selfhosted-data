@@ -10,14 +10,13 @@ platforms:
   - Nodejs
 tags:
   - Analytics
-stargazers_count: 1556
+stargazers_count: 1579
 updated_at: '2026-01-14'
 archived: false
 current_release:
   tag: 0.3.1
   published_at: '2025-05-30'
 commit_history:
-  2025-04: 9
   2025-05: 8
   2025-06: 3
   2025-07: 4
@@ -29,3 +28,4 @@ commit_history:
   2026-01: 1
   2026-02: 0
   2026-03: 0
+  2026-04: 0

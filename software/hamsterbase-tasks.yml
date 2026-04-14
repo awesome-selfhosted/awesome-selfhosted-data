@@ -5,8 +5,6 @@ description: "A tool to help organize ideas and build great things. Plan, organi
 licenses:
   - AGPL-3.0
 platforms:
-  - Java
-  - Nodejs
   - Docker
 tags:
   - Task Management & To-do Lists

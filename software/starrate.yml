@@ -1,0 +1,10 @@
+name: StarRate
+website_url: https://apps.nextcloud.com/apps/starrate
+description: Lightroom-style photo rating and color labeling for Nextcloud. Share shootings via guest link — no account required for clients.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nextcloud
+tags:
+  - Photo Galleries
+source_code_url: https://github.com/merlin1de/starrate

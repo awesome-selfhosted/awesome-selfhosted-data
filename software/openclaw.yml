@@ -1,0 +1,11 @@
+name: OpenClaw
+website_url: https://openclaw.ai/
+source_code_url: https://github.com/openclaw/openclaw
+description: Personal AI assistant and agent gateway for chat apps, coding workflows, memory, and automations.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation
+  - Generative Artificial Intelligence (GenAI)

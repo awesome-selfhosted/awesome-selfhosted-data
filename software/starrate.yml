@@ -4,7 +4,8 @@ description: Lightroom-style photo rating and color labeling for Nextcloud. Shar
 licenses:
   - AGPL-3.0
 platforms:
-  - Nextcloud
+  - PHP
+  - Javascript
 tags:
   - Photo Galleries
 source_code_url: https://github.com/merlin1de/starrate

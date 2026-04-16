@@ -1,0 +1,10 @@
+name: Nana
+website_url: https://nana.fyi
+description: Self-hosted document workspace with Markdown editing, AI chat with RAG, folders, tags, version history, and a trash system.
+licenses:
+    - AGPL-3.0
+platforms:
+    - Docker
+tags:
+    - Note-taking & Editors
+source_code_url: https://github.com/zbejas/nana

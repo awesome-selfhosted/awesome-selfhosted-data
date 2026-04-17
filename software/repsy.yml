@@ -1,0 +1,12 @@
+name: "Repsy"
+website_url: "https://repsy.io"
+source_code_url: "https://github.com/repsyio/repsy"
+description: "Lightweight artifact repository manager for Maven, npm, PyPI, Docker, Cargo, and Go."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Automation
+  - Software Development

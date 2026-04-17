@@ -9,4 +9,5 @@ platforms:
   - Docker
 tags:
   - Automation
-  - Software Development
+  - Software Development - Continuous Integration & Deployment
+depends_3rdparty: false

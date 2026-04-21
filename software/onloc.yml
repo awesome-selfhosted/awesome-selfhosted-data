@@ -5,9 +5,8 @@ description: Track and share your location in real time. Control and lock stolen
 licenses:
   - AGPL-3.0
 platforms:
-  - Typescript
-  - Bun
   - Docker
+  - Podman
 tags:
   - Internet of Things (IoT)
   - Remote Access

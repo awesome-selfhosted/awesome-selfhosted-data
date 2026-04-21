@@ -1,0 +1,33 @@
+name: HealthWallet.me
+website_url: https://github.com/LifeValue/HealthWallet.me/
+description: Patient-controlled health record aggregator connecting to 52,000+ US healthcare systems and 40+ EHRs via FHIR R4, with on-device AI processing, offline-first architecture, and comprehensive family management.
+licenses:
+  - GPL-3.0
+platforms:
+  - Dart
+tags:
+  - Health and Fitness
+source_code_url: https://github.com/LifeValue/HealthWallet.me/
+depends_3rdparty: false
+stargazers_count: 60
+updated_at: '2026-04-07'
+archived: false
+current_release:
+  tag: 1.2.1
+  published_at: '2026-04-20'
+commit_history:
+  2025-01: 0
+  2025-02: 0
+  2025-03: 0
+  2025-04: 0
+  2025-05: 0
+  2025-06: 0
+  2025-07: 18
+  2025-08: 75
+  2025-09: 40
+  2025-10: 41
+  2025-11: 43
+  2025-12: 98
+  2026-01: 1
+  2026-02: 6
+  2026-03: 140

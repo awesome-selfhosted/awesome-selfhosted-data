@@ -1,0 +1,14 @@
+name: AgentWrit
+website_url: https://github.com/devonartis/agentwrit
+description: Credential broker for AI agents. Each agent gets its own temporary key instead of sharing one API key across all agents. Keys are task-scoped and automatically revoked when the task ends.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Go
+  - Docker
+tags:
+  - Federated Identity & Authentication
+source_code_url: https://github.com/devonartis/agentwrit
+stargazers_count: 1
+updated_at: '2026-04-20'
+archived: false

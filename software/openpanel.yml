@@ -1,0 +1,10 @@
+name: OpenPanel
+website_url: https://openpanel.dev/
+description: Open source analytics platform for tracking website and application events, with real-time dashboards, funnels, and user journeys.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+source_code_url: https://github.com/Openpanel-dev/openpanel

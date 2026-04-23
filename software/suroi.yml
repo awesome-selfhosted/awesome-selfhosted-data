@@ -9,14 +9,13 @@ platforms:
 tags:
   - Games
 demo_url: https://suroi.io/
-stargazers_count: 440
+stargazers_count: 448
 updated_at: '2026-03-02'
 archived: false
 current_release:
   tag: v0.30.2
   published_at: '2025-12-31'
 commit_history:
-  2025-04: 125
   2025-05: 202
   2025-06: 159
   2025-07: 295
@@ -28,3 +27,4 @@ commit_history:
   2026-01: 3
   2026-02: 3
   2026-03: 2
+  2026-04: 0

@@ -8,14 +8,13 @@ platforms:
   - Shell
 tags:
   - Self-hosting Solutions
-stargazers_count: 57
-updated_at: '2026-03-18'
+stargazers_count: 61
+updated_at: '2026-04-18'
 archived: false
 current_release:
-  tag: '226'
-  published_at: '2026-03-16'
+  tag: '229'
+  published_at: '2026-04-03'
 commit_history:
-  2025-04: 68
   2025-05: 127
   2025-06: 23
   2025-07: 18
@@ -26,4 +25,5 @@ commit_history:
   2025-12: 29
   2026-01: 29
   2026-02: 13
-  2026-03: 23
+  2026-03: 28
+  2026-04: 9

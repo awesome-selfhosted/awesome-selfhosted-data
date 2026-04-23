@@ -8,14 +8,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/openziti/ziti
-stargazers_count: 3921
-updated_at: '2026-03-20'
+stargazers_count: 4113
+updated_at: '2026-04-22'
 archived: false
 current_release:
-  tag: v2.0.0-pre6
-  published_at: '2026-03-19'
+  tag: v2.0.0-pre11
+  published_at: '2026-04-20'
 commit_history:
-  2025-04: 37
   2025-05: 37
   2025-06: 74
   2025-07: 29
@@ -25,5 +24,6 @@ commit_history:
   2025-11: 45
   2025-12: 76
   2026-01: 48
-  2026-02: 111
-  2026-03: 73
+  2026-02: 112
+  2026-03: 110
+  2026-04: 57

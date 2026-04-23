@@ -11,14 +11,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/Erudika/scoold
 demo_url: https://live.scoold.com
-stargazers_count: 913
-updated_at: '2026-03-20'
+stargazers_count: 916
+updated_at: '2026-04-22'
 archived: false
 current_release:
-  tag: 1.66.0
-  published_at: '2026-01-26'
+  tag: 1.67.0
+  published_at: '2026-04-20'
 commit_history:
-  2025-04: 4
   2025-05: 4
   2025-06: 0
   2025-07: 1
@@ -29,4 +28,5 @@ commit_history:
   2025-12: 12
   2026-01: 14
   2026-02: 0
-  2026-03: 3
+  2026-03: 16
+  2026-04: 23

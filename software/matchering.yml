@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/sergree/matchering
-stargazers_count: 2451
-updated_at: '2026-03-15'
+stargazers_count: 2497
+updated_at: '2026-04-19'
 archived: false
 current_release:
   tag: 2.0.6
   published_at: '2022-10-19'
 commit_history:
-  2025-04: 0
   2025-05: 1
   2025-06: 2
   2025-07: 2
@@ -27,3 +26,4 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 1
+  2026-04: 1

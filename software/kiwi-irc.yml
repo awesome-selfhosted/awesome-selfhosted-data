@@ -9,14 +9,13 @@ tags:
   - Communication - IRC
 source_code_url: https://github.com/kiwiirc/kiwiirc
 demo_url: https://kiwiirc.com/nextclient/
-stargazers_count: 962
-updated_at: '2026-03-19'
+stargazers_count: 977
+updated_at: '2026-04-12'
 archived: false
 current_release:
   tag: v1.7.1
   published_at: '2023-09-13'
 commit_history:
-  2025-04: 0
   2025-05: 0
   2025-06: 0
   2025-07: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 6
+  2026-04: 1

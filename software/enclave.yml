@@ -1,0 +1,13 @@
+name: Enclave
+website_url: https://github.com/yuanzui0728/enclave
+description: Self-hosted single-user AI social world. Each instance belongs to one owner and is populated by autonomous AI characters who chat, post to a social feed, form group chats and maintain ongoing relationships with the owner.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/yuanzui0728/enclave
+demo_url: http://47.99.215.167:5180/tabs/chat

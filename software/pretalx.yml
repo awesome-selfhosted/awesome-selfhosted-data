@@ -8,12 +8,12 @@ platforms:
 tags:
   - Conference Management
 source_code_url: https://github.com/pretalx/pretalx
-stargazers_count: 893
-updated_at: '2026-04-15'
+stargazers_count: 896
+updated_at: '2026-04-23'
 archived: false
 current_release:
-  tag: v2025.2.2
-  published_at: '2025-12-05'
+  tag: v2026.1.1
+  published_at: '2026-04-18'
 commit_history:
   2025-05: 162
   2025-06: 84
@@ -26,4 +26,4 @@ commit_history:
   2026-01: 76
   2026-02: 188
   2026-03: 67
-  2026-04: 38
+  2026-04: 85

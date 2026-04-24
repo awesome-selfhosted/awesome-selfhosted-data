@@ -10,12 +10,12 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/filegator/filegator
 demo_url: https://demo.filegator.io
-stargazers_count: 2940
-updated_at: '2026-04-13'
+stargazers_count: 2939
+updated_at: '2026-04-18'
 archived: false
 current_release:
-  tag: v7.13.5
-  published_at: '2026-04-13'
+  tag: v7.14.0
+  published_at: '2026-04-18'
 commit_history:
   2025-05: 4
   2025-06: 0
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 8
   2026-02: 0
   2026-03: 2
-  2026-04: 2
+  2026-04: 7

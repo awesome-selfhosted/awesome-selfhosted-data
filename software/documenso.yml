@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Document Management
-stargazers_count: 12668
-updated_at: '2026-04-16'
+stargazers_count: 12711
+updated_at: '2026-04-23'
 archived: false
 current_release:
-  tag: v2.8.0
-  published_at: '2026-03-10'
+  tag: v2.9.0
+  published_at: '2026-04-18'
 commit_history:
   2025-05: 25
   2025-06: 47
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 62
   2026-02: 46
   2026-03: 83
-  2026-04: 21
+  2026-04: 29

@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 62
-updated_at: '2026-04-13'
+updated_at: '2026-04-21'
 archived: false
 current_release:
-  tag: core-api-4.4.5
-  published_at: '2026-04-13'
+  tag: metrics-otel+lgtm-1.0.0
+  published_at: '2026-04-20'
 commit_history:
   2025-05: 144
   2025-06: 49
@@ -26,5 +26,5 @@ commit_history:
   2025-12: 98
   2026-01: 168
   2026-02: 219
-  2026-03: 198
-  2026-04: 82
+  2026-03: 201
+  2026-04: 120

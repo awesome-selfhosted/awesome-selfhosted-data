@@ -8,12 +8,12 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/IrosTheBeggar/mStream
-stargazers_count: 2341
-updated_at: '2026-04-20'
+stargazers_count: 2339
+updated_at: '2026-04-23'
 archived: false
 current_release:
-  tag: v6.4.0
-  published_at: '2026-04-20'
+  tag: v6.5.1-DESKTOP_PLAYER
+  published_at: '2026-04-23'
 commit_history:
   2025-05: 0
   2025-06: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-01: 1
   2026-02: 51
   2026-03: 19
-  2026-04: 78
+  2026-04: 166

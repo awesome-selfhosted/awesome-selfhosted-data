@@ -9,12 +9,12 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/chevereto/chevereto
-stargazers_count: 913
-updated_at: '2026-04-09'
+stargazers_count: 914
+updated_at: '2026-04-21'
 archived: false
 current_release:
-  tag: 4.5.1
-  published_at: '2026-04-09'
+  tag: 4.5.2
+  published_at: '2026-04-21'
 commit_history:
   2025-05: 6
   2025-06: 2
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 1
   2026-02: 0
   2026-03: 0
-  2026-04: 2
+  2026-04: 3

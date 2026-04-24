@@ -10,13 +10,13 @@ platforms:
 tags:
   - Analytics
 demo_url: https://lookerstudio.google.com/u/0/reporting/0e4102b6-c38b-4f55-aa25-c1fe91d1c1e9
-stargazers_count: 8
-updated_at: '2026-04-20'
+stargazers_count: 10
+updated_at: '2026-04-22'
 archived: false
 current_release:
-  tag: v0.50.0
-  published_at: '2026-04-15'
+  tag: v0.52.1
+  published_at: '2026-04-22'
 commit_history:
   2026-02: 65
   2026-03: 47
-  2026-04: 35
+  2026-04: 43

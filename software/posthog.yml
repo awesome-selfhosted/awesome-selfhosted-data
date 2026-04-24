@@ -9,12 +9,12 @@ tags:
   - Analytics
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 32678
-updated_at: '2026-04-20'
+stargazers_count: 32802
+updated_at: '2026-04-23'
 archived: false
 current_release:
   tag: phrocs-latest
-  published_at: '2026-04-20'
+  published_at: '2026-04-23'
 commit_history:
   2025-05: 749
   2025-06: 1042
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 1616
   2026-02: 2149
   2026-03: 2586
-  2026-04: 1646
+  2026-04: 2107

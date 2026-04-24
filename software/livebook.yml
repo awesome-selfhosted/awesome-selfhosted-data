@@ -10,11 +10,11 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/livebook-dev/livebook
 stargazers_count: 5767
-updated_at: '2026-04-20'
+updated_at: '2026-04-21'
 archived: false
 current_release:
-  tag: nightly
-  published_at: '2024-10-25'
+  tag: v0.19.7
+  published_at: '2026-04-22'
 commit_history:
   2025-05: 25
   2025-06: 8
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 21
   2026-02: 26
   2026-03: 43
-  2026-04: 19
+  2026-04: 26

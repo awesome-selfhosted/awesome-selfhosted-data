@@ -10,12 +10,12 @@ platforms:
 tags:
   - Software Development - Project Management
 demo_url: https://demo.kaneo.app/
-stargazers_count: 3440
-updated_at: '2026-04-20'
+stargazers_count: 3451
+updated_at: '2026-04-21'
 archived: false
 current_release:
-  tag: v2.6.8
-  published_at: '2026-04-13'
+  tag: v2.6.9
+  published_at: '2026-04-21'
 commit_history:
   2025-05: 83
   2025-06: 53
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 170
   2026-02: 160
   2026-03: 363
-  2026-04: 155
+  2026-04: 163

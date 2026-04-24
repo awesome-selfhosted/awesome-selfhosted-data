@@ -5,8 +5,6 @@ description: "Intuitive web interface to make managing client and server TLS (an
 licenses:
   - GPL-3.0
 platforms:
-  - Javascript
-  - Rust
   - Docker
 tags:
   - Network Utilities

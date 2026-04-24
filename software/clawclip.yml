@@ -1,0 +1,11 @@
+name: ClawClip
+website_url: https://github.com/Ylsssq926/clawclip
+source_code_url: https://github.com/Ylsssq926/clawclip
+description: Local-first run replay and cost diagnostics for agent logs; find token waste, drift, and regressions without uploading data.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools
+demo_url: https://clawclip.luelan.online

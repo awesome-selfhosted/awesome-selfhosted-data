@@ -1,0 +1,10 @@
+name: LocoPilot
+website_url: https://github.com/bobfromarcher/LocoPilot
+source_code_url: https://github.com/bobfromarcher/LocoPilot
+description: Vision, browser, and desktop control for any local LLM. 35 endpoints, zero cloud, one file.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

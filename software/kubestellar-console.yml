@@ -1,0 +1,13 @@
+name: KubeStellar Console
+website_url: https://console.kubestellar.io
+source_code_url: https://github.com/kubestellar/console
+description: AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF integrations, and AI-guided operations.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Software Development
+demo_url: https://console.kubestellar.io

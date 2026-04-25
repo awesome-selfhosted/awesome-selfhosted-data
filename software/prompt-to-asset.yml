@@ -1,0 +1,11 @@
+name: prompt-to-asset
+website_url: https://github.com/MohamedAbdallah-14/prompt-to-asset
+source_code_url: https://github.com/MohamedAbdallah-14/prompt-to-asset
+description: MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing requests across 30+ image generation models. Zero-key first run via free-tier providers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

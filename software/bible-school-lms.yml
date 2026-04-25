@@ -1,0 +1,12 @@
+name: Bible School LMS
+website_url: https://biblie-school-frontend.vercel.app
+description: Learning management system designed for Bible schools, church ministries, and nonprofit educational programs. Features course authoring, quizzes, grading, progress tracking, and certificates.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Learning and Courses
+source_code_url: https://github.com/ArVaViT/biblie-school
+demo_url: https://biblie-school-frontend.vercel.app

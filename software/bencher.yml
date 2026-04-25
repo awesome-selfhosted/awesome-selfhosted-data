@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/bencherdev/bencher
-stargazers_count: 825
-updated_at: '2026-04-22'
+stargazers_count: 826
+updated_at: '2026-04-24'
 archived: false
 current_release:
-  tag: v0.6.2
-  published_at: '2026-04-09'
+  tag: v0.6.3
+  published_at: '2026-04-24'
 commit_history:
   2025-05: 1
   2025-06: 18
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 98
   2026-02: 32
   2026-03: 62
-  2026-04: 38
+  2026-04: 41

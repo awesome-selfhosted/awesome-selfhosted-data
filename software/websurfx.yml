@@ -10,12 +10,12 @@ platforms:
 tags:
   - Search Engines
 depends_3rdparty: true
-stargazers_count: 1086
-updated_at: '2026-04-23'
+stargazers_count: 1087
+updated_at: '2026-04-24'
 archived: false
 current_release:
-  tag: v1.28.2
-  published_at: '2026-04-23'
+  tag: v1.29.0
+  published_at: '2026-04-24'
 commit_history:
   2025-05: 8
   2025-06: 5
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 9
   2026-02: 15
   2026-03: 16
-  2026-04: 13
+  2026-04: 14

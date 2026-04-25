@@ -11,12 +11,12 @@ tags:
   - Network Utilities
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
-stargazers_count: 10149
-updated_at: '2026-04-19'
+stargazers_count: 10155
+updated_at: '2026-04-24'
 archived: false
 current_release:
-  tag: v6.0.0
-  published_at: '2026-04-19'
+  tag: v6.1.0
+  published_at: '2026-04-24'
 commit_history:
   2025-05: 0
   2025-06: 9
@@ -29,4 +29,4 @@ commit_history:
   2026-01: 15
   2026-02: 6
   2026-03: 7
-  2026-04: 191
+  2026-04: 250

@@ -11,12 +11,12 @@ tags:
   - Software Development - Low Code
 demo_url: https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C
 related_software_url: https://github.com/halo-sigs/awesome-halo
-stargazers_count: 38348
-updated_at: '2026-04-23'
+stargazers_count: 38360
+updated_at: '2026-04-24'
 archived: false
 current_release:
-  tag: v2.24.0
-  published_at: '2026-04-16'
+  tag: v2.24.1
+  published_at: '2026-04-24'
 commit_history:
   2025-05: 63
   2025-06: 64
@@ -29,4 +29,4 @@ commit_history:
   2026-01: 69
   2026-02: 30
   2026-03: 39
-  2026-04: 34
+  2026-04: 38

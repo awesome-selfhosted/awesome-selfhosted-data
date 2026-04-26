@@ -5,10 +5,7 @@ description: "Collect and inspect HTTP requests for testing and debugging. Creat
 licenses:
   - Apache-2.0
 platforms:
-  - Go
   - Docker
 tags:
   - Software Development - Testing
-  - Pastebins
-  - Automation
 demo_url: "https://request-inbox.com/"

@@ -9,12 +9,12 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/r3-team/r3
 demo_url: https://rei3.de/demo_en/
-stargazers_count: 559
-updated_at: '2026-04-24'
+stargazers_count: 558
+updated_at: '2026-04-25'
 archived: false
 current_release:
-  tag: v3.12
-  published_at: '2026-04-17'
+  tag: v3.12.1
+  published_at: '2026-04-25'
 commit_history:
   2025-05: 72
   2025-06: 84
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 3
   2026-02: 63
   2026-03: 71
-  2026-04: 41
+  2026-04: 48

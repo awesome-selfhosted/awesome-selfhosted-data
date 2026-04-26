@@ -10,8 +10,8 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/mumble-voip/mumble
 related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications
-stargazers_count: 7949
-updated_at: '2026-04-19'
+stargazers_count: 7953
+updated_at: '2026-04-25'
 archived: false
 current_release:
   tag: v1.6.870
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 39
   2026-02: 32
   2026-03: 36
-  2026-04: 15
+  2026-04: 17

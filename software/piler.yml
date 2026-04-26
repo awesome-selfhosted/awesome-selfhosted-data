@@ -10,8 +10,8 @@ platforms:
   - deb
 tags:
   - Archiving and Digital Preservation (DP)
-stargazers_count: 299
-updated_at: '2026-04-22'
+stargazers_count: 301
+updated_at: '2026-04-25'
 archived: false
 current_release:
   tag: piler-1.4.8
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 23
   2026-02: 12
   2026-03: 3
-  2026-04: 4
+  2026-04: 5

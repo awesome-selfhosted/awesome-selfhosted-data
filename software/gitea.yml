@@ -11,8 +11,8 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/go-gitea/gitea
 demo_url: https://demo.gitea.com
-stargazers_count: 55091
-updated_at: '2026-04-24'
+stargazers_count: 55105
+updated_at: '2026-04-25'
 archived: false
 current_release:
   tag: v1.26.1
@@ -29,4 +29,4 @@ commit_history:
   2026-01: 95
   2026-02: 134
   2026-03: 132
-  2026-04: 146
+  2026-04: 150

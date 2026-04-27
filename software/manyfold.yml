@@ -8,12 +8,12 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/manyfold3d/manyfold
-stargazers_count: 1906
-updated_at: '2026-04-21'
+stargazers_count: 1913
+updated_at: '2026-04-26'
 archived: false
 current_release:
-  tag: v0.137.0
-  published_at: '2026-04-13'
+  tag: v0.138.0
+  published_at: '2026-04-22'
 commit_history:
   2025-05: 371
   2025-06: 368
@@ -26,4 +26,4 @@ commit_history:
   2026-01: 366
   2026-02: 412
   2026-03: 432
-  2026-04: 313
+  2026-04: 379

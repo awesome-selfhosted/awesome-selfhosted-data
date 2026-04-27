@@ -8,12 +8,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/kestra-io/kestra
-stargazers_count: 26731
-updated_at: '2026-04-21'
+stargazers_count: 26759
+updated_at: '2026-04-25'
 archived: false
 current_release:
-  tag: v1.3.13
-  published_at: '2026-04-21'
+  tag: v1.3.14
+  published_at: '2026-04-22'
 commit_history:
   2025-05: 301
   2025-06: 306
@@ -26,4 +26,4 @@ commit_history:
   2026-01: 336
   2026-02: 365
   2026-03: 361
-  2026-04: 253
+  2026-04: 284

@@ -9,12 +9,12 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/elabftw/elabftw
 demo_url: https://demo.elabftw.net
-stargazers_count: 1317
-updated_at: '2026-04-20'
+stargazers_count: 1320
+updated_at: '2026-04-26'
 archived: false
 current_release:
-  tag: 5.5.8
-  published_at: '2026-04-09'
+  tag: 5.6.0-beta5
+  published_at: '2026-04-25'
 commit_history:
   2025-05: 83
   2025-06: 98
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 43
   2026-02: 83
   2026-03: 59
-  2026-04: 51
+  2026-04: 63

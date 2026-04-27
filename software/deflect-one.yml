@@ -1,0 +1,10 @@
+name: Deflect One
+website_url: https://github.com/Frytskyy/deflect-one
+description: Terminal-based DevOps control center for managing Linux servers over SSH. Provides monitoring, user management, SSH key rotation, session control, and system administration tools in a unified interface.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Network Utilities
+source_code_url: https://github.com/Frytskyy/deflect-one

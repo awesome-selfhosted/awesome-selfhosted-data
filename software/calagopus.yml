@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Rust
-  - Deb
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels

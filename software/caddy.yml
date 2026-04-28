@@ -10,14 +10,13 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 71144
-updated_at: '2026-03-28'
+stargazers_count: 71880
+updated_at: '2026-04-27'
 archived: false
 current_release:
   tag: v2.11.2
   published_at: '2026-03-06'
 commit_history:
-  2025-04: 18
   2025-05: 9
   2025-06: 19
   2025-07: 14
@@ -28,4 +27,5 @@ commit_history:
   2025-12: 19
   2026-01: 16
   2026-02: 53
-  2026-03: 34
+  2026-03: 36
+  2026-04: 30

@@ -10,14 +10,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 demo_url: https://demo.gamevau.lt
-stargazers_count: 313
+stargazers_count: 314
 updated_at: '2026-02-15'
 archived: false
 current_release:
   tag: 16.3.0
   published_at: '2026-02-15'
 commit_history:
-  2025-04: 16
   2025-05: 6
   2025-06: 34
   2025-07: 10
@@ -29,3 +28,4 @@ commit_history:
   2026-01: 2
   2026-02: 49
   2026-03: 0
+  2026-04: 0

@@ -10,14 +10,13 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/lissy93/dashy
 demo_url: https://demo.dashy.to/
-stargazers_count: 24371
-updated_at: '2026-03-26'
+stargazers_count: 24850
+updated_at: '2026-04-27'
 archived: false
 current_release:
-  tag: 3.1.1
-  published_at: '2024-05-30'
+  tag: 4.0.1
+  published_at: '2026-04-26'
 commit_history:
-  2025-04: 10
   2025-05: 9
   2025-06: 10
   2025-07: 45
@@ -28,4 +27,5 @@ commit_history:
   2025-12: 4
   2026-01: 6
   2026-02: 18
-  2026-03: 83
+  2026-03: 119
+  2026-04: 208

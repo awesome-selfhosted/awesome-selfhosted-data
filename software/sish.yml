@@ -9,14 +9,13 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/antoniomika/sish
-stargazers_count: 4568
+stargazers_count: 4591
 updated_at: '2026-03-23'
 archived: false
 current_release:
   tag: v2.22.1
   published_at: '2026-03-16'
 commit_history:
-  2025-04: 3
   2025-05: 3
   2025-06: 0
   2025-07: 2
@@ -28,3 +27,4 @@ commit_history:
   2026-01: 0
   2026-02: 3
   2026-03: 4
+  2026-04: 0

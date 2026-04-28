@@ -10,14 +10,13 @@ tags:
   - Database Management
 source_code_url: https://github.com/chartdb/chartdb
 demo_url: https://app.chartdb.io
-stargazers_count: 21689
-updated_at: '2026-03-14'
+stargazers_count: 22066
+updated_at: '2026-04-11'
 archived: false
 current_release:
-  tag: v1.20.0
-  published_at: '2026-03-04'
+  tag: v1.20.1
+  published_at: '2026-04-07'
 commit_history:
-  2025-04: 28
   2025-05: 33
   2025-06: 12
   2025-07: 50
@@ -29,3 +28,4 @@ commit_history:
   2026-01: 21
   2026-02: 1
   2026-03: 7
+  2026-04: 4

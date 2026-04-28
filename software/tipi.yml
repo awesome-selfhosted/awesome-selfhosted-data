@@ -8,14 +8,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/runtipi/runtipi
-stargazers_count: 9326
-updated_at: '2026-03-20'
+stargazers_count: 9365
+updated_at: '2026-04-25'
 archived: false
 current_release:
-  tag: nightly
-  published_at: '2024-02-09'
+  tag: v4.9.1
+  published_at: '2026-04-25'
 commit_history:
-  2025-04: 88
   2025-05: 99
   2025-06: 13
   2025-07: 10
@@ -26,4 +25,5 @@ commit_history:
   2025-12: 8
   2026-01: 28
   2026-02: 0
-  2026-03: 37
+  2026-03: 42
+  2026-04: 22

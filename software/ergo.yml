@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/ergochat/ergo
-stargazers_count: 3159
-updated_at: '2026-03-22'
+stargazers_count: 3192
+updated_at: '2026-04-23'
 archived: false
 current_release:
   tag: v2.18.0
   published_at: '2026-03-22'
 commit_history:
-  2025-04: 9
   2025-05: 17
   2025-06: 16
   2025-07: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-01: 6
   2026-02: 6
   2026-03: 36
+  2026-04: 11

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/baptisteArno/typebot.io
-stargazers_count: 9804
-updated_at: '2026-03-27'
+stargazers_count: 9886
+updated_at: '2026-04-27'
 archived: false
 current_release:
-  tag: v3.15.2
-  published_at: '2026-01-11'
+  tag: v3.16.1
+  published_at: '2026-04-09'
 commit_history:
-  2025-04: 79
   2025-05: 75
   2025-06: 79
   2025-07: 37
@@ -26,4 +25,5 @@ commit_history:
   2025-12: 35
   2026-01: 90
   2026-02: 38
-  2026-03: 80
+  2026-03: 81
+  2026-04: 33

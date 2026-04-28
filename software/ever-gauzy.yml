@@ -13,14 +13,13 @@ tags:
   - Resource Planning
   - Task Management & To-do Lists
 demo_url: https://demo.gauzy.co
-stargazers_count: 3605
-updated_at: '2026-03-28'
+stargazers_count: 3659
+updated_at: '2026-04-26'
 archived: false
 current_release:
-  tag: v98.0.2
-  published_at: '2026-03-28'
+  tag: v102.0.0
+  published_at: '2026-04-26'
 commit_history:
-  2025-04: 189
   2025-05: 104
   2025-06: 46
   2025-07: 77
@@ -31,4 +30,5 @@ commit_history:
   2025-12: 74
   2026-01: 179
   2026-02: 190
-  2026-03: 95
+  2026-03: 97
+  2026-04: 23

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/RSS-Bridge/rss-bridge
-stargazers_count: 8813
-updated_at: '2026-03-28'
+stargazers_count: 8906
+updated_at: '2026-04-27'
 archived: false
 current_release:
   tag: '2025-08-05'
   published_at: '2025-08-05'
 commit_history:
-  2025-04: 7
   2025-05: 32
   2025-06: 5
   2025-07: 4
@@ -27,4 +26,5 @@ commit_history:
   2025-12: 3
   2026-01: 24
   2026-02: 17
-  2026-03: 21
+  2026-03: 22
+  2026-04: 6

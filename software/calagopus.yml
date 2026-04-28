@@ -1,0 +1,12 @@
+name: "Calagopus"
+website_url: "https://calagopus.com"
+source_code_url: "https://github.com/calagopus/panel"
+description: "Calagopus is a modern, open-source game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Hytale, and other game servers with industry-leading performance."
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Deb
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels

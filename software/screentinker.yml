@@ -1,0 +1,10 @@
+name: ScreenTinker
+website_url: https://screentinker.com
+source_code_url: https://github.com/screentinker/screentinker
+description: Digital signage CMS for managing content on TVs, displays, and kiosks. Video walls, remote control, scheduling, kiosk mode, proof-of-play reporting. Supports Android TV, Fire TV, Raspberry Pi, Windows, ChromeOS, and any browser.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Management

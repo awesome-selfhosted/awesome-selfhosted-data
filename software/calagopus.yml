@@ -7,5 +7,6 @@ licenses:
 platforms:
   - Rust
   - Docker
+  - deb
 tags:
   - Games - Administrative Utilities & Control Panels

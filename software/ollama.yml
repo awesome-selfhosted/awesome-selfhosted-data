@@ -9,12 +9,12 @@ platforms:
   - Python
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 169997
-updated_at: '2026-04-25'
+stargazers_count: 170243
+updated_at: '2026-04-28'
 archived: false
 current_release:
-  tag: v0.21.3-rc0
-  published_at: '2026-04-24'
+  tag: v0.22.1-rc0
+  published_at: '2026-04-28'
 commit_history:
   2025-05: 109
   2025-06: 56
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 105
   2026-02: 110
   2026-03: 123
-  2026-04: 98
+  2026-04: 105

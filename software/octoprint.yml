@@ -9,12 +9,12 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/OctoPrint/OctoPrint
-stargazers_count: 8966
-updated_at: '2026-04-23'
+stargazers_count: 8971
+updated_at: '2026-04-27'
 archived: false
 current_release:
-  tag: 1.11.7
-  published_at: '2026-02-18'
+  tag: 2.0.0rc1
+  published_at: '2026-04-27'
 commit_history:
   2025-05: 60
   2025-06: 68
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 50
   2026-02: 96
   2026-03: 119
-  2026-04: 82
+  2026-04: 93

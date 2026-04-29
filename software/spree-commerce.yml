@@ -9,12 +9,12 @@ tags:
   - E-commerce
 source_code_url: https://github.com/spree/spree
 demo_url: https://demo.spreecommerce.org/
-stargazers_count: 15365
-updated_at: '2026-04-25'
+stargazers_count: 15375
+updated_at: '2026-04-28'
 archived: false
 current_release:
-  tag: v5.4.1
-  published_at: '2026-04-14'
+  tag: v5.4.2
+  published_at: '2026-04-27'
 commit_history:
   2025-05: 152
   2025-06: 164
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 206
   2026-02: 354
   2026-03: 252
-  2026-04: 89
+  2026-04: 99

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/stashapp/stash
-stargazers_count: 12247
-updated_at: '2026-04-28'
+stargazers_count: 12254
+updated_at: '2026-04-29'
 archived: false
 current_release:
   tag: latest_develop
-  published_at: '2026-04-28'
+  published_at: '2026-04-29'
 commit_history:
   2025-05: 2
   2025-06: 52
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 43
   2026-02: 55
   2026-03: 83
-  2026-04: 50
+  2026-04: 52

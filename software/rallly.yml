@@ -11,12 +11,12 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/lukevella/rallly
 demo_url: https://app.rallly.co
-stargazers_count: 5067
-updated_at: '2026-04-28'
+stargazers_count: 5068
+updated_at: '2026-04-29'
 archived: false
 current_release:
-  tag: v4.9.2
-  published_at: '2026-04-22'
+  tag: v4.10.0
+  published_at: '2026-04-29'
 commit_history:
   2025-05: 63
   2025-06: 64
@@ -29,4 +29,4 @@ commit_history:
   2026-01: 98
   2026-02: 103
   2026-03: 83
-  2026-04: 96
+  2026-04: 105

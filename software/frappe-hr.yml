@@ -11,11 +11,11 @@ platforms:
 tags:
   - Human Resources Management (HRM)
 stargazers_count: 7813
-updated_at: '2026-04-28'
+updated_at: '2026-04-29'
 archived: false
 current_release:
-  tag: v16.5.4
-  published_at: '2026-04-27'
+  tag: v15.60.0
+  published_at: '2026-04-29'
 commit_history:
   2025-05: 147
   2025-06: 86
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 179
   2026-02: 254
   2026-03: 336
-  2026-04: 310
+  2026-04: 313

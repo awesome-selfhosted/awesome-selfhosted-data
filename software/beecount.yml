@@ -1,0 +1,12 @@
+name: BeeCount
+website_url: https://beecount-website.pages.dev
+source_code_url: https://github.com/TNT-Likely/BeeCount
+description: Cross-platform personal expense tracker with self-hostable cloud sync (BeeCount Cloud), iCloud, Supabase, WebDAV or S3 backends, optional AI bill recognition, and offline-first design. Includes Android, iOS and web clients.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Dart
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false

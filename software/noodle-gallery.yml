@@ -1,0 +1,11 @@
+name: Noodle Gallery
+website_url: https://opennoodle.de/
+description: Personal photo and video library with mobile backup, AI-powered search, collaborative shared spaces, Google Photos import, and S3 storage (alternative to Google Photos, fork of Immich).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Photo Galleries
+source_code_url: https://github.com/open-noodle/gallery
+demo_url: https://demo.opennoodle.de

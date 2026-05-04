@@ -1,6 +1,6 @@
 name: "Kono"
 website_url: "https://starwalkn.github.io/konodocs"
-source_code_url: "https://gitlab.com/starwalkn/kono"
+source_code_url: "https://github.com/starwalkn/kono"
 description: "Extensible API Gateway written in Go."
 licenses:
   - Apache-2.0

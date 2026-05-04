@@ -9,12 +9,10 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
-stargazers_count: 46627
-updated_at: '2026-03-24'
+stargazers_count: 46946
+updated_at: '2026-05-02'
 archived: false
 commit_history:
-  2025-04: 413
-  2025-05: 405
   2025-06: 332
   2025-07: 559
   2025-08: 515
@@ -24,4 +22,6 @@ commit_history:
   2025-12: 524
   2026-01: 403
   2026-02: 636
-  2026-03: 625
+  2026-03: 784
+  2026-04: 555
+  2026-05: 8

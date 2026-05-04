@@ -1,5 +1,5 @@
 name: Red Eclipse 2
-website_url: https://redeclipse.net
+website_url: https://www.redeclipse.net/
 description: Arena first-person shooter similar to Unreal Tournament.
 licenses:
   - Zlib
@@ -12,15 +12,13 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/redeclipse/base
-stargazers_count: 506
-updated_at: '2026-03-15'
+stargazers_count: 511
+updated_at: '2026-04-08'
 archived: false
 current_release:
   tag: v2.0.0
   published_at: '2019-12-19'
 commit_history:
-  2025-04: 27
-  2025-05: 43
   2025-06: 65
   2025-07: 70
   2025-08: 18
@@ -31,3 +29,5 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 12
+  2026-04: 4
+  2026-05: 0

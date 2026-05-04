@@ -9,15 +9,13 @@ platforms:
 tags:
   - Office Suites
 source_code_url: https://github.com/cryptpad/cryptpad
-stargazers_count: 7447
-updated_at: '2026-02-16'
+stargazers_count: 7540
+updated_at: '2026-04-01'
 archived: false
 current_release:
-  tag: 2026.2.0
-  published_at: '2026-02-11'
+  tag: 2026.2.2
+  published_at: '2026-04-01'
 commit_history:
-  2025-04: 95
-  2025-05: 166
   2025-06: 204
   2025-07: 110
   2025-08: 182
@@ -26,5 +24,7 @@ commit_history:
   2025-11: 1
   2025-12: 40
   2026-01: 69
-  2026-02: 65
-  2026-03: 0
+  2026-02: 79
+  2026-03: 80
+  2026-04: 9
+  2026-05: 0

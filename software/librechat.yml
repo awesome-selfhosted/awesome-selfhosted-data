@@ -1,0 +1,13 @@
+name: LibreChat
+website_url: https://www.librechat.ai
+source_code_url: https://github.com/danny-avila/LibreChat
+description: Enhanced ChatGPT-compatible AI chat interface supporting multiple AI providers, with multi-user auth, message search, and plugin support.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: https://chat.librechat.ai
+depends_3rdparty: true

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Genealogy
 source_code_url: https://github.com/geneweb/geneweb
-stargazers_count: 372
-updated_at: '2026-03-20'
+stargazers_count: 374
+updated_at: '2026-05-01'
 archived: false
 current_release:
   tag: v7.1.0-beta2
   published_at: '2025-12-25'
 commit_history:
-  2025-04: 137
-  2025-05: 60
   2025-06: 54
   2025-07: 43
   2025-08: 6
@@ -26,4 +24,6 @@ commit_history:
   2025-12: 66
   2026-01: 78
   2026-02: 62
-  2026-03: 69
+  2026-03: 97
+  2026-04: 139
+  2026-05: 55

@@ -9,15 +9,13 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/gotson/komga
-stargazers_count: 6072
-updated_at: '2026-03-23'
+stargazers_count: 6201
+updated_at: '2026-04-27'
 archived: false
 current_release:
-  tag: 1.24.1
-  published_at: '2026-01-29'
+  tag: 1.24.4
+  published_at: '2026-04-24'
 commit_history:
-  2025-04: 5
-  2025-05: 16
   2025-06: 23
   2025-07: 61
   2025-08: 35
@@ -27,4 +25,6 @@ commit_history:
   2025-12: 5
   2026-01: 15
   2026-02: 9
-  2026-03: 11
+  2026-03: 26
+  2026-04: 17
+  2026-05: 0

@@ -10,15 +10,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/miniflux/v2
-stargazers_count: 8957
-updated_at: '2026-03-24'
+stargazers_count: 9149
+updated_at: '2026-05-02'
 archived: false
 current_release:
-  tag: 2.2.18
-  published_at: '2026-03-15'
+  tag: 2.2.19
+  published_at: '2026-04-05'
 commit_history:
-  2025-04: 32
-  2025-05: 46
   2025-06: 101
   2025-07: 83
   2025-08: 133
@@ -28,4 +26,6 @@ commit_history:
   2025-12: 30
   2026-01: 56
   2026-02: 47
-  2026-03: 71
+  2026-03: 93
+  2026-04: 47
+  2026-05: 4

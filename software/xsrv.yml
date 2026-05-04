@@ -9,15 +9,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/nodiscc/xsrv
-stargazers_count: 394
-updated_at: '2026-03-24'
+stargazers_count: 400
+updated_at: '2026-04-29'
 archived: false
 current_release:
-  tag: 1.27.0
-  published_at: '2025-03-02'
+  tag: 2.0.0
+  published_at: '2026-04-02'
 commit_history:
-  2025-04: 17
-  2025-05: 8
   2025-06: 17
   2025-07: 18
   2025-08: 25
@@ -27,4 +25,6 @@ commit_history:
   2025-12: 0
   2026-01: 72
   2026-02: 54
-  2026-03: 42
+  2026-03: 66
+  2026-04: 80
+  2026-05: 0

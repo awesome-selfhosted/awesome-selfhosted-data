@@ -9,12 +9,10 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/rstudio/rstudio
-stargazers_count: 4976
-updated_at: '2026-03-24'
+stargazers_count: 4989
+updated_at: '2026-05-01'
 archived: false
 commit_history:
-  2025-04: 120
-  2025-05: 108
   2025-06: 67
   2025-07: 77
   2025-08: 106
@@ -24,4 +22,6 @@ commit_history:
   2025-12: 68
   2026-01: 148
   2026-02: 118
-  2026-03: 104
+  2026-03: 128
+  2026-04: 138
+  2026-05: 6

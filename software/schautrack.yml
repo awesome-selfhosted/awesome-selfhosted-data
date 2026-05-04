@@ -1,0 +1,11 @@
+name: Schautrack
+website_url: https://schautrack.com
+source_code_url: https://github.com/schaurian/schautrack
+description: Nutrition tracker for calories, macros and weight, with daily goals, AI-powered photo estimation (OpenAI, Claude, or Ollama), OpenFoodFacts barcode scanning, passkey/TOTP auth, and account linking for sharing progress.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Health and Fitness

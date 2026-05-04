@@ -8,3 +8,4 @@ platforms:
   - Docker
 tags:
   - Media Management
+depends_3rdparty: true

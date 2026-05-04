@@ -5,8 +5,6 @@ description: "Download Spotify music with album art and metadata."
 licenses:
   - GPL-3.0
 platforms:
-  - Python
-  - Javascript
   - Docker
 tags:
   - Media Management

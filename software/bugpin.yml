@@ -1,0 +1,16 @@
+name: BugPin
+website_url: https://bugpin.io
+source_code_url: https://github.com/aranticlabs/bugpin
+description: An open-source, self-hosted visual bug reporting tool for web applications.
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - Typescript
+  - Bun
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Ticketing
+depends_3rdparty: false
+

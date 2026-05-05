@@ -1,0 +1,12 @@
+name: Teable
+website_url: https://teable.io
+description: No-code database with a spreadsheet-like interface, built on Postgres (alternative to Airtable).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Database Management
+source_code_url: https://github.com/teableio/teable
+demo_url: https://app.teable.io/share/shrVgdLiOvNQABtW0yX/view

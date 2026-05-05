@@ -1,0 +1,12 @@
+name: httpSMS
+website_url: "https://httpsms.com"
+source_code_url: "https://github.com/NdoleStudio/httpsms"
+description: "SMS gateway that converts an Android phone into an SMS server accessible via an HTTP API with webhook support for incoming messages."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: "https://httpsms.com"

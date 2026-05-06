@@ -9,14 +9,13 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/solidusio/solidus
-stargazers_count: 5280
-updated_at: '2026-03-25'
+stargazers_count: 5291
+updated_at: '2026-04-30'
 archived: false
 current_release:
-  tag: v4.6.2
-  published_at: '2025-11-27'
+  tag: v4.7.0
+  published_at: '2026-04-15'
 commit_history:
-  2025-05: 62
   2025-06: 82
   2025-07: 60
   2025-08: 45
@@ -27,4 +26,5 @@ commit_history:
   2026-01: 9
   2026-02: 11
   2026-03: 64
-  2026-04: 0
+  2026-04: 42
+  2026-05: 0

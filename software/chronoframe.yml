@@ -10,15 +10,16 @@ platforms:
 tags:
   - Photo Galleries
 demo_url: https://lens.bh8.ga/
-stargazers_count: 1712
-updated_at: '2026-04-02'
+stargazers_count: 1767
+updated_at: '2026-04-17'
 archived: false
 current_release:
-  tag: v1.0.0-beta.2
-  published_at: '2025-11-19'
+  tag: v1.0.0-rc.3
+  published_at: '2026-04-17'
 commit_history:
   2025-12: 3
   2026-01: 0
   2026-02: 1
   2026-03: 1
-  2026-04: 15
+  2026-04: 81
+  2026-05: 0

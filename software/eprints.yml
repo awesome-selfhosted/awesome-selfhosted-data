@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/eprints/eprints3.4
 demo_url: http://tryme.demo.eprints-hosting.org/
 stargazers_count: 41
-updated_at: '2026-03-31'
+updated_at: '2026-04-24'
 archived: false
 current_release:
   tag: v3.4.7
   published_at: '2025-08-29'
 commit_history:
-  2025-05: 3
   2025-06: 7
   2025-07: 3
   2025-08: 36
@@ -27,4 +26,5 @@ commit_history:
   2026-01: 15
   2026-02: 0
   2026-03: 9
-  2026-04: 0
+  2026-04: 8
+  2026-05: 0

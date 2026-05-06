@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/huginn/huginn
-stargazers_count: 49024
-updated_at: '2026-04-01'
+stargazers_count: 49214
+updated_at: '2026-05-02'
 archived: false
 current_release:
   tag: v2022.08.18
   published_at: '2022-08-18'
 commit_history:
-  2025-05: 0
   2025-06: 0
   2025-07: 0
   2025-08: 1
@@ -25,5 +24,6 @@ commit_history:
   2025-12: 1
   2026-01: 0
   2026-02: 7
-  2026-03: 124
-  2026-04: 3
+  2026-03: 125
+  2026-04: 32
+  2026-05: 18

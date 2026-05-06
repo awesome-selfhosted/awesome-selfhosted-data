@@ -9,14 +9,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/healthchecks/healthchecks
-stargazers_count: 9963
-updated_at: '2026-04-02'
+stargazers_count: 10001
+updated_at: '2026-04-30'
 archived: false
 current_release:
-  tag: v4.1.1
-  published_at: '2026-03-25'
+  tag: v4.2
+  published_at: '2026-04-28'
 commit_history:
-  2025-05: 14
   2025-06: 21
   2025-07: 14
   2025-08: 24
@@ -27,4 +26,5 @@ commit_history:
   2026-01: 28
   2026-02: 12
   2026-03: 47
-  2026-04: 1
+  2026-04: 22
+  2026-05: 0

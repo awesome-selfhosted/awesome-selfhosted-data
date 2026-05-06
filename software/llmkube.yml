@@ -1,7 +1,7 @@
 name: LLMKube
 website_url: https://llmkube.com
 source_code_url: https://github.com/defilantech/LLMKube
-description: Kubernetes operator for LLM inference with pluggable runtimes (llama.cpp, PersonaPlex/Moshi, generic), multi-GPU sharding, NVIDIA CUDA and Apple Silicon Metal support, and OpenAI-compatible API.
+description: Kubernetes operator for self-hosted LLM inference with pluggable runtimes (llama.cpp, vLLM, TGI, Ollama, vllm-swift), multi-GPU sharding, NVIDIA CUDA + Apple Silicon Metal support, and OpenAI-compatible API.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,13 +10,14 @@ platforms:
   - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 45
-updated_at: '2026-04-10'
+stargazers_count: 68
+updated_at: '2026-05-02'
 archived: false
 current_release:
-  tag: v0.6.0
-  published_at: '2026-04-08'
+  tag: v0.7.5
+  published_at: '2026-04-30'
 commit_history:
   2026-02: 40
   2026-03: 42
-  2026-04: 15
+  2026-04: 69
+  2026-05: 7

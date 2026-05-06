@@ -1,0 +1,10 @@
+name: "Multi Volume Mount Transport"
+website_url: "https://github.com/philipnee/mvmt"
+source_code_url: "https://github.com/philipnee/mvmt"
+description: "File sharing that works with existing folder structures, mounts local directories, and grants read/write access through per-client scoped tokens."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer & Synchronization

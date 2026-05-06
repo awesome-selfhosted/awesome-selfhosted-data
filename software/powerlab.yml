@@ -1,0 +1,12 @@
+name: PowerLab
+website_url: https://github.com/neochaotic/powerlab
+source_code_url: https://github.com/neochaotic/powerlab
+description: Self-hosted home server panel with a curated 300+ Docker app catalogue, custom Compose builder, live system telemetry, and first-class support for local AI workloads (Ollama, AnythingLLM, ChatGPT-Next-Web). Sign in with your operating-system credentials, reachable on the LAN at powerlab.local via mDNS.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Self-hosting Solutions

@@ -1,0 +1,13 @@
+name: "Fizzy"
+website_url: "https://www.fizzy.do/"
+source_code_url: "https://github.com/basecamp/fizzy"
+description: "Fizzy is a free kanban-based tracking tool for managing bugs, tasks, ideas, and small projects. It focuses on a simple, fast interface and aims to provide a lightweight alternative to more complex project management platforms like Trello, Jira, and Asana."
+licenses:
+  - O'Saasy
+platforms:
+  - Ruby
+  - Docker
+tags:
+  - Task management & To-do lists
+  - Groupware
+  - Resource Planning

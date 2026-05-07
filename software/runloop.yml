@@ -1,0 +1,12 @@
+name: RunLoop
+website_url: https://github.com/EnterpriseX-Platform/RunLoop
+source_code_url: https://github.com/EnterpriseX-Platform/RunLoop
+description: Workflow engine combining a drag-drop DAG editor with multi-runtime code execution (Python/Node.js/Shell/Docker), four pluggable queue backends (Postgres/RabbitMQ/Kafka/Redis Streams), an AES-256-GCM secret vault, and WebSocket-streamed live executions. Three containers, ~140 MiB RAM idle.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Automation

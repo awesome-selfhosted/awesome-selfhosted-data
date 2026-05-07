@@ -1,7 +1,7 @@
 name: TSDProxy
 website_url: https://github.com/almeidapaulopt/tsdproxy
 source_code_url: https://github.com/almeidapaulopt/tsdproxy
-description: Automatic reverse proxy and access to Docker containers through Tailscale.
+description: Automatic reverse proxy for Docker containers on Tailscale, configured via Docker labels or YAML proxy lists.
 licenses:
   - MIT
 platforms:

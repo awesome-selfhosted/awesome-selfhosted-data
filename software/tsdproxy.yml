@@ -1,0 +1,12 @@
+name: "TSDProxy"
+website_url: "https://almeidapaulopt.github.io/tsdproxy/"
+source_code_url: "https://github.com/almeidapaulopt/tsdproxy"
+description: "Automatic reverse proxy that exposes Docker containers via Tailscale, configured with Docker labels or YAML lists (alternative to Nginx Proxy Manager, Traefik)."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Web Servers
+depends_3rdparty: true

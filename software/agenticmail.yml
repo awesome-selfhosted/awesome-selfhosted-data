@@ -1,0 +1,12 @@
+name: AgenticMail
+website_url: https://github.com/agenticmail/agenticmail
+source_code_url: https://github.com/agenticmail/agenticmail
+description: Communication platform for AI agents that provisions a real email address, phone number, inbox, and API key per agent, bundling a local Stalwart mail server, Google Voice SMS integration, REST API, MCP server, and CLI.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions
+depends_3rdparty: true

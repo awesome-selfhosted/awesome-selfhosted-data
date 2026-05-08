@@ -1,0 +1,11 @@
+name: WhatsApp Readonly Bridge
+website_url: https://github.com/MarketingBoer/whatsapp-readonly-bridge
+description: Receives WhatsApp messages via the official Meta Cloud API and saves them to a JSONL file, with Telegram digest for team discussion. Read-only by design.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/MarketingBoer/whatsapp-readonly-bridge

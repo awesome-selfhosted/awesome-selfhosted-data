@@ -1,0 +1,13 @@
+name: Compass Calendar
+website_url: https://www.compasscalendar.com
+source_code_url: https://github.com/SwitchbackTech/compass
+description: Calendar-based task manager (alternative to AppFlowy, Super Productivity).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Javascript
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+demo_url: https://app.compasscalendar.com

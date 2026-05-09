@@ -8,12 +8,12 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/sharetribe/sharetribe
-stargazers_count: 2442
-updated_at: '2026-04-29'
+stargazers_count: 2443
+updated_at: '2026-05-06'
 archived: false
 current_release:
-  tag: v13.0.0
-  published_at: '2026-02-17'
+  tag: v14.0.0
+  published_at: '2026-05-06'
 commit_history:
   2025-06: 8
   2025-07: 2
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 14
   2026-03: 2
   2026-04: 8
-  2026-05: 0
+  2026-05: 10

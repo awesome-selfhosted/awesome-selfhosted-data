@@ -10,8 +10,8 @@ tags:
   - Document Management - Integrated Library Systems (ILS)
 source_code_url: https://github.com/rero/rero-ils
 demo_url: https://ils.test.rero.ch/
-stargazers_count: 87
-updated_at: '2026-04-28'
+stargazers_count: 86
+updated_at: '2026-05-07'
 archived: false
 current_release:
   tag: v1.28.0
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 15
   2026-03: 10
   2026-04: 13
-  2026-05: 0
+  2026-05: 3

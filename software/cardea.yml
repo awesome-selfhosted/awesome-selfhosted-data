@@ -1,7 +1,7 @@
-name: "Cardea"
-website_url: "https://github.com/hectorm/cardea"
-source_code_url: "https://github.com/hectorm/cardea"
-description: "SSH bastion server with access control, session recording, and optional TPM-backed key protection."
+name: Cardea
+website_url: https://github.com/hectorm/cardea
+source_code_url: https://github.com/hectorm/cardea
+description: SSH bastion server with access control, session recording, and optional TPM-backed key protection.
 licenses:
   - EUPL-1.2
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - Remote Access
+stargazers_count: 16
+updated_at: '2026-05-04'
+archived: false
+current_release:
+  tag: v1.6.2
+  published_at: '2026-05-04'
+commit_history:
+  2026-03: 71
+  2026-04: 47
+  2026-05: 9

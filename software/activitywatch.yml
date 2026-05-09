@@ -8,12 +8,12 @@ platforms:
 tags:
   - Time Tracking
 source_code_url: https://github.com/ActivityWatch/activitywatch
-stargazers_count: 17430
-updated_at: '2026-05-01'
+stargazers_count: 17483
+updated_at: '2026-05-07'
 archived: false
 current_release:
-  tag: v0.13.2
-  published_at: '2024-10-05'
+  tag: v0.14.0b1
+  published_at: '2026-05-07'
 commit_history:
   2025-06: 0
   2025-07: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 3
   2026-03: 11
   2026-04: 26
-  2026-05: 2
+  2026-05: 7

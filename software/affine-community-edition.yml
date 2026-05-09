@@ -10,12 +10,12 @@ platforms:
 tags:
   - Knowledge Management Tools
 demo_url: https://app.affine.pro/
-stargazers_count: 67931
-updated_at: '2026-04-29'
+stargazers_count: 68118
+updated_at: '2026-05-07'
 archived: false
 current_release:
-  tag: v2026.4.10-canary.928
-  published_at: '2026-04-10'
+  tag: v2026.5.7-canary.951
+  published_at: '2026-05-07'
 commit_history:
   2025-06: 190
   2025-07: 283
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 95
   2026-03: 87
   2026-04: 52
-  2026-05: 0
+  2026-05: 23

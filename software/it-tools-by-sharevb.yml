@@ -9,15 +9,15 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://sharevb-it-tools.vercel.app/
-stargazers_count: 1309
-updated_at: '2026-05-02'
+stargazers_count: 1317
+updated_at: '2026-05-03'
 archived: false
 current_release:
-  tag: v2026.1.4
-  published_at: '2026-02-20'
+  tag: nightly
+  published_at: '2026-05-03'
 commit_history:
   2026-01: 62
   2026-02: 27
   2026-03: 18
   2026-04: 26
-  2026-05: 1
+  2026-05: 10

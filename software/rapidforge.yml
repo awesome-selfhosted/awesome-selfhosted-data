@@ -10,12 +10,15 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 stargazers_count: 36
-updated_at: '2026-05-02'
+updated_at: '2026-05-05'
 archived: false
 commit_history:
   2025-12: 4
   2026-01: 8
   2026-02: 13
   2026-03: 17
-  2026-04: 24
-  2026-05: 1
+  2026-04: 25
+  2026-05: 4
+current_release:
+  tag: v0.14.0
+  published_at: '2026-05-05'

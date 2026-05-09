@@ -10,12 +10,12 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/eikek/docspell
-stargazers_count: 2234
-updated_at: '2026-05-02'
+stargazers_count: 2239
+updated_at: '2026-05-05'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-05-02'
+  published_at: '2026-05-05'
 commit_history:
   2025-06: 38
   2025-07: 24
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 14
   2026-03: 5
   2026-04: 9
-  2026-05: 2
+  2026-05: 4

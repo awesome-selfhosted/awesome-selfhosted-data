@@ -8,8 +8,8 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/graphhopper/graphhopper
-stargazers_count: 6421
-updated_at: '2026-04-30'
+stargazers_count: 6431
+updated_at: '2026-05-07'
 archived: false
 current_release:
   tag: '11.0'
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 50
   2026-03: 39
   2026-04: 41
-  2026-05: 0
+  2026-05: 11

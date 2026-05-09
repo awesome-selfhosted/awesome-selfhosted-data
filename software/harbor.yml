@@ -9,12 +9,12 @@ platforms:
   - K8S
 tags:
   - File Transfer - Object Storage & File Servers
-stargazers_count: 28408
-updated_at: '2026-05-01'
+stargazers_count: 28443
+updated_at: '2026-05-07'
 archived: false
 current_release:
-  tag: v2.15.1-rc1
-  published_at: '2026-04-29'
+  tag: v2.15.1
+  published_at: '2026-05-06'
 commit_history:
   2025-06: 14
   2025-07: 28
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 22
   2026-03: 19
   2026-04: 21
-  2026-05: 1
+  2026-05: 4

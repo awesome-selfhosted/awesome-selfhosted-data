@@ -1,10 +1,20 @@
-name: "BotWave"
-website_url: "https://botwave.dpip.lol"
-source_code_url: "https://github.com/dpipstudio/botwave"
-description: "FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely."
+name: BotWave
+website_url: https://botwave.dpip.lol
+source_code_url: https://github.com/dpipstudio/botwave
+description: FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely.
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
   - Media Streaming - Audio Streaming
+stargazers_count: 127
+updated_at: '2026-05-06'
+archived: false
+current_release:
+  tag: v1.1.5-erycibe
+  published_at: '2026-05-06'
+commit_history:
+  2026-03: 128
+  2026-04: 68
+  2026-05: 3

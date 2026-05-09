@@ -11,12 +11,12 @@ tags:
   - Remote Access
 source_code_url: https://github.com/heyputer/puter
 demo_url: https://puter.com/
-stargazers_count: 40844
-updated_at: '2026-05-02'
+stargazers_count: 40957
+updated_at: '2026-05-07'
 archived: false
 current_release:
-  tag: v2.5.1
-  published_at: '2025-02-14'
+  tag: '26.05'
+  published_at: '2026-05-05'
 commit_history:
   2025-06: 84
   2025-07: 147
@@ -29,4 +29,4 @@ commit_history:
   2026-02: 233
   2026-03: 174
   2026-04: 124
-  2026-05: 47
+  2026-05: 120

@@ -1,0 +1,19 @@
+# software name
+name: "HQ"
+# URL of the software project's homepage
+website_url: "https://github.com/aiwah-labs/hq"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/aiwah-labs/hq"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Self-hosted business operations platform where teams and AI agents work together — objects, actions, workflows, permissions, admin UI, and an MCP server out of the box."
+# list of license identifiers
+licenses:
+  - MIT
+# list of languages/platforms
+platforms:
+  - Nodejs
+  - Docker
+# list of tags (categories)
+tags:
+  - Software Development - Low Code
+  - Automation

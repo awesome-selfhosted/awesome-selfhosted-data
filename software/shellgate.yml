@@ -1,0 +1,11 @@
+name: Shellgate
+website_url: https://shellgate.ai
+source_code_url: https://github.com/matthiastjong/shellgate
+description: Security gateway for AI agents providing SSH tunneling, MCP tool proxying, credential vault, human-in-the-loop approval, and audit logging.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Remote Access

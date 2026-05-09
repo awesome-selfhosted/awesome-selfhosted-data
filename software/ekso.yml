@@ -4,7 +4,6 @@ description: Help desk ticketing and project/issue tracker
 licenses:
   - ⊘ Proprietary
 platforms:
-  - .NET
   - Docker
 tags:
   - Ticketing

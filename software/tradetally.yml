@@ -1,8 +1,7 @@
 name: TradeTally
 website_url: https://tradetally.io/
 source_code_url: https://github.com/GeneBO98/tradetally
-description: Trading journal and analytics platform for tracking trades, performance metrics and P&L across multiple brokers, with CSV
-imports, AI insights and interactive charts.
+description: Self-hosted trading journal and analytics for tracking trades, P&L and performance across multiple brokers.
 licenses:
   - Apache-2.0
 platforms:

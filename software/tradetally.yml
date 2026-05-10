@@ -1,0 +1,23 @@
+name: TradeTally.io
+description: '[TradeTally.io](https://tradetally.io) is a tool designed for day traders and investors to track their trades, analyze performance, and visualize critical metrics over time. Whether self-hosted or used via the official platform, TradeTally provides an alternative to paid services like TraderVue, helping traders make informed decisions through accessible analytics.'
+
+related_tags:
+  - Trading analytics
+  - Trade journaling
+  - Investment tracking
+  - Performance metrics
+
+external_links:
+  - title: TradeTally GitHub
+    url: https://github.com/GeneBO98/tradetally
+
+licenses:
+  - identifier: Apache-2.0
+    name: Apache License 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0
+
+platforms:
+  - name: JavaScript
+    description: "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a versatile, high-level programming language that is a core technology of the World Wide Web."
+  - name: Vue.js
+    description: "[Vue.js](https://vuejs.org/) is a progressive JavaScript framework used for building user interfaces and single-page applications."

@@ -10,12 +10,12 @@ tags:
   - Bookmarks and Link Sharing
   - Pastebins
 demo_url: https://try.karakeep.app/signin
-stargazers_count: 25015
-updated_at: '2026-05-07'
+stargazers_count: 25039
+updated_at: '2026-05-09'
 archived: false
 current_release:
-  tag: v0.31.0
-  published_at: '2026-02-22'
+  tag: v0.32.0
+  published_at: '2026-05-08'
 commit_history:
   2025-06: 55
   2025-07: 109
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 126
   2026-03: 68
   2026-04: 89
-  2026-05: 18
+  2026-05: 24

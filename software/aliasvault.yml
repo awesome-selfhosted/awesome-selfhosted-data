@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Password Managers
-stargazers_count: 2455
-updated_at: '2026-05-06'
+stargazers_count: 2459
+updated_at: '2026-05-09'
 archived: false
 current_release:
   tag: 0.29.1
@@ -21,4 +21,4 @@ commit_history:
   2026-02: 264
   2026-03: 122
   2026-04: 147
-  2026-05: 24
+  2026-05: 27

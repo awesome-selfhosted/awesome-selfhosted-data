@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/agersant/polaris
-stargazers_count: 2624
-updated_at: '2026-05-01'
+stargazers_count: 2627
+updated_at: '2026-05-08'
 archived: false
 current_release:
-  tag: 0.16.0
-  published_at: '2026-03-05'
+  tag: 0.16.1
+  published_at: '2026-05-08'
 commit_history:
   2025-06: 0
   2025-07: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 23
   2026-03: 20
   2026-04: 3
-  2026-05: 1
+  2026-05: 2

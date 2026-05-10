@@ -8,8 +8,8 @@ platforms:
 tags:
   - Document Management - Institutional Repository and Digital Library Software
 source_code_url: https://github.com/DSpace/DSpace
-stargazers_count: 1061
-updated_at: '2026-05-07'
+stargazers_count: 1062
+updated_at: '2026-05-08'
 archived: false
 current_release:
   tag: dspace-10.0-rc1
@@ -24,6 +24,6 @@ commit_history:
   2025-12: 135
   2026-01: 45
   2026-02: 132
-  2026-03: 182
-  2026-04: 93
-  2026-05: 37
+  2026-03: 183
+  2026-04: 95
+  2026-05: 58

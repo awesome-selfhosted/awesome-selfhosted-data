@@ -10,8 +10,8 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/mattermost/mattermost
-stargazers_count: 36574
-updated_at: '2026-05-07'
+stargazers_count: 36606
+updated_at: '2026-05-08'
 archived: false
 current_release:
   tag: v11.7.0-rc5
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 133
   2026-03: 165
   2026-04: 199
-  2026-05: 56
+  2026-05: 68

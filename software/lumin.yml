@@ -1,7 +1,7 @@
 name: Lumin
 website_url: https://github.com/amitbidlan/zistica-lumin
 source_code_url: https://github.com/amitbidlan/zistica-lumin
-description: Local-first observability + security for LLM agents. OWASP LLM Top 10 guardrails (prompt injection, PII redaction, excessive agency) plus tenant-isolation firewall. Drops in via LangChain, CrewAI, LlamaIndex, Mastra, VoltAgent or OTLP.
+description: Open-source platform for LLM agents in production. Observability, policy engine (shadow/enforce, suggester, replay), OWASP LLM Top 10 guardrails (Presidio/Prompt Guard/Llama Guard), approvals, tenant-isolation firewall. 16 framework integrations.
 licenses:
   - Apache-2.0
 platforms:

@@ -10,12 +10,12 @@ tags:
   - Feed Readers
 source_code_url: https://github.com/FreshRSS/FreshRSS
 demo_url: https://demo.freshrss.org/i/
-stargazers_count: 14968
-updated_at: '2026-05-09'
+stargazers_count: 14980
+updated_at: '2026-05-10'
 archived: false
 current_release:
-  tag: 1.28.1
-  published_at: '2026-01-25'
+  tag: 1.29.0
+  published_at: '2026-05-10'
 commit_history:
   2025-06: 34
   2025-07: 33
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 24
   2026-03: 55
   2026-04: 52
-  2026-05: 38
+  2026-05: 45

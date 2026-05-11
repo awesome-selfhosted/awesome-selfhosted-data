@@ -9,11 +9,11 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 stargazers_count: 1133
-updated_at: '2026-05-08'
+updated_at: '2026-05-10'
 archived: false
 current_release:
-  tag: v3.10.1
-  published_at: '2026-02-24'
+  tag: v3.11.0
+  published_at: '2026-05-10'
 commit_history:
   2025-06: 21
   2025-07: 237
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 66
   2026-03: 108
   2026-04: 93
-  2026-05: 27
+  2026-05: 32

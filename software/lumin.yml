@@ -1,0 +1,12 @@
+name: Lumin
+website_url: https://github.com/amitbidlan/zistica-lumin
+source_code_url: https://github.com/amitbidlan/zistica-lumin
+description: Local-first AI agent observability with a tenant-isolation firewall built in. Drop-in integrations for LangChain, CrewAI, LlamaIndex, Mastra, VoltAgent, OpenClaw + OTLP receiver for any OpenTelemetry-instrumented agent. Five-layer structural defense against cross-session leaks in multi-tenant bots (per-user file sandbox, deny-by-default for shells/network egress, conversation-history reset on sender switch, Presidio NER prompt scrub, audit trail). Single Docker container, DuckDB-backed.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)

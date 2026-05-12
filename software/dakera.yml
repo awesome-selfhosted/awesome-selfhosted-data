@@ -1,0 +1,11 @@
+name: "Dakera"
+website_url: "https://dakera.ai"
+source_code_url: "https://github.com/dakera-ai/dakera-mcp"
+description: "MCP-native AI agent memory server. Provides agents with persistent, decay-weighted recall across sessions via 83 MCP tools, backed by RocksDB and HNSW vector search."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Generative AI

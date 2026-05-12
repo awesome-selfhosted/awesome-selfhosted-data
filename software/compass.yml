@@ -1,0 +1,11 @@
+name: Compass
+website_url: https://adinhodovic.github.io/compass/
+source_code_url: https://github.com/adinhodovic/compass
+description: Landing page for services, dashboards, and documents, with automatic discovery from sources such as Docker, Kubernetes, and Tailscale.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Personal Dashboards

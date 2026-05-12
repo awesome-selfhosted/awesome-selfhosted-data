@@ -5,7 +5,6 @@ description: "A file sharing platform with support for logins, reverse shares, s
 licenses:
   - BSD-2-Clause
 platforms:
-  - Nodejs
   - Docker
 tags:
   - File Transfer & Synchronization

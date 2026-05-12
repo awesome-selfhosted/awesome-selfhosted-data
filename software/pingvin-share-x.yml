@@ -1,0 +1,12 @@
+name: "Pingvin Share X"
+website_url: "https://github.com/smp46/pingvin-share-x"
+source_code_url: "https://github.com/smp46/pingvin-share-x"
+description: "A file sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more. Fork of Pingvin Share."
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer & Synchronization
+  - File Transfer - Single-click & Drag-n-drop Upload

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 28144
-updated_at: '2026-05-08'
+stargazers_count: 28171
+updated_at: '2026-05-11'
 archived: false
 current_release:
-  tag: py@0.13.0
-  published_at: '2026-05-07'
+  tag: '@composio/vercel@0.9.1'
+  published_at: '2026-05-11'
 commit_history:
   2025-06: 346
   2025-07: 166
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 790
   2026-03: 621
   2026-04: 306
-  2026-05: 181
+  2026-05: 226

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/laurent22/joplin
-stargazers_count: 54742
-updated_at: '2026-05-10'
+stargazers_count: 54759
+updated_at: '2026-05-11'
 archived: false
 current_release:
-  tag: v3.6.11
-  published_at: '2026-05-08'
+  tag: v3.7.1
+  published_at: '2026-05-11'
 commit_history:
   2025-06: 181
   2025-07: 151
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 193
   2026-03: 212
   2026-04: 155
-  2026-05: 63
+  2026-05: 97

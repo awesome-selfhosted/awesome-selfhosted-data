@@ -1,0 +1,19 @@
+# software name
+name: "d9"
+# URL of the software project's homepage
+website_url: "https://d9.webcapsule.io"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/LaWebcapsule/d9"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS, forked from Directus v9."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - GPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Nodejs
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Database Management
+  - CMS
+(fork of [Directus](https://github.com/directus/directus))

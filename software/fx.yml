@@ -8,12 +8,12 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/rikhuijzer/fx
-stargazers_count: 309
-updated_at: '2026-05-09'
+stargazers_count: 310
+updated_at: '2026-05-12'
 archived: false
 current_release:
-  tag: v1.5.1
-  published_at: '2026-04-10'
+  tag: v1.5.2
+  published_at: '2026-05-12'
 commit_history:
   2025-06: 6
   2025-07: 3
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 32
   2026-03: 4
   2026-04: 12
-  2026-05: 3
+  2026-05: 5

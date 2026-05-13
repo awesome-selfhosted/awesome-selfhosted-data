@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/Alinto/sogo
 demo_url: https://demo.sogo.nu/SOGo/
 stargazers_count: 2109
-updated_at: '2026-05-11'
+updated_at: '2026-05-12'
 archived: false
 current_release:
-  tag: SOGo-5.12.7
-  published_at: '2026-03-30'
+  tag: SOGo-5.12.8
+  published_at: '2026-05-12'
 commit_history:
   2025-06: 15
   2025-07: 16
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 7
   2026-03: 18
   2026-04: 6
-  2026-05: 9
+  2026-05: 11

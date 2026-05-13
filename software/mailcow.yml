@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/mailcow/mailcow-dockerized
-stargazers_count: 12728
-updated_at: '2026-03-31'
+stargazers_count: 12737
+updated_at: '2026-05-12'
 archived: false
 current_release:
-  tag: 2026-03b
-  published_at: '2026-03-31'
+  tag: 2026-05
+  published_at: '2026-05-12'
 commit_history:
   2025-06: 8
   2025-07: 18
@@ -26,5 +26,5 @@ commit_history:
   2026-01: 25
   2026-02: 14
   2026-03: 74
-  2026-04: 0
-  2026-05: 0
+  2026-04: 2
+  2026-05: 5

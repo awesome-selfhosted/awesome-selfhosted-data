@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 64
-updated_at: '2026-05-10'
+updated_at: '2026-05-13'
 archived: false
 current_release:
-  tag: plugin-storagotchi-1.0.2
-  published_at: '2026-05-09'
+  tag: core-base+station-1.17.1
+  published_at: '2026-05-13'
 commit_history:
   2025-06: 49
   2025-07: 113
@@ -26,5 +26,5 @@ commit_history:
   2026-01: 168
   2026-02: 219
   2026-03: 201
-  2026-04: 213
-  2026-05: 77
+  2026-04: 222
+  2026-05: 151

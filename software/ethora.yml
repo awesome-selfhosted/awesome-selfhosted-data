@@ -1,0 +1,12 @@
+name: Ethora
+website_url: https://ethora.com
+source_code_url: https://github.com/dappros/ethora
+description: Chat and messaging platform with a built-in AI agent / chatbot framework. Ships SDKs for React, native iOS/Android, and WordPress. Self-host the server or use the hosted Ethora Cloud.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+related_software_url: https://github.com/dappros/ethora#ecosystem

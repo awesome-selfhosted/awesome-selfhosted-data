@@ -1,0 +1,11 @@
+# https://github.com/MeridianNIP/meridian
+name: Meridian NIP
+website_url: https://meridiannip.com
+source_code_url: https://github.com/MeridianNIP/meridian
+description: Self-hosted DNS / DHCP / IPAM portal with built-in network diagnostics (dig + multi-resolver propagation, DNSSEC chain, traceroute, MTR, port scan, BGP looking glass, IP reputation), certificate lifecycle, scheduled monitors, runbooks, threat intel, and device-config backup — all behind one MFA-gated, audit-chained login. Reader + tooling surface over Infoblox / NetBox / phpIPAM / BlueCat / ISC Kea / LDAP / Entra.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Network Utilities

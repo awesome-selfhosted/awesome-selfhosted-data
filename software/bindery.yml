@@ -1,0 +1,12 @@
+name: Bindery
+website_url: https://github.com/vavallee/bindery
+description: Automated book manager for Usenet and torrents. Monitors authors, searches Prowlarr-compatible indexers, and downloads and organizes ebooks and audiobooks.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Automation
+  - Document Management - E-books
+source_code_url: https://github.com/vavallee/bindery

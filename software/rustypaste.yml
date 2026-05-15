@@ -9,11 +9,11 @@ tags:
   - Pastebins
 source_code_url: https://github.com/orhun/rustypaste
 stargazers_count: 1160
-updated_at: '2026-05-11'
+updated_at: '2026-05-14'
 archived: false
 current_release:
-  tag: v0.16.1
-  published_at: '2025-03-21'
+  tag: v0.17.0
+  published_at: '2026-05-14'
 commit_history:
   2025-06: 2
   2025-07: 6
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 9
   2026-03: 6
   2026-04: 14
-  2026-05: 2
+  2026-05: 3

@@ -1,0 +1,12 @@
+name: Garlic-Hub
+website_url: https://garlic-signage.com/garlic-hub/
+source_code_url: https://github.com/garlic-signage/garlic-hub
+description: Digital signage device and content management system with SMIL playlist support and scheduling.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Javascript
+  - Docker
+tags:
+  - Miscellaneous

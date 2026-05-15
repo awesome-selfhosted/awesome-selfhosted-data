@@ -1,0 +1,12 @@
+name: VibeNVR
+website_url: https://www.vibenvr.org
+source_code_url: https://github.com/spupuz/VibeNVR
+description: NVR for RTSP cameras with AI motion detection, recordings and Telegram notifications (alternative to Frigate).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Javascript
+tags:
+  - Video Surveillance

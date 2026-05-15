@@ -1,0 +1,11 @@
+name: Anthias
+website_url: https://anthias.screenly.io/
+source_code_url: https://github.com/Screenly/Anthias
+description: Digital signage platform for Raspberry Pi and x86 devices with web-based content management.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Digital Signage

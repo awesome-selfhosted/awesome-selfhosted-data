@@ -1,0 +1,11 @@
+name: Xibo
+website_url: https://xibosignage.com/
+source_code_url: https://github.com/xibosignage/xibo-cms
+description: Digital signage content management system with scheduling, display management and multi-user support.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Digital Signage

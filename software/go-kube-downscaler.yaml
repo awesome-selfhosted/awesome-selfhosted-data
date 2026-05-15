@@ -1,0 +1,12 @@
+name: "GoKubeDownscaler"
+website_url: "https://kube-downscaler.io"
+source_code_url: "https://github.com/caas-team/GoKubeDownscaler"
+description: "Kubernetes autoscaler that reduces cluster costs by scaling workloads to zero during off-hours such as nights, weekends, and holidays"
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Automation

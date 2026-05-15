@@ -1,0 +1,11 @@
+name: "transfa"
+website_url: "https://transfa.sh"
+source_code_url: "https://github.com/colapsis/transfa"
+description: "Ephemeral file transfer — upload a file and get a shareable link that expires. Includes a CLI, REST API, MCP server for AI agents, and GitHub Actions integration."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload

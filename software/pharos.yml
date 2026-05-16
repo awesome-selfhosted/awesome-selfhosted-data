@@ -1,0 +1,14 @@
+name: Pharos
+website_url: https://pharos.watch/
+description: Stablecoin analytics dashboard tracking 390+ assets with peg health scores, liquidity metrics, and reserve transparency.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Analytics
+demo_url: https://pharos.watch/
+source_code_url: https://github.com/TokenBrice/pharos-watch
+stargazers_count: 17
+updated_at: '2026-05-16'
+archived: false

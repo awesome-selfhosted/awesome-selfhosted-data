@@ -1,0 +1,10 @@
+name: Selectarr
+website_url: https://github.com/xanderburchartz/selectarr
+description: Manual media cleanup tool for Jellyfin, Radarr, Sonarr and Lidarr — delete movies, series, seasons, episodes, artists, albums and tracks with watched-status filtering per Jellyfin user.
+licenses:
+  - MIT
+  platforms:
+    - Python
+    tags:
+      - Media Management
+      source_code_url: https://github.com/xanderburchartz/selectarr

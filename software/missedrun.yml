@@ -1,0 +1,11 @@
+name: MissedRun
+website_url: https://missedrun.com
+source_code_url: https://github.com/missedrun/missedrun-selfhosted
+description: Monitor cron jobs, scheduled scripts, backups and ETL pipelines for silent failures using ping URLs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation

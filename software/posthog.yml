@@ -9,12 +9,12 @@ tags:
   - Analytics
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
-stargazers_count: 34485
-updated_at: '2026-05-14'
+stargazers_count: 34518
+updated_at: '2026-05-16'
 archived: false
 current_release:
-  tag: agent-skills-v0.97.0
-  published_at: '2026-05-14'
+  tag: agent-skills-v0.98.0
+  published_at: '2026-05-15'
 commit_history:
   2025-06: 1042
   2025-07: 1140
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 2149
   2026-03: 2586
   2026-04: 2801
-  2026-05: 915
+  2026-05: 940

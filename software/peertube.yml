@@ -8,8 +8,8 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/Chocobozzz/PeerTube
-stargazers_count: 14686
-updated_at: '2026-05-12'
+stargazers_count: 14695
+updated_at: '2026-05-15'
 archived: false
 current_release:
   tag: v8.2.0-rc.1
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 162
   2026-03: 177
   2026-04: 201
-  2026-05: 87
+  2026-05: 95

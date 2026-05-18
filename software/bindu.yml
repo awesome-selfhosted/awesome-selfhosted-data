@@ -1,0 +1,18 @@
+# software name
+name: Bindu
+# URL of the software project's homepage
+website_url: https://docs.getbindu.com
+# URL where the full source code of the program can be downloaded
+source_code_url: https://github.com/getbindu/Bindu
+# description of what the software does, shorter than 250 characters, sentence case
+description: Identity, communication, and payments layer for AI agents. Provides DID-based identity, A2A JSON-RPC, OAuth2, x402 (USDC) payments, and a Gmail-shaped operator inbox for monitoring agent-to-agent traffic.
+# license identifier
+licenses:
+  - Apache-2.0
+# languages/platforms
+platforms:
+  - Python
+  - Nodejs
+# tags (categories)
+tags:
+  - Generative Artificial Intelligence (GenAI)

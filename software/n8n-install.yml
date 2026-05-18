@@ -1,0 +1,11 @@
+name: "n8n Install"
+website_url: "https://github.com/kossakovsky/n8n-install"
+source_code_url: "https://github.com/kossakovsky/n8n-install"
+description: "AI infrastructure deployment platform. Sets up 30+ AI services (n8n, Ollama, Open WebUI, Supabase, Qdrant, Dify, RAGFlow, etc.) with one command via an interactive wizard. Automatic HTTPS through Caddy."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Automation

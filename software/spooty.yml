@@ -10,12 +10,12 @@ tags:
   - Media Management
 source_code_url: https://github.com/Raiper34/spooty
 depends_3rdparty: true
-stargazers_count: 2256
-updated_at: '2026-05-16'
+stargazers_count: 2351
+updated_at: '2026-05-17'
 archived: false
 current_release:
-  tag: 2.4.2
-  published_at: '2026-04-18'
+  tag: 2.5.0
+  published_at: '2026-05-17'
 commit_history:
   2025-06: 4
   2025-07: 0
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 8
   2026-03: 0
   2026-04: 2
-  2026-05: 4
+  2026-05: 7

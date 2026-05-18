@@ -12,12 +12,12 @@ tags:
   - Document Management - E-books
 source_code_url: https://github.com/advplyr/audiobookshelf
 related_software_url: https://github.com/advplyr/audiobookshelf-app
-stargazers_count: 12764
-updated_at: '2026-05-15'
+stargazers_count: 12784
+updated_at: '2026-05-17'
 archived: false
 current_release:
-  tag: v2.34.0
-  published_at: '2026-04-27'
+  tag: v2.35.0
+  published_at: '2026-05-17'
 commit_history:
   2025-06: 109
   2025-07: 140
@@ -29,5 +29,5 @@ commit_history:
   2026-01: 3
   2026-02: 37
   2026-03: 56
-  2026-04: 47
-  2026-05: 6
+  2026-04: 50
+  2026-05: 15

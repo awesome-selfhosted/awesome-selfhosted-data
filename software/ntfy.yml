@@ -13,8 +13,8 @@ tags:
 source_code_url: https://github.com/binwiederhier/ntfy
 demo_url: https://ntfy.sh/app
 related_software_url: https://github.com/binwiederhier/ntfy-android
-stargazers_count: 30216
-updated_at: '2026-05-13'
+stargazers_count: 30232
+updated_at: '2026-05-17'
 archived: false
 current_release:
   tag: v2.22.0
@@ -30,5 +30,5 @@ commit_history:
   2026-01: 123
   2026-02: 129
   2026-03: 183
-  2026-04: 34
-  2026-05: 4
+  2026-04: 38
+  2026-05: 19

@@ -8,15 +8,15 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/TokTok/c-toxcore
-stargazers_count: 2640
-updated_at: '2026-05-14'
+stargazers_count: 2641
+updated_at: '2026-05-17'
 archived: false
 current_release:
-  tag: v0.2.23-rc.1
-  published_at: '2026-05-14'
+  tag: nightly
+  published_at: '2025-01-27'
 commit_history:
   2026-01: 58
   2026-02: 20
   2026-03: 2
   2026-04: 1
-  2026-05: 3
+  2026-05: 4

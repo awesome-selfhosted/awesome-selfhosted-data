@@ -1,0 +1,10 @@
+name: OpenClaw
+website_url: https://openclaw.ai/
+source_code_url: https://github.com/openclaw/openclaw
+description: Personal AI assistant that acts on your behalf (email, calendar, check-ins) through messaging apps like WhatsApp, Telegram, Slack, and Discord.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)

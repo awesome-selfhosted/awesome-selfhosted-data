@@ -1,0 +1,11 @@
+name: Hermes Agent
+website_url: https://hermes-agent.nousresearch.com/
+source_code_url: https://github.com/NousResearch/hermes-agent
+description: Self-improving AI agent that runs on your server, persists what it learns, and gets more capable the longer it runs.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

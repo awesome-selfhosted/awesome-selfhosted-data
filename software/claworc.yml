@@ -1,0 +1,12 @@
+name: Claworc
+website_url: https://claworc.com/
+source_code_url: https://github.com/gluk-w/claworc
+description: Orchestrator for running multiple isolated AI agent instances across an organization from a single web dashboard, with instance management, LLM token management, automated backups, and multi-user access control.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)

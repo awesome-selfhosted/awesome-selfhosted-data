@@ -9,10 +9,11 @@ website_url: https://remotepower.tvipper.com
 source_code_url: https://github.com/tyxak/remotepower
 demo_url: https://demoremote.tvipper.com
 
-license: MIT
+licenses:
+  - MIT
 
 tags:
-  - Monitoring & Status Pages
+  - Miscellaneous
 
 platforms:
   - Python

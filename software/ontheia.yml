@@ -1,0 +1,12 @@
+name: Ontheia
+website_url: https://ontheia.ai
+source_code_url: https://github.com/Ontheia/ontheia
+description: Self-hosted AI agent platform with multi-provider LLM support (Claude, OpenAI, Gemini, Ollama), MCP-native tool integration, visual workflow automation, long-term vector memory, and multi-user RBAC.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation

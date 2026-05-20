@@ -1,0 +1,18 @@
+# software name
+name: "Ulaknode"
+# URL of the software project's homepage
+website_url: "https://github.com/itefixnet/ulaknode"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/itefixnet/ulaknode"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Self-hosted business mail server in Docker with optional commercial support from itefix.net — Postfix, Dovecot, Rspamd, and ClamAV in one deployable stack."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - BSD-2-Clause
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Docker
+  - Shell
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Communication - Email - Complete Solutions

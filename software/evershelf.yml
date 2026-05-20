@@ -1,0 +1,11 @@
+name: EverShelf
+source_code_url: https://github.com/dadaloop82/EverShelf
+demo_url: https://evershelfproject.dadaloop.it/demo/
+description: AI-powered kitchen inventory management system with BLE smart scale integration and FIFO batch tracking.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Resource Planning
+archived: false

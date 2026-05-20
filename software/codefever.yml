@@ -1,0 +1,11 @@
+name: CodeFever Community
+website_url: https://codefever.cn
+source_code_url: https://github.com/PGYER/codefever
+description: Self-hosted Git code hosting service with one-line installation, repository management, branch protection, code review, and team collaboration (alternative to Gitea, Forgejo).
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Software Development - Project Management

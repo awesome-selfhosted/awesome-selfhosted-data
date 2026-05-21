@@ -10,11 +10,11 @@ tags:
   - Automation
 depends_3rdparty: true
 stargazers_count: 278
-updated_at: '2026-02-20'
+updated_at: '2026-05-18'
 archived: false
 current_release:
-  tag: v0.2.12
-  published_at: '2026-02-20'
+  tag: v0.2.13
+  published_at: '2026-05-18'
 commit_history:
   2025-06: 0
   2025-07: 6
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 2
   2026-03: 0
   2026-04: 0
-  2026-05: 0
+  2026-05: 1

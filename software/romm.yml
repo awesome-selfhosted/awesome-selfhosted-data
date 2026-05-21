@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/rommapp/romm
 depends_3rdparty: true
 demo_url: https://demo.romm.app/
-stargazers_count: 8839
-updated_at: '2026-05-17'
+stargazers_count: 8858
+updated_at: '2026-05-20'
 archived: false
 current_release:
-  tag: 4.9.0-alpha.3
-  published_at: '2026-05-17'
+  tag: 4.9.0-alpha.4
+  published_at: '2026-05-20'
 commit_history:
   2025-06: 274
   2025-07: 363
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 153
   2026-03: 331
   2026-04: 252
-  2026-05: 113
+  2026-05: 140

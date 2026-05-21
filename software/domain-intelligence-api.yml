@@ -2,7 +2,7 @@
 name: Domain Intelligence API
 website_url: https://oti-labs.com/domain-intelligence-api
 source_code_url: https://github.com/osiris-technical-institute/domain-intelligence-api
-description: Single REST API that aggregates WHOIS/RDAP, DNS records, SSL certificate inspection, subdomain enumeration (Certificate Transparency logs + DNS bruteforce), and email security posture (SPF, DMARC, and DKIM auto-probed across 29 common selectors) for any domain. Replaces stitching together python-whois, dnspython, raw socket SSL probes, separate subdomain enumeration tools, and SPF/DMARC parsers.
+description: REST API aggregating WHOIS/RDAP, DNS, SSL certificate inspection, subdomain enumeration (CT logs + DNS bruteforce), and email security (SPF/DMARC/DKIM auto-probed across 29 common selectors) for any domain in a single call.
 licenses:
   - MIT
 platforms:

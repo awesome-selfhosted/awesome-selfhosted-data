@@ -1,0 +1,12 @@
+name: Silex
+website_url: https://www.silex.me
+source_code_url: https://github.com/silexlabs/Silex
+description: Visual website builder for static sites. Standard HTML/CSS output, no lock-in, publish to GitLab, FTP, or Nextcloud (alternative to Webflow).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Low Code
+demo_url: https://v3.silex.me

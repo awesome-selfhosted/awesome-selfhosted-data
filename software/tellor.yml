@@ -7,12 +7,6 @@ assignees: ''
 
 ---
 
-<!-- DO NOT DELETE THE TEXT BELOW . Please make sure relevant boxes are checked [x] -->
-
-Thanks for taking the time to suggest an addition to awesome-selfhosted! 
-
-Please fill out information below (all fields are mandatory unless noted otherwise):
-
 ```yaml
 name: "Tellor"
 website_url: "https://tellor.cc/"
@@ -27,7 +21,6 @@ tags:
   - Task Management & To-do Lists
 depends_3rdparty: false
 demo_url: "https://tellor.cc/demo/?b=18486f63be6bb5f2"
-related_software_url: ""
 ```
 
 To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):

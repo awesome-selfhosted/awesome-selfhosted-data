@@ -1,0 +1,11 @@
+name: Markus
+website_url: https://github.com/markus-global/markus
+source_code_url: https://github.com/markus-global/markus
+description: Open-source AI workforce platform with persistent memory, governance, and multi-agent collaboration.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

@@ -11,12 +11,12 @@ tags:
   - Archiving and Digital Preservation (DP)
   - File Transfer - Peer-to-peer Filesharing
   - Search Engines
-stargazers_count: 4044
-updated_at: '2025-07-01'
+stargazers_count: 4047
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: v0.10.0
-  published_at: '2025-03-02'
+  tag: v0.10.1-beta.1
+  published_at: '2026-05-21'
 commit_history:
   2025-06: 1
   2025-07: 1
@@ -29,4 +29,4 @@ commit_history:
   2026-02: 0
   2026-03: 0
   2026-04: 0
-  2026-05: 0
+  2026-05: 1

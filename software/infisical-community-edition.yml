@@ -10,12 +10,12 @@ platforms:
   - deb
 tags:
   - Miscellaneous
-stargazers_count: 26939
-updated_at: '2026-05-20'
+stargazers_count: 26962
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: v0.160.3
-  published_at: '2026-05-20'
+  tag: v0.160.4
+  published_at: '2026-05-21'
 commit_history:
   2025-11: 1128
   2025-12: 585
@@ -23,4 +23,4 @@ commit_history:
   2026-02: 636
   2026-03: 1346
   2026-04: 1409
-  2026-05: 879
+  2026-05: 909

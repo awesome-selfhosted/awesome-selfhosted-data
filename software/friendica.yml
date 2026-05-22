@@ -8,15 +8,15 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/friendica/friendica
-stargazers_count: 1671
-updated_at: '2026-05-20'
+stargazers_count: 1672
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: '2026.01'
-  published_at: '2026-01-27'
+  tag: 2026.05-1
+  published_at: '2026-05-21'
 commit_history:
   2026-01: 143
   2026-02: 199
   2026-03: 120
   2026-04: 163
-  2026-05: 153
+  2026-05: 161

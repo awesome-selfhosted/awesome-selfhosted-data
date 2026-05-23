@@ -59,4 +59,4 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_HTML_DEPLOY_KEY }}" > ~/.ssh/id_rsa
           chmod 0600 ~/.ssh/id_rsa
-      - run: make push_html
+      - run: make push_html 

@@ -1,0 +1,11 @@
+name: 3233.io
+website_url: https://3233.io
+source_code_url: https://github.com/253153/3233.io
+description: Private, end-to-end encrypted chat relay with no accounts or emails, where cryptographic keys live only in the browser.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

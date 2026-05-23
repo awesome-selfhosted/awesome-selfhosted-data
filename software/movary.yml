@@ -12,11 +12,11 @@ tags:
 depends_3rdparty: true
 demo_url: https://github.com/leepeuker/movary?tab=readme-ov-file#demo
 stargazers_count: 726
-updated_at: '2026-04-18'
+updated_at: '2026-05-22'
 archived: false
 current_release:
-  tag: 0.71.1
-  published_at: '2026-04-11'
+  tag: 0.72.0
+  published_at: '2026-05-22'
 commit_history:
   2025-10: 36
   2025-11: 63
@@ -25,4 +25,4 @@ commit_history:
   2026-02: 0
   2026-03: 9
   2026-04: 11
-  2026-05: 0
+  2026-05: 11

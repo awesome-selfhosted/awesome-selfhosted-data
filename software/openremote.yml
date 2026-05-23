@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/openremote/openremote
 demo_url: https://demo.openremote.io/
 stargazers_count: 1754
-updated_at: '2026-05-21'
+updated_at: '2026-05-22'
 archived: false
 current_release:
-  tag: 1.23.1
-  published_at: '2026-05-07'
+  tag: 1.24.0
+  published_at: '2026-05-22'
 commit_history:
   2025-06: 27
   2025-07: 27
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 54
   2026-03: 39
   2026-04: 34
-  2026-05: 24
+  2026-05: 25

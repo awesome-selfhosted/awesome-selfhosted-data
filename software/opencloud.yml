@@ -10,8 +10,8 @@ platforms:
   - Nodejs
 tags:
   - File Transfer & Synchronization
-stargazers_count: 5501
-updated_at: '2026-05-21'
+stargazers_count: 5502
+updated_at: '2026-05-22'
 archived: false
 current_release:
   tag: v7.0.0
@@ -24,4 +24,4 @@ commit_history:
   2026-02: 86
   2026-03: 99
   2026-04: 117
-  2026-05: 83
+  2026-05: 88

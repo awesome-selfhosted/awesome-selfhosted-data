@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 65
-updated_at: '2026-05-19'
+updated_at: '2026-05-22'
 archived: false
 current_release:
-  tag: core-base+station-1.17.1
-  published_at: '2026-05-13'
+  tag: core-characteristics-1.0.2
+  published_at: '2026-05-22'
 commit_history:
   2025-06: 49
   2025-07: 113
@@ -26,5 +26,5 @@ commit_history:
   2026-01: 168
   2026-02: 219
   2026-03: 201
-  2026-04: 222
-  2026-05: 152
+  2026-04: 223
+  2026-05: 220

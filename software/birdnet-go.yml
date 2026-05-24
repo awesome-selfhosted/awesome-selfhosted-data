@@ -1,0 +1,11 @@
+name: BirdNET-Go
+website_url: https://github.com/tphakala/birdnet-go
+source_code_url: https://github.com/tphakala/birdnet-go
+description: Realtime soundscape analyser for birds, bats, and wildlife. Multi-model AI inference with web dashboard, alert rules engine, MQTT/Home Assistant integration, and SSO.
+licenses:
+  - CC-BY-NC-SA-4.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Internet of Things (IoT)

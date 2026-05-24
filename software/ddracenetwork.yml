@@ -1,0 +1,10 @@
+name: "DDraceNetwork"
+website_url: "https://ddnet.org/"
+source_code_url: "https://github.com/ddnet/ddnet"
+description: "Version of DDRace, a Teeworlds modification with a unique cooperative gameplay."
+licenses:
+  - Zlib
+platforms:
+  - C++
+tags:
+  - Games

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/foxcpp/maddy
-stargazers_count: 5973
-updated_at: '2026-05-21'
+stargazers_count: 5974
+updated_at: '2026-05-23'
 archived: false
 current_release:
-  tag: v0.9.4
-  published_at: '2026-04-30'
+  tag: v0.9.5
+  published_at: '2026-05-23'
 commit_history:
   2025-06: 0
   2025-07: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 1
   2026-03: 25
   2026-04: 15
-  2026-05: 5
+  2026-05: 8

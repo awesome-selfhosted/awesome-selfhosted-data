@@ -10,11 +10,11 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 stargazers_count: 1044
-updated_at: '2026-04-23'
+updated_at: '2026-05-23'
 archived: false
 current_release:
-  tag: v3.9.0
-  published_at: '2026-04-19'
+  tag: v3.10.0
+  published_at: '2026-05-23'
 commit_history:
   2025-06: 0
   2025-07: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 31
   2026-03: 29
   2026-04: 24
-  2026-05: 0
+  2026-05: 8

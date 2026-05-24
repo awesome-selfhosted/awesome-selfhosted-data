@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 65
-updated_at: '2026-05-22'
+updated_at: '2026-05-23'
 archived: false
 current_release:
-  tag: core-characteristics-1.0.2
-  published_at: '2026-05-22'
+  tag: infra-traefik-1.1.0
+  published_at: '2026-05-23'
 commit_history:
   2025-06: 49
   2025-07: 113
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 219
   2026-03: 201
   2026-04: 223
-  2026-05: 220
+  2026-05: 229

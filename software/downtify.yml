@@ -1,0 +1,11 @@
+name: "Downtify"
+website_url: "https://downtify.henriquesebastiao.com"
+source_code_url: "https://github.com/henriquesebastiao/downtify"
+description: "Download Spotify music with album art and metadata."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true

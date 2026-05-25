@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/mail-in-a-box/mailinabox
-stargazers_count: 15311
-updated_at: '2026-05-23'
+stargazers_count: 15314
+updated_at: '2026-05-24'
 archived: false
 current_release:
-  tag: v75
-  published_at: '2026-04-20'
+  tag: v76
+  published_at: '2026-05-24'
 commit_history:
   2025-06: 46
   2025-07: 10
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 1
   2026-03: 0
   2026-04: 6
-  2026-05: 1
+  2026-05: 3

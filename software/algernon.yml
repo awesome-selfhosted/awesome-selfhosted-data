@@ -10,11 +10,11 @@ platforms:
 tags:
   - Web Servers
 stargazers_count: 3011
-updated_at: '2026-05-23'
+updated_at: '2026-05-24'
 archived: false
 current_release:
-  tag: v1.17.7
-  published_at: '2026-05-12'
+  tag: v1.17.8
+  published_at: '2026-05-24'
 commit_history:
   2025-06: 8
   2025-07: 2
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 11
   2026-03: 17
   2026-04: 45
-  2026-05: 73
+  2026-05: 76

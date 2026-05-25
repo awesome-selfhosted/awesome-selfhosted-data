@@ -9,12 +9,10 @@ tags:
   - Learning and Courses
 source_code_url: https://github.com/gunet/openeclass
 demo_url: https://demo.openeclass.org/
-stargazers_count: 159
-updated_at: '2026-03-24'
+stargazers_count: 158
+updated_at: '2026-05-19'
 archived: false
 commit_history:
-  2025-04: 188
-  2025-05: 153
   2025-06: 129
   2025-07: 138
   2025-08: 46
@@ -23,8 +21,10 @@ commit_history:
   2025-11: 108
   2025-12: 88
   2026-01: 110
-  2026-02: 0
-  2026-03: 52
+  2026-02: 148
+  2026-03: 228
+  2026-04: 123
+  2026-05: 79
 current_release:
-  tag: Release_4.3.1
-  published_at: '2026-03-20'
+  tag: Release_4.3.3
+  published_at: '2026-04-03'

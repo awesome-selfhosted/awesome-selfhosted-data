@@ -1,0 +1,23 @@
+name: GameAP
+website_url: https://gameap.com/
+description: Game Administration Panel for managing game servers on Linux and Windows.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels
+demo_url: https://demo.gameap.com/
+related_software_url: https://plugins.gameap.dev/
+source_code_url: https://github.com/gameap/gameap
+stargazers_count: 28
+updated_at: '2026-05-17'
+archived: false
+current_release:
+  tag: v4.3.0-dev.2
+  published_at: '2026-05-19'
+commit_history:
+  2026-03: 213
+  2026-04: 61
+  2026-05: 62

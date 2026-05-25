@@ -9,15 +9,13 @@ platforms:
   - C++
 tags:
   - Internet of Things (IoT)
-stargazers_count: 24229
-updated_at: '2026-03-28'
+stargazers_count: 24422
+updated_at: '2026-05-20'
 archived: false
 current_release:
-  tag: v15.3.0
-  published_at: '2026-02-19'
+  tag: v15.4.0
+  published_at: '2026-04-22'
 commit_history:
-  2025-04: 62
-  2025-05: 84
   2025-06: 57
   2025-07: 104
   2025-08: 73
@@ -27,4 +25,6 @@ commit_history:
   2025-12: 76
   2026-01: 72
   2026-02: 68
-  2026-03: 65
+  2026-03: 69
+  2026-04: 60
+  2026-05: 61

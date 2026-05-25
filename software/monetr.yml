@@ -9,16 +9,18 @@ platforms:
   - K8S
 tags:
   - Money, Budgeting & Management
-stargazers_count: 619
-updated_at: '2026-03-27'
+stargazers_count: 661
+updated_at: '2026-05-23'
 archived: false
 current_release:
-  tag: v1.12.0
-  published_at: '2026-03-27'
+  tag: v1.14.1
+  published_at: '2026-05-19'
 commit_history:
   2025-10: 109
   2025-11: 122
   2025-12: 39
   2026-01: 57
   2026-02: 56
-  2026-03: 101
+  2026-03: 107
+  2026-04: 139
+  2026-05: 130

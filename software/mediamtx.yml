@@ -10,14 +10,16 @@ tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/bluenviron/mediamtx
 related_software_url: https://mediamtx.org/docs/kickoff/introduction
-stargazers_count: 18292
-updated_at: '2026-03-26'
+stargazers_count: 18852
+updated_at: '2026-05-24'
 archived: false
 current_release:
-  tag: v1.17.0
-  published_at: '2026-03-17'
+  tag: v1.18.2
+  published_at: '2026-05-15'
 commit_history:
   2025-12: 39
   2026-01: 51
   2026-02: 75
-  2026-03: 43
+  2026-03: 55
+  2026-04: 70
+  2026-05: 36

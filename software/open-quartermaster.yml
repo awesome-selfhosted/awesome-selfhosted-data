@@ -9,15 +9,13 @@ platforms:
   - Docker
 tags:
   - Inventory Management
-stargazers_count: 61
-updated_at: '2026-03-19'
+stargazers_count: 65
+updated_at: '2026-05-23'
 archived: false
 current_release:
-  tag: core-base+station-1.15.0
-  published_at: '2026-03-19'
+  tag: infra-traefik-1.1.0
+  published_at: '2026-05-23'
 commit_history:
-  2025-04: 64
-  2025-05: 144
   2025-06: 49
   2025-07: 113
   2025-08: 149
@@ -27,4 +25,6 @@ commit_history:
   2025-12: 98
   2026-01: 168
   2026-02: 219
-  2026-03: 95
+  2026-03: 201
+  2026-04: 223
+  2026-05: 229

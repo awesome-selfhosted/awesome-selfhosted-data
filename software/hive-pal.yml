@@ -10,15 +10,13 @@ tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/martinhrvn/hive-pal
 demo_url: https://hivepal.app
-stargazers_count: 20
-updated_at: '2026-03-28'
+stargazers_count: 26
+updated_at: '2026-05-21'
 archived: false
 current_release:
   tag: v0.17.0
   published_at: '2026-03-28'
 commit_history:
-  2025-04: 18
-  2025-05: 2
   2025-06: 2
   2025-07: 3
   2025-08: 100
@@ -28,4 +26,6 @@ commit_history:
   2025-12: 38
   2026-01: 8
   2026-02: 58
-  2026-03: 188
+  2026-03: 294
+  2026-04: 161
+  2026-05: 35

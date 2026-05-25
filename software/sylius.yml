@@ -9,15 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/Sylius/Sylius
 demo_url: https://sylius.com/try/
-stargazers_count: 8436
-updated_at: '2026-03-27'
+stargazers_count: 8473
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: v2.2.4
-  published_at: '2026-03-18'
+  tag: v2.2.5
+  published_at: '2026-04-10'
 commit_history:
-  2025-04: 215
-  2025-05: 493
   2025-06: 317
   2025-07: 123
   2025-08: 57
@@ -27,4 +25,6 @@ commit_history:
   2025-12: 165
   2026-01: 91
   2026-02: 182
-  2026-03: 67
+  2026-03: 78
+  2026-04: 10
+  2026-05: 8

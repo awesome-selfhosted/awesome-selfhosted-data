@@ -96,6 +96,9 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
 - If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
 - If the project distributes a single static binary, please add the programming language in which it is written.
+- Machine/LLM-generated contributions, that do not respect project guidelines are not allowed and will result in a ban.
+- Constructive reviews from non-maintainers are welcome.
+- Any maintainer with merge permissions can merge submissions/PRs, if their time allows and they have sufficient confidence that the submission is a good fit for the list. Consensus is preferable but not required.
 
 ### What does not qualify
 

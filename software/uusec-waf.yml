@@ -1,5 +1,5 @@
 name: UUSEC WAF
-website_url: https://uuwaf.uusec.com
+website_url: https://waf.uusec.com/
 source_code_url: https://github.com/Safe3/uusec-waf
 description: Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx).
 licenses:
@@ -10,15 +10,13 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 1618
-updated_at: '2026-03-23'
+stargazers_count: 1654
+updated_at: '2026-05-24'
 archived: false
 current_release:
-  tag: v7.2.0
-  published_at: '2026-03-19'
+  tag: v7.2.1
+  published_at: '2026-05-16'
 commit_history:
-  2025-04: 9
-  2025-05: 5
   2025-06: 0
   2025-07: 29
   2025-08: 6
@@ -28,4 +26,6 @@ commit_history:
   2025-12: 4
   2026-01: 4
   2026-02: 4
-  2026-03: 8
+  2026-03: 9
+  2026-04: 5
+  2026-05: 6

@@ -9,12 +9,10 @@ tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/snikket-im/snikket-server
 related_software_url: https://snikket.org/app/
-stargazers_count: 410
-updated_at: '2026-03-12'
+stargazers_count: 423
+updated_at: '2026-05-22'
 archived: false
 commit_history:
-  2025-04: 0
-  2025-05: 0
   2025-06: 14
   2025-07: 7
   2025-08: 1
@@ -25,3 +23,5 @@ commit_history:
   2026-01: 0
   2026-02: 4
   2026-03: 3
+  2026-04: 1
+  2026-05: 1

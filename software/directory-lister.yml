@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/DirectoryLister/DirectoryLister
-stargazers_count: 2504
-updated_at: '2026-02-28'
+stargazers_count: 2516
+updated_at: '2026-04-22'
 archived: false
 current_release:
-  tag: 5.4.1
-  published_at: '2026-02-07'
+  tag: 5.5.1
+  published_at: '2026-04-22'
 commit_history:
-  2025-04: 5
-  2025-05: 22
   2025-06: 6
   2025-07: 4
   2025-08: 9
@@ -28,3 +26,5 @@ commit_history:
   2026-01: 0
   2026-02: 11
   2026-03: 0
+  2026-04: 19
+  2026-05: 0

@@ -1,0 +1,21 @@
+name: Razzia
+website_url: https://github.com/Ralex91/Razzia
+source_code_url: https://github.com/Ralex91/Razzia
+description: Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Games
+stargazers_count: 800
+updated_at: '2026-05-13'
+archived: false
+current_release:
+  tag: 3.0.0
+  published_at: '2026-05-09'
+commit_history:
+  2026-03: 4
+  2026-04: 64
+  2026-05: 3

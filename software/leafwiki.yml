@@ -1,0 +1,22 @@
+name: LeafWiki
+website_url: https://github.com/perber/leafwiki
+source_code_url: https://github.com/perber/leafwiki
+description: A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Wikis
+demo_url: https://demo.leafwiki.com
+stargazers_count: 132
+updated_at: '2026-05-24'
+archived: false
+current_release:
+  tag: v0.9.2
+  published_at: '2026-05-05'
+commit_history:
+  2026-03: 85
+  2026-04: 87
+  2026-05: 67

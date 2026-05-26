@@ -1,0 +1,10 @@
+name: Torrin
+website_url: https://dineshkn-dev.github.io/torrin/
+description: Cross-platform BitTorrent desktop client (Qt 6 Quick, libtorrent 2.x). No ads or bundled telemetry.
+licenses:
+  - GPL-3.0
+platforms:
+  - C++
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+source_code_url: https://github.com/dineshkn-dev/torrin

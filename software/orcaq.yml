@@ -5,6 +5,8 @@ licenses:
   - MIT
 platforms:
   - Nodejs
+  - deb
+  - Docker
 tags:
   - Database Management
 source_code_url: https://github.com/cin12211/orca-q

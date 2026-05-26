@@ -1,0 +1,10 @@
+name: Prompter
+website_url: https://github.com/whonixnetworks/prompter
+source_code_url: https://github.com/whonixnetworks/prompter
+description: Terminal-based multi-model comparison, benchmarking, and evaluation tool for Ollama with debate modes.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

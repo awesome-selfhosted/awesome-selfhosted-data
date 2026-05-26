@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 26700
-updated_at: '2026-05-24'
+stargazers_count: 26710
+updated_at: '2026-05-25'
 archived: false
 current_release:
-  tag: locker-v1.0.5
-  published_at: '2026-05-20'
+  tag: ensu-v0.1.16
+  published_at: '2026-05-25'
 commit_history:
   2025-06: 1249
   2025-07: 912
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 1140
   2026-03: 1587
   2026-04: 1018
-  2026-05: 930
+  2026-05: 995

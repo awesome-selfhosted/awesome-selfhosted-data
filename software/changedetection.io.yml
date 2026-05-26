@@ -9,12 +9,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/dgtlmoon/changedetection.io
-stargazers_count: 31695
-updated_at: '2026-05-23'
+stargazers_count: 31715
+updated_at: '2026-05-25'
 archived: false
 current_release:
-  tag: 0.55.5
-  published_at: '2026-05-19'
+  tag: 0.55.7
+  published_at: '2026-05-25'
 commit_history:
   2025-06: 44
   2025-07: 26
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 93
   2026-03: 40
   2026-04: 68
-  2026-05: 35
+  2026-05: 42

@@ -10,11 +10,11 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/mtlynch/picoshare
 stargazers_count: 2930
-updated_at: '2026-05-13'
+updated_at: '2026-05-25'
 archived: false
 current_release:
-  tag: 1.5.2
-  published_at: '2026-05-20'
+  tag: v1.5.3
+  published_at: '2026-05-25'
 commit_history:
   2025-06: 8
   2025-07: 7
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 2
   2026-03: 2
   2026-04: 6
-  2026-05: 11
+  2026-05: 13

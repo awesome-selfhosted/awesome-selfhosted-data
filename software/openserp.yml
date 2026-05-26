@@ -1,0 +1,14 @@
+name: "OpenSERP"
+website_url: "https://openserp.org"
+source_code_url: "https://github.com/karust/openserp"
+description: "Multi-engine SERP API and CLI for automation, AI agents, and SEO tooling with normalized Google, Bing, Yandex, Baidu, DuckDuckGo, and Ecosia search results and aggregated mega-search."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Search Engines
+  - Automation
+  - Web Servers
+depends_3rdparty: true

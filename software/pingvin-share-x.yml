@@ -6,5 +6,6 @@ licenses:
   - BSD-2-Clause
 platforms:
   - Docker
+  - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload

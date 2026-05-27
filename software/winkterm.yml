@@ -1,0 +1,13 @@
+name: "WinkTerm"
+website_url: "https://github.com/Cznorth/winkterm"
+source_code_url: "https://github.com/Cznorth/winkterm"
+description: "Self-hosted AI terminal where the agent shares your PTY session, with in-terminal chat, SSH, and an HTTP agent API."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - generative-ai
+  - remote-access

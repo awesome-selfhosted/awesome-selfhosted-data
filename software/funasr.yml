@@ -1,0 +1,12 @@
+name: FunASR
+website_url: https://www.funasr.com
+description: Industrial-grade speech recognition toolkit with 50+ languages, speaker diarization, emotion detection, and OpenAI-compatible API. 170x realtime on GPU, CPU-viable.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/modelscope/FunASR
+demo_url: https://www.funasr.com

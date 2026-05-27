@@ -1,0 +1,11 @@
+name: "Aastro"
+website_url: "https://starwalkn.github.io/aastro-docs"
+source_code_url: "https://github.com/starwalkn/aastro"
+description: "Extensible API Gateway written in Go."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - API Management

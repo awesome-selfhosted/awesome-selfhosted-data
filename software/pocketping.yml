@@ -1,0 +1,12 @@
+name: PocketPing
+website_url: https://pocketping.io
+source_code_url: https://github.com/Ruwad-io/pocketping
+description: Chat widget that routes website visitor messages to Telegram, Discord or Slack (alternative to Tawk.to and Intercom).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

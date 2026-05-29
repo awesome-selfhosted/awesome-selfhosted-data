@@ -1,0 +1,12 @@
+name: Hister
+website_url: https://hister.org/
+description: Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Search Engines
+source_code_url: https://github.com/asciimoo/hister
+demo_url: https://demo.hister.org/

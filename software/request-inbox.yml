@@ -1,0 +1,11 @@
+name: "Request Inbox"
+website_url: "https://request-inbox.com/"
+source_code_url: "https://github.com/jesusnoseq/request-inbox"
+description: "Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Testing
+demo_url: "https://request-inbox.com/"

@@ -1,18 +1,11 @@
-# software name
 name: "Markup"
-# URL of the software project's homepage
 website_url: "https://home.markup.freddiephilpot.dev"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/pphilfre/markup"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "A fast, keyboard-first markdown workspace built with Next.js, TypeScript, Prisma, PostgreSQL, WorkOS AuthKit, and shadcn/ui. Markup combines markdown editing with advanced note tooling like split preview, graph view, whiteboards, mind maps, sharing, and local/remote sync."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - Apache-2.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - note-taking--editors
   - knowledge-management-tools
@@ -20,7 +13,5 @@ tags:
   - document-management
   - office-suites
   - self-hosting-solutions
-# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
 depends_3rdparty: true
-# (optional) link to an interactive demo of the software
 demo_url: "https://markup.freddiephilpot.dev"

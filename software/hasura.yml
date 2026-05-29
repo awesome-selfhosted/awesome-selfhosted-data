@@ -10,12 +10,12 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/hasura/graphql-engine
-stargazers_count: 31968
-updated_at: '2026-05-22'
+stargazers_count: 31974
+updated_at: '2026-05-26'
 archived: false
 current_release:
-  tag: v2.45.4
-  published_at: '2026-05-14'
+  tag: v2.49.0
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 53
   2025-07: 57
@@ -28,4 +28,4 @@ commit_history:
   2026-02: 44
   2026-03: 36
   2026-04: 17
-  2026-05: 16
+  2026-05: 18

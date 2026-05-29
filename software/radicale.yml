@@ -9,12 +9,12 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/Kozea/Radicale
-stargazers_count: 4681
-updated_at: '2026-05-24'
+stargazers_count: 4686
+updated_at: '2026-05-28'
 archived: false
 current_release:
-  tag: v3.7.3
-  published_at: '2026-05-14'
+  tag: v3.7.4
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 35
   2025-07: 89
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 173
   2026-03: 324
   2026-04: 260
-  2026-05: 62
+  2026-05: 83

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/fccview/cronmaster
-stargazers_count: 1239
-updated_at: '2026-05-12'
+stargazers_count: 1242
+updated_at: '2026-05-27'
 archived: false
 current_release:
-  tag: 2.3.0
-  published_at: '2026-05-12'
+  tag: 2.3.1
+  published_at: '2026-05-27'
 commit_history:
   2025-11: 41
   2025-12: 5
@@ -21,4 +21,4 @@ commit_history:
   2026-02: 3
   2026-03: 6
   2026-04: 6
-  2026-05: 6
+  2026-05: 14

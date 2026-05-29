@@ -1,7 +1,7 @@
-name: "Aastro"
-website_url: "https://starwalkn.github.io/aastro-docs"
-source_code_url: "https://github.com/starwalkn/aastro"
-description: "Extensible API Gateway written in Go."
+name: Aastro
+website_url: https://starwalkn.github.io/aastro-docs
+source_code_url: https://github.com/starwalkn/aastro
+description: Extensible API Gateway written in Go.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
+stargazers_count: 6
+updated_at: '2026-05-27'
+archived: false
+current_release:
+  tag: v0.5.0
+  published_at: '2026-05-26'
+commit_history:
+  2026-03: 15
+  2026-04: 40
+  2026-05: 63

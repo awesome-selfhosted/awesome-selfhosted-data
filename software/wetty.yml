@@ -9,12 +9,12 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/butlerx/wetty
-stargazers_count: 5287
-updated_at: '2026-02-16'
+stargazers_count: 5290
+updated_at: '2026-05-27'
 archived: false
 current_release:
-  tag: v2.7.0
-  published_at: '2023-09-16'
+  tag: v3.0.4
+  published_at: '2026-05-27'
 commit_history:
   2025-06: 0
   2025-07: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 1
   2026-03: 0
   2026-04: 0
-  2026-05: 0
+  2026-05: 26

@@ -11,12 +11,12 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/thingsboard/thingsboard
 demo_url: https://demo.thingsboard.io/signup
-stargazers_count: 21800
-updated_at: '2026-05-21'
+stargazers_count: 21814
+updated_at: '2026-05-27'
 archived: false
 current_release:
-  tag: v4.3.1.1
-  published_at: '2026-03-31'
+  tag: v4.3.1.2
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 350
   2025-07: 281
@@ -28,5 +28,5 @@ commit_history:
   2026-01: 329
   2026-02: 285
   2026-03: 480
-  2026-04: 286
-  2026-05: 132
+  2026-04: 292
+  2026-05: 133

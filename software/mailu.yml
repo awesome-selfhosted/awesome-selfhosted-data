@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/Mailu/Mailu
-stargazers_count: 7231
-updated_at: '2026-05-24'
+stargazers_count: 7241
+updated_at: '2026-05-28'
 archived: false
 current_release:
-  tag: 2024.06.51
-  published_at: '2026-05-09'
+  tag: 2024.06.52
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 5
   2025-07: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 0
   2026-03: 7
   2026-04: 4
-  2026-05: 12
+  2026-05: 15

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/Ylianst/MeshCentral
-stargazers_count: 6592
-updated_at: '2026-05-25'
+stargazers_count: 6609
+updated_at: '2026-05-28'
 archived: false
 current_release:
-  tag: 1.1.59
-  published_at: '2026-04-22'
+  tag: 1.2.0
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 40
   2025-07: 25
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 44
   2026-03: 38
   2026-04: 21
-  2026-05: 32
+  2026-05: 48

@@ -13,11 +13,11 @@ depends_3rdparty: true
 demo_url: https://www.websoft9.com/demo
 related_software_url: https://www.websoft9.com/apps
 stargazers_count: 2117
-updated_at: '2026-05-19'
+updated_at: '2026-05-28'
 archived: false
 current_release:
-  tag: 2.2.17
-  published_at: '2026-04-10'
+  tag: 2.2.19
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 6
   2025-07: 21
@@ -30,4 +30,4 @@ commit_history:
   2026-02: 0
   2026-03: 13
   2026-04: 2
-  2026-05: 2
+  2026-05: 8

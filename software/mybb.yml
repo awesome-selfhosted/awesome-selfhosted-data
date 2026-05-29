@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/mybb/mybb
-stargazers_count: 1218
-updated_at: '2026-05-24'
+stargazers_count: 1219
+updated_at: '2026-05-28'
 archived: false
 current_release:
-  tag: mybb_1839
-  published_at: '2025-06-02'
+  tag: mybb_1840
+  published_at: '2026-05-28'
 commit_history:
   2025-06: 87
   2025-07: 83
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 31
   2026-03: 23
   2026-04: 11
-  2026-05: 11
+  2026-05: 12

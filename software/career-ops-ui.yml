@@ -1,0 +1,21 @@
+# software name
+name: "career-ops-ui"
+# URL of the software project's homepage
+website_url: "https://github.com/Fighter90/career-ops-ui"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/Fighter90/career-ops-ui"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Local-first browser dashboard to triage job applications: AI scoring, pipeline and tracker, CV editor, interview prep and follow-ups, all without telemetry."
+# license identifiers - see licenses.yml in the awesome-selfhosted-data repo
+licenses:
+  - MIT
+# languages/platforms - see tags/ directory for the platforms list
+platforms:
+  - Nodejs
+# tags (categories) - see tags/ directory for the full list
+tags:
+  - Task Management & To-do Lists
+  - Personal Dashboards
+# whether the software depends on a third-party service outside the user's control
+# AI scoring is optional and pluggable (OpenAI / OpenRouter / local); the app fully works offline without keys
+depends_3rdparty: false

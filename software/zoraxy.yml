@@ -1,0 +1,30 @@
+name: Zoraxy
+website_url: https://zoraxy.aroz.org/
+source_code_url: https://github.com/tobychui/zoraxy
+description: General purpose HTTP reverse proxy and forwarding tool.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Web Servers
+stargazers_count: 5194
+updated_at: '2026-05-28'
+archived: false
+current_release:
+  tag: v3.3.3-rc4
+  published_at: '2026-05-29'
+commit_history:
+  2025-06: 34
+  2025-07: 45
+  2025-08: 28
+  2025-09: 47
+  2025-10: 57
+  2025-11: 52
+  2025-12: 71
+  2026-01: 65
+  2026-02: 31
+  2026-03: 31
+  2026-04: 29
+  2026-05: 41

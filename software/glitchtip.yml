@@ -1,6 +1,6 @@
 name: GlitchTip
 website_url: https://glitchtip.com
-description: Open source error-tracking app. GlitchTip collects errors reported by your app.
+description: Error tracking app to collect errors reported by your app.
 licenses:
   - MIT
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://gitlab.com/glitchtip/glitchtip
+stargazers_count: 154
+updated_at: '2026-02-10'
+archived: false

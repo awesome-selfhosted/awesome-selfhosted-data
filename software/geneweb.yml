@@ -1,6 +1,6 @@
 name: GeneWeb
 website_url: https://geneweb.tuxfamily.org/wiki/GeneWeb
-description: Genealogy software. It comes with a Web interface and can be used off-line or as a Web service.
+description: Genealogy software that can be used offline or as a Web service.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,22 @@ platforms:
 tags:
   - Genealogy
 source_code_url: https://github.com/geneweb/geneweb
-demo_url: https://demo.geneweb.tuxfamily.org/gw7/
-stargazers_count: 338
-updated_at: '2025-04-09'
+stargazers_count: 377
+updated_at: '2026-05-27'
 archived: false
+current_release:
+  tag: v7.1.0-beta2
+  published_at: '2025-12-25'
+commit_history:
+  2025-06: 54
+  2025-07: 43
+  2025-08: 6
+  2025-09: 5
+  2025-10: 3
+  2025-11: 156
+  2025-12: 66
+  2026-01: 78
+  2026-02: 62
+  2026-03: 97
+  2026-04: 139
+  2026-05: 121

@@ -1,6 +1,6 @@
 name: Mautic
 website_url: https://www.mautic.org/
-description: Mautic is marketing automation software (email, social and more).
+description: Marketing automation software (email, social and more).
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/mautic/mautic
-stargazers_count: 7953
-updated_at: '2025-04-14'
+stargazers_count: 9765
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: 7.1.2
+  published_at: '2026-05-28'
+commit_history:
+  2025-06: 503
+  2025-07: 626
+  2025-08: 262
+  2025-09: 428
+  2025-10: 263
+  2025-11: 186
+  2025-12: 222
+  2026-01: 190
+  2026-02: 223
+  2026-03: 234
+  2026-04: 186
+  2026-05: 171

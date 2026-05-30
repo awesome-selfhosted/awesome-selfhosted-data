@@ -1,5 +1,5 @@
 name: Magento Open Source
-website_url: https://github.com/magento/magento2
+website_url: https://business.adobe.com/products/magento/magento-commerce.html
 description: Leading provider of open omnichannel innovation.
 licenses:
   - OSL-3.0
@@ -8,6 +8,22 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/magento/magento2
-stargazers_count: 11764
-updated_at: '2025-04-14'
+stargazers_count: 12122
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: 2.4.9
+  published_at: '2026-05-12'
+commit_history:
+  2025-06: 594
+  2025-07: 748
+  2025-08: 673
+  2025-09: 682
+  2025-10: 660
+  2025-11: 908
+  2025-12: 806
+  2026-01: 609
+  2026-02: 318
+  2026-03: 431
+  2026-04: 258
+  2026-05: 270

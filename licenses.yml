@@ -47,6 +47,10 @@
   name: BSD 4-clause "Original"
   url: https://spdx.org/licenses/BSD-4-Clause.html
 
+- identifier: CAL-1.0
+  name: Cryptographic Autonomy License 1.0
+  url: https://spdx.org/licenses/CAL-1.0.html
+
 - identifier: CC-BY-SA-3.0
   name: Creative Commons Attribution-ShareAlike 3.0 License
   url: https://spdx.org/licenses/CC-BY-SA-3.0.html

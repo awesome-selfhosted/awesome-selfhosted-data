@@ -1,13 +1,29 @@
 name: Known
 website_url: https://withknown.com/
-description: A collaborative social publishing platform.
+description: Collaborative social publishing platform.
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/idno/known
-stargazers_count: 1086
-updated_at: '2025-03-31'
+source_code_url: https://github.com/idno/idno
+stargazers_count: 1115
+updated_at: '2026-04-12'
 archived: false
+current_release:
+  tag: 1.6.4
+  published_at: '2026-03-01'
+commit_history:
+  2025-06: 24
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 0
+  2026-02: 28
+  2026-03: 27
+  2026-04: 4
+  2026-05: 0

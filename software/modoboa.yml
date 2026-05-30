@@ -1,6 +1,6 @@
 name: Modoboa
 website_url: https://modoboa.org/en/
-description: Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
+description: Mail hosting and management platform including a modern and simplified web user interface.
 licenses:
   - ISC
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/modoboa/modoboa
-stargazers_count: 3214
-updated_at: '2025-04-11'
+stargazers_count: 3494
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: 2.9.0
+  published_at: '2026-05-29'
+commit_history:
+  2025-06: 107
+  2025-07: 149
+  2025-08: 68
+  2025-09: 74
+  2025-10: 40
+  2025-11: 54
+  2025-12: 75
+  2026-01: 81
+  2026-02: 105
+  2026-03: 73
+  2026-04: 22
+  2026-05: 55

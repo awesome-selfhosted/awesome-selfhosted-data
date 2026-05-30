@@ -1,13 +1,29 @@
 name: Note Mark
 website_url: https://notemark.docs.enchantedcode.co.uk/
 source_code_url: https://github.com/enchant97/note-mark
-description: A minimal web-based Markdown notes app.
+description: Minimal web-based Markdown notes app.
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Note-taking & Editors
-stargazers_count: 464
-updated_at: '2025-03-28'
+stargazers_count: 666
+updated_at: '2026-05-02'
 archived: false
+current_release:
+  tag: v0.19.4
+  published_at: '2026-05-02'
+commit_history:
+  2025-06: 23
+  2025-07: 10
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 15
+  2025-12: 0
+  2026-01: 9
+  2026-02: 0
+  2026-03: 1
+  2026-04: 15
+  2026-05: 5

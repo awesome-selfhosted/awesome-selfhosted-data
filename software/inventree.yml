@@ -1,6 +1,6 @@
 name: Inventree
-website_url: https://inventree.readthedocs.io/en/latest/
-description: InvenTree is an open-source inventory management system which provides intuitive parts management and stock control.
+website_url: https://docs.inventree.org/en/latest/
+description: Inventory management system which provides intuitive parts management and stock control.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/inventree/InvenTree
 demo_url: https://inventree.org/demo
-stargazers_count: 4886
-updated_at: '2025-04-14'
+stargazers_count: 7060
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: 1.3.3
+  published_at: '2026-05-28'
+commit_history:
+  2025-06: 140
+  2025-07: 122
+  2025-08: 86
+  2025-09: 74
+  2025-10: 152
+  2025-11: 73
+  2025-12: 67
+  2026-01: 77
+  2026-02: 91
+  2026-03: 95
+  2026-04: 113
+  2026-05: 124

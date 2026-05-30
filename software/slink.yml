@@ -1,0 +1,29 @@
+name: Slink
+website_url: https://docs.slinkapp.io/
+source_code_url: https://github.com/andrii-kryvoviaz/slink
+description: Image sharing platform designed to give users complete control over their media sharing experience.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+stargazers_count: 1483
+updated_at: '2026-05-26'
+archived: false
+current_release:
+  tag: v1.11.6
+  published_at: '2026-05-26'
+commit_history:
+  2025-06: 64
+  2025-07: 43
+  2025-08: 7
+  2025-09: 108
+  2025-10: 32
+  2025-11: 19
+  2025-12: 68
+  2026-01: 67
+  2026-02: 118
+  2026-03: 55
+  2026-04: 65
+  2026-05: 53

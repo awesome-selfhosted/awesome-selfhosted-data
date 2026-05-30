@@ -1,6 +1,6 @@
 name: Gerbera
 website_url: https://gerbera.io/
-description: Gerbera is an UPnP Media Server. It allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices.
+description: UPnP Media Server, which allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices.
 licenses:
   - GPL-2.0
 platforms:
@@ -10,6 +10,22 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/gerbera/gerbera
-stargazers_count: 1245
-updated_at: '2025-04-01'
+stargazers_count: 1372
+updated_at: '2026-05-28'
 archived: false
+current_release:
+  tag: v3.2.1
+  published_at: '2026-03-22'
+commit_history:
+  2025-06: 16
+  2025-07: 15
+  2025-08: 51
+  2025-09: 12
+  2025-10: 32
+  2025-11: 48
+  2025-12: 14
+  2026-01: 28
+  2026-02: 19
+  2026-03: 31
+  2026-04: 13
+  2026-05: 12

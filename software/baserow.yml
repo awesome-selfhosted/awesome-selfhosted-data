@@ -7,4 +7,10 @@ platforms:
   - Docker
 tags:
   - Database Management
-source_code_url: https://gitlab.com/bramw/baserow
+source_code_url: https://gitlab.com/baserow/baserow
+stargazers_count: 2267
+updated_at: '2026-05-29'
+archived: false
+current_release:
+  tag: 1.35.3
+  published_at: '2025-10-08'

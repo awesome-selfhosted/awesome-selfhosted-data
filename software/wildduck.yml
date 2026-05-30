@@ -8,7 +8,23 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/nodemailer/wildduck
-stargazers_count: 1977
-updated_at: '2025-04-09'
+source_code_url: https://github.com/zone-eu/wildduck
+stargazers_count: 2095
+updated_at: '2026-05-28'
 archived: false
+current_release:
+  tag: v1.48.2
+  published_at: '2026-05-25'
+commit_history:
+  2025-06: 11
+  2025-07: 10
+  2025-08: 8
+  2025-09: 5
+  2025-10: 23
+  2025-11: 24
+  2025-12: 13
+  2026-01: 31
+  2026-02: 13
+  2026-03: 22
+  2026-04: 14
+  2026-05: 22

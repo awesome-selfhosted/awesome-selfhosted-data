@@ -1,6 +1,6 @@
 name: openSIPS
 website_url: https://opensips.org/
-description: OpenSIPS is an Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions.
+description: SIP proxy/server for voice, video, IM, presence and any other SIP extensions.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,19 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/OpenSIPS/opensips
-stargazers_count: 1340
-updated_at: '2025-04-14'
+stargazers_count: 1472
+updated_at: '2026-05-29'
 archived: false
+commit_history:
+  2025-06: 44
+  2025-07: 30
+  2025-08: 22
+  2025-09: 33
+  2025-10: 28
+  2025-11: 21
+  2025-12: 121
+  2026-01: 31
+  2026-02: 49
+  2026-03: 59
+  2026-04: 338
+  2026-05: 68

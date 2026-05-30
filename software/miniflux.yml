@@ -1,6 +1,6 @@
 name: Miniflux
 website_url: https://miniflux.app/
-description: Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL.
+description: Minimalist news reader.
 licenses:
   - Apache-2.0
 platforms:
@@ -10,6 +10,22 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/miniflux/v2
-stargazers_count: 7478
-updated_at: '2025-04-12'
+stargazers_count: 9291
+updated_at: '2026-05-28'
 archived: false
+current_release:
+  tag: 2.3.1
+  published_at: '2026-05-29'
+commit_history:
+  2025-06: 101
+  2025-07: 83
+  2025-08: 133
+  2025-09: 40
+  2025-10: 32
+  2025-11: 21
+  2025-12: 30
+  2026-01: 56
+  2026-02: 47
+  2026-03: 93
+  2026-04: 47
+  2026-05: 68

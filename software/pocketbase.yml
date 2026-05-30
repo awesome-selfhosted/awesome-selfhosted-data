@@ -1,6 +1,6 @@
 name: PocketBase
 website_url: https://pocketbase.io/
-description: Open Source backend for your next SaaS and Mobile app in 1 file.
+description: Backend for your next SaaS and Mobile app in one file.
 licenses:
   - MIT
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/pocketbase/pocketbase
-stargazers_count: 45344
-updated_at: '2025-03-29'
+stargazers_count: 58729
+updated_at: '2026-05-28'
 archived: false
+current_release:
+  tag: v0.39.0
+  published_at: '2026-05-28'
+commit_history:
+  2025-06: 25
+  2025-07: 10
+  2025-08: 30
+  2025-09: 19
+  2025-10: 34
+  2025-11: 29
+  2025-12: 24
+  2026-01: 29
+  2026-02: 33
+  2026-03: 26
+  2026-04: 93
+  2026-05: 76

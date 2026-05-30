@@ -1,6 +1,6 @@
 name: Hubleys
 website_url: https://github.com/knrdl/hubleys-dashboard
-description: Self-hosted personal dashboards to organize links for multiple users via a central yaml config.
+description: Personal dashboards to organize links for multiple users via a central yaml config.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/knrdl/hubleys-dashboard
-stargazers_count: 80
-updated_at: '2025-04-14'
+stargazers_count: 115
+updated_at: '2026-05-22'
 archived: false
+current_release:
+  tag: v0.5.1
+  published_at: '2026-03-17'
+commit_history:
+  2025-06: 42
+  2025-07: 33
+  2025-08: 18
+  2025-09: 16
+  2025-10: 31
+  2025-11: 24
+  2025-12: 14
+  2026-01: 16
+  2026-02: 8
+  2026-03: 31
+  2026-04: 14
+  2026-05: 6

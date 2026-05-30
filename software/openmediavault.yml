@@ -1,6 +1,6 @@
 name: OpenMediaVault
 website_url: https://www.openmediavault.org/
-description: OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
+description: Network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,19 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/openmediavault/openmediavault
-stargazers_count: 5604
-updated_at: '2025-04-14'
+stargazers_count: 6750
+updated_at: '2026-05-29'
 archived: false
+commit_history:
+  2025-06: 38
+  2025-07: 55
+  2025-08: 35
+  2025-09: 23
+  2025-10: 56
+  2025-11: 108
+  2025-12: 61
+  2026-01: 97
+  2026-02: 45
+  2026-03: 53
+  2026-04: 85
+  2026-05: 75

@@ -1,0 +1,32 @@
+name: Aleph
+website_url: https://aleph.occrp.org/
+description: Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Search Engines
+  - Knowledge Management Tools
+source_code_url: https://github.com/alephdata/aleph
+demo_url: https://aleph.occrp.org/
+stargazers_count: 2367
+updated_at: '2025-12-19'
+archived: false
+current_release:
+  tag: 4.1.7
+  published_at: '2025-10-27'
+commit_history:
+  2025-06: 8
+  2025-07: 5
+  2025-08: 11
+  2025-09: 2
+  2025-10: 9
+  2025-11: 0
+  2025-12: 4
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0

@@ -1,6 +1,6 @@
 name: LibrePhotos
 website_url: https://github.com/LibrePhotos/librephotos
-description: Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.
+description: Photo management service with a slight focus on cool graphs (alternative to Google Photos).
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,20 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 7254
-updated_at: '2025-04-06'
+stargazers_count: 7994
+updated_at: '2026-05-27'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
+commit_history:
+  2025-06: 18
+  2025-07: 79
+  2025-08: 42
+  2025-09: 21
+  2025-10: 50
+  2025-11: 15
+  2025-12: 26
+  2026-01: 37
+  2026-02: 160
+  2026-03: 42
+  2026-04: 194
+  2026-05: 40

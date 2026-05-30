@@ -1,6 +1,6 @@
 name: Heimdall
 website_url: https://heimdall.site/
-description: Heimdall is an elegant solution to organise all your web applications.
+description: Elegant solution to organise all your web applications.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/linuxserver/Heimdall
-stargazers_count: 8306
-updated_at: '2024-11-05'
+stargazers_count: 9191
+updated_at: '2025-11-11'
 archived: false
+current_release:
+  tag: v2.7.6
+  published_at: '2025-09-15'
+commit_history:
+  2025-06: 0
+  2025-07: 45
+  2025-08: 6
+  2025-09: 13
+  2025-10: 0
+  2025-11: 6
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0

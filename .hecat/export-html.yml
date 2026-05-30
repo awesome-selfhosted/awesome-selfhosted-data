@@ -6,6 +6,7 @@ steps:
       output_directory: html
       exclude_licenses:
         - ⊘ Proprietary
+        - BSD-3-Clause-No-Military-License
         - BUSL-1.1
         - CC-BY-NC-4.0
         - CC-BY-NC-SA-3.0
@@ -16,3 +17,4 @@ steps:
         - Elastic-2.0
         - NPOSL-3.0
         - SSPL-1.0
+        - SUL-1.0

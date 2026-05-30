@@ -1,6 +1,6 @@
 name: Limbas
 website_url: https://www.limbas.com/en/
-description: Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications.
+description: Database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/limbas/limbas
-stargazers_count: 54
-updated_at: '2025-02-18'
+stargazers_count: 57
+updated_at: '2025-11-25'
 archived: false
+current_release:
+  tag: v7.0.25
+  published_at: '2025-11-25'
+commit_history:
+  2025-06: 0
+  2025-07: 1
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 0
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0

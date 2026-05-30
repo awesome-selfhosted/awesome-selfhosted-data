@@ -1,6 +1,6 @@
 name: Mathesar
 website_url: https://mathesar.org/
-description: An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one.
+description: Intuitive UI to manage data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,23 @@ platforms:
   - Python
 tags:
   - Database Management
-source_code_url: https://github.com/centerofci/mathesar
-stargazers_count: 4068
-updated_at: '2025-04-10'
+source_code_url: https://github.com/mathesar-foundation/mathesar
+stargazers_count: 4982
+updated_at: '2026-05-28'
 archived: false
+current_release:
+  tag: 0.11.0
+  published_at: '2026-05-28'
+commit_history:
+  2025-06: 311
+  2025-07: 414
+  2025-08: 365
+  2025-09: 334
+  2025-10: 236
+  2025-11: 325
+  2025-12: 296
+  2026-01: 45
+  2026-02: 14
+  2026-03: 23
+  2026-04: 104
+  2026-05: 86

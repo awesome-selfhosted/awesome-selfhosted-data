@@ -1,6 +1,6 @@
 name: Easy!Appointments
 website_url: https://easyappointments.org/
-description: A highly customizable web application that allows your customers to book appointments with you via the web.
+description: Allows your customers to book appointments with you via the web.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Booking and Scheduling
 source_code_url: https://github.com/alextselegidis/easyappointments
 demo_url: https://demo.easyappointments.org/
-stargazers_count: 3581
-updated_at: '2025-03-03'
+stargazers_count: 4198
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: 1.6.0
+  published_at: '2026-05-27'
+commit_history:
+  2025-06: 4
+  2025-07: 7
+  2025-08: 13
+  2025-09: 3
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 4
+  2026-02: 1
+  2026-03: 31
+  2026-04: 32
+  2026-05: 95

@@ -5,7 +5,9 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 ### Curation
 
 - Software with no development activity for 6-12 months may be removed from the list
-- Unmaintained software without an active community and/or with persistent security issues may be removed from the list
+- Non-working software may be removed from the list
+- Unmaintained software without an active community may be removed from the list
+- Software with persistent, serious security issues will be removed from the list
 - Problems should be reported automatically: [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1)
 
 ### Add software to the list
@@ -94,7 +96,18 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 - If you are adding software forked from another active project, please provide/link to a clear list of differences between both.
 - If the project is forked from another project, please add `(fork of $PROJECT)` at the end of the description.
 - If the project distributes a single static binary, please add the programming language in which it is written.
+- Machine/LLM-generated contributions, that do not respect project guidelines are not allowed and will result in a ban.
+- Constructive reviews from non-maintainers are welcome.
+- Any maintainer with merge permissions can merge submissions/PRs, if their time allows and they have sufficient confidence that the submission is a good fit for the list. Consensus is preferable but not required.
 
+### What does not qualify
+
+- Software that depends on a specific cloud provider
+- Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
+- Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
+- Software acts as a platform to build and deploy arbitrary applications (PaaS, "serverless"...)
+- Anything that is a generic container/deployment automation/virtualization/... tool is better suited for [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- Software contributions that merely port an existing application to another system (e.g., Dockerization)
 
 ### Canned replies
 
@@ -107,6 +120,16 @@ To save maintainers time, a few premade replies for common issues can be found b
 >However, there are no tagged releases for this project. Our guidelines require that _Any software project you are adding was first released more than 4 months ago._ We encourage you to create a release now and/or a simple [changelog](https://keepachangelog.com/en/1.1.0/) that will help users keep track of changes in the software (especially breaking changes or changes requiring configuration tweaks), and will allow administrators to install a known working, unchanging version (as opposed to always installing the latest development version).
 >
 >Once this is done, the project may be resubmitted to awesome-selfhosted when the first release reaches the age of 4 months.
+>
+>Thanks for understanding, and good luck with this project.
+
+#### First release less than 4 months old
+
+>Hi, thanks for your contribution.
+>
+>Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need not rely on the latest development version to use the project.
+>
+>I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is four months old, feel free to resubmit it to awesome-selfhosted, or you can create an issue instead (we don't close issues; we just tag them to indicate they need to mature).
 >
 >Thanks for understanding, and good luck with this project.
 

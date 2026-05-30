@@ -1,6 +1,6 @@
 name: Calibre Web
 website_url: https://github.com/janeczku/calibre-web
-description: Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+description: Browse, read and download eBooks using an existing Calibre database.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/janeczku/calibre-web
-stargazers_count: 14363
-updated_at: '2025-03-30'
+stargazers_count: 17232
+updated_at: '2026-05-24'
 archived: false
+current_release:
+  tag: 0.6.26
+  published_at: '2026-02-06'
+commit_history:
+  2025-06: 13
+  2025-07: 1
+  2025-08: 11
+  2025-09: 19
+  2025-10: 12
+  2025-11: 16
+  2025-12: 28
+  2026-01: 43
+  2026-02: 27
+  2026-03: 9
+  2026-04: 46
+  2026-05: 10

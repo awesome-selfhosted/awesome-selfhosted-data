@@ -1,6 +1,6 @@
 name: grocy
 website_url: https://grocy.info/
-description: ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home.
+description: ERP beyond your fridge. Groceries & household management solution for your home.
 licenses:
   - MIT
 platforms:
@@ -11,6 +11,22 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/grocy/grocy
 demo_url: https://en.demo.grocy.info/
-stargazers_count: 7395
-updated_at: '2025-04-02'
+stargazers_count: 9093
+updated_at: '2026-05-16'
 archived: false
+current_release:
+  tag: v4.6.0
+  published_at: '2026-03-06'
+commit_history:
+  2025-06: 3
+  2025-07: 0
+  2025-08: 5
+  2025-09: 7
+  2025-10: 0
+  2025-11: 0
+  2025-12: 0
+  2026-01: 4
+  2026-02: 5
+  2026-03: 19
+  2026-04: 11
+  2026-05: 4

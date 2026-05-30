@@ -1,6 +1,6 @@
 name: PicoShare
-website_url: https://pico.rocks
-description: A minimalist, easy-to-host service for sharing images and other files.
+website_url: https://github.com/mtlynch/picoshare
+description: Minimalist, easy-to-host service for sharing images and other files.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,22 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/mtlynch/picoshare
-demo_url: https://demo.pico.rocks
-stargazers_count: 2491
-updated_at: '2025-03-02'
+stargazers_count: 2938
+updated_at: '2026-05-26'
 archived: false
+current_release:
+  tag: v1.5.4
+  published_at: '2026-05-26'
+commit_history:
+  2025-06: 8
+  2025-07: 7
+  2025-08: 1
+  2025-09: 1
+  2025-10: 1
+  2025-11: 0
+  2025-12: 1
+  2026-01: 18
+  2026-02: 2
+  2026-03: 2
+  2026-04: 6
+  2026-05: 14

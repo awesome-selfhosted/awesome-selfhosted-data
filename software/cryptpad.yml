@@ -1,6 +1,6 @@
 name: CryptPad
 website_url: https://cryptpad.org
-description: CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time.
+description: Collaboration suite built to enable collaboration, synchronizing changes to documents in real time.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Office Suites
 source_code_url: https://github.com/cryptpad/cryptpad
-stargazers_count: 6194
-updated_at: '2025-04-09'
+stargazers_count: 7681
+updated_at: '2026-05-26'
 archived: false
+current_release:
+  tag: 2026.5.1
+  published_at: '2026-05-26'
+commit_history:
+  2025-06: 204
+  2025-07: 110
+  2025-08: 182
+  2025-09: 207
+  2025-10: 163
+  2025-11: 1
+  2025-12: 40
+  2026-01: 69
+  2026-02: 79
+  2026-03: 127
+  2026-04: 70
+  2026-05: 91

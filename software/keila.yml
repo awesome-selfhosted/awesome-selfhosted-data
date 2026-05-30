@@ -1,6 +1,6 @@
 name: Keila
 website_url: https://www.keila.io
-description: Self-hosted reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue).
+description: Reliable and easy-to-use newsletter tool (alternative to Mailchimp and Sendinblue).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/pentacent/keila
 demo_url: https://app.keila.io
-stargazers_count: 1651
-updated_at: '2025-04-06'
+stargazers_count: 2107
+updated_at: '2026-05-26'
 archived: false
+current_release:
+  tag: v0.20.1
+  published_at: '2026-05-25'
+commit_history:
+  2025-06: 66
+  2025-07: 12
+  2025-08: 16
+  2025-09: 1
+  2025-10: 3
+  2025-11: 57
+  2025-12: 20
+  2026-01: 78
+  2026-02: 17
+  2026-03: 20
+  2026-04: 71
+  2026-05: 37

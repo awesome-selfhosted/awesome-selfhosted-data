@@ -1,6 +1,6 @@
 name: Cockpit
 website_url: https://getcockpit.com
-description: Simple Content Platform to manage any structured content.
+description: Simple content platform to manage any structured content.
 licenses:
   - MIT
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/Cockpit-HQ/Cockpit
-stargazers_count: 436
-updated_at: '2025-04-13'
+stargazers_count: 718
+updated_at: '2026-05-25'
 archived: false
+current_release:
+  tag: 2.14.0
+  published_at: '2026-03-30'
+commit_history:
+  2025-06: 7
+  2025-07: 44
+  2025-08: 32
+  2025-09: 15
+  2025-10: 29
+  2025-11: 23
+  2025-12: 62
+  2026-01: 33
+  2026-02: 13
+  2026-03: 56
+  2026-04: 8
+  2026-05: 9

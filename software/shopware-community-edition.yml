@@ -7,8 +7,24 @@ platforms:
   - PHP
 tags:
   - E-commerce
-source_code_url: https://github.com/shopware/platform
+source_code_url: https://github.com/shopware/shopware
 demo_url: https://www.shopware.com/en/test-demo/
-stargazers_count: 3013
-updated_at: '2025-04-14'
+stargazers_count: 3354
+updated_at: '2026-05-29'
 archived: false
+current_release:
+  tag: v6.6.10.18
+  published_at: '2026-05-19'
+commit_history:
+  2025-06: 201
+  2025-07: 249
+  2025-08: 216
+  2025-09: 190
+  2025-10: 181
+  2025-11: 152
+  2025-12: 148
+  2026-01: 142
+  2026-02: 223
+  2026-03: 227
+  2026-04: 246
+  2026-05: 241

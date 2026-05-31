@@ -7,5 +7,6 @@ licenses:
 platforms:
   - Docker
   - K8S
+  - deb
 tags:
   - Time Tracking

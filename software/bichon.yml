@@ -7,6 +7,5 @@ licenses:
 platforms:
   - Rust
   - Docker
-  - deb
 tags:
   - Archiving and Digital Preservation (DP)

@@ -1,0 +1,12 @@
+name: Alon Sentinel
+website_url: https://alon.systems
+description: Self-hosted monitoring platform for websites, APIs, SSL certificates, DNS records, TCP services, and heartbeat jobs, with incidents, notifications, public status pages, Prometheus metrics, and a versioned API.
+licenses:
+  - AGPL-3.0-or-later
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Monitoring
+source_code_url: https://github.com/tomnekic/alon-sentinel
+demo_url: https://demo.alon.systems

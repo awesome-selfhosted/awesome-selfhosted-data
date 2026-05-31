@@ -10,11 +10,11 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/thumbor/thumbor
 stargazers_count: 10486
-updated_at: '2026-05-14'
+updated_at: '2026-05-30'
 archived: false
 current_release:
-  tag: 7.7.7
-  published_at: '2025-05-15'
+  tag: 7.8.0
+  published_at: '2026-05-30'
 commit_history:
   2025-06: 4
   2025-07: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-02: 3
   2026-03: 15
   2026-04: 11
-  2026-05: 3
+  2026-05: 22

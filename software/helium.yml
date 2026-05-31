@@ -1,0 +1,12 @@
+name: "Helium"
+website_url: "https://www.heliumedu.com"
+source_code_url: "https://github.com/HeliumEdu/platform"
+description: "Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Learning and Courses
+demo_url: "https://app.heliumedu.com"

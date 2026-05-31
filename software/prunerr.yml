@@ -1,0 +1,11 @@
+name: Prunerr
+website_url: https://github.com/helliott20/prunerr
+source_code_url: https://github.com/helliott20/prunerr
+description: Media library cleanup tool for Plex, Sonarr and Radarr. Reclaims disk space by flagging and removing unwanted content using customisable rules, with a review-and-approve deletion queue, grace periods, and disk-pressure automation.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Media Management

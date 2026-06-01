@@ -1,0 +1,11 @@
+name: InfraCanvas
+website_url: https://github.com/bytestrix/InfraCanvas
+source_code_url: https://github.com/bytestrix/InfraCanvas
+description: Live visual map of containers, pods, volumes, and deployments running on any Linux server. Single binary, one-command install.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Personal Dashboards

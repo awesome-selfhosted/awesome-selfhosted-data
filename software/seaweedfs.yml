@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/seaweedfs/seaweedfs
-stargazers_count: 32603
-updated_at: '2026-05-30'
+stargazers_count: 32617
+updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: '4.30'
   published_at: '2026-05-30'
 commit_history:
-  2025-06: 110
   2025-07: 150
   2025-08: 102
   2025-09: 47
@@ -26,4 +25,4 @@ commit_history:
   2026-02: 238
   2026-03: 303
   2026-04: 360
-  2026-05: 355
+  2026-05: 364

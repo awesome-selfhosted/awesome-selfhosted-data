@@ -10,14 +10,13 @@ platforms:
 tags:
   - Games
 related_software_url: https://bananas.openttd.org/
-stargazers_count: 7905
-updated_at: '2026-05-30'
+stargazers_count: 7909
+updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: '15.3'
   published_at: '2026-04-04'
 commit_history:
-  2025-06: 99
   2025-07: 87
   2025-08: 98
   2025-09: 119
@@ -28,4 +27,4 @@ commit_history:
   2026-02: 159
   2026-03: 77
   2026-04: 138
-  2026-05: 106
+  2026-05: 122

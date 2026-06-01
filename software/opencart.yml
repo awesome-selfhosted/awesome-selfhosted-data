@@ -8,14 +8,13 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/opencart/opencart
-stargazers_count: 8128
-updated_at: '2026-05-30'
+stargazers_count: 8127
+updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: 3.0.5.0
   published_at: '2025-12-12'
 commit_history:
-  2025-06: 129
   2025-07: 227
   2025-08: 154
   2025-09: 123
@@ -26,4 +25,4 @@ commit_history:
   2026-02: 25
   2026-03: 306
   2026-04: 179
-  2026-05: 162
+  2026-05: 187

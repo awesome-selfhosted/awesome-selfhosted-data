@@ -8,14 +8,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/fossar/selfoss
-stargazers_count: 2460
-updated_at: '2026-03-21'
+stargazers_count: 2461
+updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: '2.19'
   published_at: '2022-10-12'
 commit_history:
-  2025-06: 0
   2025-07: 0
   2025-08: 0
   2025-09: 6
@@ -26,4 +25,4 @@ commit_history:
   2026-02: 1
   2026-03: 5
   2026-04: 0
-  2026-05: 0
+  2026-05: 13

@@ -9,13 +9,12 @@ platforms:
 tags:
   - Wikis
 stargazers_count: 1438
-updated_at: '2026-05-23'
+updated_at: '2026-05-31'
 archived: false
 current_release:
-  tag: v2.20.5
-  published_at: '2026-05-17'
+  tag: v2.20.6
+  published_at: '2026-05-31'
 commit_history:
-  2025-06: 19
   2025-07: 12
   2025-08: 31
   2025-09: 7
@@ -26,4 +25,4 @@ commit_history:
   2026-02: 50
   2026-03: 101
   2026-04: 47
-  2026-05: 35
+  2026-05: 45

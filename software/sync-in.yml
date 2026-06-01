@@ -13,14 +13,13 @@ tags:
   - Groupware
 demo_url: https://sync-in.com/docs/demo
 related_software_url: https://github.com/Sync-in/desktop
-stargazers_count: 1383
-updated_at: '2026-05-29'
+stargazers_count: 1395
+updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: v2.3.0
   published_at: '2026-05-22'
 commit_history:
-  2025-06: 0
   2025-07: 44
   2025-08: 101
   2025-09: 56
@@ -31,4 +30,4 @@ commit_history:
   2026-02: 78
   2026-03: 70
   2026-04: 62
-  2026-05: 62
+  2026-05: 64

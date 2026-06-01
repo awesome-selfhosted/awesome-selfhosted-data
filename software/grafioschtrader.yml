@@ -1,0 +1,13 @@
+name: Grafioschtrader
+website_url: https://www.grafioschtrader.info/en/grafioschtrader-software-english/
+source_code_url: https://github.com/grafioschtrader/grafioschtrader
+description: Multi-tenant portfolio management for tracking investments across multiple portfolios, securities and cash accounts in several currencies, supporting stocks, bonds, ETFs, CFDs and forex, with asset-class evaluation and correlation matrices.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: true
+demo_url: https://grafioschtrader.info/grafioschtrader/login

@@ -5,8 +5,7 @@ description: "Easy-to-use, metadata-driven, open-source document management syst
 licenses:
   - AGPL-3.0
 platforms:
-  - Go
-platforms:
+  - Docker
 tags:
   - Document Management
 depends_3rdparty: false

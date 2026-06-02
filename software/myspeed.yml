@@ -9,14 +9,13 @@ platforms:
   - Nodejs
 tags:
   - Network Utilities
-stargazers_count: 2931
+stargazers_count: 2934
 updated_at: '2026-05-29'
 archived: false
 current_release:
   tag: v1.0.9
   published_at: '2024-05-21'
 commit_history:
-  2025-06: 116
   2025-07: 62
   2025-08: 64
   2025-09: 86
@@ -28,3 +27,4 @@ commit_history:
   2026-03: 91
   2026-04: 81
   2026-05: 91
+  2026-06: 0

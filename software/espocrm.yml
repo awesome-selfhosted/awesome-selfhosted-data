@@ -9,14 +9,13 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/espocrm/espocrm
 demo_url: https://demo.espocrm.com/
-stargazers_count: 3005
-updated_at: '2026-05-29'
+stargazers_count: 3011
+updated_at: '2026-06-01'
 archived: false
 current_release:
-  tag: 9.3.7
-  published_at: '2026-05-18'
+  tag: 9.3.8
+  published_at: '2026-06-01'
 commit_history:
-  2025-06: 211
   2025-07: 115
   2025-08: 89
   2025-09: 83
@@ -28,3 +27,4 @@ commit_history:
   2026-03: 164
   2026-04: 228
   2026-05: 181
+  2026-06: 6

@@ -11,12 +11,12 @@ platforms:
 tags:
   - Ticketing
 stargazers_count: 2539
-updated_at: '2026-05-31'
+updated_at: '2026-06-01'
 archived: false
 demo_url: https://demo.libredesk.io
 current_release:
-  tag: v2.3.0
-  published_at: '2026-05-29'
+  tag: v2.3.1
+  published_at: '2026-06-01'
 commit_history:
   2025-10: 3
   2025-11: 47
@@ -26,3 +26,4 @@ commit_history:
   2026-03: 79
   2026-04: 176
   2026-05: 155
+  2026-06: 3

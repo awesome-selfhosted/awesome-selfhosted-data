@@ -13,14 +13,13 @@ tags:
   - Web Servers
 demo_url: https://demo.bunkerweb.io
 related_software_url: https://docs.bunkerweb.io/latest/plugins/
-stargazers_count: 10561
+stargazers_count: 10564
 updated_at: '2026-05-25'
 archived: false
 current_release:
   tag: v1.6.11
   published_at: '2026-05-25'
 commit_history:
-  2025-06: 248
   2025-07: 162
   2025-08: 150
   2025-09: 195
@@ -32,3 +31,4 @@ commit_history:
   2026-03: 192
   2026-04: 163
   2026-05: 138
+  2026-06: 0

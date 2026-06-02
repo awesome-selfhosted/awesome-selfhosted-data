@@ -10,11 +10,11 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/redaxo/core
 stargazers_count: 347
-updated_at: '2026-05-29'
+updated_at: '2026-06-01'
 archived: false
 current_release:
-  tag: 5.21.0
-  published_at: '2026-04-09'
+  tag: 5.21.1
+  published_at: '2026-06-01'
 commit_history:
   2025-07: 20
   2025-08: 6
@@ -27,3 +27,4 @@ commit_history:
   2026-03: 9
   2026-04: 28
   2026-05: 11
+  2026-06: 4

@@ -10,14 +10,13 @@ tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/knadh/listmonk
 demo_url: https://demo.listmonk.app/
-stargazers_count: 21227
+stargazers_count: 21259
 updated_at: '2026-05-31'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-05-31'
+  published_at: '2026-06-01'
 commit_history:
-  2025-06: 11
   2025-07: 11
   2025-08: 11
   2025-09: 21
@@ -29,3 +28,4 @@ commit_history:
   2026-03: 46
   2026-04: 20
   2026-05: 25
+  2026-06: 0

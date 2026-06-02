@@ -11,17 +11,13 @@ platforms:
 tags:
   - Analytics
 demo_url: https://demo.medama.io
-stargazers_count: 605
-updated_at: '2026-01-18'
+stargazers_count: 623
+updated_at: '2026-05-24'
 archived: false
 current_release:
   tag: v0.6.2
   published_at: '2026-01-18'
 commit_history:
-  2025-03: 12
-  2025-04: 1
-  2025-05: 6
-  2025-06: 4
   2025-07: 2
   2025-08: 28
   2025-09: 0
@@ -30,3 +26,7 @@ commit_history:
   2025-12: 16
   2026-01: 1
   2026-02: 0
+  2026-03: 0
+  2026-04: 0
+  2026-05: 6
+  2026-06: 0

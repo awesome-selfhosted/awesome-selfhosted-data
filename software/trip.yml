@@ -9,17 +9,13 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 demo_url: https://itskovacs-trip.netlify.app/home
-stargazers_count: 1176
-updated_at: '2026-02-23'
+stargazers_count: 1479
+updated_at: '2026-05-30'
 archived: false
 current_release:
-  tag: 1.41.0
-  published_at: '2026-02-23'
+  tag: 1.45.2
+  published_at: '2026-05-30'
 commit_history:
-  2025-03: 0
-  2025-04: 0
-  2025-05: 0
-  2025-06: 0
   2025-07: 61
   2025-08: 100
   2025-09: 12
@@ -28,3 +24,7 @@ commit_history:
   2025-12: 1
   2026-01: 78
   2026-02: 43
+  2026-03: 73
+  2026-04: 0
+  2026-05: 18
+  2026-06: 0

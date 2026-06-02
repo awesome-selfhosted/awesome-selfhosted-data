@@ -1,4 +1,4 @@
-name: Keeper
+name: Keeper.sh
 website_url: https://keeper.sh/
 description: Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events.
 licenses:

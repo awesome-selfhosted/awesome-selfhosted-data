@@ -1,0 +1,11 @@
+name: Pi Forge
+website_url: https://github.com/huiyu9144/pi-forge
+source_code_url: https://github.com/huiyu9144/pi-forge
+description: Local-first AI coding agent with pure Web UI, ~80 token system prompt, ~0.3s first token latency, and 90%+ lower cost. Self-hosted alternative to Claude Code/Codex CLI.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools

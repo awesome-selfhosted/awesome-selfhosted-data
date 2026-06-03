@@ -9,11 +9,11 @@ tags:
   - E-commerce
 source_code_url: https://github.com/coreshop/CoreShop
 stargazers_count: 290
-updated_at: '2026-05-27'
+updated_at: '2026-06-02'
 archived: false
 current_release:
-  tag: 4.1.10
-  published_at: '2026-02-18'
+  tag: 2026.1.0-beta.1
+  published_at: '2026-06-02'
 commit_history:
   2025-07: 74
   2025-08: 11
@@ -25,5 +25,5 @@ commit_history:
   2026-02: 109
   2026-03: 4
   2026-04: 119
-  2026-05: 64
-  2026-06: 0
+  2026-05: 68
+  2026-06: 17

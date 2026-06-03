@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - PHP
 tags:
   - Bookmarks and Link Sharing
 demo_url: "https://demo.faved.dev/"

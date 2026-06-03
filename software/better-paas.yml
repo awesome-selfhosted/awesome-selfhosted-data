@@ -1,0 +1,12 @@
+name: "better-paas"
+website_url: "https://github.com/sumon-ohid/better-paas"
+source_code_url: "https://github.com/sumon-ohid/better-paas"
+description: "A self-hosted, lightweight PaaS: A Go Backend that builds Git repositories with Nixpacks, runs them as Docker containers, and routes traffic through Caddy, managed via a Next.js dashboard."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - software-development-continuous-integration-deployment

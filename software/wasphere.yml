@@ -1,0 +1,10 @@
+name: WaSphere
+website_url: https://wasphere.com
+description: Self-hosted WhatsApp API platform - send/receive messages, webhooks, multi-device support, REST API.
+licenses:
+- MIT
+platforms:
+- Nodejs
+tags:
+- Communication - Custom Communication Systems
+source_code_url: https://github.com/wasphere/wasphere

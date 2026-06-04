@@ -11,11 +11,11 @@ platforms:
 tags:
   - Booking and Scheduling
 stargazers_count: 738
-updated_at: '2026-06-01'
+updated_at: '2026-06-03'
 archived: false
 current_release:
-  tag: v5.0.2
-  published_at: '2026-05-04'
+  tag: v5.0.3
+  published_at: '2026-06-03'
 commit_history:
   2025-07: 96
   2025-08: 25
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 123
   2026-04: 85
   2026-05: 47
-  2026-06: 1
+  2026-06: 2

@@ -1,0 +1,18 @@
+name: DDraceNetwork
+website_url: https://ddnet.org/
+source_code_url: https://github.com/ddnet/ddnet
+description: Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay.
+licenses:
+  - Zlib
+platforms:
+  - C++
+tags:
+  - Games
+stargazers_count: 782
+updated_at: '2026-06-02'
+archived: false
+commit_history:
+  2026-03: 203
+  2026-04: 135
+  2026-05: 176
+  2026-06: 8

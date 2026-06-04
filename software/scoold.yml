@@ -12,13 +12,12 @@ tags:
 source_code_url: https://github.com/Erudika/scoold
 demo_url: https://live.scoold.com
 stargazers_count: 918
-updated_at: '2026-05-20'
+updated_at: '2026-06-03'
 archived: false
 current_release:
-  tag: 1.68.0
-  published_at: '2026-05-20'
+  tag: 1.68.2
+  published_at: '2026-05-27'
 commit_history:
-  2025-06: 0
   2025-07: 1
   2025-08: 0
   2025-09: 8
@@ -29,4 +28,5 @@ commit_history:
   2026-02: 0
   2026-03: 16
   2026-04: 33
-  2026-05: 31
+  2026-05: 45
+  2026-06: 6

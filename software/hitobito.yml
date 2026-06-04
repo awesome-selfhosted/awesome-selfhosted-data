@@ -9,14 +9,13 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/hitobito/hitobito
 demo_url: https://demo.hitobito.com/en/users/sign_in
-stargazers_count: 469
-updated_at: '2026-05-20'
+stargazers_count: 470
+updated_at: '2026-06-03'
 archived: false
 current_release:
   tag: 2.9.0
   published_at: '2026-04-07'
 commit_history:
-  2025-06: 140
   2025-07: 142
   2025-08: 116
   2025-09: 144
@@ -27,4 +26,5 @@ commit_history:
   2026-02: 95
   2026-03: 146
   2026-04: 122
-  2026-05: 83
+  2026-05: 110
+  2026-06: 8

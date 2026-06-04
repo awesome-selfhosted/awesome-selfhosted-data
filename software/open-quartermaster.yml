@@ -9,14 +9,13 @@ platforms:
   - Docker
 tags:
   - Inventory Management
-stargazers_count: 65
-updated_at: '2026-05-19'
+stargazers_count: 68
+updated_at: '2026-05-27'
 archived: false
 current_release:
-  tag: core-base+station-1.17.1
-  published_at: '2026-05-13'
+  tag: core-characteristics-1.1.1
+  published_at: '2026-05-25'
 commit_history:
-  2025-06: 49
   2025-07: 113
   2025-08: 149
   2025-09: 97
@@ -26,5 +25,6 @@ commit_history:
   2026-01: 168
   2026-02: 219
   2026-03: 201
-  2026-04: 222
-  2026-05: 152
+  2026-04: 223
+  2026-05: 248
+  2026-06: 0

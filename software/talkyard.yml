@@ -10,14 +10,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/debiki/talkyard
 demo_url: https://www.talkyard.io/forum/latest
-stargazers_count: 1807
-updated_at: '2026-03-29'
+stargazers_count: 1806
+updated_at: '2026-05-21'
 archived: false
 current_release:
-  tag: tyse-v0.2025.015-368ca18d4-regular
-  published_at: '2026-05-10'
+  tag: tyse-v1.2026.003-f220a7d9f-regular
+  published_at: '2026-05-26'
 commit_history:
-  2025-06: 0
   2025-07: 29
   2025-08: 66
   2025-09: 40
@@ -26,6 +25,7 @@ commit_history:
   2025-12: 3
   2026-01: 43
   2026-02: 64
-  2026-03: 40
-  2026-04: 0
-  2026-05: 0
+  2026-03: 41
+  2026-04: 1
+  2026-05: 19
+  2026-06: 0

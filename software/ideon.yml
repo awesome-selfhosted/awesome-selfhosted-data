@@ -5,7 +5,6 @@ description: Project workspace built around an infinite canvas; embed GitHub, Gi
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Software Development - Project Management

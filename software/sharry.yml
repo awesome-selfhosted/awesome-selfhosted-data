@@ -11,12 +11,12 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/eikek/sharry
-stargazers_count: 1304
-updated_at: '2026-06-03'
+stargazers_count: 1303
+updated_at: '2026-06-04'
 archived: false
 current_release:
-  tag: v1.15.0
-  published_at: '2025-03-15'
+  tag: v1.16.0
+  published_at: '2026-06-04'
 commit_history:
   2025-07: 5
   2025-08: 3
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 5
   2026-04: 2
   2026-05: 5
-  2026-06: 3
+  2026-06: 18

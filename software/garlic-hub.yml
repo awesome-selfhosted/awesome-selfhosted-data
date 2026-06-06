@@ -5,8 +5,6 @@ description: Digital signage device and content management system with SMIL play
 licenses:
   - AGPL-3.0
 platforms:
-  - PHP
-  - Javascript
   - Docker
 tags:
   - Miscellaneous

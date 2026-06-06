@@ -8,7 +8,6 @@ platforms:
   - Javascript
   - Nodejs
   - Docker
-# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
 tags:
   - Note-taking & Editors
 demo_url: "https://demo.plumio.app/homepage"

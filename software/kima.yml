@@ -1,0 +1,12 @@
+name: Kima
+website_url: https://github.com/Chevron7Locked/kima-hub
+source_code_url: https://github.com/Chevron7Locked/kima-hub
+description: Music streaming server for a personal library, with a Spotify-style interface, similarity and mood discovery powered by audio analysis, and optional Lidarr, audiobook, and podcast support. (alternative to Navidrome, Funkwhale)
+licenses:
+  - GPL-3.0-only
+platforms:
+  - Docker
+  - Nodejs
+  - Python
+tags:
+  - Media Streaming - Audio Streaming

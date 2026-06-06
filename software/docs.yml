@@ -9,12 +9,12 @@ platforms:
 tags:
   - Note-taking & Editors
   - Knowledge Management Tools
-stargazers_count: 16554
-updated_at: '2026-06-04'
+stargazers_count: 16569
+updated_at: '2026-06-05'
 archived: false
 current_release:
-  tag: v5.2.0
-  published_at: '2026-06-03'
+  tag: v5.2.1
+  published_at: '2026-06-05'
 commit_history:
   2025-07: 130
   2025-08: 41
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 166
   2026-04: 82
   2026-05: 74
-  2026-06: 46
+  2026-06: 49

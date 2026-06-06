@@ -1,0 +1,11 @@
+name: "ZeroData Tools"
+website_url: "https://zerodatatools.com/"
+source_code_url: "https://github.com/zerodatatools/feedback"
+description: "Collection of 40+ browser-only developer tools (Docker validators, Nginx builders, JWT debuggers) executing locally without sending data to servers."
+licenses:
+  - MIT
+platforms:
+  - Static
+  - Javascript
+tags:
+  - Software Development - IDE & Tools

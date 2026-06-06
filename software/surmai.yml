@@ -7,3 +7,5 @@ licenses:
 tags:
   - Travel Organizer
 demo_url: "https://demo.surmai.app"
+platforms:
+  - Docker

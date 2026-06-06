@@ -4,7 +4,6 @@ description: Calendar syncing tool that pulls and pushes events between calendar
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Calendar & Contacts

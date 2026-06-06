@@ -1,0 +1,10 @@
+name: "BoogieBox"
+website_url: "https://github.com/yronnen/boogiebox"
+source_code_url: "https://github.com/yronnen/boogiebox"
+description: "Self-hosted music library for Windows with BPM detection, waveform display, smart crossfade, and AI-powered mix planning. No cloud, no subscriptions."
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Music Streaming

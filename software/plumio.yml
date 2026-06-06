@@ -4,7 +4,6 @@ source_code_url: "https://github.com/albertasaftei/plumio"
 description: "A self-hosted markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more."
 licenses:
   - AGPL-3.0
-# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
 platforms:
   - Javascript
   - Nodejs

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/homarr-labs/homarr
-stargazers_count: 3974
-updated_at: '2026-06-04'
+stargazers_count: 3982
+updated_at: '2026-06-05'
 archived: false
 current_release:
-  tag: v1.63.0
-  published_at: '2026-05-29'
+  tag: v1.64.0
+  published_at: '2026-06-05'
 commit_history:
   2025-07: 158
   2025-08: 164
@@ -26,5 +26,5 @@ commit_history:
   2026-02: 147
   2026-03: 211
   2026-04: 187
-  2026-05: 203
-  2026-06: 17
+  2026-05: 207
+  2026-06: 35

@@ -1,6 +1,6 @@
 name: ytclip
-website_url: https://github.com/ZeeshanJan/yt-clip
-source_code_url: https://github.com/ZeeshanJan/yt-clip
+website_url: https://github.com/ZeeshanJan/ytclip
+source_code_url: https://github.com/ZeeshanJan/ytclip
 description: Web-based YouTube clip creator with draggable in/out timeline controls. Downloads only the required video segments at source quality, with MP4, MKV, and audio-only export options.
 licenses:
   - MIT

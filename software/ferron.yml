@@ -1,0 +1,12 @@
+name: "Ferron"
+website_url: "https://ferron.sh/"
+source_code_url: "https://github.com/ferronweb/ferron"
+description: "Fast, memory-safe web server written in Rust."
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - deb
+tags:
+  - Web Servers

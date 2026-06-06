@@ -1,0 +1,12 @@
+name: "Calagopus"
+website_url: "https://calagopus.com"
+source_code_url: "https://github.com/calagopus/panel"
+description: "Modern game server management panel. Deploy, monitor, and manage Minecraft, Hytale, and other game servers with industry-leading performance."
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - deb
+tags:
+  - Games - Administrative Utilities & Control Panels

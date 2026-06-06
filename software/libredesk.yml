@@ -1,7 +1,7 @@
 name: Libredesk
 website_url: https://libredesk.io/
 source_code_url: https://github.com/abhinavxd/libredesk
-description: Modern customer support desk. Single binary app.
+description: Modern omnichannel customer support desk. Live chat, email, and more in a single binary.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,12 +10,13 @@ platforms:
   - Nodejs
 tags:
   - Ticketing
-stargazers_count: 2503
-updated_at: '2026-05-14'
+stargazers_count: 2550
+updated_at: '2026-06-02'
 archived: false
+demo_url: https://demo.libredesk.io
 current_release:
-  tag: v2.2.1
-  published_at: '2026-04-25'
+  tag: v2.3.1
+  published_at: '2026-06-01'
 commit_history:
   2025-10: 3
   2025-11: 47
@@ -24,4 +25,5 @@ commit_history:
   2026-02: 21
   2026-03: 79
   2026-04: 176
-  2026-05: 28
+  2026-05: 156
+  2026-06: 9

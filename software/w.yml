@@ -8,14 +8,13 @@ platforms:
   - PHP
 tags:
   - Wikis
-stargazers_count: 51
-updated_at: '2026-05-14'
+stargazers_count: 53
+updated_at: '2026-05-19'
 archived: false
 current_release:
   tag: v3.16.0
   published_at: '2026-04-24'
 commit_history:
-  2025-06: 42
   2025-07: 18
   2025-08: 28
   2025-09: 20
@@ -26,4 +25,5 @@ commit_history:
   2026-02: 19
   2026-03: 0
   2026-04: 127
-  2026-05: 15
+  2026-05: 16
+  2026-06: 0

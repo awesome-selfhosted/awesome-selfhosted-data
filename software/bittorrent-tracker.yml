@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/webtorrent/bittorrent-tracker
-stargazers_count: 1925
-updated_at: '2026-04-16'
+stargazers_count: 1927
+updated_at: '2026-05-26'
 archived: false
 current_release:
-  tag: v11.2.2
-  published_at: '2025-09-06'
+  tag: v11.2.3
+  published_at: '2026-05-25'
 commit_history:
-  2025-06: 0
   2025-07: 0
   2025-08: 0
   2025-09: 2
@@ -26,4 +25,5 @@ commit_history:
   2026-02: 0
   2026-03: 0
   2026-04: 1
-  2026-05: 0
+  2026-05: 7
+  2026-06: 0

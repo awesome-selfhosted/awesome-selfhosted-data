@@ -8,12 +8,12 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/shellhub-io/shellhub
-stargazers_count: 2018
-updated_at: '2026-06-05'
+stargazers_count: 2020
+updated_at: '2026-06-06'
 archived: false
 current_release:
-  tag: v0.24.2
-  published_at: '2026-04-29'
+  tag: v0.25.0
+  published_at: '2026-06-06'
 commit_history:
   2025-07: 158
   2025-08: 101
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 293
   2026-04: 195
   2026-05: 140
-  2026-06: 38
+  2026-06: 42

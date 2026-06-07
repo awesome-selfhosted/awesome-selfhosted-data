@@ -10,12 +10,12 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/cloudreve/cloudreve
 demo_url: https://demo.cloudreve.org
-stargazers_count: 27998
-updated_at: '2026-05-10'
+stargazers_count: 28005
+updated_at: '2026-06-06'
 archived: false
 current_release:
-  tag: 4.16.0
-  published_at: '2026-05-10'
+  tag: 4.16.1
+  published_at: '2026-06-06'
 commit_history:
   2025-07: 18
   2025-08: 28
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 11
   2026-04: 1
   2026-05: 6
-  2026-06: 0
+  2026-06: 6

@@ -1,0 +1,14 @@
+name: AI Workdeck
+website_url: https://www.aiworkdeck.com
+source_code_url: https://github.com/zeweihan/aiworkdeck
+description: AI-native IDE workspace for legal and document-heavy workflows with MCP agent orchestration, OCR, and evidence chain tracking.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Document Management
+  - Automation
+  - Note-taking & Editors
+  - Generative AI

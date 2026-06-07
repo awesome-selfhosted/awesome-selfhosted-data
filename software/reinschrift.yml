@@ -1,0 +1,11 @@
+name: Reinschrift
+website_url: "https://reinschrift.dumke.me"
+source_code_url: "https://github.com/danst0/ReinschriftTodo"
+description: "Task manager that keeps all todos in a single Markdown file, with WebDAV/Nextcloud sync, recurring tasks, OIDC login and PWA support. Also includes a GNOME desktop app and a CLI (alternative to Todoist, Microsoft To Do)."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Task Management & To-do Lists

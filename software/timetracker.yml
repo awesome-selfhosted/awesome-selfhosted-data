@@ -5,7 +5,6 @@ description: Track time across projects and clients, with timers, kanban tasks, 
 licenses:
  - GPL-3.0
 platforms:
- - Python
  - Docker
 tags:
  - Time Tracking

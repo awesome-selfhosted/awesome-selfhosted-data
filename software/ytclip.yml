@@ -1,0 +1,16 @@
+name: ytclip
+website_url: https://github.com/ZeeshanJan/ytclip
+source_code_url: https://github.com/ZeeshanJan/ytclip
+description: >-
+  Create clips from YouTube videos using a web UI with drag-to-set in/out
+  points. Supports subtitle burn-in, watermark, brand kits, crop, speed
+  control, batch export, presets, shareable links, and direct publishing
+  to YouTube Shorts, TikTok, Instagram Reels, and LinkedIn.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true

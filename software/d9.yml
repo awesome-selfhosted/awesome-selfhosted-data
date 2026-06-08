@@ -1,0 +1,21 @@
+name: d9
+website_url: https://d9.webcapsule.io
+source_code_url: https://github.com/LaWebcapsule/d9
+description: Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS (fork of Directus).
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Database Management
+  - Content Management Systems (CMS)
+stargazers_count: 122
+updated_at: '2026-06-05'
+archived: false
+current_release:
+  tag: v12.0.7
+  published_at: '2026-04-30'
+commit_history:
+  2026-04: 14
+  2026-05: 3
+  2026-06: 12

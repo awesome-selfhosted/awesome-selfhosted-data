@@ -10,13 +10,14 @@ platforms:
 tags:
   - Wikis
 demo_url: https://demo.leafwiki.com
-stargazers_count: 113
-updated_at: '2026-05-14'
+stargazers_count: 358
+updated_at: '2026-06-05'
 archived: false
 current_release:
-  tag: v0.9.2
-  published_at: '2026-05-05'
+  tag: v0.10.2
+  published_at: '2026-06-04'
 commit_history:
   2026-03: 85
   2026-04: 87
-  2026-05: 30
+  2026-05: 95
+  2026-06: 28

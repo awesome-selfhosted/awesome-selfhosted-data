@@ -1,0 +1,10 @@
+name: Samovar
+website_url: https://github.com/Tubifix77/samovar
+description: Homelab Docker control plane with app-aware backup. Ships quiesce recipes for 20 apps, cron scheduler, S3/B2 remote storage via Restic, and one-click installs from an embedded catalog.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/Tubifix77/samovar

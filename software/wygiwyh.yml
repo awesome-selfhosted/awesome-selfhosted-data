@@ -10,12 +10,12 @@ platforms:
   - Python
 tags:
   - Money, Budgeting & Management
-stargazers_count: 852
-updated_at: '2026-06-06'
+stargazers_count: 854
+updated_at: '2026-06-07'
 archived: false
 current_release:
-  tag: 0.20.2
-  published_at: '2026-05-01'
+  tag: 0.21.0
+  published_at: '2026-06-07'
 commit_history:
   2025-07: 69
   2025-08: 134
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 13
   2026-04: 32
   2026-05: 13
-  2026-06: 17
+  2026-06: 20

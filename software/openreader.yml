@@ -9,12 +9,12 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://openreader.richardr.dev/
-stargazers_count: 391
-updated_at: '2026-06-06'
+stargazers_count: 402
+updated_at: '2026-06-07'
 archived: false
 current_release:
-  tag: v4.1.2
-  published_at: '2026-06-05'
+  tag: v4.2.0
+  published_at: '2026-06-07'
 commit_history:
   2025-10: 0
   2025-11: 47
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 11
   2026-04: 29
   2026-05: 267
-  2026-06: 69
+  2026-06: 74

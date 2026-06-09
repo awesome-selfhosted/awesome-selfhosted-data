@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Time Tracking
-stargazers_count: 8642
-updated_at: '2026-06-03'
+stargazers_count: 8649
+updated_at: '2026-06-08'
 archived: false
 current_release:
   tag: v0.14.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 50
   2026-04: 13
   2026-05: 28
-  2026-06: 2
+  2026-06: 3

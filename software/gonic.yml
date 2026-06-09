@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/sentriz/gonic
-stargazers_count: 2421
-updated_at: '2026-06-05'
+stargazers_count: 2423
+updated_at: '2026-06-08'
 archived: false
 current_release:
-  tag: v0.21.0
-  published_at: '2026-05-25'
+  tag: v0.22.0
+  published_at: '2026-06-08'
 commit_history:
   2025-07: 4
   2025-08: 6
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 11
   2026-04: 13
   2026-05: 40
-  2026-06: 9
+  2026-06: 13

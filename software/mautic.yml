@@ -8,8 +8,8 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/mautic/mautic
-stargazers_count: 9799
-updated_at: '2026-06-04'
+stargazers_count: 9805
+updated_at: '2026-06-08'
 archived: false
 current_release:
   tag: 7.2.0-rc
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 234
   2026-04: 186
   2026-05: 210
-  2026-06: 48
+  2026-06: 55

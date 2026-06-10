@@ -1,0 +1,12 @@
+name: "WebRouter"
+website_url: "https://webrouter.tech"
+source_code_url: "https://github.com/candywon/webrouter"
+description: "Unified AI API Gateway: one API key to manage all LLM providers with smart routing, cost tracking, health monitoring, team management, and knowledge base/RAG."
+licenses:
+  - BSL-1.1
+platforms:
+  - Docker
+  - Python
+  - Go
+tags:
+  - Generative Artificial Intelligence (GenAI)

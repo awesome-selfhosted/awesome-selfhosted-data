@@ -27,6 +27,10 @@
   name: Beerware License
   url: https://spdx.org/licenses/Beerware.html
 
+- identifier: BSL-1.1
+  name: Business Source License 1.1
+  url: https://spdx.org/licenses/BSL-1.1.html
+
 - identifier: BSD-2-Clause
   name: BSD 2-clause "Simplified"
   url: https://spdx.org/licenses/BSD-2-Clause.html

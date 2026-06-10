@@ -1,7 +1,7 @@
 name: Safebucket
 website_url: https://docs.safebucket.io/
 source_code_url: https://github.com/safebucket/safebucket
-description: "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage."
+description: File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
+stargazers_count: 516
+updated_at: '2026-06-08'
+archived: false
+current_release:
+  tag: v0.5.2
+  published_at: '2026-05-20'
+commit_history:
+  2026-04: 50
+  2026-05: 60
+  2026-06: 16

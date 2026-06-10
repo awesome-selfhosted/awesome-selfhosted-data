@@ -1,0 +1,13 @@
+name: OpenFamily
+website_url: https://nexaflowfrance.github.io/OpenFamily/
+source_code_url: https://github.com/NexaFlowFrance/OpenFamily
+description: Family organizer with shared calendar, tasks and chores with kids rewards, shopping lists, meal planning and recipes, budget tracking, a wall-mounted kiosk mode and an optional AI assistant (alternative to Cozi, Skylight Calendar).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Groupware
+  - Task Management & To-do Lists
+demo_url: https://nexaflowfrance.github.io/OpenFamily/demo/

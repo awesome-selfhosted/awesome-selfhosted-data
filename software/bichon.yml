@@ -1,0 +1,21 @@
+name: Bichon
+website_url: https://github.com/rustmailer/bichon
+source_code_url: https://github.com/rustmailer/bichon
+description: Email archiving server that syncs from IMAP accounts, indexes emails for full-text search, and provides a REST API. No external database required, includes WebUI with multi-account support.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Archiving and Digital Preservation (DP)
+stargazers_count: 1758
+updated_at: '2026-06-08'
+archived: false
+current_release:
+  tag: 1.5.2
+  published_at: '2026-06-08'
+commit_history:
+  2026-04: 28
+  2026-05: 110
+  2026-06: 12

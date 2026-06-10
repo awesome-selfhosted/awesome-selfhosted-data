@@ -1,0 +1,12 @@
+name: HookSniff
+website_url: https://hooksniff.vercel.app
+description: Open-source webhook delivery platform with automatic retries, HMAC-SHA256 signatures (Standard Webhooks), dead letter queue, FIFO ordering, smart routing, and real-time analytics.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Rust
+  - Nodejs
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/servetarslan02/HookSniff

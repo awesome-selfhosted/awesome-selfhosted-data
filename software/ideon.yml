@@ -1,0 +1,10 @@
+name: Ideon
+website_url: https://www.theideon.com
+source_code_url: https://github.com/3xpyth0n/ideon
+description: Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Project Management

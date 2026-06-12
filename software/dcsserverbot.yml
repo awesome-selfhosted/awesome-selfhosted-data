@@ -1,0 +1,10 @@
+name: DCSServerBot
+website_url: https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot
+description: Manage DCS World dedicated servers via Discord — stats, slot blocking, weather injection, SRS/Tacview/Olympus integrations, 30+ plugins.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Games - Administrative Utilities & Control Panels
+source_code_url: https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot

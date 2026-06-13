@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/tagspaces/tagspaces
 demo_url: https://demo.tagspaces.com
 stargazers_count: 5163
-updated_at: '2026-06-10'
+updated_at: '2026-06-12'
 archived: false
 current_release:
-  tag: v6.12.2
-  published_at: '2026-06-03'
+  tag: v6.13.0
+  published_at: '2026-06-12'
 commit_history:
   2025-07: 118
   2025-08: 36
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 118
   2026-04: 149
   2026-05: 122
-  2026-06: 35
+  2026-06: 60

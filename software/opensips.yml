@@ -8,13 +8,10 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/OpenSIPS/opensips
-stargazers_count: 1448
-updated_at: '2026-03-17'
+stargazers_count: 1477
+updated_at: '2026-06-12'
 archived: false
 commit_history:
-  2025-04: 60
-  2025-05: 92
-  2025-06: 44
   2025-07: 30
   2025-08: 22
   2025-09: 33
@@ -23,4 +20,7 @@ commit_history:
   2025-12: 121
   2026-01: 31
   2026-02: 49
-  2026-03: 34
+  2026-03: 59
+  2026-04: 338
+  2026-05: 70
+  2026-06: 26

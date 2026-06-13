@@ -10,16 +10,13 @@ platforms:
 tags:
   - Personal Dashboards
   - Feed Readers
-stargazers_count: 32624
-updated_at: '2025-12-10'
+stargazers_count: 35031
+updated_at: '2026-05-30'
 archived: false
 current_release:
-  tag: v0.8.4
-  published_at: '2025-06-10'
+  tag: v0.8.5
+  published_at: '2026-05-30'
 commit_history:
-  2025-04: 84
-  2025-05: 75
-  2025-06: 9
   2025-07: 0
   2025-08: 0
   2025-09: 6
@@ -29,3 +26,6 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 0
+  2026-04: 0
+  2026-05: 6
+  2026-06: 0

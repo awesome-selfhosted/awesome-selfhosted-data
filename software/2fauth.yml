@@ -10,16 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/Bubka/2FAuth
 demo_url: https://demo.2fauth.app/
-stargazers_count: 3816
-updated_at: '2026-03-12'
+stargazers_count: 3988
+updated_at: '2026-06-08'
 archived: false
 current_release:
-  tag: v6.1.1
-  published_at: '2026-03-12'
+  tag: v7.0.1
+  published_at: '2026-06-08'
 commit_history:
-  2025-04: 10
-  2025-05: 2
-  2025-06: 23
   2025-07: 0
   2025-08: 0
   2025-09: 0
@@ -28,4 +25,7 @@ commit_history:
   2025-12: 33
   2026-01: 8
   2026-02: 28
-  2026-03: 26
+  2026-03: 30
+  2026-04: 36
+  2026-05: 45
+  2026-06: 31

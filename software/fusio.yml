@@ -10,16 +10,13 @@ tags:
   - Software Development - API Management
 source_code_url: https://github.com/apioo/fusio
 demo_url: https://fusio-project.org/demo
-stargazers_count: 2077
-updated_at: '2026-02-07'
+stargazers_count: 2098
+updated_at: '2026-06-04'
 archived: false
 current_release:
-  tag: v6.3.0
-  published_at: '2026-02-01'
+  tag: v7.0.0
+  published_at: '2026-05-23'
 commit_history:
-  2025-04: 9
-  2025-05: 6
-  2025-06: 16
   2025-07: 13
   2025-08: 13
   2025-09: 4
@@ -28,4 +25,7 @@ commit_history:
   2025-12: 7
   2026-01: 5
   2026-02: 5
-  2026-03: 0
+  2026-03: 2
+  2026-04: 11
+  2026-05: 17
+  2026-06: 2

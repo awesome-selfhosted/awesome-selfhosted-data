@@ -8,16 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/flarum/flarum
-stargazers_count: 16218
-updated_at: '2026-02-22'
+stargazers_count: 16315
+updated_at: '2026-06-09'
 archived: false
 current_release:
-  tag: v2.0.0-beta.7
-  published_at: '2026-02-22'
+  tag: v2.0.0-rc.3
+  published_at: '2026-06-09'
 commit_history:
-  2025-04: 0
-  2025-05: 1
-  2025-06: 0
   2025-07: 0
   2025-08: 0
   2025-09: 0
@@ -26,4 +23,7 @@ commit_history:
   2025-12: 1
   2026-01: 0
   2026-02: 2
-  2026-03: 0
+  2026-03: 1
+  2026-04: 1
+  2026-05: 1
+  2026-06: 2

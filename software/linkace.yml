@@ -10,16 +10,13 @@ tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/Kovah/LinkAce/
 demo_url: https://demo.linkace.org/guest/links
-stargazers_count: 3266
-updated_at: '2026-03-09'
+stargazers_count: 3298
+updated_at: '2026-06-06'
 archived: false
 current_release:
-  tag: v2.5.2
-  published_at: '2026-03-08'
+  tag: v2.5.8
+  published_at: '2026-06-06'
 commit_history:
-  2025-04: 1
-  2025-05: 0
-  2025-06: 3
   2025-07: 4
   2025-08: 21
   2025-09: 23
@@ -28,4 +25,7 @@ commit_history:
   2025-12: 6
   2026-01: 0
   2026-02: 11
-  2026-03: 14
+  2026-03: 24
+  2026-04: 18
+  2026-05: 19
+  2026-06: 2

@@ -8,16 +8,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/pufferpanel/pufferpanel
-stargazers_count: 1660
-updated_at: '2026-03-17'
+stargazers_count: 1701
+updated_at: '2026-06-09'
 archived: false
 current_release:
-  tag: v3.0.6
-  published_at: '2026-03-17'
+  tag: v3.0.8
+  published_at: '2026-05-27'
 commit_history:
-  2025-04: 6
-  2025-05: 3
-  2025-06: 27
   2025-07: 9
   2025-08: 17
   2025-09: 24
@@ -26,4 +23,7 @@ commit_history:
   2025-12: 10
   2026-01: 10
   2026-02: 12
-  2026-03: 14
+  2026-03: 15
+  2026-04: 7
+  2026-05: 2
+  2026-06: 3

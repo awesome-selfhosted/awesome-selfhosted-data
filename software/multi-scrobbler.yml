@@ -10,16 +10,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 depends_3rdparty: false
-stargazers_count: 962
-updated_at: '2026-03-16'
+stargazers_count: 1099
+updated_at: '2026-06-12'
 archived: false
 current_release:
-  tag: 0.12.0
-  published_at: '2026-03-16'
+  tag: 0.14.1
+  published_at: '2026-06-03'
 commit_history:
-  2025-04: 2
-  2025-05: 5
-  2025-06: 27
   2025-07: 79
   2025-08: 20
   2025-09: 47
@@ -28,4 +25,7 @@ commit_history:
   2025-12: 106
   2026-01: 103
   2026-02: 89
-  2026-03: 63
+  2026-03: 154
+  2026-04: 121
+  2026-05: 186
+  2026-06: 76

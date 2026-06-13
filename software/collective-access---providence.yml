@@ -8,16 +8,13 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/collectiveaccess/providence
-stargazers_count: 361
-updated_at: '2026-03-16'
+stargazers_count: 371
+updated_at: '2026-06-12'
 archived: false
 current_release:
   tag: 2.0.11
   published_at: '2026-03-16'
 commit_history:
-  2025-04: 33
-  2025-05: 51
-  2025-06: 48
   2025-07: 37
   2025-08: 49
   2025-09: 90
@@ -26,4 +23,7 @@ commit_history:
   2025-12: 69
   2026-01: 121
   2026-02: 65
-  2026-03: 34
+  2026-03: 98
+  2026-04: 95
+  2026-05: 88
+  2026-06: 37

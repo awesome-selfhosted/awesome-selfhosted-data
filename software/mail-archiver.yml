@@ -8,14 +8,17 @@ licenses:
   - GPL-3.0
 tags:
   - Archiving and Digital Preservation (DP)
-stargazers_count: 1734
-updated_at: '2026-03-16'
+stargazers_count: 1942
+updated_at: '2026-06-12'
 archived: false
 current_release:
-  tag: '2603.1'
-  published_at: '2026-03-10'
+  tag: '2606.1'
+  published_at: '2026-06-08'
 commit_history:
   2025-12: 12
   2026-01: 22
   2026-02: 24
-  2026-03: 9
+  2026-03: 16
+  2026-04: 13
+  2026-05: 10
+  2026-06: 14

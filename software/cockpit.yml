@@ -8,16 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/Cockpit-HQ/Cockpit
-stargazers_count: 676
-updated_at: '2026-03-13'
+stargazers_count: 726
+updated_at: '2026-06-03'
 archived: false
 current_release:
-  tag: 2.13.5
-  published_at: '2026-03-09'
+  tag: 2.14.0
+  published_at: '2026-03-30'
 commit_history:
-  2025-04: 25
-  2025-05: 11
-  2025-06: 7
   2025-07: 44
   2025-08: 32
   2025-09: 15
@@ -26,4 +23,7 @@ commit_history:
   2025-12: 62
   2026-01: 33
   2026-02: 13
-  2026-03: 28
+  2026-03: 56
+  2026-04: 8
+  2026-05: 9
+  2026-06: 2

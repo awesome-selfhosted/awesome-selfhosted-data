@@ -11,16 +11,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/invoiceninja/invoiceninja
 demo_url: https://app.invoiceninja.com/invoices/create
-stargazers_count: 9588
-updated_at: '2026-03-10'
+stargazers_count: 9819
+updated_at: '2026-06-07'
 archived: false
 current_release:
-  tag: v5.13.2
-  published_at: '2026-03-18'
+  tag: v5.13.24
+  published_at: '2026-06-06'
 commit_history:
-  2025-04: 120
-  2025-05: 133
-  2025-06: 87
   2025-07: 41
   2025-08: 202
   2025-09: 14
@@ -28,5 +25,8 @@ commit_history:
   2025-11: 200
   2025-12: 84
   2026-01: 173
-  2026-02: 208
-  2026-03: 52
+  2026-02: 216
+  2026-03: 254
+  2026-04: 223
+  2026-05: 232
+  2026-06: 67

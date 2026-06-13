@@ -2,7 +2,7 @@ name: Planka
 website_url: https://planka.app/
 description: Realtime kanban board for workgroups (alternative to Trello).
 licenses:
-  - AGPL-3.0
+  - ⊘ Proprietary
 platforms:
   - Nodejs
   - Docker
@@ -11,16 +11,13 @@ tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/plankanban/planka
 demo_url: https://plankanban.github.io/planka/#/
-stargazers_count: 11680
-updated_at: '2026-03-18'
+stargazers_count: 12094
+updated_at: '2026-06-03'
 archived: false
 current_release:
-  tag: v2.0.3
-  published_at: '2026-03-01'
+  tag: 2.1.1
+  published_at: '2026-04-18'
 commit_history:
-  2025-04: 16
-  2025-05: 43
-  2025-06: 58
   2025-07: 38
   2025-08: 21
   2025-09: 33
@@ -28,5 +25,8 @@ commit_history:
   2025-11: 27
   2025-12: 22
   2026-01: 33
-  2026-02: 34
-  2026-03: 11
+  2026-02: 35
+  2026-03: 31
+  2026-04: 33
+  2026-05: 2
+  2026-06: 2

@@ -9,16 +9,13 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/tinyproxy/tinyproxy
-stargazers_count: 5742
-updated_at: '2026-03-12'
+stargazers_count: 5884
+updated_at: '2026-05-07'
 archived: false
 current_release:
   tag: 1.11.3
   published_at: '2026-03-07'
 commit_history:
-  2025-04: 0
-  2025-05: 3
-  2025-06: 1
   2025-07: 0
   2025-08: 0
   2025-09: 0
@@ -27,4 +24,7 @@ commit_history:
   2025-12: 0
   2026-01: 0
   2026-02: 0
-  2026-03: 6
+  2026-03: 8
+  2026-04: 3
+  2026-05: 2
+  2026-06: 0

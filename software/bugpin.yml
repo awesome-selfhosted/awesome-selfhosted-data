@@ -1,0 +1,12 @@
+name: BugPin
+website_url: https://bugpin.io
+source_code_url: https://github.com/aranticlabs/bugpin
+description: Visual bug reporting tool for web applications.
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Ticketing
+depends_3rdparty: false

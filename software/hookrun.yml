@@ -1,0 +1,11 @@
+name: HookRun
+website_url: https://hookrun.virapi.com/
+source_code_url: https://github.com/bluvenr/hookrun
+description: Lightweight webhook action engine that executes custom commands and scripts based on YAML rules when webhook requests arrive. Distributed as a single static binary written in Go.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Automation
+  - Software Development - Continuous Integration & Deployment

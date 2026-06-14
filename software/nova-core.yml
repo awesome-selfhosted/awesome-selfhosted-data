@@ -1,0 +1,10 @@
+name: Nova Core
+website_url: https://github.com/novaheadend/nova-core-releases
+source_code_url: https://github.com/novaheadend/nova-core-releases
+description: DVB-S/S2/T/T2/C to IP streaming headend that turns tuner cards into HTTP-TS, UDP and M3U streams, with a web UI and EPG.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Go
+tags:
+  - Media Streaming - Video Streaming

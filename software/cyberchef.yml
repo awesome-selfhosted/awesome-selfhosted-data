@@ -9,12 +9,12 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/gchq/CyberChef
 demo_url: https://gchq.github.io/CyberChef
-stargazers_count: 35081
-updated_at: '2026-06-12'
+stargazers_count: 35088
+updated_at: '2026-06-13'
 archived: false
 current_release:
-  tag: v11.0.0
-  published_at: '2026-04-28'
+  tag: v11.1.0
+  published_at: '2026-06-13'
 commit_history:
   2025-07: 5
   2025-08: 2
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 42
   2026-04: 37
   2026-05: 45
-  2026-06: 19
+  2026-06: 21

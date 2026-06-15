@@ -10,11 +10,11 @@ platforms:
 tags:
   - Network Utilities
 stargazers_count: 5737
-updated_at: '2026-05-25'
+updated_at: '2026-06-14'
 archived: false
 current_release:
-  tag: v1.14.3
-  published_at: '2026-05-25'
+  tag: v1.14.4
+  published_at: '2026-06-14'
 commit_history:
   2025-07: 14
   2025-08: 3
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 7
   2026-04: 9
   2026-05: 10
-  2026-06: 0
+  2026-06: 4

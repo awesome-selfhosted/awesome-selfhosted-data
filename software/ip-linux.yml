@@ -1,0 +1,12 @@
+name: IP Linux
+website_url: https://ip-os-linux.vercel.app/
+source_code_url: https://github.com/ikerperez12/IP-OS-LINUX
+description: Polished browser-based desktop environment and local-first application workspace.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Personal Dashboards
+  - Remote Access
+demo_url: https://ip-os-linux.vercel.app/

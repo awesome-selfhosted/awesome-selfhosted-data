@@ -1,0 +1,14 @@
+name: Screenpipe
+website_url: https://screenpipe.io/
+source_code_url: https://github.com/mediar-ai/screenpipe
+description: 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Knowledge Management Tools
+  - Automation

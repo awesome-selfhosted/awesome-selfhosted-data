@@ -10,11 +10,10 @@ platforms:
 tags:
   - Health and Fitness
 demo_url: https://www.open-emr.org/demo/
-stargazers_count: 5170
-updated_at: '2026-05-25'
+stargazers_count: 5223
+updated_at: '2026-06-14'
 archived: false
 commit_history:
-  2025-06: 59
   2025-07: 90
   2025-08: 60
   2025-09: 63
@@ -25,7 +24,8 @@ commit_history:
   2026-02: 239
   2026-03: 253
   2026-04: 322
-  2026-05: 191
+  2026-05: 244
+  2026-06: 105
 current_release:
-  tag: v8_0_0_3
-  published_at: '2026-03-25'
+  tag: v8_1_0
+  published_at: '2026-06-01'

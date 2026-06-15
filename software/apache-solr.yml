@@ -10,11 +10,10 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/apache/solr
-stargazers_count: 1618
-updated_at: '2026-05-25'
+stargazers_count: 1625
+updated_at: '2026-06-14'
 archived: false
 commit_history:
-  2025-06: 42
   2025-07: 33
   2025-08: 74
   2025-09: 146
@@ -25,4 +24,5 @@ commit_history:
   2026-02: 58
   2026-03: 59
   2026-04: 48
-  2026-05: 55
+  2026-05: 60
+  2026-06: 46

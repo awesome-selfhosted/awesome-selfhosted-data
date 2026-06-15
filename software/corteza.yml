@@ -9,14 +9,13 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/cortezaproject/corteza
 demo_url: https://latest.cortezaproject.org
-stargazers_count: 2080
-updated_at: '2026-05-22'
+stargazers_count: 2095
+updated_at: '2026-06-08'
 archived: false
 current_release:
-  tag: 2024.9.8
-  published_at: '2026-03-31'
+  tag: 2024.9.9
+  published_at: '2026-06-01'
 commit_history:
-  2025-06: 21
   2025-07: 25
   2025-08: 11
   2025-09: 34
@@ -27,4 +26,5 @@ commit_history:
   2026-02: 13
   2026-03: 31
   2026-04: 2
-  2026-05: 33
+  2026-05: 35
+  2026-06: 3

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 demo_url: https://try.pinepods.online
-stargazers_count: 867
-updated_at: '2026-05-25'
+stargazers_count: 880
+updated_at: '2026-06-13'
 archived: false
 current_release:
   tag: 0.8.2
   published_at: '2025-11-04'
 commit_history:
-  2025-06: 32
   2025-07: 104
   2025-08: 87
   2025-09: 93
@@ -26,5 +25,6 @@ commit_history:
   2026-01: 0
   2026-02: 3
   2026-03: 5
-  2026-04: 11
-  2026-05: 43
+  2026-04: 12
+  2026-05: 66
+  2026-06: 22

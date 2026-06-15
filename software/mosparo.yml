@@ -8,14 +8,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/mosparo/mosparo
-stargazers_count: 285
-updated_at: '2026-04-16'
+stargazers_count: 287
+updated_at: '2026-06-09'
 archived: false
 current_release:
-  tag: v1.5.0-beta.1
-  published_at: '2026-05-05'
+  tag: v1.5.0-beta.3
+  published_at: '2026-06-14'
 commit_history:
-  2025-06: 26
   2025-07: 56
   2025-08: 17
   2025-09: 8
@@ -25,5 +24,6 @@ commit_history:
   2026-01: 22
   2026-02: 18
   2026-03: 6
-  2026-04: 11
-  2026-05: 0
+  2026-04: 12
+  2026-05: 2
+  2026-06: 8

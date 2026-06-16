@@ -1,0 +1,34 @@
+name: Fundamento
+website_url: https://fundamento.it/
+description: Collaborative workspace with documents, tables, and automations (alternative to Notion, Airtable).
+licenses:
+  - FSL-1.1-Apache-2.0
+platforms:
+  - Ruby
+  - Nodejs
+  - Docker
+tags:
+  - Knowledge Management Tools
+  - Note-taking & Editors
+  - Wikis
+source_code_url: https://github.com/Ikigai-Systems/fundamento-cloud
+depends_3rdparty: false
+stargazers_count: 0
+updated_at: '2026-06-16'
+archived: false
+current_release:
+  tag: v1.0.0
+  published_at: '2026-02-16'
+commit_history:
+  2025-07: 28
+  2025-08: 0
+  2025-09: 73
+  2025-10: 16
+  2025-11: 36
+  2025-12: 166
+  2026-01: 207
+  2026-02: 174
+  2026-03: 214
+  2026-04: 25
+  2026-05: 86
+  2026-06: 27

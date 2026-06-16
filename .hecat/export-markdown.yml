@@ -19,6 +19,8 @@ steps:
         - Commons-Clause
         - DPL
         - Elastic-2.0
+        - FSL-1.1-Apache-2.0
+        - FSL-1.1-MIT
         - NPOSL-3.0
         - SSPL-1.0
         - SUL-1.0
@@ -45,6 +47,8 @@ steps:
         - Commons-Clause
         - DPL
         - Elastic-2.0
+        - FSL-1.1-Apache-2.0
+        - FSL-1.1-MIT
         - NPOSL-3.0
         - SSPL-1.0
         - SUL-1.0

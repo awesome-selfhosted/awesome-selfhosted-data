@@ -1,0 +1,12 @@
+name: "Faved"
+website_url: "https://faved.dev/"
+source_code_url: "https://github.com/denho/faved"
+description: "Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Bookmarks and Link Sharing
+demo_url: "https://demo.faved.dev/"
+

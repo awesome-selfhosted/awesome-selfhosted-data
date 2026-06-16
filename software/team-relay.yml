@@ -1,0 +1,13 @@
+name: Team Relay
+website_url: https://github.com/entire-vc/evc-team-relay
+source_code_url: https://github.com/entire-vc/evc-team-relay
+description: Real-time collaborative editing and web publishing for Obsidian vaults, with CRDT sync, shared folders, and a REST API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Rust
+  - Docker
+tags:
+  - Note-taking & Editors
+depends_3rdparty: false

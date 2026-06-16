@@ -10,8 +10,8 @@ platforms:
   - deb
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 401
-updated_at: '2026-06-14'
+stargazers_count: 403
+updated_at: '2026-06-15'
 archived: false
 current_release:
   tag: release-1.0.10
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2026-04: 203
   2026-05: 185
-  2026-06: 77
+  2026-06: 84

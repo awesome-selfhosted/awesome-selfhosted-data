@@ -10,8 +10,8 @@ platforms:
   - deb
 tags:
   - Web Servers
-stargazers_count: 2044
-updated_at: '2026-06-12'
+stargazers_count: 2045
+updated_at: '2026-06-16'
 archived: false
 current_release:
   tag: 3.0.0-beta.2
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2026-04: 28
   2026-05: 57
-  2026-06: 50
+  2026-06: 56

@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/weewx/weewx
 demo_url: https://weewx.com/showcase.html
 stargazers_count: 1169
-updated_at: '2026-06-14'
+updated_at: '2026-06-16'
 archived: false
 current_release:
-  tag: v5.3.1
-  published_at: '2026-03-03'
+  tag: v5.4.0
+  published_at: '2026-06-16'
 commit_history:
   2025-07: 1
   2025-08: 6
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 27
   2026-04: 13
   2026-05: 4
-  2026-06: 5
+  2026-06: 22

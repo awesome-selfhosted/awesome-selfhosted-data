@@ -1,0 +1,11 @@
+name: Voiden
+website_url: https://voiden.md/
+description: Git-native API workspace for designing, testing, and documenting REST, GraphQL, gRPC, and WebSocket APIs using plain-text .void files with no vendor lock-in.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Software Development - API Management
+  - Software Development - Testing
+source_code_url: https://github.com/VoidenHQ/voiden

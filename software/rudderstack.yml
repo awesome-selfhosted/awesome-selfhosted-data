@@ -12,11 +12,11 @@ tags:
   - Analytics
 source_code_url: https://github.com/rudderlabs/rudder-server/
 stargazers_count: 4437
-updated_at: '2026-06-16'
+updated_at: '2026-06-17'
 archived: false
 current_release:
-  tag: v1.77.2
-  published_at: '2026-06-16'
+  tag: v1.77.3
+  published_at: '2026-06-17'
 commit_history:
   2025-07: 64
   2025-08: 37
@@ -29,4 +29,4 @@ commit_history:
   2026-03: 36
   2026-04: 47
   2026-05: 45
-  2026-06: 34
+  2026-06: 36

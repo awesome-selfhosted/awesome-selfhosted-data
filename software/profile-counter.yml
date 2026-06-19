@@ -1,0 +1,10 @@
+name: Profile Counter
+website_url: https://counter.othmaro.dev
+source_code_url: https://github.com/othmarodev/profile-counter
+description: Self-hostable page views counter, designed as a drop-in replacement for third-party services like komarev.com/ghpvc and visitor-badge.laobi.icu that periodically go down and reset users' historical counts. Users own the URL (on their own domain) and the data (their own Redis instance). The reference deployment uses any Node.js host (Vercel Edge example provided) plus any HTTP-callable Redis (Upstash example provided). Includes a CLI to seed initial counts when migrating from a previous service.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Analytics

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - XMPP - Web Clients
 source_code_url: https://github.com/conversejs/converse.js
-stargazers_count: 3263
-updated_at: '2026-06-15'
+stargazers_count: 3264
+updated_at: '2026-06-18'
 archived: false
 current_release:
-  tag: v13.0.1
-  published_at: '2026-05-27'
+  tag: v14.0.0-beta.2
+  published_at: '2026-06-18'
 commit_history:
   2025-07: 6
   2025-08: 64
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 15
   2026-04: 53
   2026-05: 53
-  2026-06: 41
+  2026-06: 59

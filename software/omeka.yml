@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/omeka/Omeka
 demo_url: https://omeka.org/classic/showcase/
 stargazers_count: 537
-updated_at: '2026-06-16'
+updated_at: '2026-06-18'
 archived: false
 current_release:
-  tag: v3.2
-  published_at: '2025-08-28'
+  tag: v3.2.1
+  published_at: '2026-06-18'
 commit_history:
   2025-07: 4
   2025-08: 25
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 5
   2026-04: 6
   2026-05: 0
-  2026-06: 9
+  2026-06: 10

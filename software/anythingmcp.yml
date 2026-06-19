@@ -1,0 +1,13 @@
+# yamllint disable rule:line-length
+name: AnythingMCP
+website_url: https://anythingmcp.com
+source_code_url: https://github.com/HelpCode-ai/anythingmcp
+description: Turn any REST/GraphQL API, SQL/NoSQL database or MCP server into no-code connectors for AI assistants (Claude, ChatGPT, Gemini, Copilot, Cursor), exposed over the Model Context Protocol.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Automation
+  - Generative Artificial Intelligence (GenAI)

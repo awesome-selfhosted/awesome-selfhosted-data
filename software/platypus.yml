@@ -1,0 +1,11 @@
+name: Platypus
+website_url: https://platypus.chat
+source_code_url: https://github.com/willdady/platypus
+description: Multi-tenant platform for building and managing AI agents with custom prompts, tool use, sub-agents, skills, memory, scheduling and Model Context Protocol (MCP) support. Works with OpenAI, Anthropic, Google, Bedrock and OpenAI-compatible APIs.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

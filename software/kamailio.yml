@@ -9,12 +9,12 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/kamailio/kamailio
-stargazers_count: 2849
-updated_at: '2026-06-18'
+stargazers_count: 2851
+updated_at: '2026-06-19'
 archived: false
 current_release:
-  tag: 6.1.3
-  published_at: '2026-05-27'
+  tag: 6.0.7
+  published_at: '2026-06-19'
 commit_history:
   2025-07: 208
   2025-08: 89
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 199
   2026-04: 177
   2026-05: 160
-  2026-06: 43
+  2026-06: 44

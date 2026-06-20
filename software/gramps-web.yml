@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/gramps-project/gramps-web-api
 demo_url: https://gramps-project.github.io/gramps-web-api/
 stargazers_count: 206
-updated_at: '2026-06-18'
+updated_at: '2026-06-19'
 archived: false
 current_release:
-  tag: v3.16.0
-  published_at: '2026-06-09'
+  tag: v3.17.0
+  published_at: '2026-06-19'
 commit_history:
   2025-07: 2
   2025-08: 8
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 12
   2026-04: 48
   2026-05: 32
-  2026-06: 12
+  2026-06: 15

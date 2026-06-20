@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/titraio/titra
-stargazers_count: 492
-updated_at: '2026-06-09'
+stargazers_count: 493
+updated_at: '2026-06-19'
 archived: false
 current_release:
-  tag: v1.0.8
-  published_at: '2026-06-09'
+  tag: v1.0.10
+  published_at: '2026-06-19'
 commit_history:
   2025-07: 5
   2025-08: 12
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 8
   2026-05: 5
-  2026-06: 4
+  2026-06: 10

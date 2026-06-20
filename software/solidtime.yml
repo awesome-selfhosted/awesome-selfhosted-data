@@ -9,11 +9,11 @@ platforms:
 tags:
   - Time Tracking
 stargazers_count: 8700
-updated_at: '2026-06-18'
+updated_at: '2026-06-19'
 archived: false
 current_release:
-  tag: v0.14.0
-  published_at: '2026-06-03'
+  tag: v0.15.0
+  published_at: '2026-06-19'
 commit_history:
   2025-07: 27
   2025-08: 1
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 50
   2026-04: 13
   2026-05: 28
-  2026-06: 50
+  2026-06: 56

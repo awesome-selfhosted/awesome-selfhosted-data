@@ -1,0 +1,11 @@
+name: BibaVPN
+website_url: https://github.com/Eljaja/BibaVPN
+source_code_url: https://github.com/Eljaja/BibaVPN
+description: Self-hosted SOCKS5 and HTTP CONNECT tunnel over TLS and WebSocket for single-VPS deployments.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - VPN

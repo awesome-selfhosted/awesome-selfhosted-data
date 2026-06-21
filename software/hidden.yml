@@ -1,0 +1,14 @@
+name: "Hidden — self-hosted encrypted file storage powered by gocryptfs"
+website_url: "https://joinhidden.com/"
+source_code_url: "https://github.com/artabramov/hidden"
+description: "A self-hosted, security-focused file storage powered by gocryptfs. Fully encrypted. File versioning. Multi-user access. REST API."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - encryption
+  - gocryptfs
+  - fastapi
+  - python
+depends_3rdparty: false

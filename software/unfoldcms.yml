@@ -1,0 +1,11 @@
+name: UnfoldCMS
+website_url: https://unfoldcms.com/
+description: Laravel CMS with a React + shadcn/ui admin panel, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. (alternative to WordPress, Ghost, Strapi)
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/hpakdaman/unfoldcms
+demo_url: https://demo.unfoldcms.com

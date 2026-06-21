@@ -10,11 +10,11 @@ platforms:
 tags:
   - Miscellaneous
 stargazers_count: 571
-updated_at: '2026-06-02'
+updated_at: '2026-06-20'
 archived: false
 current_release:
-  tag: v0.64.1
-  published_at: '2026-05-14'
+  tag: v0.65.2
+  published_at: '2026-06-20'
 commit_history:
   2025-10: 33
   2025-11: 54
@@ -24,4 +24,4 @@ commit_history:
   2026-03: 40
   2026-04: 13
   2026-05: 28
-  2026-06: 2
+  2026-06: 14

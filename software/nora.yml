@@ -1,0 +1,12 @@
+name: NORA
+website_url: https://getnora.dev
+source_code_url: https://github.com/getnora-io/nora
+description: Multi-format artifact registry and pull-through proxy for Docker, Maven, npm, PyPI, Cargo and other package formats (alternative to Sonatype Nexus, JFrog Artifactory, Harbor).
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - K8S
+tags:
+  - Software Development - Continuous Integration & Deployment

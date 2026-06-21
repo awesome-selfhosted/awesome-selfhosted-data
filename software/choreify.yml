@@ -1,0 +1,11 @@
+name: Choreify
+website_url: https://github.com/batterbob/Choreify
+description: Chore and habit tracker for kids. Daily checklists, weekly activity goals, rotating chore assignments, star/streak rewards, admin dashboard, and push notifications. Runs on Docker with no cloud account required.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/batterbob/Choreify

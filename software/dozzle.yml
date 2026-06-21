@@ -1,0 +1,11 @@
+name: Dozzle
+website_url: https://dozzle.dev
+source_code_url: https://github.com/amir20/dozzle
+description: Realtime log viewer for Docker containers, with live filtering, full-text search, and multi-host support.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Monitoring & Status Pages

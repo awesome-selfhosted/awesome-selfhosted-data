@@ -1,0 +1,10 @@
+name: "Transmute"
+website_url: "https://transmute.sh"
+source_code_url: "https://github.com/transmute-app/transmute"
+description: "File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous

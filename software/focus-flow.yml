@@ -1,0 +1,12 @@
+name: "Focus Flow"
+website_url: "https://github.com/francesco-gaglione/focus_flow_cloud"
+source_code_url: "https://github.com/francesco-gaglione/focus_flow_cloud"
+description: "Complete ecosystem for time management using the Pomodoro technique."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Task Management & To-do Lists
+  - Time Tracking

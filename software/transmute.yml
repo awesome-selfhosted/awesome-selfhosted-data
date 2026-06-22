@@ -1,0 +1,20 @@
+name: Transmute
+website_url: https://transmute.sh
+source_code_url: https://github.com/transmute-app/transmute
+description: File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+stargazers_count: 966
+updated_at: '2026-06-20'
+archived: false
+current_release:
+  tag: v1.3.1
+  published_at: '2026-06-12'
+commit_history:
+  2026-04: 109
+  2026-05: 51
+  2026-06: 37

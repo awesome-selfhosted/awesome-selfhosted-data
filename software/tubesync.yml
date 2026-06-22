@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/meeb/tubesync
 depends_3rdparty: true
 stargazers_count: 2743
-updated_at: '2026-06-19'
+updated_at: '2026-06-21'
 archived: false
 current_release:
-  tag: v0.18.2-rc.1
-  published_at: '2026-06-11'
+  tag: v0.18.2-rc.2
+  published_at: '2026-06-21'
 commit_history:
   2025-07: 362
   2025-08: 66
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 64
   2026-04: 49
   2026-05: 48
-  2026-06: 47
+  2026-06: 56

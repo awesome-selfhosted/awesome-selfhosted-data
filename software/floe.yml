@@ -1,0 +1,11 @@
+name: Floe
+website_url: https://floe.one/
+source_code_url: https://github.com/jannskiee/floe
+description: Peer-to-peer file transfer over WebRTC, with a browser app and a command-line client. File data is sent directly between peers and never passes through the server, which only brokers the initial connection.
+platforms:
+  - Nodejs
+  - Go
+licenses:
+  - MIT
+tags:
+  - File Transfer - Peer-to-peer Filesharing

@@ -6,6 +6,7 @@ licenses:
   - MIT
 platforms:
   - Docker
+  - Python
 tags:
   - Note-taking & Editors
   - Task Management & To-do Lists

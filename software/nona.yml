@@ -1,0 +1,10 @@
+name: Nona
+website_url: https://nonaconfig.com
+source_code_url: https://github.com/Ryware/nona-config
+description: Remote configuration and feature flag service with a single REST API, multiple environments, and official JavaScript and .NET clients (alternative to Firebase Remote Config).
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Feature Toggle

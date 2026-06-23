@@ -1,0 +1,11 @@
+name: FriRSS
+website_url: https://github.com/Fripix/frirss
+source_code_url: https://github.com/Fripix/frirss
+description: Self-hostable web frontend for FreshRSS, using its Google Reader API.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Feed Readers

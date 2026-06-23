@@ -1,0 +1,14 @@
+name: venice-e2ee-proxy
+website_url: https://github.com/AxLabs/venice-e2ee-proxy
+source_code_url: https://github.com/AxLabs/venice-e2ee-proxy
+description: Run-it-locally proxy that adds end-to-end encryption to Venice.ai API calls. Plug any OpenAI-compatible agent or software without changes — requests are encrypted with verified TEE attestation (Intel TDX + NVIDIA GPU).
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 4
+updated_at: '2026-06-22'
+archived: false

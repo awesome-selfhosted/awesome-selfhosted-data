@@ -10,12 +10,12 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/meilisearch/MeiliSearch
-stargazers_count: 58222
-updated_at: '2026-06-18'
+stargazers_count: 58232
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: v1.47.0
-  published_at: '2026-06-15'
+  tag: v1.48.1
+  published_at: '2026-06-22'
 commit_history:
   2025-07: 337
   2025-08: 200
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 227
   2026-04: 131
   2026-05: 208
-  2026-06: 145
+  2026-06: 147

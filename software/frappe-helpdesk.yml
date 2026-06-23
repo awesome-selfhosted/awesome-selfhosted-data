@@ -9,11 +9,11 @@ platforms:
 tags:
   - Ticketing
 stargazers_count: 3198
-updated_at: '2026-06-17'
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: v1.26.1
-  published_at: '2026-06-17'
+  tag: v1.26.2
+  published_at: '2026-06-22'
 commit_history:
   2025-07: 137
   2025-08: 417
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 192
   2026-04: 349
   2026-05: 395
-  2026-06: 170
+  2026-06: 213

@@ -10,12 +10,12 @@ tags:
   - Pastebins
 source_code_url: https://github.com/matze/wastebin
 demo_url: https://bin.bloerg.net
-stargazers_count: 800
-updated_at: '2026-06-19'
+stargazers_count: 802
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: 3.6.2
-  published_at: '2026-05-01'
+  tag: 3.7.0
+  published_at: '2026-06-22'
 commit_history:
   2025-07: 7
   2025-08: 12
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 3
   2026-04: 56
   2026-05: 8
-  2026-06: 10
+  2026-06: 17

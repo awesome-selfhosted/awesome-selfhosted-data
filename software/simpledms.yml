@@ -9,13 +9,13 @@ platforms:
 tags:
   - Document Management
 related_software_url: https://simpledms.eu/en/product/integrations
-stargazers_count: 141
-updated_at: '2026-06-12'
+stargazers_count: 145
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: v1.13.1
-  published_at: '2026-06-12'
+  tag: v1.13.2
+  published_at: '2026-06-21'
 commit_history:
   2026-04: 45
   2026-05: 22
-  2026-06: 20
+  2026-06: 29

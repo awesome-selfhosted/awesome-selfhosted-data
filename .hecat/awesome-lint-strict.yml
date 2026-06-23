@@ -24,3 +24,4 @@ steps:
         - https://github.com/openspeedtest/Speed-Test # simple HTML/CSS/JS project with no external dependencies
         - https://github.com/clangen/musikcube # simple C++ application with no dependencies
         - https://github.com/doublespeakgames/adarkroom # static HTML/JS, simple/no maintenance required
+        - https://github.com/rss2email/rss2email # simple python application, minimal maintenance required

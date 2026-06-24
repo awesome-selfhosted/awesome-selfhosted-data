@@ -1,0 +1,10 @@
+name: hermes-skills
+website_url: https://github.com/RobinBeraud/hermes-skills
+description: Open-source skill library for the Hermes AI agent. Skills are Markdown files that connect the agent to external APIs (WhatsApp, Mural, GitHub, WordPress, DNS, YouTube, Google Search Console, financial data, smart home, and more). Runs self-hosted on a VPS, accessible via chat interfaces.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Automation
+source_code_url: https://github.com/RobinBeraud/hermes-skills

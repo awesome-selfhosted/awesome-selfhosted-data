@@ -1,7 +1,7 @@
 name: "Poznote"
 website_url: "https://poznote.com"
 source_code_url: "https://github.com/timothepoznanski/poznote"
-description: "Poznote is a personal note-taking and documentation platform."
+description: "Poznote is a note-taking and documentation platform."
 licenses:
   - MIT
 platforms:
@@ -10,4 +10,4 @@ platforms:
   - Python
 tags:
   - Note-taking & Editors
-demo_url: "https://github.com/timothepoznanski/poznote?tab=readme-ov-file#try-the-poznote-demo"
+demo_url: "https://github.com/timothepoznanski/poznote#demo"

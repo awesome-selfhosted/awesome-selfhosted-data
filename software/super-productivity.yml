@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-stargazers_count: 20219
-updated_at: '2026-06-22'
+stargazers_count: 20240
+updated_at: '2026-06-23'
 archived: false
 current_release:
   tag: v18.12.0
@@ -19,4 +19,4 @@ commit_history:
   2026-03: 648
   2026-04: 295
   2026-05: 683
-  2026-06: 463
+  2026-06: 478

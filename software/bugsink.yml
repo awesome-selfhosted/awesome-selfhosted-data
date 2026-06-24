@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Ticketing
-stargazers_count: 1890
-updated_at: '2026-06-20'
+stargazers_count: 1892
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: 2.2.2
-  published_at: '2026-06-04'
+  tag: 2.3.0
+  published_at: '2026-06-23'
 commit_history:
   2025-07: 155
   2025-08: 27
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 46
   2026-04: 52
   2026-05: 61
-  2026-06: 54
+  2026-06: 59

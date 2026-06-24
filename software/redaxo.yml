@@ -8,18 +8,14 @@ platforms:
   - Docker
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/redaxo/redaxo
-stargazers_count: 345
-updated_at: '2026-02-26'
+source_code_url: https://github.com/redaxo/core
+stargazers_count: 349
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: 5.20.2
-  published_at: '2026-01-05'
+  tag: 5.21.1
+  published_at: '2026-06-01'
 commit_history:
-  2025-03: 13
-  2025-04: 0
-  2025-05: 1
-  2025-06: 6
   2025-07: 20
   2025-08: 6
   2025-09: 16
@@ -28,3 +24,7 @@ commit_history:
   2025-12: 0
   2026-01: 25
   2026-02: 7
+  2026-03: 9
+  2026-04: 55
+  2026-05: 54
+  2026-06: 30

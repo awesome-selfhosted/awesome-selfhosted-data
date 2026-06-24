@@ -11,22 +11,22 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/manticoresoftware/manticoresearch/
-stargazers_count: 11681
-updated_at: '2026-02-27'
+stargazers_count: 11835
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: release-17.5.1
-  published_at: '2026-02-07'
+  tag: 27.1.5
+  published_at: '2026-06-19'
 commit_history:
-  2025-03: 125
-  2025-04: 137
-  2025-05: 132
-  2025-06: 90
   2025-07: 163
   2025-08: 88
   2025-09: 68
   2025-10: 108
   2025-11: 196
   2025-12: 108
-  2026-01: 108
-  2026-02: 89
+  2026-01: 110
+  2026-02: 95
+  2026-03: 123
+  2026-04: 116
+  2026-05: 60
+  2026-06: 64

@@ -8,17 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/zulip/zulip
-stargazers_count: 24759
-updated_at: '2026-02-27'
+stargazers_count: 25396
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: '11.5'
-  published_at: '2026-02-05'
+  tag: '12.0'
+  published_at: '2026-04-27'
 commit_history:
-  2025-03: 680
-  2025-04: 393
-  2025-05: 436
-  2025-06: 443
   2025-07: 715
   2025-08: 477
   2025-09: 283
@@ -26,4 +22,8 @@ commit_history:
   2025-11: 554
   2025-12: 530
   2026-01: 576
-  2026-02: 603
+  2026-02: 618
+  2026-03: 619
+  2026-04: 677
+  2026-05: 238
+  2026-06: 226

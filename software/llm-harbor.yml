@@ -9,14 +9,18 @@ platforms:
   - Shell
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 2470
-updated_at: '2026-02-15'
+stargazers_count: 3098
+updated_at: '2026-06-21'
 archived: false
 current_release:
-  tag: v0.4.1
-  published_at: '2026-02-09'
+  tag: v0.5.2
+  published_at: '2026-06-14'
 commit_history:
   2025-11: 12
   2025-12: 27
   2026-01: 54
-  2026-02: 34
+  2026-02: 36
+  2026-03: 49
+  2026-04: 136
+  2026-05: 222
+  2026-06: 383

@@ -8,17 +8,13 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/lemon24/reader
-stargazers_count: 525
-updated_at: '2026-02-27'
+stargazers_count: 542
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: '3.21'
-  published_at: '2026-01-12'
+  tag: '3.25'
+  published_at: '2026-05-25'
 commit_history:
-  2025-03: 18
-  2025-04: 3
-  2025-05: 6
-  2025-06: 1
   2025-07: 1
   2025-08: 0
   2025-09: 25
@@ -26,4 +22,8 @@ commit_history:
   2025-11: 88
   2025-12: 13
   2026-01: 24
-  2026-02: 15
+  2026-02: 18
+  2026-03: 80
+  2026-04: 22
+  2026-05: 81
+  2026-06: 13

@@ -9,17 +9,13 @@ tags:
   - Learning and Courses
 source_code_url: https://github.com/ILIAS-eLearning/ILIAS
 demo_url: https://demo.ilias.de
-stargazers_count: 471
-updated_at: '2026-02-27'
+stargazers_count: 491
+updated_at: '2026-06-23'
 archived: false
 current_release:
-  tag: v10.5
-  published_at: '2026-01-20'
+  tag: v11.1
+  published_at: '2026-05-26'
 commit_history:
-  2025-03: 289
-  2025-04: 230
-  2025-05: 178
-  2025-06: 152
   2025-07: 122
   2025-08: 128
   2025-09: 169
@@ -27,4 +23,8 @@ commit_history:
   2025-11: 105
   2025-12: 117
   2026-01: 178
-  2026-02: 179
+  2026-02: 184
+  2026-03: 167
+  2026-04: 165
+  2026-05: 147
+  2026-06: 69

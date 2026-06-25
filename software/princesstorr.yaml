@@ -1,0 +1,34 @@
+# software name
+name: "PrincessTorr"
+
+# URL of the software project's homepage
+website_url: "https://github.com/maxivimax/PrincessTorr"
+
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/maxivimax/PrincessTorr"
+
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Kodi addon: TMDb catalog of movies and TV shows with on-demand torrent search via JacRed or Prowlarr and playback through Jacktorr/TorrServer."
+
+# list of license identifiers
+licenses:
+  - MIT
+
+# list of languages/platforms
+platforms:
+  - Kodi
+  - Python
+
+# list of tags (categories)
+tags:
+  - Media Streaming - Video Streaming
+  - Media Management
+
+# (optional) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+
+# (optional) link to an interactive demo of the software
+demo_url: ""
+
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
+related_software_url: ""

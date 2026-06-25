@@ -7,6 +7,7 @@ licenses:
   - CC0-1.0
 platforms:
   - Nodejs
+  - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins

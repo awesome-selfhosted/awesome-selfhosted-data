@@ -1,0 +1,10 @@
+name: βWave
+website_url: https://betawave.co.uk
+description: Marketing engine with AI content generation, social syndication (X/Telegram/Reddit/Medium), citation tracking, and client management. BYO API keys, white-label.
+licenses:
+  - AGPL-3.0
+platforms:
+  - nodejs
+tags:
+  - Automation
+source_code_url: https://github.com/johnleeblackwell/betawave

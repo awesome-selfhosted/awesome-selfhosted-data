@@ -1,0 +1,15 @@
+name: Corterm
+website_url: https://corterm.rwecho.top
+description: Self-hosted remote terminal platform with browser-native terminal, session persistence, multi-worker support, and native mobile apps (iOS, Android, HarmonyOS).
+licenses:
+  - MIT
+platforms:
+  - .NET
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/monster-echo/CortexTerminal2
+demo_url: https://corterm.rwecho.top
+stargazers_count: 14
+updated_at: '2026-06-26'
+archived: false

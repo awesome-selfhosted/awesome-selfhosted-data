@@ -1,0 +1,11 @@
+name: Readfine
+website_url: https://readfine.app
+source_code_url: https://github.com/jakublibik/readfine
+description: Web RSS reader with web-scraping feeds, a filter engine, and optional AI features.
+licenses:
+  - AGPL-3.0
+tags:
+  - Feed Readers
+platforms:
+  - Docker
+  - Python

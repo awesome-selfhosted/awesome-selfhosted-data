@@ -1,0 +1,11 @@
+name: HAIP
+website_url: https://github.com/TelivityAI/haip
+source_code_url: https://github.com/TelivityAI/haip
+description: "Hotel property management system: reservations, billing, rate plans, housekeeping, night audit, payments, channel distribution and a direct booking engine, with an optional local LLM that explains its automated decisions."
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Enterprise Resource Planning

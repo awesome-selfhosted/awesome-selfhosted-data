@@ -5,7 +5,6 @@ description: "A proxy for Git that applies rules and workflows to all outgoing g
 licenses:
   - Apache-2.0
 platforms:
-  - Javascript
   - Nodejs
   - Docker
 tags:

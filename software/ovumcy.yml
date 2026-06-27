@@ -1,0 +1,11 @@
+name: Ovumcy
+website_url: https://ovumcy.com
+source_code_url: https://github.com/ovumcy/ovumcy-web
+description: Menstrual cycle tracker you run yourself — daily logging, cycle insights, CSV/JSON export, no telemetry.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Health and Fitness

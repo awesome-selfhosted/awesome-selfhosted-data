@@ -1,7 +1,7 @@
 name: "GitProxy"
 website_url: "https://git-proxy.finos.org/"
 source_code_url: "https://github.com/finos/git-proxy"
-description: "GitProxy applies rules and workflows to all outgoing git push operations to ensure they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation."
+description: "A proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation."
 licenses:
   - Apache-2.0
 platforms:

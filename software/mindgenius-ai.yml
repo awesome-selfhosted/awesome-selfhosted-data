@@ -1,0 +1,15 @@
+name: "MindGenius AI"
+website_url: "https://github.com/xianjianlf2/MindGeniusAI"
+source_code_url: "https://github.com/xianjianlf2/MindGeniusAI"
+description: "AI agent that reads your PDFs and draws editable mind maps live, with a visible tool-calling loop, built-in RAG, and bring-your-own-key support for multiple LLM providers."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Knowledge Management Tools
+  - Generative Artificial Intelligence (GenAI)
+  - Note-taking & Editors
+depends_3rdparty: true
+demo_url: "https://mindgenius.onrender.com"

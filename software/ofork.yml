@@ -1,0 +1,10 @@
+name: OFORK
+website_url: https://o-fork.de/
+source_code_url: https://github.com/Franziska-Steps-OFORK-Kim-KI/ofork
+description: Open source ticket system and helpdesk software inspired by OTRS, built in Perl.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Perl
+tags:
+  - Ticketing

@@ -1,0 +1,12 @@
+name: "IPForge"
+website_url: "https://github.com/betz-anthony/ipforge"
+source_code_url: "https://github.com/betz-anthony/ipforge"
+description: "IP Address Management that pushes DNS + DHCP records to live servers (BIND, ISC Kea, Pi-hole, MS DNS/DHCP, cloud DNS), with subnet heatmap, drift reconciliation, and dual-stack IPv4/IPv6."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - DNS
+  - Network Utilities

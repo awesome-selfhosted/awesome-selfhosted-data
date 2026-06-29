@@ -1,0 +1,10 @@
+name: HumbleBee
+website_url: https://www.timeandbill.de/en/humblebee/
+description: Local-first time tracking with CLI and desktop GUI, using a local SQLite database.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Time Tracking
+source_code_url: https://github.com/grobmeier/humblebee

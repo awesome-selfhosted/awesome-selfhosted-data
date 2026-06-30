@@ -1,0 +1,10 @@
+name: InsForge
+website_url: https://insforge.dev/
+description: Backend built for agentic development, providing auth, databases, file storage, serverless functions, real time and AI gateway.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/InsForge/InsForge

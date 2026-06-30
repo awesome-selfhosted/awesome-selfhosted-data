@@ -1,0 +1,11 @@
+name: ChatbotX
+website_url: https://chatbotx.io
+description: Omnichannel AI marketing platform with unified inbox, chatbot builder, contact management, and broadcast campaigns across WhatsApp, Messenger, Instagram, Telegram, Zalo, Email, and Webchat.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/ChatbotXIO/ChatbotX

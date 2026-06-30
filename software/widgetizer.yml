@@ -3,8 +3,8 @@ website_url: https://widgetizer.org
 source_code_url: https://github.com/tsiger/widgetizer
 description: Visual website builder with drag-and-drop widgets, themes, and live preview that exports static HTML websites.
 licenses:
-  - GPL-3.0-only
+  - GPL-3.0
 platforms:
   - Nodejs
 tags:
-  - Static Site Generators
+  - Content Management Systems (CMS)

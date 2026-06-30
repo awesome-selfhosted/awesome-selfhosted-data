@@ -1,0 +1,11 @@
+name: "Bottle Rocket"
+website_url: "https://bottle-rocket.app/"
+description: "Document scanning and management application, compatible with Rocketbook and Scribzee formats."
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Note-taking & Editors
+source_code_url: "https://github.com/gman-au/bottle-rocket-server"

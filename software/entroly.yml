@@ -1,0 +1,11 @@
+name: Entroly
+website_url: https://github.com/juyterman1000/entroly
+source_code_url: https://github.com/juyterman1000/entroly
+description: Local context compression proxy for AI coding agents. Reduces LLM input tokens by 70-95% using knapsack optimization and entropy scoring.
+licenses:
+  - Apache-2.0
+  platforms:
+    - Python
+    tags:
+      - Generative Artificial Intelligence (GenAI)
+      

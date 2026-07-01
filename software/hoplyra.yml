@@ -1,0 +1,11 @@
+name: Hoplyra
+website_url: https://hoplyra.com/
+source_code_url: https://github.com/Linchevatel/Hoplyra
+description: Dashboard to deploy and manage VPN hop chains across VPS nodes with AWG, WireGuard, OpenVPN, Xray, and Tor. Includes multi-hop routing, SOCKS5 proxy, and monitoring.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - deb
+tags:
+  - Remote Access

@@ -1,0 +1,11 @@
+name: "Norish"
+website_url: "https://github.com/norish-recipes/norish"
+source_code_url: "https://github.com/norish-recipes/norish"
+description: "A modern, realtime recipe manager for families & friends with web scraping support."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Recipe Management

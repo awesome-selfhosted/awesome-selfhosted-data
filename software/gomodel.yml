@@ -1,0 +1,13 @@
+name: GoModel
+website_url: https://gomodel.enterpilot.io/
+source_code_url: https://github.com/ENTERPILOT/GoModel
+description: AI gateway written in Go with a unified OpenAI-compatible API for multiple LLM providers, USD cost tracking, budgets, usage analytics, guardrails, caching, and an admin dashboard.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - API Management
+  - Analytics

@@ -1,0 +1,11 @@
+name: "Tellor"
+website_url: "https://tellor.cc/"
+source_code_url: "https://github.com/Voldrix/Tellor"
+description: "Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello."
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Task Management & To-do Lists
+demo_url: "https://tellor.cc/demo/?b=18486f63be6bb5f2"

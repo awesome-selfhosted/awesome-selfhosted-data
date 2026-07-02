@@ -1,0 +1,10 @@
+name: sDeck
+website_url: https://itsiurisilva.github.io/sDeck/
+source_code_url: https://github.com/itsiurisilva/sDeck
+description: Touch-optimized control panel for OBS Studio, Spotify, and Twitch chat/moderation, controlled from any browser on your network.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation

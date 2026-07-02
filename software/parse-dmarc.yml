@@ -1,0 +1,17 @@
+name: parse-dmarc
+website_url: https://dmarcguard.io
+source_code_url: https://github.com/dmarcguardhq/dmarcguard
+description: DMARC aggregate report parser with a built-in dashboard. Fetches reports over IMAP, decompress and stores it, and flags spoofing. Single Go binary with embedded Vue UI, SQLite storage, and Prometheus metrics.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Javascript
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions
+  - Analytics
+  - Miscellaneous
+  - Personal Dashboards
+depends_3rdparty: true
+related_software_url: https://github.com/domainaware/parsedmarc

@@ -1,0 +1,10 @@
+name: lilbee
+website_url: https://lilbee.sh
+source_code_url: https://github.com/tobocop2/lilbee
+description: Search engine and model manager for local LLMs, indexing your files and crawled web pages and answering questions with source citations. Also works with Ollama and LM Studio.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

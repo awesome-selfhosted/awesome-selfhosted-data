@@ -1,0 +1,12 @@
+name: AVA
+website_url: https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk
+description: AI voice agent for Asterisk/FreePBX. Answers and places calls over AudioSocket/RTP, and lets you mix speech-to-text, LLM and text-to-speech providers or run the whole pipeline locally.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk
+demo_url: https://demo.agent6789.com

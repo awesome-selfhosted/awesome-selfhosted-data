@@ -1,0 +1,18 @@
+name: "Davvy"
+website_url: "https://kaffolder7.github.io/davvy"
+source_code_url: "https://github.com/kaffolder7/davvy"
+description: "Multi-user calendar and contacts server with a web admin dashboard, CalDAV/CardDAV sync, sharing, DAV compatibility mode, and automated backups with restore tooling."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - PHP
+  - Javascript
+  - Docker
+tags:
+  - Calendar & Contacts
+depends_3rdparty: false
+updated_at: "2026-07-03"
+archived: false
+current_release:
+  tag: v3.1.0
+  published_at: "2026-07-03"

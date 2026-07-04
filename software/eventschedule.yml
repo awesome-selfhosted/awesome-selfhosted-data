@@ -3,8 +3,7 @@ website_url: "https://eventschedule.com/"
 source_code_url: "https://github.com/eventschedule/eventschedule"
 description: "Share events, sell tickets, and bring communities together."
 licenses:
-  - Apache-2.0
-  - AGPL-3.0
+  - AAL
 platforms:
   - PHP
   - Docker

@@ -1,0 +1,16 @@
+name: Room TBA
+website_url: https://room-tba.uplbtools.me/
+description: Self-hostable UPLB campus room and class schedule finder with OpenStreetMap walking directions, offline PWA cache, and in-app editor tools.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Maps and Global Positioning System (GPS)
+  - Learning and Courses
+source_code_url: https://github.com/uplbtools/room-tba
+demo_url: https://room-tba.uplbtools.me/
+stargazers_count: 17
+updated_at: '2026-07-03'
+archived: false

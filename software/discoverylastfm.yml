@@ -1,0 +1,12 @@
+name: DiscoveryLastFM
+website_url: https://github.com/MrRobotoGit/DiscoveryLastFM
+source_code_url: https://github.com/MrRobotoGit/DiscoveryLastFM
+description: Discovers new albums by similar artists based on your Last.fm listening history and automatically queues them in Lidarr or Headphones
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true

@@ -1,0 +1,12 @@
+# FluxDown
+name: FluxDown
+website_url: https://fluxdown.zerx.dev
+description: Multi-protocol download manager with a Rust engine, HTTP/FTP/BitTorrent/HLS/DASH support, intelligent segmentation and a browser extension (alternative to Internet Download Manager).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Media Management
+source_code_url: https://github.com/zerx-lab/FluxDown

@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-stargazers_count: 1549
-updated_at: '2026-06-22'
+stargazers_count: 1554
+updated_at: '2026-06-27'
 archived: false
 current_release:
-  tag: v1.12.1
-  published_at: '2026-06-20'
+  tag: v1.12.2
+  published_at: '2026-06-27'
 commit_history:
-  2025-07: 43
   2025-08: 7
   2025-09: 108
   2025-10: 32
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 55
   2026-04: 65
   2026-05: 53
-  2026-06: 49
+  2026-06: 64
+  2026-07: 0

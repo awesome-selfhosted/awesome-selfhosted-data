@@ -12,12 +12,11 @@ tags:
 demo_url: https://demo.kottster.app/
 stargazers_count: 1157
 updated_at: '2026-01-16'
-archived: false
+archived: true
 current_release:
   tag: v3.5.1
   published_at: '2026-01-12'
 commit_history:
-  2025-07: 6
   2025-08: 14
   2025-09: 12
   2025-10: 26
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

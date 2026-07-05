@@ -9,14 +9,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/bludit/bludit
 depends_3rdparty: true
-stargazers_count: 1440
-updated_at: '2026-06-14'
+stargazers_count: 1445
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: 3.22.0
   published_at: '2026-05-11'
 commit_history:
-  2025-07: 0
   2025-08: 4
   2025-09: 0
   2025-10: 9
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 56
   2026-04: 50
   2026-05: 8
-  2026-06: 4
+  2026-06: 6
+  2026-07: 0

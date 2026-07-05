@@ -8,14 +8,13 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/tchapi/davis
-stargazers_count: 712
+stargazers_count: 717
 updated_at: '2026-06-16'
 archived: false
 current_release:
   tag: v5.4.3
   published_at: '2026-06-01'
 commit_history:
-  2025-07: 6
   2025-08: 6
   2025-09: 7
   2025-10: 3
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 4
   2026-06: 4
+  2026-07: 0

@@ -9,14 +9,13 @@ tags:
   - Time Tracking
 source_code_url: https://github.com/kimai/kimai
 demo_url: https://www.kimai.org/demo/
-stargazers_count: 4758
-updated_at: '2026-06-22'
+stargazers_count: 4791
+updated_at: '2026-06-30'
 archived: false
 current_release:
   tag: 2.61.0
   published_at: '2026-06-20'
 commit_history:
-  2025-07: 3
   2025-08: 10
   2025-09: 3
   2025-10: 1
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 4
   2026-04: 17
   2026-05: 6
-  2026-06: 32
+  2026-06: 33
+  2026-07: 0

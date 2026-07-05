@@ -12,14 +12,13 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/domoticz/domoticz
 related_software_url: https://github.com/domoticz/domoticz-android
-stargazers_count: 3784
-updated_at: '2026-06-22'
+stargazers_count: 3786
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: '2026.2'
   published_at: '2026-05-31'
 commit_history:
-  2025-07: 8
   2025-08: 36
   2025-09: 21
   2025-10: 58
@@ -30,4 +29,5 @@ commit_history:
   2026-03: 305
   2026-04: 282
   2026-05: 114
-  2026-06: 37
+  2026-06: 61
+  2026-07: 26

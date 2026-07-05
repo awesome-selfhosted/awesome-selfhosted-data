@@ -9,14 +9,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/mathesar-foundation/mathesar
-stargazers_count: 5012
-updated_at: '2026-06-17'
+stargazers_count: 5029
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: 0.11.0
-  published_at: '2026-05-28'
+  tag: 0.12.0
+  published_at: '2026-07-02'
 commit_history:
-  2025-07: 414
   2025-08: 365
   2025-09: 334
   2025-10: 236
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 23
   2026-04: 104
   2026-05: 87
-  2026-06: 57
+  2026-06: 66
+  2026-07: 9

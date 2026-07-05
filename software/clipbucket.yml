@@ -11,13 +11,12 @@ tags:
   - Media Streaming - Multimedia Streaming
 demo_url: https://demo.clipbucket.oxygenz.fr/
 stargazers_count: 169
-updated_at: '2026-06-19'
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: 5.5.3-#149
-  published_at: '2026-06-15'
+  tag: 5.5.3-#153
+  published_at: '2026-06-26'
 commit_history:
-  2025-07: 24
   2025-08: 16
   2025-09: 7
   2025-10: 13
@@ -28,4 +27,5 @@ commit_history:
   2026-03: 33
   2026-04: 25
   2026-05: 26
-  2026-06: 5
+  2026-06: 8
+  2026-07: 1

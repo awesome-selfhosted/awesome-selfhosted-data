@@ -8,14 +8,13 @@ platforms:
 tags:
   - Booking and Scheduling
 source_code_url: https://github.com/calcom/cal.diy
-stargazers_count: 45785
-updated_at: '2026-06-22'
+stargazers_count: 46071
+updated_at: '2026-07-03'
 archived: false
 current_release:
   tag: v6.2.0
   published_at: '2026-03-01'
 commit_history:
-  2025-07: 291
   2025-08: 289
   2025-09: 373
   2025-10: 274
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 91
   2026-04: 69
   2026-05: 8
-  2026-06: 25
+  2026-06: 30
+  2026-07: 2

@@ -11,14 +11,13 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/opensearch-project/OpenSearch
-stargazers_count: 13249
-updated_at: '2026-06-23'
+stargazers_count: 13307
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: 3.7.0
   published_at: '2026-06-09'
 commit_history:
-  2025-07: 89
   2025-08: 122
   2025-09: 126
   2025-10: 131
@@ -29,4 +28,5 @@ commit_history:
   2026-03: 103
   2026-04: 141
   2026-05: 261
-  2026-06: 227
+  2026-06: 261
+  2026-07: 16

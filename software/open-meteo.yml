@@ -9,14 +9,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/open-meteo/open-meteo
 demo_url: https://open-meteo.com/en/docs
-stargazers_count: 5718
-updated_at: '2026-06-19'
+stargazers_count: 5784
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: 1.4.0
   published_at: '2024-12-31'
 commit_history:
-  2025-07: 43
   2025-08: 54
   2025-09: 24
   2025-10: 20
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 34
   2026-04: 14
   2026-05: 13
-  2026-06: 29
+  2026-06: 46
+  2026-07: 6

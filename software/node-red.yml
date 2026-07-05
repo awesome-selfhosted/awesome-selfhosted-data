@@ -9,14 +9,13 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/node-red/node-red
-stargazers_count: 23343
-updated_at: '2026-06-18'
+stargazers_count: 23379
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: 5.0.0
-  published_at: '2026-06-09'
+  tag: 5.0.1
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 37
   2025-08: 12
   2025-09: 11
   2025-10: 77
@@ -26,5 +25,6 @@ commit_history:
   2026-02: 30
   2026-03: 55
   2026-04: 191
-  2026-05: 137
-  2026-06: 76
+  2026-05: 141
+  2026-06: 79
+  2026-07: 19

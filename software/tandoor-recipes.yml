@@ -12,14 +12,13 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/TandoorRecipes/recipes
 demo_url: https://app.tandoor.dev/accounts/login/?demo
-stargazers_count: 8426
-updated_at: '2026-06-23'
+stargazers_count: 8448
+updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: 2.6.9
-  published_at: '2026-04-16'
+  tag: 2.6.12
+  published_at: '2026-06-30'
 commit_history:
-  2025-07: 138
   2025-08: 172
   2025-09: 200
   2025-10: 40
@@ -30,4 +29,5 @@ commit_history:
   2026-03: 213
   2026-04: 111
   2026-05: 47
-  2026-06: 55
+  2026-06: 66
+  2026-07: 3

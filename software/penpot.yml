@@ -8,14 +8,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/penpot/penpot
-stargazers_count: 53277
-updated_at: '2026-06-23'
+stargazers_count: 54972
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: 2.16.0
-  published_at: '2026-06-11'
+  tag: 2.16.2
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 311
   2025-08: 343
   2025-09: 263
   2025-10: 455
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 494
   2026-04: 545
   2026-05: 512
-  2026-06: 473
+  2026-06: 548
+  2026-07: 40

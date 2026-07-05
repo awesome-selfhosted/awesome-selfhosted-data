@@ -1,7 +1,7 @@
-name: "Snipo"
-website_url: "https://github.com/MohamedElashri/snipo"
-source_code_url: "https://github.com/MohamedElashri/snipo"
-description: "Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync."
+name: Snipo
+website_url: https://github.com/MohamedElashri/snipo
+source_code_url: https://github.com/MohamedElashri/snipo
+description: Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,4 +9,14 @@ platforms:
   - Docker
 tags:
   - Pastebins
-demo_url: "https://snipo.melashri.dev/"
+demo_url: https://snipo.melashri.dev/
+stargazers_count: 63
+updated_at: '2026-07-03'
+archived: false
+current_release:
+  tag: v1.6.1
+  published_at: '2026-06-16'
+commit_history:
+  2026-05: 25
+  2026-06: 19
+  2026-07: 3

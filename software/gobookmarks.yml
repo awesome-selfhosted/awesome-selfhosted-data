@@ -10,13 +10,12 @@ platforms:
 tags:
   - Personal Dashboards
 stargazers_count: 15
-updated_at: '2026-05-20'
+updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: v1.8.18
-  published_at: '2026-05-20'
+  tag: v1.8.20
+  published_at: '2026-07-04'
 commit_history:
-  2025-07: 57
   2025-08: 17
   2025-09: 1
   2025-10: 16
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 8
   2026-04: 49
   2026-05: 4
-  2026-06: 0
+  2026-06: 2
+  2026-07: 6

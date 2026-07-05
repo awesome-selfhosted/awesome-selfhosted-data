@@ -11,14 +11,13 @@ tags:
   - Health and Fitness
 depends_3rdparty: true
 demo_url: https://statistics-for-strava.robiningelbrecht.be/
-stargazers_count: 1808
-updated_at: '2026-06-23'
+stargazers_count: 1815
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: v4.8.8
   published_at: '2026-06-14'
 commit_history:
-  2025-07: 186
   2025-08: 88
   2025-09: 89
   2025-10: 198
@@ -29,4 +28,5 @@ commit_history:
   2026-03: 112
   2026-04: 42
   2026-05: 151
-  2026-06: 181
+  2026-06: 235
+  2026-07: 11

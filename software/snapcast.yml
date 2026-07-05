@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/snapcast/snapcast
-stargazers_count: 7710
+stargazers_count: 7735
 updated_at: '2026-06-12'
 archived: false
 current_release:
   tag: v0.35.0
   published_at: '2026-03-10'
 commit_history:
-  2025-07: 21
   2025-08: 24
   2025-09: 53
   2025-10: 5
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 1
+  2026-07: 0

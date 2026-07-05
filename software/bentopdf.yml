@@ -11,14 +11,15 @@ tags:
   - Document Management
 demo_url: https://bentopdf.com
 depends_3rdparty: true
-stargazers_count: 13855
-updated_at: '2026-06-22'
+stargazers_count: 13951
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: v2.8.5
-  published_at: '2026-05-23'
+  tag: v2.8.6
+  published_at: '2026-06-28'
 commit_history:
   2026-03: 181
   2026-04: 102
   2026-05: 52
-  2026-06: 13
+  2026-06: 18
+  2026-07: 2

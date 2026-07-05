@@ -11,14 +11,13 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/centrifugal/centrifugo
 demo_url: https://github.com/centrifugal/centrifugo#demo
-stargazers_count: 10434
-updated_at: '2026-06-16'
+stargazers_count: 10471
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: v6.8.3
-  published_at: '2026-06-16'
+  tag: v6.8.4
+  published_at: '2026-06-30'
 commit_history:
-  2025-07: 15
   2025-08: 12
   2025-09: 7
   2025-10: 12
@@ -29,4 +28,5 @@ commit_history:
   2026-03: 8
   2026-04: 3
   2026-05: 16
-  2026-06: 15
+  2026-06: 18
+  2026-07: 1

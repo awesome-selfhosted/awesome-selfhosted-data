@@ -9,14 +9,13 @@ platforms:
   - Nodejs
 tags:
   - Wikis
-stargazers_count: 20717
-updated_at: '2026-06-21'
+stargazers_count: 20818
+updated_at: '2026-07-04'
 archived: false
 current_release:
-  tag: v0.90.1
-  published_at: '2026-05-28'
+  tag: v0.95.0
+  published_at: '2026-07-03'
 commit_history:
-  2025-07: 46
   2025-08: 29
   2025-09: 44
   2025-10: 8
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 97
   2026-04: 32
   2026-05: 57
-  2026-06: 18
+  2026-06: 36
+  2026-07: 3

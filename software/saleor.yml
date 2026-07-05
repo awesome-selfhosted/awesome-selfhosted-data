@@ -10,14 +10,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/saleor/saleor
 demo_url: https://demo.saleor.io/
-stargazers_count: 23019
-updated_at: '2026-06-23'
+stargazers_count: 23059
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: 3.23.12
-  published_at: '2026-06-23'
+  tag: 3.23.15
+  published_at: '2026-07-03'
 commit_history:
-  2025-07: 64
   2025-08: 35
   2025-09: 81
   2025-10: 27
@@ -28,4 +27,5 @@ commit_history:
   2026-03: 55
   2026-04: 37
   2026-05: 24
-  2026-06: 47
+  2026-06: 57
+  2026-07: 4

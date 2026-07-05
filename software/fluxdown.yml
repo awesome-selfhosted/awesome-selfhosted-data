@@ -1,4 +1,3 @@
-# FluxDown
 name: FluxDown
 website_url: https://fluxdown.zerx.dev
 description: Multi-protocol download manager with a Rust engine, HTTP/FTP/BitTorrent/HLS/DASH support, intelligent segmentation and a browser extension (alternative to Internet Download Manager).

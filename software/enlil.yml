@@ -1,0 +1,12 @@
+name: ENLIL
+website_url: https://enlil-council.com/
+source_code_url: https://github.com/conchaestradamiguelangel-droid/enlil
+description: Self-hosted multi-agent LLM deliberation council where 9 AI models reason in parallel on every query, producing a synthesized consensus with post-quantum signed outputs (ML-DSA-87, NIST FIPS 204).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: https://enlil-council.com/dashboard

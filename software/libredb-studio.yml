@@ -1,0 +1,11 @@
+name: "LibreDB Studio"
+website_url: "https://libredb.org"
+source_code_url: "https://github.com/libredb/libredb-studio"
+description: "Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver)."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Database Management

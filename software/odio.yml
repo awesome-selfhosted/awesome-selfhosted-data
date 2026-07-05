@@ -1,0 +1,18 @@
+name: "odio"
+website_url: "https://odio.love"
+source_code_url: "https://github.com/b0bbywan/odios"
+description: "Turns any Raspberry Pi or Linux machine into a multi-room streamer: AirPlay, Spotify Connect, Bluetooth, UPnP/DLNA, MPD, web radio. REST API and Home Assistant integration included."
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Ansible
+  - deb
+  - Shell
+  - Go
+  - Python
+tags:
+  - Media Streaming - Audio Streaming
+  - Internet of Things (IoT)
+depends_3rdparty: false
+related_software_url: "https://docs.odio.love/control/"
+

@@ -1,0 +1,11 @@
+name: AEGIS
+website_url: https://aegis-pq.com
+source_code_url: https://github.com/conchaestradamiguelangel-droid/aegis
+description: Autonomous intrusion detection and prevention system with 9 active defense layers (honeypot, behavioral analysis, ML-based anomaly detection, geo-blocking) and ML-DSA-87 post-quantum signed alerts (NIST FIPS 204).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Network Utilities

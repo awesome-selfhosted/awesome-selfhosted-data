@@ -1,0 +1,12 @@
+name: ERPClaw
+website_url: https://erpclaw.ai
+source_code_url: https://github.com/avansaber/erpclaw
+description: AI-native ERP you run in plain English, with double-entry accounting, invoicing, inventory, payroll, and a web dashboard (alternative to NetSuite, QuickBooks).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Resource Planning
+demo_url: https://erpclaw.ai/demo/

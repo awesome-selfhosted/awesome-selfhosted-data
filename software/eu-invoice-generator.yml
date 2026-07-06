@@ -1,0 +1,19 @@
+name: EU Invoice Generator
+website_url: https://eu-invoice-web.vercel.app
+source_code_url: https://github.com/Ddhjx-code/eu-invoice-web
+description: Free e-invoice generator supporting XRechnung, ZUGFeRD and Factur-X EU standards.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
+stargazers_count: 0
+updated_at: '2026-07-03'
+archived: false
+current_release:
+  tag: v0.1.0
+  published_at: '2026-07-02'
+commit_history:
+  2026-06: 6
+  2026-07: 0

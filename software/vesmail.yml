@@ -1,0 +1,12 @@
+name: VESmail
+website_url: https://vesmail.email
+source_code_url: https://github.com/vesvault/VESmail
+description: Transparent IMAP/SMTP encryption proxy that end-to-end encrypts outgoing and decrypts incoming email, so existing mail clients and servers keep working unchanged. Keys are exchanged and recovered through the VESvault key repository.
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+tags:
+  - Communication - Email - Complete Solutions
+  - Proxy
+depends_3rdparty: true

@@ -10,11 +10,11 @@ platforms:
 tags:
   - Automation
 stargazers_count: 3601
-updated_at: '2026-07-04'
+updated_at: '2026-07-05'
 archived: false
 current_release:
-  tag: v2.9.1
-  published_at: '2026-07-02'
+  tag: v2.10.0
+  published_at: '2026-07-05'
 commit_history:
   2025-08: 85
   2025-09: 44
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 167
   2026-05: 177
   2026-06: 90
-  2026-07: 15
+  2026-07: 19

@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 4261
-updated_at: '2026-06-25'
+stargazers_count: 4264
+updated_at: '2026-07-05'
 archived: false
 current_release:
   tag: v0.104.3
@@ -25,5 +25,5 @@ commit_history:
   2026-03: 1427
   2026-04: 735
   2026-05: 1385
-  2026-06: 922
-  2026-07: 0
+  2026-06: 923
+  2026-07: 8

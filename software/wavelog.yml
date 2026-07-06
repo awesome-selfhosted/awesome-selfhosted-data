@@ -10,14 +10,13 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://demo.wavelog.org
-stargazers_count: 462
-updated_at: '2026-06-14'
+stargazers_count: 477
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: 2.5.1
-  published_at: '2026-06-14'
+  tag: 3.0.0
+  published_at: '2026-06-26'
 commit_history:
-  2025-07: 422
   2025-08: 412
   2025-09: 431
   2025-10: 588
@@ -27,5 +26,6 @@ commit_history:
   2026-02: 513
   2026-03: 586
   2026-04: 222
-  2026-05: 347
-  2026-06: 254
+  2026-05: 350
+  2026-06: 602
+  2026-07: 0

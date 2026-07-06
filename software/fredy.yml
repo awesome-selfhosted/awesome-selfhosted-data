@@ -11,14 +11,18 @@ depends_3rdparty: true
 tags:
   - Automation
 demo_url: https://fredy-demo.orange-coding.net
-stargazers_count: 548
-updated_at: '2026-03-11'
+stargazers_count: 1243
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: 20.0.3
-  published_at: '2026-03-11'
+  tag: 22.9.6
+  published_at: '2026-07-01'
 commit_history:
   2025-12: 19
   2026-01: 29
   2026-02: 19
-  2026-03: 13
+  2026-03: 33
+  2026-04: 18
+  2026-05: 27
+  2026-06: 56
+  2026-07: 1

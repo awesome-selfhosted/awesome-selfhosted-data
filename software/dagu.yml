@@ -1,6 +1,6 @@
 name: Dagu
 website_url: https://docs.dagu.cloud/
-source_code_url: https://github.com/dagu-org/dagu
+source_code_url: https://github.com/dagucloud/dagu
 description: Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.
 licenses:
   - GPL-3.0
@@ -9,17 +9,13 @@ platforms:
   - Docker
 tags:
   - Automation
-stargazers_count: 3151
-updated_at: '2026-03-11'
+stargazers_count: 3601
+updated_at: '2026-07-05'
 archived: false
 current_release:
-  tag: v2.2.4
-  published_at: '2026-03-10'
+  tag: v2.10.0
+  published_at: '2026-07-05'
 commit_history:
-  2025-04: 15
-  2025-05: 39
-  2025-06: 144
-  2025-07: 100
   2025-08: 85
   2025-09: 44
   2025-10: 65
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 72
   2026-01: 71
   2026-02: 97
-  2026-03: 89
+  2026-03: 207
+  2026-04: 167
+  2026-05: 177
+  2026-06: 90
+  2026-07: 19

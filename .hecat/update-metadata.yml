@@ -1,7 +1,7 @@
 steps:
   - name: update all metadata from Github API
-    module: processors/github_metadata
+    module: processors/software_metadata
     module_options:
       source_directory: ./
-      gh_metadata_only_missing: False
+      metadata_only_missing: False
       sleep_time: 60

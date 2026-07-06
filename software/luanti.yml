@@ -13,16 +13,12 @@ tags:
   - Games
 source_code_url: https://github.com/luanti-org/luanti
 archived: false
-stargazers_count: 12421
-updated_at: '2026-03-11'
+stargazers_count: 13184
+updated_at: '2026-07-05'
 current_release:
-  tag: 5.15.1
-  published_at: '2026-02-08'
+  tag: 5.16.1
+  published_at: '2026-05-10'
 commit_history:
-  2025-04: 106
-  2025-05: 88
-  2025-06: 30
-  2025-07: 74
   2025-08: 41
   2025-09: 74
   2025-10: 69
@@ -30,4 +26,8 @@ commit_history:
   2025-12: 38
   2026-01: 110
   2026-02: 56
-  2026-03: 7
+  2026-03: 36
+  2026-04: 48
+  2026-05: 73
+  2026-06: 48
+  2026-07: 12

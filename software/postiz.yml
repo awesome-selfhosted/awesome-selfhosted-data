@@ -9,17 +9,13 @@ tags:
   - Analytics
 source_code_url: https://github.com/gitroomhq/postiz-app
 depends_3rdparty: true
-stargazers_count: 27202
-updated_at: '2026-03-11'
+stargazers_count: 32745
+updated_at: '2026-07-05'
 archived: false
 current_release:
-  tag: v2.20.2
-  published_at: '2026-03-10'
+  tag: v2.21.9
+  published_at: '2026-06-18'
 commit_history:
-  2025-04: 128
-  2025-05: 93
-  2025-06: 130
-  2025-07: 242
   2025-08: 127
   2025-09: 66
   2025-10: 77
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 75
   2026-01: 121
   2026-02: 98
-  2026-03: 45
+  2026-03: 105
+  2026-04: 80
+  2026-05: 89
+  2026-06: 68
+  2026-07: 17

@@ -1,0 +1,23 @@
+name: Nimbus
+website_url: https://nimbus.turboot.com/
+source_code_url: https://github.com/Turbootzz/Nimbus
+description: Modern drag-and-drop homelab dashboard with visual editor and simple configuration.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Personal Dashboards
+demo_url: https://nimbus.turboot.com/
+stargazers_count: 114
+updated_at: '2026-06-28'
+archived: false
+current_release:
+  tag: v1.2.3
+  published_at: '2026-06-28'
+commit_history:
+  2026-03: 8
+  2026-04: 0
+  2026-05: 10
+  2026-06: 6
+  2026-07: 0

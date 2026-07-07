@@ -8,12 +8,12 @@ platforms:
 tags:
   - Pastebins
 source_code_url: https://github.com/WardPearce/paaster
-stargazers_count: 545
-updated_at: '2026-07-05'
+stargazers_count: 546
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: v3.3.2
-  published_at: '2026-07-05'
+  tag: v3.3.3
+  published_at: '2026-07-06'
 commit_history:
   2025-08: 50
   2025-09: 45
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 16
   2026-05: 47
   2026-06: 9
-  2026-07: 28
+  2026-07: 56

@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Remote Access
-stargazers_count: 13891
-updated_at: '2026-07-01'
+stargazers_count: 13899
+updated_at: '2026-07-06'
 archived: false
 current_release:
   tag: release-2.5.0-tag
@@ -23,4 +23,4 @@ commit_history:
   2026-04: 10
   2026-05: 21
   2026-06: 36
-  2026-07: 3
+  2026-07: 4

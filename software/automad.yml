@@ -10,12 +10,12 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 demo_url: https://try.automad.org/
-stargazers_count: 910
-updated_at: '2026-07-05'
+stargazers_count: 912
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: 2.0.0-beta.45
-  published_at: '2026-07-05'
+  tag: 2.0.0-beta.46
+  published_at: '2026-07-06'
 commit_history:
   2025-10: 90
   2025-11: 34
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 45
   2026-05: 57
   2026-06: 67
-  2026-07: 3
+  2026-07: 6

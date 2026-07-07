@@ -9,12 +9,12 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/diced/zipline
-stargazers_count: 3255
-updated_at: '2026-07-04'
+stargazers_count: 3257
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: v4.6.3
-  published_at: '2026-06-26'
+  tag: v4.6.4
+  published_at: '2026-07-06'
 commit_history:
   2025-08: 42
   2025-09: 31
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 48
   2026-05: 21
   2026-06: 21
-  2026-07: 8
+  2026-07: 15

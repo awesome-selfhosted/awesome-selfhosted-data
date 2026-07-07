@@ -1,0 +1,11 @@
+name: Backspace
+website_url: https://thezwiss.github.io/backspace/
+source_code_url: https://github.com/TheZwiss/backspace
+description: Team chat with channels, roles, voice, video, screen sharing, direct messages, and server-to-server federation between independently owned instances.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

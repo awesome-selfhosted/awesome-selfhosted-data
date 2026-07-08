@@ -1,0 +1,13 @@
+name: "Stateful AI Email Agent"
+website_url: "https://github.com/coma/stateful-email-agent-deploy"
+source_code_url: "https://github.com/coma/stateful-email-agent-deploy"
+description: "Enterprise-grade self-hosted, BYOK multi-turn AI email outreach automation platform compiled to native binaries for absolute privacy."
+licenses:
+  - Proprietary
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+  - Automation
+depends_3rdparty: true

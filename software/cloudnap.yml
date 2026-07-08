@@ -1,0 +1,8 @@
+name: CloudNap
+description: A self-hosted AWS EC2 and RDS sleep scheduler to optimize cloud costs by stopping idle resources. Features a premium React dashboard, multi-account STS support, and secure local credential encryption.
+website: https://github.com/famirco/cloudnap
+license: MIT
+category: automation
+platforms:
+  - docker
+  - python

@@ -8,12 +8,12 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/sabre-io/dav
-stargazers_count: 1714
-updated_at: '2026-07-01'
+stargazers_count: 1713
+updated_at: '2026-07-07'
 archived: false
 current_release:
-  tag: 4.7.0
-  published_at: '2024-10-29'
+  tag: 4.7.1
+  published_at: '2026-07-07'
 commit_history:
   2025-08: 0
   2025-09: 1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 3
   2026-05: 1
   2026-06: 3
-  2026-07: 6
+  2026-07: 10

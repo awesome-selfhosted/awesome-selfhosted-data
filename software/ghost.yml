@@ -8,8 +8,8 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/TryGhost/Ghost
-stargazers_count: 54299
-updated_at: '2026-07-06'
+stargazers_count: 54310
+updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: v6.51.0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 503
   2026-05: 539
   2026-06: 665
-  2026-07: 122
+  2026-07: 144

@@ -1,0 +1,10 @@
+name: Stateful AI Email Agent
+website_url: https://github.com/comafires/stateful-email-agent-deploy
+source_code_url: https://github.com/comafires/stateful-email-agent-deploy
+description: An enterprise-grade, BYOK (Bring Your Own Key) self-hosted AI email outreach agent. It natively handles stateful, multi-turn follow-up conversations using LLMs and is delivered as compiled native binaries (.so) inside Docker for complete intellectual property protection and data privacy.
+licenses:
+  - Proprietary
+platforms:
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters

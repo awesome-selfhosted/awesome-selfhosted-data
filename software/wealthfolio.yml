@@ -1,0 +1,11 @@
+name: Wealthfolio
+website_url: https://wealthfolio.app
+source_code_url: https://github.com/wealthfolio/wealthfolio
+description: Private, local-first personal finance and investment tracker covering net worth, holdings, spending, and portfolio simulations, with optional broker auto-sync.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Money, Budgeting & Management

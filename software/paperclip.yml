@@ -1,0 +1,12 @@
+name: Paperclip
+website_url: https://paperclip.ing
+source_code_url: https://github.com/paperclipai/paperclip
+description: Coordinate AI agents with tasks, approvals, budgets, and managed workspaces.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Project Management
+depends_3rdparty: true

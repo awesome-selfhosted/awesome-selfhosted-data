@@ -9,8 +9,8 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/opentripplanner/OpenTripPlanner
-stargazers_count: 2683
-updated_at: '2026-07-07'
+stargazers_count: 2685
+updated_at: '2026-07-08'
 archived: false
 current_release:
   tag: v2.9.0
@@ -26,5 +26,5 @@ commit_history:
   2026-03: 529
   2026-04: 438
   2026-05: 428
-  2026-06: 395
-  2026-07: 48
+  2026-06: 405
+  2026-07: 54

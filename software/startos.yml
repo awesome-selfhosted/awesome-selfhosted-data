@@ -8,12 +8,12 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/Start9Labs/start-technologies
-stargazers_count: 1948
-updated_at: '2026-07-07'
+stargazers_count: 1950
+updated_at: '2026-07-08'
 archived: false
 current_release:
-  tag: start-sdk/v2.0.1
-  published_at: '2026-07-03'
+  tag: start-wrt/v0.1.0-beta.4
+  published_at: '2026-07-08'
 commit_history:
   2025-08: 0
   2025-09: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 92
   2026-05: 86
   2026-06: 130
-  2026-07: 65
+  2026-07: 110

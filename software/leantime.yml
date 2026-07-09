@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/leantime/leantime
-stargazers_count: 10184
-updated_at: '2026-07-06'
+stargazers_count: 10190
+updated_at: '2026-07-08'
 archived: false
 current_release:
-  tag: v3.9.7
-  published_at: '2026-07-05'
+  tag: v3.9.8
+  published_at: '2026-07-08'
 commit_history:
   2025-08: 42
   2025-09: 25
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 33
   2026-05: 164
   2026-06: 86
-  2026-07: 31
+  2026-07: 36

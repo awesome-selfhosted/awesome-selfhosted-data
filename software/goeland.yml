@@ -1,0 +1,13 @@
+name: "Goeland"
+website_url: "https://github.com/slurdge/goeland"
+source_code_url: "https://github.com/slurdge/goeland"
+description: "Turn any RSS/Atom feed into a beautiful email digest — self-hosted, no cloud required."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Feed Readers
+  - Automation
+depends_3rdparty: false

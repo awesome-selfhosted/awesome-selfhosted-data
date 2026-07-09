@@ -10,13 +10,12 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/axeloz/filesharing
 stargazers_count: 280
-updated_at: '2025-08-20'
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: 2.13.4
-  published_at: '2025-08-20'
+  tag: 2.14.1
+  published_at: '2026-06-29'
 commit_history:
-  2025-07: 0
   2025-08: 10
   2025-09: 0
   2025-10: 0
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 0
   2026-04: 0
   2026-05: 0
-  2026-06: 0
+  2026-06: 8
+  2026-07: 0

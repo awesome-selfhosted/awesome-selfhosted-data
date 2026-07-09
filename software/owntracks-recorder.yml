@@ -12,14 +12,13 @@ tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/owntracks/recorder
 depends_3rdparty: true
-stargazers_count: 1183
+stargazers_count: 1185
 updated_at: '2026-06-14'
 archived: false
 current_release:
   tag: 1.0.1
   published_at: '2025-08-12'
 commit_history:
-  2025-07: 0
   2025-08: 10
   2025-09: 0
   2025-10: 0
@@ -31,3 +30,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 5
+  2026-07: 0

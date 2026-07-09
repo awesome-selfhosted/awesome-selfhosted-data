@@ -10,14 +10,13 @@ platforms:
 tags:
   - Software Development - Project Management
 demo_url: https://demo.reviewboard.org/
-stargazers_count: 1717
+stargazers_count: 1718
 updated_at: '2026-06-23'
 archived: false
 current_release:
   tag: release-8.0
   published_at: '2026-06-09'
 commit_history:
-  2025-07: 13
   2025-08: 17
   2025-09: 41
   2025-10: 13
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 57
   2026-05: 55
   2026-06: 20
+  2026-07: 0

@@ -10,14 +10,13 @@ tags:
   - Document Management - E-books
 source_code_url: https://github.com/Atsumeru-xyz/Atsumeru
 related_software_url: https://atsumeru.xyz/guides/#how-does-it-work
-stargazers_count: 180
-updated_at: '2026-06-11'
+stargazers_count: 184
+updated_at: '2026-07-08'
 archived: false
 current_release:
-  tag: '2.1'
-  published_at: '2026-06-11'
+  tag: '2.2'
+  published_at: '2026-07-08'
 commit_history:
-  2025-07: 3
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 2
   2026-05: 5
   2026-06: 4
+  2026-07: 3

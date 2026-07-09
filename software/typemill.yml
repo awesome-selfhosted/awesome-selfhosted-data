@@ -8,14 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/typemill/typemill
-stargazers_count: 603
+stargazers_count: 606
 updated_at: '2026-06-14'
 archived: false
 current_release:
   tag: v2.24.2
   published_at: '2026-06-14'
 commit_history:
-  2025-07: 16
   2025-08: 10
   2025-09: 8
   2025-10: 17
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 6
   2026-05: 11
   2026-06: 20
+  2026-07: 0

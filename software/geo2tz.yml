@@ -9,14 +9,13 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/noandrea/geo2tz
-stargazers_count: 95
-updated_at: '2026-06-20'
+stargazers_count: 96
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: v2.8.0
-  published_at: '2026-05-17'
+  tag: v2.9.0
+  published_at: '2026-07-01'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 0
   2026-05: 8
   2026-06: 2
+  2026-07: 2

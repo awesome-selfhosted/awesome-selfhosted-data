@@ -1,0 +1,13 @@
+name: PrintStash
+website_url: https://www.printstash.org
+description: Self-hosted 3D printing file manager and vault. Organizes STL, 3MF, OBJ, STEP, and G-code files with automatic slicer metadata extraction, G-code version history, duplicate detection, and Moonraker/Klipper printer integration.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Manufacturing
+source_code_url: https://github.com/xiao-villamor/PrintStash
+stargazers_count: 47
+updated_at: '2026-07-09'
+archived: false

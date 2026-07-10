@@ -9,12 +9,12 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/jgraph/drawio
-stargazers_count: 6680
-updated_at: '2026-06-30'
+stargazers_count: 6702
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: v30.2.7
-  published_at: '2026-06-30'
+  tag: v30.3.6
+  published_at: '2026-07-09'
 commit_history:
   2025-08: 3
   2025-09: 3
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 2
   2026-05: 7
   2026-06: 5
-  2026-07: 0
+  2026-07: 1

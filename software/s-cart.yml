@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/gp247net/s-cart
 demo_url: https://demo.s-cart.org/
 stargazers_count: 10
-updated_at: '2026-07-08'
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: '2.0'
-  published_at: '2026-07-08'
+  tag: 2.0.1
+  published_at: '2026-07-09'
 commit_history:
   2025-08: 4
   2025-09: 2
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
-  2026-07: 4
+  2026-07: 8

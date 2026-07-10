@@ -9,8 +9,8 @@ platforms:
   - Go
 tags:
   - Web Servers
-stargazers_count: 3416
-updated_at: '2026-07-08'
+stargazers_count: 3458
+updated_at: '2026-07-09'
 archived: false
 current_release:
   tag: v0.29.7
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 66
   2026-05: 57
   2026-06: 28
-  2026-07: 21
+  2026-07: 35

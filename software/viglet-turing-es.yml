@@ -1,0 +1,11 @@
+name: Viglet Turing ES
+website_url: https://viglet.org/turing
+source_code_url: https://github.com/openviglet/turing-ce
+description: Enterprise search platform with faceted, semantic and hybrid retrieval, RAG chat and AI agents over a pluggable Solr/Elasticsearch/Lucene backend.
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Search Engines

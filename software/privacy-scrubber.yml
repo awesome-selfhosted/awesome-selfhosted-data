@@ -1,0 +1,11 @@
+name: PrivacyScrubber
+website_url: https://privacyscrubber.com
+source_code_url: https://github.com/moxno/PrivacyScrubber
+description: Zero-trust PII and secrets sanitizer that locally scrubs data in-memory before sending context to LLMs (alternative to Microsoft Presidio, Amazon Comprehend PII, Nightfall AI).
+licenses:
+  - ISC
+  platforms:
+    - Javascript
+    tags:
+      - Generative Artificial Intelligence (GenAI)
+      

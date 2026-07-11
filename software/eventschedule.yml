@@ -1,0 +1,11 @@
+name: "EventSchedule"
+website_url: "https://eventschedule.com/"
+source_code_url: "https://github.com/eventschedule/eventschedule"
+description: "Share events, sell tickets, and bring communities together."
+licenses:
+  - AAL
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Polls and Events

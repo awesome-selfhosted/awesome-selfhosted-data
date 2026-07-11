@@ -9,14 +9,13 @@ platforms:
 tags:
   - Miscellaneous
 demo_url: https://demo.flyimg.io
-stargazers_count: 1212
-updated_at: '2026-06-10'
+stargazers_count: 1215
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: 1.12.1
-  published_at: '2026-06-10'
+  tag: 1.12.2
+  published_at: '2026-06-24'
 commit_history:
-  2025-07: 10
   2025-08: 6
   2025-09: 58
   2025-10: 3
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 8
   2026-04: 0
   2026-05: 2
-  2026-06: 3
+  2026-06: 8
+  2026-07: 0

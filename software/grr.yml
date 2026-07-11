@@ -8,14 +8,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/JeromeDevome/GRR
-stargazers_count: 107
+stargazers_count: 108
 updated_at: '2026-06-21'
 archived: false
 current_release:
-  tag: v4.6.3
-  published_at: '2026-06-21'
+  tag: v4.6.4
+  published_at: '2026-07-07'
 commit_history:
-  2025-07: 37
   2025-08: 20
   2025-09: 18
   2025-10: 16
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 12
   2026-05: 77
   2026-06: 44
+  2026-07: 0

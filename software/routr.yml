@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/fonoster/routr
-stargazers_count: 1689
-updated_at: '2026-06-19'
+stargazers_count: 1698
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: vfix/wss-onnewsocket-recursion-hang
-  published_at: '2026-05-14'
+  tag: v2.15.0
+  published_at: '2026-06-29'
 commit_history:
-  2025-07: 14
   2025-08: 0
   2025-09: 3
   2025-10: 0
@@ -26,5 +25,6 @@ commit_history:
   2026-02: 0
   2026-03: 3
   2026-04: 0
-  2026-05: 3
-  2026-06: 1
+  2026-05: 4
+  2026-06: 12
+  2026-07: 2

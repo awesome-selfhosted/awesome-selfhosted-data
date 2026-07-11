@@ -12,14 +12,13 @@ tags:
   - File Transfer - Web-based File Managers
   - File Transfer - Object Storage & File Servers
   - URL Shorteners
-stargazers_count: 120
-updated_at: '2026-06-20'
+stargazers_count: 124
+updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: v1.7.5
   published_at: '2026-06-20'
 commit_history:
-  2025-07: 56
   2025-08: 6
   2025-09: 38
   2025-10: 0
@@ -31,3 +30,4 @@ commit_history:
   2026-04: 14
   2026-05: 2
   2026-06: 6
+  2026-07: 2

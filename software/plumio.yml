@@ -10,13 +10,14 @@ platforms:
 tags:
   - Note-taking & Editors
 demo_url: https://demo.plumio.app/homepage
-stargazers_count: 126
-updated_at: '2026-06-22'
+stargazers_count: 132
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: v2.10.0
-  published_at: '2026-06-22'
+  tag: v2.10.1
+  published_at: '2026-06-24'
 commit_history:
   2026-04: 65
   2026-05: 69
-  2026-06: 29
+  2026-06: 38
+  2026-07: 9

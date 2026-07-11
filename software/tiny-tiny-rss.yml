@@ -9,11 +9,10 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/tt-rss/tt-rss
-stargazers_count: 767
-updated_at: '2026-06-23'
+stargazers_count: 783
+updated_at: '2026-07-05'
 archived: false
 commit_history:
-  2025-07: 40
   2025-08: 34
   2025-09: 12
   2025-10: 235
@@ -24,4 +23,5 @@ commit_history:
   2026-03: 15
   2026-04: 17
   2026-05: 15
-  2026-06: 65
+  2026-06: 67
+  2026-07: 12

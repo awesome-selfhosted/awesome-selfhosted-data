@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/LibreTime/libretime
-stargazers_count: 934
+stargazers_count: 940
 updated_at: '2026-05-13'
 archived: false
 current_release:
   tag: 4.5.0
   published_at: '2025-07-16'
 commit_history:
-  2025-07: 3
   2025-08: 29
   2025-09: 5
   2025-10: 3
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 9
   2026-05: 1
   2026-06: 0
+  2026-07: 0

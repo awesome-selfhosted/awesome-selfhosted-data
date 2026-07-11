@@ -10,14 +10,13 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/weechat/weechat
-stargazers_count: 3341
-updated_at: '2026-06-23'
+stargazers_count: 3348
+updated_at: '2026-07-05'
 archived: false
 current_release:
-  tag: v4.9.2
-  published_at: '2026-06-07'
+  tag: v4.9.3
+  published_at: '2026-07-05'
 commit_history:
-  2025-07: 22
   2025-08: 17
   2025-09: 6
   2025-10: 15
@@ -28,4 +27,5 @@ commit_history:
   2026-03: 74
   2026-04: 31
   2026-05: 39
-  2026-06: 74
+  2026-06: 80
+  2026-07: 48

@@ -1,19 +1,12 @@
-# software name
 name: "GhostBin"
-# URL of the software project's homepage
 website_url: "https://github.com/Akshad135/ghostbin"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/Akshad135/ghostbin"
-# description of what the software does, shorter than 250 characters, sentence case
-description: "A fast, private-first pastebin with End-to-End Encryption, syntax highlighting, and file attachments. Features 18 stunning themes, auto-expiring temporary pastes, and secure access-based sharing."
-# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml
+description: "A fast, private-first pastebin with end-to-end encryption, syntax highlighting, and file attachments. Features 18 stunning themes, auto-expiring temporary pastes, and secure access-based sharing."
 licenses:
   - MIT
-# list of languages/platforms
 platforms:
   - Rust
   - Nodejs
   - Docker
-# list of tags, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags
 tags:
   - Pastebins

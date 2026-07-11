@@ -1,0 +1,10 @@
+name: "Kan"
+website_url: "https://kan.bn/"
+source_code_url: "https://github.com/kanbn/kan"
+description: "Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Task Management & To-do Lists

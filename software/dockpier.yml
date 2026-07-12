@@ -1,0 +1,11 @@
+name: DockPier
+website_url: https://github.com/abakermi/dockpier
+source_code_url: https://github.com/abakermi/dockpier
+description: Dashboard that auto-discovers Docker containers and their web UIs from labels, published ports, and reverse proxy configs (alternative to Homepage, Homarr, Dashy).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Personal Dashboards

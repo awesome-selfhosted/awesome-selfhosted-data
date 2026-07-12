@@ -1,0 +1,11 @@
+name: "Inkwell"
+website_url: "https://www.useinkwell.app"
+source_code_url: "https://github.com/marutisoftwaresolutions/inkwell"
+description: "Multi-tenant, themeable blogging platform for writers and teams who value typography and content ownership. Ships as a single .NET binary with a WYSIWYG editor, built-in analytics and newsletters, no telemetry, and no plugin marketplace."
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Blogging Platforms

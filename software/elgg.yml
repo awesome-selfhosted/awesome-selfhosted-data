@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/Elgg/Elgg
-stargazers_count: 1676
-updated_at: '2026-07-09'
+stargazers_count: 1677
+updated_at: '2026-07-10'
 archived: false
 current_release:
-  tag: 7.0.2
-  published_at: '2026-07-02'
+  tag: 7.0.3
+  published_at: '2026-07-10'
 commit_history:
   2025-08: 35
   2025-09: 35
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 34
   2026-05: 68
   2026-06: 44
-  2026-07: 14
+  2026-07: 19

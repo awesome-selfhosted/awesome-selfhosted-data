@@ -10,12 +10,12 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/juspay/hyperswitch
 depends_3rdparty: true
-stargazers_count: 43196
-updated_at: '2026-07-09'
+stargazers_count: 43195
+updated_at: '2026-07-10'
 archived: false
 current_release:
-  tag: v1.124.0
-  published_at: '2026-06-30'
+  tag: v1.125.0
+  published_at: '2026-07-10'
 commit_history:
   2025-08: 166
   2025-09: 208
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 161
   2026-05: 179
   2026-06: 202
-  2026-07: 68
+  2026-07: 79

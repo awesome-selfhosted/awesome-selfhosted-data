@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Personal Dashboards
-stargazers_count: 16
-updated_at: '2026-07-08'
+stargazers_count: 17
+updated_at: '2026-07-11'
 archived: false
 current_release:
-  tag: v1.8.21
-  published_at: '2026-07-08'
+  tag: v1.8.22
+  published_at: '2026-07-11'
 commit_history:
   2025-08: 17
   2025-09: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 49
   2026-05: 4
   2026-06: 2
-  2026-07: 11
+  2026-07: 13

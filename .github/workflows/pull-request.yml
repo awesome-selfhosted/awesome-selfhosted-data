@@ -4,6 +4,10 @@ on:
   pull_request:
     branches: [ master ]
 
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+  GITLAB_TOKEN: ${{secrets.GITLAB_TOKEN}}
+
 concurrency:
   group: pull-request-${{ github.ref }}
   cancel-in-progress: true
@@ -11,8 +15,14 @@ concurrency:
 jobs:
   syntax-checks:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITLAB_AUTH_TOKEN: ${{ secrets.GITLAB_TOKEN }}
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        with:
+          fetch-depth: 0
       - run: make install
       - run: make awesome_lint
+      - run: make scorecard SCORECARD_BASE=${{ github.event.pull_request.base.sha }}
       - run: make export_markdown

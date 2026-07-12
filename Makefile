@@ -3,6 +3,19 @@ SHELL := /bin/bash
 MARKDOWN_REPOSITORY = awesome-selfhosted/awesome-selfhosted
 HTML_REPOSITORY = awesome-selfhosted/awesome-selfhosted-html
 
+# OpenSSF Scorecard gate (see tools/scorecard-check.sh). Pinned binary + sha256.
+SCORECARD_VERSION ?= 5.5.0
+SCORECARD_SHA256 ?= 83b90a05c1540ef1390db1cd5711e5fd04be9c1d8537fb84d39d02092d6a8dff
+SCORECARD_BIN = ./bin/scorecard
+# Minimum aggregate score (0-10) a submitted GitHub/GitLab repository must reach.
+SCORECARD_THRESHOLD ?= 5.0
+# Base ref to diff added/modified software/*.yml against (the PR target branch).
+SCORECARD_BASE ?= origin/master
+# Set to a non-empty value to also fail when a repo cannot be evaluated (default: skip).
+SCORECARD_STRICT ?=
+# Set to check a single repo (host/owner/name) instead of the PR diff.
+SCORECARD_REPO ?=
+
 .PHONY: install # install build tools in a virtualenv
 install:
 	python3 -m venv .venv
@@ -33,6 +46,32 @@ awesome_lint:
 awesome_lint_strict:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint-strict.yml
+
+.PHONY: install_scorecard # download the pinned OpenSSF Scorecard binary to ./bin/
+install_scorecard:
+	@if [ -x "$(SCORECARD_BIN)" ] && "$(SCORECARD_BIN)" version 2>/dev/null | grep -q "$(SCORECARD_VERSION)"; then \
+		echo "scorecard $(SCORECARD_VERSION) already installed at $(SCORECARD_BIN)"; \
+	else \
+		mkdir -p bin; \
+		tmp=$$(mktemp -d); \
+		echo "downloading scorecard $(SCORECARD_VERSION)..."; \
+		curl -fsSL -o "$$tmp/scorecard.tar.gz" "https://github.com/ossf/scorecard/releases/download/v$(SCORECARD_VERSION)/scorecard_$(SCORECARD_VERSION)_linux_amd64.tar.gz"; \
+		echo "$(SCORECARD_SHA256)  $$tmp/scorecard.tar.gz" | sha256sum -c -; \
+		tar -xzf "$$tmp/scorecard.tar.gz" -C "$$tmp" scorecard; \
+		mv "$$tmp/scorecard" "$(SCORECARD_BIN)"; \
+		chmod +x "$(SCORECARD_BIN)"; \
+		rm -rf "$$tmp"; \
+		echo "installed $(SCORECARD_BIN) ($(SCORECARD_VERSION))"; \
+	fi
+
+.PHONY: scorecard # check submitted software repositories against OpenSSF Scorecard
+scorecard: install_scorecard
+	SCORECARD_BIN='$(SCORECARD_BIN)' \
+	SCORECARD_THRESHOLD='$(SCORECARD_THRESHOLD)' \
+	SCORECARD_BASE='$(SCORECARD_BASE)' \
+	SCORECARD_STRICT='$(SCORECARD_STRICT)' \
+	SCORECARD_REPO='$(SCORECARD_REPO)' \
+	bash tools/scorecard-check.sh
 
 .PHONY: export_markdown # render markdown export from YAML data (https://github.com/awesome-selfhosted/awesome-selfhosted)
 export_markdown:

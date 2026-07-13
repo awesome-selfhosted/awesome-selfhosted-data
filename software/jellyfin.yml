@@ -12,8 +12,8 @@ tags:
 source_code_url: https://github.com/jellyfin/jellyfin
 demo_url: https://demo.jellyfin.org/stable
 related_software_url: https://github.com/awesome-jellyfin/awesome-jellyfin
-stargazers_count: 54212
-updated_at: '2026-07-07'
+stargazers_count: 54236
+updated_at: '2026-07-12'
 archived: false
 current_release:
   tag: v12.0-rc2
@@ -30,4 +30,4 @@ commit_history:
   2026-04: 159
   2026-05: 342
   2026-06: 206
-  2026-07: 29
+  2026-07: 36

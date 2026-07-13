@@ -10,8 +10,8 @@ platforms:
   - deb
 tags:
   - Manufacturing
-stargazers_count: 2357
-updated_at: '2026-07-11'
+stargazers_count: 2359
+updated_at: '2026-07-12'
 archived: false
 current_release:
   tag: v2.9.10
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2026-05: 290
   2026-06: 227
-  2026-07: 20
+  2026-07: 25

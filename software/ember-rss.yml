@@ -1,0 +1,12 @@
+name: Ember RSS
+website_url: https://ember-rss.com
+source_code_url: https://github.com/brandonhon/ember
+description: Self-hosted RSS reader with on-device AI summaries. Single Go binary, embedded Svelte SPA, runs behind Caddy.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Feed Readers
+demo_url: https://ember-rss.com/demo

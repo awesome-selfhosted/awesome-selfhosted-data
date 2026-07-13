@@ -1,0 +1,11 @@
+name: TriggerEngage
+website_url: https://triggerengage.com/
+description: Event-based email, SMS and push messaging automation with a visual journey builder, behavioral segments, A/B testing and analytics, as an alternative to Customer.io.
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters
+source_code_url: https://github.com/Trigger-engage/server

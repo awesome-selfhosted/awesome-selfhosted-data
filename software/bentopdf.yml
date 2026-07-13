@@ -1,0 +1,25 @@
+name: BentoPDF
+source_code_url: https://github.com/alam00000/bentopdf
+website_url: https://bentopdf.com
+description: Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Document Management
+demo_url: https://bentopdf.com
+depends_3rdparty: true
+stargazers_count: 14024
+updated_at: '2026-07-10'
+archived: false
+current_release:
+  tag: v2.8.6
+  published_at: '2026-06-28'
+commit_history:
+  2026-03: 181
+  2026-04: 102
+  2026-05: 52
+  2026-06: 18
+  2026-07: 3

@@ -9,15 +9,13 @@ platforms:
 tags:
   - Time Tracking
 source_code_url: https://github.com/muety/wakapi
-stargazers_count: 4294
-updated_at: '2026-05-02'
+stargazers_count: 4366
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: 2.17.3
-  published_at: '2026-04-03'
+  tag: 2.17.4
+  published_at: '2026-05-26'
 commit_history:
-  2025-06: 17
-  2025-07: 5
   2025-08: 18
   2025-09: 27
   2025-10: 29
@@ -27,4 +25,6 @@ commit_history:
   2026-02: 42
   2026-03: 15
   2026-04: 25
-  2026-05: 2
+  2026-05: 15
+  2026-06: 12
+  2026-07: 1

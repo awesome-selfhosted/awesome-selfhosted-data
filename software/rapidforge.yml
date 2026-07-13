@@ -9,13 +9,18 @@ platforms:
   - Nodejs
 tags:
   - Software Development - IDE & Tools
-stargazers_count: 36
-updated_at: '2026-05-02'
+stargazers_count: 41
+updated_at: '2026-07-02'
 archived: false
 commit_history:
   2025-12: 4
   2026-01: 8
   2026-02: 13
   2026-03: 17
-  2026-04: 24
-  2026-05: 1
+  2026-04: 25
+  2026-05: 6
+  2026-06: 7
+  2026-07: 1
+current_release:
+  tag: v0.15.0
+  published_at: '2026-07-02'

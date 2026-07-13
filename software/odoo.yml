@@ -11,12 +11,10 @@ tags:
   - Resource Planning
 source_code_url: https://github.com/odoo/odoo
 demo_url: https://demo.odoo.com/
-stargazers_count: 50430
-updated_at: '2026-05-02'
+stargazers_count: 52966
+updated_at: '2026-07-11'
 archived: false
 commit_history:
-  2025-06: 1409
-  2025-07: 1478
   2025-08: 1348
   2025-09: 1657
   2025-10: 999
@@ -26,4 +24,6 @@ commit_history:
   2026-02: 686
   2026-03: 742
   2026-04: 677
-  2026-05: 11
+  2026-05: 553
+  2026-06: 594
+  2026-07: 236

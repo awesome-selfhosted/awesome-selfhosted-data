@@ -9,15 +9,13 @@ platforms:
 tags:
   - Resource Planning
 source_code_url: https://github.com/ledgersmb/LedgerSMB
-stargazers_count: 532
-updated_at: '2026-05-02'
+stargazers_count: 553
+updated_at: '2026-07-11'
 archived: false
 current_release:
-  tag: 1.13.5
-  published_at: '2026-04-27'
+  tag: 1.13.7
+  published_at: '2026-07-06'
 commit_history:
-  2025-06: 69
-  2025-07: 45
   2025-08: 93
   2025-09: 36
   2025-10: 42
@@ -27,4 +25,6 @@ commit_history:
   2026-02: 79
   2026-03: 168
   2026-04: 47
-  2026-05: 15
+  2026-05: 125
+  2026-06: 50
+  2026-07: 12

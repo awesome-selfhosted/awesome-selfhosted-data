@@ -1,0 +1,22 @@
+name: SimpleDMS
+website_url: https://simpledms.eu
+source_code_url: https://github.com/simpledms/simpledms
+description: Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management
+related_software_url: https://simpledms.eu/en/product/integrations
+stargazers_count: 153
+updated_at: '2026-06-22'
+archived: false
+current_release:
+  tag: v1.13.2
+  published_at: '2026-06-21'
+commit_history:
+  2026-04: 45
+  2026-05: 22
+  2026-06: 29
+  2026-07: 0

@@ -15,4 +15,4 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] Any software project you are adding to the list is actively maintained.
 - [ ] Any software project you are adding was first released more than 4 months ago.
 - [ ] Any software project you are adding has working installation instructions.
-- [ ] You understand that your Pull Request will be merged ~1 week after approval, to allow for further comments if needed.
+- [ ] You understand that your Pull Request will be merged at least ~1 week after approval, depending on maintainers time.

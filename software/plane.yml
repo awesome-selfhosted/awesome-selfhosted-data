@@ -9,15 +9,13 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
-stargazers_count: 48659
-updated_at: '2026-04-29'
+stargazers_count: 54349
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: v1.3.0
-  published_at: '2026-04-06'
+  tag: v1.3.1
+  published_at: '2026-05-14'
 commit_history:
-  2025-06: 100
-  2025-07: 174
   2025-08: 95
   2025-09: 145
   2025-10: 127
@@ -27,4 +25,6 @@ commit_history:
   2026-02: 54
   2026-03: 65
   2026-04: 27
-  2026-05: 0
+  2026-05: 25
+  2026-06: 35
+  2026-07: 13

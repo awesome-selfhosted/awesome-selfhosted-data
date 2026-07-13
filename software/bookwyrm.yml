@@ -8,15 +8,13 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/bookwyrm-social/bookwyrm
-stargazers_count: 2694
-updated_at: '2026-04-25'
+stargazers_count: 2741
+updated_at: '2026-07-11'
 archived: false
 current_release:
-  tag: v0.8.5
-  published_at: '2026-02-21'
+  tag: v0.9.0
+  published_at: '2026-06-23'
 commit_history:
-  2025-06: 107
-  2025-07: 33
   2025-08: 74
   2025-09: 89
   2025-10: 22
@@ -24,6 +22,8 @@ commit_history:
   2025-12: 44
   2026-01: 125
   2026-02: 222
-  2026-03: 32
-  2026-04: 16
-  2026-05: 0
+  2026-03: 43
+  2026-04: 40
+  2026-05: 154
+  2026-06: 200
+  2026-07: 42

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/getlago/lago
-stargazers_count: 9608
-updated_at: '2026-04-27'
+stargazers_count: 10201
+updated_at: '2026-07-10'
 archived: false
 current_release:
-  tag: v1.45.1
-  published_at: '2026-04-07'
+  tag: v1.50.0
+  published_at: '2026-07-07'
 commit_history:
-  2025-06: 11
-  2025-07: 5
   2025-08: 24
   2025-09: 23
   2025-10: 14
@@ -26,4 +24,6 @@ commit_history:
   2026-02: 16
   2026-03: 12
   2026-04: 17
-  2026-05: 0
+  2026-05: 12
+  2026-06: 9
+  2026-07: 5

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Password Managers
 source_code_url: https://github.com/nilsteampassnet/TeamPass
-stargazers_count: 1788
-updated_at: '2026-04-12'
+stargazers_count: 1796
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: 3.1.7.6
-  published_at: '2026-04-12'
+  tag: 3.2.0.8
+  published_at: '2026-07-09'
 commit_history:
-  2025-06: 38
-  2025-07: 55
   2025-08: 13
   2025-09: 53
   2025-10: 64
@@ -25,5 +23,7 @@ commit_history:
   2026-01: 331
   2026-02: 205
   2026-03: 213
-  2026-04: 105
-  2026-05: 0
+  2026-04: 149
+  2026-05: 204
+  2026-06: 221
+  2026-07: 43

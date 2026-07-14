@@ -10,4 +10,4 @@ platforms:
   - Python
 tags:
   - Miscellaneous
-depends_3rdparty: no
+depends_3rdparty: false

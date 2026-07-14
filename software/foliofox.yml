@@ -1,0 +1,11 @@
+name: "Foliofox"
+website_url: "https://www.foliofox.com"
+source_code_url: "https://github.com/unav4ila8le/foliofox"
+description: "Net worth and investment portfolio tracker with AI-powered financial advisor, scenario planning, multi-currency support, and broker import."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management

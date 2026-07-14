@@ -1,0 +1,13 @@
+name: NoteDiscovery
+website_url: https://www.notediscovery.com/
+source_code_url: https://github.com/gamosoft/NoteDiscovery
+description: Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Note-taking & Editors
+  - Knowledge Management Tools
+demo_url: https://gamosoft-notediscovery-demo.hf.space

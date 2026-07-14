@@ -1,0 +1,12 @@
+name: Chimely
+website_url: https://chimely.dev
+source_code_url: https://github.com/dodopayments/chimely
+description: Self-hostable in-app notification inbox infrastructure with one Rust binary plus Postgres and Redis, a small HTTP API, and a drop-in <Inbox /> React component.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://chimely.dev

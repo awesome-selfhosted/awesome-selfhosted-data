@@ -1,0 +1,12 @@
+name: wrtag
+website_url: https://github.com/sentriz/wrtag
+description: Fast automated music tagging and organisation based on MusicBrainz with CLI and HTTP interface.
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation
+  - Media Management
+source_code_url: https://github.com/sentriz/wrtag

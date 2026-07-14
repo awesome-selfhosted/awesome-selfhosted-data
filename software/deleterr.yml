@@ -8,12 +8,12 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/rfsbraz/deleterr
-stargazers_count: 320
-updated_at: '2026-06-15'
+stargazers_count: 324
+updated_at: '2026-07-12'
 archived: false
 current_release:
-  tag: v0.2.21
-  published_at: '2026-06-15'
+  tag: v0.2.23
+  published_at: '2026-07-12'
 commit_history:
   2026-01: 119
   2026-02: 32
@@ -21,3 +21,4 @@ commit_history:
   2026-04: 3
   2026-05: 5
   2026-06: 12
+  2026-07: 6

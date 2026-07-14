@@ -8,14 +8,13 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/easysoft/zentaopms
-stargazers_count: 1630
-updated_at: '2026-05-27'
+stargazers_count: 1646
+updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: zentaopms_21.7.1_20250529
   published_at: '2025-05-29'
 commit_history:
-  2025-07: 1174
   2025-08: 1416
   2025-09: 4117
   2025-10: 994
@@ -25,5 +24,6 @@ commit_history:
   2026-02: 361
   2026-03: 1132
   2026-04: 1052
-  2026-05: 453
-  2026-06: 0
+  2026-05: 619
+  2026-06: 687
+  2026-07: 195

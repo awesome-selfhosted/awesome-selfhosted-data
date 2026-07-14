@@ -9,14 +9,13 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/textpattern/textpattern
 demo_url: https://textpattern.co/demo
-stargazers_count: 874
-updated_at: '2026-06-22'
+stargazers_count: 877
+updated_at: '2026-07-11'
 archived: false
 current_release:
   tag: 4.9.1
   published_at: '2026-02-14'
 commit_history:
-  2025-07: 2
   2025-08: 31
   2025-09: 33
   2025-10: 31
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 32
   2026-04: 24
   2026-05: 22
-  2026-06: 8
+  2026-06: 9
+  2026-07: 2

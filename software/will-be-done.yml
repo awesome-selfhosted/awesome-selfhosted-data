@@ -1,0 +1,12 @@
+name: Will Be Done
+website_url: https://will-be-done.app/
+source_code_url: https://github.com/will-be-done/will-be-done
+description: Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+demo_url: https://demo.will-be-done.app/

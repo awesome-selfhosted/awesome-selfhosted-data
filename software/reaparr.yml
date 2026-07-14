@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-stargazers_count: 665
-updated_at: '2026-06-07'
+stargazers_count: 670
+updated_at: '2026-07-11'
 archived: false
 current_release:
-  tag: v0.38.0-dev.21
-  published_at: '2026-06-07'
+  tag: v0.38.1
+  published_at: '2026-07-11'
 commit_history:
-  2025-07: 81
   2025-08: 133
   2025-09: 128
   2025-10: 88
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 295
   2026-04: 315
   2026-05: 297
-  2026-06: 42
+  2026-06: 52
+  2026-07: 38

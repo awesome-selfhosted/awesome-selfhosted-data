@@ -9,14 +9,15 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://nimbus.turboot.com/
-stargazers_count: 110
-updated_at: '2026-06-06'
+stargazers_count: 117
+updated_at: '2026-06-28'
 archived: false
 current_release:
-  tag: v1.2.2
-  published_at: '2026-03-24'
+  tag: v1.2.3
+  published_at: '2026-06-28'
 commit_history:
   2026-03: 8
   2026-04: 0
   2026-05: 10
-  2026-06: 1
+  2026-06: 6
+  2026-07: 0

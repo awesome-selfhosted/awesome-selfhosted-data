@@ -10,14 +10,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 depends_3rdparty: true
-stargazers_count: 902
-updated_at: '2026-06-22'
+stargazers_count: 910
+updated_at: '2026-07-06'
 archived: false
 current_release:
-  tag: v2.0.0-rc.1
-  published_at: '2026-06-17'
+  tag: v2.0.0-rc.3
+  published_at: '2026-07-04'
 commit_history:
-  2025-07: 2
   2025-08: 12
   2025-09: 10
   2025-10: 9
@@ -28,4 +27,5 @@ commit_history:
   2026-03: 4
   2026-04: 19
   2026-05: 9
-  2026-06: 9
+  2026-06: 13
+  2026-07: 1

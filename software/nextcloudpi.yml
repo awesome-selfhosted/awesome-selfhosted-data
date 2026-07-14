@@ -9,14 +9,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/nextcloud/nextcloudpi
-stargazers_count: 2913
-updated_at: '2026-04-21'
+stargazers_count: 2920
+updated_at: '2026-06-29'
 archived: false
 current_release:
-  tag: v1.57.1
-  published_at: '2026-04-16'
+  tag: v1.58.0-rc1
+  published_at: '2026-06-28'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 18
   2025-10: 3
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 0
   2026-04: 23
   2026-05: 0
-  2026-06: 0
+  2026-06: 35
+  2026-07: 0

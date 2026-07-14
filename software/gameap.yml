@@ -11,14 +11,15 @@ tags:
 demo_url: https://demo.gameap.com/
 related_software_url: https://plugins.gameap.dev/
 source_code_url: https://github.com/gameap/gameap
-stargazers_count: 34
-updated_at: '2026-05-17'
+stargazers_count: 38
+updated_at: '2026-07-09'
 archived: false
 current_release:
-  tag: v4.3.0-rc.1
-  published_at: '2026-06-03'
+  tag: v4.3.0
+  published_at: '2026-07-11'
 commit_history:
   2026-03: 213
   2026-04: 61
   2026-05: 62
   2026-06: 0
+  2026-07: 8

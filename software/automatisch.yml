@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/automatisch/automatisch
-stargazers_count: 13884
+stargazers_count: 13886
 updated_at: '2026-01-15'
 archived: false
 current_release:
   tag: v0.15.0
   published_at: '2025-08-08'
 commit_history:
-  2025-07: 205
   2025-08: 95
   2025-09: 47
   2025-10: 17
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/Depado/goploader
-stargazers_count: 300
-updated_at: '2026-06-23'
+stargazers_count: 301
+updated_at: '2026-07-11'
 archived: false
 current_release:
   tag: v1.0.2
   published_at: '2026-03-12'
 commit_history:
-  2025-07: 9
   2025-08: 23
   2025-09: 17
   2025-10: 18
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 22
   2026-04: 17
   2026-05: 17
-  2026-06: 13
+  2026-06: 16
+  2026-07: 10

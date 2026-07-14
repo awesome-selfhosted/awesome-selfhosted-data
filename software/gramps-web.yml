@@ -9,14 +9,13 @@ tags:
   - Genealogy
 source_code_url: https://github.com/gramps-project/gramps-web-api
 demo_url: https://gramps-project.github.io/gramps-web-api/
-stargazers_count: 208
-updated_at: '2026-06-19'
+stargazers_count: 211
+updated_at: '2026-07-10'
 archived: false
 current_release:
   tag: v3.17.0
   published_at: '2026-06-19'
 commit_history:
-  2025-07: 2
   2025-08: 8
   2025-09: 1
   2025-10: 21
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 12
   2026-04: 48
   2026-05: 32
-  2026-06: 15
+  2026-06: 17
+  2026-07: 1

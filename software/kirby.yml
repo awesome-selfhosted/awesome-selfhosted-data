@@ -8,14 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/getkirby/kirby
-stargazers_count: 1516
-updated_at: '2026-06-17'
+stargazers_count: 1517
+updated_at: '2026-07-07'
 archived: false
 current_release:
-  tag: 5.4.4
-  published_at: '2026-06-17'
+  tag: 6.0.0-alpha.3
+  published_at: '2026-07-07'
 commit_history:
-  2025-07: 121
   2025-08: 59
   2025-09: 35
   2025-10: 37
@@ -25,5 +24,6 @@ commit_history:
   2026-02: 38
   2026-03: 22
   2026-04: 129
-  2026-05: 88
-  2026-06: 48
+  2026-05: 141
+  2026-06: 127
+  2026-07: 25

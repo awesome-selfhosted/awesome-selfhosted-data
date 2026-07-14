@@ -9,14 +9,13 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/clearflask/clearflask
 demo_url: https://product.clearflask.com
-stargazers_count: 441
-updated_at: '2026-06-23'
+stargazers_count: 443
+updated_at: '2026-07-08'
 archived: false
 current_release:
-  tag: 2.3.1
-  published_at: '2026-06-16'
+  tag: 2.4.0
+  published_at: '2026-06-29'
 commit_history:
-  2025-07: 6
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 0
   2026-04: 16
   2026-05: 13
-  2026-06: 20
+  2026-06: 48
+  2026-07: 61

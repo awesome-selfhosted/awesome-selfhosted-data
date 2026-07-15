@@ -10,8 +10,8 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/marcopiovanello/yt-dlp-web-ui
-stargazers_count: 2510
-updated_at: '2026-06-29'
+stargazers_count: 2512
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v4.0.0
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 0
   2026-05: 2
   2026-06: 1
-  2026-07: 0
+  2026-07: 1

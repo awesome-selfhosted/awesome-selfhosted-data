@@ -8,8 +8,8 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/Kinto/kinto
-stargazers_count: 4417
-updated_at: '2026-07-10'
+stargazers_count: 4419
+updated_at: '2026-07-13'
 archived: false
 current_release:
   tag: 26.3.2
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 11
   2026-05: 15
   2026-06: 16
-  2026-07: 6
+  2026-07: 7

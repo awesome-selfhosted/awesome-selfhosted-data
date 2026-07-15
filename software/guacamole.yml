@@ -9,8 +9,8 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/apache/guacamole-server
-stargazers_count: 3902
-updated_at: '2026-07-09'
+stargazers_count: 3909
+updated_at: '2026-07-13'
 archived: false
 commit_history:
   2025-08: 12
@@ -24,4 +24,4 @@ commit_history:
   2026-04: 26
   2026-05: 25
   2026-06: 5
-  2026-07: 5
+  2026-07: 20

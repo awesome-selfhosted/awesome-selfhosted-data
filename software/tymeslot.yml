@@ -1,0 +1,12 @@
+name: Tymeslot
+website_url: https://tymeslot.app
+source_code_url: https://github.com/Tymeslot/tymeslot
+description: Share booking pages so others can schedule meetings, with a built-in calendar and two-way sync (alternative to Calendly and Cal.com).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Elixir
+  - Docker
+tags:
+  - Booking and Scheduling
+depends_3rdparty: false

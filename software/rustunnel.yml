@@ -1,0 +1,11 @@
+name: rustunnel
+website_url: https://rustunnel.com
+source_code_url: https://github.com/joaoh82/rustunnel
+description: Self-hosted secure tunnel server. Expose local HTTP/HTTPS/TCP/UDP services via TLS-encrypted WebSocket; multi-region and MCP server for AI agents.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Proxy

@@ -1,0 +1,12 @@
+name: Editkub
+website_url: https://editkub.vercel.app
+description: Privacy-first, open-source video editor that runs in the browser. CapCut alternative with no uploads, no account, no watermark.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Management
+source_code_url: https://github.com/9teeedev/editkub
+demo_url: https://editkub.vercel.app

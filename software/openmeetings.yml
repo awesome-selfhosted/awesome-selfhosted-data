@@ -8,12 +8,12 @@ platforms:
 tags:
   - Groupware
 source_code_url: https://github.com/apache/openmeetings
-stargazers_count: 683
-updated_at: '2026-07-08'
+stargazers_count: 684
+updated_at: '2026-07-13'
 archived: false
 current_release:
-  tag: 8.1.0
-  published_at: '2025-10-05'
+  tag: 9.1.0
+  published_at: '2026-07-14'
 commit_history:
   2025-08: 7
   2025-09: 8
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 15
   2026-05: 16
   2026-06: 25
-  2026-07: 5
+  2026-07: 8

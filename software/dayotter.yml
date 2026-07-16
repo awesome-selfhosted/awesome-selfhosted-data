@@ -1,0 +1,10 @@
+name: DayOtter
+website_url: https://dayotter.com
+source_code_url: https://github.com/Dayotter/dayotter
+description: AI-native appointment scheduling platform with booking pages, team round-robin, calendar sync, reminders, and payments; the built-in assistant is confirm-first and optional.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Booking and Scheduling

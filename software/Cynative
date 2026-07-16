@@ -1,0 +1,10 @@
+name: "Cynative"
+website_url: "https://github.com/cynative/cynative"
+source_code_url: "https://github.com/cynative/cynative"
+description: "Deep security research for AWS, GCP, Azure, K8s, GitHub and GitLab. Read-only by construction."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Automation

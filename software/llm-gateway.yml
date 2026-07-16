@@ -1,0 +1,13 @@
+name: LLM Gateway
+website_url: https://github.com/sabahattink/llm-gateway
+source_code_url: https://github.com/sabahattink/llm-gateway
+description: OpenAI-compatible gateway for routing requests across cloud and local LLM providers, with unified streaming, encrypted credentials, usage analytics, and an admin dashboard.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - API Management
+  - Analytics

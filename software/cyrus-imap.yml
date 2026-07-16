@@ -9,11 +9,11 @@ tags:
   - Communication - Email - Mail Delivery Agents
 source_code_url: https://github.com/cyrusimap/cyrus-imapd
 stargazers_count: 636
-updated_at: '2026-07-10'
+updated_at: '2026-07-15'
 archived: false
 current_release:
-  tag: cyrus-imapd-3.12.2
-  published_at: '2026-03-29'
+  tag: cyrus-imapd-3.8.7
+  published_at: '2026-07-15'
 commit_history:
   2025-08: 184
   2025-09: 90
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 134
   2026-05: 141
   2026-06: 265
-  2026-07: 71
+  2026-07: 84

@@ -4,6 +4,7 @@ description: Backend server with a Postgres database, authentication, storage, e
 licenses:
   - Apache-2.0
 platforms:
+  - Nodejs
   - Docker
 tags:
   - Software Development - Low Code

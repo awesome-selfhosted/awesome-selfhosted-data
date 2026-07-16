@@ -1,0 +1,12 @@
+name: HomeButler
+website_url: https://homebutler.dev
+description: Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - Automation
+  - Remote Access
+source_code_url: https://github.com/Higangssh/homebutler

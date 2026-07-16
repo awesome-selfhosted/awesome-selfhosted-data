@@ -5,7 +5,6 @@ description: Folder-watching converter for e-books and comics. EPUB to Kobo KEPU
 licenses:
   - MIT
 platforms:
-  - Python
   - Docker
 tags:
   - Document Management - E-books

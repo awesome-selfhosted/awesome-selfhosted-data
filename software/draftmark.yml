@@ -1,0 +1,12 @@
+name: "Draftmark"
+website_url: "https://draftmark.app"
+source_code_url: "https://github.com/draftmark-app/draftmark"
+description: "Share markdown documents via a link and collect comments, reactions, and reviews from humans or AI agents, with a REST API to feed responses back into automated workflows (alternative to GitHub Gist, HackMD)."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Pastebins
+  - Knowledge Management Tools

@@ -1,0 +1,13 @@
+name: GEOCheck
+website_url: https://biuta666.github.io/geocheck/
+description: AI Search Visibility Intelligence Platform. Monitor brand visibility across ChatGPT, DeepSeek, Gemini, Claude, Kimi, Perplexity and other AI engines. Supports local deployment, BYOK, and cloud AI.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Monitoring
+source_code_url: https://github.com/biuta666/geocheck
+stargazers_count: 1
+updated_at: '2026-07-16'

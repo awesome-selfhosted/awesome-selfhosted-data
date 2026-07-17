@@ -1,0 +1,12 @@
+name: Spwig
+website_url: https://spwig.com/
+source_code_url: https://github.com/Spwig/commerce
+description: E-commerce platform built on Django. Full ownership of code, data, and customers with one-line Docker install on any VPS with 2GB RAM.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - E-commerce
+depends_3rdparty: false

@@ -1,6 +1,6 @@
 name: InsForge
 website_url: https://insforge.dev
-description: Backend server with a Postgres database, authentication, storage, edge functions, realtime, vector search, payments, and a model gateway, built for AI coding agents to operate end to end.
+description: Open-source, agent-native cloud platform with a Postgres database, authentication, storage, edge functions, realtime, vector search, payments, and a model gateway, operated end to end by AI coding agents.
 licenses:
   - Apache-2.0
 platforms:

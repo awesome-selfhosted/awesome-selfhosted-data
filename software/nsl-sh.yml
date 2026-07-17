@@ -1,0 +1,11 @@
+name: NSL.SH
+website_url: https://nsl.sh
+source_code_url: https://github.com/Yundera/mesh-router-root
+description: Distributed domain routing for self-hosted services with automatic HTTPS, working behind NAT (alternative to Cloudflare Tunnel, ngrok).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Self-hosting Solutions
+depends_3rdparty: true

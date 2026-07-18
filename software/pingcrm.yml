@@ -1,0 +1,13 @@
+name: PingCRM
+website_url: https://pingcrm.xyz/
+description: Personal networking CRM that syncs contacts and conversations from email and messaging accounts, then suggests AI-generated follow-ups to maintain professional relationships.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+source_code_url: https://github.com/sneg55/pingcrm
+depends_3rdparty: true

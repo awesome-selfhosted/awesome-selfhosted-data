@@ -1,0 +1,11 @@
+name: Surmai
+website_url: https://surmai.app/
+source_code_url: https://github.com/rohitkumbhar/surmai
+description: Collaborative personal and family travel organizer.
+licenses:
+  - MIT
+tags:
+  - Travel Organization
+demo_url: "https://demo.surmai.app"
+platforms:
+  - Docker

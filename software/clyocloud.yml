@@ -1,0 +1,11 @@
+name: "ClyoCloud"
+website_url: "https://code.weexnes.dev/ClyoCloud"
+source_code_url: "https://code.weexnes.dev/ClyoCloud"
+description: "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - File Transfer - Web-based File Managers
+  - Media Streaming - Video Streaming

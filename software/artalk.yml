@@ -9,14 +9,13 @@ platforms:
   - Docker
 tags:
   - Communication - Social Networks and Forums
-stargazers_count: 2278
-updated_at: '2026-06-14'
+stargazers_count: 2290
+updated_at: '2026-06-24'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-06-15'
+  published_at: '2026-06-25'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 0
   2026-04: 2
   2026-05: 2
-  2026-06: 4
+  2026-06: 5
+  2026-07: 0

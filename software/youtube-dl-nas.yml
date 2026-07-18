@@ -1,0 +1,22 @@
+name: youtube-dl-nas
+website_url: https://hyeonsangjeon.github.io/youtube-dl-nas/
+description: Authenticated yt-dlp download queue for video, audio and subtitles, with history, mobile sharing and NAS file management (fork of youtube-dl-server).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management
+source_code_url: https://github.com/hyeonsangjeon/youtube-dl-nas
+depends_3rdparty: true
+stargazers_count: 168
+updated_at: '2026-07-17'
+archived: false
+current_release:
+  tag: '26.0714'
+  published_at: '2026-07-14'
+commit_history:
+  2026-05: 0
+  2026-06: 1
+  2026-07: 22

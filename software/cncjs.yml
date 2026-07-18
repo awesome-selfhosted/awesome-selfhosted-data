@@ -8,14 +8,13 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/cncjs/cncjs/
-stargazers_count: 2614
-updated_at: '2026-05-15'
+stargazers_count: 2624
+updated_at: '2026-07-01'
 archived: false
 current_release:
-  tag: v1.11.1
-  published_at: '2026-04-30'
+  tag: v1.11.2
+  published_at: '2026-06-30'
 commit_history:
-  2025-07: 0
   2025-08: 2
   2025-09: 0
   2025-10: 0
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 8
   2026-04: 5
   2026-05: 1
-  2026-06: 0
+  2026-06: 3
+  2026-07: 1

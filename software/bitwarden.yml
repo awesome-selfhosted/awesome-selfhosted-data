@@ -10,8 +10,8 @@ tags:
   - Password Managers
 source_code_url: https://github.com/bitwarden/server
 depends_3rdparty: true
-stargazers_count: 19445
-updated_at: '2026-07-16'
+stargazers_count: 19455
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: v2026.6.2
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 170
   2026-05: 150
   2026-06: 121
-  2026-07: 91
+  2026-07: 95

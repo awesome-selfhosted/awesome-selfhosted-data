@@ -1,0 +1,11 @@
+name: Crawlee Cloud
+website_url: https://crawlee.cloud
+source_code_url: https://github.com/crawlee-cloud/crawlee-cloud
+description: Run web-scraping actors on your own infrastructure through an Apify-SDK-compatible API, with a monitoring dashboard, container-based execution, scheduling, webhooks and per-run cost reporting. (alternative to Apify)
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Automation

@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Video Surveillance
-stargazers_count: 4636
-updated_at: '2026-06-20'
+stargazers_count: 4638
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: 0.44.0
@@ -22,6 +22,6 @@ commit_history:
   2026-02: 0
   2026-03: 0
   2026-04: 7
-  2026-05: 25
-  2026-06: 36
-  2026-07: 0
+  2026-05: 24
+  2026-06: 45
+  2026-07: 2

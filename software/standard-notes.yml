@@ -9,12 +9,12 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.com/
-stargazers_count: 6547
-updated_at: '2026-07-17'
+stargazers_count: 6552
+updated_at: '2026-07-18'
 archived: false
 current_release:
-  tag: '@standardnotes/mobile@3.201.32'
-  published_at: '2026-07-06'
+  tag: '@standardnotes/mobile@3.201.34'
+  published_at: '2026-07-18'
 commit_history:
   2025-08: 21
   2025-09: 25
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 34
   2026-05: 11
   2026-06: 13
-  2026-07: 5
+  2026-07: 13

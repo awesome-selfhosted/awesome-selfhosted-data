@@ -10,12 +10,12 @@ tags:
   - Ticketing
 source_code_url: https://github.com/freescout-help-desk/freescout
 demo_url: https://demo.freescout.net/login
-stargazers_count: 4422
-updated_at: '2026-07-04'
+stargazers_count: 4423
+updated_at: '2026-07-18'
 archived: false
 current_release:
-  tag: 1.8.229
-  published_at: '2026-07-04'
+  tag: 1.8.230
+  published_at: '2026-07-18'
 commit_history:
   2025-08: 19
   2025-09: 1
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 109
   2026-05: 42
   2026-06: 41
-  2026-07: 21
+  2026-07: 34

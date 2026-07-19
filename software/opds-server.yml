@@ -5,6 +5,7 @@ description: "Minimal OPDS 1.2 server for browsing a Calibre database."
 licenses:
   - MIT
 platforms:
+  - Docker
   - Python
 tags:
   - Document Management - E-books

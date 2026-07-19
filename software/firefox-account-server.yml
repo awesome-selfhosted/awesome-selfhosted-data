@@ -9,8 +9,8 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/mozilla/fxa
-stargazers_count: 681
-updated_at: '2026-07-08'
+stargazers_count: 683
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: v1.340.1
@@ -26,5 +26,5 @@ commit_history:
   2026-03: 308
   2026-04: 329
   2026-05: 262
-  2026-06: 242
-  2026-07: 84
+  2026-06: 244
+  2026-07: 183

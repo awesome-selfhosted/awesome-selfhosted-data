@@ -1,0 +1,22 @@
+name: LinuxCNC
+website_url: https://www.linuxcnc.org/
+source_code_url: https://github.com/LinuxCNC/linuxcnc
+description: Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
+licenses:
+  - GPL-2.0
+  - LGPL-3.0
+platforms:
+  - C
+  - deb
+tags:
+  - Manufacturing
+stargazers_count: 2369
+updated_at: '2026-07-18'
+archived: false
+current_release:
+  tag: v2.9.10
+  published_at: '2026-07-03'
+commit_history:
+  2026-05: 290
+  2026-06: 227
+  2026-07: 46

@@ -8,9 +8,9 @@ platforms:
   - Python
 tags:
   - Database Management
-source_code_url: https://github.com/mindsdb/minds
-stargazers_count: 39381
-updated_at: '2026-06-27'
+source_code_url: https://github.com/mindsdb/mindshub
+stargazers_count: 39454
+updated_at: '2026-07-10'
 archived: false
 current_release:
   tag: v26.1.0
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 106
   2026-05: 4
   2026-06: 18
-  2026-07: 0
+  2026-07: 2

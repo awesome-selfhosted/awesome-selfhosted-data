@@ -12,11 +12,11 @@ tags:
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/
 stargazers_count: 2916
-updated_at: '2026-07-17'
+updated_at: '2026-07-19'
 archived: false
 current_release:
-  tag: 14.4.0
-  published_at: '2026-07-04'
+  tag: 14.5.0
+  published_at: '2026-07-19'
 commit_history:
   2025-08: 10
   2025-09: 169
@@ -29,4 +29,4 @@ commit_history:
   2026-04: 72
   2026-05: 51
   2026-06: 165
-  2026-07: 115
+  2026-07: 126

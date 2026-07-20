@@ -10,12 +10,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://ezbookkeeping-demo.mayswind.net/
-stargazers_count: 5238
-updated_at: '2026-07-13'
+stargazers_count: 5242
+updated_at: '2026-07-19'
 archived: false
 current_release:
-  tag: v1.5.1
-  published_at: '2026-05-31'
+  tag: v1.6.0
+  published_at: '2026-07-19'
 commit_history:
   2025-08: 82
   2025-09: 104
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 67
   2026-05: 32
   2026-06: 45
-  2026-07: 37
+  2026-07: 45

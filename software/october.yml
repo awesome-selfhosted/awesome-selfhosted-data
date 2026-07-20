@@ -8,12 +8,12 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/octobercms/october
-stargazers_count: 11145
-updated_at: '2026-07-17'
+stargazers_count: 11144
+updated_at: '2026-07-19'
 archived: false
 current_release:
-  tag: v4.2.0
-  published_at: '2026-03-30'
+  tag: v4.3.0
+  published_at: '2026-07-19'
 commit_history:
   2025-08: 9
   2025-09: 15
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 19
   2026-05: 12
   2026-06: 83
-  2026-07: 9
+  2026-07: 10

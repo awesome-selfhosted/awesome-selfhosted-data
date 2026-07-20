@@ -1,0 +1,11 @@
+name: Marmot
+website_url: https://marmotdata.io
+description: Data catalog for discovering and organizing data assets across your stack, including databases, APIs, message queues, and pipelines.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Knowledge Management Tools
+source_code_url: https://github.com/marmotdata/marmot
+demo_url: https://demo.marmotdata.io

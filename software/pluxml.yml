@@ -8,14 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/pluxml/PluXml
-stargazers_count: 233
+stargazers_count: 234
 updated_at: '2025-11-21'
 archived: false
 current_release:
   tag: v5.8.22-urlredirection
   published_at: '2026-04-21'
 commit_history:
-  2025-07: 5
   2025-08: 8
   2025-09: 0
   2025-10: 4
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

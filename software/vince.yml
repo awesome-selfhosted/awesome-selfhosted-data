@@ -11,14 +11,13 @@ platforms:
   - deb
 tags:
   - Analytics
-stargazers_count: 2014
+stargazers_count: 2012
 updated_at: '2025-09-01'
 archived: false
 current_release:
   tag: v1.11.8
   published_at: '2025-09-01'
 commit_history:
-  2025-07: 0
   2025-08: 4
   2025-09: 2
   2025-10: 0
@@ -30,3 +29,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

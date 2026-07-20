@@ -13,14 +13,13 @@ tags:
   - Note-taking & Editors
   - Photo Galleries
 related_software_url: https://github.com/bewcloud
-stargazers_count: 1200
-updated_at: '2026-06-16'
+stargazers_count: 1206
+updated_at: '2026-07-03'
 archived: false
 current_release:
-  tag: v4.8.0
-  published_at: '2026-06-16'
+  tag: v4.12.0
+  published_at: '2026-07-03'
 commit_history:
-  2025-07: 3
   2025-08: 9
   2025-09: 7
   2025-10: 7
@@ -31,4 +30,5 @@ commit_history:
   2026-03: 4
   2026-04: 8
   2026-05: 3
-  2026-06: 4
+  2026-06: 10
+  2026-07: 3

@@ -1,0 +1,21 @@
+name: Tiramisu
+website_url: https://github.com/MrRobotoGit/tiramisu
+source_code_url: https://github.com/MrRobotoGit/tiramisu
+description: BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid).
+licenses:
+  - GPL-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+stargazers_count: 152
+updated_at: '2026-07-19'
+archived: false
+current_release:
+  tag: v1.9.18
+  published_at: '2026-07-19'
+commit_history:
+  2026-05: 0
+  2026-06: 15
+  2026-07: 66

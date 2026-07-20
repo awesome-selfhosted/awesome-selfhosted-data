@@ -1,0 +1,24 @@
+name: snowshare
+website_url: https://github.com/TuroYT/snowshare
+source_code_url: https://github.com/TuroYT/snowshare
+demo_url: https://s.romain-pinsolle.fr
+description: File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes.
+licenses:
+  - CC0-1.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+  - Pastebins
+  - URL Shorteners
+stargazers_count: 78
+updated_at: '2026-07-02'
+archived: false
+current_release:
+  tag: v1.5.2
+  published_at: '2026-06-24'
+commit_history:
+  2026-05: 121
+  2026-06: 65
+  2026-07: 4

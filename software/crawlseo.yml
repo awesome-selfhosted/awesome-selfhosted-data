@@ -1,0 +1,11 @@
+name: CrawlSEO
+website_url: https://github.com/crawlseo/crawlseo
+source_code_url: https://github.com/crawlseo/crawlseo
+description: SEO monitoring dashboard with Google Search Console analytics, site crawler, Core Web Vitals tracking, and MCP server for AI agents.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Analytics

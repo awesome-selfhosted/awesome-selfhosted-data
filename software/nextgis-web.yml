@@ -5,7 +5,6 @@ licenses:
   - GPL-3.0
 platforms:
   - Docker
-  - Python
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/nextgis/nextgisweb

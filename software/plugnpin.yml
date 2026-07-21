@@ -1,4 +1,4 @@
-name: plugnpin
+name: PlugNPiN
 website_url: "https://deepspace2.github.io/PlugNPiN"
 source_code_url: "https://github.com/deepspace2/plugnpin"
 description: "Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager."

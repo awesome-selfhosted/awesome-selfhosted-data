@@ -1,9 +1,9 @@
 name: "ClyoCloud"
-website_url: "https://code.weexnes.dev/ClyoCloud"
+website_url: "https://clyo.cloud/"
 source_code_url: "https://code.weexnes.dev/ClyoCloud"
 description: "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics."
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
 tags:

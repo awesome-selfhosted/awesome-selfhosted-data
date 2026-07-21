@@ -1,0 +1,10 @@
+name: freehire
+website_url: https://freehire.dev/
+source_code_url: https://github.com/strelov1/freehire
+description: Search engine that aggregates and deduplicates tech job postings from many company ATS boards, served over a free public API.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Human Resources Management (HRM)

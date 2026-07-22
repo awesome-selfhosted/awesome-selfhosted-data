@@ -1,7 +1,7 @@
 name: wellnizz
 website_url: https://github.com/liveforeverbetter/wellnizz
 source_code_url: https://github.com/liveforeverbetter/wellnizz
-description: Agent-native health API combining wearables (WHOOP, Oura, Garmin), 168+ biomarkers, and WGS genomics (ClinVar, CPIC, PRS). REST + MCP endpoints.
+description: Agent-first API for genetics, biomarkers, and wearables — 168+ biomarkers, wearables (WHOOP, Oura, Garmin), WGS genomics (ClinVar, CPIC, PRS). REST + MCP. Docker.
 licenses:
   - AGPL-3.0
 platforms:

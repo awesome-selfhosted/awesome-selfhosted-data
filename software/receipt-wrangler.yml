@@ -10,12 +10,12 @@ tags:
   - Money, Budgeting & Management
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
-stargazers_count: 252
-updated_at: '2026-07-19'
+stargazers_count: 255
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: v7.0.0
-  published_at: '2026-06-30'
+  tag: v7.1.0
+  published_at: '2026-07-21'
 commit_history:
   2025-08: 20
   2025-09: 84
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 112
   2026-05: 42
   2026-06: 144
-  2026-07: 181
+  2026-07: 202

@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/ampache/ampache
 demo_url: https://play.dogmazic.net/
 stargazers_count: 3807
-updated_at: '2026-07-20'
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: 7.9.8
-  published_at: '2026-06-04'
+  tag: 7.10.0
+  published_at: '2026-07-21'
 commit_history:
   2025-08: 33
   2025-09: 16
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 53
   2026-05: 300
   2026-06: 103
-  2026-07: 57
+  2026-07: 67

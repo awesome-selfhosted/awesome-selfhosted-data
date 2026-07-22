@@ -11,12 +11,12 @@ tags:
   - Pastebins
 source_code_url: https://github.com/thomiceli/opengist
 demo_url: https://demo.opengist.io
-stargazers_count: 3260
-updated_at: '2026-07-20'
+stargazers_count: 3262
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: v1.13.1
-  published_at: '2026-06-09'
+  tag: v1.14.0
+  published_at: '2026-07-21'
 commit_history:
   2025-08: 6
   2025-09: 10
@@ -29,4 +29,4 @@ commit_history:
   2026-04: 6
   2026-05: 2
   2026-06: 45
-  2026-07: 7
+  2026-07: 10

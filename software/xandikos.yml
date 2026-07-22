@@ -9,12 +9,12 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/jelmer/xandikos
-stargazers_count: 590
-updated_at: '2026-07-19'
+stargazers_count: 591
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: v0.4.4
-  published_at: '2026-07-05'
+  tag: v0.4.5
+  published_at: '2026-07-21'
 commit_history:
   2025-08: 24
   2025-09: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 63
   2026-05: 120
   2026-06: 22
-  2026-07: 17
+  2026-07: 24

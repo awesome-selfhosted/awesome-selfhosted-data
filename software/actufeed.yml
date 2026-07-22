@@ -1,0 +1,13 @@
+name: ACTUFEED
+website_url: https://github.com/drenlia/actufeed
+description: Bilingual news aggregator with customizable tabs, filtering, and real-time updates.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Feed Readers
+source_code_url: https://github.com/drenlia/actufeed
+demo_url: https://actufeed.com

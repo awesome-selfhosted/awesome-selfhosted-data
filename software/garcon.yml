@@ -1,0 +1,11 @@
+name: Garcon
+website_url: https://github.com/cfal/garcon
+description: Browser and mobile workspace for running and steering parallel coding-agent sessions, with integrated terminal, file editing, diff review, Git and pull-request workflows, mobile approvals, and cross-agent transfers.
+licenses:
+  - GPL-3.0
+platforms:
+  - Javascript
+tags:
+  - Software Development - IDE & Tools
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/cfal/garcon

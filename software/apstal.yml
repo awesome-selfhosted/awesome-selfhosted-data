@@ -1,0 +1,12 @@
+name: "Apstal"
+website_url: "https://apstal.com"
+description: "AI-first web analytics with session replay, heatmaps, funnels, and conversational AI queries."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+source_code_url: "https://github.com/apstal/apstal-prod"
+demo_url: "https://apstal.com/app"

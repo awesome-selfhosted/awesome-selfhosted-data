@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 8931
-updated_at: '2026-03-21'
+stargazers_count: 9872
+updated_at: '2026-07-18'
 archived: false
 current_release:
   tag: v0.6.0
@@ -20,4 +20,8 @@ commit_history:
   2025-12: 17
   2026-01: 4
   2026-02: 22
-  2026-03: 41
+  2026-03: 82
+  2026-04: 118
+  2026-05: 20
+  2026-06: 6
+  2026-07: 29

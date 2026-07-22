@@ -10,17 +10,13 @@ platforms:
 tags:
   - Miscellaneous
 depends_3rdparty: false
-stargazers_count: 242
-updated_at: '2026-03-16'
+stargazers_count: 250
+updated_at: '2026-04-26'
 archived: false
 current_release:
-  tag: v2.1.2
-  published_at: '2024-07-13'
+  tag: v2.1.4
+  published_at: '2026-04-18'
 commit_history:
-  2025-04: 0
-  2025-05: 2
-  2025-06: 0
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 3
@@ -29,3 +25,7 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 4
+  2026-04: 9
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0

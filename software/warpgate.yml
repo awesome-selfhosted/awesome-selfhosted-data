@@ -1,6 +1,6 @@
 name: Warpgate
 website_url: https://github.com/warp-tech/warpgate
-description: Smart SSH and HTTPS bastion that works with any SSH client.
+description: Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,17 +9,13 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/warp-tech/warpgate
-stargazers_count: 6667
-updated_at: '2026-03-22'
+stargazers_count: 7384
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: v0.22.0-beta.2
-  published_at: '2026-03-21'
+  tag: v0.27.0-beta.1
+  published_at: '2026-07-11'
 commit_history:
-  2025-04: 11
-  2025-05: 34
-  2025-06: 25
-  2025-07: 30
   2025-08: 19
   2025-09: 13
   2025-10: 25
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 23
   2026-01: 57
   2026-02: 31
-  2026-03: 67
+  2026-03: 77
+  2026-04: 63
+  2026-05: 75
+  2026-06: 130
+  2026-07: 95

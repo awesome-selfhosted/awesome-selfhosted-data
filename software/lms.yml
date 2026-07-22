@@ -10,17 +10,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/epoupon/lms
-stargazers_count: 1567
-updated_at: '2026-03-15'
+stargazers_count: 1647
+updated_at: '2026-07-18'
 archived: false
 current_release:
-  tag: v3.76.0
-  published_at: '2026-03-15'
+  tag: v3.79.0
+  published_at: '2026-07-18'
 commit_history:
-  2025-04: 21
-  2025-05: 20
-  2025-06: 53
-  2025-07: 48
   2025-08: 11
   2025-09: 27
   2025-10: 2
@@ -29,3 +25,7 @@ commit_history:
   2026-01: 11
   2026-02: 32
   2026-03: 15
+  2026-04: 1
+  2026-05: 4
+  2026-06: 71
+  2026-07: 21

@@ -9,17 +9,13 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/ampache/ampache
 demo_url: https://play.dogmazic.net/
-stargazers_count: 3779
-updated_at: '2026-03-10'
+stargazers_count: 3807
+updated_at: '2026-07-21'
 archived: false
 current_release:
-  tag: 7.9.2
-  published_at: '2026-03-05'
+  tag: 7.10.0
+  published_at: '2026-07-21'
 commit_history:
-  2025-04: 209
-  2025-05: 208
-  2025-06: 374
-  2025-07: 273
   2025-08: 33
   2025-09: 16
   2025-10: 56
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 61
   2026-01: 133
   2026-02: 97
-  2026-03: 11
+  2026-03: 13
+  2026-04: 53
+  2026-05: 300
+  2026-06: 103
+  2026-07: 67

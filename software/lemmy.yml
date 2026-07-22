@@ -9,17 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/LemmyNet/lemmy
-stargazers_count: 14320
-updated_at: '2026-03-17'
+stargazers_count: 14511
+updated_at: '2026-07-14'
 archived: false
 current_release:
-  tag: 0.19.16
-  published_at: '2026-03-03'
+  tag: 0.19.20
+  published_at: '2026-07-21'
 commit_history:
-  2025-04: 42
-  2025-05: 36
-  2025-06: 69
-  2025-07: 40
   2025-08: 11
   2025-09: 41
   2025-10: 50
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 59
   2026-01: 21
   2026-02: 26
-  2026-03: 26
+  2026-03: 32
+  2026-04: 27
+  2026-05: 37
+  2026-06: 24
+  2026-07: 8

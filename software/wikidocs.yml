@@ -1,5 +1,5 @@
 name: WikiDocs
-website_url: http://wikidocs.it
+website_url: https://www.wikidocs.app/
 source_code_url: https://github.com/Zavy86/WikiDocs
 description: A databaseless markdown flat-file wiki engine.
 licenses:
@@ -9,17 +9,13 @@ platforms:
   - Docker
 tags:
   - Wikis
-stargazers_count: 482
-updated_at: '2026-01-12'
+stargazers_count: 511
+updated_at: '2026-05-31'
 archived: false
 current_release:
-  tag: 1.0.83
-  published_at: '2026-01-12'
+  tag: 1.0.89
+  published_at: '2026-05-31'
 commit_history:
-  2025-04: 1
-  2025-05: 0
-  2025-06: 2
-  2025-07: 6
   2025-08: 5
   2025-09: 0
   2025-10: 4
@@ -28,3 +24,7 @@ commit_history:
   2026-01: 3
   2026-02: 0
   2026-03: 0
+  2026-04: 4
+  2026-05: 20
+  2026-06: 0
+  2026-07: 0

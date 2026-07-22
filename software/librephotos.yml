@@ -9,20 +9,23 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 7960
-updated_at: '2026-03-04'
+stargazers_count: 8005
+updated_at: '2026-07-21'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
 commit_history:
-  2025-04: 39
-  2025-05: 31
-  2025-06: 18
-  2025-07: 79
   2025-08: 42
   2025-09: 21
   2025-10: 50
   2025-11: 15
   2025-12: 26
   2026-01: 37
-  2026-02: 80
-  2026-03: 3
+  2026-02: 160
+  2026-03: 42
+  2026-04: 194
+  2026-05: 40
+  2026-06: 53
+  2026-07: 17
+current_release:
+  tag: 1.0.3
+  published_at: '2026-06-27'

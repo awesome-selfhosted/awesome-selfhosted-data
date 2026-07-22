@@ -1,7 +1,7 @@
-name: "Sosse"
-website_url: "https://sosse.readthedocs.io/en/stable/"
-source_code_url: "https://gitlab.com/biolds1/sosse"
-description: "Selenium based search engine and crawler with offline archiving."
+name: Sosse
+website_url: https://sosse.readthedocs.io/en/stable/
+source_code_url: https://gitlab.com/biolds1/sosse
+description: Selenium based search engine and crawler with offline archiving.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,3 +10,6 @@ platforms:
 tags:
   - Search Engines
   - Archiving and Digital Preservation (DP)
+stargazers_count: 2
+updated_at: '2026-03-24'
+archived: false

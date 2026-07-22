@@ -9,17 +9,13 @@ platforms:
   - Docker
 tags:
   - Feed Readers
-stargazers_count: 2030
-updated_at: '2026-03-03'
+stargazers_count: 2134
+updated_at: '2026-07-12'
 archived: false
 current_release:
-  tag: v1.1.1
-  published_at: '2026-02-23'
+  tag: v1.2.0
+  published_at: '2026-07-17'
 commit_history:
-  2025-04: 18
-  2025-05: 2
-  2025-06: 3
-  2025-07: 1
   2025-08: 3
   2025-09: 0
   2025-10: 0
@@ -28,3 +24,7 @@ commit_history:
   2026-01: 1
   2026-02: 22
   2026-03: 1
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0
+  2026-07: 2

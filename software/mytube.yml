@@ -1,0 +1,22 @@
+name: MyTube
+website_url: https://github.com/franklioxygen/MyTube
+source_code_url: https://github.com/franklioxygen/MyTube
+description: Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true
+demo_url: https://mytube-demo.vercel.app
+stargazers_count: 1084
+updated_at: '2026-07-16'
+archived: false
+commit_history:
+  2026-03: 152
+  2026-04: 188
+  2026-05: 135
+  2026-06: 193
+  2026-07: 224

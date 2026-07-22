@@ -9,17 +9,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/Tiledesk/tiledesk
-stargazers_count: 279
-updated_at: '2026-03-18'
+stargazers_count: 311
+updated_at: '2026-07-06'
 archived: false
 current_release:
   tag: '1.2'
   published_at: '2021-11-29'
 commit_history:
-  2025-04: 8
-  2025-05: 0
-  2025-06: 0
-  2025-07: 11
   2025-08: 3
   2025-09: 1
   2025-10: 6
@@ -27,4 +23,8 @@ commit_history:
   2025-12: 1
   2026-01: 14
   2026-02: 11
-  2026-03: 6
+  2026-03: 7
+  2026-04: 2
+  2026-05: 2
+  2026-06: 1
+  2026-07: 5

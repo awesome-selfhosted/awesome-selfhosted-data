@@ -1,0 +1,10 @@
+name: LAN Orangutan
+website_url: https://lanorangutan.com
+source_code_url: https://github.com/291-Group/LAN-Orangutan
+description: Network scanner that discovers devices with nmap, with persistent device labeling, grouping, multi-network scanning, and built-in Tailscale integration, usable from a web dashboard or the command line.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Network Configuration Management

@@ -1,0 +1,11 @@
+name: Open Wearables
+website_url: https://github.com/the-momentum/open-wearables
+source_code_url: https://github.com/the-momentum/open-wearables
+description: Agent-native wearable data unification from WHOOP, Oura, Garmin, Suunto, Polar, Fitbit, Strava, plus Apple HealthKit, Samsung Health, Google Health Connect. FastAPI + MCP.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Health and Fitness

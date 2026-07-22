@@ -1,0 +1,13 @@
+name: "1time.io"
+website_url: "https://1time.io"
+source_code_url: "https://github.com/shingrus/1time"
+description: "Share passwords, API keys, and files through one-time, self-destructing links. Encryption happens client-side with AES-256-GCM; the server stores only ciphertext and destroys it after one read, never seeing the plaintext or key."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Password Managers and Credentials
+  - Pastebins
+demo_url: "https://1time.io"

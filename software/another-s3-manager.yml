@@ -1,0 +1,11 @@
+name: Another S3 Manager
+website_url: https://github.com/kruchenburger/another-s3-manager
+description: 'Web UI for managing files across S3-compatible storage providers (AWS S3, MinIO, Cloudflare R2, Wasabi), with multi-user accounts, per-bucket permissions, and an MCP server that gives AI agents the same permissions as the logged-in user.'
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - File Transfer - Web-based File Managers
+source_code_url: https://github.com/kruchenburger/another-s3-manager

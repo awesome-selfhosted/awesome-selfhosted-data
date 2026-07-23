@@ -1,0 +1,11 @@
+name: Hopp
+website_url: https://gethopp.app
+source_code_url: https://github.com/gethopp/hopp
+description: Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio, Coscreen).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Groupware
+  - Software Development - IDE & Tools

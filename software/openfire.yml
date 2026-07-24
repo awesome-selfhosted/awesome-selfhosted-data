@@ -8,8 +8,8 @@ platforms:
 tags:
   - Communication - XMPP - Servers
 source_code_url: https://github.com/igniterealtime/Openfire
-stargazers_count: 3042
-updated_at: '2026-07-22'
+stargazers_count: 3043
+updated_at: '2026-07-23'
 archived: false
 current_release:
   tag: v5.1.1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 89
   2026-05: 132
   2026-06: 103
-  2026-07: 119
+  2026-07: 122

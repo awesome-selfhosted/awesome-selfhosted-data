@@ -9,12 +9,12 @@ platforms:
 tags:
   - Inventory Management
   - Maps and Global Positioning System (GPS)
-stargazers_count: 2707
-updated_at: '2026-07-03'
+stargazers_count: 2742
+updated_at: '2026-07-23'
 archived: false
 current_release:
-  tag: shelf@1.20.3
-  published_at: '2026-06-03'
+  tag: shelf@2.0.1
+  published_at: '2026-07-20'
 commit_history:
   2025-08: 235
   2025-09: 160
@@ -25,6 +25,6 @@ commit_history:
   2026-02: 314
   2026-03: 237
   2026-04: 215
-  2026-05: 324
-  2026-06: 436
-  2026-07: 60
+  2026-05: 331
+  2026-06: 447
+  2026-07: 234

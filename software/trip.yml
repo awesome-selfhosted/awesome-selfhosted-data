@@ -8,9 +8,10 @@ platforms:
   - Docker
 tags:
   - Maps and Global Positioning System (GPS)
+  - Travel Organization
 demo_url: https://itskovacs-trip.netlify.app/home
-stargazers_count: 1673
-updated_at: '2026-06-22'
+stargazers_count: 1702
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: 1.45.2
@@ -27,4 +28,4 @@ commit_history:
   2026-04: 0
   2026-05: 18
   2026-06: 1
-  2026-07: 0
+  2026-07: 3

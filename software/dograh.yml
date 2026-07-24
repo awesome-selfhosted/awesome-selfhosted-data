@@ -1,0 +1,12 @@
+name: Dograh
+website_url: https://dograh.com
+source_code_url: https://github.com/dograh-hq/dograh
+description: Voice agent platform with a no-code workflow builder for building inbound and outbound AI calling bots. (alternative to Vapi, Retell AI, Bland AI).
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

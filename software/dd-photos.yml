@@ -1,0 +1,13 @@
+name: DD Photos
+website_url: https://github.com/dougdonohoe/ddphotos
+source_code_url: https://github.com/dougdonohoe/ddphotos
+description: Generates fast, static photo album websites from your exported photos, with WebP images and no server or database required.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Photo Galleries
+demo_url: https://ddphotos.donohoe.info

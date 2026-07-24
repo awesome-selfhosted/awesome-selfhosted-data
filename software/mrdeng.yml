@@ -1,0 +1,10 @@
+name: "MrDeng"
+website_url: "https://mrdeng.site"
+source_code_url: "https://github.com/ccc20260614-cyber/mrdeng"
+description: "Device management panel with license control, task distribution, and remote monitoring."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Internet of Things (IoT)

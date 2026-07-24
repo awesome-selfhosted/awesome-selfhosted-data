@@ -1,0 +1,13 @@
+name: "Poznote"
+website_url: "https://poznote.com"
+source_code_url: "https://github.com/timothepoznanski/poznote"
+description: "Poznote is a note-taking and documentation platform."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+  - Python
+tags:
+  - Note-taking & Editors
+demo_url: "https://github.com/timothepoznanski/poznote#demo"

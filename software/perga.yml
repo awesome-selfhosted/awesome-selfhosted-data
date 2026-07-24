@@ -1,0 +1,13 @@
+name: "Perga"
+website_url: "https://getperga.me"
+source_code_url: "https://github.com/getperga/perga-api"
+description: "Personal workspace for notes and planning."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Note-taking & Editors
+  - Task Management & To-do Lists
+demo_url: "https://demo.getperga.me"

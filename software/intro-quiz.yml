@@ -1,0 +1,11 @@
+name: Intro Quiz
+website_url: https://github.com/colfin22/intro-quiz
+description: '"Guess the intro" music quiz for family game night, built on your own Navidrome/Subsonic library. Phones join via QR code, the scoreboard and audio go to a Chromecast or Android TV.'
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Games
+source_code_url: https://github.com/colfin22/intro-quiz

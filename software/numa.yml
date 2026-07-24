@@ -1,0 +1,12 @@
+name: Numa
+website_url: https://numa.rs/
+source_code_url: https://github.com/razvandimescu/numa
+description: 'Ad-blocking DNS resolver with DNSSEC-validating recursive resolution, DoH/DoT/Oblivious DoH, ephemeral overrides, and local service domains, in a single Rust binary (alternative to Pi-hole, AdGuard Home, NextDNS).'
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - Nix
+tags:
+  - DNS

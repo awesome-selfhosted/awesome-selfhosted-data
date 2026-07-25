@@ -1,0 +1,11 @@
+name: Anycode
+website_url: https://github.com/anycode-ade/anycode
+source_code_url: https://github.com/anycode-ade/anycode
+description: Web-based IDE with custom fast virtual-rendering code editor, Rust backend, LSP integration, and AI agent support.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools

@@ -1,0 +1,13 @@
+name: RelayTV
+website_url: https://relaytv.app
+description: Turns a Linux box connected to a television into a local playback endpoint. Send links from a phone, browse Jellyfin or Emby libraries, play IPTV channels, and drive playback from Home Assistant or HTTP (alternative to Chromecast).
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming
+  - Media Streaming - Video Streaming
+source_code_url: https://github.com/mcgeezy/relaytv
+related_software_url: https://github.com/mcgeezy/relaytv-android

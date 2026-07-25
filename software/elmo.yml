@@ -1,0 +1,12 @@
+name: Elmo
+website_url: https://www.elmohq.com
+source_code_url: https://github.com/elmohq/elmo
+description: Track brand mentions and citations across AI assistants (ChatGPT, Claude, Gemini, Perplexity, Copilot).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: true

@@ -10,11 +10,11 @@ tags:
   - Software Development - API Management
 source_code_url: https://github.com/svix/svix-webhooks
 stargazers_count: 3313
-updated_at: '2026-07-23'
+updated_at: '2026-07-24'
 archived: false
 current_release:
-  tag: v1.99.1
-  published_at: '2026-07-23'
+  tag: v2.0.0-rc.1
+  published_at: '2026-07-24'
 commit_history:
   2025-08: 133
   2025-09: 76
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 63
   2026-05: 90
   2026-06: 70
-  2026-07: 120
+  2026-07: 128

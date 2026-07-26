@@ -1,0 +1,11 @@
+name: DMARC Analyzer
+website_url: https://dmarc-analyzer.net
+source_code_url: https://github.com/dmarc-analyzer-net/DmarcAnalyzerApp
+description: Collects DMARC aggregate reports from an IMAP mailbox and turns them into per-domain dashboards, with alerting, retention policies and multi-tenant separation for managing many clients.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - .NET
+tags:
+  - Communication - Email - Security & Reporting

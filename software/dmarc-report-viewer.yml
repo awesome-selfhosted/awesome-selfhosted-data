@@ -1,0 +1,11 @@
+name: DMARC Report Viewer
+website_url: https://github.com/cry-inc/dmarc-report-viewer
+source_code_url: https://github.com/cry-inc/dmarc-report-viewer
+description: Standalone viewer for DMARC and SMTP TLS reports with a built-in IMAP client and web interface. Ships as a single binary or small container and keeps no database, reading the mailbox on each run.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Email - Security & Reporting

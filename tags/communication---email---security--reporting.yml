@@ -1,0 +1,5 @@
+name: Communication - Email - Security & Reporting
+description: 'Software for analysing [DMARC](https://en.wikipedia.org/wiki/DMARC), [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) and [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail) reports and monitoring the authentication of mail sent from your domains. These tools consume the aggregate reports that receiving providers send back; they do not send or receive mail themselves.'
+related_tags:
+  - Communication - Email - Complete Solutions
+  - Communication - Email - Mail Transfer Agents

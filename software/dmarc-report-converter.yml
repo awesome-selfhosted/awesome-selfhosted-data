@@ -1,0 +1,10 @@
+name: dmarc-report-converter
+website_url: https://github.com/tierpod/dmarc-report-converter
+source_code_url: https://github.com/tierpod/dmarc-report-converter
+description: Command-line tool that reads DMARC aggregate report files from a local filesystem or an IMAP server and converts the XML into human-readable HTML, TXT or JSON output.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Communication - Email - Security & Reporting

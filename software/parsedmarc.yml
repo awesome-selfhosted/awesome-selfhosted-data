@@ -1,0 +1,11 @@
+name: parsedmarc
+website_url: https://domainaware.github.io/parsedmarc/
+source_code_url: https://github.com/domainaware/parsedmarc
+description: Python package and CLI for parsing aggregate and forensic DMARC reports, with output to Elasticsearch, OpenSearch, Splunk or Kafka for dashboards built in Kibana or Grafana.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Email - Security & Reporting

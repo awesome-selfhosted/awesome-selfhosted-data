@@ -6,8 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
-  - Python
 tags:
   - Note-taking & Editors
 demo_url: "https://github.com/timothepoznanski/poznote#demo"

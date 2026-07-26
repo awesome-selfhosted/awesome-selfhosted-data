@@ -1,0 +1,11 @@
+name: Caspian
+website_url: https://trycaspianai.com
+description: Communication gateway that gives AI agents one identity across Slack, Discord, Telegram, WhatsApp, email, SMS and X - one message handler, per-channel adapters with webhook signature verification, and Python/TypeScript SDKs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+source_code_url: https://github.com/TryCaspian/caspian-sdk

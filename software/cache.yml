@@ -1,0 +1,11 @@
+name: "Cache"
+website_url: "https://www.cachd.app"
+source_code_url: "https://github.com/rortan134/cache-app"
+description: "Personal bookmark manager that unifies bookmarks across platforms into a single searchable library with AI-assisted organization, notes, and collaboration."
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Bookmarks and Link Sharing

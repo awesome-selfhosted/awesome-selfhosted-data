@@ -1,0 +1,11 @@
+name: TrainingGeeks
+website_url: https://traininggeeks.net
+source_code_url: https://github.com/arin-jaff/TrainingGeeks
+description: Training log and analytics for endurance and strength athletes. Calendar, performance management chart (CTL/ATL/TSB), zones, peak performances, FIT import and structured workout export to Garmin watches. (alternative to TrainingPeaks)
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Health and Fitness
+demo_url: https://demo.traininggeeks.net

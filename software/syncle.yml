@@ -1,0 +1,12 @@
+name: Syncle
+website_url: https://github.com/osmanahmadxai/SYNCLE
+description: Keep databases in sync across engines (PostgreSQL, MySQL, SQLite, MongoDB, Redis) with change-data-capture, polling or one-shot replays, plus HTTP endpoints as an additional destination.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Database Management
+  - Automation
+source_code_url: https://github.com/osmanahmadxai/SYNCLE

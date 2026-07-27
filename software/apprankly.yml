@@ -1,0 +1,12 @@
+name: AppRankly
+website_url: https://github.com/zmsp/AppRankly
+source_code_url: https://github.com/zmsp/AppRankly
+description: Mobile app store analytics and ASO dashboard for iOS App Store Connect and Google Play Console.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+demo_url: https://zmsp.github.io/AppRankly/#demo

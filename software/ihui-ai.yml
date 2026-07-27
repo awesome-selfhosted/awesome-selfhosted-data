@@ -1,0 +1,16 @@
+name: IHUI-AI
+website_url: https://ihui.ai
+source_code_url: https://github.com/IHUI-INF-AI/IHUI-AI
+description: 8-platform full-stack AI operating system unifying 176 LLMs via LangGraph + MCP + A2A, with multi-tenant RLS, RAG knowledge base and agent marketplace.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Python
+  - Rust
+  - Docker
+  - K8s
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: https://ihui.ai
+depends_3rdparty: true

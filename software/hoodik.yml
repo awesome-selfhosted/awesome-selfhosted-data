@@ -5,7 +5,6 @@ description: End-to-end encrypted cloud storage server. Files are encrypted and 
 licenses:
   - CC-BY-NC-4.0
 platforms:
-  - Rust
   - Docker
 tags:
   - File Transfer & Synchronization

@@ -1,0 +1,13 @@
+name: BareStackOS
+website_url: https://barestack.org
+description: Self-hosted CRM, projects, invoicing, time tracking and expenses in a single workspace, aimed at solopreneurs and small teams.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Customer Relationship Management (CRM)
+  - Resource Planning
+  - Time Tracking
+source_code_url: https://github.com/anirudhprashant/barestack-app
+demo_url: https://app.barestack.org/

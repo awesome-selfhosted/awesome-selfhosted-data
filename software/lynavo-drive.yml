@@ -1,0 +1,12 @@
+name: Lynavo Drive
+website_url: https://drive.lynavo.io/
+description: High-performance local-LAN incremental media sync from iOS and Android to macOS and Windows (alternative to iCloud, Google Photos).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Go
+tags:
+  - File Transfer & Synchronization
+  - Photo Galleries
+source_code_url: https://github.com/Lynavo/lynavo-drive

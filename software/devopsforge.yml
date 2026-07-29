@@ -1,0 +1,8 @@
+name: DevOpsForge
+description: Interactive visual configuration generator for Docker Compose, Dockerfiles, and reverse proxies.
+website: https://devops-config-generator.vercel.app/
+source_code: https://github.com/Gohar01/devops-config-generator
+license: MIT
+language: JavaScript
+tags:
+  - Software Development - IDE & Tools

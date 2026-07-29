@@ -1,0 +1,10 @@
+name: Pho
+website_url: https://pho.tools
+description: Mobile photo gallery with sync to SMB, WebDAV and NFS storage, no server required (alternative to Google Photos).
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+tags:
+  - Photo Galleries
+source_code_url: https://github.com/fregie/pho

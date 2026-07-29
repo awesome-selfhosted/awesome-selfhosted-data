@@ -10,8 +10,8 @@ platforms:
   - K8S
 tags:
   - Document Management
-stargazers_count: 1817
-updated_at: '2026-07-24'
+stargazers_count: 1819
+updated_at: '2026-07-27'
 archived: false
 current_release:
   tag: v1.11.0
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 7
   2026-05: 0
   2026-06: 30
-  2026-07: 16
+  2026-07: 17

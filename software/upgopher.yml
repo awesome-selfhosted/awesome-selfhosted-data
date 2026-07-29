@@ -1,0 +1,12 @@
+name: Upgopher
+website_url: https://wanetty.github.io/upgopher/
+description: Single self-contained Go binary for sharing and managing files, folders, text, and clipboard images through a responsive web interface, with optional authentication and HTTPS.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Go
+tags:
+  - File Transfer - Web-based File Managers
+  - Pastebins
+source_code_url: https://github.com/wanetty/upgopher

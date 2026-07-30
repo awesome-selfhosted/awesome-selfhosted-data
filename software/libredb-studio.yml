@@ -9,13 +9,13 @@ platforms:
   - K8S
 tags:
   - Database Management
-stargazers_count: 126
-updated_at: '2026-07-28'
+stargazers_count: 127
+updated_at: '2026-07-29'
 archived: false
 current_release:
-  tag: 0.9.60
-  published_at: '2026-07-28'
+  tag: 0.9.61
+  published_at: '2026-07-29'
 commit_history:
   2026-05: 0
   2026-06: 82
-  2026-07: 132
+  2026-07: 139

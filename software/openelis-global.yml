@@ -1,0 +1,11 @@
+name: OpenELIS Global
+website_url: https://openelis-global.org/
+source_code_url: https://github.com/DIGI-UW/OpenELIS-Global-2
+description: Laboratory information system (LIS/LIMS) for clinical, public health and environmental laboratories, with quality control, FHIR R4 interoperability and lab analyzer interfaces (ASTM/HL7/CSV).
+licenses:
+  - MPL-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Health and Fitness

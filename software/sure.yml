@@ -8,12 +8,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/we-promise/sure
-stargazers_count: 9195
-updated_at: '2026-07-29'
+stargazers_count: 9202
+updated_at: '2026-07-30'
 archived: false
 current_release:
-  tag: v0.7.3-alpha.6
-  published_at: '2026-07-26'
+  tag: v0.7.3-rc.1
+  published_at: '2026-07-30'
 commit_history:
   2026-01: 303
   2026-02: 143
@@ -21,4 +21,4 @@ commit_history:
   2026-04: 132
   2026-05: 241
   2026-06: 271
-  2026-07: 108
+  2026-07: 118

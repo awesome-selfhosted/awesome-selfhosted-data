@@ -1,0 +1,13 @@
+name: Convoy
+website_url: https://www.getconvoy.io
+source_code_url: https://github.com/frain-dev/convoy
+description: Webhook gateway for sending and receiving webhooks at scale, with retries, rate limiting, payload signatures, static IPs, circuit breaking and delivery observability.
+licenses:
+  - Elastic-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - API Management
+depends_3rdparty: false
+demo_url: https://playground.getconvoy.io

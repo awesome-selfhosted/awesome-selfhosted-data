@@ -1,0 +1,11 @@
+name: valheim-proxmox
+website_url: https://github.com/PawelSzymanski89/valheim-proxmox
+source_code_url: https://github.com/PawelSzymanski89/valheim-proxmox
+description: Valheim dedicated server for Proxmox VE, installed into an LXC by one command, with a web panel for players, bans, worlds, backups and mods.
+licenses:
+  - MIT
+platforms:
+  - Bash
+  - Python
+tags:
+  - Games - Administrative Utilities & Control Panels

@@ -1,6 +1,6 @@
 name: StackRender
 website_url: https://stackrender.io/
-description: Free and open-source database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
+description: Database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
 licenses:
   - AGPL-3.0
 platforms:

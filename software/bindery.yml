@@ -1,0 +1,10 @@
+name: Bindery
+website_url: https://github.com/jarynclouatre/bindery
+source_code_url: https://github.com/jarynclouatre/bindery
+description: Folder-watching converter for e-books and comics. EPUB to Kobo KEPUB via kepubify, CBZ/CBR/PDF via Kindle Comic Converter, with per-device profiles, ComicInfo.xml naming, chapter-to-volume bundling and a web UI.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books

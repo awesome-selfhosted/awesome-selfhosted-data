@@ -1,0 +1,11 @@
+name: PairDrop
+website_url: https://pairdrop.net
+source_code_url: https://github.com/schlagmichdoch/PairDrop
+description: Local file-sharing progressive web app for devices on the same network, with no upload size limit and a user-friendly interface (fork of Snapdrop).
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - File Transfer & Synchronization

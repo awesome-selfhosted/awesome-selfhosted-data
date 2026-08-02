@@ -9,14 +9,13 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/mainsail-crew/mainsail
-stargazers_count: 2187
-updated_at: '2026-07-31'
+stargazers_count: 2188
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: v2.18.2
   published_at: '2026-07-05'
 commit_history:
-  2025-08: 6
   2025-09: 6
   2025-10: 2
   2025-11: 28
@@ -28,3 +27,4 @@ commit_history:
   2026-05: 10
   2026-06: 59
   2026-07: 32
+  2026-08: 1

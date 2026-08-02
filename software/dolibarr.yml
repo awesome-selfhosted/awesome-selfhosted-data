@@ -12,13 +12,12 @@ tags:
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
 stargazers_count: 7466
-updated_at: '2026-07-31'
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: 22.0.5
   published_at: '2026-05-26'
 commit_history:
-  2025-08: 684
   2025-09: 779
   2025-10: 822
   2025-11: 1004
@@ -30,3 +29,4 @@ commit_history:
   2026-05: 558
   2026-06: 816
   2026-07: 442
+  2026-08: 1

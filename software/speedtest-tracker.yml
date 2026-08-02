@@ -9,14 +9,13 @@ platforms:
   - K8S
 tags:
   - Network Utilities
-stargazers_count: 5860
-updated_at: '2026-07-24'
+stargazers_count: 5862
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: v1.14.6
   published_at: '2026-07-23'
 commit_history:
-  2025-08: 3
   2025-09: 8
   2025-10: 8
   2025-11: 54
@@ -28,3 +27,4 @@ commit_history:
   2026-05: 10
   2026-06: 7
   2026-07: 8
+  2026-08: 1

@@ -10,11 +10,10 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/sipcapture/homer
-stargazers_count: 1995
-updated_at: '2026-07-31'
+stargazers_count: 1997
+updated_at: '2026-08-01'
 archived: false
 commit_history:
-  2025-08: 1
   2025-09: 1
   2025-10: 1
   2025-11: 2
@@ -25,7 +24,8 @@ commit_history:
   2026-04: 0
   2026-05: 221
   2026-06: 178
-  2026-07: 71
+  2026-07: 72
+  2026-08: 3
 current_release:
-  tag: 11.0.301
-  published_at: '2026-07-30'
+  tag: 11.0.302
+  published_at: '2026-08-01'

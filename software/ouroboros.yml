@@ -1,0 +1,11 @@
+name: Ouroboros
+website_url: https://ouroboros-agent.ai/
+source_code_url: https://github.com/razzant/ouroboros
+description: General-purpose AI agent with persistent identity and memory, reviewed self-modification, multi-agent coordination, and a web interface.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

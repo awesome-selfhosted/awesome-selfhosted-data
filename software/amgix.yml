@@ -9,6 +9,5 @@ platforms:
   - K8S
 tags:
   - Search Engines
-depends_3rdparty: false
 demo_url: "https://findgovdata.org"
 related_software_url: "https://github.com/orgs/amgix/repositories"

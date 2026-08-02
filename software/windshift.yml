@@ -1,0 +1,10 @@
+name: Windshift
+website_url: https://windshift.sh/
+source_code_url: https://github.com/Windshiftapp/core
+description: Work management with boards, backlogs, sprints and roadmaps (alternative to Jira).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Software Development - Project Management

@@ -1,0 +1,10 @@
+name: stella
+website_url: https://stll.app
+description: Open-source legal workspace with matters, documents, contract review, and case-law research, with AI answers grounded in citations.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Document Management
+source_code_url: https://github.com/stella/stella

@@ -6,7 +6,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Docker
-  - k8s
+  - K8S
 tags:
   - Search Engines
 depends_3rdparty: false

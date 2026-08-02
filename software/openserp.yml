@@ -1,0 +1,12 @@
+name: "OpenSERP"
+website_url: "https://openserp.org"
+source_code_url: "https://github.com/karust/openserp"
+description: "API and CLI for accessing normalized search engine results from Google, Yandex, Baidu, Bing, DuckDuckGo, and Ecosia."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Search Engines
+depends_3rdparty: true

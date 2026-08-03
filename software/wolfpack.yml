@@ -1,0 +1,11 @@
+name: Wolfpack
+website_url: https://github.com/almogdepaz/wolfpack
+description: Browser and mobile control center for persistent AI coding-agent and shell sessions across machines, with private remote access over Tailscale.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Nodejs
+tags:
+  - Remote Access
+source_code_url: https://github.com/almogdepaz/wolfpack

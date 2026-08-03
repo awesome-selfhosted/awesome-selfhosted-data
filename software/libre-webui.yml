@@ -1,0 +1,12 @@
+name: Libre WebUI
+website_url: https://librewebui.org
+source_code_url: https://github.com/libre-webui/libre-webui
+description: Local-first AI workspace with chat, RAG over your own documents, artifacts, and sandboxed workspaces for model-driven work. Connects to local models through Ollama or the providers you choose.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: https://demo.librewebui.org

@@ -9,11 +9,11 @@ platforms:
 tags:
   - Password Managers
 stargazers_count: 2992
-updated_at: '2026-08-01'
+updated_at: '2026-08-02'
 archived: false
 current_release:
-  tag: 0.30.2
-  published_at: '2026-07-24'
+  tag: 0.30.3
+  published_at: '2026-08-02'
 commit_history:
   2025-11: 252
   2025-12: 200
@@ -24,4 +24,4 @@ commit_history:
   2026-05: 132
   2026-06: 205
   2026-07: 113
-  2026-08: 1
+  2026-08: 27

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Community-Supported Agriculture (CSA)
 source_code_url: https://github.com/openfoodfoundation/openfoodnetwork
-stargazers_count: 1258
-updated_at: '2026-07-18'
+stargazers_count: 1261
+updated_at: '2026-08-03'
 archived: false
 current_release:
-  tag: v5.7.4
-  published_at: '2026-07-20'
+  tag: v5.7.5
+  published_at: '2026-07-27'
 commit_history:
-  2025-08: 150
   2025-09: 97
   2025-10: 184
   2025-11: 263
@@ -25,5 +24,6 @@ commit_history:
   2026-03: 357
   2026-04: 305
   2026-05: 265
-  2026-06: 312
-  2026-07: 177
+  2026-06: 313
+  2026-07: 280
+  2026-08: 8

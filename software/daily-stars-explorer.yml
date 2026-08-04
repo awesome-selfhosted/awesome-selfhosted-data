@@ -12,14 +12,13 @@ tags:
   - Analytics
 depends_3rdparty: true
 demo_url: https://emanuelef.github.io/daily-stars-explorer
-stargazers_count: 395
-updated_at: '2026-07-20'
+stargazers_count: 396
+updated_at: '2026-07-22'
 archived: false
 current_release:
   tag: v0.1.0
   published_at: '2026-02-08'
 commit_history:
-  2025-08: 15
   2025-09: 3
   2025-10: 4
   2025-11: 7
@@ -30,4 +29,5 @@ commit_history:
   2026-04: 13
   2026-05: 10
   2026-06: 9
-  2026-07: 18
+  2026-07: 19
+  2026-08: 0

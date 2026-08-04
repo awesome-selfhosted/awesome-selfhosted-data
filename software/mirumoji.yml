@@ -1,0 +1,23 @@
+name: Mirumoji
+website_url: https://svdc1.github.io/mirumoji/docs
+demo_url: https://svdc1.github.io/mirumoji/
+source_code_url: https://github.com/svdC1/mirumoji
+description: Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Miscellaneous
+stargazers_count: 13
+updated_at: '2026-07-21'
+archived: false
+current_release:
+  tag: v3.7.2
+  published_at: '2026-07-21'
+commit_history:
+  2026-05: 20
+  2026-06: 99
+  2026-07: 89
+  2026-08: 0

@@ -1,0 +1,12 @@
+name: OpenJornada
+website_url: https://www.openjornada.es/
+source_code_url: https://github.com/openjornada/openjornada-api
+description: Employee time and attendance tracking for Spanish/EU labor-law compliance (RD-Ley 8/2019): clock in/out, immutable records, digital signatures, PDF/CSV reports for labor inspection and SMS reminders. (alternative to Factorial, Sesame HR)
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Time Tracking

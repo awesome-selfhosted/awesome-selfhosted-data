@@ -1,0 +1,12 @@
+name: MyNeS
+website_url: https://github.com/fxerkan/my_network_scanner
+description: Scans a LAN over ARP, mDNS, SSDP, Matter, Bluetooth LE and MQTT, so Zigbee and Z-Wave devices without an IP address are inventoried too. Alerts on new or missing devices and syncs both ways with Home Assistant.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Network Utilities
+  - Internet of Things (IoT)
+source_code_url: https://github.com/fxerkan/my_network_scanner

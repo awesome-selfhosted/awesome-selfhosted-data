@@ -1,0 +1,10 @@
+name: Foundry
+website_url: https://github.com/harelos/foundry
+source_code_url: https://github.com/harelos/foundry
+description: Zero-dependency local AI worker control room and multi-agent task runner.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Automation

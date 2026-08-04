@@ -1,0 +1,12 @@
+name: MyNeS
+website_url: https://github.com/fxerkan/my_network_scanner
+source_code_url: https://github.com/fxerkan/my_network_scanner
+description: Network device discovery and inventory over ARP, mDNS, SSDP, Bluetooth LE and MQTT, including Zigbee and Z-Wave devices with no IP address. Alerts on new or missing devices (supports Home Assistant).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Network Utilities
+  - Internet of Things (IoT)

@@ -9,14 +9,13 @@ platforms:
 tags:
   - Video Surveillance
 depends_3rdparty: false
-stargazers_count: 3288
-updated_at: '2026-07-15'
+stargazers_count: 3316
+updated_at: '2026-08-02'
 archived: false
 current_release:
   tag: v3.5.3
   published_at: '2026-04-30'
 commit_history:
-  2025-08: 54
   2025-09: 30
   2025-10: 69
   2025-11: 141
@@ -27,4 +26,5 @@ commit_history:
   2026-04: 59
   2026-05: 78
   2026-06: 62
-  2026-07: 12
+  2026-07: 26
+  2026-08: 2

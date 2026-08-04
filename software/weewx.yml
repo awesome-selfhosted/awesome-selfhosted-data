@@ -10,14 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/weewx/weewx
 demo_url: https://weewx.com/showcase.html
-stargazers_count: 1175
+stargazers_count: 1183
 updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v5.4.0
   published_at: '2026-06-16'
 commit_history:
-  2025-08: 6
   2025-09: 23
   2025-10: 47
   2025-11: 12
@@ -29,3 +28,4 @@ commit_history:
   2026-05: 4
   2026-06: 28
   2026-07: 8
+  2026-08: 0

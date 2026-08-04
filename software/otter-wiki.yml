@@ -8,14 +8,13 @@ platforms:
   - Docker
 tags:
   - Wikis
-stargazers_count: 1480
-updated_at: '2026-07-18'
+stargazers_count: 1492
+updated_at: '2026-08-03'
 archived: false
 current_release:
-  tag: v2.21.1
-  published_at: '2026-07-12'
+  tag: v2.22.2
+  published_at: '2026-08-02'
 commit_history:
-  2025-08: 31
   2025-09: 7
   2025-10: 0
   2025-11: 25
@@ -26,4 +25,5 @@ commit_history:
   2026-04: 47
   2026-05: 45
   2026-06: 26
-  2026-07: 65
+  2026-07: 98
+  2026-08: 9

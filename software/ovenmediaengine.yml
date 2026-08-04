@@ -10,14 +10,13 @@ tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/OvenMediaLabs/OvenMediaEngine
 demo_url: https://demo.ovenplayer.com
-stargazers_count: 3197
-updated_at: '2026-07-15'
+stargazers_count: 3207
+updated_at: '2026-08-03'
 archived: false
 current_release:
   tag: v0.20.5
   published_at: '2026-03-26'
 commit_history:
-  2025-08: 55
   2025-09: 37
   2025-10: 50
   2025-11: 32
@@ -28,4 +27,5 @@ commit_history:
   2026-04: 17
   2026-05: 67
   2026-06: 38
-  2026-07: 18
+  2026-07: 44
+  2026-08: 3

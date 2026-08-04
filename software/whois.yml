@@ -1,0 +1,23 @@
+name: whois
+website_url: https://github.com/KincaidYang/whois
+source_code_url: https://github.com/KincaidYang/whois
+description: WHOIS/RDAP query API for domains, IP addresses, CIDR prefixes and ASNs, with unified JSON output, caching, API key authentication, batch queries and MCP support for AI assistants.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Network Utilities
+demo_url: https://whois.ddnsip.cn/example.com
+stargazers_count: 63
+updated_at: '2026-07-29'
+archived: false
+current_release:
+  tag: v1.2.0
+  published_at: '2026-07-26'
+commit_history:
+  2026-05: 218
+  2026-06: 37
+  2026-07: 29
+  2026-08: 0

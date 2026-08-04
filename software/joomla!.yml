@@ -8,15 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/joomla/joomla-cms
-stargazers_count: 5090
-updated_at: '2026-06-06'
+stargazers_count: 5121
+updated_at: '2026-08-02'
 archived: false
 current_release:
-  tag: 6.2.0-alpha1
-  published_at: '2026-05-26'
+  tag: 6.2.0-alpha3
+  published_at: '2026-07-21'
 commit_history:
-  2025-07: 52
-  2025-08: 109
   2025-09: 64
   2025-10: 40
   2025-11: 38
@@ -26,4 +24,6 @@ commit_history:
   2026-03: 31
   2026-04: 36
   2026-05: 39
-  2026-06: 13
+  2026-06: 38
+  2026-07: 19
+  2026-08: 4

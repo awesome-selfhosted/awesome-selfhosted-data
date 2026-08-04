@@ -1,0 +1,22 @@
+name: EventSchedule
+website_url: https://eventschedule.com/
+source_code_url: https://github.com/eventschedule/eventschedule
+description: Share events, sell tickets, and bring communities together.
+licenses:
+  - AAL
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Polls and Events
+stargazers_count: 51
+updated_at: '2026-08-03'
+archived: false
+current_release:
+  tag: v1.0.123
+  published_at: '2026-08-01'
+commit_history:
+  2026-05: 93
+  2026-06: 70
+  2026-07: 109
+  2026-08: 14

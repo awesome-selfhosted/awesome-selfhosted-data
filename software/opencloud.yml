@@ -11,11 +11,11 @@ platforms:
 tags:
   - File Transfer & Synchronization
 stargazers_count: 5773
-updated_at: '2026-07-31'
+updated_at: '2026-08-03'
 archived: false
 current_release:
-  tag: v7.3.0
-  published_at: '2026-07-14'
+  tag: v7.4.0
+  published_at: '2026-08-03'
 commit_history:
   2025-10: 82
   2025-11: 140
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 152
   2026-06: 157
   2026-07: 106
-  2026-08: 0
+  2026-08: 27

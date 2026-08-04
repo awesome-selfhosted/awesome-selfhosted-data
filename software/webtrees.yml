@@ -9,8 +9,8 @@ tags:
   - Genealogy
 source_code_url: https://github.com/fisharebest/webtrees
 demo_url: https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo
-stargazers_count: 805
-updated_at: '2026-08-02'
+stargazers_count: 807
+updated_at: '2026-08-03'
 archived: false
 current_release:
   tag: 1.7.2
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 21
   2026-06: 83
   2026-07: 120
-  2026-08: 7
+  2026-08: 8

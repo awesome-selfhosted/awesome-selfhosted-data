@@ -1,0 +1,11 @@
+name: rstream Engine CE
+website_url: https://rstream.io/docs/tunnels/self-hosted
+source_code_url: https://github.com/rstreamlabs/rstream-engine
+description: Secure tunneling server for exposing and accessing private services within infrastructure you control. Compatible with all rstream clients and SDKs, with HTTPS and TLS tunnels, JWT authentication, and no external dependencies.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Proxy

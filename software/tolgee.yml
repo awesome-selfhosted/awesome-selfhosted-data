@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/tolgee/tolgee-platform
-stargazers_count: 4055
-updated_at: '2026-08-03'
+stargazers_count: 4057
+updated_at: '2026-08-04'
 archived: false
 current_release:
-  tag: v3.216.0
-  published_at: '2026-08-03'
+  tag: v3.216.2
+  published_at: '2026-08-04'
 commit_history:
   2025-09: 21
   2025-10: 26
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 83
   2026-06: 69
   2026-07: 56
-  2026-08: 4
+  2026-08: 10

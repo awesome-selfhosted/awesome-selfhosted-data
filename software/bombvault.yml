@@ -1,0 +1,11 @@
+name: BombVault
+website_url: https://junkerderprovinz.github.io/bombvault/
+source_code_url: https://github.com/junkerderprovinz/bombvault
+description: One-click backup and full disaster recovery for Unraid servers - Docker containers, KVM VMs, appdata and the USB flash config - with deduplicated, encrypted, incremental off-site copies via restic.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Backup

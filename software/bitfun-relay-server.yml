@@ -1,0 +1,11 @@
+name: BitFun Relay Server
+website_url: https://github.com/GCWing/BitFun/tree/main/src/apps/relay-server
+description: WebSocket and HTTP relay for remote device control, account login, and cross-device session sync. Clients encrypt locally, so the server stores no plaintext credentials or readable sync payloads.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Rust
+tags:
+  - Remote Access
+source_code_url: https://github.com/GCWing/BitFun

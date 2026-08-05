@@ -1,0 +1,11 @@
+name: Rustrak
+website_url: https://rustrak.github.io/rustrak/
+source_code_url: https://github.com/rustrak/rustrak
+description: Ultra-lightweight error tracking server compatible with Sentry SDKs.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Ticketing

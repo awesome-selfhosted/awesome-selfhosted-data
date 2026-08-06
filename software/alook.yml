@@ -1,0 +1,23 @@
+name: Alook
+website_url: https://alook.ai
+source_code_url: https://github.com/alookai/alook
+description: Coordinate local AI coding agents with roles, agent email, shared tasks, and ongoing work threads.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+stargazers_count: 1050
+updated_at: '2026-08-06'
+archived: false
+current_release:
+  tag: cli/v0.0.4
+  published_at: '2026-04-17'
+commit_history:
+  2026-04: 400
+  2026-05: 430
+  2026-06: 202
+  2026-07: 308
+  2026-08: 51

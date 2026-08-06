@@ -1,0 +1,15 @@
+name: "Telegram Files"
+website_url: "https://github.com/jarvis2f/telegram-files"
+source_code_url: "https://github.com/jarvis2f/telegram-files"
+description: "Telegram file downloader for continuous, stable, unattended downloads, with multi-account support, pause/resume, media previews, and rule-based transfers."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Java
+  - Nodejs
+tags:
+  - File Transfer & Synchronization
+  - File Transfer - Web-based File Managers
+  - Automation
+depends_3rdparty: true

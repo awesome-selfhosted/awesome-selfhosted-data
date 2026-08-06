@@ -1,0 +1,13 @@
+name: OpenShorts
+website_url: https://www.openshorts.app/
+source_code_url: https://github.com/mutonby/openshorts
+description: Turns long videos into vertical short clips, with AI moment detection, face tracking, word-level subtitles and dubbing. Exposes a REST API and an MCP server so agents can drive the pipeline.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Media Management
+depends_3rdparty: true

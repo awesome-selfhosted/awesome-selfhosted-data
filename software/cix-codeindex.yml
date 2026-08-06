@@ -1,0 +1,11 @@
+name: cix (CodeIndeX)
+website_url: https://codeindex.app
+source_code_url: https://github.com/dvcdsys/code-index
+description: Semantic code search server with web dashboard, CLI and AI agent integrations. Indexes code with tree-sitter and local llama.cpp embeddings; search by meaning, symbols, definitions and references (alternative to Sourcegraph).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - IDE & Tools

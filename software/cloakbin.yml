@@ -1,0 +1,11 @@
+name: CloakBin
+website_url: https://oss.cloakbin.com
+description: Zero-knowledge encrypted pastebin, where text is encrypted in the browser with AES-256-GCM before upload and the key is kept in the URL fragment, so the server only ever stores ciphertext.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Pastebins
+source_code_url: https://github.com/Ishannaik/CloakBin
+demo_url: https://oss.cloakbin.com

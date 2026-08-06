@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/shopware/shopware
 demo_url: https://www.shopware.com/en/test-demo/
 stargazers_count: 3399
-updated_at: '2026-08-04'
+updated_at: '2026-08-05'
 archived: false
 current_release:
-  tag: v6.7.12.2
-  published_at: '2026-07-23'
+  tag: v6.7.13.0
+  published_at: '2026-08-05'
 commit_history:
   2025-09: 190
   2025-10: 181
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 242
   2026-06: 316
   2026-07: 444
-  2026-08: 51
+  2026-08: 65

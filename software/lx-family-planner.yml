@@ -1,0 +1,11 @@
+name: "LX Family Planner"
+website_url: "https://github.com/laxxx-lab/lx-family-planner"
+source_code_url: "https://github.com/laxxx-lab/lx-family-planner"
+description: "Modern, self-hosted family planner for calendar, tasks, shopping, meals, chat, and child profiles."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Personal Dashboards

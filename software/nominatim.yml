@@ -8,8 +8,8 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/osm-search/Nominatim
-stargazers_count: 4400
-updated_at: '2026-07-30'
+stargazers_count: 4402
+updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: v5.3.2
@@ -25,5 +25,5 @@ commit_history:
   2026-04: 49
   2026-05: 62
   2026-06: 49
-  2026-07: 23
-  2026-08: 0
+  2026-07: 37
+  2026-08: 11

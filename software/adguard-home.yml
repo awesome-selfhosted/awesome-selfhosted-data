@@ -8,8 +8,8 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/AdguardTeam/AdGuardHome
-stargazers_count: 35928
-updated_at: '2026-08-05'
+stargazers_count: 35961
+updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: v0.108.0-b.90
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 16
   2026-06: 15
   2026-07: 43
-  2026-08: 6
+  2026-08: 7

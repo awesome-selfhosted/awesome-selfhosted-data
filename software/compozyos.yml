@@ -1,0 +1,11 @@
+name: CompozyOS
+website_url: https://www.compozy.com
+source_code_url: https://github.com/compozy/compozy
+description: Operating system for AI agents. Plug in the agent CLIs you already use and run them as a team on loops and schedules, with shared memory, permissions, approvals, and a web shell to supervise everything.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - IDE & Tools

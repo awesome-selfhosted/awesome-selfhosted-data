@@ -10,14 +10,13 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-stargazers_count: 1624
-updated_at: '2026-07-14'
+stargazers_count: 1648
+updated_at: '2026-08-05'
 archived: false
 current_release:
-  tag: v2.10.9
-  published_at: '2026-07-14'
+  tag: v2.13.9
+  published_at: '2026-08-05'
 commit_history:
-  2025-08: 73
   2025-09: 11
   2025-10: 56
   2025-11: 114
@@ -28,4 +27,5 @@ commit_history:
   2026-04: 75
   2026-05: 98
   2026-06: 98
-  2026-07: 86
+  2026-07: 156
+  2026-08: 36

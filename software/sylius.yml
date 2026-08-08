@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/Sylius/Sylius
 demo_url: https://sylius.com/try/
 stargazers_count: 8510
-updated_at: '2026-07-29'
+updated_at: '2026-08-07'
 archived: false
 current_release:
-  tag: v2.2.7
-  published_at: '2026-07-24'
+  tag: v2.2.8
+  published_at: '2026-07-31'
 commit_history:
-  2025-08: 57
   2025-09: 132
   2025-10: 141
   2025-11: 128
@@ -26,5 +25,6 @@ commit_history:
   2026-03: 78
   2026-04: 61
   2026-05: 35
-  2026-06: 172
-  2026-07: 144
+  2026-06: 175
+  2026-07: 211
+  2026-08: 105

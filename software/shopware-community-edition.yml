@@ -9,14 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/shopware/shopware
 demo_url: https://www.shopware.com/en/test-demo/
-stargazers_count: 3396
-updated_at: '2026-07-29'
+stargazers_count: 3400
+updated_at: '2026-08-07'
 archived: false
 current_release:
-  tag: v6.7.12.2
-  published_at: '2026-07-23'
+  tag: v6.7.13.0
+  published_at: '2026-08-05'
 commit_history:
-  2025-08: 216
   2025-09: 190
   2025-10: 181
   2025-11: 152
@@ -27,4 +26,5 @@ commit_history:
   2026-04: 246
   2026-05: 242
   2026-06: 316
-  2026-07: 408
+  2026-07: 444
+  2026-08: 107

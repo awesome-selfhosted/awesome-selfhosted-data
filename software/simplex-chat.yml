@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/simplex-chat/simplex-chat
-stargazers_count: 19116
-updated_at: '2026-07-28'
+stargazers_count: 19210
+updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: v7.0.0
   published_at: '2026-07-28'
 commit_history:
-  2025-08: 81
   2025-09: 22
   2025-10: 13
   2025-11: 12
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 81
   2026-06: 104
   2026-07: 113
+  2026-08: 6

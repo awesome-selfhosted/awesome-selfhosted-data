@@ -9,14 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/bagisto/bagisto
 demo_url: https://demo.bagisto.com/
-stargazers_count: 27866
-updated_at: '2026-07-29'
+stargazers_count: 27951
+updated_at: '2026-08-07'
 archived: false
 current_release:
-  tag: v2.4.8
-  published_at: '2026-07-08'
+  tag: v2.4.9
+  published_at: '2026-08-05'
 commit_history:
-  2025-08: 35
   2025-09: 181
   2025-10: 49
   2025-11: 15
@@ -27,4 +26,5 @@ commit_history:
   2026-04: 158
   2026-05: 124
   2026-06: 60
-  2026-07: 49
+  2026-07: 65
+  2026-08: 42

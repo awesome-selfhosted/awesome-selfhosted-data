@@ -8,14 +8,13 @@ platforms:
 tags:
   - Polls and Events
 source_code_url: https://github.com/heyform/heyform
-stargazers_count: 8906
-updated_at: '2026-07-23'
+stargazers_count: 8921
+updated_at: '2026-08-07'
 archived: false
 current_release:
-  tag: v3.0.0-rc.10
-  published_at: '2026-07-14'
+  tag: v3.0.0
+  published_at: '2026-08-06'
 commit_history:
-  2025-08: 1
   2025-09: 2
   2025-10: 0
   2025-11: 2
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 16
   2026-06: 7
   2026-07: 8
+  2026-08: 20

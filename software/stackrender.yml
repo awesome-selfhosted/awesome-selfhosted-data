@@ -1,0 +1,12 @@
+name: StackRender
+website_url: https://stackrender.io/
+description: Database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Database Management
+source_code_url: https://github.com/stackrender/stackrender
+demo_url: https://app.stackrender.io/

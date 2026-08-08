@@ -1,0 +1,13 @@
+name: dayGLANCE
+website_url: https://dayglance.app
+source_code_url: https://github.com/krelltunez/dayGLANCE
+description: Day planner with drag-and-drop time blocking, inbox, recurring tasks, habits, routines, goals, projects and Pomodoro focus mode, plus iCal and CalDAV calendar sync. Data stays in the browser, with optional WebDAV or GLANCEvault sync.
+licenses:
+  - MIT
+platforms:
+  - Javascript
+  - Docker
+tags:
+  - Task Management & To-do Lists
+  - Calendar & Contacts
+related_software_url: https://github.com/glance-apps/glance-vault

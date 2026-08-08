@@ -1,0 +1,13 @@
+name: SlackONOS
+website_url: https://github.com/htilly/SlackONOS
+source_code_url: https://github.com/htilly/SlackONOS
+description: Chat-controlled Sonos speaker queue with Spotify search, vote-to-play and vote-to-skip for Slack and Discord.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Internet of Things (IoT)
+  - Media Streaming - Audio Streaming
+depends_3rdparty: true

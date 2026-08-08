@@ -1,0 +1,10 @@
+name: terraform-provider-seerr
+website_url: https://github.com/Josh-Archer/terraform-provider-seerr
+source_code_url: https://github.com/Josh-Archer/terraform-provider-seerr
+description: Terraform provider for Seerr (Overseerr/Jellyseerr) media request management.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Automation

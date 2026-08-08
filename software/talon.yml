@@ -1,0 +1,13 @@
+name: "Talon"
+website_url: "https://talon-agent.github.io"
+source_code_url: "https://github.com/dylanneve1/talon"
+description: "Agentic AI harness for Telegram, Discord, Teams and the terminal, with pluggable model backends, MCP tool access, and background agents for goals, scheduled heartbeats and memory consolidation."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+depends_3rdparty: true

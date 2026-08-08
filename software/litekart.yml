@@ -1,0 +1,11 @@
+name: Litekart
+website_url: https://litekart.in/
+description: Headless commerce platform with SvelteKit storefronts, multi-vendor marketplace support, and extensible Node.js architecture.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/itswadesh/svelte-commerce
+demo_url: https://litekart.in/

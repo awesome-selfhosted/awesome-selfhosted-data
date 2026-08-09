@@ -1,0 +1,12 @@
+name: xprem
+website_url: https://xprem.dev
+source_code_url: https://github.com/mercuretechnologies/xprem
+description: Over-the-air (OTA) update server and control plane for Expo and React Native apps, with branches, channels, progressive rollouts, A/B testing and per-update device telemetry (alternative to EAS Update).
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Software Development - IDE & Tools

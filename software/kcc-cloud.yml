@@ -1,0 +1,11 @@
+name: kcc-cloud
+website_url: https://github.com/NilsLeo/kcc-cloud
+source_code_url: https://github.com/NilsLeo/kcc-cloud
+description: Web UI for Kindle Comic Converter. Convert CBZ/CBR/PDF/EPUB to EPUB, MOBI or KEPUB sized for a specific e-reader, with live page previews while adjusting settings, ~35 device profiles and a batch queue.
+licenses:
+  - ISC
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+demo_url: https://mangaconverter.com

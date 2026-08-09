@@ -1,0 +1,19 @@
+name: LinkPeek
+website_url: https://147.15.103.217.sslip.io:5000/
+description: URL preview API with 80+ endpoints including link previews, OpenGraph metadata, QR code generation, security header analysis, IP geolocation, email validation, robots.txt fetching, favicon extraction, sitemap parsing, and broken link detection. Free tier 100 req/day (no signup required); Pro tier at $1/month for 50,000 req/day.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/dcn13l/hermes-autonomia
+demo_url: https://147.15.103.217.sslip.io:5000/
+stargazers_count: 1
+updated_at: '2026-08-09'
+archived: false
+current_release:
+  tag: v2.8.0
+  published_at: '2026-08-09'
+commit_history:
+  2026-08: 50

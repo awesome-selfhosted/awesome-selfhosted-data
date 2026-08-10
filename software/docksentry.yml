@@ -1,0 +1,11 @@
+name: Docksentry
+website_url: https://github.com/amayer1983/docksentry
+source_code_url: https://github.com/amayer1983/docksentry
+description: Watches Docker and Podman containers for new images, updates them on a schedule or on request, and rolls back when the new image fails its healthcheck. Web UI, Telegram and Discord bots, multiple hosts (alternative to Watchtower).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Automation

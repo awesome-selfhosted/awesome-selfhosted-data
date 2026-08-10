@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 28230
-updated_at: '2026-08-09'
+stargazers_count: 28252
+updated_at: '2026-08-10'
 archived: false
 current_release:
-  tag: ensu-v0.1.19
-  published_at: '2026-08-05'
+  tag: photos-v1.3.60
+  published_at: '2026-08-10'
 commit_history:
   2025-09: 598
   2025-10: 1039
@@ -26,6 +26,6 @@ commit_history:
   2026-03: 1587
   2026-04: 1019
   2026-05: 1511
-  2026-06: 1453
-  2026-07: 1910
-  2026-08: 511
+  2026-06: 1464
+  2026-07: 1917
+  2026-08: 644

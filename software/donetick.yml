@@ -10,12 +10,12 @@ platforms:
 tags:
   - Task Management & To-do Lists
 demo_url: https://app.donetick.com/
-stargazers_count: 2418
-updated_at: '2026-08-08'
+stargazers_count: 2467
+updated_at: '2026-08-10'
 archived: false
 current_release:
-  tag: v0.1.77-beta.4
-  published_at: '2026-08-09'
+  tag: v0.1.77-beta.5
+  published_at: '2026-08-10'
 commit_history:
   2025-09: 36
   2025-10: 2
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 18
   2026-06: 8
   2026-07: 16
-  2026-08: 5
+  2026-08: 9

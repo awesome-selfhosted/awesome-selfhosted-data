@@ -1,0 +1,11 @@
+name: oboku
+website_url: https://oboku.me
+description: Library platform and reader designed to support any content format (EPUB, CBZ/CBR, PDF, TXT, audiobooks), fully usable offline, and synchronizing libraries from external providers (Google Drive, Dropbox, OneDrive, OPDS, Synology) or server files.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/mbret/oboku

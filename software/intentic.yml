@@ -1,0 +1,13 @@
+name: intentic
+website_url: https://intentic.dev
+source_code_url: https://github.com/intentic/intentic
+description: Workspace for running coding agents on hardware you own. Each agent gets a persistent container sandbox and a git worktree of its own, reached from any browser, and keeps working after you close the tab.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools
+depends_3rdparty: true
+demo_url: https://intentic.dev/demo/

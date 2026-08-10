@@ -5,7 +5,7 @@ licenses:
   - AGPL-3.0
 platforms:
   - Rust
-  - Dart
+  - Flutter
   - Docker
 tags:
   - Task Management & To-do Lists

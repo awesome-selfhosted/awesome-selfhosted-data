@@ -1,0 +1,14 @@
+name: Gnom-Hub
+website_url: https://landjunge.github.io/gnom-hub-v1/
+source_code_url: https://github.com/landjunge/gnom-hub-v1
+description: Local multi-agent control hub — brainstorm freely, run workers only when you press Execute. Visible agent desk, skills, tools, safe computer-use. No Docker required.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+depends_3rdparty: true
+demo_url: https://landjunge.github.io/gnom-hub-v1/
+related_software_url: https://github.com/landjunge/tollgate

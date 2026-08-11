@@ -1,0 +1,15 @@
+name: Tollgate
+website_url: https://landjunge.github.io/tollgate/
+source_code_url: https://github.com/landjunge/tollgate
+description: Safety layer for AI agents (Protect · Route · Prove) — budgets, tool-loop hard stops, failover, chaos/DR proof, freeze, audit. OpenAI-compatible API, MCP, n8n.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+depends_3rdparty: true
+demo_url: https://landjunge.github.io/tollgate/
+related_software_url: https://github.com/landjunge/gnom-hub-v1

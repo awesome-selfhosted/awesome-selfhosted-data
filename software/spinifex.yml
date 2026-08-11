@@ -1,0 +1,10 @@
+name: Spinifex
+website_url: https://mulgadc.com/spinifex
+description: Self-hosted, AWS-compatible cloud platform for bare metal, edge and on-premise deployments. Provides EC2, VPC, S3, EBS, IAM and Kubernetes services, so existing AWS tooling such as the CLI, SDKs and Terraform works unchanged.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/mulgadc/spinifex

@@ -1,0 +1,11 @@
+name: MacroTrackr
+website_url: https://github.com/arogan178/macrotrackr
+source_code_url: https://github.com/arogan178/macrotrackr
+description: Calorie and macro tracker with meal logging, barcode search, habits, and reporting.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Health and Fitness

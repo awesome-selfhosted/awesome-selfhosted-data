@@ -10,8 +10,8 @@ platforms:
 tags:
   - Video Surveillance
 source_code_url: https://github.com/blakeblackshear/frigate
-stargazers_count: 34985
-updated_at: '2026-08-10'
+stargazers_count: 35011
+updated_at: '2026-08-11'
 archived: false
 current_release:
   tag: v0.18.0-beta3
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 97
   2026-06: 74
   2026-07: 92
-  2026-08: 24
+  2026-08: 25

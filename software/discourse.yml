@@ -9,8 +9,8 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
-stargazers_count: 47629
-updated_at: '2026-08-10'
+stargazers_count: 47632
+updated_at: '2026-08-11'
 archived: false
 commit_history:
   2025-09: 361
@@ -24,7 +24,7 @@ commit_history:
   2026-05: 623
   2026-06: 677
   2026-07: 680
-  2026-08: 188
+  2026-08: 214
 current_release:
   tag: _gh-attach-assets
   published_at: '2026-07-15'

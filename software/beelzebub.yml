@@ -11,8 +11,8 @@ platforms:
 tags:
   - Network Utilities
 depends_3rdparty: true
-stargazers_count: 2138
-updated_at: '2026-08-10'
+stargazers_count: 2140
+updated_at: '2026-08-11'
 archived: false
 current_release:
   tag: v3.9.0
@@ -29,4 +29,4 @@ commit_history:
   2026-05: 10
   2026-06: 9
   2026-07: 12
-  2026-08: 4
+  2026-08: 5

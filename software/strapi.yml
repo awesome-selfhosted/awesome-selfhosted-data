@@ -8,8 +8,8 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/strapi/strapi
-stargazers_count: 72834
-updated_at: '2026-08-10'
+stargazers_count: 72844
+updated_at: '2026-08-11'
 archived: false
 current_release:
   tag: v5.51.2
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 144
   2026-06: 228
   2026-07: 197
-  2026-08: 67
+  2026-08: 73

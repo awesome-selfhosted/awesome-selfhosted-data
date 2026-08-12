@@ -1,0 +1,10 @@
+name: Figranium
+description: Visual block-based browser automation control plane and execution engine.
+site: https://github.com/figranium/figranium
+tags:
+  - automation
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Node

@@ -1,0 +1,11 @@
+name: Sillage
+website_url: https://marlburrow.github.io/sillage
+description: Mobile-first web UI that drives the native Claude Code and Codex CLIs running on your own machine, with sessions that outlive the client, full-text search across conversations, an IDE panel, and an installable PWA.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/MarlBurroW/sillage

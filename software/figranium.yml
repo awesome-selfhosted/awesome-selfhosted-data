@@ -1,10 +1,10 @@
-name: Figranium
-description: Visual block-based browser automation control plane and execution engine.
-site: https://github.com/figranium/figranium
-tags:
-  - automation
+name: "Figranium"
+website_url: "https://figranium.dev"
+source_code_url: "https://github.com/figranium/figranium"
+description: "Dockerized, self-hosted browser automation platform built on Playwright that lets you visually build and run browser tasks using modular action blocks. Workflows can be executed through the web interface, REST API, MCP integration, or dedicated n8n node—making it ideal for automation, web scraping, internal tools, and AI-powered browser agents."
 licenses:
   - GPL-3.0
 platforms:
   - Docker
-  - Node
+tags:
+  - Automation

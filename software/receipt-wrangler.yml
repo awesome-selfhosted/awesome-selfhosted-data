@@ -11,7 +11,7 @@ tags:
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
 stargazers_count: 262
-updated_at: '2026-08-07'
+updated_at: '2026-08-11'
 archived: false
 current_release:
   tag: v7.1.0
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 42
   2026-06: 144
   2026-07: 236
-  2026-08: 10
+  2026-08: 13

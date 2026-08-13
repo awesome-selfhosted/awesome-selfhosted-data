@@ -1,0 +1,13 @@
+name: SARA
+website_url: https://github.com/Alessandro114/sara
+source_code_url: https://github.com/Alessandro114/sara
+description: WhatsApp AI agent with 20 industry-specific verticals, function calling, RAG, and multi-provider LLM failover.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

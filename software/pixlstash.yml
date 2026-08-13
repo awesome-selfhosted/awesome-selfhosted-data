@@ -1,0 +1,12 @@
+name: PixlStash
+website_url: https://pixlstash.dev
+source_code_url: https://github.com/Pikselkroken/pixlstash
+description: Image and video library for AI-generated media, with automatic tagging, captioning, reverse image search, face and likeness similarity search, and two-way ComfyUI integration.
+licenses:
+  - GPL-3.0
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Photo Galleries

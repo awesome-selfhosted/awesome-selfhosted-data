@@ -7,7 +7,7 @@ licenses:
 platforms:
   - Nodejs
   - Docker
-  - k8s
+  - K8S
 tags:
   - Automation
-  - Monitoring & Status Pages
+  - Network Utilities

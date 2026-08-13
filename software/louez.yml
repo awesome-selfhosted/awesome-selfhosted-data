@@ -1,0 +1,13 @@
+name: Louez
+website_url: https://louez.io
+description: Equipment rental management with a booking storefront, live availability, reservations, pickup and return tracking, customer records and PDF contracts.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Booking and Scheduling
+  - E-commerce
+  - Inventory Management
+source_code_url: https://github.com/Synapsr/Louez

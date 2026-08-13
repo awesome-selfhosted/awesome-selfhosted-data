@@ -1,0 +1,13 @@
+name: TokenTimer
+website_url: https://tokentimer.ch
+source_code_url: https://github.com/tokentimerch/tokentimer-core
+description: Tracks and alerts on expiring certificates, API keys, secrets, and other infrastructure assets, with automated TLS certificate renewal.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - k8s
+tags:
+  - Automation
+  - Monitoring & Status Pages

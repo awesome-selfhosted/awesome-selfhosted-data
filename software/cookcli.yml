@@ -9,11 +9,11 @@ platforms:
 tags:
   - Recipe Management
 stargazers_count: 1364
-updated_at: '2026-08-10'
+updated_at: '2026-08-12'
 archived: false
 current_release:
-  tag: v0.33.0
-  published_at: '2026-08-10'
+  tag: v0.33.1
+  published_at: '2026-08-12'
 commit_history:
   2025-09: 69
   2025-10: 20
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 8
   2026-06: 11
   2026-07: 9
-  2026-08: 26
+  2026-08: 31

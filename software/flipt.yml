@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - Software Development - Feature Toggle
-stargazers_count: 4870
-updated_at: '2026-08-10'
+stargazers_count: 4869
+updated_at: '2026-08-13'
 archived: false
 current_release:
   tag: v2.11.0
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 50
   2026-06: 63
   2026-07: 91
-  2026-08: 10
+  2026-08: 19

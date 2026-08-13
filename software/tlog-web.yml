@@ -1,0 +1,24 @@
+name: tlog-web
+website_url: https://github.com/min-organization/tlog-web
+source_code_url: https://github.com/min-organization/tlog-web
+description: Self-hosted SSH session audit & replay. Vue 3 + Element Plus frontend embedded into a single Go binary (no CGO), JWT auth, tlog TIMING-accurate terminal replay, zh/en i18n, CSP-safe.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Remote Access
+stargazers_count: 1
+updated_at: '2026-08-13'
+archived: false
+current_release:
+  tag: v1.0.0
+  published_at: '2026-08-13'
+commit_history:
+  2026-03: 0
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0
+  2026-08: 1

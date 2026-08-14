@@ -1,0 +1,14 @@
+name: 博思AI智能体 (Bos AI)
+website_url: http://112.124.106.108/chat/home
+source_code_url: https://github.com/ysy0915/chat-system
+description: Multi-model debate platform with 3-6 LLMs teaming for debates, parallel Multi-Agent workflow (RabbitMQ dispatch + converge), RAG with Milvus vector store, 3-layer conversation memory, knowledge graph (Neo4j), and a reusable LLM gateway (chat-llm standalone mode with zero external dependencies).
+licenses:
+  - MIT
+platforms:
+  - Java
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 1
+updated_at: '2026-08-15'
+archived: false

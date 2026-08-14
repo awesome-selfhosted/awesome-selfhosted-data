@@ -1,0 +1,17 @@
+name: Clientverse
+website_url: https://clientverse.org/
+description: "Lightweight CRM for effortlessly managing contacts, sales pipelines, and customer interactions on your own infrastructure."
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Customer Relationship Management (CRM)
+source_code_url: https://github.com/alextselegidis/clientverse
+demo_url: https://demo.clientverse.org/
+stargazers_count: 4
+updated_at: '2026-06-27'
+archived: false
+current_release:
+  tag: 1.0.0
+  published_at: '2026-03-26'

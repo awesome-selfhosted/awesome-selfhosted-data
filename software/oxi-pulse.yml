@@ -1,0 +1,10 @@
+name: OxiPulse
+website_url: https://github.com/securyblack/oxi-pulse
+source_code_url: https://github.com/securyblack/oxi-pulse
+description: Ultralight Rust monitoring agent shipping CPU, RAM, disk and network metrics to any OTLP-compatible backend.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Monitoring & Status Pages

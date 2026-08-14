@@ -1,0 +1,12 @@
+name: "Port Buddy"
+website_url: "https://portbuddy.dev"
+source_code_url: "https://github.com/amak-tech/port-buddy"
+description: "Expose HTTPS/TCP/UDP tunnel from localhost to the internet in one command. Test webhooks, demo work in progress, debug on a real phone, or share a local database — without deploying, opening firewall ports or setting up a VPN. Alternative to Ngrok, Tailscale and Cloudflare Tunnels."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Proxy
+  - Web Servers

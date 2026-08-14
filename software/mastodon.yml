@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/mastodon/mastodon
 related_software_url: https://github.com/hyperupcall/awesome-mastodon
 stargazers_count: 50205
-updated_at: '2026-08-13'
+updated_at: '2026-08-14'
 archived: false
 current_release:
-  tag: v4.6.6
-  published_at: '2026-08-13'
+  tag: v4.7.0-rc.1
+  published_at: '2026-08-14'
 commit_history:
   2025-09: 203
   2025-10: 210
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 210
   2026-06: 301
   2026-07: 221
-  2026-08: 96
+  2026-08: 104

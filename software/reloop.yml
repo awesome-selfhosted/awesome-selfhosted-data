@@ -1,0 +1,12 @@
+name: Reloop
+website_url: https://reloop.sh
+source_code_url: https://github.com/reloop-labs/reloop
+description: Transactional email API and SMTP relay (alternative to Resend, SendGrid, Postmark).
+licenses:
+  - Apache-2.0
+  - ⊘ Proprietary
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Communication - Email - Complete Solutions

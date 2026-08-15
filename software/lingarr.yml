@@ -4,7 +4,6 @@ description: Automatically translate subtitle files in your Radarr and Sonarr me
 licenses:
   - AGPL-3.0
 platforms:
-  - C#
   - Docker
 tags:
   - Media Management

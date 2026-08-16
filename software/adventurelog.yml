@@ -10,12 +10,12 @@ tags:
   - Maps and Global Positioning System (GPS)
   - Travel Organization
 demo_url: https://demo.adventurelog.app/signup
-stargazers_count: 3459
-updated_at: '2026-05-25'
+stargazers_count: 3534
+updated_at: '2026-08-12'
 archived: false
 current_release:
-  tag: v0.12.1
-  published_at: '2026-05-25'
+  tag: v0.13.0
+  published_at: '2026-08-12'
 commit_history:
   2025-09: 10
   2025-10: 2
@@ -26,6 +26,6 @@ commit_history:
   2026-03: 10
   2026-04: 1
   2026-05: 3
-  2026-06: 0
-  2026-07: 0
-  2026-08: 0
+  2026-06: 72
+  2026-07: 65
+  2026-08: 19

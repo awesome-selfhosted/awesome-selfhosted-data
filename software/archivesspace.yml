@@ -9,8 +9,8 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/archivesspace/archivesspace
 demo_url: https://archivesspace.org/application/sandbox
-stargazers_count: 434
-updated_at: '2026-08-05'
+stargazers_count: 435
+updated_at: '2026-08-14'
 archived: false
 current_release:
   tag: v4.2.1
@@ -26,5 +26,5 @@ commit_history:
   2026-04: 63
   2026-05: 85
   2026-06: 53
-  2026-07: 81
-  2026-08: 4
+  2026-07: 85
+  2026-08: 25

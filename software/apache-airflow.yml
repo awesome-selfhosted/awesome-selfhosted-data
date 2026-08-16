@@ -9,12 +9,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/apache/airflow/
-stargazers_count: 46389
-updated_at: '2026-08-05'
+stargazers_count: 46502
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: java-sdk/1.0.0-beta1
-  published_at: '2026-07-13'
+  tag: 3.3.1
+  published_at: '2026-08-12'
 commit_history:
   2025-09: 608
   2025-10: 663
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 727
   2026-06: 729
   2026-07: 788
-  2026-08: 128
+  2026-08: 337

@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 2226
-updated_at: '2026-08-02'
+stargazers_count: 2245
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: v1.0.0-beta36
-  published_at: '2026-08-05'
+  tag: v1.0.0-beta37
+  published_at: '2026-08-13'
 commit_history:
   2025-09: 40
   2025-10: 36
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 22
   2026-06: 33
   2026-07: 28
-  2026-08: 6
+  2026-08: 26

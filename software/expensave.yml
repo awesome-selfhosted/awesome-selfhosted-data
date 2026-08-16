@@ -5,8 +5,6 @@ description: Expense tracker for personal and family budget management. Track sp
 licenses:
   - GPL-3.0
 platforms:
-  - PHP
-  - Nodejs
   - Docker
 tags:
   - Money, Budgeting & Management

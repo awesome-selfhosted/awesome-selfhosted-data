@@ -11,14 +11,13 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/bastienwirtz/homer
 demo_url: https://homer-demo.netlify.app
-stargazers_count: 11458
-updated_at: '2026-07-05'
+stargazers_count: 11531
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: v26.4.2
   published_at: '2026-04-18'
 commit_history:
-  2025-08: 4
   2025-09: 26
   2025-10: 17
   2025-11: 6
@@ -29,4 +28,5 @@ commit_history:
   2026-04: 27
   2026-05: 0
   2026-06: 0
-  2026-07: 7
+  2026-07: 11
+  2026-08: 0

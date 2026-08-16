@@ -9,14 +9,13 @@ platforms:
 tags:
   - Document Management
   - Automation
-stargazers_count: 12575
-updated_at: '2026-07-03'
+stargazers_count: 12795
+updated_at: '2026-07-31'
 archived: false
 current_release:
   tag: v8.34.0
   published_at: '2026-06-12'
 commit_history:
-  2025-08: 35
   2025-09: 17
   2025-10: 19
   2025-11: 18
@@ -27,4 +26,5 @@ commit_history:
   2026-04: 50
   2026-05: 16
   2026-06: 51
-  2026-07: 1
+  2026-07: 15
+  2026-08: 0

@@ -10,14 +10,13 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/octobox/octobox
 depends_3rdparty: true
-stargazers_count: 4477
-updated_at: '2026-07-08'
+stargazers_count: 4475
+updated_at: '2026-08-05'
 archived: false
 current_release:
-  tag: july-2026
-  published_at: '2026-07-01'
+  tag: august-2026
+  published_at: '2026-08-01'
 commit_history:
-  2025-08: 54
   2025-09: 66
   2025-10: 53
   2025-11: 36
@@ -28,4 +27,5 @@ commit_history:
   2026-04: 58
   2026-05: 80
   2026-06: 82
-  2026-07: 15
+  2026-07: 85
+  2026-08: 7

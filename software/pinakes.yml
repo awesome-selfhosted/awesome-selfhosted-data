@@ -1,0 +1,10 @@
+name: Pinakes
+website_url: https://github.com/fabiodalez-dev/Pinakes
+description: Catalog books and manage loans, reservations, members and an OPAC, with ISBN metadata scraping, barcode labels and CSV import/export.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - Document Management - Integrated Library Systems (ILS)
+source_code_url: https://github.com/fabiodalez-dev/Pinakes

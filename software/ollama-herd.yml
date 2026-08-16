@@ -1,0 +1,10 @@
+name: Ollama Herd
+website_url: https://ollamaherd.com
+source_code_url: https://github.com/geeks-accelerator/ollama-herd
+description: Load-balances LLM inference, image generation, speech-to-text and embeddings across a fleet of machines. Discovers nodes over mDNS and scores each on memory, thermal state, queue depth and loaded models. OpenAI-, Ollama- and Anthropic-compatible.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

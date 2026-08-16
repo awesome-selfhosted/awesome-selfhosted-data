@@ -1,6 +1,6 @@
 name: Ente
-website_url: https://ente.io/
-source_code_url: https://github.com/ente-io/ente
+website_url: https://ente.com/
+source_code_url: https://github.com/ente/ente
 description: An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos).
 licenses:
   - AGPL-3.0
@@ -10,15 +10,13 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 27007
-updated_at: '2026-06-05'
+stargazers_count: 28361
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: photos-v1.3.54
-  published_at: '2026-06-02'
+  tag: photos-v1.3.61
+  published_at: '2026-08-11'
 commit_history:
-  2025-07: 912
-  2025-08: 881
   2025-09: 598
   2025-10: 1039
   2025-11: 1425
@@ -27,5 +25,7 @@ commit_history:
   2026-02: 1140
   2026-03: 1587
   2026-04: 1019
-  2026-05: 1291
-  2026-06: 234
+  2026-05: 1511
+  2026-06: 1464
+  2026-07: 1921
+  2026-08: 1019

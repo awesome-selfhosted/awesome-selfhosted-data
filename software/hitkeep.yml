@@ -9,15 +9,17 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/pascalebeier/hitkeep
-stargazers_count: 57
-updated_at: '2026-06-05'
+stargazers_count: 81
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: v2.7.0+assets.1
-  published_at: '2026-06-05'
+  tag: snapshot-pr-304
+  published_at: '2026-08-15'
 commit_history:
   2026-02: 92
   2026-03: 137
   2026-04: 47
   2026-05: 81
-  2026-06: 26
+  2026-06: 58
+  2026-07: 160
+  2026-08: 27

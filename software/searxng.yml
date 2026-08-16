@@ -10,12 +10,10 @@ tags:
   - Search Engines
 source_code_url: https://github.com/searxng/searxng/
 depends_3rdparty: true
-stargazers_count: 31666
-updated_at: '2026-06-07'
+stargazers_count: 35513
+updated_at: '2026-08-14'
 archived: false
 commit_history:
-  2025-07: 67
-  2025-08: 69
   2025-09: 79
   2025-10: 75
   2025-11: 57
@@ -25,4 +23,6 @@ commit_history:
   2026-03: 74
   2026-04: 44
   2026-05: 82
-  2026-06: 26
+  2026-06: 125
+  2026-07: 79
+  2026-08: 17

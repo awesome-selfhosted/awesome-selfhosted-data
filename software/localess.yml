@@ -10,15 +10,13 @@ tags:
   - Content Management Systems (CMS)
   - Software Development - Localization
 depends_3rdparty: true
-stargazers_count: 72
-updated_at: '2026-05-27'
+stargazers_count: 74
+updated_at: '2026-08-04'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-05-28'
+  tag: v3.2.0
+  published_at: '2026-06-11'
 commit_history:
-  2025-07: 15
-  2025-08: 0
   2025-09: 3
   2025-10: 1
   2025-11: 0
@@ -27,5 +25,7 @@ commit_history:
   2026-02: 52
   2026-03: 65
   2026-04: 28
-  2026-05: 46
-  2026-06: 0
+  2026-05: 52
+  2026-06: 8
+  2026-07: 26
+  2026-08: 49

@@ -11,15 +11,13 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/jitsi/jitsi-meet
 demo_url: https://meet.jit.si
-stargazers_count: 29385
-updated_at: '2026-06-05'
+stargazers_count: 29744
+updated_at: '2026-08-13'
 archived: false
 current_release:
-  tag: stable/jitsi-meet_10978
-  published_at: '2026-05-20'
+  tag: stable/jitsi-meet_11146
+  published_at: '2026-08-03'
 commit_history:
-  2025-07: 79
-  2025-08: 52
   2025-09: 62
   2025-10: 86
   2025-11: 53
@@ -29,4 +27,6 @@ commit_history:
   2026-03: 102
   2026-04: 66
   2026-05: 55
-  2026-06: 30
+  2026-06: 87
+  2026-07: 85
+  2026-08: 21

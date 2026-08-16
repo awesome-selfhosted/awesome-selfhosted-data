@@ -9,15 +9,13 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/Drakkar-Software/OctoBot
-stargazers_count: 6038
-updated_at: '2026-05-16'
+stargazers_count: 6406
+updated_at: '2026-08-10'
 archived: false
 current_release:
-  tag: 2.1.1
-  published_at: '2026-03-30'
+  tag: 3.0.0-beta2
+  published_at: '2026-08-06'
 commit_history:
-  2025-07: 12
-  2025-08: 27
   2025-09: 43
   2025-10: 31
   2025-11: 19
@@ -26,5 +24,7 @@ commit_history:
   2026-02: 90
   2026-03: 102
   2026-04: 104
-  2026-05: 38
-  2026-06: 0
+  2026-05: 67
+  2026-06: 66
+  2026-07: 77
+  2026-08: 34

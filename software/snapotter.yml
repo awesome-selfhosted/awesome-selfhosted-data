@@ -1,0 +1,12 @@
+name: SnapOtter
+website_url: https://snapotter.com
+source_code_url: https://github.com/snapotter-hq/SnapOtter
+description: Suite of 200+ web tools for converting and editing images, videos, audio and PDFs, including a layer-based image editor, OCR, transcription, background removal and batch processing pipelines (alternative to SmallPDF, iLovePDF, CloudConvert).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management
+  - Miscellaneous
+demo_url: https://demo.snapotter.com

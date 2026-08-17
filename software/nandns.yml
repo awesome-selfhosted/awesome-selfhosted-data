@@ -1,0 +1,12 @@
+name: nandns
+website_url: https://github.com/nandezgarcia/nandns
+source_code_url: https://github.com/nandezgarcia/nandns
+description: "Self-hosted dynamic DNS (DDNS) service backed by the Cloudflare API, with a DuckDNS-compatible update endpoint and a free public instance."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - DNS
+depends_3rdparty: true
+demo_url: https://dns.kiokao.com

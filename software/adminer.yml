@@ -9,12 +9,12 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/vrana/adminer
-stargazers_count: 7741
-updated_at: '2026-08-12'
+stargazers_count: 7789
+updated_at: '2026-08-14'
 archived: false
 current_release:
-  tag: v6.0.0
-  published_at: '2026-08-07'
+  tag: v6.0.1
+  published_at: '2026-08-14'
 commit_history:
   2025-09: 38
   2025-10: 9
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 329
-  2026-08: 271
+  2026-08: 320

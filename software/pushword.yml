@@ -1,0 +1,11 @@
+name: Pushword
+website_url: https://pushword.piedweb.com
+source_code_url: https://github.com/Pushword/Pushword
+description: Content management system built on Symfony, where pages are Markdown and themes are Twig, with optional Git-based flat-file storage.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Content Management Systems (CMS)
+related_software_url: https://pushword.piedweb.com/extensions

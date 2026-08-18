@@ -1,0 +1,12 @@
+name: "MyLinks"
+website_url: "https://docs.mylinks.app"
+source_code_url: "https://github.com/my-links/my-links"
+description: "Bookmark manager to organize, search and share links, with collections, click-based ranking and a two-way syncing browser extension."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Bookmarks and Link Sharing
+related_software_url: "https://docs.mylinks.app/guide/browser-extension"

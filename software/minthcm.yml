@@ -8,14 +8,13 @@ platforms:
   - PHP
 tags:
   - Human Resources Management (HRM)
-stargazers_count: 385
+stargazers_count: 425
 updated_at: '2026-07-28'
 archived: false
 current_release:
   tag: 4.3.2.1
   published_at: '2026-07-28'
 commit_history:
-  2025-08: 4
   2025-09: 1
   2025-10: 1
   2025-11: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 19
   2026-06: 0
   2026-07: 5
+  2026-08: 0

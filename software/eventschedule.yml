@@ -9,13 +9,14 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-stargazers_count: 51
-updated_at: '2026-07-28'
+stargazers_count: 54
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: v1.0.121
-  published_at: '2026-07-26'
+  tag: v1.0.124
+  published_at: '2026-08-14'
 commit_history:
   2026-05: 93
   2026-06: 70
-  2026-07: 100
+  2026-07: 109
+  2026-08: 51

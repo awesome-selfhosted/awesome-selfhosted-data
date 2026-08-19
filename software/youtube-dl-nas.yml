@@ -10,13 +10,14 @@ tags:
   - Media Management
 source_code_url: https://github.com/hyeonsangjeon/youtube-dl-nas
 depends_3rdparty: true
-stargazers_count: 171
-updated_at: '2026-07-19'
+stargazers_count: 189
+updated_at: '2026-08-14'
 archived: false
 current_release:
-  tag: '26.0714'
-  published_at: '2026-07-14'
+  tag: '26.0806'
+  published_at: '2026-08-06'
 commit_history:
   2026-05: 0
   2026-06: 1
-  2026-07: 24
+  2026-07: 25
+  2026-08: 7

@@ -10,14 +10,13 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/fsinfuhh/Bitpoll
 demo_url: https://bitpoll.de/
-stargazers_count: 312
-updated_at: '2026-06-24'
+stargazers_count: 313
+updated_at: '2026-08-07'
 archived: false
 current_release:
   tag: 0.11.0
   published_at: '2026-05-22'
 commit_history:
-  2025-08: 0
   2025-09: 1
   2025-10: 0
   2025-11: 0
@@ -29,3 +28,4 @@ commit_history:
   2026-05: 9
   2026-06: 3
   2026-07: 0
+  2026-08: 3

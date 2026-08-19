@@ -8,14 +8,13 @@ platforms:
 tags:
   - Document Management - E-books
 source_code_url: https://github.com/stumpapp/stump
-stargazers_count: 2619
-updated_at: '2026-06-20'
+stargazers_count: 2654
+updated_at: '2026-08-02'
 archived: false
 current_release:
-  tag: v0.1.5
-  published_at: '2026-06-20'
+  tag: v0.1.6
+  published_at: '2026-08-02'
 commit_history:
-  2025-08: 15
   2025-09: 0
   2025-10: 2
   2025-11: 0
@@ -25,5 +24,6 @@ commit_history:
   2026-03: 69
   2026-04: 103
   2026-05: 62
-  2026-06: 35
-  2026-07: 0
+  2026-06: 42
+  2026-07: 18
+  2026-08: 4

@@ -9,14 +9,13 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/bcpierce00/unison
-stargazers_count: 5414
-updated_at: '2026-07-23'
+stargazers_count: 5440
+updated_at: '2026-08-06'
 archived: false
 current_release:
   tag: v2.54.0
   published_at: '2026-05-01'
 commit_history:
-  2025-08: 0
   2025-09: 3
   2025-10: 36
   2025-11: 23
@@ -28,3 +27,4 @@ commit_history:
   2026-05: 11
   2026-06: 7
   2026-07: 3
+  2026-08: 3

@@ -1,0 +1,22 @@
+name: DVinyl
+website_url: https://github.com/Kyonew/DVinyl
+source_code_url: https://github.com/Kyonew/DVinyl
+description: Modern collection manager for physical media (vinyls, CDs, cassettes, books, movies, and video games).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Inventory Management
+depends_3rdparty: true
+stargazers_count: 183
+updated_at: '2026-08-01'
+archived: false
+current_release:
+  tag: v3.1.0
+  published_at: '2026-08-02'
+commit_history:
+  2026-06: 13
+  2026-07: 50
+  2026-08: 3

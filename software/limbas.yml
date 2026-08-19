@@ -8,14 +8,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/limbas/limbas
-stargazers_count: 58
-updated_at: '2026-06-12'
+stargazers_count: 59
+updated_at: '2026-08-12'
 archived: false
 current_release:
-  tag: v7.1.14
-  published_at: '2026-06-12'
+  tag: v7.1.15
+  published_at: '2026-08-12'
 commit_history:
-  2025-08: 0
   2025-09: 0
   2025-10: 0
   2025-11: 1
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 0
   2026-06: 1
   2026-07: 0
+  2026-08: 1

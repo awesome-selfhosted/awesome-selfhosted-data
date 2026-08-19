@@ -9,14 +9,13 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/gethomepage/homepage
-stargazers_count: 31734
-updated_at: '2026-07-28'
+stargazers_count: 32031
+updated_at: '2026-08-15'
 archived: false
 current_release:
-  tag: v1.13.2
-  published_at: '2026-06-09'
+  tag: v2.0.0
+  published_at: '2026-08-14'
 commit_history:
-  2025-08: 49
   2025-09: 27
   2025-10: 14
   2025-11: 34
@@ -27,4 +26,5 @@ commit_history:
   2026-04: 48
   2026-05: 47
   2026-06: 34
-  2026-07: 49
+  2026-07: 53
+  2026-08: 58

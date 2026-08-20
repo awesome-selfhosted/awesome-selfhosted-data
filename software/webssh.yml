@@ -1,0 +1,11 @@
+name: WebSSH
+website_url: https://bifrost0x.github.io/webssh/
+description: Browser-based SSH client with terminal, SFTP, split views, saved connections, and Docker deployment.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/bifrost0x/webssh

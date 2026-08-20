@@ -1,0 +1,12 @@
+name: LoopTroop
+website_url: https://www.looptroop.ovh/
+source_code_url: https://github.com/looptroop-ai/LoopTroop
+description: Local GUI for planning and running long-running AI coding tasks across multiple repositories with LLM councils, isolated Git worktrees, and Ralph loops.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - IDE & Tools

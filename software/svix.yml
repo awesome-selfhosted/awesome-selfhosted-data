@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/svix/svix-webhooks
-stargazers_count: 3352
-updated_at: '2026-08-13'
+stargazers_count: 3361
+updated_at: '2026-08-19'
 archived: false
 current_release:
-  tag: bridge-v1.100.0
-  published_at: '2026-08-04'
+  tag: v2.0.0
+  published_at: '2026-08-19'
 commit_history:
   2025-09: 76
   2025-10: 60
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 90
   2026-06: 70
   2026-07: 168
-  2026-08: 55
+  2026-08: 61

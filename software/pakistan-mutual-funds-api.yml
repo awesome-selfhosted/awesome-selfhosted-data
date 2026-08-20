@@ -1,0 +1,10 @@
+name: Pakistan Mutual Funds API
+website_url: https://saadsalman.org/blog/free-api-pakistani-mutual-fund-navs
+source_code_url: https://github.com/saadsalmankhan/pakistan-mutual-funds-api
+description: REST API exposing current net asset values (NAVs) and offer prices for Pakistani mutual funds, sourced from MUFAP's public fund directory.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Money, Budgeting & Management

@@ -69,3 +69,4 @@ steps:
         - '^https://dev.webtrees.net/demo-stable/index.php\?ctype=gedcom\&ged=demo' # site takes a while to load,  times out with the default 10s timeout
         - '^https://www.gnu.org/software/mailman/' # site takes a while to load,  times out with the default 10s timeout
         - '^https://goteleport.com/' # Always returns 403 but loads in browser
+        - '^https://schemas.sourcemeta.com' # returns 404 unless the request sends an HTML Accept header, but the website works in a browser

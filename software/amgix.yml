@@ -1,0 +1,23 @@
+name: Amgix
+website_url: https://amgix.io
+source_code_url: https://github.com/amgix/amgix-server
+description: Open-source hybrid search engine built for flexible deployment and real-world messy data.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Search Engines
+demo_url: https://findgovdata.org
+related_software_url: https://github.com/orgs/amgix/repositories
+stargazers_count: 7
+updated_at: '2026-08-15'
+archived: false
+current_release:
+  tag: v1.6.6
+  published_at: '2026-08-15'
+commit_history:
+  2026-06: 29
+  2026-07: 32
+  2026-08: 9

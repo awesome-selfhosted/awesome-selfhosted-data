@@ -9,15 +9,13 @@ platforms:
   - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 30039
-updated_at: '2026-06-05'
+stargazers_count: 31693
+updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: pr-11779-craft-thinking-screenshots
-  published_at: '2026-06-05'
+  tag: helm/onyx-0.8.19
+  published_at: '2026-08-19'
 commit_history:
-  2025-07: 95
-  2025-08: 95
   2025-09: 156
   2025-10: 274
   2025-11: 295
@@ -27,4 +25,6 @@ commit_history:
   2026-03: 559
   2026-04: 556
   2026-05: 514
-  2026-06: 145
+  2026-06: 612
+  2026-07: 640
+  2026-08: 304

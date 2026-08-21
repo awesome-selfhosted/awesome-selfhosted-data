@@ -9,13 +9,15 @@ platforms:
   - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-stargazers_count: 142
-updated_at: '2026-06-04'
+stargazers_count: 355
+updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: v1.19.0
-  published_at: '2026-05-31'
+  tag: v2.0.0-beta.0
+  published_at: '2026-08-18'
 commit_history:
   2026-04: 30
   2026-05: 24
-  2026-06: 3
+  2026-06: 25
+  2026-07: 27
+  2026-08: 37

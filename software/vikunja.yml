@@ -10,13 +10,15 @@ platforms:
 tags:
   - Task Management & To-do Lists
 demo_url: https://try.vikunja.io/login
-stargazers_count: 4456
-updated_at: '2026-06-05'
+stargazers_count: 5115
+updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: v2.3.0
-  published_at: '2026-04-09'
+  tag: v2.5.0
+  published_at: '2026-08-04'
 commit_history:
   2026-04: 451
   2026-05: 207
-  2026-06: 76
+  2026-06: 419
+  2026-07: 358
+  2026-08: 223

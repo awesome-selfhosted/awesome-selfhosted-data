@@ -10,15 +10,13 @@ platforms:
 tags:
   - URL Shorteners
 demo_url: https://kutt.to
-stargazers_count: 10884
-updated_at: '2026-05-17'
+stargazers_count: 11041
+updated_at: '2026-08-17'
 archived: false
 current_release:
-  tag: v3.2.5
-  published_at: '2026-05-17'
+  tag: v3.2.6
+  published_at: '2026-07-05'
 commit_history:
-  2025-07: 0
-  2025-08: 0
   2025-09: 0
   2025-10: 0
   2025-11: 2
@@ -28,4 +26,6 @@ commit_history:
   2026-03: 0
   2026-04: 0
   2026-05: 6
-  2026-06: 0
+  2026-06: 3
+  2026-07: 6
+  2026-08: 2

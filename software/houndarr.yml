@@ -1,0 +1,11 @@
+name: Houndarr
+website_url: https://av1155.github.io/houndarr/
+source_code_url: https://github.com/av1155/houndarr
+description: Scheduled backlog searches for Radarr, Sonarr, Lidarr, Readarr and Whisparr. Works through missing and cutoff-unmet items in small rate-limited batches with per-item cooldowns and hourly caps, to avoid overloading indexers.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management

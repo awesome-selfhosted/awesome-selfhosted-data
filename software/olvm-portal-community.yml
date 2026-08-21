@@ -1,0 +1,15 @@
+name: OLVM Portal Community
+website_url: https://olvm-portal.sixmanager.io
+description: Multitenant web portal for Oracle Linux Virtualization Manager (OLVM) and oVirt with 1-click VM operations, embedded VNC console, OVA/QCOW2 imports and scheduled backups.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/npalmae/olvm-portal-community
+demo_url: https://olvm-portal.sixmanager.io
+stargazers_count: 1
+updated_at: '2026-08-21'
+archived: false

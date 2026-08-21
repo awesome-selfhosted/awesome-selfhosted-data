@@ -1,0 +1,14 @@
+name: "wbsx"
+website_url: "https://wbsx.codeberg.page"
+source_code_url: "https://codeberg.org/wbsx/wbsx"
+description: "Web app builder. Command line XSLT processor for XML and HTML content."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - C
+  - C++
+tags:
+  - Software Development - IDE & Tools
+  - Web Servers
+demo_url: "https://wbsx.codeberg.page"

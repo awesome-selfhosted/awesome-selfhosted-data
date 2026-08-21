@@ -1,0 +1,12 @@
+name: Oikos
+website_url: https://github.com/atsob/Oikos
+description: Personal finance and multicurrency investment tracker with cash flow forecasting, tax-category reporting, and portfolio look-through analysis for stocks, ETFs, bonds and crypto.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - JavaScript
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/atsob/Oikos

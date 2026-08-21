@@ -4,6 +4,8 @@ description: Photo and video backup solution directly from your mobile phone (al
 licenses:
   - AGPL-3.0
 platforms:
+  - NodeJS
+  - Dart
   - Docker
 tags:
   - Photo Galleries

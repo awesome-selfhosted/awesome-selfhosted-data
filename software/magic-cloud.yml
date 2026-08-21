@@ -1,0 +1,11 @@
+name: Magic Cloud
+website_url: https://ainiro.io
+description: "Self-hosted AI app builder and agent platform: generate full-stack apps (database, secure APIs, frontend) from natural language, with authentication, workflows and an MCP server included."
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/polterguy/magic

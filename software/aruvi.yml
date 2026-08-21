@@ -1,0 +1,14 @@
+name: Aruvi
+website_url: https://github.com/tirforge/Aruvi
+description: Self-hosted media platform that streams files from your own private Telegram channel to Web, Android, Android TV and Desktop clients, with multi-bot parallel fetching and two-tier caching.
+licenses:
+  - MIT
+platforms:
+  - python
+  - docker
+  - deb
+tags:
+  - Media Streaming - Multimedia Streaming
+source_code_url: https://github.com/tirforge/Aruvi
+demo_url: https://movie.aaruvi.space
+depends_3rdparty: true

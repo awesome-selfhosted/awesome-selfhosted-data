@@ -1,0 +1,10 @@
+name: llamafile
+website_url: https://docs.mozilla.ai/llamafile/
+source_code_url: https://github.com/mozilla-ai/llamafile
+description: Portable C++ tool for bundling and running local LLMs as single-file executables with a web UI, OpenAI-compatible server, and CLI.
+licenses:
+  - Apache-2.0
+platforms:
+  - C++
+tags:
+  - Generative Artificial Intelligence (GenAI)

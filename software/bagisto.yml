@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/bagisto/bagisto
 demo_url: https://demo.bagisto.com/
 stargazers_count: 27987
-updated_at: '2026-08-20'
+updated_at: '2026-08-21'
 archived: false
 current_release:
-  tag: v2.4.9
-  published_at: '2026-08-05'
+  tag: v2.4.10
+  published_at: '2026-08-21'
 commit_history:
   2025-09: 181
   2025-10: 49
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 124
   2026-06: 60
   2026-07: 65
-  2026-08: 103
+  2026-08: 113

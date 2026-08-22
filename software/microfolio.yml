@@ -1,0 +1,11 @@
+name: microfolio
+website_url: https://aker-dev.github.io/microfolio/
+source_code_url: https://github.com/aker-dev/microfolio
+description: Portfolio and gallery site builder for creatives, with grid, list and map views, tag filters and an EXIF-aware image lightbox. Projects are plain folders of Markdown files and images, published as a static site.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Photo Galleries
+demo_url: https://aker-dev.github.io/microfolio/projects/

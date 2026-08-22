@@ -1,0 +1,10 @@
+name: Beaver
+website_url: https://github.com/zaengit/beaver
+description: Astro CMS integration with an admin panel, SQLite-backed content management, media handling, menus, site settings, and configurable content types.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Content Management Systems (CMS)
+source_code_url: https://github.com/zaengit/beaver

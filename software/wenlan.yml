@@ -1,0 +1,11 @@
+name: Wenlan
+website_url: https://wenlan.app
+source_code_url: https://github.com/7xuanlu/wenlan
+description: Local source-backed AI knowledge base that turns documents and agent work into maintained Markdown pages with citations, MCP and HTTP access, and human review.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Knowledge Management Tools
+  - Generative Artificial Intelligence (GenAI)

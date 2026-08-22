@@ -1,0 +1,13 @@
+name: "OpenWA"
+website_url: "https://www.open-wa.org"
+source_code_url: "https://github.com/rmyndharis/OpenWA"
+description: "WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers)."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Communication - Custom Communication Systems
+depends_3rdparty: true
+related_software_url: "https://github.com/rmyndharis/OpenWA-plugins"

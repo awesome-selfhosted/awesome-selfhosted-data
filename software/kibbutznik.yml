@@ -1,0 +1,11 @@
+name: Kibbutznik
+website_url: https://kibbutznik.org/
+source_code_url: https://github.com/Kibbutznik/kibbutznik
+description: Governance engine for self-governing groups. Members propose rules, support gathers in the open, and a recurring pulse turns enough support into a decision. Supports nested sub-communities and has no admin tier.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Communication - Social Networks and Forums
+demo_url: https://kibbutznik.org/kbz/viewer/

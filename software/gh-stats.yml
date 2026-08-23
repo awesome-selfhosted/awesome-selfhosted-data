@@ -1,0 +1,12 @@
+name: gh-stats
+website_url: https://gh-stats.com
+description: Renders GitHub profile statistics as a single SVG card for embedding in a README, with per-widget endpoints, themes, and light/dark auto-switching. Self-hosting uses your own GitHub API rate limit.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/ShayManor/github-readme-stats
+demo_url: https://gh-stats.com

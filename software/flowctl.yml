@@ -10,12 +10,12 @@ platforms:
 tags:
   - Automation
 demo_url: https://demo.flowctl.net
-stargazers_count: 330
+stargazers_count: 331
 updated_at: '2026-08-21'
 archived: false
 current_release:
-  tag: v0.14.0
-  published_at: '2026-08-06'
+  tag: v0.15.0-beta.0
+  published_at: '2026-08-23'
 commit_history:
   2026-03: 39
   2026-04: 40

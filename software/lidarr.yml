@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/Lidarr/Lidarr
-stargazers_count: 5583
-updated_at: '2026-08-22'
+stargazers_count: 5591
+updated_at: '2026-08-23'
 archived: false
 current_release:
-  tag: v3.1.3.4987
-  published_at: '2026-07-26'
+  tag: v3.1.4.5029
+  published_at: '2026-08-23'
 commit_history:
   2025-09: 43
   2025-10: 35
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 9
   2026-06: 1
   2026-07: 9
-  2026-08: 2
+  2026-08: 3

@@ -1,0 +1,10 @@
+name: Nibi
+website_url: https://github.com/Cavaggion/nibi
+description: Self-hosted kanban for humans and AI agents. One JSON file is the source of truth, zero dependencies, stable JSON CLI and HTTP API for agents.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Task Management & To-do Lists
+source_code_url: https://github.com/Cavaggion/nibi

@@ -1,0 +1,13 @@
+name: "OTP Board"
+website_url: "https://github.com/TOBYCAI/otp-board"
+source_code_url: "https://github.com/TOBYCAI/otp-board"
+description: "Self-hosted OTP/verification-code dashboard. Android client forwards SMS and system notifications over HTTPS to a zero-dependency Node.js server for centralized viewing, de-duplication and CSV export."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Automation
+  - Communication - Custom Communication Systems
+depends_3rdparty: false

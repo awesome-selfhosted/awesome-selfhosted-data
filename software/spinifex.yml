@@ -1,0 +1,10 @@
+name: Spinifex
+website_url: https://mulgadc.com
+description: AWS-compatible cloud platform (EC2, VPC, S3, EKS, ECS, RDS) for running cloud-native workloads on your own hardware, at the edge, or on-premise.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/mulgadc/spinifex

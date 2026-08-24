@@ -1,6 +1,6 @@
 name: HomeButler
 website_url: https://homebutler.dev
-description: Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run. Single Go binary with CLI, JSON, web and MCP interfaces.
+description: Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run with CLI, JSON, web and MCP interfaces.
 licenses:
   - MIT
 platforms:

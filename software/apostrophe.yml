@@ -8,12 +8,11 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/apostrophecms/apostrophe
-demo_url: https://apostrophecms.com/demo
-stargazers_count: 4593
-updated_at: '2026-07-16'
+demo_url: https://demo.apostrophecms.com/
+stargazers_count: 4603
+updated_at: '2026-08-19'
 archived: false
 commit_history:
-  2025-08: 15
   2025-09: 16
   2025-10: 31
   2025-11: 24
@@ -24,4 +23,5 @@ commit_history:
   2026-04: 30
   2026-05: 23
   2026-06: 49
-  2026-07: 19
+  2026-07: 22
+  2026-08: 13

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Personal Dashboards
 source_code_url: https://github.com/linuxserver/Heimdall
-stargazers_count: 9277
-updated_at: '2026-07-10'
+stargazers_count: 9304
+updated_at: '2026-08-12'
 archived: false
 current_release:
-  tag: v2.8.1
-  published_at: '2026-07-09'
+  tag: v2.8.2
+  published_at: '2026-08-12'
 commit_history:
-  2025-08: 6
   2025-09: 13
   2025-10: 0
   2025-11: 6
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 1
   2026-06: 0
   2026-07: 44
+  2026-08: 6

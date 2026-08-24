@@ -8,12 +8,12 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/usertour/usertour/
-stargazers_count: 2280
-updated_at: '2026-08-17'
+stargazers_count: 2283
+updated_at: '2026-08-22'
 archived: false
 current_release:
-  tag: v0.9.2
-  published_at: '2026-08-15'
+  tag: v0.9.3
+  published_at: '2026-08-22'
 commit_history:
   2025-09: 0
   2025-10: 185
@@ -25,5 +25,5 @@ commit_history:
   2026-04: 315
   2026-05: 414
   2026-06: 579
-  2026-07: 430
-  2026-08: 111
+  2026-07: 436
+  2026-08: 177

@@ -1,0 +1,14 @@
+name: Bifrost
+website_url: https://www.getmaxim.ai/bifrost
+source_code_url: https://github.com/maximhq/bifrost
+description: LLM gateway with a unified API for multiple providers, adaptive load balancing, fallbacks, guardrails, and observability.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - API Management
+  - Proxy

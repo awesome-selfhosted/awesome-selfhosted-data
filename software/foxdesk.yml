@@ -1,0 +1,12 @@
+name: FoxDesk
+website_url: https://foxdesk.net/
+source_code_url: https://github.com/lukashanes/foxdesk
+description: Client support, ticketing, time tracking and client reporting for freelancers and service teams.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Ticketing
+  - Time Tracking
+depends_3rdparty: false

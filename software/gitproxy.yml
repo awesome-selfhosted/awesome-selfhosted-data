@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - Proxy
-stargazers_count: 240
-updated_at: '2026-08-23'
+stargazers_count: 241
+updated_at: '2026-08-24'
 archived: false
 current_release:
   tag: v2.1.0
   published_at: '2026-08-14'
 commit_history:
   2026-05: 134
-  2026-06: 156
+  2026-06: 157
   2026-07: 134
-  2026-08: 70
+  2026-08: 78

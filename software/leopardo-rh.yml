@@ -1,0 +1,12 @@
+name: Leopardo RH
+website_url: https://github.com/kitokoh/leopardo-hr
+source_code_url: https://github.com/kitokoh/leopardo-hr
+description: Open-source, mobile-first HR and payroll operating system for field-based companies, combining employee records, attendance, leave, schedules, documents, payroll preparation and workforce analytics.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Human Resources Management (HRM)
+demo_url: https://leo-admin.pages.dev

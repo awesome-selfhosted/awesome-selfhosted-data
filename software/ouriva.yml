@@ -1,0 +1,11 @@
+name: Ouriva
+website_url: https://ouriva.app
+source_code_url: https://github.com/ouriva/ouriva
+description: Mobile-first personal finance tracker with multi-currency accounts, CSV bank statement import, and 50/30/20 budgeting. (alternative to YNAB, Copilot, Monarch)
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management

@@ -8,4 +8,4 @@ platforms:
   - deb
 tags:
   - File Transfer & Synchronization
-source_code_url: https://github.com/openbsd/src/tree/master/usr.bin/ssh
+source_code_url: https://cvsweb.openbsd.org/src/usr.bin/ssh?sort=File

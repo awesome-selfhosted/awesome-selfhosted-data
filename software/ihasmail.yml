@@ -1,0 +1,11 @@
+name: ihasmail
+website_url: https://ihasmail.org
+description: Webmail, calendar, contacts and files client for Stalwart Mail Server, speaking only JMAP. Gmail-style three-pane layout, search operators and keyboard shortcuts, a Sieve filter builder, and an installable PWA with Web Push.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://github.com/LINUXexpert-org/ihasmail

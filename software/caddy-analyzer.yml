@@ -1,0 +1,11 @@
+name: caddy-analyzer
+website_url: https://github.com/lenny-ts/caddy-analyzer
+source_code_url: https://github.com/lenny-ts/caddy-analyzer
+description: Security-focused log analyzer for Caddy v2 with 26 attack categories, dual-pass detection engine, and real-time iptables blocking.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Monitoring
+  - Security

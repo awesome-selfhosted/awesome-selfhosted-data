@@ -1,0 +1,11 @@
+name: Tugtainer
+website_url: https://github.com/Quenary/tugtainer
+source_code_url: https://github.com/Quenary/tugtainer
+description: Web UI for automating Docker container updates across multiple hosts, with scheduling, notifications, and per-container policies.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation

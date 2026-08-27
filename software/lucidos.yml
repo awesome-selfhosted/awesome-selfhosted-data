@@ -1,0 +1,14 @@
+name: Lucidos
+website_url: https://lucidos.dev
+source_code_url: https://github.com/lucidos-dev/lucidos
+description: Local AI operating system where you describe an app or an automation in chat and it runs seconds later, against your own files, data and API credentials.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Nodejs
+tags:
+  - Automation
+  - Generative Artificial Intelligence (GenAI)
+  - Personal Dashboards
+  - Self-hosting Solutions

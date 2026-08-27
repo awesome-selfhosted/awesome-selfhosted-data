@@ -1,0 +1,12 @@
+name: Cardholder PWA
+website_url: https://github.com/Quenary/cardholder_pwa
+source_code_url: https://github.com/Quenary/cardholder_pwa
+description: Store and display loyalty and discount cards as barcodes and QR codes, with camera scanning, multi-user support, and offline PWA access (alternative to Catima, Stocard).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Money, Budgeting & Management
+demo_url: https://cardholder-pwa.onrender.com

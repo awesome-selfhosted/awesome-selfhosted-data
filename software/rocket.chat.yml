@@ -10,15 +10,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/RocketChat/Rocket.Chat
-stargazers_count: 45690
-updated_at: '2026-06-22'
+stargazers_count: 46033
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: 8.6.0-rc.0
-  published_at: '2026-06-20'
+  tag: 8.8.0-rc.0
+  published_at: '2026-08-20'
 commit_history:
-  2025-07: 166
-  2025-08: 124
   2025-09: 130
   2025-10: 168
   2025-11: 137
@@ -28,4 +26,6 @@ commit_history:
   2026-03: 172
   2026-04: 167
   2026-05: 174
-  2026-06: 135
+  2026-06: 199
+  2026-07: 274
+  2026-08: 110

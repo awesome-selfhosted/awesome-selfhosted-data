@@ -8,15 +8,13 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/DDVTECH/mistserver
-stargazers_count: 502
-updated_at: '2026-01-29'
+stargazers_count: 508
+updated_at: '2026-07-24'
 archived: false
 current_release:
-  tag: '3.10'
-  published_at: '2026-01-29'
+  tag: 3.11.2
+  published_at: '2026-07-24'
 commit_history:
-  2025-07: 34
-  2025-08: 18
   2025-09: 36
   2025-10: 38
   2025-11: 23
@@ -25,5 +23,7 @@ commit_history:
   2026-02: 0
   2026-03: 0
   2026-04: 0
-  2026-05: 0
-  2026-06: 0
+  2026-05: 6
+  2026-06: 22
+  2026-07: 24
+  2026-08: 0

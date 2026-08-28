@@ -1,0 +1,14 @@
+name: Kylrix
+website_url: https://www.kylrix.space
+source_code_url: https://github.com/Kylrix/kylrix
+description: Local-first agentic workspace and productivity suite unifying notes, goals, calendar events, communications, and encrypted vault secrets.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Groupware
+  - Task Management & To-do Lists
+  - Note-taking & Editors
+demo_url: https://www.kylrix.space

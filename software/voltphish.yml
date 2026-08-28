@@ -1,0 +1,11 @@
+name: VoltPhish
+website_url: https://hub.docker.com/r/baymaxarmed/voltphish
+source_code_url: https://github.com/Baymax-armed/Voltphish
+description: Platform for running internal phishing simulations and security-awareness training, with multi-vector lures (email, QR, calendar), a report-phish button, a training module system with auto-enrollment, and per-user human-risk analytics.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Miscellaneous

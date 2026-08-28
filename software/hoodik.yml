@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - File Transfer & Synchronization
-stargazers_count: 1451
-updated_at: '2026-08-26'
+stargazers_count: 1456
+updated_at: '2026-08-28'
 archived: false
 current_release:
   tag: v2.5.0
@@ -17,4 +17,4 @@ current_release:
 commit_history:
   2026-06: 1
   2026-07: 18
-  2026-08: 5
+  2026-08: 7

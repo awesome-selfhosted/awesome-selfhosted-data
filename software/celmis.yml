@@ -1,0 +1,12 @@
+name: Celmis
+website_url: https://celmis-labs.github.io
+description: Code intelligence over a symbol graph of your repositories. Ask questions that cross repository boundaries and get file and line citations, review pull requests, audit dependencies into a CycloneDX SBOM, and serve the index over MCP.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/Celmis-labs/Celmis

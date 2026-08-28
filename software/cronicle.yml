@@ -8,12 +8,12 @@ platforms:
   - Nodejs
 tags:
   - Automation
-stargazers_count: 5796
-updated_at: '2026-08-15'
+stargazers_count: 5811
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: v0.9.129
-  published_at: '2026-08-15'
+  tag: v0.9.130
+  published_at: '2026-08-28'
 commit_history:
   2025-10: 16
   2025-11: 4
@@ -25,4 +25,4 @@ commit_history:
   2026-05: 4
   2026-06: 13
   2026-07: 11
-  2026-08: 12
+  2026-08: 15

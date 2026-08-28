@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 29692
-updated_at: '2026-08-14'
+stargazers_count: 29914
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: '@composio/cli@0.3.4-beta.351'
-  published_at: '2026-08-13'
+  tag: versioning-example@0.1.1
+  published_at: '2026-08-27'
 commit_history:
   2025-09: 117
   2025-10: 132
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 283
   2026-06: 146
   2026-07: 255
-  2026-08: 258
+  2026-08: 458

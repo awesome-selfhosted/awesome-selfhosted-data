@@ -8,12 +8,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/InvoicePlane/InvoicePlane
-stargazers_count: 3110
-updated_at: '2026-08-11'
+stargazers_count: 3125
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: v1.7.2-rc-1
-  published_at: '2026-07-30'
+  tag: v1.7.2-rc-2
+  published_at: '2026-08-17'
 commit_history:
   2025-09: 3
   2025-10: 6
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 11
   2026-06: 16
   2026-07: 111
-  2026-08: 51
+  2026-08: 71

@@ -8,12 +8,12 @@ platforms:
   - Go
 tags:
   - Communication - Email - Complete Solutions
-stargazers_count: 5787
-updated_at: '2026-08-15'
+stargazers_count: 5828
+updated_at: '2026-08-23'
 archived: false
 current_release:
-  tag: v0.0.15
-  published_at: '2025-04-18'
+  tag: v0.0.17
+  published_at: '2026-08-19'
 commit_history:
   2025-09: 8
   2025-10: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 0
   2026-06: 3
   2026-07: 18
-  2026-08: 19
+  2026-08: 41

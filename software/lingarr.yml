@@ -1,0 +1,20 @@
+name: Lingarr
+website_url: https://lingarr.com
+description: Automatically translate subtitle files in your Radarr and Sonarr media libraries, using LibreTranslate, local AI models, or SaaS translation services.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Media Management
+source_code_url: https://github.com/lingarr-translate/lingarr
+stargazers_count: 857
+updated_at: '2026-08-22'
+archived: false
+current_release:
+  tag: 1.3.0
+  published_at: '2026-08-12'
+commit_history:
+  2026-06: 0
+  2026-07: 14
+  2026-08: 29

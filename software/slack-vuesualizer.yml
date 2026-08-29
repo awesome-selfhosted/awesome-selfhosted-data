@@ -1,0 +1,10 @@
+name: Slack Vuesualizer
+website_url: https://github.com/4350pChris/slack-vuesualizer
+description: Browse and search messages from Slack workspace exports.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/4350pChris/slack-vuesualizer

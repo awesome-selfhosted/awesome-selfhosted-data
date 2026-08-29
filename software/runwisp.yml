@@ -1,0 +1,11 @@
+name: RunWisp
+website_url: https://runwisp.com/
+source_code_url: https://github.com/runwisp/runwisp
+description: Cron job scheduler and process supervisor in one binary, with a web UI and terminal dashboard for run history, logs, exit codes and failure alerts across scheduled tasks and services (alternative to cron, supervisord).
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation

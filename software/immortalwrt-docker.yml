@@ -1,0 +1,11 @@
+name: ImmortalWrt Gateway Docker
+website_url: https://hub.docker.com/r/hasanjws/immortalwrt-gateway
+description: Multi-architecture ImmortalWrt sidecar and bypass gateway container with pre-bundled OpenClash, Mihomo core, and WireGuard.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Network Utilities
+  - Proxy
+source_code_url: https://github.com/SwiftExplorer567/immortalwrt-docker

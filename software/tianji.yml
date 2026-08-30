@@ -1,0 +1,10 @@
+name: Tianji
+website_url: https://github.com/zhujunhuo-ops/tianji
+source_code_url: https://github.com/zhujunhuo-ops/tianji
+description: Local-first AI butler with voice & vision. Offline wake word and speech recognition, semantic memory with vector search, SKILL.md document-driven skills, zero-key web search, Home Assistant control, and a multiplayer world with relay.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

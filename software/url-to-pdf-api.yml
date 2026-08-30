@@ -1,0 +1,10 @@
+name: URL to PDF Microservice
+website_url: https://github.com/Ant19801108/url-to-pdf-api
+source_code_url: https://github.com/Ant19801108/url-to-pdf-api
+description: "Web page PDF and screenshot rendering microservice. Converts any URL or HTML content to PDF, PNG or JPEG using headless Chrome."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Miscellaneous

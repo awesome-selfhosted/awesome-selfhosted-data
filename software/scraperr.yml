@@ -1,0 +1,11 @@
+name: Scraperr
+website_url: https://github.com/Ant19801108/Scraperr
+source_code_url: https://github.com/Ant19801108/Scraperr
+description: "Self-hosted web scraper with a web UI. Select elements on a page (no-code XPath) and export the scraped data."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Miscellaneous

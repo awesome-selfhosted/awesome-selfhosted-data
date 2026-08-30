@@ -1,0 +1,16 @@
+name: IP Radar
+website_url: https://github.com/steponeerror/ip-radar
+source_code_url: https://github.com/steponeerror/ip-radar
+description: >-
+  IP threat intelligence aggregator that fuses 29 public feeds into one verdict
+  with evidence and confidence, plus geo and ASN enrichment. Lookups are served
+  fully locally; 25 of 29 feeds need no API key (alternative to AbuseIPDB,
+  ipinfo).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Network Utilities
+demo_url: https://ipradar.huxiao0207.dpdns.org

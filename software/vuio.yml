@@ -1,0 +1,12 @@
+name: VuIO
+website_url: https://vuio.dev
+source_code_url: https://github.com/vuiodev/vuio
+description: Lightweight DLNA, Chromecast, and AirPlay media server written in Rust.
+licenses:
+  - Apache-2.0
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Media Streaming - Multimedia Streaming

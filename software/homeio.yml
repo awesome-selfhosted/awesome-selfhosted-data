@@ -1,0 +1,13 @@
+name: Homeio
+website_url: https://homeio.app
+source_code_url: https://github.com/doctor-io/homeio
+demo_url: https://demo.homeio.app
+description: Self-hosted server manager with a desktop-style UI, real-time system visibility, Docker Compose app management, and Tailscale integration.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Personal Dashboards

@@ -9,11 +9,10 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/stoatchat/self-hosted
-stargazers_count: 2439
-updated_at: '2026-05-17'
+stargazers_count: 2620
+updated_at: '2026-08-14'
 archived: false
 commit_history:
-  2025-08: 0
   2025-09: 0
   2025-10: 0
   2025-11: 1
@@ -22,7 +21,10 @@ commit_history:
   2026-02: 9
   2026-03: 7
   2026-04: 2
-  2026-05: 1
+  2026-05: 2
+  2026-06: 4
+  2026-07: 1
+  2026-08: 2
 current_release:
   tag: v1.1.4
   published_at: '2025-11-24'

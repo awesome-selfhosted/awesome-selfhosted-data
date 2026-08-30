@@ -1,0 +1,13 @@
+name: "PieFed"
+website_url: "https://join.piefed.social"
+source_code_url: "https://codeberg.org/rimu/pyfedi"
+description: "A link aggregator / reddit clone for the fediverse (alternative to Reddit)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Social Networks and Forums   
+  - Bookmarks and Link Sharing
+demo_url: "https://piefed.social"

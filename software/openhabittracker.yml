@@ -10,12 +10,18 @@ tags:
   - Task Management & To-do Lists
   - Time Tracking
 demo_url: https://pwa.openhabittracker.net
-stargazers_count: 244
-updated_at: '2026-05-06'
+stargazers_count: 273
+updated_at: '2026-08-26'
 archived: false
 commit_history:
   2026-01: 0
   2026-02: 168
   2026-03: 322
   2026-04: 32
-  2026-05: 7
+  2026-05: 56
+  2026-06: 2
+  2026-07: 115
+  2026-08: 82
+current_release:
+  tag: 1.2.4
+  published_at: '2026-08-15'

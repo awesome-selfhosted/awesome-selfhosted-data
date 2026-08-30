@@ -1,5 +1,5 @@
 name: Bluecherry
-website_url: https://www.bluecherrydvr.com/
+website_url: https://github.com/bluecherrydvr/bluecherry-apps
 description: Closed-circuit television (CCTV) software application which supports IP and Analog cameras.
 licenses:
   - GPL-2.0
@@ -8,16 +8,13 @@ platforms:
 tags:
   - Video Surveillance
 source_code_url: https://github.com/bluecherrydvr/bluecherry-apps
-stargazers_count: 271
+stargazers_count: 274
 updated_at: '2025-12-29'
 archived: false
 current_release:
   tag: v3.1.14
   published_at: '2025-08-31'
 commit_history:
-  2025-06: 38
-  2025-07: 23
-  2025-08: 42
   2025-09: 12
   2025-10: 0
   2025-11: 0
@@ -27,3 +24,6 @@ commit_history:
   2026-03: 0
   2026-04: 0
   2026-05: 0
+  2026-06: 0
+  2026-07: 0
+  2026-08: 0

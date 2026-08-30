@@ -12,16 +12,13 @@ tags:
   - Pastebins
 demo_url: https://play.silverbullet.md/
 related_software_url: https://silverbullet.md/Libraries
-stargazers_count: 5257
-updated_at: '2026-05-16'
+stargazers_count: 5952
+updated_at: '2026-08-29'
 archived: false
 current_release:
-  tag: 2.8.0
-  published_at: '2026-05-15'
+  tag: 2.10.0
+  published_at: '2026-07-28'
 commit_history:
-  2025-06: 94
-  2025-07: 14
-  2025-08: 57
   2025-09: 148
   2025-10: 86
   2025-11: 90
@@ -30,4 +27,7 @@ commit_history:
   2026-02: 109
   2026-03: 196
   2026-04: 119
-  2026-05: 62
+  2026-05: 142
+  2026-06: 60
+  2026-07: 61
+  2026-08: 148

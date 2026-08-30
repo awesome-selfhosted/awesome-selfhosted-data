@@ -8,16 +8,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/MichaIng/DietPi
-stargazers_count: 6058
-updated_at: '2026-05-17'
+stargazers_count: 6230
+updated_at: '2026-08-30'
 archived: false
 current_release:
-  tag: v10.4
-  published_at: '2026-05-17'
+  tag: v10.6
+  published_at: '2026-08-08'
 commit_history:
-  2025-06: 156
-  2025-07: 66
-  2025-08: 171
   2025-09: 85
   2025-10: 113
   2025-11: 80
@@ -26,4 +23,7 @@ commit_history:
   2026-02: 82
   2026-03: 140
   2026-04: 74
-  2026-05: 47
+  2026-05: 65
+  2026-06: 49
+  2026-07: 33
+  2026-08: 82

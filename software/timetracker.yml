@@ -1,0 +1,20 @@
+name: TimeTracker
+website_url: https://timetracker.drytrix.com/
+source_code_url: https://github.com/drytrix/TimeTracker
+description: Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Time Tracking
+stargazers_count: 616
+updated_at: '2026-08-27'
+archived: false
+current_release:
+  tag: v5.13.2
+  published_at: '2026-08-27'
+commit_history:
+  2026-06: 59
+  2026-07: 67
+  2026-08: 128

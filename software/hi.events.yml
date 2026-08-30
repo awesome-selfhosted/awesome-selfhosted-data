@@ -10,16 +10,13 @@ tags:
   - Booking and Scheduling
   - E-commerce
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
-stargazers_count: 3813
-updated_at: '2026-05-11'
+stargazers_count: 4002
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: v1.9.0-beta
-  published_at: '2026-04-28'
+  tag: v2.0.0-rc.1
+  published_at: '2026-08-27'
 commit_history:
-  2025-06: 23
-  2025-07: 4
-  2025-08: 8
   2025-09: 0
   2025-10: 25
   2025-11: 34
@@ -28,4 +25,7 @@ commit_history:
   2026-02: 11
   2026-03: 41
   2026-04: 14
-  2026-05: 1
+  2026-05: 3
+  2026-06: 8
+  2026-07: 29
+  2026-08: 32

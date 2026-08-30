@@ -1,0 +1,10 @@
+name: "mlmmj"
+website_url: "https://mlmmj.org/"
+source_code_url: "https://codeberg.org/mlmmj/mlmmj"
+description: "Mailing list management made joyful."
+licenses:
+  - MIT
+platforms:
+  - C
+tags:
+  - Communication - Email - Mailing Lists and Newsletters

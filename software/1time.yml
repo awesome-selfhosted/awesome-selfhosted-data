@@ -1,0 +1,22 @@
+name: 1time
+website_url: https://1time.io
+source_code_url: https://github.com/shingrus/1time.io
+description: Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Pastebins
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://1time.io
+stargazers_count: 47
+updated_at: '2026-08-29'
+archived: false
+current_release:
+  tag: v0.9.0
+  published_at: '2026-07-27'
+commit_history:
+  2026-06: 21
+  2026-07: 29
+  2026-08: 35

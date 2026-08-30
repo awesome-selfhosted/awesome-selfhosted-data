@@ -10,16 +10,13 @@ tags:
   - Office Suites
 source_code_url: https://github.com/ether/etherpad
 demo_url: https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60
-stargazers_count: 18316
-updated_at: '2026-05-17'
+stargazers_count: 18514
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-05-17'
+  tag: v3.3.3
+  published_at: '2026-07-29'
 commit_history:
-  2025-06: 26
-  2025-07: 19
-  2025-08: 88
   2025-09: 36
   2025-10: 47
   2025-11: 28
@@ -28,4 +25,7 @@ commit_history:
   2026-02: 23
   2026-03: 56
   2026-04: 180
-  2026-05: 143
+  2026-05: 192
+  2026-06: 128
+  2026-07: 61
+  2026-08: 75

@@ -9,16 +9,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/novuhq/novu/
-stargazers_count: 38985
-updated_at: '2026-05-17'
+stargazers_count: 39689
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: '@novu/react@v3.16.0'
-  published_at: '2026-04-27'
+  tag: v3.19.0
+  published_at: '2026-08-07'
 commit_history:
-  2025-06: 142
-  2025-07: 175
-  2025-08: 138
   2025-09: 190
   2025-10: 115
   2025-11: 87
@@ -27,4 +24,7 @@ commit_history:
   2026-02: 104
   2026-03: 281
   2026-04: 239
-  2026-05: 152
+  2026-05: 355
+  2026-06: 288
+  2026-07: 293
+  2026-08: 198

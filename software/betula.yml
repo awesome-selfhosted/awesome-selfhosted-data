@@ -1,0 +1,10 @@
+name: "Betula"
+website_url: "https://joinbetula.org"
+source_code_url: "https://codeberg.org/bouncepaw/betula"
+description: "Single-user federated bookmark manager with Fediverse support and archives."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Bookmarks and Link Sharing

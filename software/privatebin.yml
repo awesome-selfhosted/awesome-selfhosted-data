@@ -9,16 +9,13 @@ tags:
   - Pastebins
 source_code_url: https://github.com/PrivateBin/PrivateBin
 demo_url: https://privatebin.net/
-stargazers_count: 8296
-updated_at: '2026-05-17'
+stargazers_count: 8577
+updated_at: '2026-08-20'
 archived: false
 current_release:
-  tag: 2.0.4
-  published_at: '2026-05-03'
+  tag: 2.0.6
+  published_at: '2026-08-08'
 commit_history:
-  2025-06: 119
-  2025-07: 246
-  2025-08: 31
   2025-09: 47
   2025-10: 116
   2025-11: 74
@@ -27,4 +24,7 @@ commit_history:
   2026-02: 59
   2026-03: 19
   2026-04: 30
-  2026-05: 11
+  2026-05: 55
+  2026-06: 82
+  2026-07: 95
+  2026-08: 21

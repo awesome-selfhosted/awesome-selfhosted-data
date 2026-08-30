@@ -2,7 +2,7 @@
 name: Addition
 about: Add new software to the list.
 title: Add SOFTWARE_NAME
-labels: addition, reviewers wanted
+labels: addition
 assignees: ''
 
 ---

@@ -9,13 +9,16 @@ platforms:
   - Python
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 812
-updated_at: '2026-03-25'
+stargazers_count: 909
+updated_at: '2026-08-18'
 archived: false
 current_release:
-  tag: 2.3.0
-  published_at: '2026-03-14'
+  tag: 2.4.0
+  published_at: '2026-08-18'
 commit_history:
   2026-03: 20
   2026-04: 0
   2026-05: 0
+  2026-06: 0
+  2026-07: 68
+  2026-08: 93

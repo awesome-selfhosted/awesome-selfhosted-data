@@ -1,0 +1,12 @@
+name: Waxum
+website_url: https://waxum.imtaqin.id
+source_code_url: https://github.com/imtaqin/waxum
+description: WhatsApp gateway exposing messaging, groups, media and voice calls over a REST API, with webhooks and multi-session support. Distributed as a single static Rust binary.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+depends_3rdparty: true

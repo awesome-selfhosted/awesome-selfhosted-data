@@ -8,12 +8,12 @@ platforms:
 tags:
   - URL Shorteners
 source_code_url: https://github.com/YOURLS/YOURLS
-stargazers_count: 12180
-updated_at: '2026-08-24'
+stargazers_count: 12179
+updated_at: '2026-08-30'
 archived: false
 current_release:
-  tag: 1.10.5
-  published_at: '2026-08-28'
+  tag: 1.10.6
+  published_at: '2026-08-30'
 commit_history:
   2025-09: 11
   2025-10: 13
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 12
   2026-06: 17
   2026-07: 7
-  2026-08: 11
+  2026-08: 13

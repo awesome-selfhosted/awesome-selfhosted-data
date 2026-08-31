@@ -1,0 +1,12 @@
+name: Statewave
+website_url: https://statewave.ai
+source_code_url: https://github.com/smaramwbc/statewave
+description: Memory runtime for AI agents. Records events, compiles them into typed memories with provenance and confidence scores, then assembles deterministic, token-bounded context bundles served over a REST API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)

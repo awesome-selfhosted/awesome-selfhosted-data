@@ -12,11 +12,11 @@ tags:
 demo_url: https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself
 related_software_url: https://github.com/afaneca/myfin-api
 stargazers_count: 305
-updated_at: '2026-08-15'
+updated_at: '2026-08-28'
 archived: false
 current_release:
-  tag: 10.4.0
-  published_at: '2026-08-15'
+  tag: 10.5.0
+  published_at: '2026-08-28'
 commit_history:
   2025-09: 12
   2025-10: 5
@@ -29,4 +29,4 @@ commit_history:
   2026-05: 6
   2026-06: 17
   2026-07: 12
-  2026-08: 16
+  2026-08: 21

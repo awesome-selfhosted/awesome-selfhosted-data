@@ -11,13 +11,13 @@ tags:
 source_code_url: https://github.com/hyeonsangjeon/youtube-dl-nas
 depends_3rdparty: true
 stargazers_count: 193
-updated_at: '2026-08-22'
+updated_at: '2026-08-30'
 archived: false
 current_release:
-  tag: '26.0822'
-  published_at: '2026-08-22'
+  tag: '26.0830'
+  published_at: '2026-08-30'
 commit_history:
   2026-05: 0
   2026-06: 1
   2026-07: 25
-  2026-08: 21
+  2026-08: 22

@@ -1,0 +1,11 @@
+name: Caura
+website_url: https://caura.ai
+source_code_url: https://github.com/caura-ai/caura
+description: Shared memory for fleets of AI agents, formerly known as MemClaw. Agents write and recall memories over MCP or a REST API, with semantic search, scoped visibility, trust tiers and audit trails.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

@@ -1,0 +1,13 @@
+name: Jous
+website_url: https://jous.app
+source_code_url: https://github.com/helia94/jous
+description: Social question-and-answer network built around random conversation cards; draw random questions, answer publicly or anonymously, add your own, and form groups.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+demo_url: https://jous.app/random

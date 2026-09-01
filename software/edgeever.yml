@@ -1,0 +1,11 @@
+name: EdgeEver
+website_url: https://edgeever.org/
+description: Three-pane notes workspace with Markdown portability, offline synchronization, cross-platform clients and native MCP integration (alternative to Evernote).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Note-taking & Editors
+source_code_url: https://github.com/tianma-if/edgeever
+demo_url: https://demo.edgeever.org/

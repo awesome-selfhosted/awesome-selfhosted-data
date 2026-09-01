@@ -11,14 +11,13 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/jhaals/yopass
 demo_url: https://yopass.se/
-stargazers_count: 3095
-updated_at: '2026-08-28'
+stargazers_count: 3099
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: 14.9.0
   published_at: '2026-08-20'
 commit_history:
-  2025-09: 169
   2025-10: 104
   2025-11: 41
   2025-12: 43
@@ -29,4 +28,5 @@ commit_history:
   2026-05: 51
   2026-06: 165
   2026-07: 200
-  2026-08: 81
+  2026-08: 87
+  2026-09: 0

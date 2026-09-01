@@ -9,14 +9,13 @@ platforms:
 tags:
   - Software Development - Testing
 source_code_url: https://github.com/bencherdev/bencher
-stargazers_count: 892
+stargazers_count: 894
 updated_at: '2026-08-24'
 archived: false
 current_release:
   tag: canary
   published_at: '2026-07-18'
 commit_history:
-  2025-09: 26
   2025-10: 4
   2025-11: 89
   2025-12: 75
@@ -28,3 +27,4 @@ commit_history:
   2026-06: 30
   2026-07: 31
   2026-08: 76
+  2026-09: 0

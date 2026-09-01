@@ -10,14 +10,13 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/pi-hole/pi-hole
-stargazers_count: 60688
+stargazers_count: 60698
 updated_at: '2026-07-06'
 archived: false
 current_release:
   tag: v6.4.3
   published_at: '2026-07-06'
 commit_history:
-  2025-09: 2
   2025-10: 39
   2025-11: 24
   2025-12: 11
@@ -29,3 +28,4 @@ commit_history:
   2026-06: 16
   2026-07: 13
   2026-08: 0
+  2026-09: 0

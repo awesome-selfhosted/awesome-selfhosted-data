@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/ontola/atomic-server
 demo_url: https://atomicdata.dev/
 stargazers_count: 1593
-updated_at: '2026-08-28'
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: v0.41.0-beta.2
   published_at: '2026-08-02'
 commit_history:
-  2025-09: 20
   2025-10: 30
   2025-11: 11
   2025-12: 0
@@ -28,4 +27,5 @@ commit_history:
   2026-05: 265
   2026-06: 105
   2026-07: 419
-  2026-08: 366
+  2026-08: 367
+  2026-09: 0

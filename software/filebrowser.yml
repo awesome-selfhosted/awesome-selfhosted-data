@@ -10,12 +10,11 @@ tags:
 source_code_url: https://github.com/filebrowser/filebrowser
 stargazers_count: 35972
 updated_at: '2026-07-28'
-archived: false
+archived: true
 current_release:
   tag: v2.63.23
   published_at: '2026-07-27'
 commit_history:
-  2025-09: 20
   2025-10: 8
   2025-11: 106
   2025-12: 35
@@ -27,3 +26,4 @@ commit_history:
   2026-06: 51
   2026-07: 58
   2026-08: 0
+  2026-09: 0

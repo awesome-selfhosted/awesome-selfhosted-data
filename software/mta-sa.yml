@@ -9,14 +9,13 @@ tags:
   - Games
 source_code_url: https://github.com/multitheftauto/mtasa-blue
 depends_3rdparty: true
-stargazers_count: 1837
-updated_at: '2026-08-30'
+stargazers_count: 1836
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: v1.6.0
   published_at: '2023-06-16'
 commit_history:
-  2025-09: 144
   2025-10: 147
   2025-11: 140
   2025-12: 50
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 49
   2026-06: 45
   2026-07: 83
-  2026-08: 86
+  2026-08: 87
+  2026-09: 0

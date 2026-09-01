@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Network Utilities
-stargazers_count: 6966
-updated_at: '2026-08-30'
+stargazers_count: 6971
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: v26.8.5
@@ -22,4 +22,5 @@ commit_history:
   2026-05: 93
   2026-06: 100
   2026-07: 92
-  2026-08: 90
+  2026-08: 105
+  2026-09: 0

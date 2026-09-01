@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/freescout-help-desk/freescout
 demo_url: https://demo.freescout.net/login
 stargazers_count: 4512
-updated_at: '2026-08-29'
+updated_at: '2026-08-31'
 archived: false
 current_release:
-  tag: 1.8.237
-  published_at: '2026-08-29'
+  tag: 1.8.238
+  published_at: '2026-08-31'
 commit_history:
-  2025-09: 1
   2025-10: 25
   2025-11: 22
   2025-12: 26
@@ -28,4 +27,5 @@ commit_history:
   2026-05: 42
   2026-06: 41
   2026-07: 98
-  2026-08: 97
+  2026-08: 106
+  2026-09: 0

@@ -1,0 +1,13 @@
+name: Quven
+website_url: https://quven.tv/
+description: Media server for movies, TV shows and documentaries, with native desktop, mobile and TV clients. Direct play, hardware transcoding, HDR tone-mapping and subtitle generation from the audio track.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - C#
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+depends_3rdparty: true
+source_code_url: https://quven.tv/
+related_software_url: https://quven.tv/apps

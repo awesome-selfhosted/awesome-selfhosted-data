@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/mynaparrot/plugNmeet-server
 demo_url: https://demo.plugnmeet.com/login.html
 stargazers_count: 525
-updated_at: '2026-08-26'
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: v2.4.0
   published_at: '2026-08-12'
 commit_history:
-  2025-09: 86
   2025-10: 47
   2025-11: 55
   2025-12: 67
@@ -28,4 +27,5 @@ commit_history:
   2026-05: 82
   2026-06: 96
   2026-07: 26
-  2026-08: 14
+  2026-08: 15
+  2026-09: 0

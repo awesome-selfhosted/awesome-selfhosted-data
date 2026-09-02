@@ -8,14 +8,13 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/sabre-io/Baikal
-stargazers_count: 3280
+stargazers_count: 3284
 updated_at: '2026-08-13'
 archived: false
 current_release:
   tag: 0.12.1
   published_at: '2026-08-05'
 commit_history:
-  2025-09: 1
   2025-10: 0
   2025-11: 7
   2025-12: 4
@@ -27,3 +26,4 @@ commit_history:
   2026-06: 1
   2026-07: 3
   2026-08: 9
+  2026-09: 0

@@ -10,14 +10,13 @@ tags:
   - Conference Management
   - Booking and Scheduling
 demo_url: https://demo.openslides.org/login
-stargazers_count: 638
+stargazers_count: 640
 updated_at: '2026-08-24'
 archived: false
 current_release:
   tag: 4.3.2
   published_at: '2026-08-24'
 commit_history:
-  2025-09: 4
   2025-10: 9
   2025-11: 9
   2025-12: 10
@@ -29,3 +28,4 @@ commit_history:
   2026-06: 6
   2026-07: 10
   2026-08: 4
+  2026-09: 0

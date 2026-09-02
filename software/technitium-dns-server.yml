@@ -9,11 +9,10 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/TechnitiumSoftware/DnsServer
-stargazers_count: 9663
+stargazers_count: 9769
 updated_at: '2026-07-11'
 archived: false
 commit_history:
-  2025-09: 50
   2025-10: 1
   2025-11: 163
   2025-12: 54
@@ -25,6 +24,7 @@ commit_history:
   2026-06: 81
   2026-07: 43
   2026-08: 0
+  2026-09: 0
 current_release:
   tag: v15.4.0
   published_at: '2026-07-11'

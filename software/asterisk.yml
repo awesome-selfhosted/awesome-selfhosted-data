@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/asterisk/asterisk
-stargazers_count: 3488
-updated_at: '2026-08-26'
+stargazers_count: 3495
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: 23.5.0-rc2
-  published_at: '2026-08-20'
+  tag: 23.5.0
+  published_at: '2026-08-27'
 commit_history:
-  2025-09: 30
   2025-10: 34
   2025-11: 18
   2025-12: 31
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 16
   2026-06: 41
   2026-07: 20
-  2026-08: 29
+  2026-08: 33
+  2026-09: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Games
 source_code_url: https://github.com/lichess-org/lila
-stargazers_count: 18676
-updated_at: '2026-08-25'
+stargazers_count: 18691
+updated_at: '2026-08-30'
 archived: false
 current_release:
   tag: v1.1.0
   published_at: '2017-08-31'
 commit_history:
-  2025-09: 536
   2025-10: 1351
   2025-11: 572
   2025-12: 706
@@ -25,5 +24,6 @@ commit_history:
   2026-04: 530
   2026-05: 476
   2026-06: 629
-  2026-07: 973
-  2026-08: 757
+  2026-07: 982
+  2026-08: 884
+  2026-09: 0

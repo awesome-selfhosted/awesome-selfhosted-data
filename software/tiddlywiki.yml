@@ -8,11 +8,10 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/TiddlyWiki/TiddlyWiki5
-stargazers_count: 8633
+stargazers_count: 8634
 updated_at: '2026-08-25'
 archived: false
 commit_history:
-  2025-09: 29
   2025-10: 86
   2025-11: 46
   2025-12: 27
@@ -24,6 +23,7 @@ commit_history:
   2026-06: 16
   2026-07: 53
   2026-08: 18
+  2026-09: 0
 current_release:
   tag: v5.4.1
   published_at: '2026-07-10'

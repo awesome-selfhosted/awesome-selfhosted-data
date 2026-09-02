@@ -9,14 +9,13 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/LycheeOrg/Lychee
-stargazers_count: 4265
-updated_at: '2026-08-26'
+stargazers_count: 4267
+updated_at: '2026-08-31'
 archived: false
 current_release:
-  tag: v7.7.5
-  published_at: '2026-08-23'
+  tag: v7.8.2
+  published_at: '2026-08-30'
 commit_history:
-  2025-09: 42
   2025-10: 38
   2025-11: 40
   2025-12: 45
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 39
   2026-06: 73
   2026-07: 78
-  2026-08: 83
+  2026-08: 92
+  2026-09: 0

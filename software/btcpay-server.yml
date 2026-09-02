@@ -9,14 +9,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/btcpayserver/btcpayserver
 demo_url: https://mainnet.demo.btcpayserver.org/
-stargazers_count: 7730
-updated_at: '2026-08-27'
+stargazers_count: 7736
+updated_at: '2026-09-01'
 archived: false
 current_release:
   tag: v2.4.3
   published_at: '2026-08-24'
 commit_history:
-  2025-09: 16
   2025-10: 19
   2025-11: 53
   2025-12: 67
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 33
   2026-06: 62
   2026-07: 70
-  2026-08: 35
+  2026-08: 53
+  2026-09: 3

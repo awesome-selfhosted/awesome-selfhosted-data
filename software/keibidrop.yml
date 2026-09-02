@@ -1,0 +1,11 @@
+name: KeibiDrop
+website_url: https://keibidrop.com
+description: Mounts a folder from another machine as a local folder over an encrypted peer-to-peer link, streaming only the bytes that are read. Files can also be sent directly between two machines. Windows, macOS, Linux and Android.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+  - deb
+tags:
+  - File Transfer & Synchronization
+source_code_url: https://github.com/KeibiSoft/KeibiDrop

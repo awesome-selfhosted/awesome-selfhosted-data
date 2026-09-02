@@ -1,0 +1,10 @@
+name: masque-vpn
+website_url: https://github.com/Next1971/masque-vpn
+source_code_url: https://github.com/Next1971/masque-vpn
+description: Self-hosted VPN server using MASQUE CONNECT-IP over HTTP/3 with mTLS authentication and Android, Android TV, and Windows clients.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - VPN

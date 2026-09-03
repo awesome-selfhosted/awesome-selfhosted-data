@@ -1,0 +1,11 @@
+name: SendDock
+website_url: https://senddock.dev
+source_code_url: https://github.com/Arkhe-Systems/senddock
+description: Email marketing and transactional sending where each project is its own sending identity (own SMTP, domain, subscribers and analytics).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Email - Mailing Lists and Newsletters

@@ -1,7 +1,7 @@
 name: LibreDB Studio
 website_url: https://libredb.org
 source_code_url: https://github.com/libredb/libredb-studio
-description: Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver).
+description: Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver).
 licenses:
   - MIT
 platforms:

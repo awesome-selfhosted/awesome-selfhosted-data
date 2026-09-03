@@ -11,11 +11,11 @@ tags:
   - Archiving and Digital Preservation (DP)
 demo_url: https://demo.papra.app/
 stargazers_count: 5268
-updated_at: '2026-08-24'
+updated_at: '2026-09-02'
 archived: false
 current_release:
-  tag: '@papra/app@26.6.1'
-  published_at: '2026-07-04'
+  tag: '@papra/app@26.6.2'
+  published_at: '2026-09-01'
 commit_history:
   2025-10: 72
   2025-11: 45
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 134
   2026-07: 63
   2026-08: 21
-  2026-09: 0
+  2026-09: 6

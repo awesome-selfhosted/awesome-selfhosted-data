@@ -9,14 +9,14 @@ platforms:
 tags:
   - URL Shorteners
 source_code_url: https://github.com/SinTan1729/chhoto-url
-stargazers_count: 953
-updated_at: '2026-08-19'
+stargazers_count: 955
+updated_at: '2026-09-02'
 archived: false
 demo_url: https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo
 related_software_url: https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md
 current_release:
-  tag: 7.5.0
-  published_at: '2026-07-24'
+  tag: 7.5.1
+  published_at: '2026-09-02'
 commit_history:
   2025-10: 37
   2025-11: 2
@@ -28,5 +28,5 @@ commit_history:
   2026-05: 56
   2026-06: 47
   2026-07: 111
-  2026-08: 1
-  2026-09: 0
+  2026-08: 5
+  2026-09: 1

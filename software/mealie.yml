@@ -9,12 +9,12 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/mealie-recipes/mealie
 demo_url: https://demo.mealie.io
-stargazers_count: 13111
-updated_at: '2026-08-31'
+stargazers_count: 13130
+updated_at: '2026-09-02'
 archived: false
 current_release:
-  tag: v3.24.0
-  published_at: '2026-08-24'
+  tag: v3.25.0
+  published_at: '2026-09-02'
 commit_history:
   2025-10: 104
   2025-11: 80
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 61
   2026-07: 102
   2026-08: 165
-  2026-09: 0
+  2026-09: 15

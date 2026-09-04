@@ -1,12 +1,11 @@
 name: "Gopher"
 website_url: "https://gopherden.org"
 source_code_url: "https://github.com/smalex-z/gopher"
-description: "Edge server with built-in tunneling — expose services running behind NAT or CGNAT with automatic HTTPS, subdomain routing, and request filtering. (alternative to Cloudflare Tunnel, ngrok)"
+description: "Edge server with built-in tunneling — expose services running behind NAT or CGNAT with automatic HTTPS, subdomain routing, and request filtering. (alternative to Cloudflare Tunnel, ngrok)."
 licenses:
   - Apache-2.0
 platforms:
   - Go
 tags:
   - Proxy
-  - Network Untilities
-  - VPN
+  - Network Utilities

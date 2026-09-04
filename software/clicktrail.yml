@@ -1,0 +1,10 @@
+name: ClickTrail
+website_url: https://wordpress.org/plugins/click-trail-handler/
+source_code_url: https://github.com/vizuh/click-trail-handler
+description: First-party campaign attribution for WordPress forms and WooCommerce, preserving UTM parameters and ad click IDs with consent controls.
+licenses:
+  - GPL-2.0
+platforms:
+  - PHP
+tags:
+  - Analytics

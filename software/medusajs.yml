@@ -9,12 +9,12 @@ tags:
   - E-commerce
 source_code_url: https://github.com/medusajs/medusa
 demo_url: https://next.medusajs.com/
-stargazers_count: 36109
-updated_at: '2026-09-02'
+stargazers_count: 36128
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: v2.20.0
-  published_at: '2026-09-02'
+  tag: v2.20.1
+  published_at: '2026-09-03'
 commit_history:
   2025-10: 197
   2025-11: 109
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 194
   2026-07: 258
   2026-08: 148
-  2026-09: 14
+  2026-09: 27

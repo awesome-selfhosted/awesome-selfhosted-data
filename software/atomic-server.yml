@@ -10,12 +10,12 @@ tags:
   - Knowledge Management Tools
 source_code_url: https://github.com/ontola/atomic-server
 demo_url: https://atomicdata.dev/
-stargazers_count: 1594
-updated_at: '2026-09-02'
+stargazers_count: 1595
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: v0.41.0-beta.3
-  published_at: '2026-09-01'
+  tag: v0.41.0-beta.4
+  published_at: '2026-09-03'
 commit_history:
   2025-10: 30
   2025-11: 11
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 105
   2026-07: 419
   2026-08: 367
-  2026-09: 23
+  2026-09: 35

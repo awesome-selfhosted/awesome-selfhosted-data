@@ -1,0 +1,11 @@
+name: Slip
+description: Visual bookmark archive and reading space with full-text search, hierarchical collections, and reader mode.
+website_url: https://github.com/akshaybhandare/slip
+source_code_url: https://github.com/akshaybhandare/slip
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Bookmarks and Link Sharing

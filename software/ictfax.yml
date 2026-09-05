@@ -1,0 +1,12 @@
+name: ICTFax
+website_url: https://www.ictfax.org/
+description: Multi-user fax server for sending and receiving faxes over T.38 and G.711 SIP trunks, with email-to-fax, fax-to-email, web fax, DIDs, extensions and a REST API.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/ictinnovations/ictfax
+demo_url: https://demo.ictfax.com/

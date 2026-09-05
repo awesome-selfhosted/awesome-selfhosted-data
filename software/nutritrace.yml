@@ -5,7 +5,6 @@ description: Nutrition and diet tracker with barcode scanning, wearable integrat
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Health and Fitness

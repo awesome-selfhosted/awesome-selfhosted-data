@@ -1,0 +1,13 @@
+name: Sourcemeta One
+website_url: https://one.sourcemeta.com
+source_code_url: https://github.com/sourcemeta/one
+description: JSON Schema registry that turns Git repositories of schemas into a browsable, searchable catalog, with schema quality analysis, versioning, evaluation and an HTTP API for governance.
+licenses:
+  - BUSL-1.1
+  - ⊘ Proprietary
+platforms:
+  - C++
+  - Docker
+tags:
+  - Software Development - API Management
+demo_url: https://schemas.sourcemeta.com

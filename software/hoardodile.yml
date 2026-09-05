@@ -1,0 +1,12 @@
+name: Hoardodile
+website_url: https://www.hoardodile.com
+description: Versioned archive library for the things you keep: images, documents, PDFs, video, audio, web pages and more, previewed in place, rendered by content plugins, and kept on your own storage.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/hoardodile/hoardodile
+related_software_url: https://github.com/hoardodile/marketplace

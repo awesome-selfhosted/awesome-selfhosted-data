@@ -1,0 +1,13 @@
+name: Yuvomi
+website_url: https://yuvomi.cloud/
+source_code_url: https://github.com/ulsklyc/yuvomi
+description: Family organizer with shared calendar, tasks, shopping and meal planning, budget tracking, notes and contacts. Syncs with CalDAV/CardDAV and Google Calendar, installable as a PWA with offline support (alternative to Cozi).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Groupware
+  - Task Management & To-do Lists
+  - Money, Budgeting & Management

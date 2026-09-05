@@ -1,0 +1,12 @@
+name: orangehrm
+website_url: https://www.orangehrm.com/
+description: Discover OrangeHRM, the leading human resource management software for efficient workforce solutions. Streamline your organizational HR with our powerful Intuitive Platform.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Human Resources Management (HRM)
+source_code_url: https://github.com/orangehrm/orangehrm
+demo_url: https://opensource-demo.orangehrmlive.com/

@@ -10,11 +10,11 @@ tags:
   - Document Management - E-books
 depends_3rdparty: true
 stargazers_count: 27
-updated_at: '2026-08-22'
+updated_at: '2026-09-04'
 archived: false
 current_release:
-  tag: v2.7.2
-  published_at: '2026-07-10'
+  tag: v2.8.1
+  published_at: '2026-09-04'
 commit_history:
   2025-12: 35
   2026-01: 0
@@ -25,4 +25,4 @@ commit_history:
   2026-06: 7
   2026-07: 8
   2026-08: 7
-  2026-09: 0
+  2026-09: 15

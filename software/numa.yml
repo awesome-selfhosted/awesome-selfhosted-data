@@ -10,8 +10,8 @@ platforms:
   - Nix
 tags:
   - DNS
-stargazers_count: 1418
-updated_at: '2026-09-03'
+stargazers_count: 1420
+updated_at: '2026-09-05'
 archived: false
 current_release:
   tag: v0.23.0
@@ -20,4 +20,4 @@ commit_history:
   2026-06: 67
   2026-07: 23
   2026-08: 33
-  2026-09: 3
+  2026-09: 8

@@ -1,0 +1,10 @@
+name: Expensave
+website_url: https://github.com/algirdasc/expensave
+source_code_url: https://github.com/algirdasc/expensave
+description: Expense tracker for personal and family budget management. Track spending on a shared calendar, import bank statements and monitor finances with reports.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management

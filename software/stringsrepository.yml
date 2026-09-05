@@ -1,0 +1,12 @@
+name: "StringsRepository"
+website_url: "https://github.com/HereTrix/strings_repository"
+source_code_url: "https://github.com/HereTrix/strings_repository"
+description: "Translation management system for product teams. Supports role-based access, machine translation, AI verification, and 10+ import/export formats including .strings, .xcstrings, .po, .arb, and Android XML."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Localization

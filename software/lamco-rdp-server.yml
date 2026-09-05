@@ -1,7 +1,7 @@
 name: lamco-rdp-server
 website_url: https://www.lamco.ai/products/lamco-rdp-server/
 source_code_url: https://github.com/lamco-admin/lamco-rdp-server
-description: Wayland-native RDP server for remote desktop access to GNOME, KDE, Sway, and Hyprland (alternative to xrdp, RustDesk).
+description: Wayland-native RDP server for remote desktop access across Wayland Linux desktops (alternative to xrdp, RustDesk).
 licenses:
   - BUSL-1.1
 platforms:

@@ -1,0 +1,10 @@
+name: NutriTrace
+website_url: https://traceapps.github.io/docs/
+source_code_url: https://github.com/TraceApps/nutritrace
+description: Nutrition and diet tracker with barcode scanning, wearable integrations (Fitbit, Withings, Garmin, Health Connect), adaptive calorie goals, multi-user sharing, and a built-in AI assistant (alternative to MyFitnessPal, Cronometer).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Health and Fitness

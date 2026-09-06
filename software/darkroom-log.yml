@@ -1,0 +1,13 @@
+name: "Darkroom Log"
+website_url: "https://github.com/jaapjan14/darkroom-log"
+source_code_url: "https://github.com/jaapjan14/darkroom-log"
+description: "Logs darkroom print sessions (paper, exposure, dodge/burn) and browses/shares an Immich photo library via public albums and slideshows."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Photo Galleries
+depends_3rdparty: false
+related_software_url: "https://github.com/immich-app/immich"

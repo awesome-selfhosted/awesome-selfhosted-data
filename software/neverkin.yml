@@ -6,11 +6,7 @@ licenses:
   - GPL-3.0
 platforms:
   - Nodejs
-  - Javascript
   - Docker
 tags:
-  - Document Management
-  - Games - Administrative Utilities & Control Panels
   - Note-taking & Editors
-  - Wikis
 demo_url: https://app.neverkin.com/guest-login

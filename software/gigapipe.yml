@@ -1,0 +1,13 @@
+name: Gigapipe
+website_url: https://gigapipe.com
+source_code_url: https://github.com/metrico/gigapipe
+description: Polyglot observability warehouse for logs, metrics, traces and profiles on ClickHouse. Ingests OpenTelemetry, Loki, Prometheus, Tempo, Pyroscope, InfluxDB, Elastic and Datadog, served over LogQL, PromQL, TraceQL and FlameQL to Grafana or Perses.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Monitoring & Status Pages
+demo_url: https://gigapipe.com/docs/demo

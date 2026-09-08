@@ -1,0 +1,13 @@
+name: Storno
+website_url: https://storno.ro/
+description: Invoicing platform for Romanian businesses with ANAF e-Factura, e-Transport and SPV integration, recurring invoices, payment tracking, bank statement reconciliation, accounting exports, REST API and webhooks.
+licenses:
+  - Elastic-2.0
+platforms:
+  - PHP
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/stornoro/storno

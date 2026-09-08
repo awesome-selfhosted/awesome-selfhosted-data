@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/beetbox/beets
-stargazers_count: 15627
-updated_at: '2026-09-06'
+stargazers_count: 15636
+updated_at: '2026-09-07'
 archived: false
 current_release:
-  tag: v2.13.1
-  published_at: '2026-07-29'
+  tag: v2.14.0
+  published_at: '2026-09-07'
 commit_history:
   2025-10: 170
   2025-11: 109
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 355
   2026-07: 245
   2026-08: 145
-  2026-09: 49
+  2026-09: 63

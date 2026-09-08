@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/alextselegidis/plainpad
 demo_url: https://demo.plainpad.org
 stargazers_count: 440
-updated_at: '2026-09-03'
+updated_at: '2026-09-07'
 archived: false
 current_release:
-  tag: 1.2.0-alpha.1
-  published_at: '2026-08-28'
+  tag: 1.2.0-beta.1
+  published_at: '2026-09-07'
 commit_history:
   2025-10: 0
   2025-11: 10
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 16
   2026-07: 14
   2026-08: 24
-  2026-09: 10
+  2026-09: 15

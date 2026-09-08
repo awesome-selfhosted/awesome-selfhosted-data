@@ -1,0 +1,11 @@
+name: Grengin
+website_url: https://grengin.com
+source_code_url: https://github.com/grengin-oss/grengin
+description: Multi-model AI chat platform for teams, with SSO, budget controls, PII redaction, and audit logging.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

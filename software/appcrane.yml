@@ -1,0 +1,11 @@
+name: AppCrane
+website_url: https://glick.run/appcrane.html
+source_code_url: https://github.com/gitayg/appCrane
+description: Self-hosted, agent-native platform-as-a-service: deploy and run the apps your AI builds on one server, driven by an AI agent over the Model Context Protocol. Docker isolation, auto-HTTPS, GitHub-native deploys, rollback, SSO and per-user audit.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Self-hosting Solutions
+  - Software Development - Continuous Integration & Deployment

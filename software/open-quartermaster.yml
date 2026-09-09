@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 74
-updated_at: '2026-09-06'
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: plugin-ext+item+search-2.2.0
-  published_at: '2026-09-06'
+  tag: core-api-6.4.0
+  published_at: '2026-09-08'
 commit_history:
   2025-10: 78
   2025-11: 148
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 115
   2026-07: 73
   2026-08: 152
-  2026-09: 16
+  2026-09: 27

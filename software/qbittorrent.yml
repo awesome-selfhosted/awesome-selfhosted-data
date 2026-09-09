@@ -8,8 +8,8 @@ platforms:
 tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/qbittorrent/qBittorrent
-stargazers_count: 39969
-updated_at: '2026-09-07'
+stargazers_count: 39995
+updated_at: '2026-09-08'
 archived: false
 commit_history:
   2025-10: 24
@@ -23,7 +23,7 @@ commit_history:
   2026-06: 75
   2026-07: 55
   2026-08: 30
-  2026-09: 14
+  2026-09: 16
 current_release:
   tag: release-5.3.0beta1
   published_at: '2026-09-05'

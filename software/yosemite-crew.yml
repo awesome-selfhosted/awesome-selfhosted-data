@@ -1,0 +1,11 @@
+name: "Yosemite Crew"
+website_url: "https://yosemitecrew.com"
+source_code_url: "https://github.com/YosemiteCrew/Yosemite-Crew"
+description: "Open-source practice management system for veterinary clinics, with mobile and desktop apps for staff and pet owners."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Health and Fitness

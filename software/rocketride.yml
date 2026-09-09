@@ -1,0 +1,11 @@
+name: RocketRide
+website_url: https://rocketride.ai
+source_code_url: https://github.com/rocketride-org/rocketride-server
+description: AI pipeline engine with a C++ core and Python-extensible nodes, for building, debugging and scaling LLM workflows across multiple model providers and vector databases.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)

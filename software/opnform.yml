@@ -1,7 +1,7 @@
 name: OpnForm
 website_url: https://opnform.com
 source_code_url: https://github.com/OpnForm/OpnForm
-description: Beautiful open-source form builder.
+description: Beautiful form builder.
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,15 +11,13 @@ platforms:
 tags:
   - Polls and Events
 demo_url: https://opnform.com/forms/create/guest
-stargazers_count: 3518
-updated_at: '2026-07-19'
+stargazers_count: 3685
+updated_at: '2026-09-03'
 archived: false
 current_release:
-  tag: v2.2.2
-  published_at: '2026-07-14'
+  tag: v2.5.0
+  published_at: '2026-09-02'
 commit_history:
-  2025-08: 35
-  2025-09: 41
   2025-10: 77
   2025-11: 53
   2025-12: 13
@@ -29,4 +27,6 @@ commit_history:
   2026-04: 13
   2026-05: 15
   2026-06: 35
-  2026-07: 24
+  2026-07: 38
+  2026-08: 34
+  2026-09: 7

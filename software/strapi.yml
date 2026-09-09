@@ -1,6 +1,6 @@
 name: Strapi
 website_url: https://strapi.io/
-description: The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+description: Headless CMS that lets developers build content APIs fast while giving content creators a friendly editing interface.
 licenses:
   - MIT
 platforms:
@@ -8,15 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/strapi/strapi
-stargazers_count: 72682
-updated_at: '2026-07-17'
+stargazers_count: 73095
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: v5.50.2
-  published_at: '2026-07-15'
+  tag: v5.52.3
+  published_at: '2026-09-02'
 commit_history:
-  2025-08: 51
-  2025-09: 51
   2025-10: 122
   2025-11: 84
   2025-12: 72
@@ -26,4 +24,6 @@ commit_history:
   2026-04: 162
   2026-05: 144
   2026-06: 228
-  2026-07: 117
+  2026-07: 197
+  2026-08: 127
+  2026-09: 41

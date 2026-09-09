@@ -10,15 +10,13 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/julianpoy/recipesage
 demo_url: https://recipesage.com
-stargazers_count: 921
-updated_at: '2026-07-17'
+stargazers_count: 953
+updated_at: '2026-09-07'
 archived: false
 current_release:
-  tag: v4.0.0-beta15
-  published_at: '2026-07-05'
+  tag: v4.0.9
+  published_at: '2026-09-07'
 commit_history:
-  2025-08: 6
-  2025-09: 8
   2025-10: 71
   2025-11: 204
   2025-12: 86
@@ -27,5 +25,7 @@ commit_history:
   2026-03: 88
   2026-04: 200
   2026-05: 289
-  2026-06: 294
-  2026-07: 74
+  2026-06: 295
+  2026-07: 108
+  2026-08: 559
+  2026-09: 104

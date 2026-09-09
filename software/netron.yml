@@ -9,15 +9,13 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/lutzroeder/netron
-stargazers_count: 33244
-updated_at: '2026-07-19'
+stargazers_count: 33452
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: v9.1.8
-  published_at: '2026-07-18'
+  tag: v9.2.6
+  published_at: '2026-09-04'
 commit_history:
-  2025-08: 74
-  2025-09: 81
   2025-10: 85
   2025-11: 93
   2025-12: 89
@@ -27,4 +25,6 @@ commit_history:
   2026-04: 58
   2026-05: 68
   2026-06: 61
-  2026-07: 36
+  2026-07: 61
+  2026-08: 56
+  2026-09: 19

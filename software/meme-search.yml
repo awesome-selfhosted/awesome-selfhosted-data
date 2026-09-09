@@ -7,13 +7,13 @@ platforms:
   - Docker
 tags:
   - Search Engines
-source_code_url: https://github.com/neonwatty/meme-search
-stargazers_count: 693
-updated_at: '2026-07-15'
+source_code_url: https://github.com/meme-search/meme-search
+stargazers_count: 735
+updated_at: '2026-09-01'
 archived: false
 current_release:
-  tag: v2.2.0
-  published_at: '2026-05-31'
+  tag: v2.3.2
+  published_at: '2026-08-05'
 commit_history:
   2025-12: 2
   2026-01: 2
@@ -22,4 +22,6 @@ commit_history:
   2026-04: 0
   2026-05: 67
   2026-06: 0
-  2026-07: 38
+  2026-07: 66
+  2026-08: 32
+  2026-09: 5

@@ -8,15 +8,13 @@ platforms:
 tags:
   - Groupware
 source_code_url: https://github.com/tine-groupware/tine
-stargazers_count: 21
-updated_at: '2026-07-17'
+stargazers_count: 22
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: weekly-2026.29.1
-  published_at: '2026-07-18'
+  tag: weekly-2026.36.1
+  published_at: '2026-09-05'
 commit_history:
-  2025-08: 261
-  2025-09: 574
   2025-10: 420
   2025-11: 416
   2025-12: 251
@@ -26,4 +24,6 @@ commit_history:
   2026-04: 371
   2026-05: 232
   2026-06: 413
-  2026-07: 231
+  2026-07: 321
+  2026-08: 175
+  2026-09: 78

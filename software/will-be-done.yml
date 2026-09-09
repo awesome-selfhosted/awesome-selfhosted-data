@@ -10,13 +10,15 @@ platforms:
 tags:
   - Task Management & To-do Lists
 demo_url: https://demo.will-be-done.app/
-stargazers_count: 102
-updated_at: '2026-07-18'
+stargazers_count: 144
+updated_at: '2026-09-01'
 archived: false
 current_release:
-  tag: v0.10.0
-  published_at: '2026-07-05'
+  tag: v0.11.0
+  published_at: '2026-08-20'
 commit_history:
   2026-05: 40
   2026-06: 173
-  2026-07: 49
+  2026-07: 74
+  2026-08: 107
+  2026-09: 1

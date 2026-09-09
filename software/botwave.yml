@@ -8,15 +8,17 @@ platforms:
   - Python
 tags:
   - Media Streaming - Audio Streaming
-stargazers_count: 135
-updated_at: '2026-06-28'
+stargazers_count: 142
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: v1.1.10-mollia
-  published_at: '2026-06-28'
+  tag: v1.2.9-allexis
+  published_at: '2026-09-08'
 commit_history:
   2026-03: 128
   2026-04: 68
   2026-05: 3
   2026-06: 76
-  2026-07: 0
+  2026-07: 37
+  2026-08: 292
+  2026-09: 73

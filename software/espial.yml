@@ -1,6 +1,6 @@
 name: Espial
 website_url: https://github.com/jonschoning/espial
-description: An open-source, web-based bookmarking server.
+description: Web-based bookmarking server that supports multiple user accounts.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,12 +8,10 @@ platforms:
 tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/jonschoning/espial
-stargazers_count: 899
-updated_at: '2026-07-18'
+stargazers_count: 918
+updated_at: '2026-07-26'
 archived: false
 commit_history:
-  2025-08: 0
-  2025-09: 0
   2025-10: 0
   2025-11: 0
   2025-12: 0
@@ -23,7 +21,9 @@ commit_history:
   2026-04: 2
   2026-05: 10
   2026-06: 5
-  2026-07: 6
+  2026-07: 10
+  2026-08: 0
+  2026-09: 0
 current_release:
-  tag: v0.0.41
-  published_at: '2026-07-18'
+  tag: v0.0.42
+  published_at: '2026-07-26'

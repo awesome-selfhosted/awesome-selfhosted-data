@@ -1,0 +1,22 @@
+name: Elengrab
+website_url: https://github.com/neosy/elengrab
+source_code_url: https://github.com/neosy/elengrab
+description: Fast cross-platform video and audio downloader and media viewer with flexible format and quality options. Supports 1000+ websites including YouTube, Instagram, TikTok, Twitch and more.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Media Management
+demo_url: https://elengrab.n-hub.ru
+stargazers_count: 9
+updated_at: '2026-08-13'
+archived: false
+current_release:
+  tag: v0.24.2
+  published_at: '2026-08-13'
+commit_history:
+  2026-07: 50
+  2026-08: 42
+  2026-09: 0

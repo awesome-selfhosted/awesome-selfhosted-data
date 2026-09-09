@@ -9,14 +9,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/mastodon/mastodon
 related_software_url: https://github.com/hyperupcall/awesome-mastodon
-stargazers_count: 50257
-updated_at: '2026-08-27'
+stargazers_count: 50287
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: v4.7.0
-  published_at: '2026-08-20'
+  tag: v4.7.1
+  published_at: '2026-09-01'
 commit_history:
-  2025-09: 203
   2025-10: 210
   2025-11: 213
   2025-12: 170
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 210
   2026-06: 301
   2026-07: 221
-  2026-08: 186
+  2026-08: 205
+  2026-09: 65

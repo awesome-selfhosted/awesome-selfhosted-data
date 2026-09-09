@@ -1,6 +1,6 @@
 name: Zammad
 website_url: https://zammad.org/
-description: Easy to use but powerful open-source support and ticketing system.
+description: Easy to use but powerful support and ticketing system.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,11 +9,10 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/zammad/zammad
-stargazers_count: 5872
-updated_at: '2026-08-28'
+stargazers_count: 5897
+updated_at: '2026-09-08'
 archived: false
 commit_history:
-  2025-09: 189
   2025-10: 175
   2025-11: 164
   2025-12: 151
@@ -24,4 +23,5 @@ commit_history:
   2026-05: 241
   2026-06: 269
   2026-07: 226
-  2026-08: 248
+  2026-08: 276
+  2026-09: 51

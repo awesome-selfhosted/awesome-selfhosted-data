@@ -1,5 +1,5 @@
 name: Plainpad
-website_url: https://alextselegidis.com/get/plainpad/
+website_url: https://plainpad.org
 description: Modern note taking application for the cloud, utilizing the best features of progressive web apps technology.
 licenses:
   - GPL-3.0
@@ -8,15 +8,14 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/alextselegidis/plainpad
-demo_url: https://alextselegidis.com/try/plainpad/
-stargazers_count: 439
-updated_at: '2026-08-27'
+demo_url: https://demo.plainpad.org
+stargazers_count: 440
+updated_at: '2026-09-08'
 archived: false
 current_release:
-  tag: 1.1.1
-  published_at: '2026-04-23'
+  tag: 1.2.0-beta.1
+  published_at: '2026-09-07'
 commit_history:
-  2025-09: 0
   2025-10: 0
   2025-11: 10
   2025-12: 15
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 19
   2026-06: 16
   2026-07: 14
-  2026-08: 16
+  2026-08: 24
+  2026-09: 17

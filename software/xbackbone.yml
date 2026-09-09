@@ -1,6 +1,6 @@
 name: XBackBone
 website_url: https://xbackbone.app/
-description: A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows).
+description: Simple, fast and lightweight file manager with instant sharing tools integration, like ShareX.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,14 +9,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/SergiX44/XBackBone
-stargazers_count: 1165
+stargazers_count: 1167
 updated_at: '2026-07-23'
 archived: false
 current_release:
   tag: 3.8.2
   published_at: '2026-06-27'
 commit_history:
-  2025-09: 5
   2025-10: 0
   2025-11: 0
   2025-12: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-06: 68
   2026-07: 22
   2026-08: 0
+  2026-09: 0

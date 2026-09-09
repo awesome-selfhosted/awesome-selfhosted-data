@@ -1,7 +1,7 @@
 name: Amgix
 website_url: https://amgix.io
 source_code_url: https://github.com/amgix/amgix-server
-description: Open-source hybrid search engine built for flexible deployment and real-world messy data.
+description: Hybrid search engine built for flexible deployment and real-world messy data.
 licenses:
   - AGPL-3.0
 platforms:
@@ -21,3 +21,4 @@ commit_history:
   2026-06: 29
   2026-07: 32
   2026-08: 9
+  2026-09: 0

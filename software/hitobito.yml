@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/hitobito/hitobito
 demo_url: https://demo.hitobito.com/en/users/sign_in
 stargazers_count: 477
-updated_at: '2026-08-27'
+updated_at: '2026-09-07'
 archived: false
 current_release:
   tag: 2.10.0
   published_at: '2026-07-07'
 commit_history:
-  2025-09: 144
   2025-10: 79
   2025-11: 120
   2025-12: 69
@@ -27,4 +26,5 @@ commit_history:
   2026-05: 132
   2026-06: 104
   2026-07: 102
-  2026-08: 67
+  2026-08: 76
+  2026-09: 14

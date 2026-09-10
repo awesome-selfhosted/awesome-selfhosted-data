@@ -6,7 +6,6 @@ licenses:
   - MIT
 platforms:
   - Docker
-  - Nodejs
 tags:
   - Communication - Custom Communication Systems
 depends_3rdparty: true

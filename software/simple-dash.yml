@@ -1,0 +1,23 @@
+# software name
+name: "simple-dash"
+# URL of the software project's homepage
+website_url: "https://wiesner-philipp.github.io/simple-dash/"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/wiesner-philipp/simple-dash"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "A simple, fully responsive Dashboard to forward to the services of your choice!"
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - JavaScript
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Personal Dashboards
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+# (optional) link to an interactive demo of the software
+demo_url: "https://wiesner-philipp.github.io/simple-dash/"
+# (optional) link to a list of clients/addons/plugins/apps/bots... for the software
+related_software_url: "https://wiesner-philipp.github.io/simple-dash/generator.html"

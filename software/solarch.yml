@@ -1,0 +1,11 @@
+name: Solarch
+website_url: https://solarch.in
+description: TypeScript-native Backend-as-a-Service (BaaS) with embedded SQLite, Express, realtime subscriptions, authentication, file storage, and an admin UI (alternative to PocketBase).
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Low Code
+source_code_url: https://github.com/xvertere-org/Solarch

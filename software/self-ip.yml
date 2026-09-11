@@ -1,0 +1,11 @@
+name: Self IP
+website_url: https://github.com/SinTan1729/self-ip
+description: A small, fast self-hosted IP geolocation and port checking API
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Network Utilities
+source_code_url: https://github.com/SinTan1729/self-ip

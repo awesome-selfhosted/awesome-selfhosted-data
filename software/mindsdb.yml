@@ -9,8 +9,8 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/mindsdb/mindshub
-stargazers_count: 39716
-updated_at: '2026-08-21'
+stargazers_count: 39721
+updated_at: '2026-09-10'
 archived: false
 current_release:
   tag: v26.1.0
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 18
   2026-07: 2
   2026-08: 3
-  2026-09: 0
+  2026-09: 1

@@ -1,0 +1,12 @@
+name: QueryGlow
+website_url: https://queryglow.com/
+source_code_url: https://queryglow.com/
+description: Web-based database GUI with AI SQL generation, EXPLAIN visualizer, and Safe Mode. Supports PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, TimescaleDB.
+licenses:
+  - "⊘ Proprietary"
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Database Management
+demo_url: https://demo.queryglow.com

@@ -1,0 +1,11 @@
+name: Codeman
+website_url: https://github.com/Ark0N/Codeman
+source_code_url: https://github.com/Ark0N/Codeman
+description: Web dashboard for running AI coding agent CLIs (Claude Code, OpenCode, Codex, Gemini) in persistent tmux sessions, with mobile access, automatic resume on usage-limit reset, scheduled runs and optional per-project Docker containers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - IDE & Tools

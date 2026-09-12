@@ -1,0 +1,11 @@
+name: Silos
+website_url: https://github.com/cheapestinference/silos
+source_code_url: https://github.com/cheapestinference/silos
+description: Web dashboard for managing OpenClaw AI agents with shared browser, multi-channel support (WhatsApp, Telegram, Discord), skills marketplace, cron jobs, and real-time chat.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

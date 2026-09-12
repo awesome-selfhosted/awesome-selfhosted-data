@@ -1,0 +1,13 @@
+name: QuickRetro
+website_url: https://quickretro.app/
+source_code_url: https://github.com/vijeeshr/quickretro
+description: Real-time sprint retrospective meeting tool for remote software teams.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Software Development - Project Management
+  - Groupware  
+demo_url: https://demo.quickretro.app/

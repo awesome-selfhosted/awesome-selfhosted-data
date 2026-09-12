@@ -21,6 +21,7 @@ steps:
         - Elastic-2.0
         - FSL-1.1-MIT
         - NPOSL-3.0
+        - Prosperity-3.0.0
         - SSPL-1.0
         - SUL-1.0
 
@@ -48,5 +49,6 @@ steps:
         - Elastic-2.0
         - FSL-1.1-MIT
         - NPOSL-3.0
+        - Prosperity-3.0.0
         - SSPL-1.0
         - SUL-1.0

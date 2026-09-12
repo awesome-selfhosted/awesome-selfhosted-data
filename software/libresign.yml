@@ -1,0 +1,13 @@
+name: LibreSign
+website_url: https://libresign.coop
+source_code_url: https://github.com/LibreSign/libresign
+description: Request, track, validate, and manage traceable document signing workflows inside Nextcloud, with internal and external signers (alternative to DocuSign).
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+  - Javascript
+tags:
+  - Document Management
+demo_url: https://libresign.coop

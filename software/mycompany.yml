@@ -1,0 +1,12 @@
+name: MyCompany
+website_url: https://mycompany.lsfusion.org/
+source_code_url: https://github.com/lsfusion-solutions/mycompany
+description: ERP and CRM for small and medium businesses - inventory, invoicing, manufacturing, sales, purchasing, projects, HR and POS in one system (alternative to Odoo).
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+tags:
+  - Resource Planning
+  - Customer Relationship Management (CRM)
+demo_url: https://demo.lsfusion.org/mycompany/

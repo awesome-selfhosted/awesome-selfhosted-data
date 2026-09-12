@@ -1,0 +1,11 @@
+name: Operately
+website_url: https://operately.com
+source_code_url: https://github.com/operately/operately
+description: Coordinate goals, projects, tasks, discussions, docs, and team spaces in one structured workspace.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Software Development - Project Management
+  - Task Management & To-do Lists

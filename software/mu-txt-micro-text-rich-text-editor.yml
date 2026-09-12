@@ -1,0 +1,17 @@
+name: "mu-txt (micro text) rich-text editor"
+website_url: "https://mutxt.com"
+source_code_url: "https://github.com/streamich/json-joy/tree/master/packages/mu-txt"
+description: "Description of my awesome software."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Javascript
+  - Nodejs
+tags:
+  - Note-taking & Editors
+  - Knowledge Management Tools
+  - Wikis
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://mutxt.com"
+related_software_url: "https://github.com/streamich/json-joy/tree/master/packages/mutxt-element"

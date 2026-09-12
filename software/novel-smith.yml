@@ -1,0 +1,12 @@
+name: Novel Smith
+website_url: https://github.com/huanweide/novel-smith
+description: "Local-first AI writing workshop for long-form Chinese web novels with built-in AI-trace detector (pure local rules engine, no API key needed), humanize engine, character/lore management, and SQLite storage that never leaves your machine."
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Node.js
+tags:
+  - generative-ai
+  - miscellaneous
+source_code_url: https://github.com/huanweide/novel-smith

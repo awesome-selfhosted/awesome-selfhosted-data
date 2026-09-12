@@ -1,0 +1,11 @@
+name: Beltr
+website_url: https://beltr.app
+description: Karaoke server that separates the vocals from songs in your own music library, displays synced lyrics on a TV, and turns phones into remotes.
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+  - Python
+tags:
+  - Media Streaming - Audio Streaming
+source_code_url: https://beltr.app

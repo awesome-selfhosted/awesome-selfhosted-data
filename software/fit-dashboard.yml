@@ -1,0 +1,12 @@
+name: "FIT Dashboard"
+website_url: "https://fitdashboard.app/"
+source_code_url: "https://github.com/arpanghosh8453/fit-dashboard"
+description: "Standalone offline local desktop application to process, store, and visualize Garmin FIT file data in a comprehensive dashboard."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Nodejs
+  - Docker
+tags:
+  - Health and Fitness

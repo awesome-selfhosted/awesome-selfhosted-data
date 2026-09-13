@@ -1,0 +1,10 @@
+name: "Figranium"
+website_url: "https://figranium.dev"
+source_code_url: "https://github.com/figranium/figranium"
+description: "Dockerized browser automation platform using Playwright. Visually build workflows with modular action blocks and trigger them via API."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Automation

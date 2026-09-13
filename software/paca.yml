@@ -1,0 +1,11 @@
+name: Paca
+website_url: https://paca-ai.org
+source_code_url: https://github.com/Paca-AI/paca
+description: AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday).
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Software Development - Project Management

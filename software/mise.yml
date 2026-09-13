@@ -1,0 +1,11 @@
+name: Mise
+website_url: https://mise.panda.fyi/
+description: Kitchen companion for households and restaurants with recipes, meal planning, pantry inventory, shared shopping lists, and Schema.org recipe portability.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Recipe Management
+source_code_url: https://github.com/sidhantpanda/mise

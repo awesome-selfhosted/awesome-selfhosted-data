@@ -1,0 +1,11 @@
+name: datannur
+website_url: https://datannur.com
+source_code_url: https://github.com/datannur/datannur
+description: "Data catalog generated as static files: a Python builder scans files and databases and produces a portable, read-only catalog that runs in any browser without a backend (alternative to CKAN, DataHub)."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Database Management
+demo_url: https://dev.datannur.com/

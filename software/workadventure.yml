@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/workadventure/workadventure
 demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
 stargazers_count: 5763
-updated_at: '2026-09-10'
+updated_at: '2026-09-12'
 archived: false
 current_release:
-  tag: v1.33.6
-  published_at: '2026-09-09'
+  tag: v1.33.8
+  published_at: '2026-09-11'
 commit_history:
   2025-10: 175
   2025-11: 65
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 172
   2026-07: 86
   2026-08: 47
-  2026-09: 84
+  2026-09: 94

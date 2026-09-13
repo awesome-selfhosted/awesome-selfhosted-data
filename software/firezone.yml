@@ -10,11 +10,11 @@ tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
 stargazers_count: 9085
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'
 archived: false
 current_release:
-  tag: headless-client-1.5.12
-  published_at: '2026-09-07'
+  tag: android-client-1.5.14
+  published_at: '2026-09-11'
 commit_history:
   2025-10: 209
   2025-11: 168
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 299
   2026-07: 424
   2026-08: 393
-  2026-09: 219
+  2026-09: 232

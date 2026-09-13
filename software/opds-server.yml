@@ -1,0 +1,11 @@
+name: "OPDS Server"
+website_url: "https://github.com/victor1234/opds-server"
+source_code_url: "https://github.com/victor1234/opds-server"
+description: "Minimal OPDS 1.2 server for browsing a Calibre database."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Document Management - E-books

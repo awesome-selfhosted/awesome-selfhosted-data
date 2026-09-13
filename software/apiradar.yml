@@ -1,0 +1,9 @@
+name: APIRadar
+description: Real-time scanner for detecting leaked API keys, tokens, and credentials on public GitHub repositories.
+site_url: https://apiradar.bot.nu
+source_url: https://github.com/zaim-abbasi/APIRadar
+license: MIT
+platforms:
+  - Nodejs
+tags:
+  - IDE & Tools

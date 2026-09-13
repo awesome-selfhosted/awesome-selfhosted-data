@@ -1,6 +1,6 @@
 name: Swetrix
 website_url: https://swetrix.com/
-description: Ultimate, open-source web analytics to satisfy all your needs.
+description: Web analytics which track your site's traffic, monitor your site's speed, analyse user sessions and pageflows, see the user flows and more (alternative to Google Analytics).
 licenses:
   - AGPL-3.0
 platforms:
@@ -13,7 +13,6 @@ stargazers_count: 72
 updated_at: '2026-08-04'
 archived: false
 commit_history:
-  2025-09: 17
   2025-10: 4
   2025-11: 0
   2025-12: 1
@@ -25,3 +24,4 @@ commit_history:
   2026-06: 3
   2026-07: 1
   2026-08: 2
+  2026-09: 0

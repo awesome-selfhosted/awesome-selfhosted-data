@@ -10,11 +10,11 @@ tags:
   - Calendar & Contacts
 source_code_url: https://github.com/intri-in/manage-my-damn-life-nextjs
 stargazers_count: 636
-updated_at: '2026-07-11'
+updated_at: '2026-09-13'
 archived: false
 current_release:
-  tag: v0.9.3
-  published_at: '2026-07-11'
+  tag: v0.10.0
+  published_at: '2026-09-13'
 commit_history:
   2025-10: 0
   2025-11: 2
@@ -25,6 +25,6 @@ commit_history:
   2026-04: 9
   2026-05: 11
   2026-06: 13
-  2026-07: 17
-  2026-08: 0
-  2026-09: 0
+  2026-07: 41
+  2026-08: 9
+  2026-09: 10

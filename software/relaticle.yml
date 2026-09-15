@@ -1,7 +1,7 @@
 name: Relaticle
 website_url: https://relaticle.com
 source_code_url: https://github.com/relaticle/relaticle
-description: CRM with a production-grade MCP server (32 tools) for AI agents, human-in-the-loop approvals, REST API, custom fields, and kanban boards.
+description: CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards.
 licenses:
   - AGPL-3.0
 platforms:

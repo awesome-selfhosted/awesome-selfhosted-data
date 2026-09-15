@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/pixelfed/pixelfed
-stargazers_count: 7098
+stargazers_count: 7097
 updated_at: '2026-09-14'
 archived: false
 current_release:
-  tag: v0.12.10
-  published_at: '2026-09-11'
+  tag: v0.12.11
+  published_at: '2026-09-14'
 commit_history:
   2025-10: 21
   2025-11: 265
@@ -25,5 +25,5 @@ commit_history:
   2026-05: 14
   2026-06: 25
   2026-07: 2
-  2026-08: 644
-  2026-09: 451
+  2026-08: 645
+  2026-09: 935

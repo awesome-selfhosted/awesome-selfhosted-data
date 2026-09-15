@@ -8,12 +8,12 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/exogee-technology/graphweaver
-stargazers_count: 554
-updated_at: '2026-08-14'
+stargazers_count: 555
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v2.23.2
-  published_at: '2026-08-14'
+  tag: v2.24.0
+  published_at: '2026-09-14'
 commit_history:
   2025-10: 197
   2025-11: 63
@@ -25,5 +25,5 @@ commit_history:
   2026-05: 14
   2026-06: 0
   2026-07: 29
-  2026-08: 33
-  2026-09: 0
+  2026-08: 35
+  2026-09: 49

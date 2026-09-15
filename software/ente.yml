@@ -10,12 +10,12 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 28865
-updated_at: '2026-09-12'
+stargazers_count: 28891
+updated_at: '2026-09-14'
 archived: false
 current_release:
-  tag: photos-v1.3.63
-  published_at: '2026-09-07'
+  tag: locker-v1.0.9
+  published_at: '2026-09-14'
 commit_history:
   2025-10: 1039
   2025-11: 1425
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 1464
   2026-07: 1921
   2026-08: 1964
-  2026-09: 1018
+  2026-09: 1126

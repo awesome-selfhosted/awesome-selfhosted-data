@@ -1,0 +1,12 @@
+name: Neverkin
+website_url: https://neverkin.com/
+source_code_url: https://github.com/Tenebrie/neverkin/
+description: Collaborative writing, worldbuilding and D&D-session-planning app. Tools for organizing your notes and stories.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Note-taking & Editors
+demo_url: https://app.neverkin.com/guest-login

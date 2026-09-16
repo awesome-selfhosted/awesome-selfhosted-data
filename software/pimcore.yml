@@ -10,11 +10,11 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/pimcore/pimcore
 stargazers_count: 3846
-updated_at: '2026-09-14'
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v2026.2.12
-  published_at: '2026-09-08'
+  tag: v2026.2.13
+  published_at: '2026-09-15'
 commit_history:
   2025-10: 32
   2025-11: 52
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 115
   2026-07: 168
   2026-08: 114
-  2026-09: 28
+  2026-09: 31

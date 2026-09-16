@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 740
-updated_at: '2026-09-07'
+stargazers_count: 741
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v0.86.0
-  published_at: '2026-09-07'
+  tag: v0.87.2
+  published_at: '2026-09-15'
 commit_history:
   2025-10: 8
   2025-11: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 8
   2026-07: 9
   2026-08: 8
-  2026-09: 8
+  2026-09: 18

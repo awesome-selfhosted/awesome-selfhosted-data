@@ -1,0 +1,16 @@
+name: Partiu
+website_url: https://partiu-demo.teda.work
+source_code_url: https://github.com/thiagodsti/partiu
+description: TripIt alternative and a trip planner.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Svelte
+  - TypeScript
+tags:
+  - Maps and Global Positioning System (GPS)
+  - Travel Organization
+demo_url: https://partiu-demo.teda.work
+related_software_url: https://www.tripit.com/web

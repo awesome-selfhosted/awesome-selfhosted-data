@@ -8,6 +8,5 @@ platforms:
   - Docker
 tags:
   - Communication - Social Networks and Forums
-depends_3rdparty: true
 demo_url: "https://fluxer.app"
 related_software_url: "https://github.com/awesome-fluxer/awesome-fluxer"

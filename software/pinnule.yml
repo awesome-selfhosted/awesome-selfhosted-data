@@ -1,0 +1,15 @@
+name: pinnule
+website_url: https://github.com/nikon1977/pinnule
+description: A nimble, light homelab portal that automatically discovers running Docker containers via socket and tracks real-time host hardware stats.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/nikon1977/pinnule
+archived: false
+current_release:
+  tag: v1.4.2
+  published_at: '2026-16-09'

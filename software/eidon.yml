@@ -1,0 +1,11 @@
+name: Eidon
+website_url: https://github.com/Quack6765/Eidon-AI
+source_code_url: https://github.com/Quack6765/Eidon-AI
+description: Self-hosted AI chat, agents and automations. One Docker image, your own model keys (BYOK), and your data stays on your server.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)

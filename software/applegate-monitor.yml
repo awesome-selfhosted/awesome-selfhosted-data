@@ -1,0 +1,13 @@
+name: "Applegate Monitor"
+website_url: "https://github.com/X4Applegate/status-server"
+source_code_url: "https://github.com/X4Applegate/status-server"
+description: "Server and network monitoring and status-page platform that tracks whether services are up or down and surfaces what needs attention."
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Monitoring
+  - Status / Uptime pages
+demo_url: "https://uptime.richardapplegate.io/dashboard/demo"

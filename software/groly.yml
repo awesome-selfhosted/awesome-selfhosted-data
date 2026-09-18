@@ -1,0 +1,13 @@
+name: Groly
+website_url: https://github.com/peterthepeter/groly
+source_code_url: https://github.com/peterthepeter/groly
+description: Mobile-first PWA combining shared grocery lists, meal planning, nutrition and health tracking with offline support and real-time sync.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Health and Fitness
+  - Recipe Management
+  - Task Management & To-do Lists

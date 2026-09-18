@@ -8,6 +8,5 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Monitoring
-  - Status / Uptime pages
+  - Monitoring & Status Pages
 demo_url: "https://uptime.richardapplegate.io/dashboard/demo"

@@ -1,0 +1,11 @@
+name: Open-Finance
+website_url: https://github.com/openfinance-app/open-finance
+source_code_url: https://github.com/openfinance-app/open-finance
+description: Personal finance manager with assets, budgets, QIF/OFX import, multi-currency and AI assistant.
+licenses:
+  - Elastic-2.0
+platforms:
+  - Docker
+  - Java
+tags:
+  - Money, Budgeting & Management

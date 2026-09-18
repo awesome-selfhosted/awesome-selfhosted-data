@@ -1,0 +1,11 @@
+name: CaddyUI
+website_url: https://github.com/X4Applegate/caddyui
+source_code_url: https://github.com/X4Applegate/caddyui
+description: Web UI to manage Caddy: configure reverse proxy hosts, redirections, TLS certificates, and advanced routes through a browser instead of editing config files.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Web Servers

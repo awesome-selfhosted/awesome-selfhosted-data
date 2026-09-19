@@ -1,0 +1,11 @@
+name: Küstencode Werkbank
+website_url: https://kuesten-code.de/projekte.html
+source_code_url: https://github.com/kuesten-code/Werkbank
+description: Business suite focussed on modularity (documentation in German).
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Resource Planning

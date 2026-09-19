@@ -1,0 +1,11 @@
+name: "PKVault"
+website_url: "https://github.com/Chnapy/PKVault"
+source_code_url: "https://github.com/Chnapy/PKVault"
+description: "Centralized Pokémon storage management & Pokedex app (alternative to Pokémon Home)."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Games - Administrative Utilities & Control Panels
+demo_url: "https://pkvault-demo.chnapy.dev"

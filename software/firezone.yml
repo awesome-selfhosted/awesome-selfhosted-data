@@ -9,12 +9,12 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 9091
-updated_at: '2026-09-14'
+stargazers_count: 9097
+updated_at: '2026-09-18'
 archived: false
 current_release:
-  tag: android-client-1.5.14
-  published_at: '2026-09-11'
+  tag: apple-client-1.5.20
+  published_at: '2026-09-15'
 commit_history:
   2025-10: 209
   2025-11: 168
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 299
   2026-07: 424
   2026-08: 393
-  2026-09: 245
+  2026-09: 299

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/getumbrel/umbrel
-stargazers_count: 11956
-updated_at: '2026-09-02'
+stargazers_count: 11973
+updated_at: '2026-09-17'
 archived: false
 current_release:
-  tag: 2.0.0-beta.1
-  published_at: '2026-09-02'
+  tag: 2.0.0-beta.2
+  published_at: '2026-09-17'
 commit_history:
   2025-10: 75
   2025-11: 3
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 0
   2026-07: 3
   2026-08: 0
-  2026-09: 190
+  2026-09: 238

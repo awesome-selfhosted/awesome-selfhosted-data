@@ -8,12 +8,12 @@ platforms:
   - Python
 tags:
   - Media Streaming - Audio Streaming
-stargazers_count: 143
-updated_at: '2026-09-14'
+stargazers_count: 144
+updated_at: '2026-09-15'
 archived: false
 current_release:
-  tag: v1.2.9-allexis
-  published_at: '2026-09-08'
+  tag: v1.2.10-malus
+  published_at: '2026-09-15'
 commit_history:
   2026-03: 128
   2026-04: 68
@@ -21,4 +21,4 @@ commit_history:
   2026-06: 76
   2026-07: 37
   2026-08: 292
-  2026-09: 108
+  2026-09: 112

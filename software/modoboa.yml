@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/modoboa/modoboa
-stargazers_count: 3537
-updated_at: '2026-09-14'
+stargazers_count: 3536
+updated_at: '2026-09-16'
 archived: false
 current_release:
-  tag: 2.10.0
-  published_at: '2026-09-06'
+  tag: 2.10.1
+  published_at: '2026-09-17'
 commit_history:
   2025-10: 40
   2025-11: 54
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 34
   2026-07: 81
   2026-08: 26
-  2026-09: 40
+  2026-09: 75

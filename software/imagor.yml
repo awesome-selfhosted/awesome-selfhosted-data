@@ -1,6 +1,6 @@
 name: imagor
 website_url: https://github.com/cshum/imagor
-description: "Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput"
+description: "Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput."
 licenses:
   - Apache-2.0
 platforms:

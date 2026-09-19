@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/cloudreve/cloudreve
 demo_url: https://demo.cloudreve.org
 stargazers_count: 28728
-updated_at: '2026-09-15'
+updated_at: '2026-09-18'
 archived: false
 current_release:
-  tag: 4.19.0
-  published_at: '2026-09-16'
+  tag: 4.19.1
+  published_at: '2026-09-18'
 commit_history:
   2025-10: 13
   2025-11: 5
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 17
   2026-07: 12
   2026-08: 1
-  2026-09: 6
+  2026-09: 7

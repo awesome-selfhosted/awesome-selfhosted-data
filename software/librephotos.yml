@@ -9,8 +9,8 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 8073
-updated_at: '2026-09-17'
+stargazers_count: 8074
+updated_at: '2026-09-18'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
 commit_history:
@@ -25,7 +25,7 @@ commit_history:
   2026-06: 53
   2026-07: 61
   2026-08: 29
-  2026-09: 35
+  2026-09: 37
 current_release:
   tag: windows-wheels-2026.09.16
   published_at: '2026-09-16'

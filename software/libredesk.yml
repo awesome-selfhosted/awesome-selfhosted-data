@@ -10,13 +10,13 @@ platforms:
   - Nodejs
 tags:
   - Ticketing
-stargazers_count: 2703
-updated_at: '2026-08-15'
+stargazers_count: 2942
+updated_at: '2026-09-18'
 archived: false
 demo_url: https://demo.libredesk.io
 current_release:
-  tag: v2.7.1
-  published_at: '2026-08-12'
+  tag: v2.8.0
+  published_at: '2026-08-22'
 commit_history:
   2025-10: 3
   2025-11: 47
@@ -27,5 +27,6 @@ commit_history:
   2026-04: 176
   2026-05: 156
   2026-06: 63
-  2026-07: 209
-  2026-08: 116
+  2026-07: 213
+  2026-08: 330
+  2026-09: 113

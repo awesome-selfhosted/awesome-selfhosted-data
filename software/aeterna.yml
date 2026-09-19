@@ -1,0 +1,12 @@
+name: "Aeterna"
+website_url: "https://alpyxn.github.io/aeterna/"
+source_code_url: "https://github.com/alpyxn/aeterna"
+description: "Dead man's switch for securely delivering messages after a period of inactivity."
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation
+  - Miscellaneous

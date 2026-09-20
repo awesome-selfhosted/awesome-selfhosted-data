@@ -9,12 +9,12 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/ossrs/srs
-stargazers_count: 29259
+stargazers_count: 29262
 updated_at: '2026-09-19'
 archived: false
 current_release:
-  tag: v7.0-d0
-  published_at: '2026-08-12'
+  tag: v7.0-a0
+  published_at: '2026-09-19'
 commit_history:
   2025-10: 79
   2025-11: 20
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 0
   2026-07: 4
   2026-08: 27
-  2026-09: 8
+  2026-09: 9

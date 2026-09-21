@@ -10,8 +10,8 @@ platforms:
   - Docker
 tags:
   - Booking and Scheduling
-stargazers_count: 809
-updated_at: '2026-09-19'
+stargazers_count: 810
+updated_at: '2026-09-20'
 archived: false
 current_release:
   tag: v5.3.0
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 55
   2026-07: 79
   2026-08: 28
-  2026-09: 24
+  2026-09: 26

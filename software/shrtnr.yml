@@ -1,0 +1,11 @@
+name: shrtnr
+website_url: https://oddbit.id/en/projects/shrtnr
+description: URL shortener for Cloudflare Workers and D1, with click analytics, QR codes, scoped API keys, an admin dashboard, and a built-in MCP server.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+tags:
+  - URL Shorteners
+source_code_url: https://github.com/oddbit/shrtnr
+depends_3rdparty: true

@@ -1,0 +1,10 @@
+name: Unchained Engine
+website_url: https://unchained.shop
+description: Headless e-commerce framework with a GraphQL API, built-in MCP server for AI agents, B2B quotations and event ticketing.
+licenses:
+  - EUPL-1.2
+platforms:
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/unchainedshop/unchained

@@ -9,12 +9,12 @@ platforms:
   - Python
 tags:
   - Network Utilities
-stargazers_count: 3033
-updated_at: '2026-09-17'
+stargazers_count: 3037
+updated_at: '2026-09-21'
 archived: false
 current_release:
-  tag: v0.9.9
-  published_at: '2026-07-22'
+  tag: v0.9.10
+  published_at: '2026-09-21'
 commit_history:
   2025-10: 0
   2025-11: 3
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 0
   2026-07: 6
   2026-08: 1
-  2026-09: 10
+  2026-09: 11

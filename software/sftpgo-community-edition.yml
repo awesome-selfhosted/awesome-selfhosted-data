@@ -11,12 +11,12 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/drakkan/sftpgo
-stargazers_count: 12534
-updated_at: '2026-09-07'
+stargazers_count: 12549
+updated_at: '2026-09-19'
 archived: false
 current_release:
-  tag: v2.7.5
-  published_at: '2026-07-17'
+  tag: v2.7.6
+  published_at: '2026-09-19'
 commit_history:
   2025-10: 20
   2025-11: 9
@@ -29,4 +29,4 @@ commit_history:
   2026-06: 30
   2026-07: 25
   2026-08: 73
-  2026-09: 9
+  2026-09: 16

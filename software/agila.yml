@@ -1,0 +1,13 @@
+name: Agila
+website_url: https://agila.dev
+source_code_url: https://github.com/drenlia-inc/agila
+description: Kanban with soft WIP, fast drag-and-drop, and edit-in-place across board, list, Gantt, and calendar views (alternative to Jira).
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Task Management & To-do Lists
+  - Software Development - Project Management
+demo_url: https://demo.agila.dev/

@@ -8,11 +8,11 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/sbpp/sourcebans-pp
-stargazers_count: 375
+stargazers_count: 374
 updated_at: '2026-09-19'
 archived: false
 current_release:
-  tag: 2.1.0
+  tag: 2.2.0
   published_at: '2026-09-19'
 commit_history:
   2025-10: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 10
   2026-07: 10
   2026-08: 14
-  2026-09: 16
+  2026-09: 19

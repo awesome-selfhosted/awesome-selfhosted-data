@@ -1,0 +1,22 @@
+name: RetroArr
+website_url: https://retroarr.app
+source_code_url: https://github.com/RiDDiX/RetroArr
+description: Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - .NET
+tags:
+  - Games - Administrative Utilities & Control Panels
+depends_3rdparty: true
+stargazers_count: 10
+updated_at: '2026-09-04'
+archived: false
+current_release:
+  tag: v1.0.217
+  published_at: '2026-09-01'
+commit_history:
+  2026-07: 0
+  2026-08: 59
+  2026-09: 4

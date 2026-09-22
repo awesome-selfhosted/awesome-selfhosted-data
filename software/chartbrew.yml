@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/chartbrew/chartbrew
 demo_url: https://app.chartbrew.com/live-demo
 stargazers_count: 4061
-updated_at: '2026-08-05'
+updated_at: '2026-09-21'
 archived: false
 current_release:
-  tag: v5.3.1
-  published_at: '2026-07-31'
+  tag: v5.3.2
+  published_at: '2026-09-20'
 commit_history:
   2025-10: 45
   2025-11: 39
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 9
   2026-07: 43
   2026-08: 7
-  2026-09: 0
+  2026-09: 10

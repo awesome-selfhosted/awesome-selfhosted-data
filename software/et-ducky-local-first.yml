@@ -1,0 +1,10 @@
+name: ET Ducky Local-First
+website_url: https://etducky.com/blog/self-hosted-rmm-local-first
+source_code_url: https://etducky.com/documentation/self-hosted
+description: Remote monitoring and management platform with kernel-level diagnostics (ETW on Windows, eBPF on Linux), patch management, remote desktop and behavioral security (alternative to MeshCentral, Tactical RMM).
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Unknown
+tags:
+  - Remote Access

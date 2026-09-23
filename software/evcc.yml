@@ -11,11 +11,11 @@ platforms:
 tags:
   - Internet of Things (IoT)
 stargazers_count: 7280
-updated_at: '2026-09-20'
+updated_at: '2026-09-22'
 archived: false
 current_release:
-  tag: 0.315.2
-  published_at: '2026-09-17'
+  tag: 0.316.0
+  published_at: '2026-09-22'
 commit_history:
   2025-10: 245
   2025-11: 157
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 294
   2026-07: 333
   2026-08: 325
-  2026-09: 192
+  2026-09: 193

@@ -5,6 +5,6 @@ description: Remote monitoring and management platform with kernel-level diagnos
 licenses:
   - ⊘ Proprietary
 platforms:
-  - Unknown
+  - Docker
 tags:
   - Remote Access

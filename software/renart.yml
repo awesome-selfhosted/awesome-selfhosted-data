@@ -1,0 +1,12 @@
+name: Renart
+website_url: https://getrenart.com
+source_code_url: https://github.com/renart-data/renart
+description: A data platform for moving, transforming and analyzing data across your data stack.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Analytics
+  - Software Development - IDE & Tools
+  - Software Development - Low Code

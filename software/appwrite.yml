@@ -8,12 +8,12 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/appwrite/appwrite
-stargazers_count: 57439
-updated_at: '2026-09-22'
+stargazers_count: 57452
+updated_at: '2026-09-23'
 archived: false
 current_release:
-  tag: 2.2.0
-  published_at: '2026-09-15'
+  tag: 2.3.0
+  published_at: '2026-09-23'
 commit_history:
   2025-10: 490
   2025-11: 409
@@ -24,6 +24,6 @@ commit_history:
   2026-04: 1129
   2026-05: 1115
   2026-06: 631
-  2026-07: 854
-  2026-08: 918
-  2026-09: 1229
+  2026-07: 879
+  2026-08: 931
+  2026-09: 1360

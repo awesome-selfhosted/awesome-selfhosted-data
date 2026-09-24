@@ -1,0 +1,12 @@
+name: "Hyvor Blogs"
+website_url: "https://blogs.hyvor.com"
+source_code_url: "https://github.com/hyvor/blogs"
+description: "Simple, fast blogging platform. A modern WordPress alternative for your team."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Blogging Platforms
+  - Content Management Systems (CMS)

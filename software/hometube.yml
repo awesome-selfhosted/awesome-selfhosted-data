@@ -1,0 +1,22 @@
+name: HomeTube
+website_url: https://hometube.latentnoise.dev
+source_code_url: https://github.com/EgalitarianMonkey/hometube
+description: Web UI to download videos and playlists from 1700+ sites into a Plex or Jellyfin library, with quality selection, SponsorBlock sponsor removal, subtitles, clip cutting and resilient playlist sync.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true
+stargazers_count: 1478
+updated_at: '2026-09-22'
+archived: false
+current_release:
+  tag: v2.13.0
+  published_at: '2026-09-22'
+commit_history:
+  2026-07: 0
+  2026-08: 42
+  2026-09: 16

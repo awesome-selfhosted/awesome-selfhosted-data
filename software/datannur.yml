@@ -1,0 +1,11 @@
+name: datannur
+website_url: https://datannur.com
+source_code_url: https://github.com/datannur/datannur
+description: "Lightweight data catalog for documenting and exploring structured data files and databases."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Database Management
+demo_url: https://dev.datannur.com/

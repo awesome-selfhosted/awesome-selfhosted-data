@@ -1,0 +1,12 @@
+name: OpenAmer
+website_url: https://openamer.github.io/openamer/
+source_code_url: https://github.com/openamer/openamer
+description: Self-improving, self-learning AI agent with real desktop control (files, browser, terminal, GUI), persistent vector memory, plugin system and a peer-to-peer A2A mesh. Runs fully local on Windows.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Windows
+tags:
+  - Automation
+  - Generative Artificial Intelligence (GenAI)

@@ -12,12 +12,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 demo_url: https://try.tuwunel.chat/
-stargazers_count: 2552
-updated_at: '2026-09-22'
+stargazers_count: 2558
+updated_at: '2026-09-25'
 archived: false
 current_release:
-  tag: v1.9.2
-  published_at: '2026-09-21'
+  tag: v1.9.3
+  published_at: '2026-09-25'
 commit_history:
   2026-01: 132
   2026-02: 112
@@ -27,4 +27,4 @@ commit_history:
   2026-06: 215
   2026-07: 313
   2026-08: 412
-  2026-09: 293
+  2026-09: 302

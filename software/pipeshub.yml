@@ -1,0 +1,12 @@
+name: PipesHub
+website_url: https://www.pipeshub.com
+source_code_url: https://github.com/pipeshub-ai/pipeshub-ai
+description: Workplace AI for permission-aware search, cited RAG, knowledge graphs, and agents across 50+ enterprise connectors (alternative to Glean, Onyx)
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Search Engines

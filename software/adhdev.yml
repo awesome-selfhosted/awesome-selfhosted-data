@@ -1,0 +1,10 @@
+name: ADHDev
+website_url: https://adhf.dev
+source_code_url: https://github.com/vilmire/adhdev
+description: Dashboard and daemon to monitor and remotely control AI coding agents (Claude Code, Codex, Cursor) across machines, with mobile approvals and git worktree task dispatch.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Software Development - IDE & Tools

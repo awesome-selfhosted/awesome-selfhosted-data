@@ -8,12 +8,12 @@ platforms:
   - Python
 tags:
   - Media Streaming - Audio Streaming
-stargazers_count: 144
-updated_at: '2026-09-21'
+stargazers_count: 142
+updated_at: '2026-09-22'
 archived: false
 current_release:
-  tag: v1.2.10-malus
-  published_at: '2026-09-15'
+  tag: v1.2.11-bixa
+  published_at: '2026-09-22'
 commit_history:
   2026-03: 128
   2026-04: 68
@@ -21,4 +21,4 @@ commit_history:
   2026-06: 76
   2026-07: 37
   2026-08: 292
-  2026-09: 126
+  2026-09: 132

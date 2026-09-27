@@ -1,0 +1,13 @@
+name: "Syncspririt"
+website_url: "https://github.com/basiliscos/syncspirit"
+source_code_url: "https://github.com/basiliscos/syncspirit"
+description: "Syncthing-compatible peer-to-peer continuous file synchronisation tool."
+licenses:
+  - GPL-3.0
+platforms:
+  - c++# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - File Transfer & Synchronization
+  - File Transfer - Peer-to-peer Filesharing
+depends_3rdparty: true
+related_software_url: "https://syncthing.net/"

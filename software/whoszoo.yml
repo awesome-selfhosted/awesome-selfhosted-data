@@ -1,0 +1,13 @@
+name: "WhosZoo"
+website_url: "https://whoszoo.app"
+source_code_url: "https://github.com/hansreno/whoszoo"
+description: "Personal memory app for remembering people, places, thoughts, events, and more. Runs in your own Cloudflare account and supports immediate recall by text or voice from a phone or browser."
+licenses:
+  - MIT
+platforms:
+  - Javascript
+tags:
+  - Knowledge Management Tools
+  - Generative Artificial Intelligence (GenAI)
+  - Note-taking & Editors
+depends_3rdparty: true

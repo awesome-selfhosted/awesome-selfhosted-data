@@ -1,0 +1,13 @@
+name: Telebrief
+website_url: https://telebrief.ti1orn.com
+source_code_url: https://github.com/belaytzev/Telebrief
+description: Daily AI summaries of your Telegram channels and chats, delivered by your own bot, with OpenAI, Anthropic or local Ollama models and an MCP endpoint for AI agents.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Feed Readers
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

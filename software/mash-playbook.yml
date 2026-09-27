@@ -6,7 +6,7 @@ description: "Ansible playbook which helps you host various FOSS services as Doc
 licenses:
   - AGPL-3.0
 platforms:
-  - Ansible 
+  - Ansible
   - Docker
 tags:
-  - Self-hosting Solutions 
+  - Self-hosting Solutions

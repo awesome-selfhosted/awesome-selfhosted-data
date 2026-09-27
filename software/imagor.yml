@@ -4,7 +4,6 @@ description: "Fast, secure image processing server and Go library built on libvi
 licenses:
   - Apache-2.0
 platforms:
-  - Go
   - Docker
 tags:
   - Proxy

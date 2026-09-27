@@ -5,7 +5,7 @@ description: "Syncthing-compatible peer-to-peer continuous file synchronisation 
 licenses:
   - GPL-3.0
 platforms:
-  - c++# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+  - c++#=
 tags:
   - File Transfer & Synchronization
   - File Transfer - Peer-to-peer Filesharing

@@ -1,0 +1,11 @@
+name: Vellum
+website_url: https://github.com/uzqw/vellum
+description: A self-hosted ebook reader your LLM can read. EPUB/PDF/MOBI, multi-device sync, bookmarks/notes/progress, and an embedded read-only MCP server.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/uzqw/vellum

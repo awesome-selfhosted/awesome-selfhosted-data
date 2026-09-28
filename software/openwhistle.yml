@@ -1,0 +1,12 @@
+name: OpenWhistle
+website_url: https://openwhistle.net/
+source_code_url: https://github.com/openwhistle/OpenWhistle
+description: Whistleblowing platform for internal reporting channels under EU Directive 2019/1937, with anonymous PIN access and no IP logging.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://demo.openwhistle.net/

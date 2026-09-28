@@ -1,0 +1,11 @@
+name: "corsproxy"
+website_url: "https://github.com/melihbirim/corsproxy"
+source_code_url: "https://github.com/melihbirim/corsproxy"
+description: "Lightweight CORS proxy server that lets browser apps call third-party APIs, with rate limiting, host filtering and optional authentication."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Proxy

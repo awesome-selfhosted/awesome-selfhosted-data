@@ -1,0 +1,25 @@
+# software name
+name: gghstats
+# URL of the software project's homepage
+website_url: https://gghstats.com
+# URL where the full source code of the program can be downloaded
+source_code_url: https://github.com/hrodrig/gghstats
+# description of what the software does, shorter than 250 characters, sentence case
+# TODO: reescribe esta línea con tus palabras antes del PR
+description: Self-hosted GitHub traffic analytics that keeps clones and views beyond the 14-day API window, with a SQLite-backed dashboard and Head-to-Head repo compare.
+# list of license identifiers
+licenses:
+  - MIT
+# list of languages/platforms
+platforms:
+  - Go
+  - Docker
+# list of tags (first tag = section in single-page list)
+tags:
+  - Analytics
+# depends on GitHub API outside the user's control
+depends_3rdparty: true
+# optional demo
+demo_url: https://gghstats.hermesrodriguez.com
+# optional related (deploy manifests)
+related_software_url: https://github.com/hrodrig/gghstats-selfhosted

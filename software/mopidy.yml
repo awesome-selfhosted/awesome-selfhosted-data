@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/mopidy/mopidy
 depends_3rdparty: true
 stargazers_count: 8587
-updated_at: '2026-09-26'
+updated_at: '2026-09-28'
 archived: false
 current_release:
   tag: v4.0.3
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 1
   2026-07: 5
   2026-08: 21
-  2026-09: 79
+  2026-09: 80

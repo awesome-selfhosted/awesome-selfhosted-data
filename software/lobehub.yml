@@ -10,12 +10,12 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 related_software_url: https://lobehub.com/mcp
-stargazers_count: 82838
-updated_at: '2026-09-26'
+stargazers_count: 82859
+updated_at: '2026-09-27'
 archived: false
 current_release:
-  tag: v2.2.19-canary.28
-  published_at: '2026-09-26'
+  tag: v2.2.19-canary.31
+  published_at: '2026-09-27'
 commit_history:
   2025-10: 375
   2025-11: 546
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 741
   2026-07: 889
   2026-08: 731
-  2026-09: 778
+  2026-09: 821

@@ -9,8 +9,8 @@ platforms:
   - K8S
 tags:
   - Software Development - Project Management
-stargazers_count: 1863
-updated_at: '2026-09-25'
+stargazers_count: 1865
+updated_at: '2026-09-27'
 archived: false
 current_release:
   tag: v0.17.0
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-07: 264
   2026-08: 314
-  2026-09: 202
+  2026-09: 220

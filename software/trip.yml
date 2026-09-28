@@ -10,12 +10,12 @@ tags:
   - Maps and Global Positioning System (GPS)
   - Travel Organization
 demo_url: https://itskovacs-trip.netlify.app/home
-stargazers_count: 1942
-updated_at: '2026-09-14'
+stargazers_count: 1940
+updated_at: '2026-09-27'
 archived: false
 current_release:
-  tag: 1.49.0
-  published_at: '2026-08-30'
+  tag: 1.50.0
+  published_at: '2026-09-27'
 commit_history:
   2025-10: 101
   2025-11: 146
@@ -28,4 +28,4 @@ commit_history:
   2026-06: 1
   2026-07: 30
   2026-08: 29
-  2026-09: 6
+  2026-09: 12

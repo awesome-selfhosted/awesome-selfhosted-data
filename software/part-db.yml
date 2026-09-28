@@ -12,11 +12,11 @@ tags:
   - Inventory Management
 demo_url: https://demo.part-db.de/en/
 stargazers_count: 1779
-updated_at: '2026-09-26'
+updated_at: '2026-09-27'
 archived: false
 current_release:
-  tag: v2.18.0
-  published_at: '2026-09-20'
+  tag: v2.19.1
+  published_at: '2026-09-27'
 commit_history:
   2025-10: 37
   2025-11: 41
@@ -29,4 +29,4 @@ commit_history:
   2026-06: 76
   2026-07: 76
   2026-08: 122
-  2026-09: 123
+  2026-09: 140

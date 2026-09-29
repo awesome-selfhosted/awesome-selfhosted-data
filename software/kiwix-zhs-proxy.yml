@@ -1,0 +1,11 @@
+name: kiwix-zhs-proxy
+website_url: https://github.com/FogToCloud/kiwix-zhs-proxy
+description: Reverse proxy in front of kiwix-serve that converts Traditional Chinese ZIM content to Simplified Chinese on the fly (OpenCC), for offline home-LAN use.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Document Management - E-books
+source_code_url: https://github.com/FogToCloud/kiwix-zhs-proxy
+archived: false

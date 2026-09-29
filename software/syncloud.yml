@@ -1,6 +1,6 @@
 name: Syncloud
 website_url: https://syncloud.org/
-description: Your own online file storage, social network or email server.
+description: OS with an app store and automatic updates for apps such as Nextcloud, Jellyfin, Bitwarden and Paperless, including HTTPS, a domain name and remote access without a public IP.
 licenses:
   - GPL-3.0
 platforms:

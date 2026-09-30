@@ -1,0 +1,11 @@
+name: tapflow
+website_url: https://www.tapflow.dev
+description: Streams iOS simulators and Android emulators from an Apple Silicon Mac to any browser, so teammates can test builds without Xcode or Android Studio. (alternative to Appetize.io, BrowserStack)
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Software Development - Testing
+  - Software Development - IDE & Tools
+source_code_url: https://github.com/jo-duchan/tapflow

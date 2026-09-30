@@ -69,3 +69,17 @@ steps:
         - '^https://dev.webtrees.net/demo-stable/index.php\?ctype=gedcom\&ged=demo' # site takes a while to load,  times out with the default 10s timeout
         - '^https://www.gnu.org/software/mailman/' # site takes a while to load,  times out with the default 10s timeout
         - '^https://goteleport.com/' # Always returns 403 but loads in browser
+        - '^https://www.asterisk.org/$' # Always returns 403 but loads in browser
+        - '^https://www.dokuwiki.org/DokuWiki$' # Bot protection page, always returns 403
+        - '^https://www.emqx.com/' # Always returns 403 but loads in browser
+        - '^https://www.freepbx.org$' # Always returns 403 but loads in browser
+        - '^https://modx.com/$' # Always returns 403 but loads in browser
+        - '^https://ipcheck.ing$' # Always returns 403 but loads in browser
+        - '^https://www.odoo.com$' # Always returns 403 but loads in browser
+        - '^https://www.opencart.com$' # Always returns 403 but loads in browser
+        - '^https://www.phpbb.com/$' # Always returns 403 but loads in browser
+        - '^https://codidact.com/$' # Always returns 403 but loads in browser
+        - '^https://rsshub.app$' # DDoS protection page, always returns 403
+        - '^https://www.getsoloapp.com/' # DDoS protection page, always returns 403
+        - '^https://webtor.io$' # Always returns 403 but loads in browser
+        - '^https://www.zoneminder.com/$' # DDoS protection page, always returns 403

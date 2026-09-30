@@ -1,0 +1,24 @@
+# software name
+name: "TruePPM"
+# URL of the software project's homepage
+website_url: "https://trueppm.com"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://gitlab.com/trueppm/trueppm"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Scheduling-first project, program and portfolio management with critical path scheduling, Monte Carlo risk analysis, Gantt charts and agile boards (alternative to Microsoft Project, Jira and Planview)."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - Apache-2.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Python
+  - Docker
+  - K8S
+  - Rust
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Software Development - Project Management
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false
+# (optional) link to an interactive demo of the software
+demo_url: "https://try.trueppm.com"

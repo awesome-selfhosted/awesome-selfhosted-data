@@ -1,0 +1,14 @@
+name: OpenAgent
+website_url: https://www.openagentai.org
+source_code_url: https://github.com/the-open-agent/openagent
+description: Personal AI assistant powered by LLM, RAG and agent loops, supporting browser-use, shell execution, office automation, and MCP tools.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+demo_url: https://demo.openagentai.org
+depends_3rdparty: true

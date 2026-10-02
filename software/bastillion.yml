@@ -1,0 +1,10 @@
+name: Bastillion
+website_url: https://loophole.company
+source_code_url: https://github.com/bastillion-io/Bastillion
+description: Web-based SSH console and centralized SSH key management, with session recording and replay (alternative to Teleport, Guacamole).
+licenses:
+  - Prosperity-3.0.0
+platforms:
+  - Java
+tags:
+  - Remote Access

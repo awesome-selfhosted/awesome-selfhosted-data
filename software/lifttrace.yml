@@ -1,0 +1,10 @@
+name: LiftTrace
+website_url: https://traceapps.github.io/docs/lifttrace/
+source_code_url: https://github.com/TraceApps/lifttrace
+description: Strength training tracker with multi-week programs, a multi-source exercise library, progress charts and PR tracking, trainer and athlete accounts, workout history imports, and a built-in AI assistant (alternative to Strong, Hevy).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Health and Fitness

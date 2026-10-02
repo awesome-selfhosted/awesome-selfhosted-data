@@ -1,0 +1,12 @@
+name: OpenPost
+website_url: https://openpo.st
+source_code_url: https://github.com/getopenpost/openpost
+description: Prepare, review, schedule, publish, and track posts across multiple social networks (alternative to Buffer, Hootsuite).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: true

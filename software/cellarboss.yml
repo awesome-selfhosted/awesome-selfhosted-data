@@ -1,0 +1,11 @@
+name: "CellarBoss"
+website_url: "https://cellarboss.org"
+source_code_url: "https://github.com/CellarBoss/cellarboss"
+description: "Wine inventory management system."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Inventory Management

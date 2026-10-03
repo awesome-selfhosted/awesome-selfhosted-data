@@ -8,11 +8,10 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/pietheinstrengholt/rssmonster
-stargazers_count: 557
-updated_at: '2026-09-26'
+stargazers_count: 560
+updated_at: '2026-10-02'
 archived: false
 commit_history:
-  2025-10: 0
   2025-11: 17
   2025-12: 137
   2026-01: 228
@@ -23,7 +22,8 @@ commit_history:
   2026-06: 83
   2026-07: 156
   2026-08: 178
-  2026-09: 174
+  2026-09: 188
+  2026-10: 3
 current_release:
   tag: v2.3.0
   published_at: '2026-09-09'

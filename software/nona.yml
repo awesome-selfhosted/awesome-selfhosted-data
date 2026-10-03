@@ -8,13 +8,14 @@ platforms:
   - Docker
 tags:
   - Software Development - Feature Toggle
-stargazers_count: 64
-updated_at: '2026-09-14'
+stargazers_count: 65
+updated_at: '2026-09-28'
 archived: false
 current_release:
-  tag: 4.0.1
-  published_at: '2026-09-14'
+  tag: 4.1.0
+  published_at: '2026-09-28'
 commit_history:
   2026-07: 199
   2026-08: 137
-  2026-09: 73
+  2026-09: 89
+  2026-10: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/bigbluebutton/bigbluebutton
-stargazers_count: 9229
-updated_at: '2026-09-25'
+stargazers_count: 9231
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v4.0.0-rc.3
-  published_at: '2026-09-11'
+  tag: v3.0.39
+  published_at: '2026-10-02'
 commit_history:
-  2025-10: 222
   2025-11: 140
   2025-12: 133
   2026-01: 183
@@ -26,4 +25,5 @@ commit_history:
   2026-06: 141
   2026-07: 168
   2026-08: 78
-  2026-09: 46
+  2026-09: 88
+  2026-10: 58

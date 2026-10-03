@@ -10,13 +10,12 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/Intermesh/groupoffice/
 stargazers_count: 280
-updated_at: '2026-09-25'
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v26.0.48
-  published_at: '2026-09-21'
+  tag: v26.0.49
+  published_at: '2026-09-28'
 commit_history:
-  2025-10: 182
   2025-11: 225
   2025-12: 135
   2026-01: 248
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 268
   2026-07: 64
   2026-08: 129
-  2026-09: 127
+  2026-09: 147
+  2026-10: 30

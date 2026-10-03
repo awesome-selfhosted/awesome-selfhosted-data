@@ -10,13 +10,12 @@ tags:
   - Remote Access
 source_code_url: https://github.com/engity-com/bifroest
 stargazers_count: 85
-updated_at: '2026-09-26'
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v0.7.7
-  published_at: '2026-09-04'
+  tag: v1.0.0-beta1
+  published_at: '2026-10-02'
 commit_history:
-  2025-10: 31
   2025-11: 16
   2025-12: 14
   2026-01: 16
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 14
   2026-07: 21
   2026-08: 20
-  2026-09: 46
+  2026-09: 59
+  2026-10: 18

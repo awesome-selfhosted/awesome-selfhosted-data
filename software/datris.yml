@@ -1,7 +1,7 @@
 name: "Datris.ai"
 website_url: "https://datris.ai"
 source_code_url: "https://github.com/datris/datris-platform-oss"
-description: "Data control plane for AI agents. Agents ingest, validate, transform, and query data through MCP, with built-in data quality, lineage, audit logging, and policy guardrails. Delivers to Postgres, Snowflake, Databricks, Iceberg, and vector stores"
+description: "Data control plane for AI agents. Agents ingest, validate, transform, and query data through MCP, with built-in data quality, lineage, audit logging, and policy guardrails. Delivers to Postgres, Snowflake, Databricks, Iceberg, and vector stores."
 licenses:
   - AGPL-3.0
 platforms:

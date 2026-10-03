@@ -1,0 +1,14 @@
+name: "openvas-tracker"
+website_url: "https://github.com/trcyberoptic/openvas-tracker"
+source_code_url: "https://github.com/trcyberoptic/openvas-tracker"
+description: "Vulnerability management dashboard for OpenVAS/Greenbone and ZAP with automated ticketing, scan comparison, LDAP/Active Directory auth, and risk acceptance rules. Single Go binary with embedded React UI."
+licenses:
+  - GPL-3.0
+platforms:
+  - Go
+  - Docker
+  - deb
+tags:
+  - Network Utilities
+  - Ticketing
+depends_3rdparty: false

@@ -1,0 +1,11 @@
+name: Zedgerr
+website_url: https://github.com/vMawk/Zedgerr
+description: Invoicing, quotes, credit notes, time tracking, expense and mileage management for freelancers and small businesses. Supports 40+ country tax rules (VAT, GST, HST). Includes client portal and PDF export.
+licenses:
+  - FSL-1.1-Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/vMawk/Zedgerr

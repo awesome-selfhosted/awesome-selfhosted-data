@@ -1,0 +1,11 @@
+name: Vellum
+website_url: https://vellum.ai
+source_code_url: https://github.com/vellum-ai/vellum-assistant
+description: Personal AI assistant with persistent memory, scheduled tasks, messaging integrations, and support for local models through Ollama.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation

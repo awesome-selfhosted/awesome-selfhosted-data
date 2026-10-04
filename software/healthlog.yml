@@ -1,0 +1,12 @@
+name: HealthLog
+website_url: https://healthlog.dev
+description: Privacy-focused health tracker that puts your metrics on one timeline. Syncs Withings, Oura, WHOOP, Apple Health and other services, with encrypted storage. Dracula theme by default.
+licenses:
+  - PolyForm-Noncommercial-1.0.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Health and Fitness
+source_code_url: https://github.com/MBombeck/HealthLog
+demo_url: https://demo.healthlog.dev

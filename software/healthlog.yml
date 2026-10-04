@@ -4,7 +4,6 @@ description: Privacy-focused health tracker that puts your metrics on one timeli
 licenses:
   - PolyForm-Noncommercial-1.0.0
 platforms:
-  - Nodejs
   - Docker
 tags:
   - Health and Fitness

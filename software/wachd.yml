@@ -1,0 +1,13 @@
+name: "Wachd"
+website_url: "https://wachd.io"
+source_code_url: "https://github.com/wachd/wachd"
+description: "Correlates alerts with recent deploys, logs and metrics and uses AI to explain the probable root cause before paging on-call. Includes on-call scheduling and escalation. (alternative to OpsGenie, PagerDuty)"
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Monitoring & Status Pages
+demo_url: "https://demo.wachd.io"

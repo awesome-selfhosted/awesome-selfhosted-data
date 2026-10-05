@@ -1,0 +1,11 @@
+name: SlowBooks Pro
+website_url: https://www.slowbookspro.com/
+description: Accounting server with double-entry bookkeeping, multi-user roles and audit trail, invoicing with card payments, US payroll with tax forms, inventory, bank feeds, and importers for MYOB, Wave, Zoho, Xero and GnuCash (alternative to QuickBooks).
+licenses:
+  - SlowBooks-Source-Available
+platforms:
+  - Python
+  - Docker
+tags:
+  - Money, Budgeting & Management
+source_code_url: https://github.com/VonHoltenCodes/SlowBooks-Pro-2026

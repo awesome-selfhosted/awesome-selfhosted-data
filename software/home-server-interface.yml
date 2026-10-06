@@ -1,0 +1,11 @@
+name: Home Server Interface
+website_url: https://kittyruntime.github.io/home-server-interface/
+description: Web dashboard that turns a Linux server into a NAS and app platform, with a file manager, a Docker app store, RAID and LVM storage management with previewed changes, SMB shares, monitoring and backups.
+licenses:
+  - MPL-2.0
+platforms:
+  - Nodejs
+  - Go
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/kittyruntime/home-server-interface

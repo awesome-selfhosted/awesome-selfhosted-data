@@ -1,0 +1,13 @@
+name: 5dive
+website_url: https://5dive.ai
+source_code_url: https://github.com/5dive-ai/5dive
+description: Self-hosted runtime for coding agents built on Bash, systemd, Linux users, and SQLite.
+licenses:
+  - MIT
+platforms:
+  - Shell
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+  - Software Development - IDE & Tools

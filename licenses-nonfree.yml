@@ -36,6 +36,10 @@
   name: Elastic License 2.0
   url: https://spdx.org/licenses/Elastic-2.0.html
 
+- identifier: FSL-1.1-MIT
+  name: Functional Source License, Version 1.1, MIT Future License
+  url: https://spdx.org/licenses/FSL-1.1-MIT.html
+
 - identifier: NPOSL-3.0
   name: Non-Profit Open Software License 3.0
   url: https://spdx.org/licenses/NPOSL-3.0.html
@@ -43,6 +47,10 @@
 - identifier: SSPL-1.0
   name: Server Side Public License
   url: https://spdx.org/licenses/SSPL-1.0.html
+
+- identifier: SUL-1.0
+  name: Sustainable Use License v1.0
+  url: https://spdx.org/licenses/SUL-1.0.html
 
 - identifier: ⊘ Proprietary
   name: Proprietary software

@@ -8,24 +8,24 @@ platforms:
   - Docker
 tags:
   - Office Suites
-source_code_url: https://github.com/ether/etherpad-lite
+source_code_url: https://github.com/ether/etherpad
 demo_url: https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60
-stargazers_count: 17998
-updated_at: '2025-12-22'
+stargazers_count: 18558
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v2.5.3
-  published_at: '2025-11-05'
+  tag: v3.3.6
+  published_at: '2026-09-21'
 commit_history:
-  2025-01: 8
-  2025-02: 12
-  2025-03: 17
-  2025-04: 37
-  2025-05: 13
-  2025-06: 26
-  2025-07: 19
-  2025-08: 88
-  2025-09: 36
-  2025-10: 47
   2025-11: 28
-  2025-12: 22
+  2025-12: 32
+  2026-01: 25
+  2026-02: 23
+  2026-03: 56
+  2026-04: 180
+  2026-05: 192
+  2026-06: 128
+  2026-07: 61
+  2026-08: 84
+  2026-09: 105
+  2026-10: 8

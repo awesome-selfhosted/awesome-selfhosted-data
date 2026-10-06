@@ -9,24 +9,24 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-demo_url: https://demo.halo.run
+demo_url: https://docs.halo.run/#%E5%9C%A8%E7%BA%BF%E4%BD%93%E9%AA%8C
 related_software_url: https://github.com/halo-sigs/awesome-halo
-stargazers_count: 37503
-updated_at: '2025-12-23'
+stargazers_count: 39926
+updated_at: '2026-09-30'
 archived: false
 current_release:
-  tag: v2.22.0-rc.1
-  published_at: '2025-12-22'
+  tag: v2.27.0-beta.1
+  published_at: '2026-09-24'
 commit_history:
-  2025-01: 12
-  2025-02: 4
-  2025-03: 26
-  2025-04: 22
-  2025-05: 63
-  2025-06: 64
-  2025-07: 23
-  2025-08: 28
-  2025-09: 29
-  2025-10: 62
   2025-11: 52
-  2025-12: 61
+  2025-12: 82
+  2026-01: 69
+  2026-02: 30
+  2026-03: 39
+  2026-04: 45
+  2026-05: 59
+  2026-06: 45
+  2026-07: 45
+  2026-08: 55
+  2026-09: 59
+  2026-10: 0

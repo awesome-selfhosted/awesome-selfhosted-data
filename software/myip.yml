@@ -8,25 +8,25 @@ platforms:
   - Nodejs
   - Docker
 tags:
-  - Miscellaneous
+  - Network Utilities
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
-stargazers_count: 9523
-updated_at: '2025-12-21'
+stargazers_count: 12029
+updated_at: '2026-09-29'
 archived: false
 current_release:
-  tag: v5.1.1
-  published_at: '2025-12-21'
+  tag: v7.6.0
+  published_at: '2026-09-21'
 commit_history:
-  2025-01: 47
-  2025-02: 13
-  2025-03: 2
-  2025-04: 1
-  2025-05: 0
-  2025-06: 9
-  2025-07: 6
-  2025-08: 6
-  2025-09: 5
-  2025-10: 0
   2025-11: 8
   2025-12: 2
+  2026-01: 15
+  2026-02: 6
+  2026-03: 7
+  2026-04: 251
+  2026-05: 111
+  2026-06: 64
+  2026-07: 181
+  2026-08: 280
+  2026-09: 80
+  2026-10: 0

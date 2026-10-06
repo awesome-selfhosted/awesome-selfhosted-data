@@ -1,0 +1,23 @@
+name: Habitat
+website_url: https://gethabitat.org/
+source_code_url: https://github.com/carlnewton/habitat
+description: A Platform for Local Communities.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+stargazers_count: 150
+updated_at: '2026-09-13'
+archived: false
+current_release:
+  tag: 1.6.0
+  published_at: '2026-07-20'
+commit_history:
+  2026-05: 21
+  2026-06: 16
+  2026-07: 12
+  2026-08: 17
+  2026-09: 9
+  2026-10: 0

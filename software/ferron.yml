@@ -1,0 +1,26 @@
+name: Ferron
+website_url: https://ferron.sh/
+source_code_url: https://github.com/ferronweb/ferron
+description: Fast, memory-safe web server written in Rust.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - deb
+tags:
+  - Web Servers
+stargazers_count: 2159
+updated_at: '2026-10-02'
+archived: false
+current_release:
+  tag: 3.0.0-rc.8
+  published_at: '2026-09-28'
+commit_history:
+  2026-04: 28
+  2026-05: 57
+  2026-06: 70
+  2026-07: 292
+  2026-08: 596
+  2026-09: 217
+  2026-10: 34

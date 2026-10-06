@@ -1,0 +1,29 @@
+name: Local Deep Research
+website_url: https://github.com/LearningCircuit/local-deep-research
+source_code_url: https://github.com/LearningCircuit/local-deep-research
+description: AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 9148
+updated_at: '2026-10-02'
+archived: false
+current_release:
+  tag: v1.10.7
+  published_at: '2026-08-28'
+commit_history:
+  2025-12: 783
+  2026-01: 864
+  2026-02: 497
+  2026-03: 630
+  2026-04: 342
+  2026-05: 433
+  2026-06: 437
+  2026-07: 268
+  2026-08: 246
+  2026-09: 355
+  2026-10: 38

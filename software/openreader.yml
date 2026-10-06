@@ -1,0 +1,29 @@
+name: OpenReader
+website_url: https://docs.openreader.richardr.dev/
+source_code_url: https://github.com/richardr1126/openreader
+description: EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Miscellaneous
+stargazers_count: 527
+updated_at: '2026-10-02'
+archived: false
+current_release:
+  tag: v5.1.0
+  published_at: '2026-09-30'
+commit_history:
+  2025-11: 47
+  2025-12: 1
+  2026-01: 36
+  2026-02: 63
+  2026-03: 11
+  2026-04: 29
+  2026-05: 267
+  2026-06: 158
+  2026-07: 8
+  2026-08: 0
+  2026-09: 46
+  2026-10: 2

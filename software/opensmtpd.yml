@@ -8,4 +8,20 @@ platforms:
   - deb
 tags:
   - Communication - Email - Mail Transfer Agents
-source_code_url: https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/
+source_code_url: https://github.com/OpenSMTPD/OpenSMTPD/
+stargazers_count: 586
+updated_at: '2026-09-14'
+archived: false
+current_release:
+  tag: 7.9.0p0
+  published_at: '2026-09-13'
+commit_history:
+  2026-02: 0
+  2026-03: 4
+  2026-04: 0
+  2026-05: 0
+  2026-06: 0
+  2026-07: 0
+  2026-08: 0
+  2026-09: 57
+  2026-10: 0

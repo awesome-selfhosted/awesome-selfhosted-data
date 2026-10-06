@@ -1,6 +1,6 @@
 name: AliasVault
 website_url: https://www.aliasvault.net
-source_code_url: https://github.com/lanedirt/AliasVault
+source_code_url: https://github.com/aliasvault/aliasvault
 description: End-to-end encrypted password manager with a built-in email alias generator and server.
 licenses:
   - MIT
@@ -8,6 +8,22 @@ platforms:
   - Docker
 tags:
   - Password Managers
-stargazers_count: 1530
-updated_at: '2025-10-22'
+stargazers_count: 3147
+updated_at: '2026-10-02'
 archived: false
+current_release:
+  tag: 0.30.7
+  published_at: '2026-09-16'
+commit_history:
+  2025-11: 252
+  2025-12: 200
+  2026-01: 322
+  2026-02: 264
+  2026-03: 122
+  2026-04: 147
+  2026-05: 132
+  2026-06: 205
+  2026-07: 202
+  2026-08: 273
+  2026-09: 471
+  2026-10: 56

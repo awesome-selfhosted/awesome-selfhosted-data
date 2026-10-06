@@ -19,8 +19,10 @@ steps:
         - Commons-Clause
         - DPL
         - Elastic-2.0
+        - FSL-1.1-MIT
         - NPOSL-3.0
         - SSPL-1.0
+        - SUL-1.0
 
   - name: export YAML data to single-page markdown (non-free)
     module: exporters/markdown_singlepage
@@ -44,5 +46,7 @@ steps:
         - Commons-Clause
         - DPL
         - Elastic-2.0
+        - FSL-1.1-MIT
         - NPOSL-3.0
         - SSPL-1.0
+        - SUL-1.0

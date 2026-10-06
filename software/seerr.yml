@@ -1,0 +1,30 @@
+name: Seerr
+website_url: https://github.com/seerr-team/seerr
+description: Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Media Management
+source_code_url: https://github.com/seerr-team/seerr
+stargazers_count: 12772
+updated_at: '2026-09-29'
+archived: false
+current_release:
+  tag: v3.5.0
+  published_at: '2026-09-28'
+commit_history:
+  2025-11: 14
+  2025-12: 14
+  2026-01: 29
+  2026-02: 77
+  2026-03: 52
+  2026-04: 71
+  2026-05: 40
+  2026-06: 28
+  2026-07: 26
+  2026-08: 38
+  2026-09: 40
+  2026-10: 0

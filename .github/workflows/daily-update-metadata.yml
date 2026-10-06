@@ -7,6 +7,7 @@ on:
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+  GITLAB_TOKEN: ${{secrets.GITLAB_TOKEN}}
 
 concurrency:
   group: update-metadata-${{ github.ref }}
@@ -16,8 +17,9 @@ jobs:
   update-metadata:
     if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
     runs-on: ubuntu-latest
+    environment: production
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: make install
       - run: make update_metadata
       - name: commit and push changes

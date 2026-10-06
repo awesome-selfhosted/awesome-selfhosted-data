@@ -5,7 +5,6 @@ licenses:
   - BSD-3-Clause
 platforms:
   - Python
-  - Django
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://dev.funkwhale.audio/funkwhale

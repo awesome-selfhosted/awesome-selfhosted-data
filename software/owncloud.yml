@@ -11,12 +11,10 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/owncloud/core
 related_software_url: https://github.com/owncloud/core/wiki/Apps
-stargazers_count: 8830
-updated_at: '2026-08-10'
+stargazers_count: 8832
+updated_at: '2026-10-06'
 archived: false
 commit_history:
-  2025-09: 12
-  2025-10: 14
   2025-11: 5
   2025-12: 8
   2026-01: 19
@@ -26,7 +24,9 @@ commit_history:
   2026-05: 17
   2026-06: 63
   2026-07: 88
-  2026-08: 6
+  2026-08: 19
+  2026-09: 39
+  2026-10: 8
 current_release:
-  tag: v11.0.0
-  published_at: '2026-07-30'
+  tag: v10.16.6
+  published_at: '2026-10-06'

@@ -10,15 +10,13 @@ tags:
   - Knowledge Management Tools
 source_code_url: https://github.com/b310-digital/teammapper
 demo_url: https://map.kits.blog
-stargazers_count: 488
-updated_at: '2026-06-19'
+stargazers_count: 502
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: v0.2.9-3
-  published_at: '2026-06-19'
+  tag: v0.3.6-1
+  published_at: '2026-10-05'
 commit_history:
-  2025-09: 21
-  2025-10: 22
   2025-11: 9
   2025-12: 19
   2026-01: 3
@@ -29,3 +27,5 @@ commit_history:
   2026-06: 1
   2026-07: 0
   2026-08: 0
+  2026-09: 69
+  2026-10: 24

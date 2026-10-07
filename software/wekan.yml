@@ -1,6 +1,6 @@
 name: Wekan
 website_url: https://wekan.github.io/
-description: Open-source Trello-like kanban.
+description: Trello-like kanban.
 licenses:
   - MIT
 platforms:
@@ -8,15 +8,13 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/wekan/wekan
-stargazers_count: 21029
-updated_at: '2026-08-15'
+stargazers_count: 21111
+updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: v10.95
-  published_at: '2026-08-15'
+  tag: v12.20
+  published_at: '2026-10-07'
 commit_history:
-  2025-09: 26
-  2025-10: 361
   2025-11: 68
   2025-12: 97
   2026-01: 250
@@ -26,4 +24,6 @@ commit_history:
   2026-05: 371
   2026-06: 634
   2026-07: 1611
-  2026-08: 769
+  2026-08: 4647
+  2026-09: 9247
+  2026-10: 2701

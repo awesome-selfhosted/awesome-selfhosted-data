@@ -1,6 +1,6 @@
 name: LibreChat
 website_url: https://www.librechat.ai
-source_code_url: https://github.com/danny-avila/LibreChat
+source_code_url: https://github.com/LibreChat-AI/LibreChat
 description: Enhanced ChatGPT-compatible AI chat interface supporting multiple AI providers, with multi-user auth, message search, and plugin support.
 licenses:
   - MIT
@@ -11,16 +11,18 @@ tags:
   - Generative Artificial Intelligence (GenAI)
 demo_url: https://chat.librechat.ai
 depends_3rdparty: true
-stargazers_count: 42066
-updated_at: '2026-08-14'
+stargazers_count: 45345
+updated_at: '2026-10-06'
 archived: false
 current_release:
-  tag: v0.8.8-rc1
-  published_at: '2026-08-14'
+  tag: v0.8.8
+  published_at: '2026-10-01'
 commit_history:
   2026-03: 192
   2026-04: 137
   2026-05: 243
   2026-06: 279
   2026-07: 194
-  2026-08: 135
+  2026-08: 472
+  2026-09: 553
+  2026-10: 279

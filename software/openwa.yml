@@ -1,0 +1,22 @@
+name: OpenWA
+website_url: https://www.open-wa.org
+source_code_url: https://github.com/rmyndharis/OpenWA
+description: WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+depends_3rdparty: true
+related_software_url: https://github.com/rmyndharis/OpenWA-plugins
+stargazers_count: 15097
+updated_at: '2026-10-06'
+archived: false
+current_release:
+  tag: v0.24.0
+  published_at: '2026-10-03'
+commit_history:
+  2026-08: 1291
+  2026-09: 1840
+  2026-10: 907

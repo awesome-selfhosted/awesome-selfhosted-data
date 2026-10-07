@@ -11,15 +11,13 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 demo_url: https://demo.wanderer.to
-stargazers_count: 3820
-updated_at: '2026-08-10'
+stargazers_count: 3955
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: v0.20.0
-  published_at: '2026-07-07'
+  tag: app-v0.1.0-beta.19
+  published_at: '2026-10-06'
 commit_history:
-  2025-09: 38
-  2025-10: 10
   2025-11: 0
   2025-12: 0
   2026-01: 23
@@ -29,4 +27,6 @@ commit_history:
   2026-05: 34
   2026-06: 24
   2026-07: 20
-  2026-08: 9
+  2026-08: 11
+  2026-09: 69
+  2026-10: 29

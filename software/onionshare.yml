@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/onionshare/onionshare
-stargazers_count: 7060
-updated_at: '2026-07-31'
+stargazers_count: 7123
+updated_at: '2026-10-06'
 archived: false
 current_release:
   tag: v2.6.5
   published_at: '2026-07-28'
 commit_history:
-  2025-09: 0
-  2025-10: 0
   2025-11: 5
   2025-12: 0
   2026-01: 0
@@ -26,5 +24,7 @@ commit_history:
   2026-04: 0
   2026-05: 18
   2026-06: 61
-  2026-07: 18
-  2026-08: 0
+  2026-07: 19
+  2026-08: 5
+  2026-09: 26
+  2026-10: 48

@@ -1,0 +1,22 @@
+name: Relaticle
+website_url: https://relaticle.com
+source_code_url: https://github.com/relaticle/relaticle
+description: CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+stargazers_count: 1755
+updated_at: '2026-10-06'
+archived: false
+current_release:
+  tag: v3.6.2
+  published_at: '2026-10-05'
+commit_history:
+  2026-07: 18
+  2026-08: 349
+  2026-09: 832
+  2026-10: 750

@@ -1,6 +1,6 @@
 name: Zenko CloudServer
 website_url: https://www.zenko.io/cloudserver
-description: Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol.
+description: Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,15 +9,13 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/scality/cloudserver
-stargazers_count: 1937
-updated_at: '2026-08-10'
+stargazers_count: 1950
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: 9.4.1
-  published_at: '2026-08-10'
+  tag: 9.4.7
+  published_at: '2026-10-05'
 commit_history:
-  2025-09: 109
-  2025-10: 49
   2025-11: 44
   2025-12: 83
   2026-01: 100
@@ -26,5 +24,7 @@ commit_history:
   2026-04: 82
   2026-05: 18
   2026-06: 38
-  2026-07: 28
-  2026-08: 15
+  2026-07: 83
+  2026-08: 77
+  2026-09: 112
+  2026-10: 31

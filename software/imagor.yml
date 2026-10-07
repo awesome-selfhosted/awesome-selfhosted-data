@@ -1,0 +1,20 @@
+name: imagor
+website_url: https://github.com/cshum/imagor
+description: Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Proxy
+source_code_url: https://github.com/cshum/imagor
+stargazers_count: 4031
+updated_at: '2026-09-24'
+archived: false
+current_release:
+  tag: v1.9.6
+  published_at: '2026-08-25'
+commit_history:
+  2026-08: 27
+  2026-09: 16
+  2026-10: 0

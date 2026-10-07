@@ -9,12 +9,10 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/MusicPlayerDaemon/MPD
 related_software_url: https://www.musicpd.org/clients/
-stargazers_count: 2742
-updated_at: '2026-08-13'
+stargazers_count: 2787
+updated_at: '2026-10-06'
 archived: false
 commit_history:
-  2025-09: 22
-  2025-10: 18
   2025-11: 26
   2025-12: 0
   2026-01: 84
@@ -24,4 +22,6 @@ commit_history:
   2026-05: 93
   2026-06: 35
   2026-07: 75
-  2026-08: 134
+  2026-08: 182
+  2026-09: 10
+  2026-10: 70

@@ -10,8 +10,8 @@ platforms:
 tags:
   - Inventory Management
 depends_3rdparty: true
-stargazers_count: 235
-updated_at: '2026-10-02'
+stargazers_count: 239
+updated_at: '2026-10-04'
 archived: false
 current_release:
   tag: v3.2.1
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 50
   2026-08: 123
   2026-09: 88
-  2026-10: 6
+  2026-10: 11

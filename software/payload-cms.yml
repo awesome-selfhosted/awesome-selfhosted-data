@@ -8,8 +8,8 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/payloadcms/payload
-stargazers_count: 45064
-updated_at: '2026-10-02'
+stargazers_count: 45116
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v4.0.0-canary.37
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 163
   2026-08: 96
   2026-09: 164
-  2026-10: 21
+  2026-10: 63

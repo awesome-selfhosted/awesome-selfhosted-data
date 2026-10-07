@@ -9,14 +9,13 @@ tags:
   - Ticketing
 source_code_url: https://github.com/itflow-org/itflow
 demo_url: https://demo.itflow.org
-stargazers_count: 1008
-updated_at: '2026-09-04'
+stargazers_count: 1013
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v26.09
-  published_at: '2026-09-01'
+  tag: v26.10
+  published_at: '2026-10-01'
 commit_history:
-  2025-10: 90
   2025-11: 134
   2025-12: 40
   2026-01: 80
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 27
   2026-07: 215
   2026-08: 202
-  2026-09: 31
+  2026-09: 66
+  2026-10: 4

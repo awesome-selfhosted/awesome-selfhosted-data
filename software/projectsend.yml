@@ -8,14 +8,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/projectsend/projectsend
-stargazers_count: 2025
-updated_at: '2026-09-25'
+stargazers_count: 2028
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v2.6.0
   published_at: '2026-09-25'
 commit_history:
-  2025-10: 34
   2025-11: 4
   2025-12: 16
   2026-01: 2
@@ -26,4 +25,5 @@ commit_history:
   2026-06: 0
   2026-07: 0
   2026-08: 352
-  2026-09: 157
+  2026-09: 160
+  2026-10: 41

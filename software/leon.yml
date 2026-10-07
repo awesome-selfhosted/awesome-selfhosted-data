@@ -8,14 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/leon-ai/leon
-stargazers_count: 17550
-updated_at: '2026-09-26'
+stargazers_count: 17557
+updated_at: '2026-10-06'
 archived: false
 current_release:
   tag: tcp-server_v2.0.0
   published_at: '2026-02-19'
 commit_history:
-  2025-10: 0
   2025-11: 8
   2025-12: 5
   2026-01: 25
@@ -25,5 +24,6 @@ commit_history:
   2026-05: 132
   2026-06: 55
   2026-07: 57
-  2026-08: 95
-  2026-09: 153
+  2026-08: 101
+  2026-09: 52
+  2026-10: 91

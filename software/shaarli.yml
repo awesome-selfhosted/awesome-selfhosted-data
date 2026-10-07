@@ -10,12 +10,12 @@ tags:
   - Bookmarks and Link Sharing
 source_code_url: https://github.com/shaarli/Shaarli
 demo_url: https://demo.shaarli.org
-stargazers_count: 3902
-updated_at: '2026-09-19'
+stargazers_count: 3908
+updated_at: '2026-10-04'
 archived: false
 current_release:
-  tag: v0.16.7
-  published_at: '2026-09-19'
+  tag: v0.16.9
+  published_at: '2026-10-04'
 commit_history:
   2026-01: 31
   2026-02: 7
@@ -25,4 +25,5 @@ commit_history:
   2026-06: 10
   2026-07: 24
   2026-08: 21
-  2026-09: 41
+  2026-09: 48
+  2026-10: 9

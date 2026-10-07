@@ -1,6 +1,6 @@
 name: Aastro
-website_url: https://starwalkn.github.io/aastro-docs
-source_code_url: https://github.com/starwalkn/aastro
+website_url: https://voidrunner3074.github.io/aastro-docs
+source_code_url: https://github.com/voidrunner3074/aastro
 description: Extensible API Gateway written in Go.
 licenses:
   - Apache-2.0
@@ -9,12 +9,12 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
-stargazers_count: 23
-updated_at: '2026-09-22'
+stargazers_count: 24
+updated_at: '2026-10-03'
 archived: false
 current_release:
-  tag: v0.10.0
-  published_at: '2026-08-27'
+  tag: v0.11.1
+  published_at: '2026-10-03'
 commit_history:
   2026-03: 15
   2026-04: 40
@@ -22,4 +22,5 @@ commit_history:
   2026-06: 16
   2026-07: 26
   2026-08: 30
-  2026-09: 9
+  2026-09: 11
+  2026-10: 7

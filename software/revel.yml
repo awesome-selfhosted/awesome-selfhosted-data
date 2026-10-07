@@ -13,11 +13,11 @@ depends_3rdparty: true
 demo_url: https://demo.letsrevel.io
 related_software_url: https://github.com/letsrevel
 stargazers_count: 109
-updated_at: '2026-09-27'
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: v2.16.0
-  published_at: '2026-09-27'
+  tag: v2.21.0
+  published_at: '2026-10-05'
 commit_history:
   2025-12: 18
   2026-01: 82
@@ -28,4 +28,5 @@ commit_history:
   2026-06: 85
   2026-07: 76
   2026-08: 41
-  2026-09: 66
+  2026-09: 84
+  2026-10: 29

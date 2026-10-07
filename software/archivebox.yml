@@ -9,14 +9,13 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/ArchiveBox/ArchiveBox
-stargazers_count: 28634
-updated_at: '2026-09-28'
+stargazers_count: 28698
+updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: v0.9.70
-  published_at: '2026-09-27'
+  tag: v0.9.73
+  published_at: '2026-10-06'
 commit_history:
-  2025-10: 0
   2025-11: 0
   2025-12: 213
   2026-01: 37
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 420
   2026-07: 307
   2026-08: 542
-  2026-09: 1078
+  2026-09: 1195
+  2026-10: 278

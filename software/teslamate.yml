@@ -9,14 +9,13 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/teslamate-org/teslamate
-stargazers_count: 9045
-updated_at: '2026-09-26'
+stargazers_count: 9088
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: v4.2.0
-  published_at: '2026-08-23'
+  tag: v4.3.0
+  published_at: '2026-09-29'
 commit_history:
-  2025-10: 31
   2025-11: 18
   2025-12: 17
   2026-01: 17
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 49
   2026-07: 79
   2026-08: 70
-  2026-09: 111
+  2026-09: 121
+  2026-10: 27

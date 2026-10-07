@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/debops/debops
-stargazers_count: 1427
-updated_at: '2026-09-24'
+stargazers_count: 1426
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v3.3.1
-  published_at: '2026-09-14'
+  tag: v3.3.2
+  published_at: '2026-09-28'
 commit_history:
-  2025-10: 39
   2025-11: 8
   2025-12: 0
   2026-01: 4
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 47
   2026-07: 45
   2026-08: 52
-  2026-09: 95
+  2026-09: 153
+  2026-10: 10

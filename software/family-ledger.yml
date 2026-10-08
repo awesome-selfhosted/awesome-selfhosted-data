@@ -1,7 +1,7 @@
 name: "Family Ledger"
 website_url: "https://dixi-token.top"
 source_code_url: "https://github.com/LuoDi-Nate/financial-management"
-description: "Family net worth tracker based on monthly account snapshots instead of requiring transaction logs. Unifies nine account types across household members and uses XIRR and TWR to distinguish savings from investment returns. (documentation in Chinese)"
+description: "Family net worth tracker based on monthly account snapshots instead of requiring transaction logs. Unifies nine account types across household members and uses XIRR and TWR to distinguish savings from investment returns (documentation in Chinese)"
 licenses:
   - Apache-2.0
 platforms:

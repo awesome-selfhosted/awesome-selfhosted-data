@@ -1,0 +1,10 @@
+name: LibrisLog
+website_url: https://github.com/codebude/librislog
+source_code_url: https://github.com/codebude/librislog
+description: "Multi-user book tracking webapp with multiple reading lists, ISBN barcode scanning, import from Open Library, Google Books and hardcover, automatic cover art search, and reading analytics."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books

@@ -11,8 +11,8 @@ tags:
   - Archiving and Digital Preservation (DP)
 depends_3rdparty: true
 related_software_url: https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi
-stargazers_count: 8500
-updated_at: '2026-08-28'
+stargazers_count: 8504
+updated_at: '2026-10-09'
 archived: false
 current_release:
   tag: v0.5.12
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 9
   2026-08: 22
   2026-09: 0
-  2026-10: 0
+  2026-10: 1

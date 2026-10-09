@@ -10,12 +10,12 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/photoprism/photoprism
 demo_url: https://demo.photoprism.app/library/browse
-stargazers_count: 40274
-updated_at: '2026-10-06'
+stargazers_count: 40278
+updated_at: '2026-10-08'
 archived: false
 current_release:
-  tag: 260919-28c46a116
-  published_at: '2026-09-19'
+  tag: 261007-65faaae5d
+  published_at: '2026-10-07'
 commit_history:
   2025-11: 297
   2025-12: 45
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 213
   2026-08: 437
   2026-09: 672
-  2026-10: 225
+  2026-10: 271

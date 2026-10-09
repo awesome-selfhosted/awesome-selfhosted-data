@@ -8,12 +8,12 @@ platforms:
   - Docker
 tags:
   - Remote Access
-stargazers_count: 15349
+stargazers_count: 15365
 updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: release-2.9.2-tag
-  published_at: '2026-10-06'
+  tag: sdk-v1.0.4
+  published_at: '2026-10-08'
 commit_history:
   2025-11: 8
   2025-12: 1

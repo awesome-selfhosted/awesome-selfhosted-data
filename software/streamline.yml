@@ -1,0 +1,12 @@
+name: "Streamline"
+website_url: "https://streamline-docs.pages.dev"
+source_code_url: "https://github.com/abhichandra21/streamline"
+description: "Find your next watch with AI recommendations based on what you've watched and loved across Netflix, Prime Video, Plex, and more."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management
+depends_3rdparty: true

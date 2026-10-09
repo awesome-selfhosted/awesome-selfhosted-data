@@ -9,14 +9,13 @@ platforms:
   - Rust
 tags:
   - Communication - Social Networks and Forums
-stargazers_count: 259
-updated_at: '2026-09-25'
+stargazers_count: 260
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v0.3.4
-  published_at: '2025-12-14'
+  tag: v0.3.5
+  published_at: '2026-10-01'
 commit_history:
-  2025-10: 0
   2025-11: 0
   2025-12: 5
   2026-01: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-07: 0
   2026-08: 4
   2026-09: 1
+  2026-10: 2

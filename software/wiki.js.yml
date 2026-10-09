@@ -11,14 +11,13 @@ tags:
   - Wikis
 source_code_url: https://github.com/Requarks/wiki
 demo_url: https://docs.requarks.io
-stargazers_count: 28966
-updated_at: '2026-09-22'
+stargazers_count: 29020
+updated_at: '2026-10-08'
 archived: false
 current_release:
-  tag: 3.0.0-beta.605
-  published_at: '2026-09-25'
+  tag: 3.0.0-beta.628
+  published_at: '2026-10-04'
 commit_history:
-  2025-10: 2
   2025-11: 1
   2025-12: 0
   2026-01: 19
@@ -28,5 +27,6 @@ commit_history:
   2026-05: 3
   2026-06: 0
   2026-07: 0
-  2026-08: 0
-  2026-09: 6
+  2026-08: 80
+  2026-09: 76
+  2026-10: 22

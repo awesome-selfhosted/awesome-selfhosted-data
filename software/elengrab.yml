@@ -10,13 +10,14 @@ platforms:
 tags:
   - Media Management
 demo_url: https://elengrab.n-hub.ru
-stargazers_count: 40
-updated_at: '2026-09-17'
+stargazers_count: 42
+updated_at: '2026-10-05'
 archived: false
 current_release:
-  tag: v0.25.5
-  published_at: '2026-09-17'
+  tag: v0.26.3
+  published_at: '2026-10-02'
 commit_history:
   2026-07: 50
   2026-08: 42
-  2026-09: 42
+  2026-09: 79
+  2026-10: 26

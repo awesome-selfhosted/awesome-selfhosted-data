@@ -9,12 +9,12 @@ tags:
   - Note-taking & Editors
   - Task Management & To-do Lists
 source_code_url: https://github.com/fccview/jotty
-stargazers_count: 2011
-updated_at: '2026-09-05'
+stargazers_count: 2018
+updated_at: '2026-09-28'
 archived: false
 current_release:
-  tag: 1.27.0
-  published_at: '2026-09-05'
+  tag: 1.28.0
+  published_at: '2026-09-28'
 commit_history:
   2025-12: 122
   2026-01: 158
@@ -24,5 +24,6 @@ commit_history:
   2026-05: 82
   2026-06: 27
   2026-07: 16
-  2026-08: 71
-  2026-09: 11
+  2026-08: 75
+  2026-09: 41
+  2026-10: 0

@@ -1,0 +1,21 @@
+name: Rustrak
+website_url: https://rustrak.github.io/rustrak/
+source_code_url: https://github.com/rustrak/rustrak
+description: Error tracking server compatible with Sentry SDKs, using 32 MB of memory at idle with SQLite storage.
+licenses:
+  - GPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Ticketing
+stargazers_count: 172
+updated_at: '2026-10-08'
+archived: false
+current_release:
+  tag: v0.16.1
+  published_at: '2026-10-08'
+commit_history:
+  2026-08: 196
+  2026-09: 197
+  2026-10: 38

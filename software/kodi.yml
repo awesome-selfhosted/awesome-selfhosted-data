@@ -9,14 +9,13 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/xbmc/xbmc
-stargazers_count: 21250
-updated_at: '2026-09-26'
+stargazers_count: 21290
+updated_at: '2026-10-08'
 archived: false
 current_release:
-  tag: 22.0b2-Piers
-  published_at: '2026-08-31'
+  tag: 22.0rc1-Piers
+  published_at: '2026-09-27'
 commit_history:
-  2025-10: 202
   2025-11: 244
   2025-12: 209
   2026-01: 232
@@ -27,4 +26,5 @@ commit_history:
   2026-06: 172
   2026-07: 336
   2026-08: 630
-  2026-09: 484
+  2026-09: 651
+  2026-10: 199

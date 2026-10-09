@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Software Development - IDE & Tools
-stargazers_count: 689
-updated_at: '2026-09-20'
+stargazers_count: 696
+updated_at: '2026-10-06'
 archived: false
 current_release:
   tag: v1.0.32
@@ -19,3 +19,4 @@ commit_history:
   2026-07: 19
   2026-08: 19
   2026-09: 7
+  2026-10: 3

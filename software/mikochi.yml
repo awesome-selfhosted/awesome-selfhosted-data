@@ -11,14 +11,13 @@ platforms:
 tags:
   - File Transfer - Web-based File Managers
   - Media Streaming - Multimedia Streaming
-stargazers_count: 376
+stargazers_count: 378
 updated_at: '2026-09-25'
 archived: false
 current_release:
   tag: 1.12.0
   published_at: '2026-09-25'
 commit_history:
-  2025-10: 0
   2025-11: 41
   2025-12: 0
   2026-01: 1
@@ -30,3 +29,4 @@ commit_history:
   2026-07: 7
   2026-08: 5
   2026-09: 20
+  2026-10: 0

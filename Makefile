@@ -68,6 +68,11 @@ push_html:
 	cd awesome-selfhosted-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-selfhosted-data $(COMMIT_HASH)")
 	cd awesome-selfhosted-html/ && git push -f
 
+.PHONY: download_icons # download icons from software icon_url entries
+download_icons:
+	source .venv/bin/activate && \
+	hecat --config .hecat/download-icons.yml
+
 .PHONY: url_check # check URLs for dead links or other connection problems
 url_check:
 	source .venv/bin/activate && \

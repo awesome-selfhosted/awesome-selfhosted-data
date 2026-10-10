@@ -1,0 +1,12 @@
+name: Bandstand
+website_url: https://bandstand.info
+source_code_url: https://github.com/beingforthebenefit/Bandstand
+description: Chord charts, setlists and rehearsal scheduling for bands, with transposing, chart version history and an offline stage mode that turns pages from a Bluetooth pedal.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous
+demo_url: https://bandstand.info/songs

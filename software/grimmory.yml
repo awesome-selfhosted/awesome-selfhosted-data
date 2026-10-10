@@ -1,0 +1,10 @@
+name: "Grimmory"
+website_url: "https://grimmory.org/"
+source_code_url: "https://github.com/grimmory-tools/grimmory"
+description: "Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books

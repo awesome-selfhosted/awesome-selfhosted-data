@@ -1,11 +1,12 @@
-name: Statistics for Strava
-website_url: https://github.com/robiningelbrecht/statistics-for-strava
-source_code_url: https://github.com/robiningelbrecht/statistics-for-strava
+name: Dreeve
+website_url: https://dreeve.app/
+source_code_url: https://github.com/dreeveapp/dreeve
 description: Statistics dashboard generated from Strava data.
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
+  - K8S
 tags:
   - Analytics
   - Health and Fitness

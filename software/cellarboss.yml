@@ -1,7 +1,7 @@
-name: "CellarBoss"
-website_url: "https://cellarboss.org"
-source_code_url: "https://github.com/CellarBoss/cellarboss"
-description: "Wine inventory management system."
+name: CellarBoss
+website_url: https://cellarboss.org
+source_code_url: https://github.com/CellarBoss/cellarboss
+description: Wine inventory management system.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,3 +9,13 @@ platforms:
   - Nodejs
 tags:
   - Inventory Management
+stargazers_count: 2
+updated_at: '2026-10-09'
+archived: false
+current_release:
+  tag: v0.10.0
+  published_at: '2026-09-30'
+commit_history:
+  2026-08: 139
+  2026-09: 140
+  2026-10: 25

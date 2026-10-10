@@ -1,7 +1,7 @@
-name: "Mother-of-All-Self-Hosting"
-website_url: "https://github.com/mother-of-all-self-hosting/mash-playbook"
-source_code_url: "https://github.com/mother-of-all-self-hosting/mash-playbook"
-description: "Ansible playbook which helps you host services as Docker containers on your own server."
+name: Mother-of-All-Self-Hosting
+website_url: https://github.com/mother-of-all-self-hosting/mash-playbook
+source_code_url: https://github.com/mother-of-all-self-hosting/mash-playbook
+description: Ansible playbook which helps you host services as Docker containers on your own server.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,3 +9,10 @@ platforms:
   - Docker
 tags:
   - Self-hosting Solutions
+stargazers_count: 1124
+updated_at: '2026-10-10'
+archived: false
+commit_history:
+  2026-08: 296
+  2026-09: 348
+  2026-10: 187

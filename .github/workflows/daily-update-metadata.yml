@@ -29,8 +29,24 @@ jobs:
           git add software/ tags/ platforms/ licenses*.yml
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
-  build:
+  download-icons:
     if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
     needs: update-metadata
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - run: make install
+      - run: make download_icons
+      - name: commit and push icons
+        run: |
+          git config user.name awesome-selfhosted-bot
+          git config user.email github-actions@github.com
+          git add icons/
+          git diff-index --quiet HEAD || git commit -m "[bot] download missing icons"
+          git push
+
+  build:
+    if: github.repository == 'awesome-selfhosted/awesome-selfhosted-data'
+    needs: download-icons
     uses: ./.github/workflows/build.yml
     secrets: inherit

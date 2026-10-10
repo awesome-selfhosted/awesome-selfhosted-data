@@ -1,0 +1,13 @@
+name: "Orkyo Community"
+website_url: "https://orkyo.com"
+source_code_url: "https://github.com/Kymr10n/orkyo-community"
+description: "Production scheduling for manufacturing teams — one plan for the machines, people, and tools that run your jobs."
+licenses:
+  - AGPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - Manufacturing
+  - Resource Planning
+demo_url: "https://orkyo.com/demo"

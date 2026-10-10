@@ -1,0 +1,12 @@
+name: "Homehub"
+website_url: "https://github.com/surajverma/homehub"
+source_code_url: "https://github.com/surajverma/homehub"
+description: "Private, lightweight, no-login family utility for your home, with a zero-config PWA."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Javascript
+  - Docker
+tags:
+  - Personal Dashboards

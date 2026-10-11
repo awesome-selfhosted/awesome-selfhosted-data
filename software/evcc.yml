@@ -11,12 +11,12 @@ platforms:
 tags:
   - Internet of Things (IoT)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/evcc.webp
-stargazers_count: 7343
-updated_at: '2026-10-10'
+stargazers_count: 7344
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: 0.317.0
-  published_at: '2026-10-09'
+  tag: 0.317.1
+  published_at: '2026-10-11'
 commit_history:
   2025-11: 157
   2025-12: 155
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 333
   2026-08: 325
   2026-09: 272
-  2026-10: 126
+  2026-10: 132

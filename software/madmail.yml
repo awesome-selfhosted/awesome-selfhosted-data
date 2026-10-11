@@ -1,0 +1,15 @@
+name: "Madmail"
+website_url: "https://madmail.chat"
+source_code_url: "https://github.com/themadorg/madmail"
+description: "Madmail is a server relay for the Delta Chat app, users message through the Chatmail protocol, while Madmail handles delivery, storage, federation, and real-time services on the server side."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - deb
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions
+  - Communication - Custom Communication Systems
+related_software_url: "https://delta.chat"
+icon_url: "https://github.com/themadorg/madmail/blob/main/assets/madmail_logo02_bg_white_bg.png"

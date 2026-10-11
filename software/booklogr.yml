@@ -9,17 +9,14 @@ platforms:
 tags:
   - Document Management - E-books
 demo_url: https://demo.booklogr.app/
-stargazers_count: 577
-updated_at: '2026-06-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/booklogr.webp
+stargazers_count: 630
+updated_at: '2026-09-12'
 archived: false
 current_release:
-  tag: v1.10.0
-  published_at: '2026-05-17'
+  tag: v1.12.0
+  published_at: '2026-09-07'
 commit_history:
-  2025-07: 117
-  2025-08: 2
-  2025-09: 0
-  2025-10: 1
   2025-11: 1
   2025-12: 4
   2026-01: 0
@@ -27,4 +24,8 @@ commit_history:
   2026-03: 39
   2026-04: 92
   2026-05: 64
-  2026-06: 7
+  2026-06: 72
+  2026-07: 9
+  2026-08: 12
+  2026-09: 15
+  2026-10: 0

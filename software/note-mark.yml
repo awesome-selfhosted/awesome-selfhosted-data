@@ -8,17 +8,14 @@ platforms:
   - Docker
 tags:
   - Note-taking & Editors
-stargazers_count: 727
-updated_at: '2026-06-13'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/note-mark.webp
+stargazers_count: 775
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: v1.0.1
-  published_at: '2026-06-13'
+  tag: v1.1.1
+  published_at: '2026-10-02'
 commit_history:
-  2025-07: 10
-  2025-08: 0
-  2025-09: 0
-  2025-10: 0
   2025-11: 15
   2025-12: 0
   2026-01: 9
@@ -27,3 +24,7 @@ commit_history:
   2026-04: 15
   2026-05: 21
   2026-06: 25
+  2026-07: 6
+  2026-08: 23
+  2026-09: 4
+  2026-10: 2

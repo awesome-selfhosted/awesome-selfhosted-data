@@ -10,17 +10,14 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://github.com/ellite/wallos?tab=readme-ov-file#demo
-stargazers_count: 8059
-updated_at: '2026-06-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wallos.webp
+stargazers_count: 8661
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v4.9.5
-  published_at: '2026-06-06'
+  tag: v5.8.3
+  published_at: '2026-10-01'
 commit_history:
-  2025-07: 9
-  2025-08: 4
-  2025-09: 8
-  2025-10: 11
   2025-11: 0
   2025-12: 7
   2026-01: 0
@@ -28,4 +25,8 @@ commit_history:
   2026-03: 17
   2026-04: 11
   2026-05: 9
-  2026-06: 5
+  2026-06: 8
+  2026-07: 28
+  2026-08: 6
+  2026-09: 64
+  2026-10: 2

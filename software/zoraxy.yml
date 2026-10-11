@@ -9,22 +9,23 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 5248
-updated_at: '2026-06-09'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/zoraxy.webp
+stargazers_count: 5515
+updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: v3.3.3
-  published_at: '2026-06-09'
+  tag: v3.3.5-rc3
+  published_at: '2026-10-09'
 commit_history:
-  2025-07: 45
-  2025-08: 28
-  2025-09: 47
-  2025-10: 57
   2025-11: 52
   2025-12: 71
   2026-01: 65
   2026-02: 31
   2026-03: 31
   2026-04: 29
-  2026-05: 42
-  2026-06: 2
+  2026-05: 52
+  2026-06: 42
+  2026-07: 55
+  2026-08: 31
+  2026-09: 46
+  2026-10: 9

@@ -9,17 +9,14 @@ platforms:
   - Python
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 174070
-updated_at: '2026-06-12'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ollama.webp
+stargazers_count: 182719
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: v0.30.8
-  published_at: '2026-06-12'
+  tag: v0.40.3
+  published_at: '2026-10-11'
 commit_history:
-  2025-07: 47
-  2025-08: 81
-  2025-09: 80
-  2025-10: 136
   2025-11: 107
   2025-12: 78
   2026-01: 105
@@ -27,4 +24,8 @@ commit_history:
   2026-03: 123
   2026-04: 112
   2026-05: 43
-  2026-06: 53
+  2026-06: 98
+  2026-07: 94
+  2026-08: 104
+  2026-09: 110
+  2026-10: 41

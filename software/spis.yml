@@ -9,17 +9,13 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/gbbirkisson/spis
-stargazers_count: 201
-updated_at: '2026-06-09'
+stargazers_count: 211
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: v0.14.1
-  published_at: '2026-02-12'
+  tag: v0.15.0
+  published_at: '2026-08-29'
 commit_history:
-  2025-07: 8
-  2025-08: 18
-  2025-09: 14
-  2025-10: 12
   2025-11: 7
   2025-12: 10
   2026-01: 60
@@ -27,4 +23,8 @@ commit_history:
   2026-03: 28
   2026-04: 14
   2026-05: 17
-  2026-06: 4
+  2026-06: 11
+  2026-07: 19
+  2026-08: 12
+  2026-09: 12
+  2026-10: 5

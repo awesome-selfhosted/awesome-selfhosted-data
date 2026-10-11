@@ -12,22 +12,23 @@ tags:
 source_code_url: https://github.com/jellyfin/jellyfin
 demo_url: https://demo.jellyfin.org/stable
 related_software_url: https://github.com/awesome-jellyfin/awesome-jellyfin
-stargazers_count: 53229
-updated_at: '2026-06-13'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/jellyfin.webp
+stargazers_count: 57991
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: v10.11.11
-  published_at: '2026-06-06'
+  tag: v12.2
+  published_at: '2026-10-05'
 commit_history:
-  2025-07: 101
-  2025-08: 71
-  2025-09: 104
-  2025-10: 131
   2025-11: 87
   2025-12: 98
   2026-01: 89
   2026-02: 77
   2026-03: 152
   2026-04: 159
-  2026-05: 341
-  2026-06: 79
+  2026-05: 346
+  2026-06: 216
+  2026-07: 265
+  2026-08: 332
+  2026-09: 203
+  2026-10: 41

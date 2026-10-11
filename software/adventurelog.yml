@@ -8,18 +8,16 @@ platforms:
   - Docker
 tags:
   - Maps and Global Positioning System (GPS)
+  - Travel Organization
 demo_url: https://demo.adventurelog.app/signup
-stargazers_count: 3311
-updated_at: '2026-05-25'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/adventure-log.webp
+stargazers_count: 3795
+updated_at: '2026-08-12'
 archived: false
 current_release:
-  tag: v0.12.1
-  published_at: '2026-05-25'
+  tag: v0.13.0
+  published_at: '2026-08-12'
 commit_history:
-  2025-07: 1
-  2025-08: 1
-  2025-09: 10
-  2025-10: 2
   2025-11: 1
   2025-12: 2
   2026-01: 3
@@ -27,4 +25,8 @@ commit_history:
   2026-03: 10
   2026-04: 1
   2026-05: 3
-  2026-06: 0
+  2026-06: 72
+  2026-07: 65
+  2026-08: 19
+  2026-09: 0
+  2026-10: 0

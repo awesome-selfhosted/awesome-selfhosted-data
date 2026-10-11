@@ -9,18 +9,15 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-related_software: https://github.com/immich-app/immich
-stargazers_count: 1546
-updated_at: '2026-06-08'
+related_software_url: https://github.com/immich-app/immich
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/immich-kiosk.webp
+stargazers_count: 1716
+updated_at: '2026-10-08'
 archived: false
 current_release:
-  tag: v0.39.3
-  published_at: '2026-06-06'
+  tag: v0.44.2
+  published_at: '2026-10-05'
 commit_history:
-  2025-07: 118
-  2025-08: 58
-  2025-09: 54
-  2025-10: 46
   2025-11: 121
   2025-12: 108
   2026-01: 82
@@ -28,4 +25,8 @@ commit_history:
   2026-03: 70
   2026-04: 90
   2026-05: 89
-  2026-06: 55
+  2026-06: 136
+  2026-07: 70
+  2026-08: 40
+  2026-09: 102
+  2026-10: 15

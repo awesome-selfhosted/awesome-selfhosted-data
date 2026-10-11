@@ -8,14 +8,14 @@ platforms:
   - Nodejs
 tags:
   - Automation
-stargazers_count: 5746
-updated_at: '2026-06-13'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cronicle.webp
+stargazers_count: 5852
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v0.9.119
-  published_at: '2026-06-13'
+  tag: v0.9.135
+  published_at: '2026-10-01'
 commit_history:
-  2025-10: 16
   2025-11: 4
   2025-12: 5
   2026-01: 2
@@ -23,4 +23,8 @@ commit_history:
   2026-03: 11
   2026-04: 14
   2026-05: 4
-  2026-06: 5
+  2026-06: 13
+  2026-07: 11
+  2026-08: 18
+  2026-09: 10
+  2026-10: 2

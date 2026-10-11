@@ -10,17 +10,14 @@ tags:
   - Media Management
 source_code_url: https://github.com/Ombi-app/Ombi
 demo_url: https://app.ombi.io/
-stargazers_count: 4089
-updated_at: '2026-06-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ombi.webp
+stargazers_count: 4106
+updated_at: '2026-09-29'
 archived: false
 current_release:
-  tag: v4.60.2
-  published_at: '2026-06-11'
+  tag: v4.60.17
+  published_at: '2026-09-29'
 commit_history:
-  2025-07: 12
-  2025-08: 38
-  2025-09: 36
-  2025-10: 42
   2025-11: 6
   2025-12: 1
   2026-01: 38
@@ -28,4 +25,8 @@ commit_history:
   2026-03: 46
   2026-04: 113
   2026-05: 18
-  2026-06: 12
+  2026-06: 21
+  2026-07: 17
+  2026-08: 7
+  2026-09: 6
+  2026-10: 0

@@ -8,17 +8,14 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 16997
-updated_at: '2026-04-27'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/convertx.webp
+stargazers_count: 19127
+updated_at: '2026-10-06'
 archived: false
 current_release:
-  tag: v0.17.0
-  published_at: '2026-01-13'
+  tag: v0.19.0
+  published_at: '2026-09-26'
 commit_history:
-  2025-07: 20
-  2025-08: 73
-  2025-09: 11
-  2025-10: 25
   2025-11: 11
   2025-12: 29
   2026-01: 16
@@ -26,4 +23,8 @@ commit_history:
   2026-03: 3
   2026-04: 2
   2026-05: 0
-  2026-06: 0
+  2026-06: 6
+  2026-07: 1
+  2026-08: 12
+  2026-09: 27
+  2026-10: 6

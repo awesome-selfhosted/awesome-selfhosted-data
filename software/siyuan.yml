@@ -9,22 +9,23 @@ platforms:
   - Go
 tags:
   - Knowledge Management Tools
-stargazers_count: 44434
-updated_at: '2026-04-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/siyuan.webp
+stargazers_count: 46711
+updated_at: '2026-10-04'
 archived: false
 current_release:
-  tag: v3.7.0-dev14
-  published_at: '2026-06-11'
+  tag: v3.8.7-alpha.8
+  published_at: '2026-10-11'
 commit_history:
-  2025-07: 453
-  2025-08: 579
-  2025-09: 375
-  2025-10: 378
   2025-11: 319
   2025-12: 443
   2026-01: 390
   2026-02: 339
   2026-03: 438
   2026-04: 271
-  2026-05: 0
-  2026-06: 0
+  2026-05: 412
+  2026-06: 1138
+  2026-07: 1766
+  2026-08: 1409
+  2026-09: 1777
+  2026-10: 6

@@ -10,17 +10,14 @@ tags:
   - Wikis
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
-stargazers_count: 38902
-updated_at: '2026-06-13'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/outline.webp
+stargazers_count: 40861
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: v1.8.1
-  published_at: '2026-06-06'
+  tag: v1.10.1
+  published_at: '2026-09-09'
 commit_history:
-  2025-07: 141
-  2025-08: 145
-  2025-09: 90
-  2025-10: 138
   2025-11: 110
   2025-12: 155
   2026-01: 148
@@ -28,4 +25,8 @@ commit_history:
   2026-03: 146
   2026-04: 208
   2026-05: 201
-  2026-06: 88
+  2026-06: 196
+  2026-07: 230
+  2026-08: 262
+  2026-09: 213
+  2026-10: 70

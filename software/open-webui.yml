@@ -9,17 +9,14 @@ platforms:
   - Python
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 141393
-updated_at: '2026-06-02'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/open-webui.webp
+stargazers_count: 154271
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: v0.9.6
-  published_at: '2026-06-01'
+  tag: v0.12.0
+  published_at: '2026-10-10'
 commit_history:
-  2025-07: 609
-  2025-08: 628
-  2025-09: 758
-  2025-10: 357
   2025-11: 447
   2025-12: 322
   2026-01: 280
@@ -27,4 +24,8 @@ commit_history:
   2026-03: 503
   2026-04: 387
   2026-05: 309
-  2026-06: 86
+  2026-06: 439
+  2026-07: 675
+  2026-08: 552
+  2026-09: 508
+  2026-10: 405

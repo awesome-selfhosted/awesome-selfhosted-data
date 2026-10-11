@@ -9,19 +9,23 @@ platforms:
   - Docker
 tags:
   - Health and Fitness
-stargazers_count: 1136
-updated_at: '2026-05-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fittrackee.webp
+stargazers_count: 1172
+updated_at: '2026-09-09'
 archived: false
 current_release:
-  tag: v1.3.2
-  published_at: '2026-05-24'
+  tag: v1.3.5
+  published_at: '2026-09-09'
 commit_history:
-  2025-10: 178
   2025-11: 83
   2025-12: 158
   2026-01: 117
   2026-02: 76
   2026-03: 156
   2026-04: 100
-  2026-05: 192
-  2026-06: 0
+  2026-05: 219
+  2026-06: 18
+  2026-07: 22
+  2026-08: 29
+  2026-09: 13
+  2026-10: 0

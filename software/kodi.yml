@@ -9,22 +9,23 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 source_code_url: https://github.com/xbmc/xbmc
-stargazers_count: 20862
-updated_at: '2026-06-13'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kodi.webp
+stargazers_count: 21303
+updated_at: '2026-10-10'
 archived: false
 current_release:
-  tag: 22.0a3-Piers
-  published_at: '2026-04-07'
+  tag: 22.0rc1-Piers
+  published_at: '2026-09-27'
 commit_history:
-  2025-07: 153
-  2025-08: 347
-  2025-09: 172
-  2025-10: 202
   2025-11: 244
   2025-12: 209
   2026-01: 232
   2026-02: 321
   2026-03: 249
   2026-04: 258
-  2026-05: 336
-  2026-06: 53
+  2026-05: 338
+  2026-06: 172
+  2026-07: 336
+  2026-08: 630
+  2026-09: 651
+  2026-10: 266

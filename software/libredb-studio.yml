@@ -1,0 +1,25 @@
+name: LibreDB Studio
+website_url: https://libredb.org
+source_code_url: https://github.com/libredb/libredb-studio
+description: Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Database Management
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/libredb-studio.webp
+stargazers_count: 1186
+updated_at: '2026-10-11'
+archived: false
+current_release:
+  tag: libredb-studio-0.1.84
+  published_at: '2026-10-11'
+commit_history:
+  2026-05: 0
+  2026-06: 82
+  2026-07: 163
+  2026-08: 254
+  2026-09: 653
+  2026-10: 334

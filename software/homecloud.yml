@@ -1,0 +1,12 @@
+name: HomeCloud
+website_url: https://homecloud.pages.dev/
+source_code_url: https://github.com/solinode/homecloud
+description: AWS-compatible cloud that runs S3, Lambda, RDS, EC2 and other services as real containers and VMs, so the AWS CLI, SDKs and Terraform work unchanged.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Software Development - Testing
+demo_url: https://homecloud.pages.dev/demo/

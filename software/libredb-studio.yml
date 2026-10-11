@@ -9,16 +9,16 @@ platforms:
   - K8S
 tags:
   - Database Management
-stargazers_count: 1185
+stargazers_count: 1186
 updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: libredb-studio-0.1.83
-  published_at: '2026-10-10'
+  tag: libredb-studio-0.1.84
+  published_at: '2026-10-11'
 commit_history:
   2026-05: 0
   2026-06: 82
   2026-07: 163
   2026-08: 254
   2026-09: 653
-  2026-10: 333
+  2026-10: 334

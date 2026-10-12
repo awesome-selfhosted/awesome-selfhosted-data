@@ -10,15 +10,14 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/alexta69/metube
-stargazers_count: 14503
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/metube.webp
+stargazers_count: 14973
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: 2026.08.21
-  published_at: '2026-08-21'
+  tag: 2026.10.09
+  published_at: '2026-10-09'
 commit_history:
-  2025-09: 15
-  2025-10: 6
   2025-11: 6
   2025-12: 23
   2026-01: 20
@@ -28,4 +27,6 @@ commit_history:
   2026-05: 12
   2026-06: 17
   2026-07: 61
-  2026-08: 34
+  2026-08: 37
+  2026-09: 33
+  2026-10: 5

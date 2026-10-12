@@ -9,15 +9,14 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-stargazers_count: 14320
-updated_at: '2026-08-23'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stalwart-mail-server.webp
+stargazers_count: 15043
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v0.16.18
-  published_at: '2026-08-17'
+  tag: v0.16.26
+  published_at: '2026-10-11'
 commit_history:
-  2025-09: 43
-  2025-10: 52
   2025-11: 19
   2025-12: 59
   2026-01: 27
@@ -27,4 +26,6 @@ commit_history:
   2026-05: 73
   2026-06: 76
   2026-07: 85
-  2026-08: 80
+  2026-08: 103
+  2026-09: 69
+  2026-10: 26

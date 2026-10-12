@@ -10,15 +10,14 @@ platforms:
   - Docker
 tags:
   - Wikis
-stargazers_count: 613
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wiki-go.webp
+stargazers_count: 619
+updated_at: '2026-09-25'
 archived: false
 current_release:
-  tag: v1.8.13
-  published_at: '2026-08-21'
+  tag: v1.9.2
+  published_at: '2026-09-22'
 commit_history:
-  2025-09: 9
-  2025-10: 5
   2025-11: 17
   2025-12: 43
   2026-01: 16
@@ -28,4 +27,6 @@ commit_history:
   2026-05: 10
   2026-06: 10
   2026-07: 1
-  2026-08: 1
+  2026-08: 3
+  2026-09: 59
+  2026-10: 0

@@ -9,15 +9,14 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 related_software_url: https://github.com/Drop-OSS/drop-app
-stargazers_count: 719
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/drop.webp
+stargazers_count: 755
+updated_at: '2026-10-09'
 archived: false
 current_release:
   tag: v0.4.0-rc-5
   published_at: '2026-06-29'
 commit_history:
-  2025-09: 6
-  2025-10: 7
   2025-11: 14
   2025-12: 0
   2026-01: 20
@@ -27,4 +26,6 @@ commit_history:
   2026-05: 6
   2026-06: 12
   2026-07: 22
-  2026-08: 9
+  2026-08: 12
+  2026-09: 7
+  2026-10: 1

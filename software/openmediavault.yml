@@ -8,12 +8,11 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/openmediavault/openmediavault
-stargazers_count: 6915
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openmediavault.webp
+stargazers_count: 6993
+updated_at: '2026-10-11'
 archived: false
 commit_history:
-  2025-09: 23
-  2025-10: 56
   2025-11: 108
   2025-12: 61
   2026-01: 97
@@ -23,4 +22,6 @@ commit_history:
   2026-05: 81
   2026-06: 75
   2026-07: 60
-  2026-08: 20
+  2026-08: 27
+  2026-09: 54
+  2026-10: 27

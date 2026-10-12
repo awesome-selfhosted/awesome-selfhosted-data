@@ -8,13 +8,15 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/lingarr-translate/lingarr
-stargazers_count: 852
-updated_at: '2026-08-22'
+stargazers_count: 889
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: 1.3.0
-  published_at: '2026-08-12'
+  tag: 1.4.0
+  published_at: '2026-10-09'
 commit_history:
   2026-06: 0
   2026-07: 14
   2026-08: 29
+  2026-09: 5
+  2026-10: 7

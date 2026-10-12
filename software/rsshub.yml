@@ -10,12 +10,11 @@ platforms:
 tags:
   - Feed Readers
 demo_url: https://rsshub.app
-stargazers_count: 45856
-updated_at: '2026-08-22'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rsshub.webp
+stargazers_count: 46497
+updated_at: '2026-10-11'
 archived: false
 commit_history:
-  2025-09: 212
-  2025-10: 176
   2025-11: 163
   2025-12: 168
   2026-01: 186
@@ -25,4 +24,9 @@ commit_history:
   2026-05: 232
   2026-06: 209
   2026-07: 280
-  2026-08: 139
+  2026-08: 199
+  2026-09: 318
+  2026-10: 203
+current_release:
+  tag: v2026.10.11-8411.a7d4000
+  published_at: '2026-10-11'

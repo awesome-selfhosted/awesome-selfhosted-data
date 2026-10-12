@@ -8,16 +8,18 @@ platforms:
   - Python
 tags:
   - Media Streaming - Audio Streaming
-stargazers_count: 140
-updated_at: '2026-08-16'
+stargazers_count: 142
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v1.2.4-payera
-  published_at: '2026-08-15'
+  tag: v1.2.13-ostodes
+  published_at: '2026-10-11'
 commit_history:
   2026-03: 128
   2026-04: 68
   2026-05: 3
   2026-06: 76
   2026-07: 37
-  2026-08: 235
+  2026-08: 292
+  2026-09: 133
+  2026-10: 57

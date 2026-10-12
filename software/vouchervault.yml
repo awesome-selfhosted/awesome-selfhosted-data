@@ -8,15 +8,14 @@ platforms:
   - Docker
 tags:
   - Money, Budgeting & Management
-stargazers_count: 508
-updated_at: '2026-08-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vouchervault.webp
+stargazers_count: 514
+updated_at: '2026-10-09'
 archived: false
 current_release:
-  tag: v1.30.1
-  published_at: '2026-08-06'
+  tag: v1.30.3
+  published_at: '2026-10-09'
 commit_history:
-  2025-09: 9
-  2025-10: 6
   2025-11: 5
   2025-12: 2
   2026-01: 21
@@ -26,4 +25,6 @@ commit_history:
   2026-05: 6
   2026-06: 21
   2026-07: 5
-  2026-08: 2
+  2026-08: 6
+  2026-09: 0
+  2026-10: 3

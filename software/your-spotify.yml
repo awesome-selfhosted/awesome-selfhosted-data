@@ -10,15 +10,14 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/Yooooomi/your_spotify
 depends_3rdparty: true
-stargazers_count: 4543
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/your-spotify.webp
+stargazers_count: 4600
 updated_at: '2026-07-10'
 archived: false
 current_release:
   tag: 1.20.0
   published_at: '2026-05-24'
 commit_history:
-  2025-09: 1
-  2025-10: 1
   2025-11: 8
   2025-12: 13
   2026-01: 1
@@ -29,3 +28,5 @@ commit_history:
   2026-06: 8
   2026-07: 3
   2026-08: 0
+  2026-09: 0
+  2026-10: 0

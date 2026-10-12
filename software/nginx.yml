@@ -10,15 +10,14 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 31472
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx.webp
+stargazers_count: 31853
+updated_at: '2026-09-30'
 archived: false
 current_release:
-  tag: release-1.31.4
-  published_at: '2026-08-19'
+  tag: release-1.31.6
+  published_at: '2026-09-15'
 commit_history:
-  2025-09: 11
-  2025-10: 17
   2025-11: 9
   2025-12: 17
   2026-01: 9
@@ -28,4 +27,6 @@ commit_history:
   2026-05: 29
   2026-06: 28
   2026-07: 41
-  2026-08: 17
+  2026-08: 29
+  2026-09: 34
+  2026-10: 0

@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-stargazers_count: 3286
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tududi.webp
+stargazers_count: 3426
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v1.4.1
-  published_at: '2026-08-21'
+  tag: v1.9.1
+  published_at: '2026-10-10'
 commit_history:
   2025-11: 94
   2025-12: 95
@@ -24,4 +25,6 @@ commit_history:
   2026-05: 35
   2026-06: 61
   2026-07: 78
-  2026-08: 39
+  2026-08: 52
+  2026-09: 206
+  2026-10: 137

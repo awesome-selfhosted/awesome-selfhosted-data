@@ -9,12 +9,11 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
-stargazers_count: 47709
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/discourse.webp
+stargazers_count: 47962
+updated_at: '2026-10-11'
 archived: false
 commit_history:
-  2025-09: 361
-  2025-10: 556
   2025-11: 501
   2025-12: 524
   2026-01: 403
@@ -24,7 +23,9 @@ commit_history:
   2026-05: 623
   2026-06: 677
   2026-07: 680
-  2026-08: 412
+  2026-08: 583
+  2026-09: 820
+  2026-10: 134
 current_release:
   tag: _gh-attach-assets
   published_at: '2026-07-15'

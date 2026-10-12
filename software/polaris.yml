@@ -9,15 +9,14 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/agersant/polaris
-stargazers_count: 2722
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/polaris.webp
+stargazers_count: 2736
 updated_at: '2026-05-08'
 archived: false
 current_release:
   tag: 0.16.1
   published_at: '2026-05-08'
 commit_history:
-  2025-09: 1
-  2025-10: 0
   2025-11: 0
   2025-12: 10
   2026-01: 3
@@ -28,3 +27,5 @@ commit_history:
   2026-06: 0
   2026-07: 0
   2026-08: 0
+  2026-09: 0
+  2026-10: 0

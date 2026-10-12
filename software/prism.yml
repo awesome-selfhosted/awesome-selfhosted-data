@@ -1,0 +1,14 @@
+name: PRISM
+website_url: https://github.com/NovaCode37/Prism-platform
+source_code_url: https://github.com/NovaCode37/Prism-platform
+description: OSINT platform for domains, IP addresses, emails, phone numbers and usernames. Aggregates WHOIS, DNS, certificate transparency, breach and username lookups into a dashboard with exposure scoring, entity graphs and HTML/PDF reports.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Network Utilities
+depends_3rdparty: true
+demo_url: https://getprism.su

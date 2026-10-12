@@ -9,12 +9,12 @@ platforms:
 tags:
   - Wikis
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/otter-wiki.webp
-stargazers_count: 1553
-updated_at: '2026-10-09'
+stargazers_count: 1556
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v2.25.1
-  published_at: '2026-10-09'
+  tag: v2.25.2
+  published_at: '2026-10-11'
 commit_history:
   2025-11: 25
   2025-12: 16
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 98
   2026-08: 50
   2026-09: 17
-  2026-10: 34
+  2026-10: 38

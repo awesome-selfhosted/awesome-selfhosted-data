@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/firefly-iii/firefly-iii
 demo_url: https://demo.firefly-iii.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/firefly-iii.webp
-stargazers_count: 24866
-updated_at: '2026-10-10'
+stargazers_count: 24869
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v6.7.8
-  published_at: '2026-10-10'
+  tag: v6.7.9
+  published_at: '2026-10-11'
 commit_history:
   2025-11: 164
   2025-12: 141
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 268
   2026-08: 237
   2026-09: 498
-  2026-10: 161
+  2026-10: 195

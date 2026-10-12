@@ -14,7 +14,7 @@ depends_3rdparty: true
 demo_url: https://statistics-for-strava.robiningelbrecht.be/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dreeve.webp
 stargazers_count: 2143
-updated_at: '2026-10-08'
+updated_at: '2026-10-11'
 archived: false
 current_release:
   tag: v5.4.4
@@ -31,4 +31,4 @@ commit_history:
   2026-07: 1
   2026-08: 323
   2026-09: 126
-  2026-10: 119
+  2026-10: 120

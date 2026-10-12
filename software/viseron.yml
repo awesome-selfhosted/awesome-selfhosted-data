@@ -10,8 +10,8 @@ tags:
   - Video Surveillance
 depends_3rdparty: false
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/viseron.webp
-stargazers_count: 3570
-updated_at: '2026-10-10'
+stargazers_count: 3571
+updated_at: '2026-10-11'
 archived: false
 current_release:
   tag: v3.7.0
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 26
   2026-08: 180
   2026-09: 153
-  2026-10: 43
+  2026-10: 45

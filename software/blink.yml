@@ -3,7 +3,7 @@ website_url: https://blink.malto.icu
 source_code_url: https://github.com/MALTOisHERE/onlyonce
 description: View-once secret sharing with client-side AES-256-GCM encryption. Links self-destruct on first read, with configurable expiry (1-48h) and optional email-verified access.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Docker
   - Nodejs

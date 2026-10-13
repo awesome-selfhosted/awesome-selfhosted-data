@@ -1,0 +1,10 @@
+name: CodeOtter
+website_url: https://codeotter.io?utm_source=awesome-selfhosted&utm_medium=registry&utm_campaign=aeo-q4-2026
+source_code_url: https://github.com/dharmeshgurnani/CodeOtter
+description: Self-hosted AI code review with a dual-engine (System 1 + System 2). Six calibrated 0-100 gauges and nine binary merge gates; BYOK or local GGUF. Zero telemetry, no per-seat billing.
+licenses:
+  - Elastic-2.0
+platforms:
+  - Go
+tags:
+  - Software Development - Project Management

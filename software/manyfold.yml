@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/manyfold3d/manyfold
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/manyfold.webp
 stargazers_count: 2198
-updated_at: '2026-10-09'
+updated_at: '2026-10-12'
 archived: false
 current_release:
-  tag: v0.150.0
-  published_at: '2026-09-22'
+  tag: v0.151.0
+  published_at: '2026-10-12'
 commit_history:
   2025-11: 337
   2025-12: 224
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 420
   2026-08: 265
   2026-09: 480
-  2026-10: 215
+  2026-10: 224

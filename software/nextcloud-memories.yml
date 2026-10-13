@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/pulsejet/memories
 demo_url: https://demo.memories.gallery/apps/memories/
 stargazers_count: 3852
-updated_at: '2026-10-11'
+updated_at: '2026-10-13'
 archived: false
 current_release:
-  tag: go-vod/0.6.1
-  published_at: '2026-10-11'
+  tag: v10.0.0
+  published_at: '2026-10-12'
 commit_history:
   2025-11: 31
   2025-12: 5
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 40
   2026-08: 93
   2026-09: 634
-  2026-10: 287
+  2026-10: 311

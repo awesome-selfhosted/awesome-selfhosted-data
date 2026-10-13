@@ -9,8 +9,8 @@ tags:
   - Communication - SIP
 source_code_url: https://github.com/fusionpbx/fusionpbx
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fusionpbx.webp
-stargazers_count: 1069
-updated_at: '2026-10-10'
+stargazers_count: 1070
+updated_at: '2026-10-12'
 archived: false
 current_release:
   tag: 5.6.5
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 70
   2026-08: 85
   2026-09: 160
-  2026-10: 24
+  2026-10: 25

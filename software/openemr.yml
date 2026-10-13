@@ -12,7 +12,7 @@ tags:
 demo_url: https://www.open-emr.org/demo/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openemr.webp
 stargazers_count: 5518
-updated_at: '2026-10-11'
+updated_at: '2026-10-12'
 archived: false
 commit_history:
   2025-11: 114
@@ -26,7 +26,7 @@ commit_history:
   2026-07: 346
   2026-08: 291
   2026-09: 311
-  2026-10: 123
+  2026-10: 143
 current_release:
   tag: v8_4_1
   published_at: '2026-09-20'

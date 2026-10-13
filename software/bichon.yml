@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Archiving and Digital Preservation (DP)
-stargazers_count: 2000
-updated_at: '2026-10-07'
+stargazers_count: 2006
+updated_at: '2026-10-12'
 archived: false
 current_release:
   tag: 2.1.1
@@ -22,4 +22,4 @@ commit_history:
   2026-07: 29
   2026-08: 34
   2026-09: 34
-  2026-10: 6
+  2026-10: 13

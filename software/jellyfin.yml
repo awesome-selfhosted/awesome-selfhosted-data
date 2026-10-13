@@ -13,8 +13,8 @@ source_code_url: https://github.com/jellyfin/jellyfin
 demo_url: https://demo.jellyfin.org/stable
 related_software_url: https://github.com/awesome-jellyfin/awesome-jellyfin
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/jellyfin.webp
-stargazers_count: 58011
-updated_at: '2026-10-09'
+stargazers_count: 58039
+updated_at: '2026-10-12'
 archived: false
 current_release:
   tag: v12.2
@@ -31,4 +31,4 @@ commit_history:
   2026-07: 265
   2026-08: 332
   2026-09: 203
-  2026-10: 41
+  2026-10: 43

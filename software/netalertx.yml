@@ -9,8 +9,8 @@ platforms:
 tags:
   - Network Utilities
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/netalertx.webp
-stargazers_count: 7270
-updated_at: '2026-10-09'
+stargazers_count: 7274
+updated_at: '2026-10-12'
 archived: false
 current_release:
   tag: v26.10.0
@@ -25,4 +25,4 @@ commit_history:
   2026-07: 92
   2026-08: 106
   2026-09: 134
-  2026-10: 46
+  2026-10: 60

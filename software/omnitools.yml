@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 10290
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/omni-tools.webp
+stargazers_count: 10312
+updated_at: '2026-10-13'
 archived: false
 current_release:
   tag: v0.6.0
@@ -25,5 +26,5 @@ commit_history:
   2026-06: 7
   2026-07: 95
   2026-08: 99
-  2026-09: 44
-  2026-10: 21
+  2026-09: 47
+  2026-10: 31

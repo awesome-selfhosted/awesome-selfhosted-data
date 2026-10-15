@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/mumble-voip/mumble
 related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mumble.webp
-stargazers_count: 8335
-updated_at: '2026-10-11'
+stargazers_count: 8342
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: v1.5.939
@@ -28,5 +28,5 @@ commit_history:
   2026-06: 8
   2026-07: 35
   2026-08: 46
-  2026-09: 167
-  2026-10: 67
+  2026-09: 168
+  2026-10: 71

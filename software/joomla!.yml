@@ -9,12 +9,12 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/joomla/joomla-cms
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/joomla.webp
-stargazers_count: 5145
+stargazers_count: 5147
 updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: 6.2.0-rc2
-  published_at: '2026-10-06'
+  tag: 6.2.0
+  published_at: '2026-10-13'
 commit_history:
   2025-11: 38
   2025-12: 20
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 19
   2026-08: 50
   2026-09: 27
-  2026-10: 12
+  2026-10: 14

@@ -10,12 +10,12 @@ tags:
   - Resource Planning
 source_code_url: https://github.com/farmOS/farmOS
 demo_url: https://farmos-demo.rootedsolutions.io/
-stargazers_count: 1366
-updated_at: '2026-10-09'
+stargazers_count: 1369
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: 4.0.7
-  published_at: '2026-10-09'
+  tag: 4.0.8
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 55
   2025-12: 19
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 8
   2026-08: 6
   2026-09: 37
-  2026-10: 48
+  2026-10: 54

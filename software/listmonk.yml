@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/knadh/listmonk
 demo_url: https://demo.listmonk.app/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/listmonk.webp
-stargazers_count: 23768
-updated_at: '2026-10-11'
+stargazers_count: 23784
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-10-12'
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 26
   2025-12: 21
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 9
   2026-08: 5
   2026-09: 7
-  2026-10: 143
+  2026-10: 162

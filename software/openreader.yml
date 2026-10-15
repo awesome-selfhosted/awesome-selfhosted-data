@@ -9,11 +9,11 @@ platforms:
 tags:
   - Miscellaneous
 stargazers_count: 541
-updated_at: '2026-10-12'
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: v5.2.0
-  published_at: '2026-10-12'
+  tag: ffmpeg-lgpl-9.0.2-1
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 47
   2025-12: 1
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 8
   2026-08: 0
   2026-09: 46
-  2026-10: 29
+  2026-10: 35

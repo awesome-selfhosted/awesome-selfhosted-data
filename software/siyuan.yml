@@ -10,12 +10,12 @@ platforms:
 tags:
   - Knowledge Management Tools
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/siyuan.webp
-stargazers_count: 46739
-updated_at: '2026-10-04'
+stargazers_count: 46772
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: v3.8.7-beta.3
-  published_at: '2026-10-12'
+  tag: v3.8.7
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 319
   2025-12: 443
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 1766
   2026-08: 1409
   2026-09: 1777
-  2026-10: 6
+  2026-10: 7

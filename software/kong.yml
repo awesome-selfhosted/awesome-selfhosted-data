@@ -12,8 +12,8 @@ tags:
   - Software Development - API Management
 source_code_url: https://github.com/Kong/kong
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kong.webp
-stargazers_count: 44259
-updated_at: '2026-10-12'
+stargazers_count: 44264
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: 3.9.4
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 3
   2026-08: 1
   2026-09: 7
-  2026-10: 3
+  2026-10: 5

@@ -11,12 +11,12 @@ tags:
   - Photo Galleries
 related_software_url: https://github.com/immich-app/immich
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/immich-kiosk.webp
-stargazers_count: 1718
-updated_at: '2026-10-08'
+stargazers_count: 1720
+updated_at: '2026-10-13'
 archived: false
 current_release:
-  tag: v0.44.2
-  published_at: '2026-10-05'
+  tag: v0.45.0
+  published_at: '2026-10-13'
 commit_history:
   2025-11: 121
   2025-12: 108
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 70
   2026-08: 40
   2026-09: 102
-  2026-10: 15
+  2026-10: 51

@@ -10,8 +10,8 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/node-red/node-red
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/node-red.webp
-stargazers_count: 23737
-updated_at: '2026-10-12'
+stargazers_count: 23745
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: 5.0.8
@@ -27,5 +27,5 @@ commit_history:
   2026-06: 79
   2026-07: 43
   2026-08: 7
-  2026-09: 41
-  2026-10: 27
+  2026-09: 44
+  2026-10: 57

@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/home-assistant/core
 demo_url: https://home-assistant.io/demo/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/home-assistant.webp
-stargazers_count: 91419
-updated_at: '2026-10-12'
+stargazers_count: 91500
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: 2026.10.1
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 1589
   2026-08: 2235
   2026-09: 1748
-  2026-10: 1549
+  2026-10: 1911

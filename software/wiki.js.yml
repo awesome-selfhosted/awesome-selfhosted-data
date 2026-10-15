@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/Requarks/wiki
 demo_url: https://docs.requarks.io
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wikijs.webp
-stargazers_count: 29033
-updated_at: '2026-10-13'
+stargazers_count: 29039
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: 3.0.0-beta.651
-  published_at: '2026-10-11'
+  tag: 3.0.0-beta.661
+  published_at: '2026-10-13'
 commit_history:
   2025-11: 1
   2025-12: 0
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 0
   2026-08: 80
   2026-09: 76
-  2026-10: 45
+  2026-10: 49

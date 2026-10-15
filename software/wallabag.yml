@@ -9,8 +9,8 @@ tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/wallabag/wallabag
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wallabag.webp
-stargazers_count: 13006
-updated_at: '2026-10-12'
+stargazers_count: 13009
+updated_at: '2026-10-13'
 archived: false
 current_release:
   tag: 2.6.14
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 74
   2026-08: 71
   2026-09: 68
-  2026-10: 23
+  2026-10: 35

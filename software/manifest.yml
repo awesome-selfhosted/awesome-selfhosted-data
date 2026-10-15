@@ -9,12 +9,12 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/mnfst/llm-gateway
 demo_url: https://manifest.new
-stargazers_count: 7571
-updated_at: '2026-10-09'
+stargazers_count: 7580
+updated_at: '2026-10-14'
 archived: false
 current_release:
-  tag: manifest@6.28.6
-  published_at: '2026-10-09'
+  tag: manifest@6.28.7
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 5
   2025-12: 190
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 420
   2026-08: 128
   2026-09: 243
-  2026-10: 28
+  2026-10: 36

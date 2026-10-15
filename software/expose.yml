@@ -1,0 +1,10 @@
+name: expose
+website_url: https://kernelshard.github.io/expose/
+source_code_url: https://github.com/kernelshard/expose
+description: Reverse proxy tunnel that connects local development servers to the public internet (ngrok alternative).
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Proxy

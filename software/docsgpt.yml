@@ -1,0 +1,13 @@
+name: DocsGPT
+website_url: https://www.docsgpt.cloud/
+source_code_url: https://github.com/arc53/DocsGPT
+description: Private AI platform for building agents and assistants with document analysis, RAG, deep research, multi-model support, and API integrations.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)

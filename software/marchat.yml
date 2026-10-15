@@ -1,0 +1,11 @@
+name: marchat
+website_url: https://github.com/Cod-e-Codes/marchat
+source_code_url: https://github.com/Cod-e-Codes/marchat
+description: Terminal chat server and Bubble Tea client over WebSockets, with channels, DMs, plugins, and optional shared-key ChaCha20-Poly1305 encryption.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

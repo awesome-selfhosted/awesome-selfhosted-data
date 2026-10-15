@@ -1,0 +1,13 @@
+name: Stratum
+website_url: https://github.com/short-circuit/stratum
+source_code_url: https://github.com/short-circuit/stratum
+description: Privacy-first personal knowledge management system storing notes as plain Markdown on disk with block-based outliner, graph view, and Git sync.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - deb
+tags:
+  - Note-taking & Editors
+  - Knowledge Management Tools
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stratum.webp

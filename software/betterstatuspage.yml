@@ -1,0 +1,14 @@
+name: "BetterStatusPage"
+website_url: "https://betterstatuspage.dev"
+source_code_url: "https://github.com/BElluu/BetterStatusPage"
+description: "Monitor your services. Alert your team. Keep your users in the loop. No cloud. No subscription. No drama."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Monitoring & Status Pages
+depends_3rdparty: false
+demo_url: "https://demo.betterstatuspage.dev"
+icon_url: "https://betterstatuspage.dev/assets/mark.svg?v=2a686998"

@@ -1,0 +1,11 @@
+name: Flowy
+website_url: https://github.com/Xen0Xys/Flowy
+source_code_url: https://github.com/Xen0Xys/Flowy
+description: Finance platform for people tired of juggling spreadsheets and disconnected banking apps. Tracks personal or shared checking, savings, credit, cash and investment accounts with read-only or read/write invitations for couples, families or roommates.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management

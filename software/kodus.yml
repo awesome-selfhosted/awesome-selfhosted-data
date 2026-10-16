@@ -1,0 +1,12 @@
+name: Kodus
+website_url: https://kodus.io
+source_code_url: https://github.com/kodustech/kodus-ai
+description: AI code review platform with bring-your-own-model support, for GitHub, GitLab, Bitbucket, and Azure DevOps.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Software Development - Testing
+  - Generative Artificial Intelligence (GenAI)

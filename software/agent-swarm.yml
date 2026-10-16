@@ -1,0 +1,12 @@
+name: Agent Swarm
+website_url: https://desplega-ai.github.io/agent-swarm/
+source_code_url: https://github.com/desplega-ai/agent-swarm
+description: Agentic Operating System. Use any harness, a single leader coordinates, persistent memory, integrates with Slack, GitHub, Linear, OpenRouter, Bedrock & more.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

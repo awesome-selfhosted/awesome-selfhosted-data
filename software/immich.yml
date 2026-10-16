@@ -10,8 +10,8 @@ tags:
 source_code_url: https://github.com/immich-app/immich
 demo_url: https://github.com/immich-app/immich#demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/immich.webp
-stargazers_count: 116251
-updated_at: '2026-10-14'
+stargazers_count: 116367
+updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: v3.3.3
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 262
   2026-08: 252
   2026-09: 217
-  2026-10: 113
+  2026-10: 118

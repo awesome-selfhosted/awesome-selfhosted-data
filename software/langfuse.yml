@@ -10,12 +10,12 @@ tags:
   - Software Development - IDE & Tools
 demo_url: https://langfuse.com/docs/demo
 related_software_url: https://langfuse.com/docs/integrations/overview
-stargazers_count: 35832
-updated_at: '2026-10-14'
+stargazers_count: 35878
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: v4.59.0
-  published_at: '2026-10-14'
+  tag: v4.60.0
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 313
   2025-12: 247
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 676
   2026-08: 643
   2026-09: 748
-  2026-10: 459
+  2026-10: 503

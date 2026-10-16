@@ -12,11 +12,11 @@ tags:
 source_code_url: https://github.com/Budibase/budibase
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/budibase.webp
 stargazers_count: 28335
-updated_at: '2026-10-14'
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: v3.50.0-cloud.2
-  published_at: '2026-10-12'
+  tag: v3.50.0-cloud.5
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 869
   2025-12: 841
@@ -28,5 +28,5 @@ commit_history:
   2026-06: 1495
   2026-07: 985
   2026-08: 881
-  2026-09: 720
-  2026-10: 162
+  2026-09: 735
+  2026-10: 227

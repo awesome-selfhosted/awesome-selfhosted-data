@@ -10,8 +10,8 @@ platforms:
 tags:
   - Video Surveillance
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/motioneye.webp
-stargazers_count: 4709
-updated_at: '2026-10-13'
+stargazers_count: 4712
+updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: 0.44.0
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 8
   2026-08: 4
   2026-09: 6
-  2026-10: 31
+  2026-10: 37

@@ -1,0 +1,13 @@
+name: "Bondery"
+website_url: "https://usebondery.com"
+source_code_url: "https://github.com/usebondery/bondery"
+description: "Personal relationship manager (PRM) for organizing contacts, interactions, important dates, and notes in one place."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Customer Relationship Management (CRM)
+related_software_url: "https://chromewebstore.google.com/detail/lpcmokfekjjejnpobhbkgmjkodfhpmha"
+icon_url: "https://raw.githubusercontent.com/usebondery/bondery/main/packages/branding/src/assets/icon.svg"

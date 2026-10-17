@@ -1,12 +1,3 @@
----
-name: Addition
-about: Add new software to the list.
-title: Add Libre-Closet
-labels: addition
-assignees: ''
-
----
-
 name: "Libre Closet"
 website_url: "https://librecloset.lazz.tech/"
 source_code_url: "https://github.com/lazztech/libre-closet"

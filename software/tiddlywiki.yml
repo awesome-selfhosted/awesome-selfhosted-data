@@ -8,8 +8,9 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/TiddlyWiki/TiddlyWiki5
-stargazers_count: 8671
-updated_at: '2026-09-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tiddlywiki.webp
+stargazers_count: 8690
+updated_at: '2026-10-05'
 archived: false
 commit_history:
   2025-11: 46
@@ -22,8 +23,8 @@ commit_history:
   2026-06: 16
   2026-07: 53
   2026-08: 19
-  2026-09: 13
-  2026-10: 0
+  2026-09: 16
+  2026-10: 3
 current_release:
   tag: v5.4.1
   published_at: '2026-07-10'

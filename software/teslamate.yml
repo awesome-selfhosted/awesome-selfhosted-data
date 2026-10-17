@@ -9,8 +9,9 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/teslamate-org/teslamate
-stargazers_count: 9068
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/teslamate.webp
+stargazers_count: 9130
+updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: v4.3.0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 79
   2026-08: 70
   2026-09: 121
-  2026-10: 1
+  2026-10: 35

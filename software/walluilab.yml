@@ -1,0 +1,10 @@
+name: WallUILab
+description: Visual editor and live display for custom wall clocks and dashboards.
+licenses:
+  - AGPL-3.0-only
+platforms:
+  - JavaScript
+  - Docker
+tags:
+  - Personal Dashboards
+source_code_url: https://github.com/macrulz54/walluilab

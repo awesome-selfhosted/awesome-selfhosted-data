@@ -10,8 +10,8 @@ platforms:
 tags:
   - Software Development - Localization
 source_code_url: https://github.com/WeblateOrg/weblate
-stargazers_count: 6109
-updated_at: '2026-10-15'
+stargazers_count: 6110
+updated_at: '2026-10-16'
 archived: false
 current_release:
   tag: weblate-2026.10.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 1440
   2026-08: 1042
   2026-09: 1397
-  2026-10: 647
+  2026-10: 979

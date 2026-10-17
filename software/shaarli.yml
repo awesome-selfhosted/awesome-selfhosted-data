@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/shaarli/Shaarli
 demo_url: https://demo.shaarli.org
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/shaarli.webp
-stargazers_count: 3906
-updated_at: '2026-10-10'
+stargazers_count: 3907
+updated_at: '2026-10-16'
 archived: false
 current_release:
   tag: v0.16.9
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 24
   2026-08: 21
   2026-09: 49
-  2026-10: 10
+  2026-10: 12

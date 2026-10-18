@@ -1,5 +1,5 @@
-name: fx
-website_url: https://github.com/rikhuijzer/fx
+name: bloglite
+website_url: https://github.com/rikhuijzer/bloglite
 description: Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky).
 licenses:
   - MIT
@@ -7,7 +7,7 @@ platforms:
   - Docker
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/rikhuijzer/fx
+source_code_url: https://github.com/rikhuijzer/bloglite
 stargazers_count: 328
 updated_at: '2026-10-16'
 archived: false

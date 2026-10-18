@@ -1,0 +1,13 @@
+name: Applire
+website_url: https://applire.de
+description: AI-assisted cover letter and CV generation. Merges existing CVs into your master profile. Extracts requirements from job offers. Asks you questions based on gaps between your profile and the job description. Creates fitting CV and cover letter.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Python
+  - Docker
+tags:
+  - Miscellaneous
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/Applire/Applire

@@ -1,0 +1,12 @@
+name: BrainPilot
+website_url: https://brainpilot.chat
+source_code_url: https://github.com/NeuroAIHub/BrainPilot
+description: Multi-agent research workspace for literature review, data analysis, coding, and scientific writing, with extensible tools and visual execution traces.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation

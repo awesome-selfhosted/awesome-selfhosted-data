@@ -9,8 +9,8 @@ tags:
   - Search Engines
 source_code_url: https://github.com/elastic/elasticsearch
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/elasticsearch.webp
-stargazers_count: 78293
-updated_at: '2026-10-16'
+stargazers_count: 78307
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v9.5.5
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 1675
   2026-08: 1352
   2026-09: 1309
-  2026-10: 846
+  2026-10: 862

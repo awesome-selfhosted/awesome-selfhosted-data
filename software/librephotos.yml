@@ -10,8 +10,8 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/librephotos.webp
-stargazers_count: 8106
-updated_at: '2026-10-16'
+stargazers_count: 8109
+updated_at: '2026-10-18'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
 commit_history:
@@ -26,7 +26,7 @@ commit_history:
   2026-07: 61
   2026-08: 29
   2026-09: 96
-  2026-10: 355
+  2026-10: 363
 current_release:
-  tag: 1.3.0
-  published_at: '2026-10-11'
+  tag: 1.4.0
+  published_at: '2026-10-17'

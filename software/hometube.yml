@@ -10,9 +10,9 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hometube.webp"
-stargazers_count: 1523
-updated_at: '2026-10-15'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hometube.webp
+stargazers_count: 1526
+updated_at: '2026-10-17'
 archived: false
 current_release:
   tag: v2.13.0
@@ -21,4 +21,4 @@ commit_history:
   2026-07: 0
   2026-08: 42
   2026-09: 17
-  2026-10: 4
+  2026-10: 5

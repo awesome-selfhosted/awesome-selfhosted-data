@@ -10,12 +10,12 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/chibisafe.webp
-stargazers_count: 2774
-updated_at: '2026-05-27'
+stargazers_count: 2780
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v6.5.5
-  published_at: '2025-07-05'
+  tag: v6.6.1
+  published_at: '2026-10-18'
 commit_history:
   2025-11: 0
   2025-12: 28
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 0
+  2026-10: 5

@@ -8,9 +8,9 @@ platforms:
   - Docker
 tags:
   - Document Management - E-books
-icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/grimmory.webp"
-stargazers_count: 4535
-updated_at: '2026-10-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/grimmory.webp
+stargazers_count: 4551
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v3.5.0
@@ -18,4 +18,4 @@ current_release:
 commit_history:
   2026-08: 89
   2026-09: 164
-  2026-10: 61
+  2026-10: 64

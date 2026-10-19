@@ -9,9 +9,9 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/firezone.webp"
-stargazers_count: 9117
-updated_at: '2026-10-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/firezone.webp
+stargazers_count: 9121
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: headless-client-1.5.14
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 424
   2026-08: 393
   2026-09: 485
-  2026-10: 155
+  2026-10: 165

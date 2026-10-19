@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/reactive-resume/reactive-resume
 demo_url: https://rxresu.me/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactive-resume.webp
-stargazers_count: 44401
-updated_at: '2026-10-16'
+stargazers_count: 44497
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v6.0.3
-  published_at: '2026-10-14'
+  tag: v6.0.4
+  published_at: '2026-10-18'
 commit_history:
   2025-11: 25
   2025-12: 10
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 173
   2026-08: 88
   2026-09: 330
-  2026-10: 90
+  2026-10: 99

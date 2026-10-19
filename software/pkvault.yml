@@ -9,15 +9,15 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 demo_url: https://pkvault-demo.chnapy.dev
-icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pkvault.webp"
-stargazers_count: 344
-updated_at: '2026-10-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pkvault.webp
+stargazers_count: 348
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v2.4.4
-  published_at: '2026-10-16'
+  tag: v2.4.5
+  published_at: '2026-10-18'
 commit_history:
   2026-07: 2
   2026-08: 75
   2026-09: 53
-  2026-10: 20
+  2026-10: 22

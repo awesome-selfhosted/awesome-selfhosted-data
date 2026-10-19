@@ -1,0 +1,13 @@
+name: MTL Explorer
+website_url: https://mtl-explorer.com/
+source_code_url: https://github.com/mindalyze-com/mtl-explorer
+description: GPS track archive with GPX/FIT imports, maps, filters, activity statistics, segment comparisons, linked photos, 3D replay, and route planning.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Java
+  - Python
+tags:
+  - Maps and Global Positioning System (GPS)
+demo_url: https://mtl-demo.mindalyze.com/mtl/

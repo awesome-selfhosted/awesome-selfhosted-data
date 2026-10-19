@@ -1,0 +1,12 @@
+name: "DashBeam"
+website_url: "https://dashbeam.net"
+source_code_url: "https://github.com/tonyantony300/dashbeam"
+description: "A file transfer tool that harnesses the power of cutting-edge peer-to-peer networking, letting you transfer files directly without storing them on cloud servers."
+licenses:
+  - AGPL-3.0
+platforms:
+  - deb
+  - Docker
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+icon_url: "https://github.com/tonyantony300/dashbeam/blob/main/frontend/public/favicon.ico"

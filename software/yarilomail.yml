@@ -1,0 +1,12 @@
+name: YariloMail
+website_url: https://yarilomail.org/
+source_code_url: https://github.com/yarilomail/yarilo
+description: Mail server for Kubernetes with IMAP, POP3, JMAP, LMTP, Submission, Sieve/ManageSieve and built-in full-text search, using Dovecot-compatible mailbox formats.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Communication - Email - Mail Delivery Agents

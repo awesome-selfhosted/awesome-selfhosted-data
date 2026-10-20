@@ -1,0 +1,13 @@
+name: MiBeeNvr
+website_url: https://nvr.mickeybee.cn/
+source_code_url: https://github.com/Mi-Bee-Studio/MiBeeNvr
+description: 'Lightweight NVR in Go: a single static binary, zero dependencies, embedded web UI. Adaptive recording cuts disk usage by 75%+, and timelapse capture suits plant-growth monitoring. Tuned for low-power ARM in 512MB.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Video Surveillance
+depends_3rdparty: false
+icon_url: https://raw.githubusercontent.com/Mi-Bee-Studio/MiBeeNvr/main/docs/brand/icon-512.png

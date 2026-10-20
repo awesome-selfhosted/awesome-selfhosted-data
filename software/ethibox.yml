@@ -1,0 +1,12 @@
+name: Ethibox
+website_url: https://ethibox.fr
+description: Install and manage your open-source applications on your own server in one click, using Docker Swarm and Traefik.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Self-hosting Solutions
+source_code_url: https://github.com/ethibox/ethibox
+icon_url: https://ethibox.fr/images/logo.png

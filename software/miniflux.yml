@@ -11,12 +11,12 @@ tags:
   - Feed Readers
 source_code_url: https://github.com/miniflux/v2
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/miniflux.webp
-stargazers_count: 9806
-updated_at: '2026-10-12'
+stargazers_count: 9810
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: 2.3.3
-  published_at: '2026-07-24'
+  tag: 2.3.4
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 21
   2025-12: 30
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 45
   2026-08: 16
   2026-09: 6
-  2026-10: 11
+  2026-10: 19

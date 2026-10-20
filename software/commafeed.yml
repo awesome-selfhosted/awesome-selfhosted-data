@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/Athou/commafeed
 demo_url: https://www.commafeed.com/#/app/category/all
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/commafeed.webp
-stargazers_count: 3630
-updated_at: '2026-10-18'
+stargazers_count: 3629
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: 7.3.2
-  published_at: '2026-08-22'
+  tag: 7.4.0
+  published_at: '2026-10-19'
 commit_history:
   2025-11: 89
   2025-12: 92
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 120
   2026-08: 134
   2026-09: 80
-  2026-10: 67
+  2026-10: 71

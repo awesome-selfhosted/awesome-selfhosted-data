@@ -12,8 +12,8 @@ source_code_url: https://github.com/iv-org/invidious
 demo_url: https://docs.invidious.io/instances/
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/invidious.webp
-stargazers_count: 25521
-updated_at: '2026-10-13'
+stargazers_count: 25544
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: v2.20260804.1
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 14
   2026-08: 101
   2026-09: 12
-  2026-10: 7
+  2026-10: 8

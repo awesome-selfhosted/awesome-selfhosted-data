@@ -4,7 +4,6 @@ description: Smart episode management for Sonarr.
 licenses:
   - AGPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
   - Media Management

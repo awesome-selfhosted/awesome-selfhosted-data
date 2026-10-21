@@ -11,12 +11,12 @@ tags:
   - Software Development - API Management
 source_code_url: https://github.com/hasura/graphql-engine
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hasura.webp
-stargazers_count: 32133
-updated_at: '2026-10-19'
+stargazers_count: 32128
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v2.50.3
-  published_at: '2026-09-09'
+  tag: v2.45.9
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 19
   2025-12: 20
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 46
   2026-08: 6
   2026-09: 26
-  2026-10: 26
+  2026-10: 30

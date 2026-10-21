@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/stumpapp/stump
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stump.webp
 stargazers_count: 2756
-updated_at: '2026-09-21'
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v0.1.10
-  published_at: '2026-09-21'
+  tag: v0.1.11
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 0
   2025-12: 0
@@ -26,5 +26,5 @@ commit_history:
   2026-06: 42
   2026-07: 18
   2026-08: 64
-  2026-09: 89
-  2026-10: 0
+  2026-09: 98
+  2026-10: 32

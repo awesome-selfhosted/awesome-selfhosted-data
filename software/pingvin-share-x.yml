@@ -10,8 +10,8 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pingvin-share-x.webp
-stargazers_count: 516
-updated_at: '2026-10-19'
+stargazers_count: 518
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v2.1.0-beta.0
@@ -23,4 +23,4 @@ commit_history:
   2026-07: 27
   2026-08: 45
   2026-09: 17
-  2026-10: 29
+  2026-10: 31

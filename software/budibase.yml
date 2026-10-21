@@ -11,12 +11,12 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/Budibase/budibase
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/budibase.webp
-stargazers_count: 28331
-updated_at: '2026-10-19'
+stargazers_count: 28335
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v3.51.0-cloud.4
-  published_at: '2026-10-19'
+  tag: v3.51.0-cloud.6
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 869
   2025-12: 841
@@ -28,5 +28,5 @@ commit_history:
   2026-06: 1495
   2026-07: 985
   2026-08: 891
-  2026-09: 838
-  2026-10: 508
+  2026-09: 841
+  2026-10: 836

@@ -9,12 +9,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/baptisteArno/typebot.io
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/typebot.webp
-stargazers_count: 10559
-updated_at: '2026-10-19'
+stargazers_count: 10565
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v3.19.0
-  published_at: '2026-09-14'
+  tag: v3.19.1
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 61
   2025-12: 35
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 8
   2026-08: 39
   2026-09: 19
-  2026-10: 11
+  2026-10: 15

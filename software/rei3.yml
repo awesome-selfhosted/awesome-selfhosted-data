@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/r3-team/r3
 demo_url: https://rei3.de/demo_en/
 stargazers_count: 586
-updated_at: '2026-10-19'
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v3.13
-  published_at: '2026-10-13'
+  tag: v3.13.1
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 3
   2025-12: 19
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 22
   2026-08: 71
   2026-09: 70
-  2026-10: 36
+  2026-10: 39

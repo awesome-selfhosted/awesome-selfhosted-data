@@ -10,8 +10,9 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 related_software_url: https://localai.io/gallery.html
-stargazers_count: 49451
-updated_at: '2026-10-09'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/localai.webp
+stargazers_count: 49798
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v4.11.0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 461
   2026-08: 379
   2026-09: 586
-  2026-10: 120
+  2026-10: 329

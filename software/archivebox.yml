@@ -9,8 +9,9 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/ArchiveBox/ArchiveBox
-stargazers_count: 28722
-updated_at: '2026-10-09'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/archivebox.webp
+stargazers_count: 28830
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v0.9.73
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 307
   2026-08: 542
   2026-09: 1195
-  2026-10: 505
+  2026-10: 1192

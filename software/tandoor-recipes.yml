@@ -12,8 +12,9 @@ tags:
   - Recipe Management
 source_code_url: https://github.com/TandoorRecipes/recipes
 demo_url: https://app.tandoor.dev/accounts/login/?demo
-stargazers_count: 8659
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tandoor-recipes.webp
+stargazers_count: 8672
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: 2.6.15
@@ -28,6 +29,6 @@ commit_history:
   2026-05: 47
   2026-06: 66
   2026-07: 21
-  2026-08: 36
-  2026-09: 82
-  2026-10: 2
+  2026-08: 38
+  2026-09: 90
+  2026-10: 12

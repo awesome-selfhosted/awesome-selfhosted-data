@@ -8,15 +8,16 @@ platforms:
   - Docker
 tags:
   - File Transfer & Synchronization
-stargazers_count: 1517
-updated_at: '2026-09-22'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hoodik.webp
+stargazers_count: 1535
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: v2.5.5
-  published_at: '2026-09-22'
+  tag: v2.5.8
+  published_at: '2026-10-19'
 commit_history:
   2026-06: 1
   2026-07: 18
   2026-08: 10
   2026-09: 2
-  2026-10: 0
+  2026-10: 9

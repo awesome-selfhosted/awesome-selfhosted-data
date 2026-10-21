@@ -9,8 +9,9 @@ platforms:
 tags:
   - Video Surveillance
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
-stargazers_count: 5940
-updated_at: '2026-10-09'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/zoneminder.webp
+stargazers_count: 5943
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: 1.38.6
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 273
   2026-08: 213
   2026-09: 341
-  2026-10: 51
+  2026-10: 267

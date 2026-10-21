@@ -10,8 +10,9 @@ tags:
   - Analytics
 source_code_url: https://github.com/umami-software/umami
 demo_url: https://cloud.umami.is/share/LGazGOecbDtaIwDr
-stargazers_count: 39279
-updated_at: '2026-09-17'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/umami.webp
+stargazers_count: 39492
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: v3.4.0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 105
   2026-08: 87
   2026-09: 90
-  2026-10: 0
+  2026-10: 2

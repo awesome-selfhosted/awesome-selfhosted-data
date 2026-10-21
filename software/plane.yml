@@ -9,8 +9,9 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
-stargazers_count: 60611
-updated_at: '2026-10-08'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/plane.webp
+stargazers_count: 61191
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: v1.4.3-rc1
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 37
   2026-08: 39
   2026-09: 55
-  2026-10: 8
+  2026-10: 54

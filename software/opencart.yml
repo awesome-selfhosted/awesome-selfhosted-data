@@ -8,8 +8,9 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/opencart/opencart
-stargazers_count: 8215
-updated_at: '2026-10-09'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/opencart.webp
+stargazers_count: 8218
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: 3.0.5.1
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 297
   2026-08: 184
   2026-09: 227
-  2026-10: 66
+  2026-10: 136

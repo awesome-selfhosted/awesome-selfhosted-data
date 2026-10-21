@@ -9,8 +9,9 @@ platforms:
 tags:
   - Web Servers
 source_code_url: https://github.com/pomerium/pomerium
-stargazers_count: 5031
-updated_at: '2026-10-09'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pomerium.webp
+stargazers_count: 5058
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v0.33.4
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 58
   2026-08: 38
   2026-09: 68
-  2026-10: 31
+  2026-10: 36

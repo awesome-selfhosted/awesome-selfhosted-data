@@ -1,7 +1,7 @@
 name: OpsKnight
 website_url: https://opsknight.com
 source_code_url: https://github.com/opsknight-labs/OpsKnight
-description: On-call management, incident response, and status pages with alert routing, escalation policies, and ChatOps integrations. (alternative to PagerDuty, Opsgenie)
+description: Incident management and on-call platform with alert routing, escalation policies, ChatOps war rooms, status pages, and automated runbooks (alternative to PagerDuty, Opsgenie).
 licenses:
   - AGPL-3.0
 platforms:
@@ -11,3 +11,4 @@ platforms:
 tags:
   - Ticketing
   - Automation
+icon_url: https://raw.githubusercontent.com/opsknight-labs/OpsKnight/main/public/logo-mark.png

@@ -10,12 +10,12 @@ tags:
   - Media Management
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/downtify.webp
-stargazers_count: 754
+stargazers_count: 758
 updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: 3.6.0
-  published_at: '2026-10-20'
+  tag: 3.7.0
+  published_at: '2026-10-21'
 commit_history:
   2026-03: 0
   2026-04: 50
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 60
   2026-08: 22
   2026-09: 292
-  2026-10: 109
+  2026-10: 122

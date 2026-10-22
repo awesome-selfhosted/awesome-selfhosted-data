@@ -11,8 +11,8 @@ platforms:
 tags:
   - Web Servers
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/ferron.webp
-stargazers_count: 2172
-updated_at: '2026-10-17'
+stargazers_count: 2175
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: 3.0.0-rc.9
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 292
   2026-08: 596
   2026-09: 217
-  2026-10: 138
+  2026-10: 146

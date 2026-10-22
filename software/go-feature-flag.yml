@@ -9,7 +9,7 @@ tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/thomaspoignant/go-feature-flag
 stargazers_count: 2125
-updated_at: '2026-10-20'
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v1.57.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 180
   2026-08: 162
   2026-09: 175
-  2026-10: 140
+  2026-10: 152

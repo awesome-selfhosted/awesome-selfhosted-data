@@ -11,12 +11,12 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/syncthing/syncthing
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/syncthing.webp
-stargazers_count: 89564
+stargazers_count: 89605
 updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v2.1.7-rc.3
-  published_at: '2026-10-18'
+  tag: v2.1.7
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 9
   2025-12: 15

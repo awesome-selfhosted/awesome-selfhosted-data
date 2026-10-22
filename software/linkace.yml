@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/Kovah/LinkAce/
 demo_url: https://demo.linkace.org/guest/links
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkace.webp
-stargazers_count: 3344
-updated_at: '2026-10-16'
+stargazers_count: 3345
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v2.6.2
-  published_at: '2026-10-07'
+  tag: v2.6.3
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 3
   2025-12: 6
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 20
   2026-08: 12
   2026-09: 0
-  2026-10: 17
+  2026-10: 21

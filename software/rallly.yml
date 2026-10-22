@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/lukevella/rallly
 demo_url: https://app.rallly.co
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rallly.webp
-stargazers_count: 5312
+stargazers_count: 5314
 updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v4.16.0
-  published_at: '2026-10-20'
+  tag: v4.16.1
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 60
   2025-12: 85
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 259
   2026-08: 289
   2026-09: 256
-  2026-10: 176
+  2026-10: 200

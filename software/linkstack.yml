@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/LinkStackOrg/LinkStack
 demo_url: https://linksta.cc/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkstack.webp
-stargazers_count: 3910
-updated_at: '2026-10-03'
+stargazers_count: 3912
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v4.8.6
-  published_at: '2026-02-17'
+  tag: v4.8.7
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 0
   2025-12: 2
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 4
   2026-08: 0
   2026-09: 0
-  2026-10: 1
+  2026-10: 3

@@ -12,11 +12,11 @@ tags:
 depends_3rdparty: false
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/multi-scrobbler.webp
 stargazers_count: 1284
-updated_at: '2026-10-15'
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: 0.20.0
-  published_at: '2026-10-15'
+  tag: 0.20.2
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 92
   2025-12: 106
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 237
   2026-08: 197
   2026-09: 317
-  2026-10: 149
+  2026-10: 153

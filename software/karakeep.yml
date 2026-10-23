@@ -11,12 +11,12 @@ tags:
   - Pastebins
 demo_url: https://try.karakeep.app/signin
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/karakeep.webp
-stargazers_count: 29881
-updated_at: '2026-10-19'
+stargazers_count: 29897
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v0.34.0
-  published_at: '2026-10-17'
+  tag: v0.34.1
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 103
   2025-12: 100
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 64
   2026-08: 95
   2026-09: 38
-  2026-10: 85
+  2026-10: 89

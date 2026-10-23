@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - API Management
 depends_3rdparty: true
-stargazers_count: 30676
+stargazers_count: 30690
 updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: versioning-example@0.1.10
-  published_at: '2026-10-21'
+  tag: '@composio/slim@0.27.0'
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 95
   2025-12: 247
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 255
   2026-08: 502
   2026-09: 492
-  2026-10: 267
+  2026-10: 314

@@ -12,12 +12,12 @@ tags:
   - Polls and Events
 demo_url: https://opnform.com/forms/create/guest
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/opnform.webp
-stargazers_count: 3860
-updated_at: '2026-10-21'
+stargazers_count: 3862
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v2.6.0
-  published_at: '2026-10-14'
+  tag: v2.6.1
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 53
   2025-12: 13
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 38
   2026-08: 34
   2026-09: 21
-  2026-10: 11
+  2026-10: 20

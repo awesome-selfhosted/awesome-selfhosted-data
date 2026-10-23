@@ -11,12 +11,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/mattermost/mattermost
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mattermost.webp
-stargazers_count: 39402
-updated_at: '2026-10-21'
+stargazers_count: 39410
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v12.1.0-rc1
-  published_at: '2026-10-19'
+  tag: v12.0.1
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 116
   2025-12: 87
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 218
   2026-08: 170
   2026-09: 282
-  2026-10: 177
+  2026-10: 190

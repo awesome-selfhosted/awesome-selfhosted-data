@@ -11,12 +11,12 @@ tags:
 demo_url: https://langfuse.com/docs/demo
 related_software_url: https://langfuse.com/docs/integrations/overview
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/langfuse.webp
-stargazers_count: 36148
-updated_at: '2026-10-21'
+stargazers_count: 36203
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v4.67.0
-  published_at: '2026-10-21'
+  tag: v4.68.0
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 313
   2025-12: 247
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 676
   2026-08: 643
   2026-09: 748
-  2026-10: 696
+  2026-10: 740

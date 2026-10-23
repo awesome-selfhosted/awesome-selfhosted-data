@@ -12,8 +12,8 @@ tags:
 demo_url: https://bentopdf.com
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bentopdf.webp
-stargazers_count: 16112
-updated_at: '2026-10-21'
+stargazers_count: 16127
+updated_at: '2026-10-22'
 archived: false
 current_release:
   tag: v2.8.10
@@ -24,6 +24,6 @@ commit_history:
   2026-05: 52
   2026-06: 24
   2026-07: 26
-  2026-08: 64
+  2026-08: 66
   2026-09: 37
-  2026-10: 50
+  2026-10: 57

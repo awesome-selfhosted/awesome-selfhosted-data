@@ -11,8 +11,8 @@ tags:
 depends_3rdparty: true
 demo_url: https://demo.receiptwrangler.io
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/receipt-wrangler.webp
-stargazers_count: 289
-updated_at: '2026-10-20'
+stargazers_count: 290
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v7.2.0
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 236
   2026-08: 22
   2026-09: 39
-  2026-10: 15
+  2026-10: 17

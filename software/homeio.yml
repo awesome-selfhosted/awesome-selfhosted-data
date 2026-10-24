@@ -1,0 +1,12 @@
+name: Homeio
+website_url: https://homeio.app
+description: Home server dashboard for managing Docker apps, files, terminal access, and system resources.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/doctor-io/homeio
+demo_url: https://demo.homeio.app

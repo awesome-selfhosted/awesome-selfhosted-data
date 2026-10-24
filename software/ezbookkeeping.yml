@@ -11,12 +11,12 @@ tags:
   - Money, Budgeting & Management
 demo_url: https://ezbookkeeping-demo.mayswind.net/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ezbookkeeping.webp
-stargazers_count: 5804
-updated_at: '2026-10-19'
+stargazers_count: 5812
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v2.1.0
-  published_at: '2026-10-15'
+  tag: v2.1.1
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 47
   2025-12: 73
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 71
   2026-08: 123
   2026-09: 118
-  2026-10: 45
+  2026-10: 47

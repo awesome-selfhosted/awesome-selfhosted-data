@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/outline/outline
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/outline.webp
-stargazers_count: 41029
+stargazers_count: 41042
 updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v1.11.0
-  published_at: '2026-10-12'
+  tag: v1.12.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 110
   2025-12: 155
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 230
   2026-08: 262
   2026-09: 213
-  2026-10: 258
+  2026-10: 267

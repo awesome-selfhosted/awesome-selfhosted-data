@@ -13,7 +13,7 @@ depends_3rdparty: true
 demo_url: https://github.com/leepeuker/movary?tab=readme-ov-file#demo
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/movary.webp
 stargazers_count: 787
-updated_at: '2026-10-22'
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: 0.82.1
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 0
   2026-08: 1
   2026-09: 94
-  2026-10: 467
+  2026-10: 489

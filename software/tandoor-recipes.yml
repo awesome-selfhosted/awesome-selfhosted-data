@@ -13,12 +13,12 @@ tags:
 source_code_url: https://github.com/TandoorRecipes/recipes
 demo_url: https://app.tandoor.dev/accounts/login/?demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tandoor-recipes.webp
-stargazers_count: 8681
-updated_at: '2026-10-21'
+stargazers_count: 8678
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 2.6.15
-  published_at: '2026-09-07'
+  tag: 2.7.1
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 84
   2025-12: 49
@@ -29,6 +29,6 @@ commit_history:
   2026-05: 47
   2026-06: 66
   2026-07: 21
-  2026-08: 38
-  2026-09: 90
-  2026-10: 13
+  2026-08: 39
+  2026-09: 99
+  2026-10: 67

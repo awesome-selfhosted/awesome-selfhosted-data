@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/typemill/typemill
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typemill.webp
 stargazers_count: 618
-updated_at: '2026-10-21'
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v2.27.1
-  published_at: '2026-10-21'
+  tag: v2.28.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 4
   2025-12: 11
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 10
   2026-08: 22
   2026-09: 8
-  2026-10: 16
+  2026-10: 20

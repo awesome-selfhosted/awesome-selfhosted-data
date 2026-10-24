@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/tolgee/tolgee-platform
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tolgee.webp
 stargazers_count: 4139
-updated_at: '2026-10-22'
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v3.238.1
-  published_at: '2026-10-22'
+  tag: v3.239.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 35
   2025-12: 20
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 56
   2026-08: 46
   2026-09: 59
-  2026-10: 51
+  2026-10: 54

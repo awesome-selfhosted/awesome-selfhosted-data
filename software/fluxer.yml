@@ -11,14 +11,14 @@ tags:
 demo_url: https://fluxer.app
 related_software_url: https://github.com/awesome-fluxer/awesome-fluxer
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fluxer.webp
-stargazers_count: 10636
-updated_at: '2026-10-22'
+stargazers_count: 10651
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: desktop-electron-runtime-44.9.1-fluxer.1
-  published_at: '2026-10-21'
+  tag: fluxer-docs@2026.1023.104031
+  published_at: '2026-10-23'
 commit_history:
   2026-07: 59
   2026-08: 692
   2026-09: 587
-  2026-10: 417
+  2026-10: 418

@@ -1,0 +1,11 @@
+name: MacroTrackr
+website_url: https://macrotrackr.com
+source_code_url: https://github.com/arogan178/macrotrackr
+description: Calorie and macro tracker with fast meal logging, barcode search, weekly trend reporting, CSV import from other nutrition apps, and SQLite storage with local accounts (alternative to MyFitnessPal, Cronometer).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Health and Fitness
+depends_3rdparty: true

@@ -1,0 +1,11 @@
+name: Relay
+website_url: https://github.com/rajputomsingh/Relay
+description: Reliable webhook delivery infrastructure with automatic retries, idempotency, delivery attempt history, and event replay.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - API Management
+source_code_url: https://github.com/rajputomsingh/Relay

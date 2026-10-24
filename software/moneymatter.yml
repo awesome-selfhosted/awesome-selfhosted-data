@@ -1,0 +1,12 @@
+name: MoneyMatter
+website_url: https://moneymatter.app
+source_code_url: https://github.com/letehaha/moneymatter
+description: Personal finance tracker – track your bank accounts (with sync), investments, loans, vehicles, budgets, with different kinds of analytics. AI helps automate the tracking process, and MCP supports custom workflows.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Money, Budgeting & Management
+demo_url: https://moneymatter.app/demo

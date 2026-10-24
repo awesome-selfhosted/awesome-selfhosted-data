@@ -1,0 +1,14 @@
+name: "AccessFlow"
+website_url: "https://accessflow.io"
+source_code_url: "https://github.com/bablsoft/accessflow"
+description: "AccessFlow is an open-source platform that governs access to databases, APIs and CI/CD deployments: every query, API call or deployment must pass review and approval rules before it runs."
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+  - K8s
+tags:
+  - Database Management
+  - Software Development - API Management
+depends_3rdparty: false

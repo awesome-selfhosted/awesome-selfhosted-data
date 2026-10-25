@@ -5,7 +5,6 @@ description: Ebook and manga library server with web reader, OPDS and metadata f
 licenses:
   - AGPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
   - Document Management - E-books

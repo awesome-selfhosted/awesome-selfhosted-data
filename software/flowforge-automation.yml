@@ -1,0 +1,10 @@
+name: FlowForge
+description: Lightweight workflow automation engine built with Laravel and React.
+urls:
+  source: https://github.com/DeveloperSarim/FlowForge
+licenses:
+  - AGPL-3.0
+platforms:
+  - php
+categories:
+  - automation

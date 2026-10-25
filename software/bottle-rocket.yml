@@ -1,0 +1,21 @@
+name: Bottle Rocket
+website_url: https://bottle-rocket.app/
+description: Document scanning and management application, compatible with Rocketbook and Scribzee formats.
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Document Management
+source_code_url: https://github.com/gman-au/bottle-rocket-server
+stargazers_count: 14
+updated_at: '2026-10-07'
+archived: false
+current_release:
+  tag: v2.0.0.1
+  published_at: '2026-10-07'
+commit_history:
+  2026-08: 8
+  2026-09: 0
+  2026-10: 2

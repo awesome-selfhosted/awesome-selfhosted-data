@@ -10,15 +10,13 @@ platforms:
   - Go
 tags:
   - Photo Galleries
-stargazers_count: 28148
-updated_at: '2026-08-04'
+stargazers_count: 29554
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: auth-v4.4.25
-  published_at: '2026-08-03'
+  tag: ente-cli-v0.4.1
+  published_at: '2026-10-23'
 commit_history:
-  2025-09: 598
-  2025-10: 1039
   2025-11: 1425
   2025-12: 1240
   2026-01: 1387
@@ -26,6 +24,8 @@ commit_history:
   2026-03: 1587
   2026-04: 1019
   2026-05: 1511
-  2026-06: 1453
-  2026-07: 1902
-  2026-08: 173
+  2026-06: 1464
+  2026-07: 1921
+  2026-08: 1964
+  2026-09: 2155
+  2026-10: 1689

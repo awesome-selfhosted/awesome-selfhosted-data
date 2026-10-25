@@ -9,15 +9,14 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/Sonarr/Sonarr
-stargazers_count: 14955
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sonarr.webp
+stargazers_count: 17396
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v4.0.19.2997
-  published_at: '2026-08-04'
+  tag: v5.0.0.2742
+  published_at: '2026-10-21'
 commit_history:
-  2025-09: 32
-  2025-10: 23
   2025-11: 73
   2025-12: 74
   2026-01: 62
@@ -27,4 +26,6 @@ commit_history:
   2026-05: 82
   2026-06: 30
   2026-07: 51
-  2026-08: 12
+  2026-08: 48
+  2026-09: 53
+  2026-10: 194

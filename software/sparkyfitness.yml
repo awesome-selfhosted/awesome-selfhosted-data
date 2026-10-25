@@ -1,0 +1,21 @@
+name: SparkyFitness
+website_url: https://codewithcj.github.io/SparkyFitness/
+source_code_url: https://github.com/CodeWithCJ/SparkyFitness
+description: Fitness-Tracker which tracks nutrition, exercise, body metrics, and health data (alternative to MyFitnessPal).
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Health and Fitness
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/sparkyfitness.webp
+stargazers_count: 6458
+updated_at: '2026-10-23'
+archived: false
+current_release:
+  tag: v1.9.0
+  published_at: '2026-10-21'
+commit_history:
+  2026-08: 1126
+  2026-09: 1056
+  2026-10: 1650

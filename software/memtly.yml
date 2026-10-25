@@ -10,17 +10,20 @@ platforms:
   - Docker
 tags:
   - Photo Galleries
-stargazers_count: 187
-updated_at: '2026-07-02'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/memtly.webp
+stargazers_count: 297
+updated_at: '2026-09-26'
 archived: false
 current_release:
-  tag: 1.0.5.1
-  published_at: '2026-08-04'
+  tag: 1.0.7.6
+  published_at: '2026-09-25'
 commit_history:
   2026-02: 21
   2026-03: 39
   2026-04: 39
   2026-05: 8
   2026-06: 23
-  2026-07: 3
-  2026-08: 0
+  2026-07: 8
+  2026-08: 17
+  2026-09: 20
+  2026-10: 0

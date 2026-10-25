@@ -9,15 +9,14 @@ platforms:
 tags:
   - Web Servers
   - Remote Access
-stargazers_count: 21987
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pangolin.webp
+stargazers_count: 23183
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 1.21.1
-  published_at: '2026-07-30'
+  tag: 1.25.3
+  published_at: '2026-10-23'
 commit_history:
-  2025-09: 356
-  2025-10: 663
   2025-11: 380
   2025-12: 769
   2026-01: 285
@@ -26,5 +25,7 @@ commit_history:
   2026-04: 651
   2026-05: 654
   2026-06: 442
-  2026-07: 369
-  2026-08: 11
+  2026-07: 374
+  2026-08: 482
+  2026-09: 374
+  2026-10: 171

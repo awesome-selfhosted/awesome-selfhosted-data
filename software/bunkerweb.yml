@@ -13,15 +13,14 @@ tags:
   - Web Servers
 demo_url: https://demo.bunkerweb.io
 related_software_url: https://docs.bunkerweb.io/latest/plugins/
-stargazers_count: 10777
-updated_at: '2026-07-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bunkerweb.webp
+stargazers_count: 11106
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v1.6.14-rc2
-  published_at: '2026-07-29'
+  tag: testing
+  published_at: '2023-08-15'
 commit_history:
-  2025-09: 195
-  2025-10: 215
   2025-11: 164
   2025-12: 137
   2026-01: 170
@@ -30,5 +29,7 @@ commit_history:
   2026-04: 163
   2026-05: 228
   2026-06: 159
-  2026-07: 72
-  2026-08: 0
+  2026-07: 176
+  2026-08: 159
+  2026-09: 326
+  2026-10: 148

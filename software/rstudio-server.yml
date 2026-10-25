@@ -9,12 +9,11 @@ platforms:
 tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/rstudio/rstudio
-stargazers_count: 5037
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rstudioserver.webp
+stargazers_count: 5097
+updated_at: '2026-10-23'
 archived: false
 commit_history:
-  2025-09: 100
-  2025-10: 113
   2025-11: 77
   2025-12: 68
   2026-01: 148
@@ -24,4 +23,6 @@ commit_history:
   2026-05: 200
   2026-06: 210
   2026-07: 220
-  2026-08: 11
+  2026-08: 178
+  2026-09: 207
+  2026-10: 154

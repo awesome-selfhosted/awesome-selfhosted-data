@@ -11,15 +11,14 @@ tags:
   - Groupware
 source_code_url: https://github.com/nextcloud/server
 demo_url: https://try.nextcloud.com/
-stargazers_count: 36334
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nextcloud.webp
+stargazers_count: 37260
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: v34.0.2
-  published_at: '2026-07-23'
+  tag: v35.0.2
+  published_at: '2026-10-15'
 commit_history:
-  2025-09: 558
-  2025-10: 587
   2025-11: 569
   2025-12: 418
   2026-01: 723
@@ -27,6 +26,8 @@ commit_history:
   2026-03: 448
   2026-04: 610
   2026-05: 638
-  2026-06: 797
-  2026-07: 698
-  2026-08: 100
+  2026-06: 802
+  2026-07: 712
+  2026-08: 873
+  2026-09: 917
+  2026-10: 540

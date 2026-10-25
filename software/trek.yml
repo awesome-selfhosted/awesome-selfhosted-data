@@ -1,0 +1,23 @@
+name: TREK
+website_url: https://github.com/liketrek/TREK
+source_code_url: https://github.com/liketrek/TREK
+description: Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Travel Organization
+demo_url: https://demo.liketrek.com/
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/trek.webp
+stargazers_count: 14912
+updated_at: '2026-10-21'
+archived: false
+current_release:
+  tag: v4.3.4
+  published_at: '2026-10-21'
+commit_history:
+  2026-08: 572
+  2026-09: 654
+  2026-10: 1

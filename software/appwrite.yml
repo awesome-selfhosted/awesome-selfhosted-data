@@ -8,15 +8,14 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/appwrite/appwrite
-stargazers_count: 56777
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/appwrite.webp
+stargazers_count: 57759
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 1.9.6
-  published_at: '2026-07-22'
+  tag: 2.6.1
+  published_at: '2026-10-21'
 commit_history:
-  2025-09: 402
-  2025-10: 490
   2025-11: 409
   2025-12: 259
   2026-01: 532
@@ -25,5 +24,7 @@ commit_history:
   2026-04: 1129
   2026-05: 1115
   2026-06: 631
-  2026-07: 820
-  2026-08: 78
+  2026-07: 957
+  2026-08: 1948
+  2026-09: 4119
+  2026-10: 3004

@@ -1,6 +1,6 @@
 name: Solidus
 website_url: https://solidus.io/
-description: A free, open-source ecommerce platform that gives you complete control over your store.
+description: Ecommerce platform that gives you complete control over your store.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,15 +9,13 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/solidusio/solidus
-stargazers_count: 5317
-updated_at: '2026-08-03'
+stargazers_count: 5343
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v4.7.0
-  published_at: '2026-04-15'
+  tag: solidus_admin/v0.5.0
+  published_at: '2026-10-14'
 commit_history:
-  2025-09: 19
-  2025-10: 30
   2025-11: 114
   2025-12: 25
   2026-01: 9
@@ -26,5 +24,7 @@ commit_history:
   2026-04: 43
   2026-05: 24
   2026-06: 20
-  2026-07: 51
-  2026-08: 7
+  2026-07: 55
+  2026-08: 82
+  2026-09: 230
+  2026-10: 121

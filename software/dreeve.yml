@@ -1,0 +1,34 @@
+name: Dreeve
+website_url: https://dreeve.app/
+source_code_url: https://github.com/dreeveapp/dreeve
+description: Statistics dashboard generated from Strava data.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Analytics
+  - Health and Fitness
+depends_3rdparty: true
+demo_url: https://statistics-for-strava.robiningelbrecht.be/
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dreeve.webp
+stargazers_count: 2175
+updated_at: '2026-10-23'
+archived: false
+current_release:
+  tag: v5.6.2
+  published_at: '2026-10-22'
+commit_history:
+  2025-11: 190
+  2025-12: 195
+  2026-01: 139
+  2026-02: 199
+  2026-03: 112
+  2026-04: 42
+  2026-05: 0
+  2026-06: 0
+  2026-07: 1
+  2026-08: 323
+  2026-09: 126
+  2026-10: 402

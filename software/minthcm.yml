@@ -8,15 +8,14 @@ platforms:
   - PHP
 tags:
   - Human Resources Management (HRM)
-stargazers_count: 387
-updated_at: '2026-07-28'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/minthcm.webp
+stargazers_count: 439
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 4.3.2.1
-  published_at: '2026-07-28'
+  tag: 4.3.5
+  published_at: '2026-10-23'
 commit_history:
-  2025-09: 1
-  2025-10: 1
   2025-11: 0
   2025-12: 7
   2026-01: 2
@@ -25,5 +24,7 @@ commit_history:
   2026-04: 5
   2026-05: 19
   2026-06: 0
-  2026-07: 5
-  2026-08: 0
+  2026-07: 6
+  2026-08: 2
+  2026-09: 1
+  2026-10: 2

@@ -1,0 +1,20 @@
+name: drawDB
+website_url: https://www.drawdb.app
+description: Browser-based visual and DBML database diagram editor and SQL generator for MySQL, PostgreSQL, SQLite, MariaDB, MSSQL and Oracle.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Database Management
+source_code_url: https://github.com/drawdb-io/drawdb
+demo_url: https://www.drawdb.app/editor
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/drawdb.webp
+stargazers_count: 40115
+updated_at: '2026-10-23'
+archived: false
+commit_history:
+  2026-08: 19
+  2026-09: 14
+  2026-10: 15

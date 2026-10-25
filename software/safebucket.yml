@@ -9,15 +9,18 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-stargazers_count: 800
-updated_at: '2026-08-03'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/safebucket.webp
+stargazers_count: 995
+updated_at: '2026-10-19'
 archived: false
 current_release:
-  tag: v0.7.2
-  published_at: '2026-08-03'
+  tag: v0.8.0
+  published_at: '2026-10-17'
 commit_history:
   2026-04: 50
   2026-05: 60
   2026-06: 34
   2026-07: 49
-  2026-08: 5
+  2026-08: 35
+  2026-09: 23
+  2026-10: 7

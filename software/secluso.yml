@@ -8,8 +8,9 @@ platforms:
   - Rust
 tags:
   - Video Surveillance
-stargazers_count: 1648
-updated_at: '2026-07-23'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/secluso.webp
+stargazers_count: 1690
+updated_at: '2026-08-08'
 archived: false
 current_release:
   tag: v1.0.2
@@ -19,4 +20,6 @@ commit_history:
   2026-05: 81
   2026-06: 5
   2026-07: 5
-  2026-08: 0
+  2026-08: 3
+  2026-09: 0
+  2026-10: 0

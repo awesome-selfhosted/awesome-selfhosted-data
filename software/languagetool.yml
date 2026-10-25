@@ -10,12 +10,11 @@ platforms:
 tags:
   - Miscellaneous
 related_software_url: https://languagetool.org/insights/post/product-windows-app/
-stargazers_count: 14767
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/languagetool.webp
+stargazers_count: 15184
+updated_at: '2026-10-23'
 archived: false
 commit_history:
-  2025-09: 123
-  2025-10: 232
   2025-11: 233
   2025-12: 174
   2026-01: 195
@@ -25,4 +24,6 @@ commit_history:
   2026-05: 153
   2026-06: 108
   2026-07: 146
-  2026-08: 8
+  2026-08: 211
+  2026-09: 140
+  2026-10: 103

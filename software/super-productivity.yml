@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-stargazers_count: 21120
-updated_at: '2026-08-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/super-productivity.webp
+stargazers_count: 23098
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v18.16.0
-  published_at: '2026-07-25'
+  tag: v19.3.0
+  published_at: '2026-10-23'
 commit_history:
   2026-02: 485
   2026-03: 648
@@ -21,4 +22,6 @@ commit_history:
   2026-05: 683
   2026-06: 528
   2026-07: 409
-  2026-08: 23
+  2026-08: 287
+  2026-09: 296
+  2026-10: 413

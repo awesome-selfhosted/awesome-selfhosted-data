@@ -8,8 +8,9 @@ platforms:
 tags:
   - URL Shorteners
 source_code_url: https://github.com/YOURLS/YOURLS
-stargazers_count: 12255
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/yourls.webp
+stargazers_count: 12271
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: 1.10.6
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 7
   2026-08: 14
   2026-09: 6
-  2026-10: 1
+  2026-10: 5

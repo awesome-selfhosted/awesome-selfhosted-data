@@ -13,12 +13,13 @@ tags:
   - Note-taking & Editors
   - Photo Galleries
 related_software_url: https://github.com/bewcloud
-stargazers_count: 1238
-updated_at: '2026-09-30'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bewcloud.webp
+stargazers_count: 1241
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v4.16.0
-  published_at: '2026-09-30'
+  tag: v4.21.0
+  published_at: '2026-10-18'
 commit_history:
   2025-11: 4
   2025-12: 17
@@ -31,4 +32,4 @@ commit_history:
   2026-07: 6
   2026-08: 5
   2026-09: 1
-  2026-10: 0
+  2026-10: 15

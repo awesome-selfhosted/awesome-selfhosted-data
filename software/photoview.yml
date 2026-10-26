@@ -10,8 +10,9 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/photoview/photoview
 demo_url: https://photoview.github.io/
-stargazers_count: 6543
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/photoview.webp
+stargazers_count: 6556
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v2.4.0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 8
   2026-08: 6
   2026-09: 15
-  2026-10: 2
+  2026-10: 7

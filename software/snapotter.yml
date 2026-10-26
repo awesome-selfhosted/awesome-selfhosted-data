@@ -9,8 +9,9 @@ platforms:
 tags:
   - Document Management
 demo_url: https://demo.snapotter.com
-stargazers_count: 2785
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/snapotter.webp
+stargazers_count: 2834
+updated_at: '2026-10-24'
 archived: false
 current_release:
   tag: v2.2.0
@@ -19,4 +20,4 @@ commit_history:
   2026-07: 250
   2026-08: 91
   2026-09: 252
-  2026-10: 101
+  2026-10: 1052

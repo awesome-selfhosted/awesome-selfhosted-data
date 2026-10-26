@@ -9,12 +9,13 @@ platforms:
   - Docker
 tags:
   - Ticketing
-stargazers_count: 2117
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bugsink.webp
+stargazers_count: 2145
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: 2.6.1
-  published_at: '2026-09-25'
+  tag: 2.6.2
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 99
   2025-12: 5
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 181
   2026-08: 17
   2026-09: 63
-  2026-10: 9
+  2026-10: 96

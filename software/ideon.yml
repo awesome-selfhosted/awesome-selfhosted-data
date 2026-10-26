@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-stargazers_count: 625
-updated_at: '2026-10-01'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/ideon.webp
+stargazers_count: 658
+updated_at: '2026-10-15'
 archived: false
 current_release:
-  tag: v0.9.8
-  published_at: '2026-10-01'
+  tag: v1.0.0
+  published_at: '2026-10-15'
 commit_history:
   2026-04: 29
   2026-05: 28
@@ -21,4 +22,4 @@ commit_history:
   2026-07: 12
   2026-08: 0
   2026-09: 4
-  2026-10: 4
+  2026-10: 20

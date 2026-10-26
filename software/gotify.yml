@@ -10,8 +10,9 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/gotify/server
 related_software_url: https://github.com/gotify/android
-stargazers_count: 16037
-updated_at: '2026-09-30'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gotify.webp
+stargazers_count: 16110
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v3.1.1
@@ -27,5 +28,5 @@ commit_history:
   2026-06: 34
   2026-07: 43
   2026-08: 26
-  2026-09: 20
-  2026-10: 0
+  2026-09: 21
+  2026-10: 20

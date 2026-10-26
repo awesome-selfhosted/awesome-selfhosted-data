@@ -1,0 +1,23 @@
+name: Chobble Tickets
+website_url: https://tickets.chobble.com
+source_code_url: https://github.com/chobbledotcom/tickets
+description: Event ticketing with QR check-in and encrypted attendee records. The complete product is AGPL-3.0 with no open core and no branding requirement, and it runs as an edge script without an always-on server (alternative to Eventbrite).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Deno
+  - Docker
+tags:
+  - Booking and Scheduling
+  - E-commerce
+demo_url: https://tickets.crumpsallfolkclub.co.uk
+stargazers_count: 35
+updated_at: '2026-10-23'
+archived: false
+current_release:
+  tag: v2026-10-03-091652
+  published_at: '2026-10-03'
+commit_history:
+  2026-08: 152
+  2026-09: 87
+  2026-10: 174

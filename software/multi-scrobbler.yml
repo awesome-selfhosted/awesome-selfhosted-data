@@ -10,12 +10,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 depends_3rdparty: false
-stargazers_count: 1255
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/multi-scrobbler.webp
+stargazers_count: 1284
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 0.19.2
-  published_at: '2026-09-30'
+  tag: 0.20.2
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 92
   2025-12: 106
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 237
   2026-08: 197
   2026-09: 317
-  2026-10: 56
+  2026-10: 158

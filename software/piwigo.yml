@@ -8,8 +8,9 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/Piwigo/Piwigo
-stargazers_count: 3866
-updated_at: '2026-09-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/piwigo.webp
+stargazers_count: 3867
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: 16.4.0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 5
   2026-08: 0
   2026-09: 2
-  2026-10: 0
+  2026-10: 7

@@ -8,8 +8,9 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/dbeaver/cloudbeaver
-stargazers_count: 5182
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cloudbeaver.webp
+stargazers_count: 5202
+updated_at: '2026-10-23'
 archived: false
 commit_history:
   2025-11: 64
@@ -23,4 +24,4 @@ commit_history:
   2026-07: 61
   2026-08: 84
   2026-09: 77
-  2026-10: 8
+  2026-10: 59

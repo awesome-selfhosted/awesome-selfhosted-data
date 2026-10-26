@@ -9,8 +9,9 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://github.com/IgnisDa/ryot?tab=readme-ov-file#-demo
-stargazers_count: 3624
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ryot.webp
+stargazers_count: 3647
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v10.5.0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 8
   2026-08: 3
   2026-09: 8
-  2026-10: 3
+  2026-10: 6

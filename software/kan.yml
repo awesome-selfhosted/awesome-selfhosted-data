@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-stargazers_count: 5736
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/kan.webp
+stargazers_count: 5825
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v0.6.0
@@ -20,4 +21,4 @@ commit_history:
   2026-07: 10
   2026-08: 13
   2026-09: 60
-  2026-10: 1
+  2026-10: 2

@@ -10,12 +10,13 @@ platforms:
 tags:
   - Document Management
 depends_3rdparty: true
-stargazers_count: 7062
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/opensign.webp
+stargazers_count: 7162
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v2.41.3
-  published_at: '2026-08-21'
+  tag: v3.0.0
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 19
   2025-12: 4
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 1
   2026-08: 19
   2026-09: 0
-  2026-10: 0
+  2026-10: 1

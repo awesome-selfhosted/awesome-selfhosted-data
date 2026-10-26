@@ -8,12 +8,13 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/tchapi/davis
-stargazers_count: 757
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/davis.webp
+stargazers_count: 760
 updated_at: '2026-10-06'
 archived: false
 current_release:
-  tag: v5.5.0
-  published_at: '2026-09-28'
+  tag: v5.5.1
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 2
   2025-12: 0

@@ -10,8 +10,9 @@ platforms:
 tags:
   - Inventory Management
   - Manufacturing
-stargazers_count: 2884
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/spoolman.webp
+stargazers_count: 2932
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v0.27.0
@@ -27,5 +28,5 @@ commit_history:
   2026-06: 0
   2026-07: 205
   2026-08: 281
-  2026-09: 93
-  2026-10: 2
+  2026-09: 94
+  2026-10: 87

@@ -10,12 +10,13 @@ tags:
   - Software Development - IDE & Tools
 demo_url: https://langfuse.com/docs/demo
 related_software_url: https://langfuse.com/docs/integrations/overview
-stargazers_count: 35443
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/langfuse.webp
+stargazers_count: 36271
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v4.53.0
-  published_at: '2026-10-06'
+  tag: v4.69.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 313
   2025-12: 247
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 676
   2026-08: 643
   2026-09: 748
-  2026-10: 138
+  2026-10: 783

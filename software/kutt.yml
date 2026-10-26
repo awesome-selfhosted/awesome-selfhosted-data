@@ -10,8 +10,9 @@ platforms:
 tags:
   - URL Shorteners
 demo_url: https://kutt.to
-stargazers_count: 11140
-updated_at: '2026-09-03'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kutt.webp
+stargazers_count: 11166
+updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: v3.2.6
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 6
   2026-08: 2
   2026-09: 1
-  2026-10: 0
+  2026-10: 1

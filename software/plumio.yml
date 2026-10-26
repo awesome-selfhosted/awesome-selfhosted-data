@@ -10,8 +10,9 @@ platforms:
 tags:
   - Note-taking & Editors
 demo_url: https://demo.plumio.app/homepage
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/plumio.webp
 stargazers_count: 138
-updated_at: '2026-08-11'
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v2.11.0
@@ -23,4 +24,4 @@ commit_history:
   2026-07: 20
   2026-08: 38
   2026-09: 0
-  2026-10: 0
+  2026-10: 1

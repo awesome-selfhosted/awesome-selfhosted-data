@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 1492
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/warracker.webp
+stargazers_count: 1501
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: 1.0.2
-  published_at: '2025-10-30'
+  tag: 1.0.3
+  published_at: '2026-10-20'
 commit_history:
   2025-11: 9
   2025-12: 0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 3
-  2026-10: 59
+  2026-10: 96

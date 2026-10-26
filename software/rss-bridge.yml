@@ -9,8 +9,9 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/RSS-Bridge/rss-bridge
-stargazers_count: 9266
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rss-bridge.webp
+stargazers_count: 9315
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: '2025-08-05'
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 5
   2026-08: 48
   2026-09: 1
-  2026-10: 9
+  2026-10: 39

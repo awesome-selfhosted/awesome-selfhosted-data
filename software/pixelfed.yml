@@ -8,12 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/pixelfed/pixelfed
-stargazers_count: 7120
-updated_at: '2026-10-07'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pixelfed.webp
+stargazers_count: 7129
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v0.14.5-rc
-  published_at: '2026-10-07'
+  tag: v0.15.2
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 265
   2025-12: 23
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 2
   2026-08: 645
   2026-09: 2432
-  2026-10: 109
+  2026-10: 649

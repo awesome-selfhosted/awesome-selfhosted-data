@@ -9,12 +9,13 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/immich-app/immich
 demo_url: https://github.com/immich-app/immich#demo
-stargazers_count: 115693
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/immich.webp
+stargazers_count: 117032
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v3.3.0-rc.2
-  published_at: '2026-10-02'
+  tag: v3.3.5
+  published_at: '2026-10-21'
 commit_history:
   2025-11: 205
   2025-12: 131
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 262
   2026-08: 252
   2026-09: 217
-  2026-10: 54
+  2026-10: 202

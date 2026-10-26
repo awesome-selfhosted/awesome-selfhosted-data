@@ -8,8 +8,9 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/TYPO3/typo3
-stargazers_count: 1213
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typo3.webp
+stargazers_count: 1218
+updated_at: '2026-10-23'
 archived: false
 commit_history:
   2025-11: 294
@@ -23,4 +24,4 @@ commit_history:
   2026-07: 140
   2026-08: 146
   2026-09: 315
-  2026-10: 55
+  2026-10: 388

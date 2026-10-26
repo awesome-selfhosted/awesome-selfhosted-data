@@ -8,14 +8,15 @@ platforms:
   - Docker
 tags:
   - Health and Fitness
-stargazers_count: 275
-updated_at: '2026-09-30'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/nutritrace.webp
+stargazers_count: 349
+updated_at: '2026-10-11'
 archived: false
 current_release:
-  tag: v1.4.0-dev04
-  published_at: '2026-09-29'
+  tag: v1.5.0-dev02
+  published_at: '2026-10-23'
 commit_history:
   2026-07: 12
   2026-08: 11
   2026-09: 10
-  2026-10: 0
+  2026-10: 2

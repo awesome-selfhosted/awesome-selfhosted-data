@@ -9,12 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/misskey-dev/misskey
-stargazers_count: 11336
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/misskey.webp
+stargazers_count: 11355
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 2026.10.0
-  published_at: '2026-10-01'
+  tag: 2026.10.1
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 155
   2025-12: 110
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 200
   2026-08: 46
   2026-09: 64
-  2026-10: 12
+  2026-10: 48

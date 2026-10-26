@@ -9,8 +9,9 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/koel/koel
 demo_url: https://demo.koel.dev/
-stargazers_count: 17270
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/koel.webp
+stargazers_count: 17303
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v9.15.0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 10
   2026-08: 26
   2026-09: 112
-  2026-10: 19
+  2026-10: 243

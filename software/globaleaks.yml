@@ -11,8 +11,9 @@ platforms:
   - Docker
 tags:
   - Communication - Custom Communication Systems
-stargazers_count: 1517
-updated_at: '2026-10-01'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/globaleaks.webp
+stargazers_count: 1525
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v5.0.99
@@ -29,4 +30,4 @@ commit_history:
   2026-07: 60
   2026-08: 54
   2026-09: 32
-  2026-10: 3
+  2026-10: 15

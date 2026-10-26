@@ -8,8 +8,9 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/pyload/pyload
-stargazers_count: 3878
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pyload.webp
+stargazers_count: 3893
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v0.4.x
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 10
   2026-08: 15
   2026-09: 18
-  2026-10: 6
+  2026-10: 24

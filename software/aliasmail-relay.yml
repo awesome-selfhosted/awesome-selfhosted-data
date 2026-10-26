@@ -1,0 +1,12 @@
+name: "AliasMail Relay"
+website_url: "https://aliasmail.space"
+source_code_url: "https://github.com/anshu4sharma/aliasmail-relay"
+description: "Self-hostable privacy email forwarding relay and webhook gateway with HMAC-SHA256 verification."
+licenses:
+  - MIT
+platforms:
+  - TypeScript
+  - Docker
+tags:
+  - Communication - Custom Webmail & Aliases
+depends_3rdparty: false

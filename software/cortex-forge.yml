@@ -1,0 +1,12 @@
+name: CortexForge
+website_url: https://rekurt.github.io/cortex-forge/
+source_code_url: https://github.com/rekurt/cortex-forge
+description: Multi-tenant control plane for NousResearch Hermes Agent to run isolated per-user AI assistants with SSE token quotas, inter-agent message broker, and API key isolation.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: true

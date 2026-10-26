@@ -1,0 +1,13 @@
+name: "Puls"
+website_url: "https://github.com/webready-se/puls"
+source_code_url: "https://github.com/webready-se/puls"
+description: "Cookie-free, privacy-friendly website analytics with a simple dashboard and insight into bots and crawlers."
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: false
+icon_url: "https://raw.githubusercontent.com/webready-se/puls/main/public/icon-512.png"

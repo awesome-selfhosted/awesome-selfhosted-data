@@ -1,0 +1,16 @@
+name: "Personal Drive"
+website_url: "https://personaldrive.xyz/"
+source_code_url: "https://github.com/gyaaniguy/personal-drive"
+description: "Web-based file manager - sharing, streaming, API, 2fa, multiple views (alternative to Google Drive)."
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+  - Javascript
+tags:
+  - File Transfer - Web-based File Managers
+  - File Transfer - Peer-to-peer Filesharing
+  - Media Streaming - Multimedia Streaming
+depends_3rdparty: false
+demo_url: "https://demo.personaldrive.xyz/"
+icon_url: "https://demo.personaldrive.xyz/img/logo.png"

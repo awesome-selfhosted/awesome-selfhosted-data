@@ -1,0 +1,11 @@
+name: "armor-gw"
+website_url: "https://github.com/Dixxxzao-01/armor-gw"
+source_code_url: "https://github.com/Dixxxzao-01/armor-gw"
+description: "An OpenAI-compatible LLM request gateway that detects refusals and fluff, automatically retries and mutates prompts until clean answers pass, and scrubs output to deliver only results."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - API Management

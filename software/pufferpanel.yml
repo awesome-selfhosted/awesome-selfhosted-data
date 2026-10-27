@@ -8,8 +8,9 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/pufferpanel/pufferpanel
-stargazers_count: 1753
-updated_at: '2026-10-01'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pufferpanel.webp
+stargazers_count: 1757
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v3.0.9
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 9
   2026-08: 6
   2026-09: 6
-  2026-10: 1
+  2026-10: 2

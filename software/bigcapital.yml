@@ -9,12 +9,13 @@ tags:
   - Money, Budgeting & Management
   - Inventory Management
 source_code_url: https://github.com/bigcapitalhq/bigcapital
-stargazers_count: 3923
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bigcapital.webp
+stargazers_count: 3955
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v0.25.42
-  published_at: '2026-09-23'
+  tag: v0.25.45
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 44
   2025-12: 43
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 54
   2026-08: 251
   2026-09: 185
-  2026-10: 2
+  2026-10: 111

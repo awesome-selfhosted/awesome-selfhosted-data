@@ -9,8 +9,9 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/LibrePhotos/librephotos
-stargazers_count: 8091
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/librephotos.webp
+stargazers_count: 8111
+updated_at: '2026-10-23'
 archived: false
 related_software_url: https://docs.librephotos.com/docs/user-guide/mobile/
 commit_history:
@@ -25,7 +26,7 @@ commit_history:
   2026-07: 61
   2026-08: 29
   2026-09: 96
-  2026-10: 7
+  2026-10: 446
 current_release:
-  tag: 1.2.1
-  published_at: '2026-09-29'
+  tag: windows-wheels-2026.10.22
+  published_at: '2026-10-22'

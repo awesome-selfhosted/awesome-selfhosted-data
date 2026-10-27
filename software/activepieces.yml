@@ -8,12 +8,13 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/activepieces/activepieces
-stargazers_count: 24928
-updated_at: '2026-10-07'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/activepieces.webp
+stargazers_count: 25192
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: 0.92.1
-  published_at: '2026-09-30'
+  tag: 0.92.3-hotfix.1
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 1478
   2025-12: 1183
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 350
   2026-08: 309
   2026-09: 392
-  2026-10: 130
+  2026-10: 443

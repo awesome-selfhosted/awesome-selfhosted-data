@@ -9,12 +9,13 @@ platforms:
   - Docker
 tags:
   - Automation
-stargazers_count: 4289
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/dagu.webp
+stargazers_count: 4431
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v2.18.2
-  published_at: '2026-10-04'
+  tag: v2.22.2
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 43
   2025-12: 72
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 108
   2026-08: 184
   2026-09: 175
-  2026-10: 40
+  2026-10: 233

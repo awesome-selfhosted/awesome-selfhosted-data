@@ -10,8 +10,9 @@ platforms:
   - Nodejs
 tags:
   - File Transfer & Synchronization
-stargazers_count: 6102
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/open-cloud.webp
+stargazers_count: 6218
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v8.1.0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 106
   2026-08: 299
   2026-09: 217
-  2026-10: 80
+  2026-10: 301

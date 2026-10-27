@@ -8,8 +8,9 @@ platforms:
 tags:
   - Media Streaming - Video Streaming
 source_code_url: https://github.com/owncast/owncast
-stargazers_count: 11574
-updated_at: '2026-10-03'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/owncast.webp
+stargazers_count: 11623
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v0.3.0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 190
   2026-08: 63
   2026-09: 85
-  2026-10: 9
+  2026-10: 31

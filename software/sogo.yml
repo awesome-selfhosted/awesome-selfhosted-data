@@ -9,12 +9,13 @@ tags:
   - Groupware
 source_code_url: https://github.com/Alinto/sogo
 demo_url: https://demo.sogo.nu/SOGo/
-stargazers_count: 2171
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sogo.webp
+stargazers_count: 2175
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: SOGo-5.12.11
-  published_at: '2026-09-14'
+  tag: SOGo-5.12.12
+  published_at: '2026-10-13'
 commit_history:
   2025-11: 3
   2025-12: 7
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 1
   2026-08: 12
   2026-09: 13
-  2026-10: 1
+  2026-10: 13

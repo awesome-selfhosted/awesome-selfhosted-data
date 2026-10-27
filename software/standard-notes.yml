@@ -9,12 +9,13 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.com/
-stargazers_count: 6645
-updated_at: '2026-09-30'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/standard-notes.webp
+stargazers_count: 6681
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: '@standardnotes/mobile@3.202.8'
-  published_at: '2026-09-30'
+  tag: '@standardnotes/mobile@3.202.11'
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 12
   2025-12: 9
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 21
   2026-08: 21
   2026-09: 32
-  2026-10: 0
+  2026-10: 16

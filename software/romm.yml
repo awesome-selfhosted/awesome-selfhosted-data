@@ -10,12 +10,13 @@ tags:
 source_code_url: https://github.com/rommapp/romm
 depends_3rdparty: true
 demo_url: https://demo.romm.app/
-stargazers_count: 13266
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/romm.webp
+stargazers_count: 14014
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: 5.4.0-alpha.1
-  published_at: '2026-10-06'
+  tag: 5.4.1
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 347
   2025-12: 280
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 762
   2026-08: 503
   2026-09: 1938
-  2026-10: 236
+  2026-10: 286

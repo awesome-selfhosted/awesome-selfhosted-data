@@ -12,8 +12,9 @@ tags:
   - File Transfer & Synchronization
   - Groupware
 source_code_url: https://github.com/haiwen/seafile
-stargazers_count: 15311
-updated_at: '2026-08-26'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/seafile.webp
+stargazers_count: 15374
+updated_at: '2026-10-16'
 archived: false
 current_release:
   tag: v9.0.5
@@ -30,4 +31,4 @@ commit_history:
   2026-07: 6
   2026-08: 2
   2026-09: 0
-  2026-10: 0
+  2026-10: 6

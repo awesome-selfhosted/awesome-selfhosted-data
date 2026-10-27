@@ -9,12 +9,13 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/vrana/adminer
-stargazers_count: 7917
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/adminer.webp
+stargazers_count: 7926
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v6.1.1
-  published_at: '2026-09-25'
+  tag: v6.2.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 0
   2025-12: 0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 329
   2026-08: 373
   2026-09: 249
-  2026-10: 12
+  2026-10: 98

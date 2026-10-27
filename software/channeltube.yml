@@ -9,12 +9,13 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-stargazers_count: 328
-updated_at: '2026-08-21'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/channeltube.webp
+stargazers_count: 332
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v0.9.8
-  published_at: '2026-08-21'
+  tag: v0.9.9
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 1
   2025-12: 1
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 1
   2026-08: 3
   2026-09: 0
-  2026-10: 0
+  2026-10: 1

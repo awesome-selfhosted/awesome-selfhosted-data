@@ -9,8 +9,9 @@ platforms:
 tags:
   - Media Management
 depends_3rdparty: true
-stargazers_count: 700
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/reaparr.webp
+stargazers_count: 699
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v0.41.0-dev.3
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 218
   2026-08: 269
   2026-09: 265
-  2026-10: 51
+  2026-10: 436

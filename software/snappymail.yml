@@ -8,12 +8,13 @@ platforms:
 tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/the-djmaze/snappymail
-stargazers_count: 1708
-updated_at: '2026-03-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/snappymail.webp
+stargazers_count: 1715
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v2.38.2
-  published_at: '2024-10-09'
+  tag: v2.38.2.1
+  published_at: '2026-10-23'
 commit_history:
   2026-01: 0
   2026-02: 0
@@ -22,6 +23,6 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
-  2026-08: 0
-  2026-09: 0
-  2026-10: 0
+  2026-08: 6
+  2026-09: 3
+  2026-10: 61

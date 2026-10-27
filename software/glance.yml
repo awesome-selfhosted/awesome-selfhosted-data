@@ -10,12 +10,13 @@ platforms:
 tags:
   - Personal Dashboards
   - Feed Readers
-stargazers_count: 37362
-updated_at: '2026-09-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/glance.webp
+stargazers_count: 37647
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v0.8.6
-  published_at: '2026-09-03'
+  tag: v0.8.7
+  published_at: '2026-10-15'
 commit_history:
   2025-11: 0
   2025-12: 1
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 5
   2026-08: 20
   2026-09: 16
-  2026-10: 0
+  2026-10: 12

@@ -10,8 +10,9 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/caronc/apprise
-stargazers_count: 17539
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apprise.webp
+stargazers_count: 17641
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v2.0.1
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 19
   2026-08: 26
   2026-09: 29
-  2026-10: 12
+  2026-10: 55

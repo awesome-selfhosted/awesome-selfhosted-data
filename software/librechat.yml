@@ -11,8 +11,9 @@ tags:
   - Generative Artificial Intelligence (GenAI)
 demo_url: https://chat.librechat.ai
 depends_3rdparty: true
-stargazers_count: 45345
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/librechat.webp
+stargazers_count: 46221
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v0.8.8
@@ -25,4 +26,4 @@ commit_history:
   2026-07: 194
   2026-08: 472
   2026-09: 553
-  2026-10: 279
+  2026-10: 568

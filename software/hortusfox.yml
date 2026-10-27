@@ -9,12 +9,13 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 1680
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hortusfox.webp
+stargazers_count: 1690
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v6.3
-  published_at: '2026-10-05'
+  tag: v6.4
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 15
   2025-12: 30
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 50
   2026-08: 3
   2026-09: 30
-  2026-10: 11
+  2026-10: 24

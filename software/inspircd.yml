@@ -9,8 +9,9 @@ platforms:
 tags:
   - Communication - IRC
 source_code_url: https://github.com/inspircd/inspircd
-stargazers_count: 1350
-updated_at: '2026-10-01'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/inspircd.webp
+stargazers_count: 1358
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v4.12.1
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 22
   2026-08: 42
   2026-09: 34
-  2026-10: 1
+  2026-10: 10

@@ -8,8 +8,9 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/nkanaev/yarr
-stargazers_count: 4065
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/yarr.webp
+stargazers_count: 4072
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v2.9
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 141
   2026-08: 29
   2026-09: 48
-  2026-10: 15
+  2026-10: 19

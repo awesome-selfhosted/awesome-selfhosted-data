@@ -11,12 +11,13 @@ platforms:
 tags:
   - Document Management
 demo_url: https://pdf.24eme.fr/
-stargazers_count: 828
-updated_at: '2026-09-08'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/signaturepdf.webp
+stargazers_count: 831
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v1.9.2
-  published_at: '2025-12-03'
+  tag: v1.11.0
+  published_at: '2026-10-22'
 commit_history:
   2025-11: 6
   2025-12: 7
@@ -29,4 +30,4 @@ commit_history:
   2026-07: 14
   2026-08: 2
   2026-09: 2
-  2026-10: 0
+  2026-10: 1

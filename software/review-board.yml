@@ -10,8 +10,9 @@ platforms:
 tags:
   - Software Development - Project Management
 demo_url: https://demo.reviewboard.org/
-stargazers_count: 1726
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/review-board.webp
+stargazers_count: 1729
+updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: release-8.0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 39
   2026-08: 44
   2026-09: 60
-  2026-10: 22
+  2026-10: 48

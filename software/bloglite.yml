@@ -1,0 +1,29 @@
+name: bloglite
+website_url: https://github.com/rikhuijzer/bloglite
+description: Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Blogging Platforms
+source_code_url: https://github.com/rikhuijzer/bloglite
+stargazers_count: 331
+updated_at: '2026-10-20'
+archived: false
+current_release:
+  tag: v3.0.0
+  published_at: '2026-10-17'
+commit_history:
+  2025-11: 13
+  2025-12: 0
+  2026-01: 0
+  2026-02: 32
+  2026-03: 4
+  2026-04: 12
+  2026-05: 10
+  2026-06: 0
+  2026-07: 3
+  2026-08: 3
+  2026-09: 5
+  2026-10: 34

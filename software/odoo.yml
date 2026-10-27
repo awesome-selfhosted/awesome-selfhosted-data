@@ -11,8 +11,9 @@ tags:
   - Resource Planning
 source_code_url: https://github.com/odoo/odoo
 demo_url: https://demo.odoo.com/
-stargazers_count: 54867
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/odoo.webp
+stargazers_count: 55285
+updated_at: '2026-10-23'
 archived: false
 commit_history:
   2025-11: 868
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 1565
   2026-08: 1634
   2026-09: 1783
-  2026-10: 232
+  2026-10: 973

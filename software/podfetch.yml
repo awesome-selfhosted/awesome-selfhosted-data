@@ -9,8 +9,9 @@ platforms:
   - Rust
 tags:
   - Media Management
-stargazers_count: 510
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podfetch.webp
+stargazers_count: 518
+updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v5.2.3
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 59
   2026-08: 34
   2026-09: 17
-  2026-10: 6
+  2026-10: 16

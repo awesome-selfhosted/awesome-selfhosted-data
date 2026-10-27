@@ -10,8 +10,9 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/HabitRPG/habitica
-stargazers_count: 14186
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/habitica.webp
+stargazers_count: 14246
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: v5.50.6
@@ -27,5 +28,5 @@ commit_history:
   2026-06: 20
   2026-07: 34
   2026-08: 41
-  2026-09: 28
-  2026-10: 3
+  2026-09: 29
+  2026-10: 10

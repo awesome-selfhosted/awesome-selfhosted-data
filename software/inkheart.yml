@@ -8,8 +8,9 @@ platforms:
   - Docker
 tags:
   - Document Management - E-books
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/inkheart.webp
 stargazers_count: 23
-updated_at: '2026-08-14'
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: 1.4.0

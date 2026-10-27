@@ -9,12 +9,13 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/9001/copyparty
 demo_url: https://a.ocv.me/pub/demo/
-stargazers_count: 46919
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/copyparty.webp
+stargazers_count: 47108
+updated_at: '2026-10-21'
 archived: false
 current_release:
-  tag: v1.20.25
-  published_at: '2026-10-06'
+  tag: v1.20.26
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 33
   2025-12: 82
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 62
   2026-08: 45
   2026-09: 60
-  2026-10: 16
+  2026-10: 26

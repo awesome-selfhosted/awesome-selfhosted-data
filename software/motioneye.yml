@@ -9,8 +9,9 @@ platforms:
   - Docker
 tags:
   - Video Surveillance
-stargazers_count: 4695
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/motioneye.webp
+stargazers_count: 4719
+updated_at: '2026-10-22'
 archived: false
 current_release:
   tag: 0.44.0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 8
   2026-08: 4
   2026-09: 6
-  2026-10: 12
+  2026-10: 54

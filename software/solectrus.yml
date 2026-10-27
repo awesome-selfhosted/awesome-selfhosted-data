@@ -9,12 +9,13 @@ platforms:
 tags:
   - Internet of Things (IoT)
 demo_url: https://demo.solectrus.de
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/solectrus.webp
 stargazers_count: 166
-updated_at: '2026-10-06'
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v1.3.3
-  published_at: '2026-09-30'
+  tag: v1.3.4
+  published_at: '2026-10-12'
 commit_history:
   2026-01: 165
   2026-02: 146
@@ -25,4 +26,4 @@ commit_history:
   2026-07: 170
   2026-08: 201
   2026-09: 281
-  2026-10: 41
+  2026-10: 395

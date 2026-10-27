@@ -10,8 +10,9 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/lovasoa/whitebophir
 demo_url: https://wbo.ophir.dev/
-stargazers_count: 2660
-updated_at: '2026-09-12'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wbo.webp
+stargazers_count: 2673
+updated_at: '2026-10-20'
 archived: false
 commit_history:
   2025-11: 0
@@ -25,4 +26,7 @@ commit_history:
   2026-07: 46
   2026-08: 3
   2026-09: 2
-  2026-10: 0
+  2026-10: 100
+current_release:
+  tag: v2.18.2
+  published_at: '2026-10-17'

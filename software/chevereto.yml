@@ -9,8 +9,9 @@ platforms:
 tags:
   - Photo Galleries
 source_code_url: https://github.com/chevereto/chevereto
-stargazers_count: 998
-updated_at: '2026-09-22'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/chevereto.webp
+stargazers_count: 1002
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: 4.5.7
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 1
   2026-08: 3
   2026-09: 3
-  2026-10: 0
+  2026-10: 1

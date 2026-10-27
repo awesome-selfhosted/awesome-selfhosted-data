@@ -9,12 +9,13 @@ platforms:
   - K8S
 tags:
   - File Transfer - Object Storage & File Servers
-stargazers_count: 29502
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/harbor.webp
+stargazers_count: 29602
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v2.15.3
-  published_at: '2026-10-06'
+  tag: v2.14.6
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 6
   2025-12: 15
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 39
   2026-08: 58
   2026-09: 46
-  2026-10: 16
+  2026-10: 68

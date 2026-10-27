@@ -8,12 +8,13 @@ platforms:
 tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/ioBroker/ioBroker
-stargazers_count: 1377
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/iobroker.webp
+stargazers_count: 1383
+updated_at: '2026-10-16'
 archived: false
 current_release:
-  tag: '2026-10-01'
-  published_at: '2026-10-01'
+  tag: '2026-10-15'
+  published_at: '2026-10-16'
 commit_history:
   2025-11: 0
   2025-12: 0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 0
   2026-08: 4
   2026-09: 22
-  2026-10: 9
+  2026-10: 13

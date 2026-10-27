@@ -8,12 +8,13 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/GameServerManagers/LinuxGSM
-stargazers_count: 4913
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linuxgsm.webp
+stargazers_count: 4912
+updated_at: '2026-10-22'
 archived: false
 current_release:
-  tag: v26.2.0
-  published_at: '2026-07-19'
+  tag: v26.4.0
+  published_at: '2026-10-18'
 commit_history:
   2025-11: 12
   2025-12: 0
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 15
   2026-08: 0
   2026-09: 0
-  2026-10: 1
+  2026-10: 124

@@ -10,12 +10,13 @@ platforms:
 tags:
   - Feed Readers
 demo_url: https://feed.lovergne.dev/demo
-stargazers_count: 377
-updated_at: '2026-05-02'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/tinyfeed.webp
+stargazers_count: 388
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: v1.5.0
-  published_at: '2026-04-06'
+  tag: v1.5.1
+  published_at: '2026-10-17'
 commit_history:
   2025-11: 5
   2025-12: 0
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 0
+  2026-10: 34

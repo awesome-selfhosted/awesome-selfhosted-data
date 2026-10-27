@@ -10,8 +10,9 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/mtlynch/picoshare
 related_software_url: https://github.com/mtlynch/picoshare#third-party-clients
-stargazers_count: 3047
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/picoshare.webp
+stargazers_count: 3064
+updated_at: '2026-10-16'
 archived: false
 current_release:
   tag: v1.5.4
@@ -28,4 +29,4 @@ commit_history:
   2026-07: 1
   2026-08: 34
   2026-09: 19
-  2026-10: 0
+  2026-10: 7

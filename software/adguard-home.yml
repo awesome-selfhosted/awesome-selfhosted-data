@@ -8,8 +8,9 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/AdguardTeam/AdGuardHome
-stargazers_count: 37261
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/adguard-home.webp
+stargazers_count: 37640
+updated_at: '2026-10-23'
 archived: false
 current_release:
   tag: v1.0.0-b.1
@@ -26,4 +27,4 @@ commit_history:
   2026-07: 43
   2026-08: 26
   2026-09: 26
-  2026-10: 8
+  2026-10: 18

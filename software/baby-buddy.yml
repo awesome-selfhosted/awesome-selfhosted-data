@@ -9,8 +9,9 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/babybuddy/babybuddy
 demo_url: https://github.com/babybuddy/babybuddy#-demo
-stargazers_count: 2909
-updated_at: '2026-10-01'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/babybuddy.webp
+stargazers_count: 2931
+updated_at: '2026-10-12'
 archived: false
 current_release:
   tag: v2.11.0
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 0
   2026-08: 11
   2026-09: 69
-  2026-10: 2
+  2026-10: 5

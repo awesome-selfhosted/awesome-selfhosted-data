@@ -9,18 +9,18 @@ platforms:
   - Docker
 tags:
   - Games
-stargazers_count: 1046
-updated_at: '2026-07-05'
+stargazers_count: 1066
+updated_at: '2026-10-17'
 archived: false
 current_release:
-  tag: 3.1.0
-  published_at: '2026-07-05'
+  tag: 4.0.1
+  published_at: '2026-10-17'
 commit_history:
   2026-03: 4
   2026-04: 64
   2026-05: 3
   2026-06: 10
   2026-07: 33
-  2026-08: 0
-  2026-09: 0
-  2026-10: 0
+  2026-08: 3
+  2026-09: 91
+  2026-10: 55

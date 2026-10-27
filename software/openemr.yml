@@ -10,8 +10,9 @@ platforms:
 tags:
   - Health and Fitness
 demo_url: https://www.open-emr.org/demo/
-stargazers_count: 5500
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openemr.webp
+stargazers_count: 5540
+updated_at: '2026-10-23'
 archived: false
 commit_history:
   2025-11: 114
@@ -25,7 +26,7 @@ commit_history:
   2026-07: 346
   2026-08: 291
   2026-09: 311
-  2026-10: 99
+  2026-10: 330
 current_release:
   tag: v8_4_1
   published_at: '2026-09-20'

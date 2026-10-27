@@ -9,8 +9,9 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/papermerge/papermerge-core
-stargazers_count: 543
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/papermerge.webp
+stargazers_count: 549
+updated_at: '2026-10-21'
 archived: false
 current_release:
   tag: 3.5.3
@@ -27,4 +28,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 11
-  2026-10: 6
+  2026-10: 33

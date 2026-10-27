@@ -10,12 +10,13 @@ platforms:
 tags:
   - DNS
 source_code_url: https://github.com/pi-hole/pi-hole
-stargazers_count: 61183
-updated_at: '2026-07-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pi-hole.webp
+stargazers_count: 61417
+updated_at: '2026-10-17'
 archived: false
 current_release:
-  tag: v6.4.3
-  published_at: '2026-07-06'
+  tag: v6.5
+  published_at: '2026-10-17'
 commit_history:
   2025-11: 24
   2025-12: 11
@@ -26,6 +27,6 @@ commit_history:
   2026-05: 33
   2026-06: 16
   2026-07: 13
-  2026-08: 0
-  2026-09: 0
-  2026-10: 0
+  2026-08: 20
+  2026-09: 7
+  2026-10: 44

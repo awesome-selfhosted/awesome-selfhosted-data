@@ -1,7 +1,7 @@
 name: "Kept Notes"
 website_url: "https://keepitkept.xyz"
 source_code_url: "https://github.com/ericerkz/kept"
-description: "Kept is a self-hosted notes app built for quick capture: text notes, checklists, images, drawings, links, attachments, labels, colors, and reminders. It aims to keep the lightweight feel of Google Keep while storing your data on your own server."
+description: "A notes app built for quick capture: text notes, checklists, images, drawings, links, attachments, labels, colors, and reminders (alternative to Google Keep)."
 licenses:
   - AGPL-3.0
   - MIT

@@ -1,0 +1,12 @@
+name: "CatalogIT"
+website_url: "https://github.com/jonymaster/catalogIT"
+source_code_url: "https://github.com/jonymaster/catalogIT"
+description: "Hardware, software and spending tracking all in one place. Equipped with connectors for OIDC SSO, SCIM, MCP and Slack/Gmail for renewal reminders."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Inventory Management
+demo_url: "https://catalog-it.jmartinuzzi.dev/"

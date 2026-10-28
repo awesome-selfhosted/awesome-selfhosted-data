@@ -10,8 +10,8 @@ tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/roundcube/roundcubemail
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/roundcube.webp
-stargazers_count: 7241
-updated_at: '2026-10-23'
+stargazers_count: 7244
+updated_at: '2026-10-25'
 archived: false
 current_release:
   tag: 1.7.5
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 33
   2026-08: 29
   2026-09: 30
-  2026-10: 38
+  2026-10: 47

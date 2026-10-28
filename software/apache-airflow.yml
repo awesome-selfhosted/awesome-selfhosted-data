@@ -10,8 +10,8 @@ tags:
   - Automation
 source_code_url: https://github.com/apache/airflow/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apache-airflow.webp
-stargazers_count: 47267
-updated_at: '2026-10-23'
+stargazers_count: 47291
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: 3.3.2
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 788
   2026-08: 614
   2026-09: 829
-  2026-10: 820
+  2026-10: 969

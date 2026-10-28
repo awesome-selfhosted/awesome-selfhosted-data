@@ -10,12 +10,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/monetr.webp
-stargazers_count: 687
-updated_at: '2026-10-23'
+stargazers_count: 691
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: v1.20.0
-  published_at: '2026-10-22'
+  tag: v1.21.1
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 122
   2025-12: 39
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 85
   2026-08: 40
   2026-09: 115
-  2026-10: 240
+  2026-10: 265

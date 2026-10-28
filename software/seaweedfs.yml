@@ -9,12 +9,12 @@ tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/seaweedfs/seaweedfs
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/seaweedfs.webp
-stargazers_count: 35706
-updated_at: '2026-10-24'
+stargazers_count: 35781
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: '4.49'
-  published_at: '2026-10-23'
+  tag: '4.51'
+  published_at: '2026-10-25'
 commit_history:
   2025-11: 134
   2025-12: 279
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 245
   2026-08: 379
   2026-09: 358
-  2026-10: 365
+  2026-10: 496

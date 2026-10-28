@@ -12,8 +12,8 @@ tags:
 source_code_url: https://github.com/gristlabs/grist-core
 demo_url: https://docs.getgrist.com
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/grist.webp
-stargazers_count: 11990
-updated_at: '2026-10-22'
+stargazers_count: 12002
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: v1.7.21
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 68
   2026-08: 81
   2026-09: 101
-  2026-10: 69
+  2026-10: 102

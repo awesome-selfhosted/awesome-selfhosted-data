@@ -10,12 +10,12 @@ tags:
   - Media Management
 source_code_url: https://github.com/Lidarr/Lidarr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/lidarr.webp
-stargazers_count: 5765
-updated_at: '2026-10-16'
+stargazers_count: 5779
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v3.1.6.5078
-  published_at: '2026-09-13'
+  tag: v3.2.0.5144
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 4
   2025-12: 3
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 9
   2026-08: 18
   2026-09: 13
-  2026-10: 5
+  2026-10: 10

@@ -11,12 +11,12 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/opf/openproject
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openproject.webp
-stargazers_count: 16594
-updated_at: '2026-10-23'
+stargazers_count: 16744
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v17.9.3
-  published_at: '2026-10-22'
+  tag: v17.9.4
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 1357
   2025-12: 761
@@ -27,6 +27,6 @@ commit_history:
   2026-05: 1453
   2026-06: 1709
   2026-07: 1724
-  2026-08: 1409
-  2026-09: 2734
-  2026-10: 1656
+  2026-08: 1413
+  2026-09: 2735
+  2026-10: 1992

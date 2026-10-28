@@ -10,12 +10,12 @@ tags:
   - Personal Dashboards
 source_code_url: https://github.com/homarr-labs/homarr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/homarr.webp
-stargazers_count: 5189
-updated_at: '2026-10-23'
+stargazers_count: 5225
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v2.8.2
-  published_at: '2026-10-23'
+  tag: v2.9.1
+  published_at: '2026-10-25'
 commit_history:
   2025-11: 134
   2025-12: 178
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 203
   2026-08: 89
   2026-09: 28
-  2026-10: 226
+  2026-10: 304

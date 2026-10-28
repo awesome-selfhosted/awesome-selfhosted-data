@@ -12,12 +12,12 @@ tags:
 demo_url: https://chat.librechat.ai
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/librechat.webp
-stargazers_count: 46221
-updated_at: '2026-10-23'
+stargazers_count: 46389
+updated_at: '2026-10-26'
 archived: false
 current_release:
-  tag: v0.8.8
-  published_at: '2026-10-01'
+  tag: v0.8.9-rc1
+  published_at: '2026-10-26'
 commit_history:
   2026-03: 192
   2026-04: 137
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 194
   2026-08: 472
   2026-09: 553
-  2026-10: 568
+  2026-10: 629

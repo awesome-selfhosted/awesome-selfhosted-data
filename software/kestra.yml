@@ -9,12 +9,12 @@ tags:
   - Automation
 source_code_url: https://github.com/kestra-io/kestra
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kestra.webp
-stargazers_count: 29965
-updated_at: '2026-10-23'
+stargazers_count: 30040
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v2.0.7
-  published_at: '2026-10-20'
+  tag: v2.0.8
+  published_at: '2026-10-27'
 commit_history:
   2025-11: 303
   2025-12: 341
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 442
   2026-08: 525
   2026-09: 523
-  2026-10: 707
+  2026-10: 781

@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/xwiki/xwiki-platform
 demo_url: https://www.xwikiplayground.org/xwiki/bin/view/Main/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/xwiki.webp
-stargazers_count: 1324
-updated_at: '2026-10-23'
+stargazers_count: 1327
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: xwiki-platform-18.9.0-rc-1
-  published_at: '2026-10-19'
+  tag: xwiki-platform-18.9.0
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 224
   2025-12: 180
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 465
   2026-08: 338
   2026-09: 322
-  2026-10: 391
+  2026-10: 422

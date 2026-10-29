@@ -10,11 +10,11 @@ platforms:
 tags:
   - Inventory Management
 stargazers_count: 77
-updated_at: '2026-09-30'
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: manager-station+captain-2.13.1
-  published_at: '2026-09-28'
+  tag: plugin-storagotchi-1.0.3
+  published_at: '2026-10-24'
 commit_history:
   2025-11: 148
   2025-12: 98
@@ -26,5 +26,5 @@ commit_history:
   2026-06: 115
   2026-07: 73
   2026-08: 154
-  2026-09: 169
-  2026-10: 0
+  2026-09: 199
+  2026-10: 104

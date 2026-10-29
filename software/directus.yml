@@ -10,12 +10,12 @@ tags:
   - Database Management
 source_code_url: https://github.com/directus/directus
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/directus.webp
-stargazers_count: 38625
-updated_at: '2026-10-22'
+stargazers_count: 38651
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v12.5.1
-  published_at: '2026-10-23'
+  tag: v12.6.0
+  published_at: '2026-10-27'
 commit_history:
   2025-11: 59
   2025-12: 44
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 88
   2026-08: 50
   2026-09: 45
-  2026-10: 38
+  2026-10: 48

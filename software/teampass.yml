@@ -9,12 +9,12 @@ tags:
   - Password Managers
 source_code_url: https://github.com/nilsteampassnet/TeamPass
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/teampass.webp
-stargazers_count: 1853
-updated_at: '2026-10-20'
+stargazers_count: 1868
+updated_at: '2026-10-26'
 archived: false
 current_release:
-  tag: 3.2.3.2
-  published_at: '2026-10-20'
+  tag: 3.2.3.3
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 146
   2025-12: 136
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 311
   2026-08: 370
   2026-09: 263
-  2026-10: 268
+  2026-10: 332

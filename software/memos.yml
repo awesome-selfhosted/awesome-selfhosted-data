@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/usememos/memos
 demo_url: https://demo.usememos.com/explore
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/memos.webp
-stargazers_count: 64029
-updated_at: '2026-10-22'
+stargazers_count: 64126
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: 26.10-rc.1
-  published_at: '2026-10-09'
+  tag: 26.10.0-rc.2
+  published_at: '2026-10-27'
 commit_history:
   2025-11: 88
   2025-12: 100
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 77
   2026-08: 77
   2026-09: 107
-  2026-10: 65
+  2026-10: 73

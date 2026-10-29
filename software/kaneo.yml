@@ -11,12 +11,12 @@ tags:
   - Software Development - Project Management
 demo_url: https://demo.kaneo.app/
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/kaneo.webp
-stargazers_count: 9572
-updated_at: '2026-10-23'
+stargazers_count: 9634
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v2.47.0
-  published_at: '2026-10-23'
+  tag: v2.48.0
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 38
   2025-12: 270
@@ -28,5 +28,5 @@ commit_history:
   2026-06: 78
   2026-07: 157
   2026-08: 552
-  2026-09: 479
-  2026-10: 485
+  2026-09: 510
+  2026-10: 629

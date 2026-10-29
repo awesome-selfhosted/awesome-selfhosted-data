@@ -10,9 +10,9 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/pocketbase/pocketbase
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pocketbase.webp
-stargazers_count: 61564
-updated_at: '2026-10-23'
-archived: false
+stargazers_count: 61626
+updated_at: '2026-10-26'
+archived: true
 current_release:
   tag: v0.40.6
   published_at: '2026-10-23'
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 49
   2026-08: 55
   2026-09: 50
-  2026-10: 18
+  2026-10: 19

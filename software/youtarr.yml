@@ -10,12 +10,12 @@ tags:
   - Media Management
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/youtarr.webp
-stargazers_count: 1772
-updated_at: '2026-10-22'
+stargazers_count: 1783
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: v1.90.1
-  published_at: '2026-10-22'
+  tag: v1.90.2
+  published_at: '2026-10-27'
 commit_history:
   2026-03: 57
   2026-04: 311
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 117
   2026-08: 53
   2026-09: 227
-  2026-10: 71
+  2026-10: 84

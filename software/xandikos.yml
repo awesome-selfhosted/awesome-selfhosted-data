@@ -1,6 +1,6 @@
 name: Xandikos
 website_url: https://github.com/jelmer/xandikos
-description: Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository.
+description: CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository.
 licenses:
   - GPL-3.0
 platforms:

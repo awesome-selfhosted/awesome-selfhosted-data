@@ -10,8 +10,8 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bichon.webp
-stargazers_count: 2054
-updated_at: '2026-10-26'
+stargazers_count: 2056
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: 2.2.0
@@ -23,4 +23,4 @@ commit_history:
   2026-07: 29
   2026-08: 34
   2026-09: 34
-  2026-10: 56
+  2026-10: 68

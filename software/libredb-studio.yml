@@ -10,16 +10,16 @@ platforms:
 tags:
   - Database Management
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/libredb-studio.webp
-stargazers_count: 1293
-updated_at: '2026-10-28'
+stargazers_count: 1300
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: libredb-studio-0.1.106
-  published_at: '2026-10-28'
+  tag: libredb-studio-0.1.115
+  published_at: '2026-10-30'
 commit_history:
   2026-05: 0
   2026-06: 82
   2026-07: 163
   2026-08: 254
   2026-09: 653
-  2026-10: 728
+  2026-10: 793

@@ -11,12 +11,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/RocketChat/Rocket.Chat
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rocket-chat.webp
-stargazers_count: 46343
-updated_at: '2026-10-28'
+stargazers_count: 46349
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: 9.0.0-rc.0
-  published_at: '2026-10-27'
+  tag: 9.0.0-rc.2
+  published_at: '2026-10-30'
 commit_history:
   2025-11: 137
   2025-12: 303
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 274
   2026-08: 157
   2026-09: 195
-  2026-10: 337
+  2026-10: 393

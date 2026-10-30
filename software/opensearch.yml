@@ -12,8 +12,8 @@ tags:
   - Search Engines
 source_code_url: https://github.com/opensearch-project/OpenSearch
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/opensearch.webp
-stargazers_count: 13918
-updated_at: '2026-10-27'
+stargazers_count: 13932
+updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: 2.19.7
@@ -30,4 +30,4 @@ commit_history:
   2026-07: 89
   2026-08: 91
   2026-09: 126
-  2026-10: 84
+  2026-10: 94

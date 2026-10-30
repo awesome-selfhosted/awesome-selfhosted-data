@@ -14,8 +14,8 @@ source_code_url: https://github.com/binwiederhier/ntfy
 demo_url: https://ntfy.sh/app
 related_software_url: https://github.com/binwiederhier/ntfy-android
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ntfy.webp
-stargazers_count: 35117
-updated_at: '2026-10-27'
+stargazers_count: 35170
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v2.34.0
@@ -32,4 +32,4 @@ commit_history:
   2026-07: 78
   2026-08: 32
   2026-09: 16
-  2026-10: 388
+  2026-10: 441

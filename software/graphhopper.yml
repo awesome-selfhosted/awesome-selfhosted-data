@@ -9,8 +9,8 @@ tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/graphhopper/graphhopper
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/graphhopper.webp
-stargazers_count: 6746
-updated_at: '2026-10-27'
+stargazers_count: 6748
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: '11.1'
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 21
   2026-08: 21
   2026-09: 31
-  2026-10: 24
+  2026-10: 27

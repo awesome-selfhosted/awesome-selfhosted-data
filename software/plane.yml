@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/makeplane/plane
 demo_url: https://app.plane.so
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/plane.webp
-stargazers_count: 61563
-updated_at: '2026-10-26'
+stargazers_count: 61699
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v1.4.3-rc2
-  published_at: '2026-10-23'
+  tag: v1.4.3
+  published_at: '2026-10-28'
 commit_history:
   2025-11: 108
   2025-12: 207
@@ -26,6 +26,6 @@ commit_history:
   2026-05: 25
   2026-06: 35
   2026-07: 37
-  2026-08: 39
-  2026-09: 55
-  2026-10: 76
+  2026-08: 42
+  2026-09: 72
+  2026-10: 91

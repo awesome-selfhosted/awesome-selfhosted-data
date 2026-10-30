@@ -10,8 +10,8 @@ tags:
   - Media Management
 source_code_url: https://github.com/Radarr/Radarr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/radarr.webp
-stargazers_count: 14664
-updated_at: '2026-10-27'
+stargazers_count: 14673
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v7.0.0.10815
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 18
   2026-08: 37
   2026-09: 20
-  2026-10: 70
+  2026-10: 71

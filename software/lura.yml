@@ -8,12 +8,12 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/luraproject/lura
-stargazers_count: 6802
-updated_at: '2026-09-30'
+stargazers_count: 6801
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v2.13.0
-  published_at: '2025-10-30'
+  tag: v3.0.1
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 2
   2025-12: 2
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 6
   2026-08: 2
   2026-09: 4
-  2026-10: 0
+  2026-10: 2

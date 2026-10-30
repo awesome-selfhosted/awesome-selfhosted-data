@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/mnfst/llm-gateway
 demo_url: https://manifest.new
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/manifest.webp
-stargazers_count: 7604
-updated_at: '2026-10-23'
+stargazers_count: 7606
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: manifest@6.28.10
-  published_at: '2026-10-23'
+  tag: manifest@6.28.11
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 5
   2025-12: 190
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 420
   2026-08: 128
   2026-09: 243
-  2026-10: 67
+  2026-10: 71

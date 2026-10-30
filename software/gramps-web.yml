@@ -11,11 +11,11 @@ source_code_url: https://github.com/gramps-project/gramps-web-api
 demo_url: https://gramps-project.github.io/gramps-web-api/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gramps-web.webp
 stargazers_count: 229
-updated_at: '2026-10-27'
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v3.24.0
-  published_at: '2026-10-17'
+  tag: v3.25.0
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 6
   2025-12: 22
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 13
   2026-08: 33
   2026-09: 51
-  2026-10: 84
+  2026-10: 97

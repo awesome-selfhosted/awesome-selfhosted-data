@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/matomo-org/matomo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/matomo.webp
 stargazers_count: 21984
-updated_at: '2026-10-27'
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: 6.0.0-b7.20261026180726
-  published_at: '2026-10-26'
+  tag: 6.0.0-b9.20261029180526
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 80
   2025-12: 49
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 142
   2026-08: 96
   2026-09: 114
-  2026-10: 77
+  2026-10: 103

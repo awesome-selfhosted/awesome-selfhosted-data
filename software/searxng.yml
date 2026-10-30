@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/searxng/searxng/
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/searxng.webp
-stargazers_count: 38930
-updated_at: '2026-10-27'
+stargazers_count: 38997
+updated_at: '2026-10-29'
 archived: false
 commit_history:
   2025-11: 57
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 79
   2026-08: 33
   2026-09: 123
-  2026-10: 43
+  2026-10: 48

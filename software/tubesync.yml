@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/meeb/tubesync
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tubesync.webp
-stargazers_count: 2809
-updated_at: '2026-10-22'
+stargazers_count: 2808
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v0.18.5
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 13
   2026-08: 139
   2026-09: 221
-  2026-10: 41
+  2026-10: 67

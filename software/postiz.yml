@@ -10,8 +10,8 @@ tags:
 source_code_url: https://github.com/gitroomhq/postiz-app
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postiz.webp
-stargazers_count: 39437
-updated_at: '2026-10-24'
+stargazers_count: 40126
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v2.25.3
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 93
   2026-08: 135
   2026-09: 316
-  2026-10: 277
+  2026-10: 287

@@ -11,11 +11,11 @@ tags:
   - Recipe Management
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/vanilla-cookbook.webp
 stargazers_count: 158
-updated_at: '2026-10-08'
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: v1.6.0
-  published_at: '2026-10-08'
+  tag: v1.6.1
+  published_at: '2026-10-28'
 commit_history:
   2025-11: 0
   2025-12: 83
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 2
   2026-08: 0
   2026-09: 3
-  2026-10: 45
+  2026-10: 67

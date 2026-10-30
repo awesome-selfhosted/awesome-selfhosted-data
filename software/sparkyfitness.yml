@@ -9,13 +9,13 @@ platforms:
 tags:
   - Health and Fitness
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/sparkyfitness.webp
-stargazers_count: 6492
-updated_at: '2026-10-28'
+stargazers_count: 6526
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: v1.9.0
-  published_at: '2026-10-21'
+  tag: v1.10.0
+  published_at: '2026-10-29'
 commit_history:
   2026-08: 1126
   2026-09: 1056
-  2026-10: 2084
+  2026-10: 2253

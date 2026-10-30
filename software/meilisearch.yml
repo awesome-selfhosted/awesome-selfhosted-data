@@ -11,8 +11,8 @@ tags:
   - Search Engines
 source_code_url: https://github.com/meilisearch/MeiliSearch
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/meilisearch.webp
-stargazers_count: 59688
-updated_at: '2026-10-26'
+stargazers_count: 59713
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v1.56.0
@@ -27,6 +27,6 @@ commit_history:
   2026-05: 208
   2026-06: 198
   2026-07: 238
-  2026-08: 45
+  2026-08: 46
   2026-09: 132
-  2026-10: 126
+  2026-10: 150

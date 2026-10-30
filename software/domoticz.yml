@@ -13,8 +13,8 @@ tags:
 source_code_url: https://github.com/domoticz/domoticz
 related_software_url: https://github.com/domoticz/domoticz-android
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/domoticz.webp
-stargazers_count: 3826
-updated_at: '2026-10-19'
+stargazers_count: 3827
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: '2026.4'
@@ -30,5 +30,5 @@ commit_history:
   2026-06: 81
   2026-07: 65
   2026-08: 179
-  2026-09: 52
-  2026-10: 110
+  2026-09: 55
+  2026-10: 156

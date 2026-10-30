@@ -1,0 +1,11 @@
+name: Reins
+website_url: https://v-t-v.github.io/reins/
+description: Remote operations platform for Windows/Linux fleets via outbound-only agents (zero inbound ports), with mTLS, RBAC and a tamper-evident audit log.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Remote Access
+source_code_url: https://github.com/V-T-V/reins

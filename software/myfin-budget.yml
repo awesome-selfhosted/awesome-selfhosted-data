@@ -11,12 +11,12 @@ tags:
   - Money, Budgeting & Management
 demo_url: https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself
 related_software_url: https://github.com/afaneca/myfin-api
-stargazers_count: 317
-updated_at: '2026-10-06'
+stargazers_count: 316
+updated_at: '2026-10-24'
 archived: false
 current_release:
-  tag: 10.7.0
-  published_at: '2026-10-06'
+  tag: 10.7.1
+  published_at: '2026-10-24'
 commit_history:
   2025-11: 1
   2025-12: 2
@@ -29,4 +29,4 @@ commit_history:
   2026-07: 12
   2026-08: 21
   2026-09: 6
-  2026-10: 6
+  2026-10: 11

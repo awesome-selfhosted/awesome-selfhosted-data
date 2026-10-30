@@ -10,12 +10,12 @@ platforms:
 tags:
   - Miscellaneous
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wishlist.webp
-stargazers_count: 669
-updated_at: '2026-10-18'
+stargazers_count: 675
+updated_at: '2026-10-26'
 archived: false
 current_release:
-  tag: v0.68.0
-  published_at: '2026-10-09'
+  tag: v0.69.0
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 54
   2025-12: 39
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 21
   2026-08: 0
   2026-09: 41
-  2026-10: 28
+  2026-10: 36

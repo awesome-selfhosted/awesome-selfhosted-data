@@ -1,0 +1,12 @@
+name: "Papyra"
+website_url: "https://papyra.app"
+source_code_url: "https://github.com/lyfie-org/papyra"
+description: "A self-hosted notes app that is as easy as sticky notes and links notes together like a wiki. Every note is a plain Markdown file on your own server."
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Note-taking & Editors
+demo_url: "https://papyra.app/demo/"
+icon_url: "https://github.com/lyfie-org/papyra/blob/main/assets/papyra_logo.png"

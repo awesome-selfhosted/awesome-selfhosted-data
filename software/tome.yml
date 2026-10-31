@@ -1,0 +1,12 @@
+name: Tome
+website_url: https://tome.bndct.sh
+source_code_url: https://github.com/bndct-devops/tome
+description: Ebook and manga library server with web reader, OPDS and metadata fetching. A KOReader plugin records every reading session and syncs positions both ways, powering streaks, pace, heatmaps and per-book stats.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books
+related_software_url: https://github.com/bndct-devops/tome/blob/main/docs/koreader-plugin.md
+icon_url: https://raw.githubusercontent.com/bndct-devops/tome/main/frontend/public/pwa-512x512.png

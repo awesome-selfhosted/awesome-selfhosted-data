@@ -1,0 +1,11 @@
+name: Fileship
+website_url: https://github.com/hanzydev/Fileship
+description: File, image and link sharing server with ShareX support, a Windows capture app, File Explorer sync, notes, short links and AI search that runs on the server.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/hanzydev/Fileship

@@ -1,0 +1,12 @@
+name: "Contrack"
+website_url: "https://arvarik.com/contrack"
+source_code_url: "https://github.com/arvarik/contrack"
+description: "Multi-tenant contact manager with people search, MCP, relationship tracking."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Customer Relationship Management (CRM)
+  - Calendar & Contacts

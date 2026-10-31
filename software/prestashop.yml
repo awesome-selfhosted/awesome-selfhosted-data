@@ -11,7 +11,7 @@ source_code_url: https://github.com/PrestaShop/PrestaShop
 demo_url: https://demo.prestashop.com/
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/prestashop.webp
 stargazers_count: 9239
-updated_at: '2026-10-29'
+updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: 9.2.0
@@ -26,6 +26,6 @@ commit_history:
   2026-05: 338
   2026-06: 527
   2026-07: 315
-  2026-08: 262
-  2026-09: 354
-  2026-10: 169
+  2026-08: 264
+  2026-09: 357
+  2026-10: 204

@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/rero/rero-ils
 demo_url: https://ils.test.rero.ch/
 stargazers_count: 87
-updated_at: '2026-10-29'
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: v1.30.0
-  published_at: '2026-10-13'
+  tag: v1.30.1
+  published_at: '2026-10-30'
 commit_history:
   2025-11: 9
   2025-12: 2
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 27
   2026-08: 26
   2026-09: 39
-  2026-10: 24
+  2026-10: 27

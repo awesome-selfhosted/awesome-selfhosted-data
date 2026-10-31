@@ -10,8 +10,8 @@ tags:
   - Communication - IRC
 source_code_url: https://github.com/ergochat/ergo
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/ergo.webp
-stargazers_count: 3356
-updated_at: '2026-10-22'
+stargazers_count: 3357
+updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: v2.19.1
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 33
   2026-08: 17
   2026-09: 1
-  2026-10: 6
+  2026-10: 8

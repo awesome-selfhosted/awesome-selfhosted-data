@@ -1,0 +1,12 @@
+name: OvertChat
+website_url: https://overtchat.com
+source_code_url: https://github.com/yoloyash/overtchat
+description: Local AI chat interface for vLLM, llama.cpp, or SGLang, with web search, speech, voice, and multi-user accounts; bring your own API keys or local models. (alternative to Open WebUI).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+depends_3rdparty: false

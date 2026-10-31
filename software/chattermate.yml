@@ -1,0 +1,11 @@
+name: ChatterMate
+website_url: https://chattermate.chat
+description: AI customer support platform with a shared inbox for AI and human agents, self-hostable with your own LLM (alternative to Intercom, Zendesk and Chatbase).
+licenses:
+- Apache-2.0
+platforms:
+- Python
+- Docker
+tags:
+- Communication - Custom Communication Systems
+source_code_url: https://github.com/chattermate/chattermate.chat

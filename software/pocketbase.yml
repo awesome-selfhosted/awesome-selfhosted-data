@@ -8,23 +8,5 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/pocketbase/pocketbase
-stargazers_count: 59535
-updated_at: '2026-07-08'
-archived: false
-current_release:
-  tag: v0.39.6
-  published_at: '2026-07-08'
-commit_history:
-  2025-08: 30
-  2025-09: 19
-  2025-10: 34
-  2025-11: 29
-  2025-12: 24
-  2026-01: 29
-  2026-02: 33
-  2026-03: 26
-  2026-04: 93
-  2026-05: 83
-  2026-06: 42
-  2026-07: 10
+source_code_url: https://ganigeorgiev.com/pocketbase/pocketbase
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pocketbase.webp

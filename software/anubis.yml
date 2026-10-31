@@ -10,16 +10,14 @@ platforms:
   - Go
 tags:
   - Miscellaneous
-stargazers_count: 20602
-updated_at: '2026-07-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anubis.webp
+stargazers_count: 23826
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: v1.26.0-pre2
-  published_at: '2026-07-11'
+  tag: v1.28.2
+  published_at: '2026-10-23'
 commit_history:
-  2025-08: 54
-  2025-09: 50
-  2025-10: 23
   2025-11: 40
   2025-12: 24
   2026-01: 18
@@ -28,4 +26,7 @@ commit_history:
   2026-04: 13
   2026-05: 12
   2026-06: 20
-  2026-07: 15
+  2026-07: 29
+  2026-08: 78
+  2026-09: 25
+  2026-10: 32

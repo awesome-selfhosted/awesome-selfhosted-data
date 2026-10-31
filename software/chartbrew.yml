@@ -10,16 +10,14 @@ tags:
   - Database Management
 source_code_url: https://github.com/chartbrew/chartbrew
 demo_url: https://app.chartbrew.com/live-demo
-stargazers_count: 3958
-updated_at: '2026-07-06'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/chartbrew.webp
+stargazers_count: 4064
+updated_at: '2026-10-28'
 archived: false
 current_release:
-  tag: v5.2.2
-  published_at: '2026-06-24'
+  tag: v5.3.2
+  published_at: '2026-09-20'
 commit_history:
-  2025-08: 29
-  2025-09: 37
-  2025-10: 45
   2025-11: 39
   2025-12: 21
   2026-01: 35
@@ -28,4 +26,7 @@ commit_history:
   2026-04: 76
   2026-05: 65
   2026-06: 9
-  2026-07: 8
+  2026-07: 43
+  2026-08: 7
+  2026-09: 10
+  2026-10: 3

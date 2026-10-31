@@ -10,16 +10,14 @@ platforms:
   - Python
 tags:
   - Money, Budgeting & Management
-stargazers_count: 863
-updated_at: '2026-07-10'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/wygiwyh.webp
+stargazers_count: 905
+updated_at: '2026-10-25'
 archived: false
 current_release:
-  tag: 0.22.1
-  published_at: '2026-07-10'
+  tag: 0.24.0
+  published_at: '2026-10-24'
 commit_history:
-  2025-08: 134
-  2025-09: 79
-  2025-10: 41
   2025-11: 55
   2025-12: 116
   2026-01: 61
@@ -28,4 +26,7 @@ commit_history:
   2026-04: 32
   2026-05: 13
   2026-06: 39
-  2026-07: 13
+  2026-07: 22
+  2026-08: 43
+  2026-09: 42
+  2026-10: 72

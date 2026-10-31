@@ -8,16 +8,14 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/penpot/penpot
-stargazers_count: 55446
-updated_at: '2026-07-10'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/penpot.webp
+stargazers_count: 61849
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: 2.16.2
-  published_at: '2026-07-01'
+  tag: 2.18.5
+  published_at: '2026-10-26'
 commit_history:
-  2025-08: 343
-  2025-09: 263
-  2025-10: 455
   2025-11: 330
   2025-12: 299
   2026-01: 422
@@ -25,5 +23,8 @@ commit_history:
   2026-03: 494
   2026-04: 545
   2026-05: 512
-  2026-06: 548
-  2026-07: 108
+  2026-06: 558
+  2026-07: 362
+  2026-08: 293
+  2026-09: 515
+  2026-10: 457

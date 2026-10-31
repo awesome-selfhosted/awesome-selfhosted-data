@@ -10,8 +10,9 @@ tags:
   - Search Engines
 source_code_url: https://github.com/asciimoo/hister
 demo_url: https://demo.hister.org/
-stargazers_count: 1613
-updated_at: '2026-07-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hister.webp
+stargazers_count: 6172
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: rolling
@@ -21,4 +22,7 @@ commit_history:
   2026-04: 292
   2026-05: 239
   2026-06: 212
-  2026-07: 83
+  2026-07: 199
+  2026-08: 263
+  2026-09: 182
+  2026-10: 195

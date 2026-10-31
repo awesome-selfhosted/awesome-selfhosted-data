@@ -8,8 +8,9 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/friendica/friendica
-stargazers_count: 1678
-updated_at: '2026-07-11'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/friendica.webp
+stargazers_count: 1699
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: 2026.05-1
@@ -20,5 +21,8 @@ commit_history:
   2026-03: 120
   2026-04: 163
   2026-05: 373
-  2026-06: 356
-  2026-07: 108
+  2026-06: 359
+  2026-07: 234
+  2026-08: 535
+  2026-09: 224
+  2026-10: 151

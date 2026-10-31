@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Remote Access
-stargazers_count: 13966
-updated_at: '2026-07-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/termix.webp
+stargazers_count: 15723
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: release-2.5.0-tag
-  published_at: '2026-06-30'
+  tag: v26.10.6
+  published_at: '2026-10-29'
 commit_history:
   2025-11: 8
   2025-12: 1
@@ -23,4 +24,7 @@ commit_history:
   2026-04: 10
   2026-05: 21
   2026-06: 36
-  2026-07: 4
+  2026-07: 23
+  2026-08: 22
+  2026-09: 13
+  2026-10: 52

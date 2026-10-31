@@ -8,12 +8,13 @@ platforms:
   - Docker
 tags:
   - Password Managers
-stargazers_count: 2952
-updated_at: '2026-07-10'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/aliasvault.webp
+stargazers_count: 3334
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: 0.30.0
-  published_at: '2026-07-02'
+  tag: 0.31.1
+  published_at: '2026-10-14'
 commit_history:
   2025-11: 252
   2025-12: 200
@@ -23,4 +24,7 @@ commit_history:
   2026-04: 147
   2026-05: 132
   2026-06: 205
-  2026-07: 34
+  2026-07: 202
+  2026-08: 273
+  2026-09: 471
+  2026-10: 351

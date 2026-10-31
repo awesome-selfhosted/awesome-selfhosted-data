@@ -1,6 +1,6 @@
 name: Svix
 website_url: https://svix.com
-description: Open-source webhooks as a service that makes it super easy for API providers to send webhooks.
+description: Webhooks as a service that makes it super easy for API providers to send webhooks.
 licenses:
   - MIT
 platforms:
@@ -9,16 +9,13 @@ platforms:
 tags:
   - Software Development - API Management
 source_code_url: https://github.com/svix/svix-webhooks
-stargazers_count: 3292
-updated_at: '2026-07-10'
+stargazers_count: 3471
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v1.96.1
-  published_at: '2026-06-25'
+  tag: server-v1.104.0
+  published_at: '2026-10-28'
 commit_history:
-  2025-08: 133
-  2025-09: 76
-  2025-10: 60
   2025-11: 12
   2025-12: 32
   2026-01: 12
@@ -27,4 +24,7 @@ commit_history:
   2026-04: 63
   2026-05: 90
   2026-06: 70
-  2026-07: 24
+  2026-07: 168
+  2026-08: 102
+  2026-09: 59
+  2026-10: 83

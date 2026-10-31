@@ -8,16 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/wagtail/wagtail
-stargazers_count: 20386
-updated_at: '2026-07-08'
+stargazers_count: 20593
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v7.4.2
-  published_at: '2026-06-15'
+  tag: v8.1rc1
+  published_at: '2026-10-21'
 commit_history:
-  2025-08: 95
-  2025-09: 18
-  2025-10: 108
   2025-11: 68
   2025-12: 69
   2026-01: 118
@@ -26,4 +23,7 @@ commit_history:
   2026-04: 115
   2026-05: 62
   2026-06: 102
-  2026-07: 38
+  2026-07: 109
+  2026-08: 397
+  2026-09: 47
+  2026-10: 145

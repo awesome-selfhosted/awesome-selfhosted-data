@@ -10,9 +10,10 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
-stargazers_count: 15
-updated_at: '2026-07-09'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hook0.webp
+stargazers_count: 16
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: play/v1.0.4
-  published_at: '2026-05-18'
+  tag: frontend/v1.2.1
+  published_at: '2026-09-21'

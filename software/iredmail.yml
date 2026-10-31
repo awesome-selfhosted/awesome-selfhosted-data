@@ -8,13 +8,11 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/iredmail/iRedMail
-stargazers_count: 1822
-updated_at: '2026-07-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/iredmail.webp
+stargazers_count: 1849
+updated_at: '2026-10-28'
 archived: false
 commit_history:
-  2025-08: 0
-  2025-09: 0
-  2025-10: 0
   2025-11: 0
   2025-12: 13
   2026-01: 5
@@ -23,4 +21,7 @@ commit_history:
   2026-04: 10
   2026-05: 8
   2026-06: 1
-  2026-07: 1
+  2026-07: 3
+  2026-08: 4
+  2026-09: 2
+  2026-10: 8

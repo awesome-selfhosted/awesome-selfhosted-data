@@ -8,16 +8,14 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/laurent22/joplin
-stargazers_count: 55543
-updated_at: '2026-07-10'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/joplin.webp
+stargazers_count: 56933
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v3.7.6
-  published_at: '2026-06-24'
+  tag: v3.7.22
+  published_at: '2026-10-28'
 commit_history:
-  2025-08: 207
-  2025-09: 178
-  2025-10: 200
   2025-11: 162
   2025-12: 126
   2026-01: 163
@@ -26,4 +24,7 @@ commit_history:
   2026-04: 155
   2026-05: 253
   2026-06: 195
-  2026-07: 51
+  2026-07: 197
+  2026-08: 162
+  2026-09: 187
+  2026-10: 134

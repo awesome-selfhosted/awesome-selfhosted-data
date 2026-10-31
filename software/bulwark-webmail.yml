@@ -1,0 +1,16 @@
+name: "Bulwark Webmail"
+website_url: "https://bulwarkmail.org/"
+source_code_url: "https://github.com/bulwarkmail/webmail"
+description: "Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Communication - Email - Webmail Clients
+  - Calendar & Contacts
+  - File Transfer - Web-based File Managers
+depends_3rdparty: false
+demo_url: "https://demo.bulwarkmail.org/"
+icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bulwark.webp"

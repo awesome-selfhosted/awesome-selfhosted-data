@@ -1,0 +1,19 @@
+name: "Thrive"
+website_url: "https://get-thriving.com"
+source_code_url: "https://github.com/get-thriving/thrive"
+description: "Thrive is a tool for life planning. It provides goals management, task tracking, habit building, chores management, lists, metrics, a personal relationship manager, and much more. All in a single app, in the cloud, or self-hosted."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Nodejs
+  - Docker
+tags:
+  - Calendar & Contacts
+  - Booking and Scheduling
+  - Customer Relationship Management (CRM)
+  - Knowledge Management Tools
+  - Note-taking & Editors
+  - Task Management & To-do Lists
+  - Time Tracking
+depends_3rdparty: false

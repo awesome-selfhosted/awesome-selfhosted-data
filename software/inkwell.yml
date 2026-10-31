@@ -1,10 +1,7 @@
-### `software/inkwell.yml`
-```yaml
-# https://github.com/awesome-selfhosted/awesome-selfhosted-data
-name: "Inkwell"
-website_url: "https://www.useinkwell.app"
-source_code_url: "https://github.com/marutisoftwaresolutions/inkwell"
-description: "Multi-tenant, themeable blogging platform for writers who value typography and content ownership. Ships as a single .NET binary with no telemetry and no plugin marketplace, with PostgreSQL, SQLite, or SQL Server."
+name: Inkwell
+website_url: https://www.useinkwell.app
+source_code_url: https://github.com/marutisoftwaresolutions/inkwell
+description: Blogging platform with a visual or Markdown editor, comments, newsletter, built-in analytics, an IP firewall, and WordPress/Ghost import and export.
 licenses:
   - MIT
 platforms:
@@ -12,13 +9,4 @@ platforms:
   - Docker
 tags:
   - Blogging Platforms
-```
-
-> **Schema gotchas the linter enforces:** `description` ≤ 250 chars, ends with a period,
-> and must **not** begin with the project name or with "A/An/The". `licenses` must match an
-> entry in `licenses.yml` (MIT does). `tags` must match `tags.yml` exactly — "Blogging
-> Platforms" is the correct existing tag. `platforms` must match `platforms.yml` ("C#",
-> "Docker" exist; do not invent ".NET"). If `make` flags the project as too new, add a few
-> more commits / a release tag first and resubmit — maintainers favour maintained projects.
-
----
+icon_url: https://www.useinkwell.app/logo.png

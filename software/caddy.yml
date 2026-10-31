@@ -1,7 +1,7 @@
 name: Caddy
 website_url: https://caddyserver.com/
 source_code_url: https://github.com/caddyserver/caddy
-description: Powerful, enterprise-ready, open source web server with automatic HTTPS.
+description: Powerful, enterprise-ready web server with automatic HTTPS.
 licenses:
   - Apache-2.0
 platforms:

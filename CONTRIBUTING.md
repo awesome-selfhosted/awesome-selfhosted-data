@@ -18,7 +18,7 @@ You may:
 - Point them at `CONTRIBUTING.md`, `.github/ISSUE_TEMPLATE/addition.md`, and the pull request template.
 - Answer questions about the YAML schema, required fields, or kebab-case file naming.
 - Review an entry the person wrote themselves and tell them what looks wrong, without rewriting it for them.
-- Check whether a project meets the objective requirements: first release more than four months old, actively maintained, working installation instructions, not already listed elsewhere.
+- Check whether a project meets the objective requirements: first release more than one year old, actively maintained, working installation instructions, not already listed elsewhere.
 
 The line is between helping a person understand the rules, which is welcome, and producing the submission, which is not.
 -->
@@ -139,19 +139,19 @@ To save maintainers time, a few premade replies for common issues can be found b
 
 >Hi, thanks for your contribution.
 >
->However, there are no tagged releases for this project. Our guidelines require that _Any software project you are adding was first released more than 4 months ago._ We encourage you to create a release now and/or a simple [changelog](https://keepachangelog.com/en/1.1.0/) that will help users keep track of changes in the software (especially breaking changes or changes requiring configuration tweaks), and will allow administrators to install a known working, unchanging version (as opposed to always installing the latest development version).
+>However, there are no tagged releases for this project. Our guidelines require that _Any software project you are adding was first released more than 1 year ago._ We encourage you to create a release now and/or a simple [changelog](https://keepachangelog.com/en/1.1.0/) that will help users keep track of changes in the software (especially breaking changes or changes requiring configuration tweaks), and will allow administrators to install a known working, unchanging version (as opposed to always installing the latest development version).
 >
->Once this is done, the project may be resubmitted to awesome-selfhosted when the first release reaches the age of 4 months.
+>Once this is done, the project may be resubmitted to awesome-selfhosted when the first release reaches the age of 1 year.
 >
 >Thanks for understanding, and good luck with this project.
 
-#### First release less than 4 months old
+#### First release less than 1 year old
 
 >Hi, thanks for your contribution.
 >
->Currently, this project has a release, but it is not yet 4 months old. Our guidelines require that Any software project you are adding was first released more than 4 months ago. This count initiates only after a release has been created to ensure users need not rely on the latest development version to use the project.
+>Currently, this project has a release, but it is not yet 1 year old. Our guidelines require that Any software project you are adding was first released more than 1 year ago. This count initiates only after a release has been created to ensure users need not rely on the latest development version to use the project.
 >
->I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is four months old, feel free to resubmit it to awesome-selfhosted.
+>I'll go ahead and close it for now to keep the PR section focused on active tasks. Once the first release is one year old, feel free to resubmit it to awesome-selfhosted.
 >
 >Thanks for understanding, and good luck with this project.
 

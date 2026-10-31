@@ -1,0 +1,14 @@
+name: "Pug"
+website_url: "https://pug.sh"
+source_code_url: "https://github.com/pug-sh/pug"
+description: "Privacy first product analytics."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Analytics
+demo_url: "https://demo.pug.sh"
+related_software_url: "https://docs.pug.sh/sdks"
+icon_url: "https://pug.sh/logo.svg"

@@ -1,0 +1,11 @@
+name: Blik
+website_url: https://blik360.com/
+source_code_url: https://github.com/thijsdezoete/blik
+description: Anonymous 360-degree feedback reviews from peers, managers and direct reports, combined into a simple application.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Human Resources Management (HRM)

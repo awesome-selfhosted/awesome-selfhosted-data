@@ -1,1 +1,11 @@
-
+name: Mietfuchs                                                                                                                                                                                          
+website_url: https://github.com/speedone/mietfuchs                                                                                                                                                       
+source_code_url: https://github.com/speedone/mietfuchs                                                                                                                                                   
+description: Utility cost statements (Nebenkostenabrechnung) for private landlords in Germany, with cost allocation keys, meter readings, heating costs and tax figures for rental income (documentation in German).                                                                                                                                                                                              
+licenses:                                                                                                                                                                                                
+  - AGPL-3.0                                                                                                                                                                                             
+platforms:                                                                                                                                                                                               
+  - Nodejs                                                                                                                                                                                               
+  - Docker                                                                                                                                                                                               
+tags:                                                                                                                                                                                                    
+  - Money, Budgeting & Management

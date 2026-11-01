@@ -10,13 +10,12 @@ tags:
 source_code_url: https://github.com/SolidInvoice/SolidInvoice
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/solid-invoice.webp
 stargazers_count: 979
-updated_at: '2026-10-30'
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: 3.1.2
   published_at: '2026-10-21'
 commit_history:
-  2025-11: 70
   2025-12: 37
   2026-01: 135
   2026-02: 71
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 140
   2026-08: 77
   2026-09: 127
-  2026-10: 304
+  2026-10: 313
+  2026-11: 0

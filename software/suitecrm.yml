@@ -9,14 +9,13 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/SuiteCRM/SuiteCRM
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/suite-crm.webp
-stargazers_count: 5828
+stargazers_count: 5833
 updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v7.15.2
   published_at: '2026-07-31'
 commit_history:
-  2025-11: 51
   2025-12: 62
   2026-01: 0
   2026-02: 10
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 3
   2026-10: 43
+  2026-11: 0

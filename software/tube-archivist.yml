@@ -12,14 +12,13 @@ tags:
 depends_3rdparty: true
 related_software_url: https://docs.tubearchivist.com/faq/#how-do-i-import-my-videos-to-emby-plex-jellyfin-kodi
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tube-archivist.webp
-stargazers_count: 8556
+stargazers_count: 8561
 updated_at: '2026-10-25'
 archived: false
 current_release:
   tag: v0.6.0
   published_at: '2026-10-25'
 commit_history:
-  2025-11: 25
   2025-12: 44
   2026-01: 37
   2026-02: 31
@@ -31,3 +30,4 @@ commit_history:
   2026-08: 22
   2026-09: 0
   2026-10: 38
+  2026-11: 0

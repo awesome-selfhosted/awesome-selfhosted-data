@@ -10,14 +10,13 @@ tags:
   - Games - Administrative Utilities & Control Panels
 related_software_url: https://github.com/Drop-OSS/drop-app
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/drop.webp
-stargazers_count: 763
+stargazers_count: 764
 updated_at: '2026-10-22'
 archived: false
 current_release:
   tag: v0.4.0-test-flatpak-2
   published_at: '2026-10-20'
 commit_history:
-  2025-11: 14
   2025-12: 0
   2026-01: 20
   2026-02: 62
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 12
   2026-09: 7
   2026-10: 8
+  2026-11: 0

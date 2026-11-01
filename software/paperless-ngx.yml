@@ -12,14 +12,13 @@ tags:
 source_code_url: https://github.com/paperless-ngx/paperless-ngx
 demo_url: https://demo.paperless-ngx.com/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/paperless-ngx.webp
-stargazers_count: 47428
+stargazers_count: 47462
 updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v3.4.1
   published_at: '2026-10-31'
 commit_history:
-  2025-11: 89
   2025-12: 66
   2026-01: 145
   2026-02: 144
@@ -30,4 +29,5 @@ commit_history:
   2026-07: 176
   2026-08: 230
   2026-09: 255
-  2026-10: 177
+  2026-10: 181
+  2026-11: 0

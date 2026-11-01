@@ -10,14 +10,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/ghostfolio/ghostfolio
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ghostfolio.webp
-stargazers_count: 9624
+stargazers_count: 9625
 updated_at: '2026-10-31'
 archived: false
 current_release:
-  tag: 3.95.0
+  tag: 3.96.0
   published_at: '2026-10-31'
 commit_history:
-  2025-11: 84
   2025-12: 63
   2026-01: 79
   2026-02: 86
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 246
   2026-08: 246
   2026-09: 153
-  2026-10: 290
+  2026-10: 301
+  2026-11: 0

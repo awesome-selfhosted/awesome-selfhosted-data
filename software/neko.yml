@@ -10,14 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/m1k1o/neko
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/neko.webp
-stargazers_count: 22572
+stargazers_count: 22576
 updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v3.2.0
   published_at: '2026-10-15'
 commit_history:
-  2025-11: 0
   2025-12: 1
   2026-01: 3
   2026-02: 3
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 22
   2026-09: 17
   2026-10: 18
+  2026-11: 0

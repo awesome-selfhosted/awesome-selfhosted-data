@@ -11,14 +11,13 @@ tags:
   - File Transfer - Peer-to-peer Filesharing
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/slskd.webp
-stargazers_count: 4237
+stargazers_count: 4236
 updated_at: '2026-10-25'
 archived: false
 current_release:
   tag: 0.26.2
   published_at: '2026-10-23'
 commit_history:
-  2025-11: 80
   2025-12: 122
   2026-01: 111
   2026-02: 99
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 43
   2026-09: 53
   2026-10: 167
+  2026-11: 0

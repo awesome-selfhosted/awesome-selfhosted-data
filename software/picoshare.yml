@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/mtlynch/picoshare
 related_software_url: https://github.com/mtlynch/picoshare#third-party-clients
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/picoshare.webp
-stargazers_count: 3068
+stargazers_count: 3069
 updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v1.5.4
   published_at: '2026-05-26'
 commit_history:
-  2025-11: 0
   2025-12: 1
   2026-01: 18
   2026-02: 2
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 34
   2026-09: 19
   2026-10: 9
+  2026-11: 0

@@ -10,14 +10,13 @@ tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/posthog.webp
-stargazers_count: 40546
-updated_at: '2026-10-31'
+stargazers_count: 40558
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: desktop-v0.61.898
-  published_at: '2026-10-31'
+  tag: agent-skills-v0.4075.0
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 1106
   2025-12: 1350
   2026-01: 1616
   2026-02: 2149
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 5097
   2026-08: 4814
   2026-09: 6111
-  2026-10: 7412
+  2026-10: 7466
+  2026-11: 1

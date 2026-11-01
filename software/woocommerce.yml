@@ -9,14 +9,13 @@ tags:
   - E-commerce
 source_code_url: https://github.com/woocommerce/woocommerce
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/woocommerce.webp
-stargazers_count: 10574
+stargazers_count: 10573
 updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: nightly
   published_at: '2020-04-28'
 commit_history:
-  2025-11: 171
   2025-12: 198
   2026-01: 231
   2026-02: 183
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 494
   2026-09: 589
   2026-10: 637
+  2026-11: 0

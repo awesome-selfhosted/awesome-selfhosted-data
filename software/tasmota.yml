@@ -10,14 +10,13 @@ platforms:
 tags:
   - Internet of Things (IoT)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tasmota.webp
-stargazers_count: 24949
-updated_at: '2026-10-30'
+stargazers_count: 24951
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v16.0.0
   published_at: '2026-10-16'
 commit_history:
-  2025-11: 63
   2025-12: 76
   2026-01: 72
   2026-02: 68
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 35
   2026-08: 75
   2026-09: 91
-  2026-10: 118
+  2026-10: 119
+  2026-11: 0

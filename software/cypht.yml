@@ -9,14 +9,13 @@ tags:
   - Communication - Email - Webmail Clients
 source_code_url: https://github.com/cypht-org/cypht
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/cypht.webp
-stargazers_count: 1781
+stargazers_count: 1783
 updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: v2.13.0
   published_at: '2026-10-16'
 commit_history:
-  2025-11: 74
   2025-12: 20
   2026-01: 52
   2026-02: 68
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 37
   2026-09: 75
   2026-10: 52
+  2026-11: 0

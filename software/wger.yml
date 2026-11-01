@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/wger-project/wger
 demo_url: https://wger.de/en/dashboard
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wger.webp
-stargazers_count: 7212
+stargazers_count: 7213
 updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: '2.7'
   published_at: '2026-09-03'
 commit_history:
-  2025-11: 37
   2025-12: 62
   2026-01: 81
   2026-02: 76
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 240
   2026-09: 50
   2026-10: 114
+  2026-11: 0

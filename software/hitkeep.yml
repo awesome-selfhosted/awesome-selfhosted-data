@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/HitKeep/hitkeep
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hitkeep.webp
 stargazers_count: 103
-updated_at: '2026-10-28'
+updated_at: '2026-10-31'
 archived: false
 current_release:
-  tag: v2.15.1
-  published_at: '2026-10-28'
+  tag: snapshot-8fc332d01c1c7e5005827fb88c671df9c7244c21
+  published_at: '2026-10-31'
 commit_history:
   2026-02: 92
   2026-03: 137
@@ -25,4 +25,5 @@ commit_history:
   2026-07: 160
   2026-08: 59
   2026-09: 82
-  2026-10: 46
+  2026-10: 47
+  2026-11: 0

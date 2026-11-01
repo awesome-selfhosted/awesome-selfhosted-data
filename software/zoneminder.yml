@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/ZoneMinder/ZoneMinder
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/zoneminder.webp
 stargazers_count: 5973
-updated_at: '2026-10-31'
+updated_at: '2026-11-01'
 archived: false
 current_release:
   tag: 1.38.6
   published_at: '2026-10-05'
 commit_history:
-  2025-11: 77
   2025-12: 155
   2026-01: 483
   2026-02: 494
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 273
   2026-08: 213
   2026-09: 341
-  2026-10: 381
+  2026-10: 440
+  2026-11: 3

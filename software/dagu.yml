@@ -10,14 +10,13 @@ platforms:
 tags:
   - Automation
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/dagu.webp
-stargazers_count: 4509
-updated_at: '2026-10-31'
+stargazers_count: 4518
+updated_at: '2026-11-01'
 archived: false
 current_release:
   tag: v2.24.0
   published_at: '2026-10-27'
 commit_history:
-  2025-11: 43
   2025-12: 72
   2026-01: 71
   2026-02: 97
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 108
   2026-08: 184
   2026-09: 175
-  2026-10: 351
+  2026-10: 362
+  2026-11: 2

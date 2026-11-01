@@ -10,11 +10,10 @@ tags:
 source_code_url: https://github.com/discourse/discourse
 demo_url: https://try.discourse.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/discourse.webp
-stargazers_count: 48040
+stargazers_count: 48042
 updated_at: '2026-10-30'
 archived: false
 commit_history:
-  2025-11: 501
   2025-12: 524
   2026-01: 403
   2026-02: 636
@@ -26,6 +25,7 @@ commit_history:
   2026-08: 583
   2026-09: 820
   2026-10: 712
+  2026-11: 0
 current_release:
   tag: _gh-attach-assets
   published_at: '2026-07-15'

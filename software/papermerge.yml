@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/papermerge/papermerge-core
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/papermerge.webp
 stargazers_count: 550
-updated_at: '2026-10-27'
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: 3.5.3
   published_at: '2025-08-18'
 commit_history:
-  2025-11: 80
   2025-12: 69
   2026-01: 21
   2026-02: 10
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 11
-  2026-10: 37
+  2026-10: 41
+  2026-11: 0

@@ -14,14 +14,13 @@ tags:
 demo_url: https://sync-in.com/docs/demo
 related_software_url: https://github.com/Sync-in/desktop
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/sync-in.webp
-stargazers_count: 1948
+stargazers_count: 1949
 updated_at: '2026-10-31'
 archived: false
 current_release:
-  tag: v2.6.1
-  published_at: '2026-10-25'
+  tag: v2.6.2
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 60
   2025-12: 43
   2026-01: 33
   2026-02: 78
@@ -32,4 +31,5 @@ commit_history:
   2026-07: 39
   2026-08: 85
   2026-09: 101
-  2026-10: 99
+  2026-10: 107
+  2026-11: 0

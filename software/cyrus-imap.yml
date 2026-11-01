@@ -15,7 +15,6 @@ current_release:
   tag: cyrus-imapd-3.8.8
   published_at: '2026-09-09'
 commit_history:
-  2025-11: 189
   2025-12: 139
   2026-01: 168
   2026-02: 158
@@ -27,3 +26,4 @@ commit_history:
   2026-08: 376
   2026-09: 507
   2026-10: 483
+  2026-11: 0

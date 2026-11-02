@@ -1,0 +1,12 @@
+name: "HOPS"
+website_url: "https://weaversgrainthorpe.github.io/HOPS/"
+source_code_url: "https://github.com/weaversgrainthorpe/HOPS"
+description: "Easy, lightweight, drag/drop homepage creator written in Go to discover and organise your home lab's web portals into dashboards, tabs, and folders, with optional monitoring of their availability."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Personal Dashboards
+icon_url: "https://weaversgrainthorpe.github.io/HOPS/favicon.svg"

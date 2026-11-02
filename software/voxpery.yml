@@ -1,0 +1,12 @@
+name: Voxpery
+website_url: https://voxpery.com
+source_code_url: https://github.com/emircanagac/voxpery
+description: Real-time chat, voice, video, and screen-sharing platform with servers, channels, and native desktop clients.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Nodejs
+  - Docker
+tags:
+  - Communication - Custom Communication Systems65747

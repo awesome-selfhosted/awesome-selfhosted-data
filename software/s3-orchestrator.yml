@@ -1,0 +1,15 @@
+name: s3-orchestrator
+website_url: https://s3-orchestrator.munchbox.cc
+source_code_url: https://github.com/afreidah/s3-orchestrator
+description: Storage orchestration layer presenting many cloud providers as a single
+  S3 endpoint, keeping N copies across them with read failover, plus optional per-backend
+  byte, request, ingress and egress limits, zstd compression and envelope encryption.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - deb
+  - K8S
+tags:
+  - File Transfer - Object Storage & File Servers

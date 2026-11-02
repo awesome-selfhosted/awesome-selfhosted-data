@@ -9,12 +9,12 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/heyform/heyform
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/heyform.webp
-stargazers_count: 9057
+stargazers_count: 9059
 updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v3.0.5
-  published_at: '2026-10-24'
+  tag: v3.0.6
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 0
   2026-01: 2
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 40
   2026-09: 14
   2026-10: 114
-  2026-11: 1
+  2026-11: 15

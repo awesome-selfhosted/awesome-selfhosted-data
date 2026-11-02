@@ -10,12 +10,12 @@ tags:
   - Pastebins
 demo_url: https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bytestash.webp
-stargazers_count: 2569
-updated_at: '2026-10-28'
+stargazers_count: 2568
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v1.6.0
-  published_at: '2026-10-16'
+  tag: v1.6.1
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 0
   2026-01: 15
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 13
   2026-09: 7
   2026-10: 15
-  2026-11: 0
+  2026-11: 2

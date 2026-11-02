@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/chartdb/chartdb
 demo_url: https://app.chartdb.io
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/chart-db.webp
-stargazers_count: 23037
-updated_at: '2026-10-31'
+stargazers_count: 23042
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v1.20.1
-  published_at: '2026-04-07'
+  tag: v1.21.0
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 48
   2026-01: 21
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 17
-  2026-11: 0
+  2026-11: 5

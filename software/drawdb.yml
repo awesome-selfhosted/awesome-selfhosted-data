@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/drawdb-io/drawdb
 demo_url: https://www.drawdb.app/editor
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/drawdb.webp
-stargazers_count: 40207
+stargazers_count: 40220
 updated_at: '2026-10-31'
 archived: false
 commit_history:
@@ -19,3 +19,6 @@ commit_history:
   2026-09: 14
   2026-10: 19
   2026-11: 0
+current_release:
+  tag: v1.9.0
+  published_at: '2026-11-01'

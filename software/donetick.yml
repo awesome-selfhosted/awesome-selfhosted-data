@@ -11,12 +11,12 @@ tags:
   - Task Management & To-do Lists
 demo_url: https://app.donetick.com/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/donetick.webp
-stargazers_count: 2697
-updated_at: '2026-10-30'
+stargazers_count: 2703
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v0.1.86-beta.1
-  published_at: '2026-10-30'
+  tag: v0.1.86-beta.2
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 1
   2026-01: 36
@@ -28,5 +28,5 @@ commit_history:
   2026-07: 16
   2026-08: 19
   2026-09: 32
-  2026-10: 83
-  2026-11: 0
+  2026-10: 84
+  2026-11: 1

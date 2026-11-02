@@ -11,8 +11,8 @@ platforms:
 tags:
   - Human Resources Management (HRM)
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/frappe-hr.webp
-stargazers_count: 8996
-updated_at: '2026-10-28'
+stargazers_count: 9004
+updated_at: '2026-11-01'
 archived: false
 current_release:
   tag: v16.53.0
@@ -28,5 +28,5 @@ commit_history:
   2026-07: 202
   2026-08: 124
   2026-09: 170
-  2026-10: 215
-  2026-11: 0
+  2026-10: 227
+  2026-11: 5

@@ -9,12 +9,12 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://demo.econumo.com
-stargazers_count: 120
-updated_at: '2026-10-30'
+stargazers_count: 121
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v1.7.1
-  published_at: '2026-10-28'
+  tag: v1.7.3
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 0
   2026-01: 40
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 64
   2026-09: 42
   2026-10: 111
-  2026-11: 0
+  2026-11: 4

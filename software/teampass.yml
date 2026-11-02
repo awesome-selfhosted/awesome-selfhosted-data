@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/nilsteampassnet/TeamPass
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/teampass.webp
 stargazers_count: 1873
-updated_at: '2026-10-26'
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: 3.2.3.3
-  published_at: '2026-10-26'
+  tag: 3.2.4.0
+  published_at: '2026-11-01'
 commit_history:
   2025-12: 136
   2026-01: 331
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 311
   2026-08: 370
   2026-09: 263
-  2026-10: 332
-  2026-11: 0
+  2026-10: 387
+  2026-11: 18

@@ -1,0 +1,12 @@
+name: Topic Watch
+website_url: https://github.com/0xzerolight/topic_watch
+source_code_url: https://github.com/0xzerolight/topic_watch
+description: News monitor that uses an LLM to only notify on genuinely new information.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Automation
+  - Feed Readers

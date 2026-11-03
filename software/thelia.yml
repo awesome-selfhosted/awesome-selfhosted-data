@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/thelia/thelia
 demo_url: https://demo.thelia.net/
 stargazers_count: 882
-updated_at: '2026-10-30'
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: 3.3.0
-  published_at: '2026-10-29'
+  tag: 3.3.1
+  published_at: '2026-11-02'
 commit_history:
   2025-12: 0
   2026-01: 6
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 260
   2026-09: 170
   2026-10: 910
-  2026-11: 0
+  2026-11: 16

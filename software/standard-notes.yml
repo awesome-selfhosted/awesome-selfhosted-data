@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/standardnotes/app
 demo_url: https://app.standardnotes.com/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/standard-notes.webp
-stargazers_count: 6694
-updated_at: '2026-10-30'
+stargazers_count: 6695
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: '@standardnotes/desktop@3.202.12'
-  published_at: '2026-10-30'
+  tag: '@standardnotes/mobile@3.203.0'
+  published_at: '2026-11-02'
 commit_history:
   2025-12: 9
   2026-01: 18
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 21
   2026-09: 32
   2026-10: 21
-  2026-11: 0
+  2026-11: 2

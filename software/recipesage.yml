@@ -12,11 +12,11 @@ source_code_url: https://github.com/julianpoy/recipesage
 demo_url: https://recipesage.com
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/recipesage.webp
 stargazers_count: 988
-updated_at: '2026-11-01'
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v4.1.1
-  published_at: '2026-10-31'
+  tag: v4.1.2
+  published_at: '2026-11-02'
 commit_history:
   2025-12: 86
   2026-01: 273
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 559
   2026-09: 468
   2026-10: 170
-  2026-11: 1
+  2026-11: 11

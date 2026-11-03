@@ -9,14 +9,14 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/gchq/CyberChef
 demo_url: https://gchq.github.io/CyberChef
-stargazers_count: 36032
-updated_at: '2026-10-03'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cyberchef.webp
+stargazers_count: 36300
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v11.5.0
   published_at: '2026-09-18'
 commit_history:
-  2025-11: 0
   2025-12: 0
   2026-01: 7
   2026-02: 31
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 48
   2026-08: 26
   2026-09: 42
-  2026-10: 6
+  2026-10: 15
+  2026-11: 0

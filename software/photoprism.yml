@@ -1,6 +1,6 @@
 name: PhotoPrism
 website_url: https://photoprism.org
-description: Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures.
+description: Personal photo management powered by Go and Google TensorFlow. Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,14 +10,14 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/photoprism/photoprism
 demo_url: https://demo.photoprism.app/library/browse
-stargazers_count: 40274
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/photoprism.webp
+stargazers_count: 40398
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: 260919-28c46a116
-  published_at: '2026-09-19'
+  tag: 261029-963b58c50
+  published_at: '2026-10-29'
 commit_history:
-  2025-11: 297
   2025-12: 45
   2026-01: 32
   2026-02: 150
@@ -28,4 +28,5 @@ commit_history:
   2026-07: 213
   2026-08: 437
   2026-09: 672
-  2026-10: 225
+  2026-10: 836
+  2026-11: 0

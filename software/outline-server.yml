@@ -1,6 +1,6 @@
 name: Outline Server
 website_url: https://getoutline.org/
-description: A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys.
+description: Proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,14 +9,13 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/OutlineFoundation/outline-server
-stargazers_count: 6257
-updated_at: '2026-05-13'
+stargazers_count: 6252
+updated_at: '2026-10-22'
 archived: false
 current_release:
   tag: server-v1.12.3
   published_at: '2025-02-24'
 commit_history:
-  2025-11: 0
   2025-12: 0
   2026-01: 7
   2026-02: 1
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 0
+  2026-10: 1
+  2026-11: 0

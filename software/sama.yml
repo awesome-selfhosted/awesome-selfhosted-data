@@ -11,14 +11,13 @@ tags:
   - Communication - Custom Communication Systems
 demo_url: https://app.samacloud.io/demo
 related_software_url: https://github.com/SAMA-Communications/sama-client
-stargazers_count: 158
+stargazers_count: 161
 updated_at: '2026-09-10'
 archived: false
 current_release:
   tag: 0.37.2
   published_at: '2026-09-10'
 commit_history:
-  2025-11: 0
   2025-12: 0
   2026-01: 0
   2026-02: 71
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 5
   2026-09: 1
   2026-10: 0
+  2026-11: 0

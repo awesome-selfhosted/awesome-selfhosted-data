@@ -10,14 +10,14 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/home-assistant/core
 demo_url: https://home-assistant.io/demo/
-stargazers_count: 91280
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/home-assistant.webp
+stargazers_count: 91923
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: 2026.10.0b3
-  published_at: '2026-10-06'
+  tag: 2026.11.0b3
+  published_at: '2026-11-02'
 commit_history:
-  2025-11: 1164
   2025-12: 1379
   2026-01: 1024
   2026-02: 1524
@@ -27,5 +27,6 @@ commit_history:
   2026-06: 1773
   2026-07: 1589
   2026-08: 2235
-  2026-09: 1748
-  2026-10: 515
+  2026-09: 1749
+  2026-10: 4555
+  2026-11: 305

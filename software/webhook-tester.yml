@@ -11,14 +11,14 @@ platforms:
   - K8S
 tags:
   - Software Development - Testing
-stargazers_count: 542
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/webhook-tester.webp
+stargazers_count: 552
 updated_at: '2026-05-14'
 archived: false
 current_release:
   tag: v2.3.0
   published_at: '2026-04-13'
 commit_history:
-  2025-11: 16
   2025-12: 3
   2026-01: 0
   2026-02: 7
@@ -30,3 +30,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
+  2026-11: 0

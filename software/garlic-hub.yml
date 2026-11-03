@@ -8,15 +8,17 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 146
-updated_at: '2026-10-02'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/garlic-hub.webp
+stargazers_count: 149
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v1.1.2
-  published_at: '2026-09-02'
+  tag: v1.2.0
+  published_at: '2026-11-02'
 commit_history:
   2026-06: 61
   2026-07: 16
   2026-08: 10
   2026-09: 14
-  2026-10: 5
+  2026-10: 247
+  2026-11: 5

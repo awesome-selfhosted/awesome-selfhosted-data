@@ -10,14 +10,13 @@ tags:
   - Software Development - IDE & Tools
 depends_3rdparty: true
 demo_url: https://livecodes.io
-stargazers_count: 1512
-updated_at: '2026-10-06'
+stargazers_count: 1527
+updated_at: '2026-10-24'
 archived: false
 current_release:
   tag: v49
   published_at: '2026-05-08'
 commit_history:
-  2025-11: 25
   2025-12: 33
   2026-01: 27
   2026-02: 68
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 141
   2026-08: 8
   2026-09: 142
-  2026-10: 57
+  2026-10: 133
+  2026-11: 0

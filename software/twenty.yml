@@ -1,21 +1,20 @@
 name: Twenty
 website_url: https://twenty.com
 source_code_url: https://github.com/twentyhq/twenty
-description: A modern CRM offering the flexibility of open source, advanced features, and a sleek design.
+description: Modern CRM offering flexibility, advanced features, and a sleek design.
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Customer Relationship Management (CRM)
-stargazers_count: 57994
-updated_at: '2026-10-06'
+stargazers_count: 60337
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: twenty/v2.45.0
-  published_at: '2026-10-05'
+  tag: twenty/v2.54.0
+  published_at: '2026-10-30'
 commit_history:
-  2025-11: 440
   2025-12: 466
   2026-01: 512
   2026-02: 503
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 833
   2026-08: 903
   2026-09: 1145
-  2026-10: 271
+  2026-10: 1597
+  2026-11: 52

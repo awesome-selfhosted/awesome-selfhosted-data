@@ -1,6 +1,6 @@
 name: Blinko
 website_url: https://blinko.space/
-description: A personal note tool with AI features.
+description: Personal note tool with AI features.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,14 +8,14 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/blinkospace/blinko
-stargazers_count: 11063
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/blinko.webp
+stargazers_count: 11155
 updated_at: '2026-08-27'
 archived: false
 current_release:
   tag: 1.8.8
   published_at: '2026-06-20'
 commit_history:
-  2025-11: 13
   2025-12: 45
   2026-01: 41
   2026-02: 10
@@ -27,3 +27,4 @@ commit_history:
   2026-08: 11
   2026-09: 0
   2026-10: 0
+  2026-11: 0

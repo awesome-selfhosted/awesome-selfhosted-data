@@ -8,14 +8,13 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/Start9Labs/start-technologies
-stargazers_count: 1987
-updated_at: '2026-10-06'
+stargazers_count: 1995
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: start-sdk/v3.0.3
-  published_at: '2026-10-06'
+  tag: start-os/v0.4.1.1
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 0
   2025-12: 0
   2026-01: 0
   2026-02: 12
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 297
   2026-08: 153
   2026-09: 177
-  2026-10: 22
+  2026-10: 291
+  2026-11: 10

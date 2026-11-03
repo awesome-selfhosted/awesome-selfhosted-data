@@ -9,14 +9,14 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/healthchecks/healthchecks
-stargazers_count: 10386
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/healthchecks.webp
+stargazers_count: 10493
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v4.4
-  published_at: '2026-08-31'
+  tag: v5.0.3
+  published_at: '2026-10-27'
 commit_history:
-  2025-11: 31
   2025-12: 52
   2026-01: 28
   2026-02: 12
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 52
   2026-08: 51
   2026-09: 15
-  2026-10: 13
+  2026-10: 55
+  2026-11: 4

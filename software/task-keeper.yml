@@ -1,6 +1,6 @@
 name: Task Keeper
 website_url: https://github.com/nymanjens/piga
-description: List editor for power users, backed by a self-hosted server.
+description: List editor for power users, backed by a server.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,14 +8,13 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/nymanjens/piga
-stargazers_count: 110
-updated_at: '2026-10-03'
+stargazers_count: 114
+updated_at: '2026-10-25'
 archived: false
 current_release:
-  tag: v3.111
-  published_at: '2026-10-03'
+  tag: v3.112
+  published_at: '2026-10-19'
 commit_history:
-  2025-11: 0
   2025-12: 4
   2026-01: 7
   2026-02: 0
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 67
   2026-08: 4
   2026-09: 8
-  2026-10: 9
+  2026-10: 13
+  2026-11: 0

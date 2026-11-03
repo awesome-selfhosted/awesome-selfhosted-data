@@ -9,11 +9,11 @@ tags:
   - Ticketing
 source_code_url: https://github.com/mantisbt/mantisbt
 demo_url: https://www.mantisbt.org/bugs/my_view_page.php
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mantisbt.webp
 stargazers_count: 1809
-updated_at: '2026-10-05'
+updated_at: '2026-11-02'
 archived: false
 commit_history:
-  2025-11: 39
   2025-12: 29
   2026-01: 24
   2026-02: 32
@@ -24,4 +24,5 @@ commit_history:
   2026-07: 66
   2026-08: 152
   2026-09: 76
-  2026-10: 7
+  2026-10: 23
+  2026-11: 2

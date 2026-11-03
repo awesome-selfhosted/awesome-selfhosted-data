@@ -8,14 +8,14 @@ platforms:
 tags:
   - Wikis
 source_code_url: https://github.com/dokuwiki/dokuwiki
-stargazers_count: 4726
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dokuwiki.webp
+stargazers_count: 4734
 updated_at: '2026-09-29'
 archived: false
 current_release:
   tag: release-2026-07-14c
   published_at: '2026-09-02'
 commit_history:
-  2025-11: 14
   2025-12: 14
   2026-01: 1
   2026-02: 2
@@ -27,3 +27,4 @@ commit_history:
   2026-08: 31
   2026-09: 18
   2026-10: 0
+  2026-11: 0

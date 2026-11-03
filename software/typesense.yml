@@ -1,6 +1,6 @@
 name: Typesense
 website_url: https://typesense.org
-description: Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use.
+description: Blazing fast, typo-tolerant search engine optimized for developer happiness and ease of use.
 licenses:
   - GPL-3.0
 platforms:
@@ -11,14 +11,14 @@ platforms:
 tags:
   - Search Engines
 source_code_url: https://github.com/typesense/typesense
-stargazers_count: 26635
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typesense.webp
+stargazers_count: 27076
+updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: v30.2
   published_at: '2026-04-19'
 commit_history:
-  2025-11: 14
   2025-12: 18
   2026-01: 12
   2026-02: 28
@@ -29,4 +29,5 @@ commit_history:
   2026-07: 14
   2026-08: 4
   2026-09: 13
-  2026-10: 4
+  2026-10: 87
+  2026-11: 0

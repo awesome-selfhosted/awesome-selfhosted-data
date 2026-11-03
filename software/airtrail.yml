@@ -9,14 +9,14 @@ platforms:
   - Nodejs
 tags:
   - Maps and Global Positioning System (GPS)
-stargazers_count: 1623
-updated_at: '2026-09-26'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/air-trail.webp
+stargazers_count: 1694
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v3.13.0
-  published_at: '2026-09-26'
+  tag: v3.14.0
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 21
   2025-12: 2
   2026-01: 66
   2026-02: 31
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 19
   2026-08: 20
   2026-09: 19
-  2026-10: 0
+  2026-10: 23
+  2026-11: 12

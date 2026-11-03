@@ -8,11 +8,11 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/WordPress/WordPress
-stargazers_count: 21455
-updated_at: '2026-10-07'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wordpress.webp
+stargazers_count: 21523
+updated_at: '2026-11-03'
 archived: false
 commit_history:
-  2025-11: 148
   2025-12: 73
   2026-01: 125
   2026-02: 198
@@ -23,4 +23,5 @@ commit_history:
   2026-07: 288
   2026-08: 209
   2026-09: 385
-  2026-10: 102
+  2026-10: 925
+  2026-11: 59

@@ -9,14 +9,14 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 746
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/jelu.webp
+stargazers_count: 752
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: v0.88.1
-  published_at: '2026-10-05'
+  tag: v0.88.4
+  published_at: '2026-10-30'
 commit_history:
-  2025-11: 0
   2025-12: 23
   2026-01: 6
   2026-02: 4
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 9
   2026-08: 8
   2026-09: 21
-  2026-10: 9
+  2026-10: 18
+  2026-11: 0

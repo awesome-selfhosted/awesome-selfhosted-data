@@ -8,14 +8,14 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-stargazers_count: 535
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/openreader.webp
+stargazers_count: 554
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v5.1.0
-  published_at: '2026-09-30'
+  tag: v5.4.1
+  published_at: '2026-10-30'
 commit_history:
-  2025-11: 47
   2025-12: 1
   2026-01: 36
   2026-02: 63
@@ -26,4 +26,5 @@ commit_history:
   2026-07: 8
   2026-08: 0
   2026-09: 46
-  2026-10: 7
+  2026-10: 86
+  2026-11: 1

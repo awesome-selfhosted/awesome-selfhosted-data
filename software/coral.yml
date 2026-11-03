@@ -1,6 +1,6 @@
 name: Coral
 website_url: https://coralproject.net/
-description: A better commenting experience from Vox Media.
+description: Better commenting experience from Vox Media.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,14 +9,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/coralproject/talk
-stargazers_count: 1999
+stargazers_count: 2006
 updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: v9.11.8
   published_at: '2026-07-07'
 commit_history:
-  2025-11: 26
   2025-12: 22
   2026-01: 9
   2026-02: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
+  2026-11: 0

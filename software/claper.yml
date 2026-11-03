@@ -1,6 +1,6 @@
 name: Claper
 website_url: https://claper.co/
-description: The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter).
+description: Add Q&A, polls, quizzes, forms, live captions and reactions to your slides (alternative to Slido, AhaSlides and Mentimeter).
 licenses:
   - GPL-3.0
 platforms:
@@ -9,14 +9,13 @@ platforms:
 tags:
   - Polls and Events
 source_code_url: https://github.com/ClaperCo/Claper
-stargazers_count: 810
-updated_at: '2026-10-01'
+stargazers_count: 822
+updated_at: '2026-10-29'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-10-02'
+  tag: v3.2.0
+  published_at: '2026-10-27'
 commit_history:
-  2025-11: 4
   2025-12: 7
   2026-01: 3
   2026-02: 6
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 16
   2026-08: 25
   2026-09: 11
-  2026-10: 3
+  2026-10: 55
+  2026-11: 0

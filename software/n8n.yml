@@ -9,14 +9,14 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/n8n-io/n8n
-stargazers_count: 206784
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp
+stargazers_count: 209412
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: n8n@2.43.0
-  published_at: '2026-10-06'
+  tag: n8n@1.123.92
+  published_at: '2026-11-02'
 commit_history:
-  2025-11: 385
   2025-12: 497
   2026-01: 531
   2026-02: 527
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 1150
   2026-08: 1116
   2026-09: 1437
-  2026-10: 252
+  2026-10: 1679
+  2026-11: 92

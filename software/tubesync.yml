@@ -10,14 +10,14 @@ tags:
   - Media Management
 source_code_url: https://github.com/meeb/tubesync
 depends_3rdparty: true
-stargazers_count: 2800
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tubesync.webp
+stargazers_count: 2808
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v0.18.4
-  published_at: '2026-09-04'
+  tag: v0.18.5
+  published_at: '2026-10-08'
 commit_history:
-  2025-11: 70
   2025-12: 30
   2026-01: 31
   2026-02: 62
@@ -28,4 +28,5 @@ commit_history:
   2026-07: 13
   2026-08: 139
   2026-09: 221
-  2026-10: 14
+  2026-10: 72
+  2026-11: 5

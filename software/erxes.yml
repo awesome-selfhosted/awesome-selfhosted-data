@@ -10,14 +10,13 @@ platforms:
 tags:
   - Ticketing
 source_code_url: https://github.com/erxes/erxes
-stargazers_count: 4095
-updated_at: '2026-10-07'
+stargazers_count: 4108
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: 3.2.14
-  published_at: '2026-10-06'
+  tag: loyalty_api@1.0.1
+  published_at: '2026-11-02'
 commit_history:
-  2025-11: 209
   2025-12: 94
   2026-01: 162
   2026-02: 115
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 239
   2026-08: 249
   2026-09: 286
-  2026-10: 72
+  2026-10: 334
+  2026-11: 47

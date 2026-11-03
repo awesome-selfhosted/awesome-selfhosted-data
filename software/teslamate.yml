@@ -1,6 +1,6 @@
 name: TeslaMate
 website_url: https://github.com/teslamate-org/teslamate
-description: A powerful data logger for Tesla vehicles.
+description: Powerful data logger for Tesla vehicles.
 licenses:
   - MIT
 platforms:
@@ -9,14 +9,14 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/teslamate-org/teslamate
-stargazers_count: 9088
-updated_at: '2026-10-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/teslamate.webp
+stargazers_count: 9226
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v4.3.0
-  published_at: '2026-09-29'
+  tag: v4.4.0
+  published_at: '2026-10-23'
 commit_history:
-  2025-11: 18
   2025-12: 17
   2026-01: 17
   2026-02: 37
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 79
   2026-08: 70
   2026-09: 121
-  2026-10: 27
+  2026-10: 99
+  2026-11: 1

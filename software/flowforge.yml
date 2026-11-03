@@ -11,13 +11,12 @@ tags:
   - Internet of Things (IoT)
 source_code_url: https://github.com/FlowFuse/flowfuse
 stargazers_count: 400
-updated_at: '2026-10-06'
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v3.1.0
-  published_at: '2026-09-24'
+  tag: v3.2.0
+  published_at: '2026-10-22'
 commit_history:
-  2025-11: 495
   2025-12: 382
   2026-01: 282
   2026-02: 267
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 181
   2026-08: 170
   2026-09: 160
-  2026-10: 45
+  2026-10: 203
+  2026-11: 9

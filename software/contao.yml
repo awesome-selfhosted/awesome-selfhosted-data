@@ -9,11 +9,11 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/contao/contao/
 demo_url: https://demo.contao.org/contao
-stargazers_count: 442
-updated_at: '2026-10-03'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/contao.webp
+stargazers_count: 449
+updated_at: '2026-11-02'
 archived: false
 commit_history:
-  2025-11: 104
   2025-12: 128
   2026-01: 118
   2026-02: 226
@@ -24,4 +24,5 @@ commit_history:
   2026-07: 155
   2026-08: 101
   2026-09: 231
-  2026-10: 27
+  2026-10: 155
+  2026-11: 1

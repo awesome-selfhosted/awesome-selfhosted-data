@@ -1,6 +1,6 @@
 name: Drupal
 website_url: https://www.drupal.org/
-description: Advanced open source content management platform.
+description: Advanced content management platform.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,3 +8,4 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://git.drupalcode.org/project/drupal
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/drupal.webp

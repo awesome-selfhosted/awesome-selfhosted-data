@@ -9,14 +9,14 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/mainsail-crew/mainsail
-stargazers_count: 2220
-updated_at: '2026-10-04'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mainsail.webp
+stargazers_count: 2243
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v2.19.0
   published_at: '2026-08-27'
 commit_history:
-  2025-11: 28
   2025-12: 63
   2026-01: 37
   2026-02: 14
@@ -27,4 +27,5 @@ commit_history:
   2026-07: 32
   2026-08: 33
   2026-09: 18
-  2026-10: 6
+  2026-10: 29
+  2026-11: 0

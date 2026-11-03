@@ -9,14 +9,16 @@ platforms:
   - Docker
 tags:
   - Customer Relationship Management (CRM)
-stargazers_count: 1755
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/relaticle.webp
+stargazers_count: 1803
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v3.6.2
-  published_at: '2026-10-05'
+  tag: v3.8.0
+  published_at: '2026-10-31'
 commit_history:
   2026-07: 18
   2026-08: 349
   2026-09: 832
-  2026-10: 750
+  2026-10: 1595
+  2026-11: 34

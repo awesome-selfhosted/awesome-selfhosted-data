@@ -1,6 +1,6 @@
 name: Budibase
 website_url: https://www.budibase.com
-description: Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix, Appian).
+description: Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes (alternative to Outsystems, Retool, Mendix).
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -10,14 +10,14 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/Budibase/budibase
-stargazers_count: 28328
-updated_at: '2026-10-06'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/budibase.webp
+stargazers_count: 28378
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v3.49.0-cloud.1
-  published_at: '2026-10-05'
+  tag: v3.51.0-cloud.8
+  published_at: '2026-11-02'
 commit_history:
-  2025-11: 869
   2025-12: 841
   2026-01: 1343
   2026-02: 1668
@@ -26,6 +26,7 @@ commit_history:
   2026-05: 1126
   2026-06: 1495
   2026-07: 985
-  2026-08: 881
-  2026-09: 687
-  2026-10: 45
+  2026-08: 891
+  2026-09: 841
+  2026-10: 923
+  2026-11: 12

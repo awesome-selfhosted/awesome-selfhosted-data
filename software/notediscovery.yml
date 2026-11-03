@@ -11,13 +11,15 @@ tags:
   - Note-taking & Editors
   - Knowledge Management Tools
 demo_url: https://gamosoft-notediscovery-demo.hf.space
-stargazers_count: 2824
-updated_at: '2026-09-28'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/notediscovery.webp
+stargazers_count: 2867
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v0.31.7
-  published_at: '2026-09-28'
+  tag: v0.34.0
+  published_at: '2026-11-02'
 commit_history:
   2026-08: 56
   2026-09: 11
-  2026-10: 0
+  2026-10: 28
+  2026-11: 2

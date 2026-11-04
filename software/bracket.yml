@@ -11,8 +11,8 @@ platforms:
 tags:
   - Polls and Events
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bracket.webp
-stargazers_count: 1753
-updated_at: '2026-11-02'
+stargazers_count: 1752
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: v3.0.0-rc1
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 47
   2026-09: 51
   2026-10: 50
-  2026-11: 2
+  2026-11: 11

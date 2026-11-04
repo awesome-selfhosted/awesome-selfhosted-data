@@ -14,11 +14,11 @@ tags:
   - URL Shorteners
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/snowshare.webp
 stargazers_count: 91
-updated_at: '2026-11-02'
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v1.5.7
-  published_at: '2026-10-16'
+  tag: v1.5.8
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 121
   2026-06: 65
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 22
   2026-09: 34
   2026-10: 16
-  2026-11: 3
+  2026-11: 7

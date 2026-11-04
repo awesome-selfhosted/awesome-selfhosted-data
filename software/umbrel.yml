@@ -10,12 +10,12 @@ tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/getumbrel/umbrel
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/umbrel.webp
-stargazers_count: 12513
-updated_at: '2026-11-01'
+stargazers_count: 12518
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: 2.0.1
-  published_at: '2026-11-01'
+  tag: 2.1.0-beta.1
+  published_at: '2026-11-03'
 commit_history:
   2025-12: 5
   2026-01: 96
@@ -26,6 +26,6 @@ commit_history:
   2026-06: 0
   2026-07: 3
   2026-08: 0
-  2026-09: 261
-  2026-10: 0
-  2026-11: 1
+  2026-09: 288
+  2026-10: 86
+  2026-11: 51

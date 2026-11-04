@@ -11,7 +11,7 @@ source_code_url: https://github.com/bludit/bludit
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bludit.webp
 stargazers_count: 1473
-updated_at: '2026-11-02'
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: 3.22.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 7
   2026-09: 2
   2026-10: 61
-  2026-11: 32
+  2026-11: 35

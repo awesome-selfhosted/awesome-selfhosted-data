@@ -10,12 +10,12 @@ tags:
   - Remote Access
 source_code_url: https://github.com/warp-tech/warpgate
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/warpgate.webp
-stargazers_count: 8190
-updated_at: '2026-11-02'
+stargazers_count: 8197
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v0.30.3
-  published_at: '2026-11-02'
+  tag: v0.30.4
+  published_at: '2026-11-03'
 commit_history:
   2025-12: 23
   2026-01: 57
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 170
   2026-09: 73
   2026-10: 168
-  2026-11: 10
+  2026-11: 23

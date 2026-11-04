@@ -8,8 +8,8 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/ckan/ckan
-stargazers_count: 5151
-updated_at: '2026-10-30'
+stargazers_count: 5150
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: ckan-2.12.1
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 99
   2026-09: 45
   2026-10: 95
-  2026-11: 0
+  2026-11: 2

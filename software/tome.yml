@@ -10,8 +10,8 @@ tags:
   - Document Management - E-books
 related_software_url: https://github.com/bndct-devops/tome/blob/main/docs/koreader-plugin.md
 icon_url: https://raw.githubusercontent.com/bndct-devops/tome/main/frontend/public/pwa-512x512.png
-stargazers_count: 109
-updated_at: '2026-11-01'
+stargazers_count: 110
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: v2.8.0
@@ -19,4 +19,4 @@ current_release:
 commit_history:
   2026-09: 25
   2026-10: 45
-  2026-11: 3
+  2026-11: 4

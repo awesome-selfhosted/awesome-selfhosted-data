@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/bagisto/bagisto
 demo_url: https://demo.bagisto.com/
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bagisto.webp
-stargazers_count: 28325
-updated_at: '2026-11-02'
+stargazers_count: 28327
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v2.5.0
-  published_at: '2026-10-06'
+  tag: v2.4.14
+  published_at: '2026-11-03'
 commit_history:
   2025-12: 86
   2026-01: 206
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 212
   2026-09: 195
   2026-10: 198
-  2026-11: 12
+  2026-11: 29

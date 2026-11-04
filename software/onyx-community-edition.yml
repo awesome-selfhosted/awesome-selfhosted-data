@@ -9,12 +9,12 @@ platforms:
   - K8S
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 33170
-updated_at: '2026-11-02'
+stargazers_count: 33193
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v4.9.7
-  published_at: '2026-11-02'
+  tag: helm/onyx-0.9.31
+  published_at: '2026-11-03'
 commit_history:
   2025-12: 478
   2026-01: 546
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 442
   2026-09: 481
   2026-10: 949
-  2026-11: 20
+  2026-11: 60

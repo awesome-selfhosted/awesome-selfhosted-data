@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/cloudreve/cloudreve
 demo_url: https://demo.cloudreve.org
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cloudreve.webp
-stargazers_count: 28894
+stargazers_count: 28933
 updated_at: '2026-09-21'
 archived: false
 current_release:
   tag: 4.19.1
   published_at: '2026-09-18'
 commit_history:
-  2025-11: 5
   2025-12: 5
   2026-01: 23
   2026-02: 19
@@ -30,3 +29,4 @@ commit_history:
   2026-08: 1
   2026-09: 8
   2026-10: 0
+  2026-11: 0

@@ -10,14 +10,13 @@ tags:
   - Note-taking & Editors
 source_code_url: https://github.com/livebook-dev/livebook
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/livebook.webp
-stargazers_count: 5897
+stargazers_count: 5907
 updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: nightly
   published_at: '2024-10-25'
 commit_history:
-  2025-11: 24
   2025-12: 9
   2026-01: 21
   2026-02: 26
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 14
   2026-09: 3
   2026-10: 18
+  2026-11: 0

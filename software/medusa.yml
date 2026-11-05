@@ -10,14 +10,13 @@ tags:
 source_code_url: https://github.com/pymedusa/Medusa
 related_software_url: https://github.com/medusajs/nextjs-starter-medusa
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/medusa.webp
-stargazers_count: 1994
+stargazers_count: 1992
 updated_at: '2026-10-18'
 archived: false
 current_release:
   tag: v1.0.27
   published_at: '2026-10-18'
 commit_history:
-  2025-11: 8
   2025-12: 0
   2026-01: 0
   2026-02: 0
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 32
   2026-09: 6
   2026-10: 9
+  2026-11: 0

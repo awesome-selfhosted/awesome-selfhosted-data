@@ -10,14 +10,13 @@ tags:
   - Inventory Management
 source_code_url: https://github.com/bigcapitalhq/bigcapital
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bigcapital.webp
-stargazers_count: 3969
-updated_at: '2026-10-27'
+stargazers_count: 4060
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: v0.25.45
   published_at: '2026-10-23'
 commit_history:
-  2025-11: 44
   2025-12: 43
   2026-01: 67
   2026-02: 92
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 54
   2026-08: 251
   2026-09: 185
-  2026-10: 117
+  2026-10: 135
+  2026-11: 14

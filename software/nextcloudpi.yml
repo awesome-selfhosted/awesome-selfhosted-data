@@ -10,14 +10,13 @@ tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/nextcloud/nextcloudpi
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nextcloudpi.webp
-stargazers_count: 2949
+stargazers_count: 2954
 updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v1.58.0
   published_at: '2026-08-14'
 commit_history:
-  2025-11: 23
   2025-12: 0
   2026-01: 0
   2026-02: 0
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
+  2026-11: 0

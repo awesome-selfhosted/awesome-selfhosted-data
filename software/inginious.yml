@@ -11,13 +11,12 @@ tags:
   - Learning and Courses
 related_software_url: https://github.com/INGInious/plugins
 stargazers_count: 243
-updated_at: '2026-10-22'
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v0.10.0rc1
-  published_at: '2026-08-24'
+  tag: v0.10.0
+  published_at: '2026-10-30'
 commit_history:
-  2025-11: 39
   2025-12: 16
   2026-01: 15
   2026-02: 2
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 14
   2026-08: 72
   2026-09: 25
-  2026-10: 25
+  2026-10: 39
+  2026-11: 7

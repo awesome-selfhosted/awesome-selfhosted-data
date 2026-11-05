@@ -9,16 +9,17 @@ platforms:
 tags:
   - Money, Budgeting & Management
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/budget-board.webp
-stargazers_count: 892
-updated_at: '2026-10-26'
+stargazers_count: 896
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v3.8.2
-  published_at: '2026-09-26'
+  tag: v3.9.0
+  published_at: '2026-10-31'
 commit_history:
   2026-05: 24
   2026-06: 38
   2026-07: 23
   2026-08: 39
   2026-09: 22
-  2026-10: 36
+  2026-10: 40
+  2026-11: 1

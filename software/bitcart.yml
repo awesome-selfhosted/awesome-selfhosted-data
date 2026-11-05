@@ -11,14 +11,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/bitcart/bitcart
 demo_url: https://admin.bitcart.ai
-stargazers_count: 997
-updated_at: '2026-10-26'
+stargazers_count: 1004
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: 0.11.0.1
   published_at: '2026-10-26'
 commit_history:
-  2025-11: 14
   2025-12: 3
   2026-01: 15
   2026-02: 50
@@ -29,4 +28,5 @@ commit_history:
   2026-07: 0
   2026-08: 4
   2026-09: 6
-  2026-10: 21
+  2026-10: 25
+  2026-11: 15

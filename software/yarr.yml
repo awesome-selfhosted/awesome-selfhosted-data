@@ -1,6 +1,6 @@
 name: Yarr
 website_url: https://github.com/nkanaev/yarr
-description: Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server.
+description: Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and as a personal server.
 licenses:
   - MIT
 platforms:
@@ -9,14 +9,13 @@ tags:
   - Feed Readers
 source_code_url: https://github.com/nkanaev/yarr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/yarr.webp
-stargazers_count: 4079
-updated_at: '2026-10-25'
+stargazers_count: 4085
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: v2.9
   published_at: '2026-09-07'
 commit_history:
-  2025-11: 3
   2025-12: 3
   2026-01: 2
   2026-02: 0
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 141
   2026-08: 29
   2026-09: 48
-  2026-10: 25
+  2026-10: 62
+  2026-11: 12

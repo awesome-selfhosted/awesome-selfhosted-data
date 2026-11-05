@@ -1,6 +1,6 @@
 name: Alfresco Community Edition
 website_url: https://www.alfresco.com/products/community/download
-description: The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content.
+description: Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content.
 licenses:
   - LGPL-3.0
 platforms:
@@ -8,11 +8,10 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/Alfresco/alfresco-community-repo
-stargazers_count: 240
-updated_at: '2026-10-27'
+stargazers_count: 242
+updated_at: '2026-11-04'
 archived: false
 commit_history:
-  2025-11: 75
   2025-12: 37
   2026-01: 55
   2026-02: 54
@@ -23,4 +22,5 @@ commit_history:
   2026-07: 80
   2026-08: 92
   2026-09: 74
-  2026-10: 78
+  2026-10: 99
+  2026-11: 12

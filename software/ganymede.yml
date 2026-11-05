@@ -10,14 +10,13 @@ tags:
 source_code_url: https://github.com/Zibbp/ganymede
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/ganymede.webp
-stargazers_count: 1018
-updated_at: '2026-10-27'
+stargazers_count: 1024
+updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: v5.0.1
-  published_at: '2026-10-27'
+  tag: v5.0.2
+  published_at: '2026-11-03'
 commit_history:
-  2025-11: 61
   2025-12: 61
   2026-01: 48
   2026-02: 93
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 42
   2026-08: 61
   2026-09: 136
-  2026-10: 93
+  2026-10: 102
+  2026-11: 5

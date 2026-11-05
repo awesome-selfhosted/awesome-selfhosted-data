@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/emqx/emqx
 demo_url: https://www.emqx.com/en/mqtt/public-mqtt5-broker
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/emqx.webp
-stargazers_count: 16863
-updated_at: '2026-10-27'
+stargazers_count: 16884
+updated_at: '2026-11-02'
 archived: false
 current_release:
   tag: 6.3.2
   published_at: '2026-10-16'
 commit_history:
-  2025-11: 357
   2025-12: 248
   2026-01: 438
   2026-02: 679
@@ -29,4 +28,5 @@ commit_history:
   2026-07: 838
   2026-08: 878
   2026-09: 1315
-  2026-10: 863
+  2026-10: 1003
+  2026-11: 1

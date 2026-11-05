@@ -9,14 +9,13 @@ tags:
   - Booking and Scheduling
 source_code_url: https://github.com/alfio-event/alf.io
 demo_url: https://demo.alf.io/authentication
-stargazers_count: 1626
-updated_at: '2026-10-27'
+stargazers_count: 1628
+updated_at: '2026-11-01'
 archived: false
 current_release:
   tag: 2.0-M5-2609
   published_at: '2026-09-18'
 commit_history:
-  2025-11: 0
   2025-12: 2
   2026-01: 10
   2026-02: 4
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 4
   2026-08: 0
   2026-09: 30
-  2026-10: 26
+  2026-10: 32
+  2026-11: 2

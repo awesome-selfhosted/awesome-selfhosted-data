@@ -8,14 +8,13 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/rikhuijzer/bloglite
-stargazers_count: 335
-updated_at: '2026-10-25'
+stargazers_count: 337
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v3.1.0
   published_at: '2026-10-24'
 commit_history:
-  2025-11: 13
   2025-12: 0
   2026-01: 0
   2026-02: 32
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 3
   2026-08: 3
   2026-09: 5
-  2026-10: 38
+  2026-10: 39
+  2026-11: 0

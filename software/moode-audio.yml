@@ -9,14 +9,13 @@ tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/moode-player/moode
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/moode-audio.webp
-stargazers_count: 1444
-updated_at: '2026-10-27'
+stargazers_count: 1452
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: r1036
-  published_at: '2026-10-10'
+  tag: r1037
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 55
   2025-12: 66
   2026-01: 59
   2026-02: 78
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 108
   2026-08: 45
   2026-09: 65
-  2026-10: 101
+  2026-10: 111
+  2026-11: 26

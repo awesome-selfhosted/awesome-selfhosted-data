@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/FreshRSS/FreshRSS
 demo_url: https://demo.freshrss.org/i/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/freshrss.webp
-stargazers_count: 16428
-updated_at: '2026-10-26'
+stargazers_count: 16508
+updated_at: '2026-11-02'
 archived: false
 current_release:
   tag: 1.30.4
   published_at: '2026-10-21'
 commit_history:
-  2025-11: 48
   2025-12: 67
   2026-01: 56
   2026-02: 24
@@ -29,4 +28,5 @@ commit_history:
   2026-07: 99
   2026-08: 52
   2026-09: 66
-  2026-10: 91
+  2026-10: 96
+  2026-11: 11

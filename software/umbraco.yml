@@ -1,6 +1,6 @@
 name: Umbraco
 website_url: https://umbraco.com/
-description: The friendly CMS. Free and open source with an amazing community.
+description: Friendly CMS with an amazing community.
 licenses:
   - MIT
 platforms:
@@ -8,14 +8,13 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/umbraco/Umbraco-CMS
-stargazers_count: 5278
-updated_at: '2026-10-27'
+stargazers_count: 5280
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: release-18.2.2
-  published_at: '2026-10-27'
+  tag: release-18.3.0
+  published_at: '2026-10-29'
 commit_history:
-  2025-11: 173
   2025-12: 173
   2026-01: 181
   2026-02: 147
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 296
   2026-08: 187
   2026-09: 133
-  2026-10: 227
+  2026-10: 252
+  2026-11: 35

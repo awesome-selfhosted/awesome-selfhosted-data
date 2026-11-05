@@ -10,14 +10,13 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/LycheeOrg/Lychee
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/lychee.webp
-stargazers_count: 4315
-updated_at: '2026-10-27'
+stargazers_count: 4329
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v7.12.0
-  published_at: '2026-10-22'
+  tag: v7.12.1
+  published_at: '2026-11-03'
 commit_history:
-  2025-11: 40
   2025-12: 45
   2026-01: 108
   2026-02: 46
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 78
   2026-08: 92
   2026-09: 102
-  2026-10: 86
+  2026-10: 88
+  2026-11: 21

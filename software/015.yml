@@ -1,7 +1,7 @@
 name: '015'
 website_url: https://send.fudaoyuan.icu
 source_code_url: https://github.com/keven1024/015
-description: A temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services.
+description: Temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,14 +9,13 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins
-stargazers_count: 421
-updated_at: '2026-10-14'
+stargazers_count: 424
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: 0.15.0
-  published_at: '2026-10-15'
+  tag: 0.16.0
+  published_at: '2026-11-05'
 commit_history:
-  2025-11: 1
   2025-12: 31
   2026-01: 3
   2026-02: 32
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 2
   2026-09: 58
   2026-10: 48
+  2026-11: 46

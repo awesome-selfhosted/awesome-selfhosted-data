@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/kovidgoyal/calibre
 demo_url: https://calibre-ebook.com/demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/calibre.webp
-stargazers_count: 26263
-updated_at: '2026-10-27'
+stargazers_count: 26351
+updated_at: '2026-11-05'
 archived: false
 current_release:
   tag: v9.17.0
   published_at: '2026-10-23'
 commit_history:
-  2025-11: 117
   2025-12: 291
   2026-01: 406
   2026-02: 151
@@ -29,4 +28,5 @@ commit_history:
   2026-07: 355
   2026-08: 187
   2026-09: 259
-  2026-10: 388
+  2026-10: 510
+  2026-11: 67

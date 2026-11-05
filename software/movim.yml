@@ -10,14 +10,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/movim/movim
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/movim.webp
-stargazers_count: 2067
-updated_at: '2026-10-24'
+stargazers_count: 2071
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v0.35.4
-  published_at: '2026-10-24'
+  tag: v0.35.5
+  published_at: '2026-11-04'
 commit_history:
-  2025-11: 78
   2025-12: 39
   2026-01: 93
   2026-02: 53
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 13
   2026-08: 18
   2026-09: 62
-  2026-10: 58
+  2026-10: 70
+  2026-11: 13

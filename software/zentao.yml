@@ -1,6 +1,6 @@
 name: ZenTao
 website_url: https://www.zentao.pm/
-description: An agile(scrum) project management system/tool.
+description: Agile(scrum) project management system/tool.
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,14 +8,13 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/easysoft/zentaopms
-stargazers_count: 1710
-updated_at: '2026-09-16'
+stargazers_count: 1715
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: zentaopms_22.6_20260917
   published_at: '2026-10-21'
 commit_history:
-  2025-11: 1699
   2025-12: 1752
   2026-01: 567
   2026-02: 361
@@ -25,5 +24,6 @@ commit_history:
   2026-06: 1333
   2026-07: 1146
   2026-08: 994
-  2026-09: 669
-  2026-10: 0
+  2026-09: 1289
+  2026-10: 675
+  2026-11: 57

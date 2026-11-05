@@ -1,6 +1,6 @@
 name: Gitea
 website_url: https://gitea.com
-description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
+description: Git with a cup of tea! Painless all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD.
 licenses:
   - MIT
 platforms:
@@ -12,14 +12,13 @@ tags:
 source_code_url: https://github.com/go-gitea/gitea
 demo_url: https://gitea.com/explore/repos
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gitea.webp
-stargazers_count: 58737
-updated_at: '2026-10-28'
+stargazers_count: 58890
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v28.2.0
-  published_at: '2026-10-18'
+  tag: v28.3.0
+  published_at: '2026-11-01'
 commit_history:
-  2025-11: 68
   2025-12: 102
   2026-01: 95
   2026-02: 134
@@ -30,4 +29,5 @@ commit_history:
   2026-07: 211
   2026-08: 226
   2026-09: 151
-  2026-10: 217
+  2026-10: 266
+  2026-11: 33

@@ -11,11 +11,11 @@ tags:
 related_software_url: https://simpledms.eu/en/product/integrations
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/simpledms.webp
 stargazers_count: 170
-updated_at: '2026-10-26'
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: v1.18.0
-  published_at: '2026-10-01'
+  tag: v1.18.1
+  published_at: '2026-11-03'
 commit_history:
   2026-04: 45
   2026-05: 22
@@ -23,4 +23,5 @@ commit_history:
   2026-07: 6
   2026-08: 47
   2026-09: 36
-  2026-10: 48
+  2026-10: 55
+  2026-11: 0

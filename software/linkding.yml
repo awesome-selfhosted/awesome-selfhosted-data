@@ -10,14 +10,13 @@ tags:
 source_code_url: https://github.com/sissbruecker/linkding
 demo_url: https://demo.linkding.link/login/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkding.webp
-stargazers_count: 11352
+stargazers_count: 11384
 updated_at: '2026-09-13'
 archived: false
 current_release:
   tag: v1.47.0
   published_at: '2026-09-13'
 commit_history:
-  2025-11: 0
   2025-12: 15
   2026-01: 37
   2026-02: 2
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 49
   2026-09: 13
   2026-10: 0
+  2026-11: 0

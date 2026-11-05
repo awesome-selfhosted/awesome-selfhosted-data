@@ -1,7 +1,7 @@
 name: "PieFed"
 website_url: "https://join.piefed.social"
 source_code_url: "https://codeberg.org/rimu/pyfedi"
-description: "A link aggregator / reddit clone for the fediverse (alternative to Reddit)."
+description: "Link aggregator / reddit clone for the fediverse (alternative to Reddit)."
 licenses:
   - AGPL-3.0
 platforms:

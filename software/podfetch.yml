@@ -10,14 +10,13 @@ platforms:
 tags:
   - Media Management
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/podfetch.webp
-stargazers_count: 519
-updated_at: '2026-10-24'
+stargazers_count: 520
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: v5.2.3
   published_at: '2026-08-07'
 commit_history:
-  2025-11: 51
   2025-12: 52
   2026-01: 49
   2026-02: 97
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 59
   2026-08: 34
   2026-09: 17
-  2026-10: 19
+  2026-10: 26
+  2026-11: 5

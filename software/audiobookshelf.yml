@@ -13,14 +13,13 @@ tags:
 source_code_url: https://github.com/advplyr/audiobookshelf
 related_software_url: https://github.com/advplyr/audiobookshelf-app
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/audiobookshelf.webp
-stargazers_count: 14821
-updated_at: '2026-10-23'
+stargazers_count: 14911
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: v2.37.2
   published_at: '2026-10-23'
 commit_history:
-  2025-11: 58
   2025-12: 45
   2026-01: 3
   2026-02: 37
@@ -31,4 +30,5 @@ commit_history:
   2026-07: 79
   2026-08: 37
   2026-09: 80
-  2026-10: 13
+  2026-10: 16
+  2026-11: 7

@@ -10,14 +10,13 @@ tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/apache/answer
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apache-answer.webp
-stargazers_count: 15702
+stargazers_count: 15710
 updated_at: '2026-09-22'
 archived: false
 current_release:
   tag: v2.0.3
   published_at: '2026-10-09'
 commit_history:
-  2025-11: 10
   2025-12: 73
   2026-01: 59
   2026-02: 1
@@ -29,3 +28,4 @@ commit_history:
   2026-08: 24
   2026-09: 16
   2026-10: 0
+  2026-11: 0

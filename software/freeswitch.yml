@@ -1,6 +1,6 @@
 name: FreeSWITCH
 website_url: https://freeswitch.org/
-description: Scalable open source cross-platform telephony platform.
+description: Scalable cross-platform telephony platform.
 licenses:
   - MPL-2.0
 platforms:
@@ -8,14 +8,13 @@ platforms:
 tags:
   - Communication - SIP
 source_code_url: https://github.com/signalwire/freeswitch
-stargazers_count: 5257
-updated_at: '2026-10-27'
+stargazers_count: 5278
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v1.11.3
   published_at: '2026-08-28'
 commit_history:
-  2025-11: 4
   2025-12: 0
   2026-01: 1
   2026-02: 0
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 24
   2026-08: 42
   2026-09: 28
-  2026-10: 6
+  2026-10: 9
+  2026-11: 0

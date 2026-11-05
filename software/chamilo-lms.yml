@@ -8,14 +8,13 @@ platforms:
 tags:
   - Learning and Courses
 source_code_url: https://github.com/chamilo/chamilo-lms
-stargazers_count: 1019
-updated_at: '2026-10-28'
+stargazers_count: 1021
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v3.0.1
-  published_at: '2026-09-19'
+  tag: v3.0.2
+  published_at: '2026-11-03'
 commit_history:
-  2025-11: 298
   2025-12: 466
   2026-01: 412
   2026-02: 385
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 532
   2026-08: 677
   2026-09: 546
-  2026-10: 389
+  2026-10: 480
+  2026-11: 101

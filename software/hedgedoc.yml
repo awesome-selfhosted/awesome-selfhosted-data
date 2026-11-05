@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/hedgedoc/hedgedoc
 demo_url: https://demo.hedgedoc.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hedgedoc.webp
-stargazers_count: 7502
-updated_at: '2026-11-02'
+stargazers_count: 7505
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: 1.12.0
-  published_at: '2026-08-21'
+  tag: 1.12.2
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 135
   2026-01: 75
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 147
   2026-09: 35
   2026-10: 7
-  2026-11: 1
+  2026-11: 2

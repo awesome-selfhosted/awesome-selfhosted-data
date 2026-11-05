@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/ether/etherpad
 demo_url: https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/etherpad.webp
-stargazers_count: 18617
-updated_at: '2026-11-03'
+stargazers_count: 18616
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v3.3.13
-  published_at: '2026-11-02'
+  tag: v3.3.15
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 32
   2026-01: 25
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 84
   2026-09: 105
   2026-10: 128
-  2026-11: 18
+  2026-11: 34

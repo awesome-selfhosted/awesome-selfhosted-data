@@ -9,12 +9,12 @@ tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/strapi/strapi
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/strapi.webp
-stargazers_count: 73431
-updated_at: '2026-11-03'
+stargazers_count: 73433
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v5.60.0
-  published_at: '2026-10-28'
+  tag: v5.61.0
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 72
   2026-01: 72
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 127
   2026-09: 195
   2026-10: 253
-  2026-11: 92
+  2026-11: 117

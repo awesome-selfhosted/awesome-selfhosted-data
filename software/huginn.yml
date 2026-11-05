@@ -9,12 +9,12 @@ tags:
   - Automation
 source_code_url: https://github.com/huginn/huginn
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/huginn.webp
-stargazers_count: 50284
-updated_at: '2026-11-03'
+stargazers_count: 50293
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v2026.11.01
-  published_at: '2026-11-02'
+  tag: v2026.11.05
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 1
   2026-01: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 33
   2026-09: 74
   2026-10: 96
-  2026-11: 6
+  2026-11: 10

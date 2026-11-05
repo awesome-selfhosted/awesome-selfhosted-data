@@ -9,12 +9,12 @@ platforms:
 tags:
   - Task Management & To-do Lists
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/kan.webp
-stargazers_count: 5871
-updated_at: '2026-11-03'
+stargazers_count: 5878
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v0.6.0
-  published_at: '2026-06-29'
+  tag: v0.7.0
+  published_at: '2026-11-04'
 commit_history:
   2026-05: 60
   2026-06: 16
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 13
   2026-09: 60
   2026-10: 25
-  2026-11: 3
+  2026-11: 10

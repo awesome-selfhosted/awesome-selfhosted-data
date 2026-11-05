@@ -9,12 +9,12 @@ platforms:
 tags:
   - Ticketing
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/frappe-helpdesk.webp
-stargazers_count: 3477
+stargazers_count: 3478
 updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v1.32.0
-  published_at: '2026-11-03'
+  tag: v16.1.0
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 187
   2026-01: 204
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 185
   2026-09: 378
   2026-10: 234
-  2026-11: 84
+  2026-11: 100

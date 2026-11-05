@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/reactive-resume/reactive-resume
 demo_url: https://rxresu.me/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactive-resume.webp
-stargazers_count: 45297
+stargazers_count: 45341
 updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: forme-native-v0.0.0-f7a5ce86fcfafb330e8f8b0b05a9403e132f0185bf7b74ef8ff411dedf05ceb9
-  published_at: '2026-10-30'
+  tag: forme-native-v0.0.0-53f30d4e76f87b341b6a72a0847bddc49c6a3ea035b587802948d3733e8a2486
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 10
   2026-01: 240
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 88
   2026-09: 330
   2026-10: 292
-  2026-11: 514
+  2026-11: 566

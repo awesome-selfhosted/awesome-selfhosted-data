@@ -11,11 +11,11 @@ source_code_url: https://github.com/PrivateBin/PrivateBin
 demo_url: https://privatebin.net/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/privatebin.webp
 stargazers_count: 8732
-updated_at: '2026-11-03'
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: 2.1.0
-  published_at: '2026-10-18'
+  tag: 2.1.1
+  published_at: '2026-11-04'
 commit_history:
   2025-12: 22
   2026-01: 50
@@ -27,5 +27,5 @@ commit_history:
   2026-07: 114
   2026-08: 38
   2026-09: 66
-  2026-10: 138
-  2026-11: 5
+  2026-10: 149
+  2026-11: 20

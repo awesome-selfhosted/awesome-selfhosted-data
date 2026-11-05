@@ -12,7 +12,7 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 stargazers_count: 44
-updated_at: '2026-11-03'
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: v0.178.3
@@ -20,4 +20,4 @@ current_release:
 commit_history:
   2026-09: 112
   2026-10: 144
-  2026-11: 11
+  2026-11: 15

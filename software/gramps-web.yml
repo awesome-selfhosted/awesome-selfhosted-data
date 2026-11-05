@@ -1,6 +1,6 @@
 name: Gramps Web
 website_url: https://www.grampsweb.org/
-description: Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application.
+description: Web app for collaborative genealogy, based on and interoperable with Gramps, the genealogy desktop application.
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,17 +9,14 @@ tags:
   - Genealogy
 source_code_url: https://github.com/gramps-project/gramps-web-api
 demo_url: https://gramps-project.github.io/gramps-web-api/
-stargazers_count: 213
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gramps-web.webp
+stargazers_count: 230
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v3.18.0
-  published_at: '2026-07-20'
+  tag: v3.25.1
+  published_at: '2026-10-31'
 commit_history:
-  2025-08: 8
-  2025-09: 1
-  2025-10: 21
-  2025-11: 6
   2025-12: 22
   2026-01: 10
   2026-02: 1
@@ -27,4 +24,8 @@ commit_history:
   2026-04: 48
   2026-05: 32
   2026-06: 17
-  2026-07: 3
+  2026-07: 13
+  2026-08: 33
+  2026-09: 51
+  2026-10: 101
+  2026-11: 7

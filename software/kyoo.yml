@@ -9,17 +9,14 @@ platforms:
 tags:
   - Media Streaming - Multimedia Streaming
 demo_url: https://kyoo.zoriya.dev
-stargazers_count: 2481
-updated_at: '2026-07-23'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kyoo.webp
+stargazers_count: 2561
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v5.1.0
-  published_at: '2026-07-12'
+  tag: v5.3.0
+  published_at: '2026-11-01'
 commit_history:
-  2025-08: 38
-  2025-09: 25
-  2025-10: 72
-  2025-11: 194
   2025-12: 108
   2026-01: 83
   2026-02: 107
@@ -27,4 +24,8 @@ commit_history:
   2026-04: 125
   2026-05: 65
   2026-06: 81
-  2026-07: 54
+  2026-07: 92
+  2026-08: 130
+  2026-09: 110
+  2026-10: 138
+  2026-11: 22

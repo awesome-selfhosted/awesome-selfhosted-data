@@ -1,6 +1,6 @@
 name: Syncthing
 website_url: https://syncthing.net/
-description: Syncthing is an open source peer-to-peer file synchronisation tool.
+description: Peer-to-peer file synchronisation tool.
 licenses:
   - MPL-2.0
 platforms:
@@ -10,17 +10,14 @@ platforms:
 tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/syncthing/syncthing
-stargazers_count: 86869
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/syncthing.webp
+stargazers_count: 90096
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v2.1.3-rc.1
-  published_at: '2026-07-21'
+  tag: v2.1.7
+  published_at: '2026-10-21'
 commit_history:
-  2025-08: 53
-  2025-09: 45
-  2025-10: 19
-  2025-11: 9
   2025-12: 15
   2026-01: 10
   2026-02: 14
@@ -28,4 +25,8 @@ commit_history:
   2026-04: 38
   2026-05: 36
   2026-06: 24
-  2026-07: 14
+  2026-07: 30
+  2026-08: 17
+  2026-09: 16
+  2026-10: 20
+  2026-11: 1

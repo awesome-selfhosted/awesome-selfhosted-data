@@ -8,7 +8,7 @@ install:
 	python3 -m venv .venv
 	source .venv/bin/activate && \
 	pip3 install wheel && \
-	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.6.0
+	pip3 install --force git+https://github.com/nodiscc/hecat.git@1.7.0
 
 .PHONY: import # import data from the original list at https://github.com/awesome-selfhosted/awesome-selfhosted
 import: clean install
@@ -67,6 +67,11 @@ push_html:
 	cd awesome-selfhosted-html/ && git config user.name awesome-selfhosted-bot && git config user.email github-actions@github.com
 	cd awesome-selfhosted-html/ && git add . && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from awesome-selfhosted-data $(COMMIT_HASH)")
 	cd awesome-selfhosted-html/ && git push -f
+
+.PHONY: download_icons # download icons from software icon_url entries
+download_icons:
+	source .venv/bin/activate && \
+	hecat --config .hecat/download-icons.yml
 
 .PHONY: url_check # check URLs for dead links or other connection problems
 url_check:

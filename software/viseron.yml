@@ -1,7 +1,7 @@
 name: Viseron
 website_url: https://viseron.netlify.app/
 source_code_url: https://github.com/roflcoopter/viseron
-description: Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
+description: Local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
 licenses:
   - MIT
 platforms:
@@ -9,17 +9,14 @@ platforms:
 tags:
   - Video Surveillance
 depends_3rdparty: false
-stargazers_count: 3298
-updated_at: '2026-07-23'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/viseron.webp
+stargazers_count: 3681
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v3.5.3
-  published_at: '2026-04-30'
+  tag: v3.7.0
+  published_at: '2026-09-17'
 commit_history:
-  2025-08: 54
-  2025-09: 30
-  2025-10: 69
-  2025-11: 141
   2025-12: 56
   2026-01: 129
   2026-02: 107
@@ -27,4 +24,8 @@ commit_history:
   2026-04: 59
   2026-05: 78
   2026-06: 62
-  2026-07: 19
+  2026-07: 26
+  2026-08: 181
+  2026-09: 153
+  2026-10: 165
+  2026-11: 13

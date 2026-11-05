@@ -7,19 +7,16 @@ platforms:
   - Nodejs
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/mnfst/manifest
+source_code_url: https://github.com/mnfst/llm-gateway
 demo_url: https://manifest.new
-stargazers_count: 7306
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/manifest.webp
+stargazers_count: 7618
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: manifest@6.16.0
-  published_at: '2026-07-23'
+  tag: manifest@6.29.0
+  published_at: '2026-11-04'
 commit_history:
-  2025-08: 73
-  2025-09: 18
-  2025-10: 58
-  2025-11: 5
   2025-12: 190
   2026-01: 354
   2026-02: 538
@@ -27,4 +24,8 @@ commit_history:
   2026-04: 407
   2026-05: 468
   2026-06: 375
-  2026-07: 302
+  2026-07: 420
+  2026-08: 128
+  2026-09: 243
+  2026-10: 75
+  2026-11: 10

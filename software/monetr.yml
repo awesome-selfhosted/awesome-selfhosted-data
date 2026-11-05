@@ -9,15 +9,14 @@ platforms:
   - K8S
 tags:
   - Money, Budgeting & Management
-stargazers_count: 672
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/monetr.webp
+stargazers_count: 691
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v1.15.3
-  published_at: '2026-07-16'
+  tag: v1.21.1
+  published_at: '2026-10-26'
 commit_history:
-  2025-10: 109
-  2025-11: 122
   2025-12: 39
   2026-01: 57
   2026-02: 56
@@ -25,4 +24,8 @@ commit_history:
   2026-04: 139
   2026-05: 162
   2026-06: 120
-  2026-07: 69
+  2026-07: 85
+  2026-08: 40
+  2026-09: 115
+  2026-10: 279
+  2026-11: 11

@@ -2,7 +2,7 @@ name: Wiki-Go
 website_url: https://leomoon.com/downloads/web-apps/wiki-go/
 source_code_url: https://github.com/leomoon-studios/wiki-go
 demo_url: https://wikigo.leomoon.com
-description: A modern, feature-rich, databaseless flat-file wiki platform.
+description: Modern, feature-rich, databaseless flat-file wiki platform.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,17 +10,14 @@ platforms:
   - Docker
 tags:
   - Wikis
-stargazers_count: 599
-updated_at: '2026-07-15'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wiki-go.webp
+stargazers_count: 625
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v1.8.12
-  published_at: '2026-07-15'
+  tag: v1.9.2
+  published_at: '2026-09-22'
 commit_history:
-  2025-08: 15
-  2025-09: 9
-  2025-10: 5
-  2025-11: 17
   2025-12: 43
   2026-01: 16
   2026-02: 8
@@ -29,3 +26,7 @@ commit_history:
   2026-05: 10
   2026-06: 10
   2026-07: 1
+  2026-08: 3
+  2026-09: 59
+  2026-10: 2
+  2026-11: 6

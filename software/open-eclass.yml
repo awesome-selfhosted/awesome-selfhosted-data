@@ -1,6 +1,6 @@
 name: Open eClass
 website_url: https://www.openeclass.org/
-description: Open eClass is an advanced e-learning solution that can enhance the teaching and learning process.
+description: Advanced e-learning solution that can enhance the teaching and learning process.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,14 +9,10 @@ tags:
   - Learning and Courses
 source_code_url: https://github.com/gunet/openeclass
 demo_url: https://demo.openeclass.org/
-stargazers_count: 161
-updated_at: '2026-07-15'
+stargazers_count: 170
+updated_at: '2026-10-23'
 archived: false
 commit_history:
-  2025-08: 46
-  2025-09: 26
-  2025-10: 85
-  2025-11: 108
   2025-12: 88
   2026-01: 110
   2026-02: 148
@@ -24,7 +20,11 @@ commit_history:
   2026-04: 123
   2026-05: 132
   2026-06: 124
-  2026-07: 24
+  2026-07: 92
+  2026-08: 45
+  2026-09: 153
+  2026-10: 114
+  2026-11: 0
 current_release:
-  tag: Release_4.3.3
-  published_at: '2026-04-03'
+  tag: Release_4.4.3
+  published_at: '2026-10-23'

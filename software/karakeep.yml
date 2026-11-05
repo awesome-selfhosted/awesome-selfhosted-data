@@ -10,17 +10,14 @@ tags:
   - Bookmarks and Link Sharing
   - Pastebins
 demo_url: https://try.karakeep.app/signin
-stargazers_count: 27697
-updated_at: '2026-07-18'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/karakeep.webp
+stargazers_count: 30296
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v0.32.0
-  published_at: '2026-05-08'
+  tag: v0.34.1
+  published_at: '2026-10-22'
 commit_history:
-  2025-08: 65
-  2025-09: 62
-  2025-10: 30
-  2025-11: 103
   2025-12: 100
   2026-01: 53
   2026-02: 126
@@ -28,4 +25,8 @@ commit_history:
   2026-04: 89
   2026-05: 75
   2026-06: 13
-  2026-07: 32
+  2026-07: 64
+  2026-08: 95
+  2026-09: 38
+  2026-10: 122
+  2026-11: 30

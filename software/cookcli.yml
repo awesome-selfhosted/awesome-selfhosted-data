@@ -8,17 +8,14 @@ platforms:
   - Rust
 tags:
   - Recipe Management
-stargazers_count: 1341
-updated_at: '2026-07-20'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/cookcli.webp
+stargazers_count: 1430
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v0.32.1
-  published_at: '2026-06-26'
+  tag: v0.40.0
+  published_at: '2026-11-03'
 commit_history:
-  2025-08: 21
-  2025-09: 69
-  2025-10: 20
-  2025-11: 53
   2025-12: 30
   2026-01: 85
   2026-02: 76
@@ -27,3 +24,7 @@ commit_history:
   2026-05: 8
   2026-06: 11
   2026-07: 9
+  2026-08: 146
+  2026-09: 193
+  2026-10: 145
+  2026-11: 18

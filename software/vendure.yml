@@ -1,6 +1,6 @@
 name: Vendure
 website_url: https://www.vendure.io
-description: A headless commerce framework.
+description: Headless commerce framework.
 licenses:
   - MIT
 platforms:
@@ -9,22 +9,22 @@ tags:
   - E-commerce
 source_code_url: https://github.com/vendurehq/vendure
 demo_url: https://demo.vendure.io
-stargazers_count: 8270
-updated_at: '2026-07-24'
+stargazers_count: 8566
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: v3.7.1
-  published_at: '2026-07-14'
+  tag: v3.8.1
+  published_at: '2026-10-23'
 commit_history:
-  2025-08: 60
-  2025-09: 97
-  2025-10: 200
-  2025-11: 52
   2025-12: 56
   2026-01: 78
   2026-02: 94
   2026-03: 133
   2026-04: 73
   2026-05: 108
-  2026-06: 166
-  2026-07: 106
+  2026-06: 168
+  2026-07: 146
+  2026-08: 277
+  2026-09: 297
+  2026-10: 278
+  2026-11: 2

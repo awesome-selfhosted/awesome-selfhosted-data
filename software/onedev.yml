@@ -9,4 +9,18 @@ platforms:
   - K8S
 tags:
   - Software Development - Project Management
-source_code_url: https://code.onedev.io/projects/160
+source_code_url: https://github.com/theonedev/onedev
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/onedev.webp
+stargazers_count: 15340
+updated_at: '2026-11-04'
+archived: false
+current_release:
+  tag: v17.1.0
+  published_at: '2026-11-04'
+commit_history:
+  2026-06: 78
+  2026-07: 210
+  2026-08: 183
+  2026-09: 130
+  2026-10: 177
+  2026-11: 12

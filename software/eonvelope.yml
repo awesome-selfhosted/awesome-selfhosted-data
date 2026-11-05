@@ -9,9 +9,10 @@ platforms:
   - Docker
 tags:
   - Archiving and Digital Preservation (DP)
-stargazers_count: 9
-updated_at: '2026-07-19'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/eonvelope.webp
+stargazers_count: 10
+updated_at: '2026-10-20'
 archived: false
 current_release:
-  tag: 0.7.2
-  published_at: '2026-06-25'
+  tag: 0.8.1
+  published_at: '2026-10-14'

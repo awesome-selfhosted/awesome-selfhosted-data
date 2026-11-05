@@ -9,14 +9,19 @@ platforms:
   - Nodejs
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-stargazers_count: 298
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pingvin-share-x.webp
+stargazers_count: 563
+updated_at: '2026-10-30'
 archived: false
 current_release:
-  tag: v1.21.2
-  published_at: '2026-07-23'
+  tag: v2.1.0
+  published_at: '2026-10-25'
 commit_history:
   2026-04: 30
   2026-05: 24
   2026-06: 25
-  2026-07: 25
+  2026-07: 27
+  2026-08: 45
+  2026-09: 17
+  2026-10: 45
+  2026-11: 0

@@ -9,17 +9,14 @@ platforms:
 tags:
   - Remote Access
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 8881
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/firezone.webp
+stargazers_count: 9166
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: macos-client-1.5.18
-  published_at: '2026-06-24'
+  tag: headless-client-1.5.15
+  published_at: '2026-10-29'
 commit_history:
-  2025-08: 124
-  2025-09: 136
-  2025-10: 209
-  2025-11: 168
   2025-12: 371
   2026-01: 286
   2026-02: 308
@@ -27,4 +24,8 @@ commit_history:
   2026-04: 227
   2026-05: 278
   2026-06: 299
-  2026-07: 317
+  2026-07: 424
+  2026-08: 393
+  2026-09: 485
+  2026-10: 435
+  2026-11: 96

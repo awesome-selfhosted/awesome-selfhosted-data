@@ -9,14 +9,14 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/seerr-team/seerr
-stargazers_count: 11974
-updated_at: '2026-07-24'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/seerr.webp
+stargazers_count: 13118
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v3.3.0
-  published_at: '2026-06-02'
+  tag: v3.5.1
+  published_at: '2026-10-21'
 commit_history:
-  2025-11: 14
   2025-12: 14
   2026-01: 29
   2026-02: 77
@@ -24,4 +24,8 @@ commit_history:
   2026-04: 71
   2026-05: 40
   2026-06: 28
-  2026-07: 16
+  2026-07: 26
+  2026-08: 38
+  2026-09: 40
+  2026-10: 33
+  2026-11: 5

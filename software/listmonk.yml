@@ -1,6 +1,6 @@
 name: Listmonk
 website_url: https://listmonk.app/
-description: High performance, self-hosted newsletter and mailing list manager with a modern dashboard.
+description: High performance newsletter and mailing list manager with a modern dashboard.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,17 +10,14 @@ tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/knadh/listmonk
 demo_url: https://demo.listmonk.app/
-stargazers_count: 22413
-updated_at: '2026-07-21'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/listmonk.webp
+stargazers_count: 24150
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-07-22'
+  published_at: '2026-11-04'
 commit_history:
-  2025-08: 11
-  2025-09: 21
-  2025-10: 7
-  2025-11: 26
   2025-12: 21
   2026-01: 22
   2026-02: 25
@@ -29,3 +26,7 @@ commit_history:
   2026-05: 25
   2026-06: 20
   2026-07: 9
+  2026-08: 5
+  2026-09: 7
+  2026-10: 240
+  2026-11: 15

@@ -4,7 +4,6 @@ description: Turns a Linux box connected to a television into a local playback e
 licenses:
   - GPL-3.0
 platforms:
-  - Python
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming

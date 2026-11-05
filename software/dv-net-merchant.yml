@@ -1,0 +1,13 @@
+name: "DV.net Merchant"                                                                                                 
+website_url: "https://dv.net"                                                                                           
+source_code_url: "https://github.com/dv-net/dv-merchant"                                                                
+description: "Non-custodial cryptocurrency payment gateway: accept payments across multiple blockchains directly to your own wallets, with merchant dashboard and API."                                                                          
+  licenses:                                                                                                               
+    - MIT                                                                                                                 
+  platforms:                                                                                                              
+    - Go                                                                                                                  
+    - Docker                                                                                                              
+  tags:                                                                                                                   
+    - E-commerce
+    - Money, Budgeting & Management
+                   

@@ -1,0 +1,13 @@
+name: "stremio-libtorrent-server"
+website_url: "https://github.com/andrewhack/stremio-libtorrent-server"
+source_code_url: "https://github.com/andrewhack/stremio-libtorrent-server"
+description: "BitTorrent based engine, a replacement for Stremio's stock streaming server."
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Streaming - Video Streaming
+  - File Transfer - Peer-to-peer Filesharing
+depends_3rdparty: true

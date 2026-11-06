@@ -1,0 +1,11 @@
+name: ghstats
+website_url: https://github.com/vladkens/ghstats
+source_code_url: https://github.com/vladkens/ghstats
+description: Self-hosted GitHub traffic analytics with long-term history, SQLite storage, and a tiny Docker image.
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: true

@@ -1,0 +1,13 @@
+name: "Inkvoice"
+website_url: https://www.inkvoice.app/
+source_code_url: https://github.com/pigontech/inkvoice
+description: "Invoicing for freelancers and small teams, invoices, quotes, online payments, expenses, multi-currency and reports"
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false
+demo_url: https://demo.inkvoice.app
+icon_url: "https://inkvoice.app/favicon.svg"

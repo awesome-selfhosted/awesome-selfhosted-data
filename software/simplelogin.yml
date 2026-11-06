@@ -1,6 +1,6 @@
 name: SimpleLogin
 website_url: https://simplelogin.io
-description: Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps.
+description: Email alias solution to protect your email address. Comes with browser extensions and mobile apps.
 licenses:
   - MIT
 platforms:
@@ -9,15 +9,14 @@ platforms:
 tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/simple-login/app
-stargazers_count: 6957
-updated_at: '2026-08-25'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/simplelogin.webp
+stargazers_count: 7119
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v4.81.7
-  published_at: '2026-08-11'
+  tag: v4.83.5
+  published_at: '2026-11-06'
 commit_history:
-  2025-10: 13
-  2025-11: 23
   2025-12: 14
   2026-01: 73
   2026-02: 9
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 9
   2026-07: 21
   2026-08: 4
-  2026-09: 0
+  2026-09: 23
+  2026-10: 69
+  2026-11: 7

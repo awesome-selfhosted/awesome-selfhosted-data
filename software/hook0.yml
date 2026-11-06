@@ -10,9 +10,10 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
-stargazers_count: 15
-updated_at: '2026-09-01'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hook0.webp
+stargazers_count: 16
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: mcp/v3.0.0
-  published_at: '2026-08-26'
+  tag: frontend/v1.2.1
+  published_at: '2026-09-21'

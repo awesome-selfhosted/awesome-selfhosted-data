@@ -1,6 +1,6 @@
 name: SeaweedFS
 website_url: https://github.com/seaweedfs/seaweedfs
-description: SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity.
+description: Distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,15 +8,14 @@ platforms:
 tags:
   - File Transfer - Object Storage & File Servers
 source_code_url: https://github.com/seaweedfs/seaweedfs
-stargazers_count: 34383
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/seaweedfs.webp
+stargazers_count: 35942
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: '4.45'
-  published_at: '2026-08-31'
+  tag: '4.52'
+  published_at: '2026-11-02'
 commit_history:
-  2025-10: 110
-  2025-11: 134
   2025-12: 279
   2026-01: 347
   2026-02: 238
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 316
   2026-07: 245
   2026-08: 379
-  2026-09: 0
+  2026-09: 358
+  2026-10: 620
+  2026-11: 126

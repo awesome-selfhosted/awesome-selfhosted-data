@@ -9,15 +9,13 @@ tags:
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/krayin/laravel-crm
 demo_url: https://demo.krayincrm.com/
-stargazers_count: 23812
-updated_at: '2026-08-25'
+stargazers_count: 24116
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v2.2.5
-  published_at: '2026-08-04'
+  tag: v2.2.8
+  published_at: '2026-11-06'
 commit_history:
-  2025-10: 6
-  2025-11: 6
   2025-12: 18
   2026-01: 14
   2026-02: 11
@@ -26,5 +24,7 @@ commit_history:
   2026-05: 45
   2026-06: 30
   2026-07: 100
-  2026-08: 86
-  2026-09: 0
+  2026-08: 99
+  2026-09: 38
+  2026-10: 48
+  2026-11: 42

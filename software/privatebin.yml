@@ -9,15 +9,14 @@ tags:
   - Pastebins
 source_code_url: https://github.com/PrivateBin/PrivateBin
 demo_url: https://privatebin.net/
-stargazers_count: 8579
-updated_at: '2026-08-20'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/privatebin.webp
+stargazers_count: 8736
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: 2.0.6
-  published_at: '2026-08-08'
+  tag: 2.1.1
+  published_at: '2026-11-04'
 commit_history:
-  2025-10: 116
-  2025-11: 74
   2025-12: 22
   2026-01: 50
   2026-02: 59
@@ -25,6 +24,8 @@ commit_history:
   2026-04: 30
   2026-05: 55
   2026-06: 82
-  2026-07: 95
-  2026-08: 21
-  2026-09: 0
+  2026-07: 114
+  2026-08: 38
+  2026-09: 66
+  2026-10: 149
+  2026-11: 20

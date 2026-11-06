@@ -8,15 +8,14 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 source_code_url: https://github.com/projectsend/projectsend
-stargazers_count: 1986
-updated_at: '2026-09-01'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/projectsend.webp
+stargazers_count: 2052
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v2.2.1
-  published_at: '2026-08-28'
+  tag: v2.8.0
+  published_at: '2026-10-29'
 commit_history:
-  2025-10: 34
-  2025-11: 4
   2025-12: 16
   2026-01: 2
   2026-02: 9
@@ -25,5 +24,7 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
-  2026-08: 349
-  2026-09: 4
+  2026-08: 352
+  2026-09: 162
+  2026-10: 102
+  2026-11: 1

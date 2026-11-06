@@ -9,12 +9,11 @@ platforms:
 tags:
   - E-commerce
 source_code_url: https://github.com/pretix/pretix
-stargazers_count: 2511
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pretix.webp
+stargazers_count: 2562
+updated_at: '2026-11-06'
 archived: false
 commit_history:
-  2025-10: 128
-  2025-11: 116
   2025-12: 82
   2026-01: 202
   2026-02: 153
@@ -24,4 +23,6 @@ commit_history:
   2026-06: 81
   2026-07: 207
   2026-08: 97
-  2026-09: 0
+  2026-09: 155
+  2026-10: 107
+  2026-11: 37

@@ -12,15 +12,18 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
   - Pastebins
   - URL Shorteners
-stargazers_count: 84
-updated_at: '2026-08-18'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/snowshare.webp
+stargazers_count: 106
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: v1.5.3
-  published_at: '2026-07-24'
+  tag: v1.5.8
+  published_at: '2026-11-03'
 commit_history:
   2026-05: 121
   2026-06: 65
   2026-07: 27
   2026-08: 22
-  2026-09: 0
+  2026-09: 34
+  2026-10: 16
+  2026-11: 7

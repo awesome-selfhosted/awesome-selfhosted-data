@@ -1,6 +1,6 @@
 name: Bagisto
 website_url: https://bagisto.com/en/
-description: Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features.
+description: Leading Laravel e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features.
 licenses:
   - MIT
 platforms:
@@ -9,15 +9,14 @@ tags:
   - E-commerce
 source_code_url: https://github.com/bagisto/bagisto
 demo_url: https://demo.bagisto.com/
-stargazers_count: 28083
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bagisto.webp
+stargazers_count: 28339
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.4.10
-  published_at: '2026-08-21'
+  tag: v2.5.1
+  published_at: '2026-11-06'
 commit_history:
-  2025-10: 49
-  2025-11: 15
   2025-12: 86
   2026-01: 206
   2026-02: 198
@@ -26,5 +25,7 @@ commit_history:
   2026-05: 124
   2026-06: 60
   2026-07: 65
-  2026-08: 127
-  2026-09: 0
+  2026-08: 212
+  2026-09: 195
+  2026-10: 198
+  2026-11: 96

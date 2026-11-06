@@ -9,12 +9,11 @@ tags:
   - File Transfer - Web-based File Managers
 source_code_url: https://github.com/mickael-kerjean/filestash
 demo_url: https://demo.filestash.app/
-stargazers_count: 14568
-updated_at: '2026-08-29'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/filestash.webp
+stargazers_count: 14877
+updated_at: '2026-11-05'
 archived: false
 commit_history:
-  2025-10: 19
-  2025-11: 11
   2025-12: 29
   2026-01: 47
   2026-02: 68
@@ -24,4 +23,6 @@ commit_history:
   2026-06: 30
   2026-07: 25
   2026-08: 37
-  2026-09: 0
+  2026-09: 59
+  2026-10: 49
+  2026-11: 7

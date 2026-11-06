@@ -8,15 +8,14 @@ platforms:
 tags:
   - Communication - Email - Mailing Lists and Newsletters
 source_code_url: https://github.com/mautic/mautic
-stargazers_count: 10425
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mautic.webp
+stargazers_count: 10945
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 7.1.3
-  published_at: '2026-07-07'
+  tag: 7.2.2
+  published_at: '2026-10-26'
 commit_history:
-  2025-10: 263
-  2025-11: 186
   2025-12: 222
   2026-01: 190
   2026-02: 223
@@ -24,6 +23,8 @@ commit_history:
   2026-04: 249
   2026-05: 319
   2026-06: 1193
-  2026-07: 1514
-  2026-08: 520
-  2026-09: 0
+  2026-07: 1552
+  2026-08: 619
+  2026-09: 381
+  2026-10: 536
+  2026-11: 243

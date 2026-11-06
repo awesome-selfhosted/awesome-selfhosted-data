@@ -9,15 +9,14 @@ platforms:
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 65438
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/anything-llm.webp
+stargazers_count: 68007
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.16.1
-  published_at: '2026-08-27'
+  tag: v1.19.0
+  published_at: '2026-10-26'
 commit_history:
-  2025-10: 38
-  2025-11: 35
   2025-12: 46
   2026-01: 57
   2026-02: 51
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 114
   2026-07: 147
   2026-08: 82
-  2026-09: 0
+  2026-09: 126
+  2026-10: 148
+  2026-11: 52

@@ -1,6 +1,6 @@
 name: Wallabag
 website_url: https://www.wallabag.org
-description: Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability.
+description: Web application, formerly Poche, allowing you to save articles to read them later with improved readability.
 licenses:
   - MIT
 platforms:
@@ -8,15 +8,14 @@ platforms:
 tags:
   - Archiving and Digital Preservation (DP)
 source_code_url: https://github.com/wallabag/wallabag
-stargazers_count: 12947
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wallabag.webp
+stargazers_count: 13052
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 2.6.14
-  published_at: '2025-10-07'
+  tag: 2.6.15
+  published_at: '2026-10-28'
 commit_history:
-  2025-10: 39
-  2025-11: 65
   2025-12: 54
   2026-01: 55
   2026-02: 39
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 63
   2026-07: 74
   2026-08: 71
-  2026-09: 0
+  2026-09: 68
+  2026-10: 90
+  2026-11: 33

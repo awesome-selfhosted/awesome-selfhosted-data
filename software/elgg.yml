@@ -1,6 +1,6 @@
 name: Elgg
 website_url: https://elgg.org/
-description: Powerful open source social networking engine.
+description: Powerful social networking engine.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/Elgg/Elgg
-stargazers_count: 1677
-updated_at: '2026-08-21'
+stargazers_count: 1679
+updated_at: '2026-11-03'
 archived: false
 current_release:
-  tag: 7.0.5
-  published_at: '2026-08-19'
+  tag: 7.1.3
+  published_at: '2026-11-05'
 commit_history:
-  2025-10: 18
-  2025-11: 6
   2025-12: 0
   2026-01: 44
   2026-02: 27
@@ -26,4 +24,6 @@ commit_history:
   2026-06: 44
   2026-07: 35
   2026-08: 41
-  2026-09: 0
+  2026-09: 26
+  2026-10: 31
+  2026-11: 5

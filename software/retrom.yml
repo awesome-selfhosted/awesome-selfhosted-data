@@ -9,15 +9,14 @@ platforms:
   - Rust
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 2056
-updated_at: '2026-08-05'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/retrom.webp
+stargazers_count: 2105
+updated_at: '2026-10-26'
 archived: false
 current_release:
   tag: v0.8.4
   published_at: '2026-06-14'
 commit_history:
-  2025-10: 17
-  2025-11: 41
   2025-12: 25
   2026-01: 34
   2026-02: 38
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 12
   2026-07: 7
   2026-08: 1
-  2026-09: 0
+  2026-09: 2
+  2026-10: 5
+  2026-11: 0

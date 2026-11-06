@@ -8,14 +8,14 @@ platforms:
   - Docker
 tags:
   - Remote Access
-stargazers_count: 14972
-updated_at: '2026-08-28'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/termix.webp
+stargazers_count: 15867
+updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: release-2.7.1-tag
-  published_at: '2026-08-23'
+  tag: sdk-v1.1.1
+  published_at: '2026-11-06'
 commit_history:
-  2025-11: 8
   2025-12: 1
   2026-01: 20
   2026-02: 6
@@ -25,4 +25,6 @@ commit_history:
   2026-06: 36
   2026-07: 23
   2026-08: 22
-  2026-09: 0
+  2026-09: 13
+  2026-10: 52
+  2026-11: 2

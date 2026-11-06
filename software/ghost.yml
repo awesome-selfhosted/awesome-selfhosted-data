@@ -8,15 +8,14 @@ platforms:
 tags:
   - Blogging Platforms
 source_code_url: https://github.com/TryGhost/Ghost
-stargazers_count: 55093
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ghost.webp
+stargazers_count: 55695
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v6.61.0
-  published_at: '2026-08-27'
+  tag: v6.75.0
+  published_at: '2026-11-04'
 commit_history:
-  2025-10: 231
-  2025-11: 190
   2025-12: 172
   2026-01: 248
   2026-02: 413
@@ -24,6 +23,8 @@ commit_history:
   2026-04: 503
   2026-05: 599
   2026-06: 774
-  2026-07: 701
-  2026-08: 635
-  2026-09: 0
+  2026-07: 708
+  2026-08: 642
+  2026-09: 631
+  2026-10: 1110
+  2026-11: 163

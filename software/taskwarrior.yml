@@ -1,6 +1,6 @@
 name: Taskwarrior
 website_url: https://taskwarrior.org/
-description: Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way.
+description: Command line tool that manages your TODO list. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way.
 licenses:
   - MIT
 platforms:
@@ -8,3 +8,4 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://taskwarrior.org/download/#git
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/taskwarrior.webp

@@ -9,15 +9,14 @@ platforms:
 tags:
   - Personal Dashboards
 demo_url: https://github.com/Volmarg/personal-management-system#documentation--demo
-stargazers_count: 4150
-updated_at: '2026-08-29'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/personal-management-system.webp
+stargazers_count: 4194
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v2.0.4
-  published_at: '2026-04-25'
+  tag: v2.1.0
+  published_at: '2026-09-27'
 commit_history:
-  2025-10: 23
-  2025-11: 18
   2025-12: 4
   2026-01: 14
   2026-02: 1
@@ -26,5 +25,7 @@ commit_history:
   2026-05: 17
   2026-06: 19
   2026-07: 7
-  2026-08: 12
-  2026-09: 0
+  2026-08: 13
+  2026-09: 11
+  2026-10: 8
+  2026-11: 1

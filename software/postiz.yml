@@ -1,6 +1,6 @@
 name: Postiz
 website_url: https://postiz.com
-description: Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social).
+description: Schedule posts, track the performance of your content, and manage all your social media accounts in one place (alternative to Buffer, Hootsuite, Sprout Social).
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,15 +9,14 @@ tags:
   - Analytics
 source_code_url: https://github.com/gitroomhq/postiz-app
 depends_3rdparty: true
-stargazers_count: 35324
-updated_at: '2026-08-30'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postiz.webp
+stargazers_count: 41023
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.23.0
-  published_at: '2026-08-04'
+  tag: v2.25.3
+  published_at: '2026-10-24'
 commit_history:
-  2025-10: 77
-  2025-11: 58
   2025-12: 75
   2026-01: 121
   2026-02: 98
@@ -25,6 +24,8 @@ commit_history:
   2026-04: 80
   2026-05: 89
   2026-06: 68
-  2026-07: 91
-  2026-08: 107
-  2026-09: 0
+  2026-07: 93
+  2026-08: 135
+  2026-09: 316
+  2026-10: 307
+  2026-11: 25

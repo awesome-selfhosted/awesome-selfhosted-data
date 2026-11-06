@@ -9,15 +9,14 @@ platforms:
 tags:
   - Analytics
 demo_url: https://demo.rybbit.com/1
-stargazers_count: 12899
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rybbit.webp
+stargazers_count: 13215
+updated_at: '2026-11-04'
 archived: false
 current_release:
-  tag: v2.8.0
-  published_at: '2026-07-27'
+  tag: v2.9.2
+  published_at: '2026-10-24'
 commit_history:
-  2025-10: 214
-  2025-11: 287
   2025-12: 136
   2026-01: 97
   2026-02: 157
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 67
   2026-07: 152
   2026-08: 60
-  2026-09: 0
+  2026-09: 125
+  2026-10: 38
+  2026-11: 9

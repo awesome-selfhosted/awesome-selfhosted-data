@@ -1,6 +1,6 @@
 name: GitLab
 website_url: https://about.gitlab.com
-description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
+description: Git repository management, code reviews, issue tracking, activity feeds and wikis.
 licenses:
   - MIT
 platforms:
@@ -12,8 +12,9 @@ tags:
   - Software Development - Project Management
 source_code_url: https://gitlab.com/gitlab-org/gitlab-foss
 demo_url: https://gitlab.com/
-stargazers_count: 7169
-updated_at: '2026-09-01'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gitlab.webp
+stargazers_count: 7175
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v18.11.0

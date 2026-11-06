@@ -1,6 +1,6 @@
 name: Hyphanet
 website_url: https://hyphanet.org/
-description: Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums.
+description: Anonymously share files, browse and publish freesites (web sites accessible only through Hyphanet) and chat on forums.
 licenses:
   - GPL-2.0
 platforms:
@@ -8,15 +8,13 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/hyphanet/fred
-stargazers_count: 1210
-updated_at: '2026-08-30'
+stargazers_count: 1228
+updated_at: '2026-09-19'
 archived: false
 current_release:
-  tag: build01506
-  published_at: '2026-02-15'
+  tag: build01507
+  published_at: '2026-09-04'
 commit_history:
-  2025-10: 6
-  2025-11: 14
   2025-12: 8
   2026-01: 6
   2026-02: 17
@@ -26,4 +24,6 @@ commit_history:
   2026-06: 1
   2026-07: 3
   2026-08: 31
-  2026-09: 0
+  2026-09: 9
+  2026-10: 0
+  2026-11: 0

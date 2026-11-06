@@ -1,7 +1,7 @@
 name: Forward Email
 website_url: https://forwardemail.net
 source_code_url: https://github.com/forwardemail/forwardemail.net
-description: Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid.
+description: Privacy-focused encrypted email for everyone. All-in-one (alternative to Gmail, Mailchimp, Sendgrid).
 licenses:
   - BUSL-1.1
   - MPL-2.0
@@ -10,15 +10,13 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-stargazers_count: 1666
-updated_at: '2026-08-31'
+stargazers_count: 1701
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.14.1
-  published_at: '2026-08-29'
+  tag: v2.19.7
+  published_at: '2026-11-06'
 commit_history:
-  2025-10: 56
-  2025-11: 114
   2025-12: 105
   2026-01: 248
   2026-02: 142
@@ -28,4 +26,6 @@ commit_history:
   2026-06: 98
   2026-07: 156
   2026-08: 87
-  2026-09: 0
+  2026-09: 82
+  2026-10: 88
+  2026-11: 41

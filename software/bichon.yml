@@ -9,16 +9,19 @@ platforms:
   - Docker
 tags:
   - Archiving and Digital Preservation (DP)
-stargazers_count: 1932
-updated_at: '2026-08-25'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bichon.webp
+stargazers_count: 2068
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 2.0.2
-  published_at: '2026-08-19'
+  tag: 2.3.1
+  published_at: '2026-11-06'
 commit_history:
   2026-04: 28
   2026-05: 110
   2026-06: 51
   2026-07: 29
   2026-08: 34
-  2026-09: 0
+  2026-09: 34
+  2026-10: 74
+  2026-11: 13

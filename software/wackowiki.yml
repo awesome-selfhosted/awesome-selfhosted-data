@@ -1,6 +1,6 @@
 name: WackoWiki
 website_url: https://wackowiki.org/
-description: WackoWiki is a light and easy to install multilingual Wiki-engine.
+description: Light and easy to install multilingual Wiki-engine.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,14 +9,12 @@ tags:
   - Wikis
 source_code_url: https://github.com/WackoWiki/wackowiki
 stargazers_count: 55
-updated_at: '2026-08-26'
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: 6.3.0
   published_at: '2026-07-18'
 commit_history:
-  2025-10: 38
-  2025-11: 55
   2025-12: 43
   2026-01: 8
   2026-02: 11
@@ -26,4 +24,6 @@ commit_history:
   2026-06: 56
   2026-07: 54
   2026-08: 36
-  2026-09: 0
+  2026-09: 3
+  2026-10: 1
+  2026-11: 6

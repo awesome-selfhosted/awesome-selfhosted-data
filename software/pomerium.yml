@@ -1,6 +1,6 @@
 name: Pomerium
 website_url: https://www.pomerium.io
-description: Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet.
+description: Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your own websites to public Internet.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,15 +9,14 @@ platforms:
 tags:
   - Web Servers
 source_code_url: https://github.com/pomerium/pomerium
-stargazers_count: 4985
-updated_at: '2026-08-31'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/pomerium.webp
+stargazers_count: 5091
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v0.33.1
-  published_at: '2026-08-18'
+  tag: v0.34.0
+  published_at: '2026-11-04'
 commit_history:
-  2025-10: 34
-  2025-11: 35
   2025-12: 48
   2026-01: 50
   2026-02: 64
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 49
   2026-07: 58
   2026-08: 38
-  2026-09: 0
+  2026-09: 68
+  2026-10: 80
+  2026-11: 29

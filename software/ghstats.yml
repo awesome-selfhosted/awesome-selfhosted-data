@@ -1,7 +1,7 @@
 name: ghstats
 website_url: https://github.com/vladkens/ghstats
 source_code_url: https://github.com/vladkens/ghstats
-description: Self-hosted GitHub traffic analytics with long-term history, SQLite storage, and a tiny Docker image.
+description: Your own GitHub analytics. GitHub forgets your traffic after 14 days, ghstats keeps it forever. Track stars, views and clones, and show them off with cards and badges.
 licenses:
   - MIT
 platforms:

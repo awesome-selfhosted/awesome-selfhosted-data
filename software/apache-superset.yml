@@ -1,16 +1,17 @@
 name: Apache Superset
 website_url: http://superset.apache.org/
-description: Modern data exploration and visualization platform.
+description: Modern data exploration and visualization platform, for business intelligence and analytics.
 licenses:
   - Apache-2.0
 platforms:
   - Python
-  - Typescript
+  - Javascript
+  - Docker
 tags:
   - Analytics
 source_code_url: https://github.com/apache/superset
 stargazers_count: 75414
-updated_at: '2026-11-06'
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: 7.0.0rc2

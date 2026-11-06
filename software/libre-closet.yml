@@ -1,0 +1,12 @@
+name: "Libre Closet"
+website_url: "https://librecloset.lazz.tech/"
+source_code_url: "https://github.com/lazztech/libre-closet"
+description: "Wardrobe organizer to catalog clothing, build outfits, and plan what to wear. Lightweight: SQLite and local file storage by default, no server GPU needed, and an installable cross-platform PWA."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous
+icon_url: "https://raw.githubusercontent.com/Lazztech/Libre-Closet/refs/heads/main/public/assets/lazztech_icon.png"

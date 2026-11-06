@@ -1,10 +1,13 @@
-name: Superset
-website_url: http://superset.apache.org/
-description: Modern data exploration and visualization platform.
+name: Apache Superset
+website_url: https://superset.apache.org/
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/apache-superset.webp
+description: Modern data exploration platform for visualization and business intelligence.
 licenses:
   - Apache-2.0
 platforms:
   - Python
+  - Javascript
+  - Docker
 tags:
   - Analytics
 source_code_url: https://github.com/apache/superset

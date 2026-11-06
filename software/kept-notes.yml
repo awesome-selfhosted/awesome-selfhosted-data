@@ -1,0 +1,13 @@
+name: "Kept Notes"
+website_url: "https://keepitkept.xyz"
+source_code_url: "https://github.com/ericerkz/kept"
+description: "A notes app built for quick capture: text notes, checklists, images, drawings, links, attachments, labels, colors, and reminders (alternative to Google Keep)."
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Task Management & To-do Lists
+  - Note-taking & Editors

@@ -1,0 +1,12 @@
+name: Inkwell
+website_url: https://www.useinkwell.app
+source_code_url: https://github.com/marutisoftwaresolutions/inkwell
+description: Blogging platform with a visual or Markdown editor, comments, newsletter, built-in analytics, an IP firewall, and WordPress/Ghost import and export.
+licenses:
+  - MIT
+platforms:
+  - C#
+  - Docker
+tags:
+  - Blogging Platforms
+icon_url: https://www.useinkwell.app/logo.png

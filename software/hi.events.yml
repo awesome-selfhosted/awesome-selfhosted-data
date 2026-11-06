@@ -11,12 +11,12 @@ tags:
   - E-commerce
 demo_url: https://demo.hi.events/event/1/dog-conf-2030
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hi-events.webp
-stargazers_count: 4127
-updated_at: '2026-11-03'
+stargazers_count: 4126
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v1.11.3-beta
-  published_at: '2026-10-24'
+  tag: v2.1.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 69
   2026-01: 18
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 36
   2026-09: 13
   2026-10: 61
-  2026-11: 5
+  2026-11: 6

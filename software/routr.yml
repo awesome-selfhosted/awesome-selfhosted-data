@@ -10,11 +10,11 @@ tags:
   - Communication - SIP
 source_code_url: https://github.com/fonoster/routr
 stargazers_count: 1729
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.32.1
-  published_at: '2026-11-04'
+  tag: v2.32.3
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 29
   2026-01: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 3
   2026-09: 19
   2026-10: 372
-  2026-11: 51
+  2026-11: 84

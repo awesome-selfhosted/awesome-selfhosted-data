@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/Ombi-app/Ombi
 demo_url: https://app.ombi.io/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ombi.webp
-stargazers_count: 4111
-updated_at: '2026-09-29'
+stargazers_count: 4110
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v4.60.17
-  published_at: '2026-09-29'
+  tag: v4.60.20
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 1
   2026-01: 38
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 7
   2026-09: 6
   2026-10: 0
-  2026-11: 0
+  2026-11: 6

@@ -9,12 +9,12 @@ licenses:
 tags:
   - Archiving and Digital Preservation (DP)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mail-archiver.webp
-stargazers_count: 2236
-updated_at: '2026-11-03'
+stargazers_count: 2241
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: '2610.1'
-  published_at: '2026-10-11'
+  tag: '2611.1'
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 12
   2026-01: 22
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 52
   2026-09: 94
   2026-10: 52
-  2026-11: 5
+  2026-11: 11

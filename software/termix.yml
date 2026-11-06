@@ -9,12 +9,12 @@ platforms:
 tags:
   - Remote Access
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/termix.webp
-stargazers_count: 15839
+stargazers_count: 15867
 updated_at: '2026-11-02'
 archived: false
 current_release:
-  tag: sdk-v1.0.25
-  published_at: '2026-11-04'
+  tag: sdk-v1.1.1
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 1
   2026-01: 20

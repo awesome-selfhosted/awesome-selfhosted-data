@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/cypht-org/cypht
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/cypht.webp
 stargazers_count: 1787
-updated_at: '2026-11-04'
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.13.1
-  published_at: '2026-11-04'
+  tag: v2.14.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 20
   2026-01: 52
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 37
   2026-09: 75
   2026-10: 58
-  2026-11: 25
+  2026-11: 29

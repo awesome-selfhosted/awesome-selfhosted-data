@@ -10,12 +10,12 @@ platforms:
 tags:
   - Ticketing
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bugsink.webp
-stargazers_count: 2166
-updated_at: '2026-11-04'
+stargazers_count: 2171
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 2.6.2
-  published_at: '2026-10-22'
+  tag: 2.6.3
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 5
   2026-01: 78
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 17
   2026-09: 63
   2026-10: 129
-  2026-11: 9
+  2026-11: 13

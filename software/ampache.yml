@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/ampache/ampache
 demo_url: https://play.dogmazic.net/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ampache.webp
-stargazers_count: 3844
-updated_at: '2026-11-04'
+stargazers_count: 3845
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 8.3.0
-  published_at: '2026-10-20'
+  tag: 8.4.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 61
   2026-01: 133
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 673
   2026-09: 360
   2026-10: 260
-  2026-11: 45
+  2026-11: 59

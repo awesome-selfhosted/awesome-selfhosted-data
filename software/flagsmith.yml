@@ -9,12 +9,12 @@ platforms:
 tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/flagsmith/flagsmith
-stargazers_count: 6640
-updated_at: '2026-11-04'
+stargazers_count: 6639
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.288.2
-  published_at: '2026-10-29'
+  tag: v2.290.0
+  published_at: '2026-11-05'
 commit_history:
   2025-12: 65
   2026-01: 98
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 122
   2026-09: 129
   2026-10: 112
-  2026-11: 25
+  2026-11: 45

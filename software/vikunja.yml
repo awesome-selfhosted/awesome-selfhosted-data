@@ -11,12 +11,12 @@ tags:
   - Task Management & To-do Lists
 demo_url: https://try.vikunja.io/login
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vikunja.webp
-stargazers_count: 5963
-updated_at: '2026-11-05'
+stargazers_count: 5976
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.7.1
-  published_at: '2026-10-20'
+  tag: v2.8.0
+  published_at: '2026-11-05'
 commit_history:
   2026-04: 451
   2026-05: 207
@@ -25,4 +25,4 @@ commit_history:
   2026-08: 455
   2026-09: 727
   2026-10: 484
-  2026-11: 174
+  2026-11: 249

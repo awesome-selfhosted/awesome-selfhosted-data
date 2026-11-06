@@ -9,12 +9,12 @@ platforms:
 tags:
   - Task Management & To-do Lists
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tududi.webp
-stargazers_count: 3508
-updated_at: '2026-11-03'
+stargazers_count: 3519
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.15.0
-  published_at: '2026-11-03'
+  tag: v2.1.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 95
   2026-01: 34
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 52
   2026-09: 206
   2026-10: 250
-  2026-11: 7
+  2026-11: 32

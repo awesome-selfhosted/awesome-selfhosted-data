@@ -10,8 +10,8 @@ demo_url: https://demo.surmai.app
 platforms:
   - Docker
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/surmai.webp
-stargazers_count: 289
-updated_at: '2026-10-24'
+stargazers_count: 290
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v0.5.6
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 5
   2026-09: 1
   2026-10: 4
-  2026-11: 0
+  2026-11: 1

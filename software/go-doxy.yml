@@ -10,12 +10,12 @@ platforms:
 tags:
   - Web Servers
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/godoxy.webp
-stargazers_count: 4176
-updated_at: '2026-10-27'
+stargazers_count: 4177
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v0.32.4
-  published_at: '2026-10-27'
+  tag: v0.33.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 90
   2026-01: 181
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 76
   2026-09: 33
   2026-10: 82
-  2026-11: 0
+  2026-11: 18

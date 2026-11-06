@@ -10,12 +10,12 @@ tags:
   - Document Management
 source_code_url: https://github.com/Stirling-Tools/Stirling-PDF
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stirling-pdf.webp
-stargazers_count: 95759
-updated_at: '2026-11-04'
+stargazers_count: 95867
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v3.2.2
-  published_at: '2026-10-24'
+  tag: v3.3.0
+  published_at: '2026-11-05'
 commit_history:
   2025-12: 119
   2026-01: 131
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 305
   2026-09: 309
   2026-10: 181
-  2026-11: 34
+  2026-11: 48

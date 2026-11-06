@@ -1,0 +1,15 @@
+name: "hako code"
+website_url: "https://mithraeum.studio"
+source_code_url: "https://github.com/mithraeums/hako-code"
+description: "Single C99 file agentic harness, that builds an 800KB binary linking only libc. 14 cloud providers."
+licenses:
+  - GPL-3.0
+platforms:
+  - C
+tags:
+  - Automation
+  - Generative Artificial Intelligence (GenAI)
+  - Software Development - IDE & Tools
+depends_3rdparty: false
+related_software_url: "https://mithraeum.studio/#skills"
+icon_url: "https://github.com/mithraeums/.github/blob/main/assets/mithraeum-avatar.png?raw=true"

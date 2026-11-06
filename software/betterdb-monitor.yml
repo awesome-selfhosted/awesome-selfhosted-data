@@ -1,0 +1,12 @@
+name: "BetterDB Monitor"
+website_url: "https://www.betterdb.com"
+source_code_url: "https://github.com/BetterDB-inc/monitor"
+description: "Monitoring and observability for Valkey and other RESP-compatible databases. Includes slowlog/COMMANDLOG analysis, memory and ops forecasting, audit trail, Prometheus/OpenTelemetry export and ingestion, as well as an MCP server."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+  - Nodejs
+tags:
+  - Database Management

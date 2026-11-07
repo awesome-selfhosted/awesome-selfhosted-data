@@ -10,5 +10,5 @@ platforms:
 tags:
   - E-commerce
 depends_3rdparty: false
-demo_url: https://demo.shopnex.ai/admin
+demo_url: https://demo.shopnex.ai/admin/login?demo=true
 icon_url: https://raw.githubusercontent.com/shopnex-ai/shopnex/main/docs/images/logo.svg

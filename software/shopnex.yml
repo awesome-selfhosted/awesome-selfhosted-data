@@ -1,0 +1,14 @@
+name: ShopNex
+website_url: https://shopnex.ai
+source_code_url: https://github.com/shopnex-ai/shopnex
+description: Ready online store with Liquid storefront themes and isolated apps (alternative to Shopify, WooCommerce)
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - E-commerce
+depends_3rdparty: false
+demo_url: https://demo.shopnex.ai/admin
+icon_url: https://raw.githubusercontent.com/shopnex-ai/shopnex/main/docs/images/logo.svg

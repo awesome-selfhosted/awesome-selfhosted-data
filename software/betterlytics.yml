@@ -1,0 +1,12 @@
+name: Betterlytics
+website_url: https://betterlytics.io
+source_code_url: https://github.com/betterlytics/betterlytics
+description: Cookieless web analytics with funnels, session replay, error tracking, Core Web Vitals and uptime monitoring in one dashboard (alternative to Google Analytics).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Analytics
+demo_url: https://betterlytics.io/demo
+icon_url: https://betterlytics.io/apple-icon.png

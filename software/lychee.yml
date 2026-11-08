@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/LycheeOrg/Lychee
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/lychee.webp
 stargazers_count: 4330
-updated_at: '2026-11-05'
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: v7.12.1
-  published_at: '2026-11-03'
+  tag: v7.12.2
+  published_at: '2026-11-07'
 commit_history:
   2025-12: 45
   2026-01: 108
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 92
   2026-09: 102
   2026-10: 88
-  2026-11: 22
+  2026-11: 25

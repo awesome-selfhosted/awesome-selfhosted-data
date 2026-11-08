@@ -10,11 +10,11 @@ tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/slink.webp
 stargazers_count: 1618
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v1.14.5
-  published_at: '2026-10-31'
+  tag: v1.14.6
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 68
   2026-01: 67
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 14
   2026-09: 33
   2026-10: 50
-  2026-11: 3
+  2026-11: 10

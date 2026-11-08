@@ -9,12 +9,12 @@ platforms:
 tags:
   - Task Management & To-do Lists
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/super-productivity.webp
-stargazers_count: 23450
-updated_at: '2026-11-06'
+stargazers_count: 23492
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: v19.3.1
-  published_at: '2026-10-25'
+  tag: v20.0.0
+  published_at: '2026-11-06'
 commit_history:
   2026-02: 485
   2026-03: 648
@@ -25,4 +25,4 @@ commit_history:
   2026-08: 287
   2026-09: 296
   2026-10: 556
-  2026-11: 130
+  2026-11: 159

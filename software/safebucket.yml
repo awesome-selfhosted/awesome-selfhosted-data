@@ -10,8 +10,8 @@ platforms:
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/safebucket.webp
-stargazers_count: 994
-updated_at: '2026-11-06'
+stargazers_count: 993
+updated_at: '2026-11-07'
 archived: false
 current_release:
   tag: v0.8.1
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 35
   2026-09: 23
   2026-10: 23
-  2026-11: 1
+  2026-11: 5

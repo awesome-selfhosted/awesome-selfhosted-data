@@ -11,8 +11,8 @@ tags:
   - DNS
 source_code_url: https://github.com/pi-hole/pi-hole
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pi-hole.webp
-stargazers_count: 61695
-updated_at: '2026-10-17'
+stargazers_count: 61710
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v6.5
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 20
   2026-09: 7
   2026-10: 44
-  2026-11: 0
+  2026-11: 2

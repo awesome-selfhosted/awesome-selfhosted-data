@@ -10,8 +10,8 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ollama.webp
-stargazers_count: 186123
-updated_at: '2026-11-06'
+stargazers_count: 186290
+updated_at: '2026-11-08'
 archived: false
 current_release:
   tag: v0.40.15
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 104
   2026-09: 110
   2026-10: 153
-  2026-11: 16
+  2026-11: 22

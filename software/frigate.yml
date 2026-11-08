@@ -11,8 +11,8 @@ tags:
   - Video Surveillance
 source_code_url: https://github.com/blakeblackshear/frigate
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/frigate.webp
-stargazers_count: 37289
-updated_at: '2026-11-06'
+stargazers_count: 37323
+updated_at: '2026-11-07'
 archived: false
 current_release:
   tag: v0.18.2
@@ -28,5 +28,5 @@ commit_history:
   2026-07: 92
   2026-08: 86
   2026-09: 290
-  2026-10: 141
-  2026-11: 24
+  2026-10: 149
+  2026-11: 70

@@ -12,11 +12,11 @@ tags:
 demo_url: https://demo.wavelog.org
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wavelog.webp
 stargazers_count: 587
-updated_at: '2026-10-13'
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: 3.2.4
-  published_at: '2026-10-13'
+  tag: 3.2.5
+  published_at: '2026-11-07'
 commit_history:
   2025-12: 647
   2026-01: 527
@@ -27,6 +27,6 @@ commit_history:
   2026-06: 671
   2026-07: 783
   2026-08: 1072
-  2026-09: 568
-  2026-10: 208
-  2026-11: 0
+  2026-09: 571
+  2026-10: 436
+  2026-11: 98

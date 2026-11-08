@@ -9,12 +9,12 @@ tags:
   - Communication - Video Conferencing
 source_code_url: https://github.com/bigbluebutton/bigbluebutton
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/bigbluebutton.webp
-stargazers_count: 9269
+stargazers_count: 9271
 updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v4.0.1
-  published_at: '2026-10-29'
+  tag: v4.0.2
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 133
   2026-01: 183
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 168
   2026-08: 263
   2026-09: 329
-  2026-10: 864
-  2026-11: 151
+  2026-10: 865
+  2026-11: 159

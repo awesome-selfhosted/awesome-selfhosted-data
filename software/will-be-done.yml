@@ -11,12 +11,12 @@ tags:
   - Task Management & To-do Lists
 demo_url: https://demo.will-be-done.app/
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/will-be-done.webp
-stargazers_count: 175
-updated_at: '2026-11-06'
+stargazers_count: 179
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: v0.13.0
-  published_at: '2026-11-03'
+  tag: v0.14.0
+  published_at: '2026-11-07'
 commit_history:
   2026-05: 40
   2026-06: 173
@@ -24,4 +24,4 @@ commit_history:
   2026-08: 108
   2026-09: 5
   2026-10: 125
-  2026-11: 34
+  2026-11: 104

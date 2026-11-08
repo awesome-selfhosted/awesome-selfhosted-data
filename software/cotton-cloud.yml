@@ -1,7 +1,7 @@
 name: Cotton Cloud
 website_url: https://cottoncloud.dev
 source_code_url: https://github.com/bvdcode/cotton
-description: Self-hosted .NET file cloud with encrypted, deduplicated storage, file versioning, rich media and document previews, secure sharing, WebDAV, and desktop/mobile clients.
+description: .NET file cloud with encrypted, deduplicated storage, file versioning, rich media and document previews, secure sharing, WebDAV, and desktop/mobile clients.
 licenses:
   - MIT
 platforms:

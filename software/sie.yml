@@ -1,0 +1,13 @@
+name: SIE
+website_url: https://superlinked.com/
+source_code_url: https://github.com/superlinked/sie
+description: Inference server and production cluster for embeddings, reranking, OCR, structured output, content safety, and generative models through a unified API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+  - Python
+  - Rust
+tags:
+  - Generative Artificial Intelligence (GenAI)

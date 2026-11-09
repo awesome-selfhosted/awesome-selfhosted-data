@@ -1,0 +1,13 @@
+name: "Mentingo"
+website_url: "https://mentingo.com"
+source_code_url: "https://github.com/Selleo/mentingo"
+description: "Open-source, self-hosted AI-powered learning management system (LMS) with an AI mentor, voice role-play, course creation, employee onboarding, compliance training, multi-tenancy and white-label support."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Learning and Courses
+depends_3rdparty: true
+demo_url: "https://demo.mentingo.com"

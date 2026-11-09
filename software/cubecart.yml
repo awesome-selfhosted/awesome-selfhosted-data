@@ -1,0 +1,12 @@
+name: CubeCart
+website_url: "https://www.cubecart.com"
+source_code_url: "https://github.com/cubecart/v6"
+description: "Shopping cart software with catalogue, customer accounts, payments, shipping and stock control."
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+tags:
+  - E-commerce
+demo_url: "https://www.cubecart.com/demo"
+related_software_url: "https://www.cubecart.com/extensions"

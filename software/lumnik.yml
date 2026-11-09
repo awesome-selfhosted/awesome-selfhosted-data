@@ -1,0 +1,11 @@
+name: "lumnik"
+website_url: "https://lumnik.io"
+source_code_url: "https://github.com/icreated/lumnik-open"
+description: "lumnik reads your ERP, your exports and your APIs read-only. It merges their data to common entities, repairs the exports and serves it all to your teams and your tools with REST, PWA"
+licenses:
+  - Apache-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Miscellaneous

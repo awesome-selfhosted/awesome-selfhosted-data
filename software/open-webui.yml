@@ -10,12 +10,12 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/open-webui.webp
-stargazers_count: 158046
-updated_at: '2026-11-03'
+stargazers_count: 158149
+updated_at: '2026-11-08'
 archived: false
 current_release:
-  tag: v0.13.0
-  published_at: '2026-11-03'
+  tag: v0.13.3
+  published_at: '2026-11-08'
 commit_history:
   2025-12: 322
   2026-01: 280
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 552
   2026-09: 508
   2026-10: 1252
-  2026-11: 131
+  2026-11: 448

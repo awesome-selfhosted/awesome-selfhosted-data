@@ -1,0 +1,12 @@
+name: "SharedMoments"
+website_url: "https://github.com/tech-kev/SharedMoments"
+source_code_url: "https://github.com/tech-kev/SharedMoments"
+description: "Web app to capture and relive shared memories with photos, videos, timelines, countdowns, and notifications — for couples, families, and friends."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Photo Galleries
+demo_url: "https://sharedmoments.onrender.com/"

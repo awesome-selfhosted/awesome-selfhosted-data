@@ -1,0 +1,11 @@
+name: AmicoScript
+website_url: https://sim186.github.io/AmicoScript/
+source_code_url: https://github.com/sim186/AmicoScript
+description: Audio and video transcription tool based on Whisper models, with speaker diarization, full-text search, batch processing, subtitle and text exports, and optional summaries through a local LLM (alternative to Otter.ai, Rev).
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Media Management

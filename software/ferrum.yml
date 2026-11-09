@@ -1,0 +1,10 @@
+name: Ferrum
+website_url: https://ferrum.pandaailabs.com/
+source_code_url: https://github.com/sizzlecar/ferrum-infer-rs
+description: LLM inference server with an OpenAI-compatible API, streaming responses, and a CLI. Runs on Apple Silicon Metal and Linux NVIDIA CUDA (sm89).
+licenses:
+  - MIT
+platforms:
+  - Rust
+tags:
+  - Generative Artificial Intelligence (GenAI)

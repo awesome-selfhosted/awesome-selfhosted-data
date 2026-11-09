@@ -1,0 +1,11 @@
+name: "Sambee"
+website_url: "https://sambee.net/"
+source_code_url: "https://github.com/sambee-app/sambee"
+description: "Sambee gives you a self-hosted, browser-based workspace for files on SMB shares and local drives. Users can browse, view, and edit files from PCs and phones, or edit them in desktop apps with changes uploaded back to their original location."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - File Transfer - Web-based File Managers
+icon_url: "https://sambee.net/icons/icon-512.png"

@@ -1,0 +1,11 @@
+name: Soulkeep
+website_url: https://github.com/notalent13/soulkeep
+source_code_url: https://github.com/notalent13/soulkeep
+description: Soulkeep is a small Node.js utility that turns ListenBrainz .jspf playlists into organized MP3 folders using slskd/Soulseek to find and download music. It works on servers and local machines.
+licenses:
+  - GPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Media Management
+  - Automation

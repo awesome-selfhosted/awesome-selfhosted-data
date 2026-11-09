@@ -1,0 +1,13 @@
+name: "Jinear"
+website_url: "https://jinear.co"
+source_code_url: "https://github.com/140crafts/use-jinear"
+description: "Task management, calendar, notes and file sharing for small teams and individuals, with fine-grained access control and Google Calendar sync."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Java
+  - Nodejs
+tags:
+  - Task Management & To-do Lists
+  - Software Development - Project Management

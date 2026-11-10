@@ -1,0 +1,16 @@
+name: CheezyPizza
+website_url: https://www.cheezypizza.in
+source_code_url: https://github.com/hariharjeevan/cheezypizza
+description: Send files directly between browsers using WebRTC. No uploads, no cloud storage, and no middleman. Fast, secure, peer-to-peer file sharing. Forked from file.pizza.
+licenses:
+  - BSD 3-Clause
+platforms:
+  - Docker
+  - Nextjs
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://www.cheezypizza.in
+icon_url: https://www.cheezypizza.in/favicon.ico
+stargazers_count: 186
+updated_at: '2026-09-05'

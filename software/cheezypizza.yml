@@ -3,7 +3,7 @@ website_url: https://www.cheezypizza.in
 source_code_url: https://github.com/hariharjeevan/cheezypizza
 description: Send files directly between browsers using WebRTC. No uploads, no cloud storage, and no middleman. Fast, secure, peer-to-peer file sharing. Forked from file.pizza.
 licenses:
-  - BSD 3-Clause
+  - BSD-3-Clause
 platforms:
   - Docker
   - Nextjs

@@ -1,0 +1,10 @@
+name: CorvinOS
+website_url: https://corvin-labs.com
+source_code_url: https://github.com/CorvinLabs/CorvinOS
+description: Self-extending, self-learning platform for agentic software development with Claude Code, with built-in mechanisms enforcing GDPR and EU AI Act by design.
+licenses:
+  - Apache-2.0
+platforms:
+  - python
+tags:
+  - miscellaneous

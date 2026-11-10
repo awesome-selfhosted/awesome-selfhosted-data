@@ -22,3 +22,4 @@ steps:
         - https://github.com/clangen/musikcube # simple C++ application with no dependencies
         - https://github.com/doublespeakgames/adarkroom # static HTML/JS, simple/no maintenance required
         - https://github.com/rss2email/rss2email # simple python application, minimal maintenance required
+        - https://github.com/eldy/awstats # mature/feature-complete Perl log analyzer, low maintenance required

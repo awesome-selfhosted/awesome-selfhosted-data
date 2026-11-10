@@ -1,0 +1,10 @@
+name: SubSignature
+website_url: https://github.com/husisusi/SubSignature
+source_code_url: https://github.com/husisusi/SubSignature
+description: Email signature generator and manager for organizations, with HTML templates, LDAP/Active Directory and CSV import, user roles and a read-only API.
+licenses:
+  - MIT
+platforms:
+  - PHP
+tags:
+  - Miscellaneous

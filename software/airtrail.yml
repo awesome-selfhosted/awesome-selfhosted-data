@@ -10,8 +10,8 @@ platforms:
 tags:
   - Maps and Global Positioning System (GPS)
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/air-trail.webp
-stargazers_count: 1702
-updated_at: '2026-11-06'
+stargazers_count: 1705
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: v3.14.0
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 20
   2026-09: 19
   2026-10: 23
-  2026-11: 14
+  2026-11: 25

@@ -10,8 +10,8 @@ platforms:
 tags:
   - Web Servers
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/traefik.webp
-stargazers_count: 65495
-updated_at: '2026-11-05'
+stargazers_count: 65503
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: v3.8.0-rc.1
@@ -27,5 +27,5 @@ commit_history:
   2026-07: 90
   2026-08: 82
   2026-09: 109
-  2026-10: 84
-  2026-11: 1
+  2026-10: 93
+  2026-11: 34

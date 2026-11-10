@@ -9,8 +9,8 @@ tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/docker-mailserver/docker-mailserver
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/docker-mailserver.webp
-stargazers_count: 19734
-updated_at: '2026-11-05'
+stargazers_count: 19737
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: v17.0.0
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 25
   2026-09: 26
   2026-10: 14
-  2026-11: 7
+  2026-11: 8

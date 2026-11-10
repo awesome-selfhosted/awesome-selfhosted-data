@@ -13,8 +13,8 @@ source_code_url: https://github.com/nextcloud/server
 related_software_url: https://apps.nextcloud.com
 demo_url: https://try.nextcloud.com/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nextcloud.webp
-stargazers_count: 37451
-updated_at: '2026-11-09'
+stargazers_count: 37459
+updated_at: '2026-11-10'
 archived: false
 current_release:
   tag: v35.0.3rc1
@@ -29,6 +29,6 @@ commit_history:
   2026-06: 802
   2026-07: 712
   2026-08: 873
-  2026-09: 917
-  2026-10: 806
-  2026-11: 277
+  2026-09: 919
+  2026-10: 807
+  2026-11: 315

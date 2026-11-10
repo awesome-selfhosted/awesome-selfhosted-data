@@ -8,12 +8,12 @@ platforms:
 tags:
   - Calendar & Contacts
 source_code_url: https://github.com/ridafkih/keeper.sh
-stargazers_count: 1450
-updated_at: '2026-11-08'
+stargazers_count: 1455
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: v2.29.5
-  published_at: '2026-11-07'
+  tag: v2.29.6
+  published_at: '2026-11-09'
 commit_history:
   2026-04: 19
   2026-05: 11
@@ -22,4 +22,4 @@ commit_history:
   2026-08: 227
   2026-09: 31
   2026-10: 40
-  2026-11: 29
+  2026-11: 32

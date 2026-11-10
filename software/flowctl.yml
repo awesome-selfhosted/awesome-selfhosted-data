@@ -11,11 +11,11 @@ tags:
   - Automation
 demo_url: https://demo.flowctl.net
 stargazers_count: 346
-updated_at: '2026-10-29'
+updated_at: '2026-11-10'
 archived: false
 current_release:
-  tag: v0.16.0-beta.0
-  published_at: '2026-10-21'
+  tag: v0.16.0
+  published_at: '2026-11-10'
 commit_history:
   2026-03: 39
   2026-04: 40
@@ -25,4 +25,4 @@ commit_history:
   2026-08: 30
   2026-09: 10
   2026-10: 15
-  2026-11: 0
+  2026-11: 4

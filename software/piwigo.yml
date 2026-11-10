@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/Piwigo/Piwigo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/piwigo.webp
 stargazers_count: 3882
-updated_at: '2026-11-05'
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: 16.4.0
-  published_at: '2026-05-03'
+  tag: 16.5.0
+  published_at: '2026-11-09'
 commit_history:
   2025-12: 15
   2026-01: 12
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 2
   2026-10: 8
-  2026-11: 9
+  2026-11: 25

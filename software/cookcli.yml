@@ -9,12 +9,12 @@ platforms:
 tags:
   - Recipe Management
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/cookcli.webp
-stargazers_count: 1433
-updated_at: '2026-11-07'
+stargazers_count: 1435
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: v0.41.0
-  published_at: '2026-11-07'
+  tag: v0.41.1
+  published_at: '2026-11-09'
 commit_history:
   2025-12: 30
   2026-01: 85
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 146
   2026-09: 193
   2026-10: 145
-  2026-11: 22
+  2026-11: 24

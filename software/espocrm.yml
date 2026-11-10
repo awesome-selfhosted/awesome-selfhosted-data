@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/espocrm/espocrm
 demo_url: https://demo.espocrm.com/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/espocrm.webp
-stargazers_count: 3561
-updated_at: '2026-11-07'
+stargazers_count: 3564
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: 10.0.11
-  published_at: '2026-10-23'
+  tag: 10.1.0
+  published_at: '2026-11-09'
 commit_history:
   2025-12: 97
   2026-01: 95
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 107
   2026-09: 206
   2026-10: 152
-  2026-11: 25
+  2026-11: 33

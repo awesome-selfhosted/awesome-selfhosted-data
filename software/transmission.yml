@@ -10,8 +10,8 @@ tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/transmission/transmission
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/transmission.webp
-stargazers_count: 15398
-updated_at: '2026-11-07'
+stargazers_count: 15405
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: 4.1.4
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 17
   2026-09: 2
   2026-10: 15
-  2026-11: 3
+  2026-11: 4

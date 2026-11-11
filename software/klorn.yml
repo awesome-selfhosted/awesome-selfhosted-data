@@ -1,0 +1,11 @@
+name: Klorn
+website_url: https://klorn.ai
+description: Sorts incoming mail into five lanes with the reason shown on every message, bringing Gmail, Google Calendar, and IMAP accounts like iCloud or Naver into one place.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+tags:
+  - Communication - Email - Webmail Clients
+source_code_url: https://github.com/k08200/klorn
+demo_url: https://app.klorn.ai/playground

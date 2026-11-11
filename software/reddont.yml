@@ -1,0 +1,11 @@
+name: "reddont"
+website_url: "https://voc0der.github.io/reddont/"
+source_code_url: "https://github.com/voc0der/reddont"
+description: "Read-only Reddit client with a classic Reddit/RES-inspired interface, personal subscriptions, inline media, threaded comments, customizable themes, SSO, and JSON/Atom feeds."
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Communication - Social Networks and Forums
+depends_3rdparty: true

@@ -1,0 +1,13 @@
+name: SpyWeb
+website_url: https://spyweb.app
+source_code_url: https://github.com/spyweb-app/spyweb
+description: "Web-scraping and monitoring engine with Lua hooks, scheduler, dedupe, embedded storage, dashboard/API server, Lua test runner, browser automation (CDP), and a ~8MB cross-platform self-contained binary."
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Automation
+depends_3rdparty: false
+icon_url: "https://spyweb.app/icon.png"

@@ -6,7 +6,7 @@ licenses:
   - Apache-2.0
 platforms:
   - Python
-  - Javascript
+  - K8S
   - Docker
 tags:
   - Analytics

@@ -1,0 +1,12 @@
+name: Geek0thek
+website_url: https://thek.igerarts.be
+demo_url: https://demothek.igerarts.be
+source_code_url: https://github.com/Irwin0812/geek0thek
+description: Media library for cataloging vinyl records, comic books, video games, and books with multiple themes and languages.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Management

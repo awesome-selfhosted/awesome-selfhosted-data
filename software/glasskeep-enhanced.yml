@@ -1,0 +1,12 @@
+name: "GlassKeep"
+website_url: "https://victor-root.github.io/glasskeep-enhanced/"
+source_code_url: "https://github.com/Victor-root/glasskeep-enhanced"
+description: "Notes manager built for privacy and offline use with a native Android companion app. An enghanced Google Keep replacement"
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Note-taking & Editors
+  - Task Management & To-do Lists
+icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/glass-keep.webp"

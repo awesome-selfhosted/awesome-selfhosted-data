@@ -1,0 +1,12 @@
+name: OpenSEO
+website_url: https://openseo.so
+source_code_url: https://github.com/every-app/open-seo
+description: Research keywords, analyze competitors and backlinks, run technical site audits, and track AI search visibility (alternative to Semrush, Ahrefs).
+licenses:
+  - MIT
+platforms:
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: true
+icon_url: https://raw.githubusercontent.com/every-app/open-seo/main/plugins/openseo/assets/icon.png

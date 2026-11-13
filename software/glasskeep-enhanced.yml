@@ -1,16 +1,10 @@
 name: "GlassKeep"
 website_url: "https://victor-root.github.io/glasskeep-enhanced/"
 source_code_url: "https://github.com/Victor-root/glasskeep-enhanced"
-description: "A self-hosted, local-first notes app focused on offline support, safer note management, mobile usability, straightforward self-hosting, and a native Android companion app."
+description: "Notes manager built for privacy and offline use with a native Android companion app. An enghanced Google Keep replacement"
 licenses:
   - MIT
 platforms:
-  - Java
-  - Kotlin
-  - HTML
-  - Shell
-  - CSS
-  - Python
   - Docker
 tags:
   - Note-taking & Editors

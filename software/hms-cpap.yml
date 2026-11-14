@@ -1,0 +1,11 @@
+name: "HMS-CPAP"
+website_url: "https://www.cpapdash.com/opensource"
+source_code_url: "https://github.com/hms-homelab/hms-cpap"
+description: "Lightweight CPAP viewer with live tracking and historical data analysis. Reads ResMed, Philips DreamStation 2, Lowenstein, Sefam and BMC Luna. Works with Home Assistant. It can be paired with custom local hardware and protocols like Bluetooth."
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - C++
+tags:
+  - Health and Fitness

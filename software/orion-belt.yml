@@ -1,0 +1,13 @@
+name: Orion Belt
+website_url: https://orion-belt.dev
+source_code_url: https://github.com/orion-belt-dev/orion-belt
+description: Provides a unified access gateway for SSH, RDP, VNC and Kubernetes, with recorded SSH sessions, audited connections, and just-in-time (JIT) access approvals.
+licenses:
+  - Apache-2.0
+  - Commons-Clause
+platforms:
+  - Go
+  - Docker
+  - deb
+tags:
+  - Remote Access

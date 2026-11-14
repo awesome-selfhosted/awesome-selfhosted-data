@@ -14,14 +14,13 @@ tags:
   - Photo Galleries
 related_software_url: https://github.com/bewcloud
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bewcloud.webp
-stargazers_count: 1237
-updated_at: '2026-10-10'
+stargazers_count: 1251
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v4.17.0
-  published_at: '2026-10-10'
+  tag: v4.22.0
+  published_at: '2026-11-05'
 commit_history:
-  2025-11: 4
   2025-12: 17
   2026-01: 5
   2026-02: 13
@@ -32,4 +31,5 @@ commit_history:
   2026-07: 6
   2026-08: 5
   2026-09: 1
-  2026-10: 4
+  2026-10: 15
+  2026-11: 1

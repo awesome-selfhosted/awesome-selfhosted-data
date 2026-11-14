@@ -9,14 +9,13 @@ licenses:
   - MIT
 tags:
   - File Transfer - Peer-to-peer Filesharing
-stargazers_count: 141
-updated_at: '2026-09-18'
+stargazers_count: 149
+updated_at: '2026-11-06'
 archived: false
 current_release:
   tag: v1.3.0
   published_at: '2026-06-08'
 commit_history:
-  2025-11: 11
   2025-12: 12
   2026-01: 0
   2026-02: 10
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 1
-  2026-10: 0
+  2026-10: 5
+  2026-11: 4

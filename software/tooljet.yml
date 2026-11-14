@@ -11,14 +11,13 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/ToolJet/ToolJet
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tooljet.webp
-stargazers_count: 41075
-updated_at: '2026-10-09'
+stargazers_count: 41212
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: v3.20.243-lts
-  published_at: '2026-10-09'
+  tag: v3.21.94-beta
+  published_at: '2026-11-06'
 commit_history:
-  2025-11: 41
   2025-12: 89
   2026-01: 127
   2026-02: 176
@@ -27,6 +26,7 @@ commit_history:
   2026-05: 513
   2026-06: 451
   2026-07: 374
-  2026-08: 523
-  2026-09: 882
-  2026-10: 145
+  2026-08: 527
+  2026-09: 1162
+  2026-10: 820
+  2026-11: 200

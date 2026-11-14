@@ -1,6 +1,6 @@
 name: LMS
 website_url: https://github.com/epoupon/lms
-description: Access your self-hosted music using a web interface.
+description: Access your own music using a web interface.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,14 +10,13 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/epoupon/lms
-stargazers_count: 1685
-updated_at: '2026-09-18'
+stargazers_count: 1699
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: v3.81.0
-  published_at: '2026-09-18'
+  tag: v3.82.0
+  published_at: '2026-11-05'
 commit_history:
-  2025-11: 35
   2025-12: 29
   2026-01: 11
   2026-02: 32
@@ -27,5 +26,6 @@ commit_history:
   2026-06: 71
   2026-07: 24
   2026-08: 39
-  2026-09: 20
-  2026-10: 0
+  2026-09: 23
+  2026-10: 15
+  2026-11: 17

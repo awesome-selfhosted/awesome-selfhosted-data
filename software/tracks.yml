@@ -1,6 +1,6 @@
 name: Tracks
 website_url: https://www.getontracks.org/
-description: Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology.
+description: Web-based application to help you implement David Allen’s Getting Things Done™ methodology.
 licenses:
   - GPL-2.0
 platforms:
@@ -15,7 +15,6 @@ current_release:
   tag: v2.7.1
   published_at: '2024-07-25'
 commit_history:
-  2025-11: 11
   2025-12: 11
   2026-01: 22
   2026-02: 5
@@ -27,3 +26,4 @@ commit_history:
   2026-08: 1
   2026-09: 0
   2026-10: 0
+  2026-11: 0

@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/asciimoo/hister
 demo_url: https://demo.hister.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hister.webp
-stargazers_count: 5965
-updated_at: '2026-10-11'
+stargazers_count: 6271
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: rolling
@@ -25,4 +25,5 @@ commit_history:
   2026-07: 199
   2026-08: 263
   2026-09: 182
-  2026-10: 47
+  2026-10: 203
+  2026-11: 104

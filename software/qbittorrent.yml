@@ -9,11 +9,10 @@ tags:
   - File Transfer - Peer-to-peer Filesharing
 source_code_url: https://github.com/qbittorrent/qBittorrent
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/qbittorrent.webp
-stargazers_count: 40735
-updated_at: '2026-10-11'
+stargazers_count: 41483
+updated_at: '2026-11-09'
 archived: false
 commit_history:
-  2025-11: 24
   2025-12: 30
   2026-01: 31
   2026-02: 35
@@ -24,7 +23,8 @@ commit_history:
   2026-07: 55
   2026-08: 30
   2026-09: 37
-  2026-10: 20
+  2026-10: 52
+  2026-11: 26
 current_release:
-  tag: release-5.2.4
-  published_at: '2026-09-28'
+  tag: release-5.3.0
+  published_at: '2026-10-20'

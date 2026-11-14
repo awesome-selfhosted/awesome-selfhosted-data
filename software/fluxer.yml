@@ -11,14 +11,15 @@ tags:
 demo_url: https://fluxer.app
 related_software_url: https://github.com/awesome-fluxer/awesome-fluxer
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fluxer.webp
-stargazers_count: 10543
-updated_at: '2026-10-11'
+stargazers_count: 10834
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: fluxer-media-proxy@2026.1011.938
-  published_at: '2026-10-11'
+  tag: fluxer-users@2026.1109.42852
+  published_at: '2026-11-09'
 commit_history:
   2026-07: 59
   2026-08: 692
   2026-09: 587
-  2026-10: 244
+  2026-10: 1553
+  2026-11: 247

@@ -8,14 +8,14 @@ platforms:
   - Docker
 tags:
   - Generative Artificial Intelligence (GenAI)
-stargazers_count: 4827
-updated_at: '2026-10-08'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/agentaia.webp
+stargazers_count: 4900
+updated_at: '2026-11-08'
 archived: false
 current_release:
-  tag: v0.122.4
-  published_at: '2026-10-07'
+  tag: v0.128.11
+  published_at: '2026-11-07'
 commit_history:
-  2025-11: 582
   2025-12: 1308
   2026-01: 1313
   2026-02: 1527
@@ -24,6 +24,7 @@ commit_history:
   2026-05: 1385
   2026-06: 1533
   2026-07: 1927
-  2026-08: 3208
-  2026-09: 4081
-  2026-10: 746
+  2026-08: 3209
+  2026-09: 4093
+  2026-10: 2660
+  2026-11: 1031

@@ -10,14 +10,13 @@ tags:
   - Communication - SIP
 source_code_url: https://github.com/asterisk/asterisk
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/asterisk.webp
-stargazers_count: 3606
-updated_at: '2026-10-09'
+stargazers_count: 3676
+updated_at: '2026-11-05'
 archived: false
 current_release:
-  tag: 24.0.0-rc2
-  published_at: '2026-10-08'
+  tag: 24.0.0
+  published_at: '2026-11-05'
 commit_history:
-  2025-11: 18
   2025-12: 31
   2026-01: 21
   2026-02: 21
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 20
   2026-08: 33
   2026-09: 27
-  2026-10: 10
+  2026-10: 28
+  2026-11: 9

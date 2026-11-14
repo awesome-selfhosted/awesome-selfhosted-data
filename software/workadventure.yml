@@ -11,14 +11,13 @@ tags:
 source_code_url: https://github.com/workadventure/workadventure
 demo_url: https://play.staging.workadventu.re/@/tcm/workadventure/wa-village
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/workadventure.webp
-stargazers_count: 5846
-updated_at: '2026-10-09'
+stargazers_count: 5919
+updated_at: '2026-11-09'
 archived: false
 current_release:
-  tag: v1.34.1
-  published_at: '2026-10-09'
+  tag: v1.34.5
+  published_at: '2026-10-27'
 commit_history:
-  2025-11: 65
   2025-12: 118
   2026-01: 122
   2026-02: 88
@@ -28,5 +27,6 @@ commit_history:
   2026-06: 172
   2026-07: 86
   2026-08: 47
-  2026-09: 248
-  2026-10: 146
+  2026-09: 249
+  2026-10: 348
+  2026-11: 26

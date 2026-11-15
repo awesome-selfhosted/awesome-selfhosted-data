@@ -1,0 +1,16 @@
+name: filex
+website_url: https://filex.sh
+source_code_url: https://github.com/BRF-Tech/filex
+description: "File manager lets you control storage and can also let you create storage types like: FTP, SFTP, WebDAV, S3, SMB, Local etc. You can write custom storage drivers and you can write custom apps."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - File Transfer - Web-based File Managers
+  - File Transfer - Object Storage & File Servers
+  - File Transfer & Synchronization
+demo_url: https://demo.filex.sh
+icon_url: https://raw.githubusercontent.com/BRF-Tech/filex/main/docs/logo.png

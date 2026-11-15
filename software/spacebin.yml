@@ -1,0 +1,13 @@
+name: "Spacebin"
+website_url: "https://spaceb.in"
+source_code_url: "https://github.com/lukewhrit/spacebin"
+description: "modern Pastebin server implemented in Go with JS-free UI, encrypted pastes, user accounts, and more"
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Pastebins
+depends_3rdparty: false
+demo_url: "https://spaceb.in"

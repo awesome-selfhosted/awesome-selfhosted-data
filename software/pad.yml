@@ -1,0 +1,12 @@
+name: Pad
+website_url: https://getpad.dev
+source_code_url: https://github.com/PerpetualSoftware/pad
+description: Project management in a single binary, with tasks, docs, plans and playbooks you can work with from a web UI, a CLI, or an AI coding agent.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Software Development - Project Management
+icon_url: https://raw.githubusercontent.com/PerpetualSoftware/pad/main/docs/brand/mark/pad-app-icon.svg

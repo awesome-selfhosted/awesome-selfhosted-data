@@ -1,0 +1,12 @@
+name: MuckScraper
+website_url: https://github.com/grregis/MuckScraper
+description: Privacy-focused news aggregator with local AI story grouping and analysis.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Feed Readers
+source_code_url: https://github.com/grregis/MuckScraper
+demo_url: https://sample.muckscraper.news

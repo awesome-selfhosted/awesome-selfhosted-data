@@ -1,0 +1,13 @@
+name: "vsummary"
+website_url: "https://github.com/alpha03123/vsummary"
+source_code_url: "https://github.com/alpha03123/vsummary"
+description: "Local video summarizer that turns offline recordings, Bilibili videos, and courses into timestamped mind maps, summaries, and knowledge cards, with series-wide Q&A and MCP support (documentation in Chinese)."
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Knowledge Management Tools
+  - Learning and Courses
+  - Media Management
+depends_3rdparty: true

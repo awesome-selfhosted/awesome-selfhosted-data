@@ -1,5 +1,5 @@
 name: Hister
-website_url: https://hister.org/
+website_url: https://nogon.eu/
 description: Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search.
 licenses:
   - AGPL-3.0
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Search Engines
-source_code_url: https://github.com/asciimoo/hister
+source_code_url: https://github.com/asciimoo/nogon
 demo_url: https://demo.hister.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/hister.webp
 stargazers_count: 6294

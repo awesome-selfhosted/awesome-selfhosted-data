@@ -10,12 +10,12 @@ tags:
   - Manufacturing
 source_code_url: https://github.com/OctoPrint/OctoPrint
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/octoprint.webp
-stargazers_count: 9190
-updated_at: '2026-11-10'
+stargazers_count: 9203
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: 2.0.0rc7
-  published_at: '2026-10-20'
+  tag: 2.0.0
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 17
   2026-01: 50
@@ -26,6 +26,6 @@ commit_history:
   2026-06: 57
   2026-07: 19
   2026-08: 26
-  2026-09: 18
-  2026-10: 102
-  2026-11: 6
+  2026-09: 24
+  2026-10: 107
+  2026-11: 27

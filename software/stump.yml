@@ -9,12 +9,12 @@ tags:
   - Document Management - E-books
 source_code_url: https://github.com/stumpapp/stump
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stump.webp
-stargazers_count: 2781
-updated_at: '2026-11-01'
+stargazers_count: 2785
+updated_at: '2026-11-14'
 archived: false
 current_release:
-  tag: v0.1.12
-  published_at: '2026-11-01'
+  tag: v0.1.13
+  published_at: '2026-11-14'
 commit_history:
   2025-12: 0
   2026-01: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 64
   2026-09: 98
   2026-10: 61
-  2026-11: 1
+  2026-11: 44

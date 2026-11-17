@@ -11,12 +11,12 @@ tags:
   - Recipe Management
 demo_url: https://recipes.musicavis.ca/guide/login
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/recipya.webp
-stargazers_count: 412
+stargazers_count: 414
 updated_at: '2026-11-01'
 archived: false
 current_release:
-  tag: nightly
-  published_at: '2026-11-02'
+  tag: v1.2.2
+  published_at: '2024-12-20'
 commit_history:
   2025-12: 0
   2026-01: 0

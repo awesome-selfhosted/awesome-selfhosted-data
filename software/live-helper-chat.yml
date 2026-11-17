@@ -8,12 +8,12 @@ platforms:
 tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/LiveHelperChat/livehelperchat
-stargazers_count: 2255
-updated_at: '2026-11-09'
+stargazers_count: 2258
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: 4.99v
-  published_at: '2026-11-05'
+  tag: 5.01v
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 48
   2026-01: 36
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 56
   2026-09: 42
   2026-10: 91
-  2026-11: 14
+  2026-11: 72

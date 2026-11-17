@@ -9,12 +9,12 @@ tags:
   - Maps and Global Positioning System (GPS)
 source_code_url: https://github.com/Freika/dawarich
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dawarich.webp
-stargazers_count: 10900
-updated_at: '2026-11-07'
+stargazers_count: 10975
+updated_at: '2026-11-15'
 archived: false
 current_release:
-  tag: 1.22.0
-  published_at: '2026-11-07'
+  tag: 1.23.0
+  published_at: '2026-11-15'
 commit_history:
   2025-12: 73
   2026-01: 73
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 530
   2026-09: 652
   2026-10: 724
-  2026-11: 50
+  2026-11: 313

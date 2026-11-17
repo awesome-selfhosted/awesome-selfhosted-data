@@ -9,12 +9,12 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gameyfin.webp
-stargazers_count: 1151
-updated_at: '2026-11-09'
+stargazers_count: 1156
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: v2.6.1
-  published_at: '2026-11-08'
+  tag: v2.6.2
+  published_at: '2026-11-12'
 commit_history:
   2025-12: 12
   2026-01: 1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 8
-  2026-11: 3
+  2026-11: 5

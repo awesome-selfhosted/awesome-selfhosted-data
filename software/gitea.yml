@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/go-gitea/gitea
 demo_url: https://gitea.com/explore/repos
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gitea.webp
-stargazers_count: 58991
-updated_at: '2026-11-10'
+stargazers_count: 59122
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v28.3.0
-  published_at: '2026-11-01'
+  tag: v28.4.0
+  published_at: '2026-11-15'
 commit_history:
   2025-12: 102
   2026-01: 95
@@ -30,4 +30,4 @@ commit_history:
   2026-08: 226
   2026-09: 151
   2026-10: 266
-  2026-11: 91
+  2026-11: 143

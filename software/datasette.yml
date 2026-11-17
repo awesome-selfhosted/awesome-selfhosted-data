@@ -10,12 +10,12 @@ tags:
   - Database Management
 source_code_url: https://github.com/simonw/datasette
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/datasette.webp
-stargazers_count: 11554
-updated_at: '2026-11-09'
+stargazers_count: 11588
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: 1.0a42
-  published_at: '2026-11-08'
+  tag: 0.65.6
+  published_at: '2026-11-15'
 commit_history:
   2025-12: 13
   2026-01: 12
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 3
   2026-09: 143
   2026-10: 10
-  2026-11: 106
+  2026-11: 174

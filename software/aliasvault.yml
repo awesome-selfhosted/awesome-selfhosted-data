@@ -9,12 +9,12 @@ platforms:
 tags:
   - Password Managers
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/aliasvault.webp
-stargazers_count: 3503
-updated_at: '2026-11-09'
+stargazers_count: 3541
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: 0.31.2
-  published_at: '2026-11-06'
+  tag: 0.31.3
+  published_at: '2026-11-11'
 commit_history:
   2025-12: 200
   2026-01: 322
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 273
   2026-09: 471
   2026-10: 355
-  2026-11: 100
+  2026-11: 170

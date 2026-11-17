@@ -13,12 +13,12 @@ tags:
   - Pastebins
   - URL Shorteners
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/snowshare.webp
-stargazers_count: 110
-updated_at: '2026-11-07'
+stargazers_count: 112
+updated_at: '2026-11-14'
 archived: false
 current_release:
-  tag: v1.5.8
-  published_at: '2026-11-03'
+  tag: v1.5.10
+  published_at: '2026-11-11'
 commit_history:
   2026-05: 121
   2026-06: 65
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 22
   2026-09: 34
   2026-10: 16
-  2026-11: 9
+  2026-11: 21

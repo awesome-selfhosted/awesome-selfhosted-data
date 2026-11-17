@@ -10,12 +10,12 @@ platforms:
 tags:
   - Document Management
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/documenso.webp
-stargazers_count: 15707
-updated_at: '2026-11-05'
+stargazers_count: 15789
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: v2.21.1
-  published_at: '2026-10-22'
+  tag: v2.22.0
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 88
   2026-01: 62
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 38
   2026-09: 49
   2026-10: 31
-  2026-11: 12
+  2026-11: 27

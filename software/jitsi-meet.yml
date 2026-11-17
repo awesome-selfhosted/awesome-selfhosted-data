@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/jitsi/jitsi-meet
 demo_url: https://meet.jit.si
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/jitsi-meet.webp
-stargazers_count: 30210
-updated_at: '2026-11-10'
+stargazers_count: 30245
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: stable/jitsi-meet_11248
-  published_at: '2026-09-14'
+  tag: stable/jitsi-meet_11509
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 29
   2026-01: 49
@@ -30,4 +30,4 @@ commit_history:
   2026-08: 62
   2026-09: 132
   2026-10: 151
-  2026-11: 90
+  2026-11: 172

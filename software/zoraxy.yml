@@ -10,12 +10,12 @@ platforms:
 tags:
   - Web Servers
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/zoraxy.webp
-stargazers_count: 5576
-updated_at: '2026-11-02'
+stargazers_count: 5581
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: v3.3.5-rc5
-  published_at: '2026-11-04'
+  tag: v3.3.5
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 71
   2026-01: 65
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 31
   2026-09: 46
   2026-10: 28
-  2026-11: 2
+  2026-11: 7

@@ -9,16 +9,16 @@ platforms:
 tags:
   - Time Tracking
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/timetracker.webp
-stargazers_count: 641
-updated_at: '2026-11-09'
+stargazers_count: 644
+updated_at: '2026-11-15'
 archived: false
 current_release:
-  tag: v5.19.1
-  published_at: '2026-11-07'
+  tag: v5.20.0
+  published_at: '2026-11-10'
 commit_history:
   2026-06: 59
   2026-07: 67
   2026-08: 130
   2026-09: 85
   2026-10: 92
-  2026-11: 132
+  2026-11: 196

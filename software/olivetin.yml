@@ -9,12 +9,12 @@ tags:
   - Automation
 source_code_url: https://github.com/OliveTin/OliveTin
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/olivetin.webp
-stargazers_count: 3881
-updated_at: '2026-10-24'
+stargazers_count: 3886
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: 3000.21.0
-  published_at: '2026-10-24'
+  tag: 3000.22.0
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 48
   2026-01: 79
@@ -26,5 +26,5 @@ commit_history:
   2026-07: 112
   2026-08: 21
   2026-09: 62
-  2026-10: 29
-  2026-11: 0
+  2026-10: 32
+  2026-11: 49

@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/umami-software/umami
 demo_url: https://cloud.umami.is/share/LGazGOecbDtaIwDr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/umami.webp
-stargazers_count: 40026
-updated_at: '2026-10-23'
+stargazers_count: 40185
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: v3.4.1
-  published_at: '2026-10-23'
+  tag: v3.5.0
+  published_at: '2026-11-12'
 commit_history:
   2025-12: 50
   2026-01: 0
@@ -27,6 +27,6 @@ commit_history:
   2026-06: 116
   2026-07: 105
   2026-08: 87
-  2026-09: 90
-  2026-10: 13
-  2026-11: 0
+  2026-09: 158
+  2026-10: 181
+  2026-11: 45

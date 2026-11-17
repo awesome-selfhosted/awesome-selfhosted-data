@@ -11,12 +11,12 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/gravitational/teleport
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/teleport.webp
-stargazers_count: 21086
+stargazers_count: 21108
 updated_at: '2026-08-25'
 archived: false
 current_release:
-  tag: v18.10.0
-  published_at: '2026-07-09'
+  tag: v18.11.10
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 257
   2026-01: 304

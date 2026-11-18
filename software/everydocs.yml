@@ -9,12 +9,12 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/jonashellmann/everydocs-core
-stargazers_count: 430
-updated_at: '2026-11-06'
+stargazers_count: 435
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: v1.6.0
-  published_at: '2026-11-06'
+  tag: v1.6.1
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 0
   2026-01: 0
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 2
   2026-09: 0
   2026-10: 0
-  2026-11: 6
+  2026-11: 9

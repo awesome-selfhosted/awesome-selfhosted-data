@@ -1,0 +1,11 @@
+name: Svelte Commerce
+website_url: https://github.com/misiki-in/svelte-commerce
+description: Headless storefront built with SvelteKit, with connectors for 26 e-commerce backends such as Medusa, Saleor, Vendure and WooCommerce.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - E-commerce
+source_code_url: https://github.com/misiki-in/svelte-commerce

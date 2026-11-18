@@ -1,0 +1,11 @@
+name: WulfVault
+website_url: https://github.com/Frimurare/WulfVault
+description: File sharing platform for large files with resumable uploads, per-download tracking and audit log, user quotas, teams, upload request portals and SSO (Microsoft Entra ID / OpenID Connect).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Single-click & Drag-n-drop Upload
+source_code_url: https://github.com/Frimurare/WulfVault

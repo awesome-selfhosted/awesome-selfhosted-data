@@ -9,12 +9,12 @@ tags:
   - File Transfer & Synchronization
 source_code_url: https://github.com/Kinto/kinto
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/kinto.webp
-stargazers_count: 4423
-updated_at: '2026-11-09'
+stargazers_count: 4425
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: 26.5.0
-  published_at: '2026-10-13'
+  tag: 26.6.0
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 9
   2026-01: 12
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 13
   2026-09: 16
   2026-10: 17
-  2026-11: 7
+  2026-11: 16

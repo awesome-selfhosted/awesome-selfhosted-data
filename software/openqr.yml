@@ -1,0 +1,11 @@
+name: OpenQR
+website_url: https://openqr.uk
+source_code_url: https://github.com/open-qr/openqr
+description: Browser-based QR code generator with no tracking, sign-up or watermarks; styling, logos and batch export to PNG, SVG and PDF. Self-host as a Docker image or Node.js app.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Miscellaneous

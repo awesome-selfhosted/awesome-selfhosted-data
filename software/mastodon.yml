@@ -10,8 +10,8 @@ tags:
 source_code_url: https://github.com/mastodon/mastodon
 related_software_url: https://github.com/hyperupcall/awesome-mastodon
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mastodon.webp
-stargazers_count: 50588
-updated_at: '2026-11-16'
+stargazers_count: 50707
+updated_at: '2026-11-17'
 archived: false
 current_release:
   tag: v4.7.5
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 205
   2026-09: 307
   2026-10: 447
-  2026-11: 186
+  2026-11: 196

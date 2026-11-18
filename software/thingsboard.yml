@@ -12,8 +12,8 @@ tags:
 source_code_url: https://github.com/thingsboard/thingsboard
 demo_url: https://demo.thingsboard.io/signup
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/thingsboard.webp
-stargazers_count: 22683
-updated_at: '2026-11-16'
+stargazers_count: 22690
+updated_at: '2026-11-17'
 archived: false
 current_release:
   tag: v4.4.0.2
@@ -29,5 +29,5 @@ commit_history:
   2026-07: 85
   2026-08: 120
   2026-09: 323
-  2026-10: 604
-  2026-11: 434
+  2026-10: 696
+  2026-11: 506

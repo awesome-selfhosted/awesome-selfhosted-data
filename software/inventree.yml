@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/inventree/InvenTree
 demo_url: https://inventree.org/demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/inventree.webp
-stargazers_count: 7871
-updated_at: '2026-11-16'
+stargazers_count: 7876
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: 1.7.2
-  published_at: '2026-11-12'
+  tag: 1.7.3
+  published_at: '2026-11-17'
 commit_history:
   2025-12: 67
   2026-01: 77
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 114
   2026-09: 119
   2026-10: 117
-  2026-11: 99
+  2026-11: 109

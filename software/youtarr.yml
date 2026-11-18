@@ -11,11 +11,11 @@ tags:
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/youtarr.webp
 stargazers_count: 1820
-updated_at: '2026-11-14'
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v1.92.0
-  published_at: '2026-11-14'
+  tag: v1.93.0
+  published_at: '2026-11-17'
 commit_history:
   2026-03: 57
   2026-04: 311
@@ -25,4 +25,4 @@ commit_history:
   2026-08: 53
   2026-09: 227
   2026-10: 117
-  2026-11: 78
+  2026-11: 94

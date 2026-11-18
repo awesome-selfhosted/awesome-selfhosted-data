@@ -12,11 +12,11 @@ tags:
 demo_url: https://gath.io/
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/gathio.webp
 stargazers_count: 467
-updated_at: '2026-11-09'
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v1.6.7
-  published_at: '2026-09-07'
+  tag: v1.7.0
+  published_at: '2026-11-17'
 commit_history:
   2025-12: 0
   2026-01: 6
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 18
   2026-09: 17
   2026-10: 0
-  2026-11: 5
+  2026-11: 11

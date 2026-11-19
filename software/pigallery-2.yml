@@ -10,12 +10,12 @@ tags:
   - Photo Galleries
 source_code_url: https://github.com/bpatrik/pigallery2
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/pigallery2.webp
-stargazers_count: 2322
-updated_at: '2026-11-17'
+stargazers_count: 2325
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: 3.5.2
-  published_at: '2026-01-24'
+  tag: 3.8.0
+  published_at: '2026-11-18'
 commit_history:
   2025-12: 70
   2026-01: 32
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 6
   2026-09: 0
   2026-10: 141
-  2026-11: 456
+  2026-11: 467

@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/the-djmaze/snappymail
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/snappymail.webp
 stargazers_count: 1759
-updated_at: '2026-11-17'
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: v3.0.1
-  published_at: '2026-11-09'
+  tag: v3.1.3
+  published_at: '2026-11-18'
 commit_history:
   2026-01: 0
   2026-02: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 6
   2026-09: 3
   2026-10: 111
-  2026-11: 191
+  2026-11: 207

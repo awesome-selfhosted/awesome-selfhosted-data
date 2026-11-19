@@ -10,12 +10,12 @@ tags:
   - Analytics
 source_code_url: https://github.com/metabase/metabase
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/metabase.webp
-stargazers_count: 50390
-updated_at: '2026-11-18'
+stargazers_count: 50410
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v0.65.4
-  published_at: '2026-11-13'
+  tag: v0.65.6
+  published_at: '2026-11-18'
 commit_history:
   2025-12: 453
   2026-01: 482
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 685
   2026-09: 666
   2026-10: 934
-  2026-11: 511
+  2026-11: 545

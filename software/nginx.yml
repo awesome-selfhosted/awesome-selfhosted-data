@@ -11,12 +11,12 @@ platforms:
 tags:
   - Web Servers
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx.webp
-stargazers_count: 32152
-updated_at: '2026-11-09'
+stargazers_count: 32173
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: release-1.31.8
-  published_at: '2026-10-21'
+  tag: release-1.31.9
+  published_at: '2026-11-18'
 commit_history:
   2025-12: 17
   2026-01: 9
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 29
   2026-09: 34
   2026-10: 38
-  2026-11: 12
+  2026-11: 31

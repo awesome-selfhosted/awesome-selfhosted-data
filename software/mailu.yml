@@ -10,12 +10,12 @@ tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/Mailu/Mailu
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mailu.webp
-stargazers_count: 7634
-updated_at: '2026-11-14'
+stargazers_count: 7633
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: 2024.06.68
-  published_at: '2026-11-08'
+  tag: 2024.06.69
+  published_at: '2026-11-18'
 commit_history:
   2025-12: 4
   2026-01: 4
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 15
   2026-09: 69
   2026-10: 95
-  2026-11: 89
+  2026-11: 96

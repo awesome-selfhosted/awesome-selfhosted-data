@@ -9,11 +9,11 @@ tags:
   - Document Management - Institutional Repository and Digital Library Software
 source_code_url: https://github.com/samvera/hyrax
 stargazers_count: 201
-updated_at: '2026-11-17'
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: hyrax-v5.3.1
-  published_at: '2026-10-02'
+  tag: hyrax-chart-4.1.1
+  published_at: '2026-11-18'
 commit_history:
   2025-12: 36
   2026-01: 13
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 47
   2026-09: 68
   2026-10: 76
-  2026-11: 32
+  2026-11: 39

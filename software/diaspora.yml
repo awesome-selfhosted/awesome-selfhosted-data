@@ -8,11 +8,11 @@ platforms:
 tags:
   - Communication - Social Networks and Forums
 source_code_url: https://github.com/diaspora/diaspora
-stargazers_count: 13651
-updated_at: '2026-11-17'
+stargazers_count: 13652
+updated_at: '2026-11-18'
 archived: false
 current_release:
-  tag: v0.10.0
+  tag: v0.10.1
   published_at: '2026-11-18'
 commit_history:
   2025-12: 0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 10
+  2026-11: 14

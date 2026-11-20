@@ -1,0 +1,14 @@
+name: Drumee
+website_url: https://drumee.com
+source_code_url: https://github.com/drumee/server-team
+description: (bạn tự viết)
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - deb
+tags:
+  - Groupware
+  - Communication - Custom Communication Systems
+  - File Transfer & Synchronization

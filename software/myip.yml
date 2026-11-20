@@ -12,12 +12,12 @@ tags:
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/myip.webp
-stargazers_count: 12394
-updated_at: '2026-11-17'
+stargazers_count: 12399
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v8.1.0
-  published_at: '2026-11-08'
+  tag: v8.2.0
+  published_at: '2026-11-19'
 commit_history:
   2025-12: 2
   2026-01: 15
@@ -30,4 +30,4 @@ commit_history:
   2026-08: 280
   2026-09: 83
   2026-10: 214
-  2026-11: 56
+  2026-11: 144

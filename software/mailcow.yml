@@ -10,12 +10,12 @@ tags:
   - Communication - Email - Complete Solutions
 source_code_url: https://github.com/mailcow/mailcow-dockerized
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mailcow.webp
-stargazers_count: 13842
-updated_at: '2026-11-18'
+stargazers_count: 13849
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: 2026-11a
-  published_at: '2026-11-18'
+  tag: 2026-11b
+  published_at: '2026-11-19'
 commit_history:
   2025-12: 34
   2026-01: 25
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 24
   2026-09: 12
   2026-10: 85
-  2026-11: 90
+  2026-11: 93

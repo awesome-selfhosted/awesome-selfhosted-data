@@ -9,16 +9,16 @@ platforms:
 tags:
   - File Transfer & Synchronization
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hoodik.webp
-stargazers_count: 1559
-updated_at: '2026-11-04'
+stargazers_count: 1558
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v2.6.1
-  published_at: '2026-11-05'
+  tag: v2.6.2
+  published_at: '2026-11-19'
 commit_history:
   2026-06: 1
   2026-07: 18
   2026-08: 10
   2026-09: 2
   2026-10: 11
-  2026-11: 5
+  2026-11: 8

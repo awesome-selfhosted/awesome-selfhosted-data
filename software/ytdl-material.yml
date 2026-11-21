@@ -1,0 +1,14 @@
+
+name: "ytdl-material"
+website_url: "https://voc0der.github.io/ytdl-material/"
+source_code_url: "https://github.com/voc0der/ytdl-material"
+description: "Your own youtube. yt-dlp web interface for downloading, organizing, and playing video and audio, with channel subscriptions, scheduled downloads, playlists, multi-user support, and RSS feeds."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Media Management
+  - Media Streaming - Video Streaming
+depends_3rdparty: true

@@ -1,6 +1,6 @@
 name: Joplin
 website_url: https://joplinapp.org/
-description: Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote).
+description: Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through your own Nextcloud instance or similar (alternative to Evernote).
 licenses:
   - MIT
 platforms:
@@ -8,15 +8,14 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/laurent22/joplin
-stargazers_count: 56395
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/joplin.webp
+stargazers_count: 57269
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v3.7.18
-  published_at: '2026-09-11'
+  tag: v3.7.24
+  published_at: '2026-11-19'
 commit_history:
-  2025-10: 200
-  2025-11: 162
   2025-12: 126
   2026-01: 163
   2026-02: 193
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 195
   2026-07: 197
   2026-08: 162
-  2026-09: 108
+  2026-09: 187
+  2026-10: 135
+  2026-11: 205

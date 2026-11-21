@@ -8,15 +8,14 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming
-stargazers_count: 1419
-updated_at: '2026-09-15'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/meelo.webp
+stargazers_count: 1449
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v3.13.0
-  published_at: '2026-09-16'
+  tag: v3.13.2
+  published_at: '2026-11-06'
 commit_history:
-  2025-10: 53
-  2025-11: 38
   2025-12: 72
   2026-01: 93
   2026-02: 66
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 46
   2026-07: 82
   2026-08: 66
-  2026-09: 40
+  2026-09: 65
+  2026-10: 64
+  2026-11: 28

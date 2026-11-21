@@ -1,6 +1,6 @@
 name: Trac
 website_url: https://trac.edgewall.org/
-description: Trac is an enhanced wiki and issue tracking system for software development projects.
+description: Enhanced wiki and issue tracking system for software development projects.
 licenses:
   - BSD-3-Clause
 platforms:
@@ -9,3 +9,4 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://trac.edgewall.org/
+icon_url: "https://cdn.jsdelivr.net/gh/selfhst/icons/webp/trac.webp"

@@ -9,15 +9,14 @@ platforms:
 tags:
   - Note-taking & Editors
 source_code_url: https://github.com/jgraph/drawio
-stargazers_count: 8169
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/draw-io.webp
+stargazers_count: 9499
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v31.4.6
-  published_at: '2026-09-16'
+  tag: v32.7.4
+  published_at: '2026-11-17'
 commit_history:
-  2025-10: 2
-  2025-11: 3
   2025-12: 8
   2026-01: 6
   2026-02: 2
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 5
   2026-07: 12
   2026-08: 4
-  2026-09: 5
+  2026-09: 8
+  2026-10: 11
+  2026-11: 2

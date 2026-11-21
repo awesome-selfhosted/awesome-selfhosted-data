@@ -8,14 +8,17 @@ platforms:
   - Docker
 tags:
   - Time Tracking
-stargazers_count: 624
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/timetracker.webp
+stargazers_count: 645
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v5.15.0
-  published_at: '2026-09-16'
+  tag: v5.21.0
+  published_at: '2026-11-18'
 commit_history:
   2026-06: 59
   2026-07: 67
   2026-08: 130
-  2026-09: 55
+  2026-09: 85
+  2026-10: 92
+  2026-11: 272

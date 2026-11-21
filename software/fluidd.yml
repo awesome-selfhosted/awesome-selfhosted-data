@@ -9,15 +9,14 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/fluidd-core/fluidd
-stargazers_count: 1830
-updated_at: '2026-09-14'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fluidd.webp
+stargazers_count: 1846
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v1.37.5
-  published_at: '2026-09-09'
+  tag: v1.38.1
+  published_at: '2026-11-17'
 commit_history:
-  2025-10: 10
-  2025-11: 50
   2025-12: 50
   2026-01: 5
   2026-02: 10
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 40
   2026-07: 20
   2026-08: 42
-  2026-09: 7
+  2026-09: 22
+  2026-10: 32
+  2026-11: 40

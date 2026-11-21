@@ -8,15 +8,14 @@ platforms:
 tags:
   - Manufacturing
 source_code_url: https://github.com/manyfold3d/manyfold
-stargazers_count: 2164
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/manyfold.webp
+stargazers_count: 2257
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v0.149.0
-  published_at: '2026-09-07'
+  tag: v0.154.3
+  published_at: '2026-11-19'
 commit_history:
-  2025-10: 404
-  2025-11: 337
   2025-12: 224
   2026-01: 366
   2026-02: 412
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 656
   2026-07: 420
   2026-08: 265
-  2026-09: 275
+  2026-09: 480
+  2026-10: 514
+  2026-11: 390

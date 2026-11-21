@@ -8,15 +8,14 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/openziti/ziti
-stargazers_count: 4391
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openziti.webp
+stargazers_count: 4495
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v2.0.5
-  published_at: '2026-09-14'
+  tag: v2.0.8
+  published_at: '2026-10-08'
 commit_history:
-  2025-10: 32
-  2025-11: 45
   2025-12: 76
   2026-01: 48
   2026-02: 112
@@ -26,4 +25,6 @@ commit_history:
   2026-06: 149
   2026-07: 55
   2026-08: 92
-  2026-09: 31
+  2026-09: 75
+  2026-10: 42
+  2026-11: 76

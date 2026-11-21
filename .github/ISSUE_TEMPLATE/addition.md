@@ -46,6 +46,9 @@ depends_3rdparty: true
 demo_url: "https://my.awesome.softwar.e/demo"
 # (optional) link to a list of clients/addons/plugins/apps/bots... for the software
 related_software_url: "https://my.awesome.softwar.e/apps"
+# (optional) URL to the software's icon (will be downloaded and converted to WebP)
+# https://dashboardicons.com/ is preferred as icon source
+icon_url: "https://example.com/path/to/icon.png"
 ```
 
 To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):

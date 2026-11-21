@@ -9,15 +9,14 @@ platforms:
   - Docker
 tags:
   - Money, Budgeting & Management
-stargazers_count: 1828
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/invoiceshelf.webp
+stargazers_count: 2071
+updated_at: '2026-10-27'
 archived: false
 current_release:
-  tag: 3.0.0-alpha.2
-  published_at: '2026-08-13'
+  tag: 2.4.7
+  published_at: '2026-10-21'
 commit_history:
-  2025-10: 0
-  2025-11: 0
   2025-12: 0
   2026-01: 2
   2026-02: 12
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 29
   2026-07: 18
   2026-08: 100
-  2026-09: 26
+  2026-09: 309
+  2026-10: 82
+  2026-11: 0

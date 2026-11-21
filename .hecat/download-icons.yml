@@ -1,0 +1,6 @@
+# doc: https://github.com/nodiscc/hecat/blob/master/hecat/processors/download_icons.py
+steps:
+  - name: download icons
+    module: processors/download_icons
+    module_options:
+      source_directory: ./

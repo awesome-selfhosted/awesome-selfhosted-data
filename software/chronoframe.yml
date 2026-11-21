@@ -10,12 +10,13 @@ platforms:
 tags:
   - Photo Galleries
 demo_url: https://lens.bh8.ga/
-stargazers_count: 1924
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/chronoframe.webp
+stargazers_count: 1988
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v1.0.0-rc.4
-  published_at: '2026-08-06'
+  tag: v1.2.0
+  published_at: '2026-11-09'
 commit_history:
   2025-12: 3
   2026-01: 0
@@ -26,4 +27,6 @@ commit_history:
   2026-06: 10
   2026-07: 6
   2026-08: 12
-  2026-09: 4
+  2026-09: 34
+  2026-10: 615
+  2026-11: 243

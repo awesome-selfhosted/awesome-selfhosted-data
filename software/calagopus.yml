@@ -10,16 +10,19 @@ platforms:
   - deb
 tags:
   - Games - Administrative Utilities & Control Panels
-stargazers_count: 654
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/calagopus.webp
+stargazers_count: 924
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: release-1.2.1
-  published_at: '2026-09-13'
+  tag: release-1.2.10
+  published_at: '2026-11-15'
 commit_history:
   2026-04: 203
   2026-05: 185
   2026-06: 163
   2026-07: 137
   2026-08: 198
-  2026-09: 115
+  2026-09: 173
+  2026-10: 139
+  2026-11: 91

@@ -10,15 +10,14 @@ platforms:
   - Nodejs
 tags:
   - Human Resources Management (HRM)
-stargazers_count: 8795
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/frappe-hr.webp
+stargazers_count: 9090
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v15.64.1
-  published_at: '2026-09-16'
+  tag: v16.60.0
+  published_at: '2026-11-17'
 commit_history:
-  2025-10: 200
-  2025-11: 319
   2025-12: 292
   2026-01: 179
   2026-02: 254
@@ -28,4 +27,6 @@ commit_history:
   2026-06: 354
   2026-07: 202
   2026-08: 124
-  2026-09: 78
+  2026-09: 170
+  2026-10: 237
+  2026-11: 132

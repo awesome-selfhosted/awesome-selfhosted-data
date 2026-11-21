@@ -11,15 +11,14 @@ tags:
   - Polls and Events
 source_code_url: https://github.com/lukevella/rallly
 demo_url: https://app.rallly.co
-stargazers_count: 5257
-updated_at: '2026-09-16'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/rallly.webp
+stargazers_count: 5366
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v4.15.1
-  published_at: '2026-09-13'
+  tag: v4.17.1
+  published_at: '2026-11-17'
 commit_history:
-  2025-10: 27
-  2025-11: 60
   2025-12: 85
   2026-01: 98
   2026-02: 103
@@ -29,4 +28,6 @@ commit_history:
   2026-06: 95
   2026-07: 259
   2026-08: 289
-  2026-09: 163
+  2026-09: 256
+  2026-10: 224
+  2026-11: 125

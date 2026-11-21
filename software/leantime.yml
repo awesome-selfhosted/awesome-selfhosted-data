@@ -9,15 +9,14 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/leantime/leantime
-stargazers_count: 11592
-updated_at: '2026-09-07'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/leantime.webp
+stargazers_count: 12129
+updated_at: '2026-11-17'
 archived: false
 current_release:
-  tag: v3.9.8
-  published_at: '2026-07-08'
+  tag: v3.15.3
+  published_at: '2026-11-16'
 commit_history:
-  2025-10: 7
-  2025-11: 20
   2025-12: 1
   2026-01: 105
   2026-02: 88
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 86
   2026-07: 87
   2026-08: 15
-  2026-09: 14
+  2026-09: 16
+  2026-10: 172
+  2026-11: 53

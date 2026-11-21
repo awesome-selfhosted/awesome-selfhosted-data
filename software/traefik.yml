@@ -9,15 +9,14 @@ platforms:
   - Docker
 tags:
   - Web Servers
-stargazers_count: 64870
-updated_at: '2026-09-14'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/traefik.webp
+stargazers_count: 65639
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v3.7.13
-  published_at: '2026-09-04'
+  tag: v3.7.19
+  published_at: '2026-11-13'
 commit_history:
-  2025-10: 70
-  2025-11: 37
   2025-12: 60
   2026-01: 86
   2026-02: 53
@@ -27,4 +26,6 @@ commit_history:
   2026-06: 106
   2026-07: 90
   2026-08: 82
-  2026-09: 43
+  2026-09: 109
+  2026-10: 93
+  2026-11: 71

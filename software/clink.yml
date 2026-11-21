@@ -1,7 +1,7 @@
 name: "clink"
 website_url: "https://git.crueter.xyz/crueter/clink"
 source_code_url: "https://git.crueter.xyz/crueter/clink"
-description: "A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration."
+description: "Super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration."
 licenses:
   - AGPL-3.0
 platforms:

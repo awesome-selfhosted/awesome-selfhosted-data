@@ -10,12 +10,12 @@ tags:
   - Software Development - IDE & Tools
 source_code_url: https://github.com/coder/code-server
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/code-server.webp
-stargazers_count: 79911
-updated_at: '2026-11-19'
+stargazers_count: 79919
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v4.145.2
-  published_at: '2026-11-07'
+  tag: v4.146.0
+  published_at: '2026-11-20'
 commit_history:
   2025-12: 10
   2026-01: 19
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 32
   2026-09: 43
   2026-10: 37
-  2026-11: 44
+  2026-11: 48

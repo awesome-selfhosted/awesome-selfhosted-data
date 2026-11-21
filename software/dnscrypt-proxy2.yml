@@ -1,0 +1,16 @@
+name: dnscrypt-proxy2
+website_url: dnscrypt.info
+description: Flexible DNS proxy, with support for encrypted protocols and blocking.
+licenses:
+  - ISC
+platforms:
+  - Go
+tags:
+  - DNS
+source_code_url: https://github.com/DNSCrypt/dnscrypt-proxy
+stargazers_count: 13674
+updated_at: '2026-09-18'
+archived: false
+current_release:
+  tag: v2.1.18
+  published_at: '2026-07-18'

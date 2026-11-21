@@ -1,0 +1,11 @@
+name: NRFLO
+website_url: https://nrflo.com
+source_code_url: https://github.com/nrflo/nrflo
+description: Go-based workflow engine with a web UI for running Python scripts and AI agents. Supports parallel tasks, conditional execution, result validation, and REST/MCP integration.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Automation

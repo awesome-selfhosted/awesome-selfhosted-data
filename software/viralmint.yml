@@ -1,0 +1,14 @@
+name: ViralMint
+website_url: https://github.com/openclaw-easy/ViralMint
+source_code_url: https://github.com/openclaw-easy/ViralMint
+description: Short-form video workstation. Scout trending YouTube videos, download and transcribe them locally with Whisper, cut clips and turn scripts into captioned shorts over stock footage. Works with local LLMs (alternative to Opus Clip, InVideo).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Nodejs
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Media Management
+depends_3rdparty: true
+icon_url: https://raw.githubusercontent.com/openclaw-easy/ViralMint/main/frontend/public/icon-512.png

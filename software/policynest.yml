@@ -1,0 +1,14 @@
+name: "Policynest"
+website_url: "https://github.com/SplinterHead/PolicyNest"
+source_code_url: "https://github.com/SplinterHead/PolicyNest"
+description: "Insurance policy tracking and document storage"
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Javascript
+  - Docker
+tags:
+  - Document Management
+depends_3rdparty: false
+icon_url: "https://github.com/SplinterHead/PolicyNest/blob/main/docs/img/logo.png"

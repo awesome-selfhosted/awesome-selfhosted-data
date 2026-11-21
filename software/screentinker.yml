@@ -1,0 +1,14 @@
+name: "ScreenTinker"
+website_url: "https://screentinker.com"
+source_code_url: "https://github.com/screentinker/screentinker"
+description: "Digital signage for any screen: Android TV, Fire TV, Samsung, LG, Raspberry Pi, Windows and browsers. Playlists, scheduling, video walls, menu boards and remote control. Open source, self-hosted or cloud, no per-screen fees."
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Media Management
+  - Miscellaneous
+  - Personal Dashboards
+related_software_url: "https://screentinker.com/download"
+icon_url: "https://screentinker.com/assets/icon-512.png"

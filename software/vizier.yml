@@ -1,0 +1,13 @@
+name: Vizier
+website_url: https://vizier.rs
+source_code_url: https://github.com/vizier-lab/vizier
+description: AI agents that remember who they are, and who you are. Hosted by you.
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)
+icon_url: https://raw.githubusercontent.com/vizier-lab/vizier/master/docs/src/images/logo.png

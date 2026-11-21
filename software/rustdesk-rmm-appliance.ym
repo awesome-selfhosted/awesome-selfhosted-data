@@ -1,0 +1,12 @@
+name: RustDesk RMM Appliance
+website_url: https://github.com/ll4gp/rustdesk-rmm-appliance
+source_code_url: https://github.com/ll4gp/rustdesk-rmm-appliance
+description: Plug-in RMM, live hardware telemetry, software inventory, and 1-click Windows/Linux (Wayland) unattended onboarding dashboard for self-hosted RustDesk servers.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Remote Access
+  - Monitoring

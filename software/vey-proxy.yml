@@ -1,0 +1,11 @@
+name: vey-proxy
+website_url: "https://github.com/VEY-OSS/vey/blob/main/vey-proxy/README.md"
+source_code_url: "https://github.com/VEY-OSS/vey"
+description: "Modular async Rust proxy daemon unifying HTTP/SOCKS forward proxying, HTTP/TLS reverse proxying, TPROXY/SNI transparent proxying, TCP/UDP/TLS stream proxying, dynamic egress routing, TLS/ICAP inspection, and hot reloads."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - deb
+tags:
+  - Proxy

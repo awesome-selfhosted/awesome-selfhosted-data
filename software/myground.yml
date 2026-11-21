@@ -1,0 +1,20 @@
+# software name
+name: "MyGround"
+# URL of the software project's homepage
+website_url: "https://myground.online"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/backmeupplz/myground"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "MyGround is a self-hosting platform in a single Rust binary that replaces Google, Apple and Microsoft with your own photos, videos, music, files and DNS, reachable from anywhere and backed up automatically, so your data stays yours."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Rust
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Self-hosting Solutions
+# (optional, true/false, default false) whether the software depends on a third-party service outside the user's control
+depends_3rdparty: false

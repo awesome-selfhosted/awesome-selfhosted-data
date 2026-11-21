@@ -1,11 +1,10 @@
 name: ph-intercept
 website_url: https://github.com/m00grin/ph-intercept
 source_code_url: https://github.com/m00grin/ph-intercept
-description: Real-time Pi-hole dashboard (plus AdGuard Home and Technitium). Blocking is represented by an interceptor ship destroying 'blocked query' baddies.
+description: Real-time Pi-hole, AdGuard Home and Technitium dashboard that renders DNS queries as a pixel-art space shooter.
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
-  - DNS
   - Network Utilities

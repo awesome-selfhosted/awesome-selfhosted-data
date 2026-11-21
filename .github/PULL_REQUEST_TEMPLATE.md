@@ -15,6 +15,6 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] The file you are adding uses [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) file naming, for example `my-awesome-software.yml`.
 - [ ] Values for `platform` should match the platforms required to install and run the software.
 - [ ] Any software project you are adding to the list is actively maintained.
-- [ ] Any software project you are adding was first released more than 4 months ago.
+- [ ] Any software project you are adding was first released more than 1 year ago.
 - [ ] Any software project you are adding has working installation instructions.
 - [ ] You understand that your Pull Request will be merged at least ~1 week after approval, depending on maintainers time.

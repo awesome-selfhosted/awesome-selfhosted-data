@@ -1,0 +1,15 @@
+name: Autofile
+website_url: https://autofile.dev/
+description: Document management application that turns your documents into indexed and searchable archives.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Nodejs
+  - Docker
+  - K8S
+tags:
+  - Document Management
+  - Archiving and Digital Preservation (DP)
+source_code_url: https://github.com/joekhoobyar/autofile
+icon_url: https://autofile.dev/assets/favicon.png

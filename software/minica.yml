@@ -1,0 +1,12 @@
+name: "MiniCA"
+website_url: "https://github.com/wushilin/minica"
+source_code_url: "https://github.com/wushilin/minica"
+description: "A Certificate Authority with RESTful interface and WEB UI"
+licenses:
+  - Apache-2.0
+platforms:
+  - Angular
+  - Rust
+  - Docker
+tags:
+  - Automation

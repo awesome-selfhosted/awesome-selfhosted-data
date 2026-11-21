@@ -13,7 +13,7 @@ demo_url: https://demo.evershop.io/
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/evershop.webp
 stargazers_count: 10563
-updated_at: '2026-11-19'
+updated_at: '2026-11-20'
 archived: false
 current_release:
   tag: v2.4.0
@@ -30,4 +30,4 @@ commit_history:
   2026-08: 34
   2026-09: 92
   2026-10: 190
-  2026-11: 62
+  2026-11: 67

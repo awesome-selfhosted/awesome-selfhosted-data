@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/NodeBB/NodeBB
 demo_url: https://try.nodebb.org/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodebb.webp
-stargazers_count: 15251
-updated_at: '2026-11-19'
+stargazers_count: 15249
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v4.16.8
-  published_at: '2026-11-12'
+  tag: v4.16.9
+  published_at: '2026-11-20'
 commit_history:
   2025-12: 129
   2026-01: 198
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 511
   2026-09: 314
   2026-10: 77
-  2026-11: 31
+  2026-11: 35

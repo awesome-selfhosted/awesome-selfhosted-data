@@ -10,8 +10,8 @@ tags:
   - Software Development - Feature Toggle
 source_code_url: https://github.com/posthog/posthog
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/posthog.webp
-stargazers_count: 40995
-updated_at: '2026-11-21'
+stargazers_count: 41008
+updated_at: '2026-11-22'
 archived: false
 current_release:
   tag: desktop-v0.61.1086
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 4814
   2026-09: 6111
   2026-10: 7466
-  2026-11: 6045
+  2026-11: 6090

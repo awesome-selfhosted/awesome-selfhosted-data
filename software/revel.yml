@@ -13,7 +13,7 @@ depends_3rdparty: true
 demo_url: https://demo.letsrevel.io
 related_software_url: https://github.com/letsrevel
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/revel.webp
-stargazers_count: 120
+stargazers_count: 122
 updated_at: '2026-11-21'
 archived: false
 current_release:
@@ -31,4 +31,4 @@ commit_history:
   2026-08: 41
   2026-09: 84
   2026-10: 108
-  2026-11: 105
+  2026-11: 107

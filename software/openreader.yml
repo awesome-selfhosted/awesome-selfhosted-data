@@ -9,12 +9,12 @@ platforms:
 tags:
   - Miscellaneous
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/openreader.webp
-stargazers_count: 592
-updated_at: '2026-11-19'
+stargazers_count: 594
+updated_at: '2026-11-21'
 archived: false
 current_release:
-  tag: v5.5.1
-  published_at: '2026-11-19'
+  tag: v5.5.2
+  published_at: '2026-11-21'
 commit_history:
   2025-12: 1
   2026-01: 36
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 46
   2026-10: 86
-  2026-11: 18
+  2026-11: 21

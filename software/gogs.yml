@@ -9,8 +9,8 @@ tags:
   - Software Development - Project Management
 source_code_url: https://github.com/gogs/gogs
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gogs.webp
-stargazers_count: 47970
-updated_at: '2026-11-21'
+stargazers_count: 47987
+updated_at: '2026-11-22'
 archived: false
 current_release:
   tag: v0.14.4
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 4
   2026-09: 3
   2026-10: 3
-  2026-11: 186
+  2026-11: 208

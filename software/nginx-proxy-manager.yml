@@ -9,8 +9,8 @@ tags:
   - Web Servers
 source_code_url: https://github.com/NginxProxyManager/nginx-proxy-manager
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nginx-proxy-manager.webp
-stargazers_count: 34841
-updated_at: '2026-11-19'
+stargazers_count: 34849
+updated_at: '2026-11-23'
 archived: false
 current_release:
   tag: v2.17.1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 60
   2026-09: 66
   2026-10: 40
-  2026-11: 93
+  2026-11: 98

@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/9001/copyparty
 demo_url: https://a.ocv.me/pub/demo/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/copyparty.webp
-stargazers_count: 47428
-updated_at: '2026-11-18'
+stargazers_count: 47434
+updated_at: '2026-11-22'
 archived: false
 current_release:
-  tag: v1.20.26
-  published_at: '2026-10-14'
+  tag: v1.20.27
+  published_at: '2026-11-22'
 commit_history:
   2025-12: 82
   2026-01: 117
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 45
   2026-09: 60
   2026-10: 26
-  2026-11: 4
+  2026-11: 6

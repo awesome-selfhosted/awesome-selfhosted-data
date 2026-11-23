@@ -10,8 +10,8 @@ tags:
   - Media Management
 source_code_url: https://github.com/Sonarr/Sonarr
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sonarr.webp
-stargazers_count: 17804
-updated_at: '2026-11-17'
+stargazers_count: 17815
+updated_at: '2026-11-22'
 archived: false
 current_release:
   tag: v4.0.20.3014
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 48
   2026-09: 53
   2026-10: 267
-  2026-11: 33
+  2026-11: 49

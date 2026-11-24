@@ -1,0 +1,10 @@
+name: AerosPanel
+website_url: https://github.com/DevModee/Aeros-Panel
+source_code_url: https://github.com/DevModee/Aeros-Panel
+description: Lightweight self-hosted control panel built on native systemd and SQLite with zero Docker overhead.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Self-hosting Solutions

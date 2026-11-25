@@ -1,0 +1,13 @@
+name: "Klacks"
+website_url: "https://klacks-software.ch"
+source_code_url: "https://github.com/HeribertG/Klacks.Api"
+demo_url: "https://github.com/HeribertG/Klacks.Api#readme"
+description: "Shift-based staff scheduling, featuring automatic schedule generation, verification of working hours, rest periods and qualifications, with route planning, and an integrated assistant based on either a cloud-based or local language model."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - .NET
+tags:
+  - Human Resources Management (HRM)
+icon_url: "https://klacks-software.ch/images/apple-touch-icon.png"

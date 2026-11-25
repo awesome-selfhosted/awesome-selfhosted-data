@@ -1,7 +1,7 @@
 name: Synaplan
 website_url: https://synaplan.com
 source_code_url: https://github.com/metadist/synaplan
-description: Self-hosted AI workspace with multi-provider chat, RAG document search, long-term memory, MCP server, and embeddable chat widgets with per-answer cost tracking.
+description: AI workspace with multi-provider chat, RAG document search, long-term memory, MCP server, and embeddable chat widgets with per-answer cost tracking.
 licenses:
   - Apache-2.0
 platforms:

@@ -9,14 +9,13 @@ tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/akaunting/akaunting
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/akaunting.webp
-stargazers_count: 10193
-updated_at: '2026-10-08'
+stargazers_count: 10329
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: 3.2.4
-  published_at: '2026-09-17'
+  tag: 3.3.2
+  published_at: '2026-11-20'
 commit_history:
-  2025-11: 17
   2025-12: 16
   2026-01: 12
   2026-02: 7
@@ -26,5 +25,6 @@ commit_history:
   2026-06: 29
   2026-07: 99
   2026-08: 65
-  2026-09: 89
-  2026-10: 8
+  2026-09: 90
+  2026-10: 39
+  2026-11: 95

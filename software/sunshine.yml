@@ -9,16 +9,15 @@ platforms:
   - Docker
 tags:
   - Games - Administrative Utilities & Control Panels
-source_code_url: https://github.com/LizardByte/Sunshine
+source_code_url: https://github.com/SunshineStream/Sunshine
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sunshine.webp
-stargazers_count: 42406
-updated_at: '2026-10-18'
+stargazers_count: 43763
+updated_at: '2026-11-23'
 archived: false
 current_release:
-  tag: v2026.1018.5342
-  published_at: '2026-10-18'
+  tag: v2026.914.233613
+  published_at: '2026-09-15'
 commit_history:
-  2025-11: 29
   2025-12: 29
   2026-01: 45
   2026-02: 58
@@ -29,4 +28,5 @@ commit_history:
   2026-07: 66
   2026-08: 69
   2026-09: 141
-  2026-10: 89
+  2026-10: 116
+  2026-11: 101

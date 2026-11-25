@@ -12,14 +12,13 @@ tags:
 source_code_url: https://github.com/plankanban/planka
 demo_url: https://plankanban.github.io/planka/#/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/planka.webp
-stargazers_count: 12626
-updated_at: '2026-09-17'
+stargazers_count: 12703
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: v2.2.1
-  published_at: '2026-08-10'
+  tag: v2.3.1
+  published_at: '2026-11-05'
 commit_history:
-  2025-11: 27
   2025-12: 22
   2026-01: 33
   2026-02: 35
@@ -29,5 +28,6 @@ commit_history:
   2026-06: 2
   2026-07: 11
   2026-08: 17
-  2026-09: 47
-  2026-10: 0
+  2026-09: 56
+  2026-10: 10
+  2026-11: 7

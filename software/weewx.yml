@@ -1,6 +1,6 @@
 name: WeeWX
 website_url: https://weewx.com/
-description: Open source software for your weather station.
+description: Software for your weather station.
 licenses:
   - GPL-3.0
 platforms:
@@ -10,14 +10,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/weewx/weewx
 demo_url: https://weewx.com/showcase.html
-stargazers_count: 1203
-updated_at: '2026-10-19'
+stargazers_count: 1210
+updated_at: '2026-11-22'
 archived: false
 current_release:
-  tag: v5.5.2
-  published_at: '2026-09-23'
+  tag: v5.6.0
+  published_at: '2026-11-21'
 commit_history:
-  2025-11: 12
   2025-12: 3
   2026-01: 52
   2026-02: 21
@@ -27,5 +26,6 @@ commit_history:
   2026-06: 28
   2026-07: 8
   2026-08: 56
-  2026-09: 36
-  2026-10: 18
+  2026-09: 48
+  2026-10: 139
+  2026-11: 82

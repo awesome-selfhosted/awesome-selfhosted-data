@@ -10,14 +10,13 @@ tags:
   - Database Management
 source_code_url: https://github.com/nocodb/nocodb
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nocodb.webp
-stargazers_count: 65300
-updated_at: '2026-10-19'
+stargazers_count: 65600
+updated_at: '2026-11-21'
 archived: false
 current_release:
-  tag: 2026.09.1
-  published_at: '2026-09-29'
+  tag: 2026.10.2
+  published_at: '2026-11-19'
 commit_history:
-  2025-11: 26
   2025-12: 38
   2026-01: 463
   2026-02: 686
@@ -28,4 +27,5 @@ commit_history:
   2026-07: 325
   2026-08: 526
   2026-09: 969
-  2026-10: 461
+  2026-10: 689
+  2026-11: 391

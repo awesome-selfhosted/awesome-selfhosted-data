@@ -1,7 +1,7 @@
 name: SiYuan
 website_url: https://b3log.org/siyuan/
 source_code_url: https://github.com/siyuan-note/siyuan
-description: A privacy-first personal knowledge management software, written in typescript and golang.
+description: Privacy-first personal knowledge management software, written in typescript and golang.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,14 +10,13 @@ platforms:
 tags:
   - Knowledge Management Tools
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/siyuan.webp
-stargazers_count: 46845
-updated_at: '2026-10-14'
+stargazers_count: 47344
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v3.8.8-beta.4
-  published_at: '2026-10-19'
+  tag: v3.8.11
+  published_at: '2026-11-19'
 commit_history:
-  2025-11: 319
   2025-12: 443
   2026-01: 390
   2026-02: 339
@@ -27,5 +26,6 @@ commit_history:
   2026-06: 1138
   2026-07: 1766
   2026-08: 1409
-  2026-09: 1777
-  2026-10: 7
+  2026-09: 1898
+  2026-10: 1815
+  2026-11: 898

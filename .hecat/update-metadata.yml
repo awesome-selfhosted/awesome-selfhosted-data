@@ -4,4 +4,4 @@ steps:
     module_options:
       source_directory: ./
       metadata_only_missing: False
-      sleep_time: 60
+      sleep_time: 5

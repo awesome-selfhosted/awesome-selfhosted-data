@@ -1,6 +1,6 @@
 name: CUPS
 website_url: https://www.cups.org/
-description: The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers.
+description: Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers.
 licenses:
   - GPL-2.0
 platforms:
@@ -9,14 +9,13 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/OpenPrinting/cups
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cups.webp
-stargazers_count: 1774
-updated_at: '2026-10-19'
+stargazers_count: 1803
+updated_at: '2026-11-22'
 archived: false
 current_release:
   tag: v2.4.20
   published_at: '2026-10-05'
 commit_history:
-  2025-11: 62
   2025-12: 31
   2026-01: 23
   2026-02: 12
@@ -27,4 +26,5 @@ commit_history:
   2026-07: 58
   2026-08: 30
   2026-09: 50
-  2026-10: 64
+  2026-10: 111
+  2026-11: 52

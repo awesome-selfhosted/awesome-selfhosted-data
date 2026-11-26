@@ -1,7 +1,7 @@
 name: ExcaliDash
 website_url: https://excalidash.xyz
 source_code_url: https://github.com/ZimengXiong/ExcaliDash
-description: Dashboard and workspace for Excalidraw with persistent storage, collections, real-time collaboration, version history, and OIDC SSO (an alternative to Excalidraw+).
+description: Dashboard and workspace for Excalidraw with persistent storage, collections, real-time collaboration, version history, and OIDC SSO (alternative to Excalidraw+).
 licenses:
   - LGPL-3.0
 platforms:
@@ -9,5 +9,4 @@ platforms:
   - Nodejs
 tags:
   - Note-taking & Editors
-  - Office Suites
 icon_url: https://excalidash.xyz/images/logo.png

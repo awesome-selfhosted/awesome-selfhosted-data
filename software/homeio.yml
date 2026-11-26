@@ -2,7 +2,7 @@ name: Homeio
 website_url: https://homeio.app
 description: Home server dashboard for managing Docker apps, files, terminal access, and system resources.
 licenses:
-  - MIT
+  - AGPL-3.0
 platforms:
   - Nodejs
   - Docker

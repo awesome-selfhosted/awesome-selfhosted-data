@@ -1,0 +1,12 @@
+name: Valeria One
+website_url: https://valeriaone.valai.mx
+source_code_url: https://github.com/valeriaone/valeria-one
+description: Business back office in one app: a website with an online store and bookings, a CRM with follow-ups and NPS, invoicing (including Mexican CFDI 4.0), gift cards, and an AI website assistant. AI, messaging and payments use the operator's own provider accounts.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+  - Docker
+tags:
+  - Resource Planning
+depends_3rdparty: false

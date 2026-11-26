@@ -11,16 +11,14 @@ tags:
   - Network Utilities
 depends_3rdparty: true
 demo_url: https://ipcheck.ing
-stargazers_count: 11772
-updated_at: '2026-08-26'
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/myip.webp
+stargazers_count: 12417
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: v7.4.0
-  published_at: '2026-08-22'
+  tag: v8.2.0
+  published_at: '2026-11-19'
 commit_history:
-  2025-09: 5
-  2025-10: 0
-  2025-11: 8
   2025-12: 2
   2026-01: 15
   2026-02: 6
@@ -29,4 +27,7 @@ commit_history:
   2026-05: 111
   2026-06: 64
   2026-07: 181
-  2026-08: 249
+  2026-08: 280
+  2026-09: 83
+  2026-10: 214
+  2026-11: 144

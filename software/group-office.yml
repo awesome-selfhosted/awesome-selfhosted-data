@@ -9,16 +9,13 @@ tags:
   - Groupware
   - Customer Relationship Management (CRM)
 source_code_url: https://github.com/Intermesh/groupoffice/
-stargazers_count: 277
-updated_at: '2026-08-26'
+stargazers_count: 289
+updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: v26.0.43
-  published_at: '2026-08-24'
+  tag: v26.0.61
+  published_at: '2026-11-16'
 commit_history:
-  2025-09: 255
-  2025-10: 182
-  2025-11: 225
   2025-12: 135
   2026-01: 248
   2026-02: 208
@@ -27,4 +24,7 @@ commit_history:
   2026-05: 214
   2026-06: 268
   2026-07: 64
-  2026-08: 118
+  2026-08: 130
+  2026-09: 157
+  2026-10: 335
+  2026-11: 617

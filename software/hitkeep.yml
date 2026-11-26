@@ -8,13 +8,14 @@ platforms:
   - Docker
 tags:
   - Analytics
-source_code_url: https://github.com/pascalebeier/hitkeep
-stargazers_count: 85
-updated_at: '2026-08-26'
+source_code_url: https://github.com/HitKeep/hitkeep
+icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/hitkeep.webp
+stargazers_count: 108
+updated_at: '2026-11-23'
 archived: false
 current_release:
-  tag: snapshot-pr-313
-  published_at: '2026-08-26'
+  tag: v2.18.1
+  published_at: '2026-11-23'
 commit_history:
   2026-02: 92
   2026-03: 137
@@ -23,3 +24,6 @@ commit_history:
   2026-06: 58
   2026-07: 160
   2026-08: 59
+  2026-09: 82
+  2026-10: 47
+  2026-11: 26

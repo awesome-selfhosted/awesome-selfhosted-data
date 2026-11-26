@@ -1,7 +1,7 @@
 name: Forgejo
 website_url: https://forgejo.org
 source_code_url: https://codeberg.org/forgejo/forgejo/
-description: A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea).
+description: Lightweight software forge focused on scaling, federation, and privacy (fork of Gitea).
 licenses:
   - MIT
 platforms:
@@ -12,3 +12,4 @@ tags:
   - Ticketing
 demo_url: https://next.forgejo.org
 related_software_url: https://codeberg.org/forgejo-contrib/delightful-forgejo
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/forgejo.webp

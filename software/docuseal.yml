@@ -9,16 +9,14 @@ platforms:
 tags:
   - Document Management
 demo_url: https://demo.docuseal.tech/
-stargazers_count: 18404
-updated_at: '2026-08-25'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/docuseal.webp
+stargazers_count: 19126
+updated_at: '2026-11-19'
 archived: false
 current_release:
-  tag: 3.2.2
-  published_at: '2026-08-25'
+  tag: 3.3.8
+  published_at: '2026-11-19'
 commit_history:
-  2025-09: 68
-  2025-10: 28
-  2025-11: 63
   2025-12: 53
   2026-01: 96
   2026-02: 79
@@ -27,4 +25,7 @@ commit_history:
   2026-05: 91
   2026-06: 63
   2026-07: 93
-  2026-08: 70
+  2026-08: 91
+  2026-09: 164
+  2026-10: 89
+  2026-11: 54

@@ -1,6 +1,6 @@
 name: Tipi
 website_url: https://runtipi.io/
-description: Homeserver manager. One command setup, one click installs for your favorites self-hosted apps.
+description: Homeserver manager. One command setup, one click installs for your favorite home server apps.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,16 +8,14 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/runtipi/runtipi
-stargazers_count: 9635
-updated_at: '2026-08-27'
+icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/tipi.webp
+stargazers_count: 9747
+updated_at: '2026-11-15'
 archived: false
 current_release:
-  tag: v4.10.2-beta.4
-  published_at: '2026-08-27'
+  tag: v4.12.0
+  published_at: '2026-10-31'
 commit_history:
-  2025-09: 71
-  2025-10: 64
-  2025-11: 27
   2025-12: 8
   2026-01: 28
   2026-02: 0
@@ -26,4 +24,7 @@ commit_history:
   2026-05: 2
   2026-06: 4
   2026-07: 5
-  2026-08: 13
+  2026-08: 15
+  2026-09: 1
+  2026-10: 39
+  2026-11: 106

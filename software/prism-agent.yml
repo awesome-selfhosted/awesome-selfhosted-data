@@ -1,0 +1,12 @@
+name: "Prism Agent"
+website_url: "https://docs.lenshq.io/prism-agent/"
+source_code_url: "https://github.com/Mirantis/prism"
+description: "Autonomous AI agent that remembers context, pursues background goals and scheduled tasks, runs commands and edits files, reachable from a web UI, terminal, Slack and Microsoft Teams."
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation

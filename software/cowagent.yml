@@ -1,0 +1,13 @@
+name: CowAgent
+website_url: https://cowagent.ai
+source_code_url: https://github.com/zhayujie/CowAgent
+description: Personal AI agent that plans and carries out tasks with tools, skills and MCP, learns over time through long-term memory and self-evolution, and connects to chat apps like Slack, Discord and Telegram.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+  - Automation
+depends_3rdparty: true

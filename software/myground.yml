@@ -1,0 +1,12 @@
+name: "MyGround"
+website_url: "https://myground.online"
+source_code_url: "https://github.com/backmeupplz/myground"
+description: "Self-hosting platform that installs and manages apps on your own hardware with a single command, handling Docker orchestration, Tailscale/Cloudflare networking, encrypted backups and GPU passthrough."
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - deb
+tags:
+  - Self-hosting Solutions
+icon_url: "https://myground.online/logo-512.png"

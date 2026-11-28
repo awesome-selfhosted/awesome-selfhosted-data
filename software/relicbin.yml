@@ -1,0 +1,12 @@
+name: RelicBin
+website_url: https://github.com/ovidiuvio/relic
+description: Pastebin and artifact storage service with immutable, versioned snippets and rich previews for code, images, and archives.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Nodejs
+tags:
+  - Pastebins
+source_code_url: https://github.com/ovidiuvio/relic

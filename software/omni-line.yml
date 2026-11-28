@@ -1,0 +1,10 @@
+name: "Omni Line"
+website_url: "https://omniline.app"
+description: "Package registry for npm, Composer, Docker, PyPI, Go, Cargo, Maven, RubyGems, Conan, and multipurpose artifacts with proxying, org RBAC, and OSV scanning (alternative to JFrog Artifactory, Sonatype Nexus)."
+licenses:
+  - ⊘ Proprietary
+platforms:
+  - Docker
+tags:
+  - Software Development - IDE & Tools
+source_code_url: https://omniline.app

@@ -1,0 +1,10 @@
+name: Hermes Secure Email Gateway
+website_url: https://www.hermesseg.io
+source_code_url: https://github.com/deeztek/Hermes-Secure-Email-Gateway
+description: Secure email gateway and mail server, deployable in front of an existing provider or standalone, with spam/malware filtering, S/MIME and PGP encryption, and bundled Nextcloud for webmail and files.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Communication - Email - Complete Solutions

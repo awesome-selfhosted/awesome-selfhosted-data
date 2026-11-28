@@ -11,16 +11,16 @@ tags:
   - Inventory Management
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/dvinyl.webp
-stargazers_count: 305
-updated_at: '2026-11-17'
+stargazers_count: 306
+updated_at: '2026-11-28'
 archived: false
 current_release:
-  tag: v4.0.0
-  published_at: '2026-11-15'
+  tag: v4.0.1
+  published_at: '2026-11-28'
 commit_history:
   2026-06: 13
   2026-07: 50
   2026-08: 160
   2026-09: 118
   2026-10: 107
-  2026-11: 71
+  2026-11: 92

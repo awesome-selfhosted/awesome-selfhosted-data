@@ -12,12 +12,12 @@ tags:
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/dolibarr.webp
-stargazers_count: 7888
-updated_at: '2026-11-22'
+stargazers_count: 7908
+updated_at: '2026-11-28'
 archived: false
 current_release:
-  tag: 24.0.3
-  published_at: '2026-11-11'
+  tag: 24.0.4
+  published_at: '2026-11-25'
 commit_history:
   2025-12: 206
   2026-01: 105
@@ -29,5 +29,5 @@ commit_history:
   2026-07: 522
   2026-08: 1049
   2026-09: 2014
-  2026-10: 2248
-  2026-11: 1533
+  2026-10: 2257
+  2026-11: 2000

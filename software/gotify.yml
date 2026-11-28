@@ -11,8 +11,8 @@ tags:
 source_code_url: https://github.com/gotify/server
 related_software_url: https://github.com/gotify/android
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/gotify.webp
-stargazers_count: 16230
-updated_at: '2026-11-20'
+stargazers_count: 16242
+updated_at: '2026-11-27'
 archived: false
 current_release:
   tag: v3.1.1
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 26
   2026-09: 22
   2026-10: 34
-  2026-11: 30
+  2026-11: 33

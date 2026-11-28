@@ -10,11 +10,11 @@ tags:
   - Self-hosting Solutions
 depends_3rdparty: true
 stargazers_count: 521
-updated_at: '2026-11-22'
+updated_at: '2026-11-26'
 archived: false
 current_release:
-  tag: v0.10.0
-  published_at: '2026-10-19'
+  tag: v0.11.0
+  published_at: '2026-11-26'
 commit_history:
   2025-12: 40
   2026-01: 26
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 73
   2026-09: 47
   2026-10: 82
-  2026-11: 42
+  2026-11: 52

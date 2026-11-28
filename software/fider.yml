@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/getfider/fider
 demo_url: https://demo.fider.io
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/fider.webp
-stargazers_count: 4632
-updated_at: '2026-11-18'
+stargazers_count: 4638
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v0.40.0
-  published_at: '2026-11-15'
+  tag: v0.41.0
+  published_at: '2026-11-25'
 commit_history:
   2025-12: 62
   2026-01: 39
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 1
   2026-09: 61
   2026-10: 89
-  2026-11: 70
+  2026-11: 81

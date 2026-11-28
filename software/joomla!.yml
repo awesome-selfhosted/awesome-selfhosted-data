@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/joomla/joomla-cms
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/joomla.webp
 stargazers_count: 5168
-updated_at: '2026-11-17'
+updated_at: '2026-11-26'
 archived: false
 current_release:
-  tag: 6.2.0
-  published_at: '2026-10-13'
+  tag: 6.2.1
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 20
   2026-01: 44
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 113
   2026-09: 88
   2026-10: 68
-  2026-11: 63
+  2026-11: 72

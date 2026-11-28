@@ -8,8 +8,8 @@ platforms:
 tags:
   - Pastebins
 source_code_url: https://github.com/orhun/rustypaste
-stargazers_count: 1218
-updated_at: '2026-11-20'
+stargazers_count: 1223
+updated_at: '2026-11-24'
 archived: false
 current_release:
   tag: v0.18.2
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 10
   2026-09: 15
   2026-10: 11
-  2026-11: 15
+  2026-11: 19

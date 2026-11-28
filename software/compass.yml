@@ -10,8 +10,8 @@ platforms:
   - K8S
 tags:
   - Personal Dashboards
-stargazers_count: 102
-updated_at: '2026-11-05'
+stargazers_count: 104
+updated_at: '2026-11-27'
 archived: false
 current_release:
   tag: 0.14.0
@@ -21,4 +21,4 @@ commit_history:
   2026-08: 20
   2026-09: 20
   2026-10: 7
-  2026-11: 32
+  2026-11: 34

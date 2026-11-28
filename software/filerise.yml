@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/error311/FileRise
 demo_url: https://github.com/error311/FileRise?tab=readme-ov-file#live-demo
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/filerise.webp
-stargazers_count: 1029
-updated_at: '2026-11-21'
+stargazers_count: 1030
+updated_at: '2026-11-25'
 archived: false
 current_release:
-  tag: v3.47.0
-  published_at: '2026-11-21'
+  tag: v3.48.0
+  published_at: '2026-11-25'
 commit_history:
   2025-12: 92
   2026-01: 47
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 9
   2026-09: 10
   2026-10: 13
-  2026-11: 19
+  2026-11: 21

@@ -10,11 +10,11 @@ tags:
 source_code_url: https://github.com/wallabag/wallabag
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/wallabag.webp
 stargazers_count: 13070
-updated_at: '2026-11-22'
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: 2.6.18
-  published_at: '2026-11-19'
+  tag: 2.6.19
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 54
   2026-01: 55
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 71
   2026-09: 68
   2026-10: 101
-  2026-11: 257
+  2026-11: 372

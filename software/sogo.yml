@@ -10,12 +10,12 @@ tags:
 source_code_url: https://github.com/Alinto/sogo
 demo_url: https://demo.sogo.nu/SOGo/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/sogo.webp
-stargazers_count: 2188
-updated_at: '2026-11-22'
+stargazers_count: 2190
+updated_at: '2026-11-25'
 archived: false
 current_release:
-  tag: SOGo-5.12.13
-  published_at: '2026-11-04'
+  tag: SOGo-5.12.14
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 7
   2026-01: 3
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 12
   2026-09: 13
   2026-10: 15
-  2026-11: 40
+  2026-11: 46

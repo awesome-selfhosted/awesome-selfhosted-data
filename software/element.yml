@@ -9,12 +9,12 @@ tags:
   - Communication - Custom Communication Systems
 source_code_url: https://github.com/element-hq/element-web
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/element.webp
-stargazers_count: 13674
-updated_at: '2026-11-20'
+stargazers_count: 13683
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v1.12.35
-  published_at: '2026-11-12'
+  tag: v1.12.36
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 151
   2026-01: 236
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 225
   2026-09: 257
   2026-10: 214
-  2026-11: 224
+  2026-11: 266

@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/chartbrew/chartbrew
 demo_url: https://app.chartbrew.com/live-demo
 icon_url: https://cdn.jsdelivr.net/gh/selfhst/icons/webp/chartbrew.webp
-stargazers_count: 4097
-updated_at: '2026-11-14'
+stargazers_count: 4098
+updated_at: '2026-11-26'
 archived: false
 current_release:
-  tag: v6.0.1
-  published_at: '2026-11-13'
+  tag: v6.0.2
+  published_at: '2026-11-27'
 commit_history:
   2025-12: 21
   2026-01: 35
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 7
   2026-09: 53
   2026-10: 55
-  2026-11: 15
+  2026-11: 27

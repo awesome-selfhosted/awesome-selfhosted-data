@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/bitwarden/server
 depends_3rdparty: true
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/bitwarden.webp
-stargazers_count: 20706
-updated_at: '2026-11-20'
+stargazers_count: 20744
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v2026.11.0
-  published_at: '2026-11-18'
+  tag: v2026.11.1
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 128
   2026-01: 109
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 147
   2026-09: 128
   2026-10: 204
-  2026-11: 122
+  2026-11: 157

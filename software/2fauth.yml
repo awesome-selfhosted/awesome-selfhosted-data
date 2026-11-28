@@ -11,12 +11,12 @@ tags:
 source_code_url: https://github.com/Bubka/2FAuth
 demo_url: https://demo.2fauth.app/
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/2fauth.webp
-stargazers_count: 4238
-updated_at: '2026-11-20'
+stargazers_count: 4248
+updated_at: '2026-11-23'
 archived: false
 current_release:
-  tag: v9.0.2
-  published_at: '2026-11-20'
+  tag: v9.0.3
+  published_at: '2026-11-23'
 commit_history:
   2025-12: 33
   2026-01: 8
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 8
   2026-09: 15
   2026-10: 33
-  2026-11: 20
+  2026-11: 26

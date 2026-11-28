@@ -9,17 +9,17 @@ platforms:
   - Docker
 tags:
   - Proxy
-stargazers_count: 270
-updated_at: '2026-11-19'
+stargazers_count: 272
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v2.3.1
-  published_at: '2026-11-16'
+  tag: v2.4.0
+  published_at: '2026-11-27'
 commit_history:
   2026-05: 134
   2026-06: 157
   2026-07: 134
   2026-08: 219
-  2026-09: 108
-  2026-10: 241
-  2026-11: 78
+  2026-09: 109
+  2026-10: 259
+  2026-11: 159

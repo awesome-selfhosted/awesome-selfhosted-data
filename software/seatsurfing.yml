@@ -8,12 +8,12 @@ platforms:
 tags:
   - Booking and Scheduling
 source_code_url: https://github.com/seatsurfing/seatsurfing
-stargazers_count: 320
-updated_at: '2026-11-22'
+stargazers_count: 321
+updated_at: '2026-11-27'
 archived: false
 current_release:
-  tag: v1.143.1
-  published_at: '2026-11-22'
+  tag: v1.144.2
+  published_at: '2026-11-27'
 commit_history:
   2025-12: 53
   2026-01: 65
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 82
   2026-09: 151
   2026-10: 118
-  2026-11: 56
+  2026-11: 75

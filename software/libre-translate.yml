@@ -10,12 +10,12 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/LibreTranslate/LibreTranslate
 icon_url: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/libretranslate.webp
-stargazers_count: 17823
-updated_at: '2026-11-14'
+stargazers_count: 17872
+updated_at: '2026-11-25'
 archived: false
 current_release:
-  tag: v1.9.6
-  published_at: '2026-05-26'
+  tag: v1.10.0
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 41
   2026-01: 17
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 7
   2026-09: 5
   2026-10: 8
-  2026-11: 2
+  2026-11: 7

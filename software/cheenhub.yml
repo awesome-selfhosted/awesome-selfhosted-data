@@ -1,0 +1,11 @@
+name: CheenHub
+website_url: https://cheenhub.ru
+source_code_url: https://github.com/loject/cheenhub
+description: Communication platform with text and voice rooms, video calls, and screen sharing (documentation in Russian).
+licenses:
+  - MIT
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Custom Communication Systems

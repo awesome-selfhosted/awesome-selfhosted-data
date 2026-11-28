@@ -1,0 +1,10 @@
+name: CookTrace
+website_url: https://traceapps.github.io/docs/cooktrace/
+source_code_url: https://github.com/TraceApps/cooktrace
+description: Recipe manager with a pantry, shopping list, cook diary and meal planner, barcode scanning with Open Food Facts, allergen warnings for your household, and an Android app (alternative to Mealie, Paprika).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Recipe Management

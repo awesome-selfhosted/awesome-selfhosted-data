@@ -1,0 +1,15 @@
+name: "DroppedNeedle"
+website_url: "https://droppedneedle.com/"
+source_code_url: "https://github.com/DroppedNeedle/DroppedNeedle"
+description: "Multi-user music request, download, and streaming server."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Media Streaming - Audio Streaming
+  - Media Management
+depends_3rdparty: true
+related_software_url: "https://github.com/DroppedNeedle/DroppedNeedle/blob/main/docs/connect-your-app.md"
+icon_url: "https://raw.githubusercontent.com/DroppedNeedle/DroppedNeedle/main/Images/logo_icon.png"

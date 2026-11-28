@@ -1,0 +1,14 @@
+name: Coneshare
+website_url: https://www.coneshare.com
+source_code_url: https://github.com/coneshare/coneshare
+description: Virtual datarooms, secure document sharing, page-level tracking, and dynamic watermarking (alternative to DocSend, PaperMark).
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+  - Go
+tags:
+  - Document Management
+  - File Transfer - Single-click & Drag-n-drop Upload
+demo_url: https://www.coneshare.com/demo

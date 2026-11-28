@@ -1,0 +1,11 @@
+name: Gotcha
+website_url: https://getgotcha.ru
+source_code_url: https://github.com/OtezVikentiy/gotcha
+description: Error tracking, tracing, metrics and uptime monitoring in one Go binary; accepts Sentry SDKs and OTLP, stores telemetry in ClickHouse (alternative to Sentry, GlitchTip).
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Ticketing

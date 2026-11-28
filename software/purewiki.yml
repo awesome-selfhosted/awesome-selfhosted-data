@@ -1,0 +1,12 @@
+name: "PureWiki"
+website_url: "https://purewiki.org"
+source_code_url: "https://github.com/PureWiki/PureWiki"
+description: "Flat-file wiki engine. No database, no Node.js and no build step. All content is stored as JSON files in the filesystem."
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+tags:
+  - Wikis
+demo_url: "https://demo.purewiki.org/"
+icon_url: "https://purewiki.org/pages/favicon.svg"

@@ -1,0 +1,12 @@
+name: Hiroba
+website_url: https://hirobaoffice.com
+source_code_url: https://github.com/ludo-technologies/hiroba
+description: Lightweight virtual office where you see who's around and walk up to talk, with peer-to-peer voice and a client built to stay open all day.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Communication - Custom Communication Systems
+demo_url: https://hirobaoffice.com/app/?invite=ZCZtDT4G3aoF5_OgC0hBs8opvmREpIFM

@@ -1,0 +1,12 @@
+name: "Spacebin"
+website_url: "https://spaceb.in"
+source_code_url: "https://github.com/lukewhrit/spacebin"
+description: "Pastebin server with server-side syntax highlighting, a JavaScript-free interface, password-encrypted pastes, collections and optional user accounts."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Pastebins
+demo_url: "https://spaceb.in"

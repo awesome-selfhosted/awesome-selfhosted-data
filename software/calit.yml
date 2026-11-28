@@ -1,0 +1,12 @@
+name: calit
+website_url: "https://asm0dey.github.io/calit"
+source_code_url: "https://github.com/asm0dey/calit"
+description: "Multi-user scheduling and appointment booking app with Google Calendar integration (alternative to Calendly)."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Booking and Scheduling
+icon_url: "https://asm0dey.github.io/calit/favicon.svg"

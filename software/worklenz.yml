@@ -1,0 +1,19 @@
+name: "Worklenz"
+website_url: "https://worklenz.com"
+source_code_url: "https://github.com/Worklenz/worklenz"
+description: "Project managmement tool that helps to plan projects, track tasks and time, balance workloads and collaborate with team members or clients all in one place."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+  - PLpgSQL
+  - Javascript
+tags:
+  - Task Management & To-do Lists
+  - Software Development - Project Management
+  - Time Tracking
+  - Analytics
+  - Personal Dashboards
+  - Resource Planning
+icon_url: "https://s3.us-west-2.amazonaws.com/worklenz.com/assets/icon-144x144.png"

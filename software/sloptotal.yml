@@ -1,0 +1,12 @@
+name: SlopTotal
+website_url: https://sloptotal.com
+description: Detect AI-generated text by running 23 open detectors on your own hardware and showing every engine's score.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Generative Artificial Intelligence (GenAI)
+source_code_url: https://github.com/pablocaeg/sloptotal
+demo_url: https://sloptotal.com

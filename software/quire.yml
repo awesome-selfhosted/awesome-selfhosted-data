@@ -1,0 +1,10 @@
+name: Quire Server
+website_url: https://github.com/vitofico/quire
+source_code_url: https://github.com/vitofico/quire
+description: "Quire Server syncs your reading progress and highlights across devices through its openly documented REST API. It also supports optional AI-powered book insights."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Document Management - E-books

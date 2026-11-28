@@ -1,0 +1,11 @@
+name: "Hugo Admin"
+website_url: "https://github.com/sun-praise/hugo-admin"
+source_code_url: "https://github.com/sun-praise/hugo-admin"
+description: "Self-hosted admin interface for Hugo static sites with live Hugo dev-server control, gRPC plugin system, theme management."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Content Management Systems (CMS)

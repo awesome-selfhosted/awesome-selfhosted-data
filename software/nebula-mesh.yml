@@ -1,0 +1,13 @@
+name: nebula-mesh
+website_url: "https://github.com/forgekeep/nebula-mesh"
+source_code_url: "https://github.com/forgekeep/nebula-mesh"
+description: "Web-based management server for Slack's Nebula mesh VPN, with host enrollment, certificate management and configuration distribution."
+licenses:
+  - MIT
+platforms:
+  - Go
+  - deb
+  - Docker
+tags:
+  - Network Utilities
+  - Remote Access

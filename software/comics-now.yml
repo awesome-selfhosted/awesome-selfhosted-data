@@ -1,0 +1,12 @@
+name: Comics Now
+website_url: https://comicsnow.github.io/
+source_code_url: https://github.com/ComicsNow/comics-now
+description: Modern comic book library server and offline reader. Featuring a guided smart reader, CBZ/CBR/EPUB/PDF support, reading lists, story arcs, and multi-device sync. In-built multi-source comic tagger and MCP server available as well.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Python
+  - Docker
+tags:
+  - Document Management - E-books
